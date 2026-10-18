@@ -1,0 +1,487 @@
+# Eesti — ids 0-499
+0 LOB
+1 SKA
+2 KÜL
+3 UNI
+4 BLO
+5 Tas.%d
+6 VAIDLE
+7 KOTT
+8 PÕGENE
+9 MEESKOND
+10 PP %d/%d
+11 Mõju puudub
+12 Väga tõhus
+13 Vähe tõhus
+14 Tagasi
+15 Selle rünnaku jaoks pole enam PP-d!
+16 Sinu kord, %s!
+17 %s saadab välja: %s!
+18 Aga %s on juba hädas…
+19 %s on juba lobistide poolel!
+20 Keskpankuri vahendeid ei külmutata!
+21 %s on lobi mõju all!
+22 %s on skandaali mässitud!
+23 %s: vahendid on külmutatud!
+24 %s jääb öise tippkohtumise keskel magama!
+25 %s on komisjonis kinni!
+26 Argumenteerimine
+27 Vastupidavus
+28 Asjatundlikkus
+29 Diplomaatia
+30 Reaktsioon
+31 Täpsus
+32 Põiklemine
+33 %s: %s ei saa enam tõusta!
+34 %s: %s ei saa enam langeda!
+35 %s: %s tõuseb palju!
+36 %s: %s tõuseb!
+37 %s: %s langeb palju!
+38 %s: %s langeb!
+39 %s kasutab: %s!
+40 (trump)%s kasutab: %s!
+41 %s valmistab ette 400-leheküljelist toimikut…
+42 Aga keegi ei lange diivanilõksu kaks korda!
+43 %s plagieerib vastast!
+44 Aga plagieerida pole midagi…
+45 %s kasutab artiklit 50 ja lahkub väitlusest!
+46 %s kasutab artiklit 50 ja läheb minema!
+47 %s kasutab artiklit 50… aga läbirääkimised kestavad aastaid!
+48 %s kaitseb end vetoga!
+49 „VETO!” Vastane blokeerib otsuse, mis nõuab ühehäälsust.
+50 Aga %s lööb mööda!
+51 %s on juba desinformeeritud!
+52 %s on desinformeeritud!
+53 Aga %s: HP on juba täis!
+54 %s saab HP-d tagasi!
+55 %s teeb kosutava uinaku!
+56 Aga seekord veto ei lähe läbi!
+57 %s lehvitab oma vetoõigusega!
+58 Kaitseklausel! Kõik muudatused tühistatakse.
+59 %s: sõnumid on kustutatud… Jälgegi pole järel!
+60 Struktuurifondide raha sajab väljakule!
+61 %s satub diivanile!
+62 Aga midagi ei juhtu…
+63 See ei mõjuta: %s…
+64 Kriitiline tabamus!
+65 Tabas %d korda!
+66 See on väga tõhus!
+67 See pole eriti tõhus…
+68 %s on lõputu menetluse lõksus!
+69 %s imeb vahendeid!
+70 %s saab tagasilöögi!
+71 Mündid lendavad igale poole!
+72 %s on tegutsemiseks liiga rabatud!
+73 %s magab sügavalt… (kell on 4 hommikul)
+74 %s ärkab! Tippkohtumine on läbi.
+75 %s pääseb lõpuks komisjonist välja!
+76 %s: vahendid on külmutatud! Ei saa tegutseda.
+77 %s on oma allikaid kontrollinud!
+78 %s on desinformeeritud…
+79 Ta levitab valeinfot ja diskrediteerib iseennast!
+80 Orbán läks kohvi jooma! Tema Euromon ootab nõutult.
+81 %s langeb lobistide mõju alla!
+82 Skandaal pritsib: %s!
+83 %s on menetlusse kinni jäänud!
+84 %s on K.O.!
+85 %s õpib: %s!
+86 %s tahab õppida: %s, aga oskab juba nelja rünnakut.
+87 Ära õpi
+88 Millise rünnaku unustada?
+89 1, 2, 3… Hops! %s unustab: %s…
+90 … ja õpib: %s!
+91 %s ei õpi: %s.
+92 %s saab %d kogemuspunkti!
+93 %s tõuseb tasemele %d!
+94 {P} viskab: %s!
+95 Ongi tehtud! %s on kantud Euroopa Liidu Teatajasse!
+96 %s: andmed lisatakse Eurodexi.
+97 %s saadetakse Arhiivi.
+98 Oh ei! %s rabeles lahti!
+99 Ahh! See oli nii lähedal!
+100 Pagan! Ainult üks tempel puudus!
+101 Ahh! Menetlusviga!
+102 %s lükati rahvahääletusel tagasi! Seda ei saa püüda.
+103 Teise treeneri Euromoni ei püüta! See oleks skandaal.
+104 {P} kasutab: %s!
+105 Millisel Euromonil?
+106 %s saab HP-d tagasi.
+107 %s tunneb end paremini.
+108 %s on taas teenistuses!
+109 Sellel ei ole mingit mõju.
+110 Praegu pole õige hetk!
+111 Keda väitlusele saata?
+112 Keda saata?
+113 %s ei ole väitlusvõimeline!
+114 %s on juba väljakul!
+115 Tule tagasi, %s!
+116 partner
+117 konkurent
+118 süsteemne rivaal
+119 Vastase Euromon esitleb end nüüd kui… %s! (tüüp %s)
+120 %s %s tahab väidelda!
+121 Oh! Kromaatiline %s!
+122 Ilmub metsik %s!
+123 Mida {P} teeb?
+124 Ametlikust väitlusest ei lahkuta! See oleks nõrkuse tunnistamine.
+125 Põgened varuväljapääsu kaudu!
+126 Põgeneda ei saa: istungit pole lõpetatud!
+127 %s esitab oma argumendi… Laud on nii pikk, et kohale jõudmine võtab terve käigu!
+128 Eelmise käigu argument jõuab lõpuks laua teise otsa!
+129 %s kavatseb saata: %s.
+130 Jätka
+131 Vaheta Euromon
+132 Vahetada Euromon?
+133 {P} võidab väitluse eest %d €!
+134 {P} korjab üles %d € struktuurifondide raha.
+135 — VAHEPALA —
+136 A: edasi    START: jäta vahele
+137 Jah
+138 Ei
+139 Puuduta või vajuta A
+140 Aitäh mängimast!
+141 LÕPP… peaaegu.
+143 Salvestus on loetamatu!
+144 Professor Schuman
+145 Tere, tere! Tere tulemast Euroopa Liidu imelisse… ja veidi bürokraatlikku… maailma!
+146 Minu nimi on Robert Schuman. Võib-olla oled minust kuulnud: lugu söest, terasest ja 9. maist… Ma räägin selle sulle.
+147 Sellest ajast peale asustavad seda maailma imelikud olendid: EUROMONID!\fDirektiivid, määrused, muudatusettepanekud, küpsisebännerid… Nad elavad toimikuhunnikutes ja koridoride vaipkattes.
+148 Mõned koguvad neid, teised lasevad neil väidelda. Mina uurin neid. Seda nimetatakse… komiteemenetluseks!
+149 Aga räägime sinust. Täna hommikul oodatakse Euroopa Parlamenti kahte praktikanti…
+150 Vasakul Alex, uus praktikant (tüdruk). Paremal Max, uus praktikant (poiss). Kes sina oled?
+151 Alex, tüdruk
+152 Max, poiss
+153 Suurepärane! Ja kuidas ma peaksin sind ametlikult kutsuma? See tuleb kirja panna kõigis 24 keeles, nii et vali hoolega.
+154 Sinu eesnimi (kuni 10 tähte):
+155 {P}! Suurepärane. Lasen selle kohe malta keelde tõlkida.
+156 See on Oliver, sinu praktikandist kolleeg, otse Londonist. Ta on… väga enesekindel.
+157 Hello! Don't worry, {P}, minust saab kogu Liidu parim praktikant. Easy.
+158 Teie mõlema ülesanne on lihtne: saada vastu võetud ÜKS direktiiv.\fDirektiiv kellakeeramise lõpetamise kohta. Parlament kiitis selle heaks 2019. aasta märtsis…
+159 … ja sellest ajast peale magab see nõukogus. Nagu paljud asjad.
+160 Selleks on teil vaja Euroopa suurlinnade 8 märki, veenda Euroopa Ülemkogu ja komisjoni presidenti ennast!\fNoh, {P}. Sinu praktika algab nüüd. See on tasustamata, aga hariv!
+161 Suur/väike
+162 Kustuta
+163 Kas teadsid? Parlament kolib Strasbourgi kaksteist korda aastas, koos kohvritega.
+164 ELis on 24 ametlikku keelt. Sinu praktikant räägib poolteist.
+165 Nõuanne: pudeli külge kinnitatud korgid ei kao enam ära (direktiiv 2019/904).
+166 Laadimine… nagu kellakeeramise lõpp: hääletatud 2019, ikka ootel.
+167 ELi lipul on 12 tähte. See pole riikide arv: see on täiuslikkuse sümbol.
+168 Schumani deklaratsioon pärineb 9. maist 1950. 9. mai on Euroopa päev!
+169 Euromündid jõudsid taskutesse 1. jaanuaril 2002.
+170 Alates 2017. aasta juunist pole Euroopas rändlustasusid. Helista emale Lissabonist!
+171 Universaalne USB-C laadija on kohustuslik alates 2024. aasta lõpust. Hüvasti, juhtmesahtel.
+172 Erasmus sündis 1987. Miljonid üliõpilased on sellest ajast õppinud pastat keetma.
+173 Schengeni lepe allkirjastati 1985 laeval, Moseli jõel, Luksemburgis.
+174 Euroopa Parlamendis on alates 2024. aastast 720 liiget.
+175 Nõuanne: söökla ravib kogu su meeskonna. Kohv seevastu ei ravi midagi.
+176 Nõuanne: jookse, hoides B all. Berlaymonti koridorid on pikad.
+177 Banaanide kõverust käsitlev määrus (1994) on olemas… aga see räägib peamiselt kvaliteedist.
+178 GDPR (2018) kinkis sulle küpsisebännerid. Väga palju küpsisebännereid.
+179 Nobeli rahupreemia anti Euroopa Liidule 2012.
+180 Rooma leping (1957) lõi Euroopa Majandusühenduse.
+181 Maastrichti leping (1992) lõi Euroopa Liidu ja nägi ette euro.
+182 Lissaboni leping (2007) sisaldab artiklit 50. Seda on kasutanud ainult üks riik.
+183 Ühendkuningriik lahkus EList 31. jaanuaril 2020. Oliver pole sellest siiani toibunud.
+184 Nõuanne: ametlikud templid püüavad nõrgestatud Euromone paremini.
+185 Nõuanne: öisel tippkohtumisel magama jäänud Euromoni on lihtsam püüda.
+186 Berlaymontist eemaldati asbest aastatel 1991–2004. Ehituskoosolek oli pikk.
+187 ELi Kohus asub Luksemburgis, Kirchbergi platool.
+188 EKP asub Frankfurdis. Selle torn läks plaanitust kallimaks. Inflatsioon ilmselt.
+189 Simone Veil oli otsevalitud Euroopa Parlamendi esimene president 1979. aastal.
+190 Komisjonis on 27 volinikku: üks riigi kohta. Isegi Austria kalanduspoliitika jaoks.
+191 Nõuanne: menüü avamiseks vajuta X.
+192 Doonau voolab läbi kümne riigi. Sinu kingad ainult läbi kahe.
+193 Euroopa päeval ilmub haruldane Euromon. Proovi 9. mail!
+194 ELi tõlkeid tehakse miljoneid lehekülgi aastas.
+195 Euroopa hümn on Beethoveni „Oodi rõõmule”, ilma ametlike sõnadeta.
+196 Nõuanne: Õigus-tüüpi rünnakud on Lobi vastu väga tõhusad.
+197 Nõuanne: veto blokeerib rünnaku, aga mitte sinu otsusekindlust.
+198 Brexit kestis nii kaua, et leiutati sõna „Brextension”.
+199 Parlamendil on igas liikmesriigis kontaktbüroo.
+200 Nõuanne: räägi kõigiga. Isegi Place Luxi tuvi.
+201 Taanil on euro suhtes erand. Ta hoiab oma krooni, ja oma viikingid.
+202 Laadin 27 riiklikku arvamust… 26/27… Ootame Ungarit.
+203 Kas teadsid?
+204 Laadimine…
+205 Meeskond
+206 Kott
+207 Kaart
+208 Aruanne
+209 Seaded
+210 %lu h %02lu
+211 HP
+212 K.O.
+213 Tas.%d   nr %03d
+214 Kog.
+215 Edasi
+216 B: tagasi
+217 Vaheta kellega… ?
+218 A: vali   B: tagasi
+219 Kokkuvõte
+220 Liiguta
+221 Ravi
+222 Templid
+223 Lahing
+224 Võtmed
+225 Metsikud Euromonid jätavad sind mõneks ajaks rahule.
+226 %s: PP on taastatud.
+227 Sellel pole mõju.
+228 Praegu pole õige hetk seda kasutada.
+229 ×%d
+230 (tühi)
+231 Kasuta
+232 nr %03d  %s
+233 Püüa see Euromon, et lugeda tema kaarti.
+234 EURODEX   Nähtud: %d   Püütud: %d
+235 Salvestusmeediumit ei leitud.\fDS-il (DS Pico, R4…) käivita mäng SD-kaardilt. Emulaatoris luba DLDI/SD-kaart või kasuta olekusalvestusi.
+236 Kirjutada edenemisaruanne (pesa %d)?
+237 Salvesta
+238 Muu pesa…
+239 Tühista
+240 Aruanne saadetud 24 keeles. Mäng salvestatud (pesa %d)!
+241 SD-kaardile kirjutamine ebaõnnestus. Proovi uuesti.
+242 Seaded
+243 Faktide allikad
+244 Tagasi tiitlisse
+245 Tagasi tiitlikuvale? Kõik salvestamata läheb kaotsi.
+246 ◀  × %d  ▶
+247 Kokku: %d €
+248 A: kinnita   B: tühista
+249 Osta
+250 Müü
+251 Head aega
+252 Müüja
+253 Tere tulemast Parlamentariumi poodi! Kõik on garanteeritult CE-märgisega.
+254 Sinu eelarve: %lu €
+255 Sinu kotis: %d
+256 Paistab, et su eelarve on… kululae all.
+257 Aitäh! Ja siin on Supertempel kingituseks, hulgiostu eest!
+258 Aitäh ostu eest! Arve kolmes eksemplaris.
+259 See? See ei ole müügiks, see on strateegilise tähtsusega ese!
+260 Tehing tehtud!
+261 Head aega! Ära unusta: USB-C laadija müüakse eraldi.
+262 MEESKOND → ARHIIV (%d/%d)
+263 ARHIIV → MEESKOND (%d/%d)
+264 ◀▶ pool   A: liiguta   B: välju
+265 {P} lülitab sisse Arhiivi terminali. „Tere tulemast dokumendihaldussüsteemi.”
+266 Meeskonnas peab olema vähemalt üks Euromon!
+267 Meeskond on täis (kuni 6 Euromoni).
+268 Eelotsus
+269 Euro
+270 Istungisaal
+271 OXI
+272 Artikkel 50
+273 Veto
+274 Trahv
+275 Sorbonne
+276 Jean-Claude Juncker, Luksemburg
+277 Christine Lagarde, Frankfurt
+278 Roberta Metsola, Strasbourg
+279 Yanis Varoufakis, Ateena
+280 Farage & Johnson, London
+281 Viktor Orbán, Budapest
+282 Margrethe Vestager, Brüssel
+283 Emmanuel Macron, Pariis
+284 LEPINGUTE MÄRGIKARP
+285 saadud
+286 vallutamata
+287 Märk %s — andis %s.
+288 Mis? %s areneb!
+289 Lükkasid reformi edasi. %s ei arenenud.
+290 Palju õnne! %s arenes: %s!
+291 Aeg: %d s
+292 Punktid: %d / %d
+293 Minimäng
+294 Täiskogu hääletus
+295 Saadikud saabuvad istungisaali! Puuduta iga kollaselt süttivat kohta enne, kui see kustub. 25 häält 30 sekundiga!
+296 Juhatus
+297 Puuduta kollaseid kohti!
+298 Vastu võetud suure häälteenamusega! Aplaus kõigilt pinkidelt.
+299 Kvoorumit ei ole. Istung katkestatakse…
+300 Tempel
+301 Dokumendid libisevad üle laua. Puuduta igaüht, et see templiga varustada enne, kui see ekraanilt lahkub. 15 dokumenti!
+302 Puuduta dokumente, et neid templiga varustada
+303 Kõik dokumendid on templiga! Haldus on sinu üle uhke.
+304 Mõned dokumendid läksid ilma templita. Nad peavad kogu ringi uuesti tegema…
+305 Küpsisebännerid
+306 Küpsisebännerid vallutavad ekraani! Puuduta igaühel „Keeldu”. Kui kuus bännerit kuhjub, oled kaotanud. Pea vastu 25 sekundit!
+307 (mingi suvaline veebileht)
+308 Me austame
+309 sinu privaatsust
+310 Nõustu
+311 Keeldu
+312 Keeldu kõigest! (ära klõpsa Nõustu)
+313 Kõik küpsised keelatud! GDPR on sinu üle uhke.
+314 Bännerite alla mattunud… Nõustusid 437 reklaamipartneriga.
+315 Öine tippkohtumine
+316 Kell on 3 öösel ja 27 riigijuhti jäävad magama! Puhu mikrofoni (või puuduta magavat pead), et neid äratada. 27 äratust enne koitu!
+317 %d.%02d
+318 Puhu / puuduta magavat pead!
+319 Kõik on ärkvel! Kokkulepe saavutatud kell 4.37. Nagu tavaliselt.
+320 Päike tõuseb magavate juhtide laua kohal. Tippkohtumine lükatakse edasi.
+321 Strasbourgi kohvrid
+322 Laadi saadikute kohvrid rongi, järjekorras: 1, 2, 3… kuni 10. Sul on 30 sekundit!
+323 Perroon — TGV Strasbourg ⇄ Brüssel
+324 Kohvrid
+325 Puuduta kohvreid järjekorras!
+326 Kõik kohvrid on rongis! Istungjärk võib alata.
+327 Rong läks kohvriteta. Saadikud istuvad pidžaamas.
+328 Keel
+329 Teksti kiirus
+330 Teksti heli
+331 Muusika helitugevus
+332 Lahinguanimatsioonid
+333 Aeglane
+334 Tavaline
+335 Kiire
+336 ↑↓ / pliiats: keri    B: tagasi
+337 Tegijad
+338 SD-kaart
+339 kassett
+340 puudub
+341 {P} saab %d × %s!
+342 {P} saab: %s!
+343 — Tühi pesa —
+344 Eurodex: %d
+345 Jätka: vali mäng
+346 Uus mäng: pesa
+347 Salvesta…
+348 Selles pesas on juba mäng. Kirjutada üle?
+349 Uus mäng
+350 Tegijad & allikad
+351 Peamenüü
+352 Mitteametlik paroodia · v2.0
+353 Sinu elu praktika
+354 VAJUTA START
+355 {P} saab: %s!
+356 Meeskond on täis: see läheb Arhiivi.
+357 {P}-l pole enam väitlusvõimelisi Euromone…\f{P} jookseb pea norus tagasi sööklasse.
+358 Söökla töötaja
+359 Noh, hea tass kohvi ja jälle edasi! Su Euromonid on tippvormis.
+360 Eelotsuse märk
+361 Euro märk
+362 Istungisaali märk
+363 OXI märk
+364 Artikkel 50 märk
+365 Veto märk
+366 Trahvi märk
+367 Sorbonne'i märk
+368 {P} saab: %s!
+369 Sinu Eurodexis on %d püütud Euromoni %d nähtust.
+371 See on algus! Väikesed sammud teevad suuri liite.
+372 Pole paha! Liigud kiiremini kui suveaja direktiiv.
+373 Muljetavaldav! Isegi komisjonil pole nii palju toimikuid.
+374 Erakordne! Sa oled üksi terve institutsioon.
+375 {P} leiab: %s!
+376 Värbamiskeelu klausel on aegunud.
+377 Brüssel
+378 Luksemburg
+379 Frankfurt
+380 Strasbourg
+381 Ateena
+382 London
+383 Budapest
+384 Pariis
+385 Antwerpen
+386 Varssavi
+387 Rooma
+388 Maastricht
+389 Lissabon
+390 Piletimüüja
+391 Praegu pole sihtkohti saadaval.
+392 Muud sihtkohad…
+393 Rongi peale! Rong väljub… vaid mõneminutilise hilinemisega.
+394 Diplomaat
+395 Josep Borrell, endine kõrge esindaja, ütles 2022: „Euroopa on aed, ülejäänud maailm on džungel.” See tekitas… teatava kära.
+397 Kuusteist aastat kantslerina. Sadu tippkohtumisi. 2015 ütlesin: „Wir schaffen das” — me saame hakkama.
+398 Aga sina, kas sina saad hakkama? Olen nõukogu esimene liige. Keegi ei pääse mööda ilma kompromissita.
+399 Wir haben es geschafft. Võid edasi minna. Mario ootab sind… 400-leheküljelise aruandega.
+401 Juuli 2012, London. Ütlesin kolm sõna: „Whatever it takes”. Euro päästeti. Turud rahunesid.
+402 2024. aastal nõudis minu konkurentsivõime aruanne kuni 800 miljardit investeeringuid aastas. Investeeri sellesse väitlusse.
+403 Tegid kõik, mis vaja. Kaja Kallas ootab sind. Ta on… väga otsekohene.
+405 Välisasjade kõrge esindaja alates 2024. aasta detsembrist. Eesti endine peaminister.
+406 Maailm on ohtlik. Pean teadma, kas suudad suurriikidele vastu pidada. Näita mulle.
+407 Kindel. Seda läheb sul vaja. President Costa ootab sind. Ta loodab enne südaööd valmis saada.
+409 Euroopa Ülemkogu eesistuja alates 2024. aasta detsembrist! Kell on 23.54. Kui lõpetame enne südaööd, on see ajalooline esmakordsus.
+410 Aga kõigepealt: kõik riigijuhid on laua ümber magama jäänud. Aita mul neid äratada! Puhu mikrofoni… või koputa ekraanile!
+411 Kell on… 4.37. No hea küll. Nagu tavaliselt. Väitleme ikkagi.
+412 Euroopa Ülemkogu kiidab su kandidatuuri ühehäälselt heaks! Noh… ühehäälselt miinus üks konstruktiivne erapooletus.
+413 Komisjoni president ootab sind Berlaymonti 13. korrusel. See on viimane samm enne direktiivi.
+415 Ah, tere. Olen Charles Michel, Euroopa Ülemkogu endine eesistuja. Ma lihtsalt… istun. Ainsal toolil.
+416 Ankaras 2021. aasta aprillis võtsin tugitooli. Ursula sattus diivanile. Seda nimetati „Sofagate'iks”. Ma pole sellest kunagi päriselt toibunud.
+418 Tere tulemast 13. korrusele. Jah, ma elan siin: kabineti kõrval on väike tuba. See on kiireloomuliste asjade jaoks praktiline.
+419 Komisjoni president alates 2019, tagasi valitud 2024. Roheline kokkulepe, koroonakriis, vaktsiinid…
+420 Sõnumid Pfizeri juhiga? 2025. aasta mais tühistas ELi Üldkohus meie keeldumise anda need New York Timesile. Noh. Edasi.
+421 Tahad suveaja direktiivi? Võida mind. Team Europe, lõpuks saab alles jääda vaid üks.
+422 Erakordne. Sa oled komisjoni ajaloo parim praktikant. Siin on… kellakeeramise lõpetamise direktiiv.
+423 Jääb vaid see allkirjastada. Formaalsus! Piisab sellest, et…
+424 Suurriigid ootavad! Antwerpen, Varssavi, Pireus… Võta rong.
+425 Sa päästsid Euroopa. Ja direktiiv on… komitees. Nagu alati. Aitäh kõige eest, {P}.
+426 PIIKS PIIKS PIIKS! Kolm kiirsõnumit saabuvad korraga kõigisse Berlaymonti telefonidesse.
+428 HELLO EUROPE! Mul on väike palve. Pisike. Panen kõigele tollid. Ja tahaksin osta Gröönimaa. Seda saab ju osta, eks?
+429 Teine sõnum, idast: „Gaasikraan on suletud. Teie enda huvides.” Allkiri: V. P.
+430 Kolmas sõnum, väga viisakas: „Peatame haruldaste muldmetallide ekspordi. Teie telefonid töötavad… halvemini.” Allkiri: X. J.
+431 {P}, direktiiv peab ootama. Suurriigid tahavad Euroopa põlvili suruda. Peame neid külastama. Kõiki kolme.
+432 Antwerpeni sadam, Varssavi ja Pireuse sadam Ateenas. Jaamad on sulle avatud. Team Europe loodab sinule!
+434 Olen NATO peasekretär. Haagi tippkohtumisel 2025. aasta juunis võtsime kohustuse liikuda 2035. aastaks 5% SKPst kaitsele.
+435 Ja ma kutsusin Donaldit „issiks”. Noh. See oli kujund. Talle meeldis väga. Mine, ta on griinil.
+437 2025. aasta veebruaris Müncheni julgeolekukonverentsil selgitasin eurooplastele, mis on demokraatia. Nad olid… üllatunud.
+438 SEE ON MAAILMA KAUNEIM GOLFIVÄLJAK. Ostsin selle just ära. Ma arvan. Sadama ka, võib-olla.
+439 2. aprill 2025, Liberation Day! Lehvitasin suurt tabelit tollidega KÕIGILE. Isegi saartele, kus on ainult pingviinid.
+440 2025. aasta juulis minu golfiväljakul Turnberrys tegime Ursulaga diili: 15%. Aga ma võin meelt muuta. Ma muudan tihti meelt. See on strateegia.
+441 Ja Gröönimaa! See on suur, see on valge, see on suurepärane. Taani ei taha müüa. VÄGA EBAÕIGLANE. Väitleme, ja kui ma võidan, ostan selle!
+442 See oli võltsitud. Täiesti võltsitud. Noh. Jätame 15%. Ja Gröönimaa jääb Taanile. Praegu. Postitan õhtul midagi suurtähtedega.
+444 Tere tulemast Varssavisse. Poola peaminister, Euroopa Ülemkogu endine eesistuja. Siin teatakse, mida vabadus väärt on.
+445 Volodõmõr Zelenskõi
+446 Alates 2022. aasta veebruarist on mu riik Venemaa sissetungile vastu pidanud. Aitäh, Euroopa, toetuse eest. Palee on seal üleval: ole ettevaatlik.
+447 Võta see REPowerEU komplekt: Euroopa on õppinud Vene gaasita hakkama saama. Seda on sul vaja, et seal soojas püsida.
+448 Vladimir Putin
+449 Istu. Ei… kaugemale. Nii. 2022. aasta veebruaris võtsin presidente vastu sellelt kauguselt. See on… mugavam.
+450 Gaas? Ma sulgesin kraani. Valimised? 2024. aasta detsembris tühistas Rumeenia konstitutsioonikohus presidendivalimised sekkumise tõttu. Ma ei saa aru, millest me räägime.
+451 Siin kulub su argumentidel terve käik, et jõuda laua teise otsa. Alustame.
+452 …Sinu REPowerEU komplekt on tõhus. Väljapressimine ei tööta enam. Mine, enne kui ma lauda lühendan.
+453 Valvur
+454 Need kaks pandat on Hiina laenanud Euroopa loomaaiale. Seda nimetatakse „pandadiplomaatiaks”. Nad söövad päevas 40 kg bambust. Pandad, mitte diplomaadid.
+456 Tere tulemast. Euroopa Liit kirjeldab meid alates 2019. aastast kui partnerit, konkurenti ja süsteemset rivaali. Mina olen samuti kõik kolm.
+457 Teie maksustate meie elektriautosid — kuni 35% alates 2024. aasta oktoobrist. Meie maksustame teie konjakit. Ja hoiame silma peal oma haruldastel muldmetallidel. See on tasakaalus.
+458 Selles väitluses vahetab mu Euromon igal käigul tüüpi: partner, konkurent, rivaal. Edu järele jõudmisel.
+459 Hmm. Austust vääriv partner. Haruldased muldmetallid jätkavad teekonda. Pandad jäävad, nad on väga populaarsed.
+460 Väike kollane karupoeg läheb konteineri tagant mööda. Ilmub silt: „Sisu pole sinu piirkonnas saadaval.”
+461 Sõnum presidendilt: „Kolm suurriiki nõuavad tippkohtumist. Kohe. G-Kõik tippkohtumine. Saadan su sinna.”
+462 MINA OLIN SEE, KES SELLE TIPPKOHTUMISE VÄLJA MÕTLES.
+463 Laud on liiga lühike.
+464 Me kõik oleme partnerid. Ja rivaalid.
+465 Kas alustame? Mina esimesena. Kõik ütlevad, et ma olen parim alustaja.
+466 Teeme ettepaneku alustada… pärast küpset kaalumist. Viiekümne aasta pärast.
+467 Miks Euroopa laua taga istub? Ta pidi istuma lisatoolil.
+468 LISATOOL ON TREMENDOUS. Ma müün neid.
+469 Kõik räägivad korraga. Tõlgid annavad alla. Jääb vaid üks lahendus: väitlus.
+470 Saalis on vaikus. Kolm suurriiki vaatavad üksteisele otsa… ja siis Euroopale.
+471 Team Europe! Koos oleme tugevamad kui eraldi. See on ju natuke kogu Liidu lugu, eks?
+472 Konkreetsed saavutused, {P}. Tegelik solidaarsus. Ma ütlesin seda 1950. Sina tegid selle ühe praktikaga.
+473 Ja kellakeeramise lõpetamise direktiiv? See saadeti tagasi… komiteesse.
+474 Aga see on juba teine lugu.
+475 Seiklus jätkub! Uued rongid sõidavad Rooma, Maastrichti ja Lissaboni. Räägitakse, et seal magavad legendaarsed Euromonid… Ja keegi ootab sind Brüsseli jaamas.
+476 Antiikne kuju Kapitooliumi väljakul. 25. märtsil 1957 allkirjastasid kuus riiki siin Rooma lepingu. Midagi liigub…
+477 Siin, 7. veebruaril 1992, andis Maastrichti leping elu Euroopa Liidule. Hiiglaslik euromünt hakkab helendama…
+478 13. detsembril 2007 allkirjastati Lissaboni leping Jerónimose kloostris. Läbipaistev kuju läheneb…
+479 Eemal põgeneb teine Euromon: Constitutio. 2005. aastal tagasi lükatuna ei lase ta end kunagi püüda.
+480 Esimene praktikapäev Euroopa Parlamendis! Professor Schuman ootab sind Parlamendi fuajees.
+481 Sinu arvuti näitab 437 lugemata e-kirja. Kõigi teema on „Koordineerimiskoosolek koosolekute teemal”.
+482 Parc Léopold. Hoiatus: toimikuhunnikutes elavad metsikud Euromonid. Ärge söötke Amendone.
+483 Berlaymont — Euroopa Komisjon. Ainult volitatud isikutele. 13. korrus: presidendi kabinet (ja magamistuba).
+484 „Euroopat ei ehitata korraga ega ühtse kava järgi: see ehitatakse konkreetsete saavutuste kaudu.” — Robert Schuman, 9. mai 1950.
+485 Lobist
+486 Tere! Ma ei tegele lobitööga. Ma tegelen „asjatundlikkuse jagamisega”. Väike suupiste? See on lõhega. Norra omaga.
+487 Turist
+488 Excuse me, kus on Manneken Pis? Mulle öeldi, et ta on suurem… Mulle on sellel reisil palju valetatud.
+489 Laps
+490 Kui ma suureks saan, hakkan tõlgiks! 24 keeles. Või tuletõrjujaks, see on rahulikum.
+491 Ajakirjanik
+492 Olen ELi kajastanud kakskümmend aastat. Minu lemmikpealkiri: „Brüssel ütleb ei”. See töötab iga kord.
+494 Sa võitsid… Räägitakse, et suveaja direktiiv on nõukogus kinni olnud alates 2019. Edu sulle.
+495 Turvamees
+496 Ardennide tee? Mitte ilma Euromonita! Metsikud toimikud on sel eelarvehooajal agressiivsed.
+497 Seis! Keegi ei lahku Brüsselist ilma Euromonita. Mine kõigepealt professor Schumani juurde, Parlamenti.
+498 Valvur
+499 13. korrus? Üles võivad minna vaid need, kes on Euroopa Ülemkogu veennud. Ja kõigepealt on vaja kaheksat märki.

@@ -1,0 +1,157 @@
+# Magyar — computer mini-games
+1928 Prince Mbeki III
+1929 4 millió eurós örökség megosztásra
+1930 Dízellobbi
+1931 Meghívó: homárvacsora
+1932 HR-osztály
+1933 Koordinációs értekezlet az értekezletekről
+1934 SuperPromo
+1935 Ingyenes telefonod vár rád
+1936 Qatar Events
+1937 Egy kis bőrönd neked?
+1938 BiztonságBank
+1939 Itt erősítsd meg a jelszavad
+1940 Newsletter
+1941 47 izgalmas GDPR-újdonság
+1942 A plenáris ülés napirendje
+1943 Anya
+1944 Rendesen eszel Brüsszelben?
+1945 Kantin
+1946 A nap menüje: waterzooi
+1947 A Bíróság Hivatala
+1948 Az ítéletet délig kézbesíteni kell
+1949 Bizottság
+1950 Holnap szavazás a költségvetésről
+1951 Frissült az Eurodexed
+1952 Vita ma este? Én fogok nyerni.
+1953 Beérkező levelek
+1954 437 olvasatlan e-mail! Érints meg egy valódi levelet, hogy elolvasd, és a piros X-et, hogy kidobd a spamet. Intézz el 20-at, mielőtt a postafiók megtelik!
+1955 Olvasás: érintés · Spam: piros X
+1956 Hibák: %d / 3
+1957 Üres postafiók! 2019 óta először. Élvezd, nem tart sokáig.
+1958 Megtelt a postafiók! A Bizottság szervere épp összeomlott. Megint.
+1959 Kidobtad az elnök asszony levelét, és válaszoltál a hercegnek. A legjobbakkal is megesik.
+1960 2024 óta az EU-ban árult új telefonokon USB-C csatlakozónak kell lennie.
+1961 Igaz: az egységes töltőről szóló irányelv 2024 vége óta érvényes.
+1962 Az EU tiltja a túl görbe banán árusítását.
+1963 Hamis: egy 1994-es rendelet minőség szerint osztályozta a banánt. A görbét ma is árulják.
+1964 Az európai zászlón azért van 12 csillag, mert 12 tagállam volt.
+1965 Hamis: a 12 a tökéletesség jelképe. A zászló 1955-ös, jóval a 12 tagállam előtti.
+1966 Az Európai Parlament havonta egy hétig Strasbourgban ülésezik.
+1967 Igaz: évi 12 ülésszak Strasbourgban, a hozzá tartozó ládákkal együtt.
+1968 Az uniós biztosokat közvetlenül a polgárok választják.
+1969 Hamis: a kormányok jelölik őket, majd a Parlament hagyja jóvá.
+1970 Az Európai Uniónak 24 hivatalos nyelve van.
+1971 Igaz: az írtől a máltaiig minden szöveget lefordítanak mind a 24 nyelvre.
+1972 Minden uniós ország az eurót használja.
+1973 Hamis: 2026-ban 27 országból 21 használja. Bulgária csatlakozott utoljára.
+1974 A mobilbarangolási díjakat 2017-ben eltörölték az EU-ban.
+1975 Igaz: 2017 júniusa óta mindenhol „úgy, mint otthon” telefonálhatsz.
+1976 Az európai himnusz Beethoven Örömódája.
+1977 Igaz: hivatalos szöveg nélkül, hogy egyik nyelv se sértődjön meg.
+1978 Luxemburg az EU legkisebb országa.
+1979 Hamis: Málta az, nagyjából 316 km².
+1980 Az Európai Unió megkapta a Nobel-békedíjat.
+1981 Igaz: 2012-ben, 60 év békéért és megbékélésért.
+1982 A GDPR 2018 óta védi a személyes adatokat.
+1983 Igaz: 2018. május 25. óta alkalmazandó. Innen a sok sütis felugró ablak…
+1984 Az EU-ban tilos a görbe uborkát árulni.
+1985 Hamis: a görbületükre vonatkozó szabványt 2009-ben eltörölték.
+1986 A kupakoknak a műanyag palackhoz rögzítve kell maradniuk.
+1987 Igaz: 2024 júliusa óta kötelező, hogy ne a természetben kössenek ki.
+1988 Svájc az Európai Unió tagja.
+1989 Hamis: a schengeni övezet része, de az EU-nak nem tagja.
+1990 Az Európai Központi Bank székhelye Brüsszelben van.
+1991 Hamis: Frankfurtban van, Németországban.
+1992 Álhírvadász
+1993 Az Európáról szóló pletykák gyorsabban terjednek, mint az irányelvek! Minden állításnál érintsd meg: IGAZ vagy HAMIS. 10-ből 7 jó válasz kell.
+1994 IGAZ
+1995 HAMIS
+1996 Igaz vagy hamis?
+1997 %d. kérdés / 10
+1998 Helyes!
+1999 Túl késő!
+2000 Nem talált!
+2001 Érintsd meg a folytatáshoz
+2002 Bravó! Minden álhírt leleplezted. A tényellenőrök fel akarnak venni.
+2003 Túl sok álhír terjedt el… Az „IgaziEurópa2027” fiók 10 000 új követőt szerez.
+2004 Bolgár
+2005 Cseh
+2006 Dán
+2007 Német
+2008 Görög
+2009 Angol
+2010 Spanyol
+2011 Észt
+2012 Finn
+2013 Francia
+2014 Ír
+2015 Horvát
+2016 Magyar
+2017 Olasz
+2018 Litván
+2019 Lett
+2020 Máltai
+2021 Holland
+2022 Lengyel
+2023 Portugál
+2024 Román
+2025 Szlovák
+2026 Szlovén
+2027 Svéd
+2028 Fordítószolgálat
+2029 Egész Európából érkeznek az üzenetek! Olvasd el mindegyiket, és küldd a megfelelő tolmácsfülkébe. 12 üzenet 45 másodperc alatt. Egy hiba 3 másodpercbe kerül!
+2030 Tolmácsfülkék
+2031 Küldd az üzenetet a jó fülkébe
+2032 Minden üzenet célba ért! A Fordítási Főigazgatóság állást ajánl neked. 24 nyelven.
+2033 Egy szlovák üzenet a szlovénekhez került… A diplomáciai botrányt épp fordítják.
+2034 Energiaválság! Az árak az egekben.
+2035 Lezárás: senki nem vásárol semmit.
+2036 Óriási helyreállítási tervet szavaztak meg az éjjel!
+2037 Tőzsdekrach Frankfurtban!
+2038 Chiphiány!
+2039 A háztartások minden fillért félretesznek.
+2040 Te vezeted az EKB-t! Nő az infláció? Emeld a kamatot. Csökken? Vidd lejjebb. Tartsd a zöld zónában (2 % körül) legalább az idő felében. 40 másodperc!
+2041 Infláció: %s
+2042 Kamat: %s
+2043 Csökkentés
+2044 Emelés
+2046 Az infláció kordában! A piacok tapsolnak, a megtakarítók nyugodtan alszanak.
+2047 Elszabadult az infláció… A kantinban épp duplájára drágult a kávé.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Egységes töltő
+2053 2024 óta kötelező az USB-C! Érintsd meg a még régi csatlakozós eszközöket, hogy szabályossá tedd őket. Az USB-C-seket semmiképp! 20 eszköz 30 másodperc alatt.
+2054 Régi portok igen, USB-C nem!
+2055 Mind szabályos! Egy töltő mindenkinek. Európa kábeles fiókjai fellélegezhetnek.
+2056 „Szabályossá tettél” egy eszközt, ami már USB-C-s volt. Most három adaptere van.
+2057 Túl sok régi kábel úszta meg az irányelvet… A kábeles fiók csordultig van.
+2058 A számítógéped. 437 olvasatlan e-mail villog a képernyő sarkában.
+2059 Posta
+2060 Kikapcsolás
+2061 Felugrik egy értesítés: „Gratulálunk a termelékenységéhez!” Az asztal alatt egy csomag várt rád.
+2062 Üres postafiók. Három másodperccel később: „Vá: Koordinációs értekezlet az értekezletekről”.
+2063 A levelezőszerver homokórát mutat. Valószínűleg holnap is azt fogja mutatni.
+2064 A sajtószolgálat számítógépe. A képernyőn: „Álhírvadász egység – ellenőrizendő pletykák: 2384”.
+2065 Szép tényellenőrző munka! A sajtószolgálat neked adja ezeket a szakértői jelentéseket. Ezek legalább forrásoltak.
+2066 A nap összes pletykáját ellenőrizték. Ebédig jön még több.
+2067 Egy álhírt épp 40 000-szer osztottak meg. A cáfolatot 12-szer.
+2068 A Fordítási Főigazgatóság terminálja. Egy piros lámpa villog: „Továbbításra váró üzenetek”.
+2069 A tolmácsok fuldokolnak a munkában! Szétválogatnád az üzeneteket, és elküldenéd őket a jó fülkébe?
+2070 Huszonnégy nyelv, egyetlen téves továbbítás sem! Fogd ezt a címjegyzéket, a Bíróság összes tolmácsa benne van.
+2071 Jobban megkülönbözteted a szlovént a szlováktól, mint a Tanács fele.
+2072 Egy máltai üzenet az ír fülkébe került. Még mindig vitatkoznak rajta. Próbáld újra, amikor csak akarod.
+2073 Egy Bloomberg-terminál, még meleg. Egy cetlin: „Cél: 2 %. Nem 1,9. Nem 2,1. 2.”
+2074 Átveszed az euróövezet monetáris politikájának irányítását?
+2075 A piacok üdvözlik az óvatosságodat. Stabilitási bónusz landol a számládon!
+2076 Infláció 2 %-on. Valahol Frankfurtban egy közgazdász elmorzsol egy örömkönnyet.
+2077 A terminál hullámvasút alakú grafikont mutat. Senki nem látott semmit. Gyorsan kezdd újra.
+2078 Az EP-képviselő asszony számítógépe. Az asztalon 14 különböző töltő gubancolódik.
+2079 Megszavaztam az USB-C-irányelvet! De a kollégáimnak még régi eszközeik vannak… Segítesz szabályossá tenni őket?
+2080 Egy töltő mindenkinek! Tessék, fogd ezt az USB-C kulcsot. Azt mondják, bizonyos digitális Euromonokat fejlődésre bír.
+2081 A kábeles fiók végre üres. Már nem is tudom, mit tegyek bele.
+2082 Még mindig mindenhol Lightning-kábelek vannak… Próbáljuk újra, amikor csak akarod.
+2083 Zöld zóna: %d %%
+2084 Cél: az idő felében zöldben
+2085 Dock 30

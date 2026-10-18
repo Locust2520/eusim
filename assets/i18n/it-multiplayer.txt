@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Dibattito multigiocatore
+2148	Crea una stanza
+2149	Entra in una stanza
+2150	Gioca con chiunque
+2151	Nome della stanza
+2153	PIN (6 cifre)
+2145	In attesa di giocatori…
+2146	Ricerca ogni 10 secondi.
+2147	PIN: %s
+2118	Annulla (B)
+2117	Conferma (A)
+2116	←→: posizione    ↑↓: cifra
+2152	Inserisci un nome per la stanza.
+2113	Risposta del server non valida.
+2135	Richiesta stanza non valida.
+2136	Il nome della stanza è già in uso.
+2137	Stanza non trovata.
+2138	PIN errato.
+2139	La stanza è piena.
+2140	Le versioni del gioco sono diverse.
+2141	Il server è pieno.
+2142	La stanza è scaduta.
+2143	Scambio del dibattito non valido.
+2144	Il server è stato arrestato.
+2108	Dibattito annullato.
+2109	Il server non risponde.
+2110	Connessione al server interrotta.
+2111	L’altro giocatore ha lasciato il dibattito.
+2115	I dibattiti non sono sincronizzati.
+2114	In attesa dell’altro giocatore… B: annulla
+2123	Connessione Wi-Fi… B: annulla
+2124	Impossibile avviare il Wi-Fi.
+2125	Controlla le impostazioni Wi-Fi della console.
+2126	Impossibile creare la connessione.
+2127	Impossibile configurare la connessione.
+2128	Server non raggiungibile.
+2129	Ti serve una squadra per dibattere.

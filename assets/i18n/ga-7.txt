@@ -1,0 +1,322 @@
+# Gaeilge — completion (ids 1157-1518)
+1157 RGCS
+1185 ATC
+1200 An luchtaire uilíoch, éigeantach ó 2024.
+1201 Fake news
+1202 Ráfla víorasach. Mífhaisnéisíonn sé an sprioc.
+1203 Roaming
+1204 Gan táillí fánaíochta a thuilleadh! Gníomhaíonn sé ar dtús.
+1205 Acht IS
+1206 An chéad rialachán domhanda ar an IS (2024).
+1207 Trolláil
+1208 Trácht gránna. Féadann sé mearbhall a chur ar an sprioc.
+1209 Croitheadh Lámh
+1210 Láidir agus fada, os comhair na ngrianghrafadóirí.
+1211 Caibidlíochtaí go dtí 5 a chlog ar maidin. Cuireann sé an sprioc a chodladh.
+1212 Comhréiteach
+1213 Cailleann gach duine beagán, gnóthaíonn tusa PV.
+1214 Smachtbhannaí
+1215 Paicéad nua smachtbhannaí. Féadann sé an Dioplómaíocht a laghdú.
+1216 Tolg
+1217 Sofagate (Ancara, 2021): cailleann an sprioc a seal. An chéad seal amháin.
+1218 Ateangaireacht
+1219 Aistrithe go 24 teanga. Cailltear rud beag.
+1220 Comhaontú
+1221 Comhaontú stairiúil, sínithe ag an nóiméad deireanach.
+1222 Soft power
+1223 Draíocht na hEorpa. Dioplómaíocht +2.
+1224 Petits fours
+1225 Cóisir chocktail ag Cearnóg Lux. Titeann an sprioc faoi thionchar.
+1226 Cás
+1227 Cás lán go maith, caite le fuinneamh.
+1228 Mála Nótaí
+1229 Nótaí bainc i ngach áit. Tá an pháirc clúdaithe leo.
+1230 Nóta Seasaimh
+1231 Leasú réidh le húsáid, scríofa cheana.
+1232 Aistriú Príobháideach
+1233 Aistríonn sé chun na hearnála príobháidí. Imoibríocht +2.
+1234 Tionchar
+1235 Focal sleamhnaithe sa chluas cheart.
+1236 Doras Rothlánach
+1237 Níl aon duine cinnte a thuilleadh cé atá ag obair do cé.
+1238 Sluán
+1239 Trí fhocal, gan aon chaolchúis.
+1240 Bus Dearg
+1241 « 350 milliún in aghaidh na seachtaine! » Féadann sé mífhaisnéis a dhéanamh.
+1242 Meigeafón
+1243 Screadann sé níos airde ná gach duine eile.
+1244 Euromiotas
+1245 Finscéal faoin Bhruiséil, go hiontach inchreidte.
+1246 TREMENDOUS
+1247 An buille is fearr riamh. Argóint +3.
+1248 Dleachtanna Custaim
+1249 Liberation Day (2 Aibreán 2025). Féadann sé an Athléimneacht a laghdú.
+1250 Post i gCeannlitreacha
+1251 TEACHTAIREACHT SCRÍOFA GO HIOMLÁN I GCEANNLITREACHA.
+1252 Not laughing
+1253 « You're not laughing now! » (2016). Féadann sé an Dioplómaíocht a laghdú.
+1254 Post Bréagach
+1255 Jab nach bhfuil ann, ach a chosnaíonn airgead.
+1256 Ceilt
+1257 Dodhéanta a aimsiú ag an oifig. Seachaint +2.
+1258 SMS Scriosta
+1259 Níl teachtaireacht ar bith fágtha. Cuireann sé ar ceal buanna an iomaitheora.
+1260 Taibhsiú
+1261 Comhad a fhilleann le taibhsiú a dhéanamh ar a údar.
+1262 Duillín Pá
+1263 Tuarastal íoctha gan fáth. Faigheann sé PV ar ais.
+1264 Eactoplasma
+1265 Láithreacht iontach taibhsiúil sa Pharlaimint.
+1266 Bunreacht
+1267 Diúltaíodh di in 2005… ach tá cumhacht ar mire inti.
+1268 Conradh na Róimhe
+1269 1957: bunú an Chomhphobail Eacnamaíochta Eorpaigh.
+1270 1992: an Aontas agus an t-airgeadra aonraic.
+1271 2007: an conradh a chuir in ionad an Bhunreachta.
+1272 Cré-Mhiotail Tearca
+1273 Cuireann sé srian ar onnmhairiú. Féadann sé cistí a reo.
+1274 An Tábla Fada
+1275 Fáiltíonn sé romhat ag ceann tábla sé mhéadar ar fad. Seachaint +2.
+1276 Céile Comhraic Córasach
+1277 Comhpháirtí, iomaitheoir, céile comhraic. Féadann sé an Dioplómaíocht a laghdú.
+1278 An Ghraonlainn
+1279 Déanann sé iarracht oileán iomlán a cheannach. Damáiste mór.
+1280 Rugadh é leis an gComhaontú Glas 2019. Eascraíonn péac nua gach uair a vótáiltear caighdeán astaíochtaí.
+1281 Sprioc Aeráide
+1282 Déanann sé traenáil chun a chuid astaíochtaí a laghdú 55% faoi 2030. Áiríonn sé gach calra.
+1283 Neodracht
+1284 Tá sé ag dréim le neodracht charbóin in 2050. Idir an dá linn, cuireann sé crann le gach coiscéim.
+1285 Carn beag guail ón CECA 1951. Dubhaíonn sé gach rud a bhaineann sé leis, le fonn mór.
+1286 Caitheann a shimné drithlíní nuair a bhíonn fearg air. Tá brionglóid aige: fostaíocht iomlán.
+1287 Cruach Choiteann
+1288 Deilte as gual agus cruach a chuirtear i gcomhpháirt. Is cruthúnas é gur féidir síocháin a dhéanamh.
+1289 Adamh
+1290 Adamh beag fiosrach, rugadh é ó chonradh Euratom 1957. Ní fhanann sé socair.
+1291 Imoibreoir
+1292 Castann a chuid leictreoin chomh tapa go lasann sé seomra iomlán. Tíos roghnach.
+1293 Scoilteann sé ina dhá leath nuair a chuirtear fearg air. Ní labhraíonn sé féin agus na Glasaigh le chéile a thuilleadh.
+1294 Stampa
+1295 Stampa beo a dheimhníonn gach rud a chastar air. Stampáil sé a dhresálaí féin cheana.
+1296 Comhadán Sínithe
+1297 Cuireann sé a pharaf ar gach leathanach ag an bhun ar dheis. Tógann sé ceithre huaire an chloig air in aghaidh an chonartha.
+1298 Daingniú
+1299 Ní bhogann sé ach nuair a deir 27 parlaimint náisiúnta tá. Codlaíonn sé go mór dá bharr.
+1300 Iolraíonn sé faoi mhílte le gach téacs dlí. Faigheann an Pharlaimint 2000 díobh in aghaidh tuarascála uaireanta.
+1301 Bac Nós Imeachta
+1302 Cuireann sé an oiread sin leasuithe isteach go gcuireann sé bac ar an seisiún iomlán. Teicníc dhea-chleachta.
+1303 Bratach Fianán
+1304 Tá sé le feiceáil os comhair gach dorais ón RGCS 2018. Ní leor é a dhiúltú riamh.
+1305 Toiliú
+1306 Iarrann sé do thoiliú le haghaidh gach rud, ansin le haghaidh an toilithe féin. Tá sé go sibhialta ar fad.
+1307 Luchtaire
+1308 Éigeantach ar gach gléas ó dheireadh 2024. Chuir sé tarraiceán iomlán cáblaí ar dífhostaíocht.
+1309 Corc
+1310 Níor fhág sé a bhuidéal ó mhí Iúil 2024. Buaileann sé do shrón agus tú ag ól.
+1311 Sop Caillte
+1312 Coisctha ó 2021, ceaptar go raibh sé imithe in éag. Taibhsíonn sé thart ar na bialanna mearbhia san oíche.
+1313 Banana
+1314 Socraíonn rialachán 1994 a cháilíocht. Caitheann sé a shaol ag tomhas a chuaire féin.
+1315 Fánaíocht
+1316 Taistealaíonn sé gach áit gan táille ó mhí an Mheithimh 2017. Glaonn sé ar a mháthair ó gach teorainn.
+1317 Gan Teorainneacha
+1318 Thug sé cuairt ar na 27 tír in aon deireadh seachtaine amháin agus phostáil sé gach rud beo. Gan muirear breise.
+1319 Fágann an creimire beag seo ar feadh seimeastair thar lear agus filleann sé débhéarlach. Rugadh é in 1987.
+1320 Malartú
+1321 Bhí sé ina chónaí i 12 chomhroinnt tí agus cócaráileann sé pasta i 9 teanga.
+1322 Bonn
+1323 Bonn €2 a rolláil i ngach áit ó 2002. Tá 27 aghaidh náisiúnta féideartha aige.
+1324 Airgeadra Aonraic
+1325 Roinneann fiche tír a neart. Nuair a chasann duine amháin, bíonn fiabhras ar na cinn eile.
+1326 Saorghluaiseacht
+1327 Rugadh é ar bhád ar an Mósaile in 1985. Ní choinníonn teorainn ar bith siar é.
+1328 Luibhicíd
+1329 Athcheadaíodh é ar feadh deich mbliana in 2023. Croitheann na fiailí fiáine agus é ag gabháil tharstu.
+1330 Mangaire
+1331 Siúlann sé na dorchlaí le mála cáipéisí níos mó ná é féin. Ní dhéanann sé lobaíocht, déanann sé « eolas a roinnt ».
+1332 Tionchróir
+1333 Tá aithne aige ar uimhir gach cúntóir parlaimintí. Agus a gcuid ailléirgí.
+1334 Meigea-Lobaí
+1335 Duine de 25 000 lobaí na Bruiséile, i bhfoirm ollmhór. Athscríobhann sé dlíthe ina chodladh.
+1336 Trunc Iarainn
+1337 Trunc iarainn a dhéanann an Bhruiséil–Strasbourg dhá uair déag sa bhliain. Tá tinneas taistil air.
+1338 Aistriú
+1339 Iompraíonn sé parlaimint iomlán ina bholg. Costas an turais: ná fiafraigh.
+1340 Athrú Uaire
+1341 Vótáil an Pharlaimint ar a dhíothú in 2019. Fillfidh sé fós dhá uair sa bhliain.
+1342 Calaois
+1343 Tá sé ag cneasú ó 2015: glan ar an bhinse tástála, deataithe ar an bhóthar.
+1344 Feachtasaíonn sé don uachtaránacht… ansin ceaptar duine eile ina ionad.
+1345 Ateangaire
+1346 Labhraíonn sé 24 teanga, i gcónaí le moill dhá soicind.
+1347 Trí cheann: Parlaimint, Comhairle, Coimisiún. Sroicheann siad comhaontú timpeall 4 a chlog ar maidin.
+1348 Níl a fhios ag duine ar bith go cinnte cad a dhéanann sé. Suíonn sé ar 300 coiste mar sin féin.
+1349 Foirm
+1350 Carn foirmeacha i dtrí chóip. Bíonn leathanach amháin ar iarraidh i gcónaí.
+1351 Cartlanna
+1352 Coinníonn sé gach rud, fiú na nótaí greamaitheacha ó 1958. Córas comhdaithe: aibítreach agus mothúchánach.
+1353 Feirmeoir Beag
+1354 Faigheann sé íocaíocht CBT do gach heicteár. Áiríonn sé a chuid heicteár gach maidin.
+1355 Súnn sé trian de bhuiséad na hEorpa gan cor. Bíonn ocras air i gcónaí.
+1356 Polasaí Feirme
+1357 Nuair a chuireann sé bac ar an mótarbhealach lena thraictir, déanann fiú an Chomhairle caibidlíocht.
+1358 Páirceálann sé os comhair na Parlaiminte ag gach athchóiriú. Adharc ráthaithe.
+1359 Cáis
+1360 Cáis bheag bainne amha a bholaíonn go láidir. Tá bród air as a thír dhúchais.
+1361 Cosnaithe ag ainmniúchán tionscnaimh. Ionchúisítear gach aithris.
+1362 Pralín
+1363 Seacláid Bheilgeach go deas lách. Leánn sé nuair a thugtar moladh dó.
+1364 Sceallóg Bheilgeach
+1365 Friochta faoi dhó, mar is cóir. Diúltaíonn sé go hiomlán glaoch « French » air.
+1366 Colm
+1367 Tá cónaí air ag Cearnóg an Lucsamburg agus goideann sé sceallóga na lobaithe. Tá aithne aige ar gach ráfla.
+1368 Fear Beag
+1369 Dealbh bheag 55 cm le níos mó feisteas ná an Pharlaimint ar fad.
+1370 Atomium
+1371 Naoi sféar chruaigh ceangailte i gcriostal, ó Expo 58. Lonraíonn sé os cionn na Bruiséile san oíche.
+1372 Oiliúnaí
+1373 Oibríonn sé go crua agus níl sé íoctha. Deir sé gur « taithí oilte » atá ann.
+1374 Gníomhaire Sealadach
+1375 Críochnaíonn a chonradh i gceann trí mhí. Tá sé á athnuachan le sé bliana.
+1376 D'éirigh leis i gcomórtas EPSO. Níl eagla air faoi rud ar bith a thuilleadh, ach athchóiriú na bpinsean.
+1377 Cnáimhseálaí
+1378 Tá sé ina choinne. Is cuma cad é, tá sé ina choinne.
+1379 Óráidí
+1380 Téann sé in airde ar gach tábla chun béic ar an slua. Fiú sa cheaintín.
+1381 Deamagóg
+1382 Geallann sé gach rud do gach duine. Imíonn a chuid gealltanas ag breacadh an lae.
+1383 Mífhaisnéis
+1384 Athraíonn sé cruth de réir an duine atá ag féachaint air. Roinntear é go mór.
+1385 Cuntas Bréagach
+1386 Róbat beag a dhéanann trácht ar gach rud i gceannlitreacha. Níor chodail sé riamh.
+1387 Feirm Trollanna
+1388 Deich míle cuntas i mbosca amháin. Tá aithne mhaith ag toghcháin air.
+1389 Foghlaimíonn sé ó gach rud a dhéanann tú. Tá a fhios aige cheana cad a bheidh tú a ghabháil.
+1390 IS Rialáilte
+1391 Chuir an chéad rialachán domhanda ar an intleacht shaorga (2024) smacht air.
+1392 Boilscíonn sé beagán gach mí. Faireann teaghlaigh go géar air.
+1393 Hipearbhoilsciú
+1394 Chomh mór sin go gcuireann sé bac ar na sráideanna. Ardaíonn an BCE na rátaí chun é a chaolú.
+1395 Difear Ráta
+1396 Síneann sé le gach ráiteas ciotach ó bhaincéir ceannais.
+1397 Airgeadra Cripte
+1398 Is fiú fortún é ar maidin agus faic istoíche. Is breá leis na cóstaí rollaithe.
+1399 Cripte Rialáilte
+1400 Chuir an rialachán MiCA iallach air carbhat a chaitheamh. Tá sé níos ciúine anois.
+1401 Buiséad Cothrom
+1402 Ní chaitheann sé rud ar bith riamh, ní fiú a chuid fuinnimh. A ghlao: « Schwarze Null! »
+1403 Troika
+1404 Trí chat: BCE, an Coimisiún, CAI. Déanann siad cuntais a chéile a iniúchadh le chéile.
+1405 Buaf a chroitheann « níl! » ag gach togra a dhéantar. Is leor é féin chun stop a chur le gach rud.
+1406 Aontoilíocht
+1407 Éilíonn sé aontoilíocht do gach cinneadh, ansin diúltaíonn sé féin dó.
+1408 Bacainn
+1409 Fileann sé a luaithe a labhraítear ar sheiceálacha teorann. Tá a bhoth féin aige.
+1410 Imeacht
+1411 Theastaigh uaidh imeacht in 2016, d'imigh sé in 2020, agus is minic a bhíonn aiféala air. Fágann sé an comhrac go minic.
+1412 Comhairliúchán
+1413 Bosca vótaí a chuireann ceisteanna simplí faoi fhadhbanna casta.
+1414 Íoctha ag an Pharlaimint, ní raibh sé ann riamh. Ní fhaca duine ar bith riamh é ag obair.
+1415 Tá badge, conradh agus duillín pá aige. Ach níl oifig ar bith aige.
+1416 Aimsíodh é lán le nótaí bainc in árasán sa Bhruiséil i mí na Nollag 2022.
+1417 Mála Láimhe
+1418 Cás beag a théann ó lámh go lámh ag bun na Parlaiminte.
+1419 Píblíne
+1420 1 200 km ar fad faoin mhuir. Rialaíonn duine eile a sconna.
+1421 Casann a chuid lann a luaithe a shéideann tú air. Is fuath leis laethanta gan ghaoth.
+1422 Gaoth Mhuirí
+1423 Tá cónaí air amach ó chósta na Mara Thuaidh agus soláthraíonn sé cumhacht do chathracha iomlána.
+1424 Painéal Gréine
+1425 Codlaíonn sé san oíche agus oibríonn sé go crua sa lá, go háirithe sa Spáinn.
+1426 Cuireann sé stop le praghsanna ag ardú ró-ard. Tá pian ina mhuineál ón bhrú go léir.
+1427 Dleacht Chustaim
+1428 Cánachaíonn sé gach rud a théann thairis. Fiú duilleoga marbha.
+1429 Cogadh Trádála
+1430 Croitheann sé clár ollmhór cánacha. Athraíonn na figiúirí gach maidin.
+1431 Cloch bheag a bhfuil gach fón ag brath uirthi. Tá faireachas ar a honnmhairiú.
+1432 Panda Taidhleoireachta
+1433 Ar iasacht do zú Eorpach ar feadh cúpla bliain. Itheann sé bambú agus comhaontuithe trádála.
+1434 Ábhar Nach Bhfuil ar Fáil
+1435 Níl an béirín buí seo le feiceáil in aon réigiún. Baineadh a chuntas.
+1436 Colm Dlíodóra
+1437 Neadaíonn sé ar thúir na Cúirte Breithiúnais ag Kirchberg agus durdálann sé i Laidin.
+1438 Dearbhú
+1439 Aithrisíonn sé dearbhú an 9 Bealtaine 1950 do dhuine ar bith a éistfeadh leis. Feictear é ag Lá na hEorpa.
+1440 Duais Nobel
+1441 Bonn a bronnadh ar an Aontas Eorpach in 2012. Lonraíonn sé le bród.
+1442 Ceobhrán
+1443 Néal beag Bruiséalach. Cuireann sé fearthainn ort 200 lá sa bhliain.
+1444 Lón Gnó
+1445 Lón oibre a mhaireann trí uair an chloig. Déantar níos mó cinntí ansin ná sa seomra.
+1446 Comhaontú Trádála
+1447 Tá sé faoi chaibidlíocht ó 1999. Nuair a bhogann sé coiscéim ar aghaidh, sánn na traictir ar ais é.
+1448 Rugadh é an 25 Márta 1957 ag an Capitol. Bhunaigh sé an Comhphobal Eacnamaíochta Eorpach.
+1449 Conradh Maastricht
+1450 Rugadh é san Ísiltír in 1992. Chruthaigh sé an Aontas agus bhrionglóid sé an euro.
+1451 Conradh Liospóin
+1452 Sínithe in 2007, ghlac sé an chuid is mó de bhunreacht nár tháinig solas an lae air riamh.
+1453 Diúltaíodh dó trí reifreann sa Fhrainc agus san Ísiltír in 2005. Teitheann sé a luaithe a dhruideann tú leis.
+1454 Níl ach ionsaí amháin aige, agus éiríonn leis i gcónaí. Shábháil sé an euro le abairt amháin.
+1455 Stampa Oifigiúil
+1456 Stampálann sé Euromon lagaithe chun é a chlárú.
+1457 Sárstampa
+1458 Dúch neartaithe. Níos éifeachtaí ná stampa simplí.
+1459 Stampa Cáilithe
+1460 Tromlach cáilithe: seans mór go n-éireoidh leis an ghabháil.
+1461 Stampa Aontoilíoch
+1462 An aontoilíocht! Gabháil ráthaithe. Fíorannamh.
+1463 Caife Cheaintín
+1464 Athchóiríonn sé 20 PV. Patuar, ach éifeachtach.
+1465 Ceapaire Club
+1466 Athchóiríonn sé 50 PV. Is fearr le oiliúnaithe é.
+1467 Vaiféal Bruiséalach
+1468 Athchóiríonn sé 120 PV. Siúcra reoáin san áireamh.
+1469 Kniddelen
+1470 Speisialtacht Lucsamburgach. Athchóiríonn sé 200 PV.
+1471 Biachlár Iomlán
+1472 Cúrsa tosaigh, príomhchúrsa, milseog: athchóiríonn sé gach PV.
+1473 Tuairim Dlíthiúil
+1474 Cneasaíonn sé gach fadhb stádais.
+1475 Clog Aláraim
+1476 Dúisíonn sé Euromon a chuir cruinniú mullaigh a chodladh.
+1477 Tairiscint Athbheochana
+1478 Tugann sé Euromon atá K.O. ar ais chun plé.
+1479 Athbheochan Aontoilíoch
+1480 Athbheoigh sé Euromon atá K.O. lena chuid PV go léir.
+1481 Sos Ceardchumainn
+1482 Athchóiríonn sé gach PP de chuid Euromon.
+1483 Pointí Plé
+1484 I gcomhrac: ardaíonn sé an Argóint.
+1485 Veist Philéardhíonach
+1486 I gcomhrac: ardaíonn sé an Athléimneacht.
+1487 Tuarascáil Saineolaí
+1488 I gcomhrac: ardaíonn sé an Saineolas.
+1489 Leabhar Seoltaí
+1490 I gcomhrac: ardaíonn sé an Dioplómaíocht.
+1491 Dúbailte Eiprisó
+1492 I gcomhrac: ardaíonn sé an Imoibríocht.
+1493 Cosc Mangaireachta
+1494 Clásal frith-mhangaireachta: coinníonn sé Euromoin 100 coiscéim ar shiúl.
+1495 Cuireann sé iallach ar roinnt Euromonnaí forás a dhéanamh. Tá 27 síniú de dhíth.
+1496 Cuireann sé iallach ar roinnt Euromonnaí fuinnimh forás a dhéanamh.
+1497 Eochair USB-C
+1498 Cuireann sé iallach ar roinnt Euromonnaí digiteach forás a dhéanamh.
+1499 Ciclipéid Euromonnaí, bronntanas ó Jean Monnet.
+1500 Suaitheantas Rochtana
+1501 Osclaíonn sé doirse na Parlaiminte. Dath: oiliúnaí.
+1502 Suaitheantas OLAF
+1503 Ligeann sé duit na cúntóirí taibhse a fheiceáil.
+1504 Pas Eorpach
+1505 Bordó, 32 leathanach, osclaíonn gach teorainn.
+1506 Pas Interrail
+1507 Taistil ar traein ar fud na hEorpa.
+1508 Fearas REPowerEU
+1509 Chun an teas a chasadh ar ais nuair a ghearrtar an gás.
+1510 Cognac
+1511 Buidéal luachmhar. Forchánáilte ó 2024…
+1512 Cárta Cheaintín
+1513 Creidmheas: €3,40. Go leor le haghaidh caife.
+1514 An Treoir Uaire
+1515 An treoir a chuireann deireadh leis an athrú uaire (2019).
+1516 Trunc ón aistriú Bruiséil–Strasbourg.
+1517 Cás Suaitheantas
+1518 Coinníonn sé suaitheantais na gconarthaí.

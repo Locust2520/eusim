@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Online
+2165	Fără internet
+2166	Creează un joc local
+2167	Intră într-un joc local
+2156	Jocuri din apropiere
+2158	Fără router sau server.
+2159	Repornește jocul pentru a schimba modul Wi-Fi.
+2163	Mod DS: rețea deschisă/WEP. Pentru WPA2, pornește jocul în modul DSi.
+2162	Wi-Fi DSi: verifică rețeaua WPA2 și setările consolei.
+2160	Conectare la Wi-Fi DSi… B: anulează
+2161	Conectare la Wi-Fi DS… B: anulează
+2154	Consola nu răspunde.

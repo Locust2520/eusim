@@ -1,0 +1,501 @@
+# Suomi — ids 1000-1499
+1000 Hyvää Eurooppa-päivää! Nähdään ensi vuonna.
+1001 Tekno
+1002 Liittovalt.
+1003 Suvereeni
+1004 Liberaali
+1005 Sosiaali
+1006 Vihreä
+1007 Teollisuus
+1008 Energia
+1009 Juridinen
+1010 Raha
+1011 Maatalous
+1012 Digi
+1013 Diplo
+1014 Lobby
+1015 Populisti
+1016 Haamu
+1017 Tarkistus
+1018 Muuttaa vastustajan tekstiä, kohta kerrallaan.
+1019 Paperisota
+1020 Hautaa kohteen lomakkeiden alle.
+1021 Muistio
+1022 Sisäinen muistio, hyvin jämäkkä.
+1023 Kokous
+1024 Koordinointikokous, joka nukuttaa kaikki.
+1025 Kuiva leima
+1026 Puhdas ja virallinen leimanisku.
+1027 Komitologia
+1028 Kukaan ei ymmärrä menettelyä. Ei edes kohde.
+1029 Oikoluku
+1030 Lukee asiakirjansa uudelleen. Nostaa Sietokykyä paljon.
+1031 Direktiivi
+1032 Sitova teksti, joka on pantava täytäntöön pikaisesti.
+1033 Asetus
+1034 Suoraan sovellettava kaikissa jäsenvaltioissa.
+1035 Trilogi
+1036 Parlamentti, neuvosto, komissio: osuu 2–5 kertaa.
+1037 Kiire
+1038 Kiireellinen menettely: toimii ensin.
+1039 Kahvitauko
+1040 Kahvi ruokalassa. Palauttaa puolet HP:stä.
+1041 Plagiointi
+1042 Kopioi vastustajan viimeisimmän hyökkäyksen.
+1043 Vuosikertomus
+1044 Latautuu vuoron ja tyrmää sitten 400 sivulla.
+1045 Integraatio
+1046 Pieni askel kohti yhä tiiviimpää unionia.
+1047 Toissijaisuus
+1048 Toimii oikealla tasolla. Nostaa Diplomatiaa.
+1049 Euroopan yhdysvallat
+1050 Suuri liittovaltiounelma, täydellä teholla.
+1051 Team Europe
+1052 Kaikki yhdessä! Solidaarinen rynnäkkö.
+1053 Sisämarkkinat
+1054 Poistaa rajat… ja vastustajan Diplomatian.
+1055 Kaksitoista tähteä
+1056 Kaksitoista kultaista tähteä, jotka eivät koskaan osu ohi.
+1057 Kärkiehdokas
+1058 Spitzenkandidat-kampanja. Usein kriittisiä osumia.
+1059 Laajentuminen
+1060 Toivottaa uudet jäsenet tervetulleiksi. Argumentointi +2.
+1061 Estää kaikki hyökkäykset tällä vuorolla. Yksimielisyys on pyhää.
+1062 Raja
+1063 Palauttaa tarkastukset. Voi laskea Reaktiota.
+1064 Opt-out
+1065 Vapauttaa itsensä yhteisistä säännöistä. Sietokyky +2.
+1066 Kansanäänestys
+1067 Yksinkertainen kysymys, monimutkaiset seuraukset.
+1068 Artikla 7
+1069 Pidättää oikeuksia. Vastustajan Argumentointi -2.
+1070 Poistuu taistelusta… jos neuvottelut onnistuvat.
+1071 Hyvitys
+1072 ”I want my money back!” Saa HP:tä takaisin.
+1073 Suvereniteetti
+1074 Ottaa kontrollin takaisin rytinällä.
+1075 Kilpailu
+1076 Vapaa ja vääristymätön, mutta se sattuu.
+1077 Vapaakauppa
+1078 Kauppasopimus nollatulleilla.
+1079 Sääntelyn purku
+1080 Poistaa suojat. Vastustajan Sietokyky -2.
+1081 Start-up
+1082 Disruptiivinen ja nopea. Toimii ensin.
+1083 Näkymätön käsi
+1084 Sitä ei näe tulevan. Ei koskaan osu ohi.
+1085 Samaan aikaan
+1086 Oikealta ja vasemmalta, osuu 2–5 kertaa.
+1087 Valuminen
+1088 Valuttaa euroja kentälle.
+1089 Lakko
+1090 Kaikki pysähtyy. Jäädyttää kohteen varat.
+1091 Sosiaalinen pilari
+1092 Vankka sosiaalisten oikeuksien eurooppalainen pilari.
+1093 Vähimmäispalkka
+1094 Vuoden 2022 direktiivi riittävistä vähimmäispalkoista.
+1095 Mielenosoitus
+1096 Kylttien meri. Voi pelotella.
+1097 Solidaarisuus
+1098 Jakaa taakan. Palauttaa puolet HP:stä.
+1099 Kreikan ”ei” heinäkuulta 2015. Takaisku taattu.
+1100 Erasmus
+1101 Mielen avaava vaihto. Voi nostaa Asiantuntemusta.
+1102 Vihreä ohjelma
+1103 Vuoden 2019 Green Deal suoraan päin naamaa.
+1104 Metsitys
+1105 Istuttaa uudelleen. Palauttaa puolet HP:stä.
+1106 Hiilivero
+1107 Hiilirajamekanismi. Voi laskea Asiantuntemusta.
+1108 Neutraalius 2050
+1109 Nettonollapäästöt, yhdellä iskulla.
+1110 Komposti
+1111 Haisee voimakkaasti. Voi altistaa vaikutukselle.
+1112 Kiinteä korkki
+1113 Direktiivi 2019/904: korkki ei päästä kohdetta irti.
+1114 Fit for 55
+1115 -55 % päästöistä vuoteen 2030 mennessä, ja se kolahtaa.
+1116 Pyörä
+1117 Pikapyörätie. Toimii ensin.
+1118 Hiili
+1119 Vuoden 1951 Hiili- ja teräsyhteisö tykinkuulana. Voi aiheuttaa skandaalin.
+1120 Teräs
+1121 Eurooppalaisen teräksen nyrkki.
+1122 Masuuni
+1123 Äärimmäinen kuumuus. Voi laukaista skandaalin.
+1124 Ulkoistus
+1125 Lähtee muualle. Voi laskea vastustajan Reaktiota.
+1126 Airbus
+1127 Eurooppalainen mestari syöksylennossa.
+1128 Liukuhihna
+1129 Kokoonpanolinja: osuu 2–5 kertaa.
+1130 Teollisuussuunnitelma
+1131 Elvyttää tuotantoa. Argumentointi +2.
+1132 Kipinä
+1133 Pieni oikosulku. Voi jäädyttää varat.
+1134 Fissio
+1135 Euratom, 1957. Atomin energia.
+1136 Tuulivoimala
+1137 Lavat pyörivät… ja pääkin.
+1138 Kaasuhana
+1139 Katkaisee toimitukset. Jäädyttää varat.
+1140 REPowerEU
+1141 Vuoden 2022 suunnitelma riippuvuudesta irtautumiseksi. Asiantuntemus +2.
+1142 Ylijännite
+1143 Raju purkaus, takaiskulla.
+1144 Fuusio
+1145 ITER-reaktori täydellä teholla.
+1146 Hintakatto
+1147 Asettaa vastustajalle katon. Asiantuntemus -2.
+1148 Virallinen huomautus
+1149 Ensimmäinen virallinen varoitus.
+1150 Rikkomus
+1151 Osuva rikkomusmenettely.
+1152 EUT:n tuomio
+1153 Luxemburg on ratkaissut. Valitus ei ole mahdollinen.
+1154 Miljardisakko. Kolikoita lentelee kaikkialle.
+1155 OLAF-tutkinta
+1156 Petostentorjuntavirasto tutkii. Voi estää kohteen.
+1157 GDPR
+1158 Suojaa tietoja. Vastustajan Väistö -2.
+1159 Oikeuskäytäntö
+1160 Nojaa ennakkotapauksiin. Asiantuntemus +2.
+1161 DSA
+1162 Digipalvelusäädös. Voi laskea Asiantuntemusta.
+1163 Eurokolikko
+1164 2 euron kolikonheitto. Kruuna vai klaava?
+1165 Ohjauskorko
+1166 Nostaa korkoja. Voi hidastaa kohdetta.
+1167 Setelipaino
+1168 Määrällistä keventämistä mielin määrin.
+1169 Kurjistus
+1170 Kiristäkää vöitä. Vastustajan Argumentointi -2.
+1171 Whatever it takes
+1172 ”Mitä ikinä vaaditaan” (Draghi, heinäkuu 2012). Onnistuu aina.
+1173 Inflaatio
+1174 Syö ostovoimaa, vuoro vuorolta.
+1175 Korkoero
+1176 Korkoero karkaa käsistä. Usein kriittisiä osumia.
+1177 Elvytyssuunnitelma
+1178 NextGenerationEU, 750 mrd €. Palauttaa puolet HP:stä.
+1179 Traktori
+1180 Tukkii tien. Voi hidastaa kohdetta.
+1181 YMP
+1182 Yhteinen maatalouspolitiikka: saa HP:tä takaisin.
+1183 Lietelanta
+1184 Levitetty prefektuurin eteen. Voi saastuttaa.
+1185 SAN
+1186 Suojattu alkuperänimitys. Sietokyky +2.
+1187 Sadonkorjuu
+1188 Ennätyssato, suoraan päähän.
+1189 Glyfosaatti
+1190 Hyväksytty uudelleen kymmeneksi vuodeksi 2023. Voi myrkyttää vaikutuksella.
+1191 Käyrä banaani
+1192 Vuoden 1994 asetus banaanien laadusta. Hämmentävä.
+1193 Eväste
+1194 Banneri, jota ei voi sulkea. Jäädyttää kohteen.
+1195 Bugi
+1196 Virhe 404. Voi johtaa harhaan.
+1197 Algoritmi
+1198 Henkilökohtainen suositus, hyvin henkilökohtainen.
+1199 USB-C
+1200 Yleislaturi, pakollinen vuodesta 2024.
+1201 Valeuutinen
+1202 Viraali huhu. Johtaa kohdetta harhaan.
+1203 Roaming
+1204 Ei enää verkkovierailumaksuja! Toimii ensin.
+1205 Tekoälysäädös
+1206 Maailman ensimmäinen tekoälyasetus (2024).
+1207 Trollaus
+1208 Ikävä kommentti. Voi saada hämilleen.
+1209 Kättely
+1210 Luja ja pitkä, kuvaajien edessä.
+1211 Neuvottelut aamuviiteen. Nukuttaa kohteen.
+1212 Kompromissi
+1213 Kaikki häviävät vähän, sinä saat HP:tä.
+1214 Pakotteet
+1215 Uusi pakotepaketti. Voi laskea Diplomatiaa.
+1216 Sohva
+1217 Sofagate (Ankara, 2021): kohde menettää vuoronsa. Vain 1. vuorolla.
+1218 Tulkkaus
+1219 Käännetty 24 kielelle. Jotain katoaa matkalla.
+1220 Sopimus
+1221 Historiallinen sopimus, saatu viime hetkellä.
+1222 Pehmeä valta
+1223 Eurooppalainen charmi. Diplomatia +2.
+1224 Cocktailpalat
+1225 Cocktail Place Luxilla. Kohde joutuu vaikutuksen alaiseksi.
+1226 Matkalaukku
+1227 Hyvin täytetty matkalaukku, heitetty vauhdilla.
+1228 Setelipussi
+1229 Seteleitä kaikkialla. Kenttä on niiden peitossa.
+1230 Kantapaperi
+1231 Avaimet käteen -tarkistus, valmiiksi kirjoitettu.
+1232 Loikka bisnekseen
+1233 Siirtyy yksityiselle. Reaktio +2.
+1234 Vaikutusvalta
+1235 Sana kuiskattu oikeaan korvaan.
+1236 Pyöröovi
+1237 Kukaan ei enää tiedä, kuka työskentelee kenelle.
+1238 Iskulause
+1239 Kolme sanaa, ei vivahteita.
+1240 Punainen bussi
+1241 ”350 miljoonaa viikossa!” Voi johtaa harhaan.
+1242 Megafoni
+1243 Huutaa kovempaa kuin kukaan muu.
+1244 Euromyytti
+1245 Legenda Brysselistä, hyvin vakuuttava.
+1246 TREMENDOUS
+1247 Kaikkien aikojen paras isku. Argumentointi +3.
+1248 Tullit
+1249 Liberation Day (2. huhtikuuta 2025). Voi laskea Sietokykyä.
+1250 Kapitaalipostaus
+1251 VIESTI KIRJOITETTU KOKONAAN ISOILLA KIRJAIMILLA.
+1252 Not laughing
+1253 ”You're not laughing now!” (2016). Voi laskea Diplomatiaa.
+1254 Valetyö
+1255 Työ, jota ei ole olemassa, mutta joka maksaa.
+1256 Katoaminen
+1257 Ei löydy toimistolta. Väistö +2.
+1258 Poistettu tekstiviesti
+1259 Yhtään viestiä ei ole jäljellä. Kumoaa vastustajan bonukset.
+1260 Kummittelu
+1261 Asiakirja, joka palaa kummittelemaan laatijalleen.
+1262 Palkkalaskelma
+1263 Palkka maksettu tyhjästä. Saa HP:tä takaisin.
+1264 Ektoplasma
+1265 Näyttävä ilmestys parlamentissa.
+1266 Perustuslaki
+1267 Hylätty 2005… mutta hurjan voimakas.
+1268 Rooman sopimus
+1269 1957: ETY:n perustaminen.
+1270 1992: unioni ja yhteinen valuutta.
+1271 2007: sopimus, joka korvasi perustuslain.
+1272 Harvinaiset maametallit
+1273 Rajoittaa vientiä. Voi jäädyttää varat.
+1274 Pitkä pöytä
+1275 Ottaa vastaan kuuden metrin pöydän päässä. Väistö +2.
+1276 Systeeminen kilpailija
+1277 Kumppani, kilpailija, vastustaja. Voi laskea Diplomatiaa.
+1278 Grönlanti
+1279 Yrittää ostaa kokonaisen saaren. Suuri vahinko.
+1280 Syntyi vuoden 2019 vihreän kehityksen ohjelman myötä. Siitä puhkeaa verso aina, kun päästönormi hyväksytään.
+1281 Ilmastotavoite
+1282 Se treenaa vähentääkseen päästöjään 55 % vuoteen 2030 mennessä. Se laskee jokaisen kalorin.
+1283 Neutraalius
+1284 Se tähtää ilmastoneutraaliuteen vuonna 2050. Siihen asti se istuttaa puun joka askeleella.
+1285 Pieni hiilikasa vuoden 1951 Hiili- ja teräsyhteisöstä. Se mustaa innokkaasti kaiken, mihin koskee.
+1286 Sen savupiippu sylkee kipinöitä, kun se suuttuu. Se haaveilee täystyöllisyydestä.
+1287 Yhteinen teräs
+1288 Taottu yhdistetystä hiilestä ja teräksestä. Se on todiste siitä, että rauhaa voi valmistaa.
+1289 Atomi
+1290 Pieni utelias atomi, syntynyt vuoden 1957 Euratom-sopimuksesta. Se ei pysy paikallaan.
+1291 Reaktori
+1292 Sen elektronit kiertävät niin nopeasti, että se valaisee koko huoneen. Säästäväisyys valinnaista.
+1293 Se jakautuu kahtia, kun se suuttuu. Se ja vihreät eivät enää puhu toisilleen.
+1294 Leima
+1295 Elävä leima, joka hyväksyy kaiken kohtaamansa. Se on jo leimannut oman kouluttajansa.
+1296 Allekirjoituskansio
+1297 Se parafoi jokaisen sivun oikeaan alakulmaan. Yhteen sopimukseen kuluu neljä tuntia.
+1298 Ratifiointi
+1299 Se liikkuu vasta, kun 27 kansallista parlamenttia on sanonut kyllä. Siksi se nukkuu paljon.
+1300 Se lisääntyy tuhansittain jokaisen lakitekstin yhteydessä. Parlamentti saa joskus 2 000 per mietintö.
+1301 Jarrutus
+1302 Se jättää niin monta tarkistusta, että koko istunto jumittuu. Hyvin hiottu tekniikka.
+1303 Evästebanneri
+1304 Se ilmestyy jokaisen oven eteen vuoden 2018 GDPR:n jälkeen. Hylkääminen ei koskaan riitä.
+1305 Suostumus
+1306 Se pyytää suostumustasi kaikkeen, ja sitten itse suostumukseen. Se on hyvin kohtelias.
+1307 Laturi
+1308 Pakollinen kaikissa laitteissa vuoden 2024 lopusta. Se teki kokonaisen johtolaatikon työttömäksi.
+1309 Korkki
+1310 Se ei ole jättänyt pulloaan heinäkuun 2024 jälkeen. Se lyö sinua nenään, kun juot.
+1311 Kadonnut pilli
+1312 Kielletty vuodesta 2021, sitä luultiin sukupuuttoon kuolleeksi. Se kummittelee pikaruokaloissa öisin.
+1313 Banaani
+1314 Vuoden 1994 asetus määrittää sen laadun. Se viettää elämänsä mitaten omaa kaarevuuttaan.
+1315 Verkkovierailu
+1316 Se on matkustanut kaikkialle ilman maksuja kesäkuusta 2017. Se soittaa äidilleen jokaiselta rajalta.
+1317 Rajaton
+1318 Se kävi kaikissa 27 maassa yhden viikonlopun aikana ja striimasi kaiken suorana. Ilman lisämaksua.
+1319 Tämä pieni jyrsijä lähtee lukukaudeksi ulkomaille ja palaa kaksikielisenä. Syntynyt 1987.
+1320 Vaihto
+1321 Se on asunut 12 kimppakämpässä ja keittää pastaa 9 kielellä.
+1322 Kolikko
+1323 2 euron kolikko, joka on vierinyt kaikkialla vuodesta 2002. Sillä on 27 mahdollista kansallista puolta.
+1324 Yhteisvaluutta
+1325 Kaksikymmentä maata jakaa sen voiman. Kun yksi yskii, muut saavat kuumeen.
+1326 Vapaa liikkuvuus
+1327 Syntyi laivalla Moselilla vuonna 1985. Mikään raja ei pidättele sitä.
+1328 Rikkakasvintorjunta
+1329 Hyväksytty uudelleen kymmeneksi vuodeksi 2023. Rikkaruohot vapisevat, kun se kulkee ohi.
+1330 Kaupustelija
+1331 Se maleksii käytävillä itseään suuremman salkun kanssa. Se ei lobbaa, se ”tiedottaa”.
+1332 Vaikuttaja
+1333 Se tietää jokaisen parlamenttiavustajan numeron. Ja heidän allergiansa.
+1334 Megalobby
+1335 Yksi Brysselin 25 000 lobbarista, jättiversiona. Se kirjoittaa lakeja uudelleen unissaan.
+1336 Rauta-arkku
+1337 Rauta-arkku, joka kulkee Bryssel–Strasbourg kaksitoista kertaa vuodessa. Se tulee matkapahoinvoivaksi.
+1338 Muutto
+1339 Se kantaa vatsassaan kokonaista parlamenttia. Matkan hinta: älä kysy.
+1340 Kellonsiirto
+1341 Parlamentti äänesti sen poistamisesta vuonna 2019. Silti se palaa kahdesti vuodessa.
+1342 Petos
+1343 Se on huijannut tarkastuksissa vuodesta 2015: puhdas testipenkissä, savuava tiellä.
+1344 Se kampanjoi puheenjohtajaksi… sitten joku muu nimitetään sen tilalle.
+1345 Tulkki
+1346 Se puhuu 24 kieltä ja aina kahden sekunnin viiveellä.
+1347 Kolme päätä: parlamentti, neuvosto, komissio. Ne pääsevät sopuun noin kello neljältä aamulla.
+1348 Kukaan ei tiedä tarkalleen, mitä se tekee. Silti se istuu 300 komiteassa.
+1349 Lomake
+1350 Pino lomakkeita kolmena kappaleena. Aina puuttuu yksi sivu.
+1351 Arkisto
+1352 Se säilyttää kaiken, jopa vuoden 1958 post-it-laput. Järjestys: aakkosellinen ja tunnepohjainen.
+1353 Pienviljelijä
+1354 Se saa maataloustukea jokaisesta hehtaarista. Se laskee hehtaarinsa joka aamu.
+1355 Se nielee kolmanneksen EU:n budjetista räpäyttämättä silmää. Sillä on aina nälkä.
+1356 Maatalouspolitiikka
+1357 Kun se tukkii moottoritien traktoreillaan, jopa neuvosto neuvottelee.
+1358 Se pysäköi parlamentin eteen jokaisen uudistuksen yhteydessä. Tööttäily taattu.
+1359 Juusto
+1360 Pieni raakamaitojuusto, joka haisee voimakkaasti. Se on ylpeä kotiseudustaan.
+1361 Suojattu alkuperänimityksellä. Jokainen jäljitelmä viedään oikeuteen.
+1362 Praliini
+1363 Hyvin kiltti belgialainen suklaa. Se sulaa, kun sitä kehutaan.
+1364 Belgialainen ranskalainen
+1365 Paistettu kahdesti, kuten kuuluu. Se kieltäytyy jyrkästi olemasta ”French”.
+1366 Pulu
+1367 Se asuu Place Luxilla ja varastaa lobbareiden ranskalaiset. Se tuntee kaikki juorut.
+1368 Pikku poika
+1369 Pieni 55 cm:n patsas, jolla on enemmän asuja kuin koko parlamentilla.
+1370 Atomium
+1371 Yhdeksän teräspalloa yhdistettynä kiteeksi, Expo 58:sta lähtien. Se loistaa öisin Brysselin yllä.
+1372 Harjoittelija
+1373 Se tekee paljon töitä eikä saa palkkaa. Se sanoo sitä ”opettavaiseksi kokemukseksi”.
+1374 Väliaikainen toimihenkilö
+1375 Sen sopimus päättyy kolmen kuukauden päästä. Se on uusinut sitä kuusi vuotta.
+1376 Se läpäisi EPSO-kilpailun. Se ei pelkää enää mitään, paitsi eläkeuudistusta.
+1377 Ruikuttaja
+1378 Se on vastaan. Ei väliä minkä, se on vastaan.
+1379 Puhuja
+1380 Se kiipeää jokaiselle pöydälle puhumaan väkijoukolle. Jopa ruokalassa.
+1381 Demagogi
+1382 Se lupaa kaikkea kaikille. Lupaukset haihtuvat aamunkoitteessa.
+1383 Väärä tieto
+1384 Se muuttaa muotoaan sen mukaan, kuka sitä katsoo. Sitä jaetaan paljon.
+1385 Valetili
+1386 Pieni robotti, joka kommentoi kaikkea isoilla kirjaimilla. Se ei ole koskaan nukkunut.
+1387 Trollitehdas
+1388 Kymmenentuhatta tiliä yhdessä laatikossa. Vaalit tuntevat sen hyvin.
+1389 Se oppii kaikesta, mitä teet. Se tietää jo, mitä aiot napata.
+1390 Säännelty tekoäly
+1391 Maailman ensimmäinen tekoälyasetus (2024) pani sen ruotuun.
+1392 Se paisuu vähän joka kuukausi. Kotitaloudet seuraavat sitä tarkasti.
+1393 Hyperinflaatio
+1394 Niin lihava, että se tukkii kadut. EKP nostaa korkoja laihduttaakseen sitä.
+1395 Korkoero
+1396 Se venyy jokaisen keskuspankkiirin kömpelön lausunnon jälkeen.
+1397 Kryptovaluutta
+1398 Se on aamulla omaisuuden arvoinen ja illalla arvoton. Se rakastaa vuoristoratoja.
+1399 Säännelty krypto
+1400 MiCA-asetus pakotti sen käyttämään solmiota. Se on nyt rauhallisempi.
+1401 Budjettitasapaino
+1402 Se ei koskaan kuluta mitään, ei edes energiaansa. Sen huuto: ”Schwarze Null!”
+1403 Troikka
+1404 Kolme kissaa: EKP, komissio, IMF. Ne tarkastavat yhdessä muiden tilejä.
+1405 Rupikonna, joka kurnuttaa ”ei!” jokaiselle ehdotukselle. Se yksin riittää estämään kaiken.
+1406 Yksimielisyys
+1407 Se vaatii yksimielisyyttä joka päätökseen ja kieltäytyy siitä sitten itse.
+1408 Puomi
+1409 Se ilmestyy heti, kun puhutaan rajatarkastuksista. Sillä on oma koppinsa.
+1410 Ero
+1411 Se halusi lähteä 2016, lähti 2020 ja katuu joskus. Se lähtee usein taisteluista.
+1412 Kuuleminen
+1413 Vaaliuurna, joka esittää yksinkertaisia kysymyksiä monimutkaisista ongelmista.
+1414 Parlamentin palkkaama, mutta se ei ole koskaan astunut sinne. Kukaan ei ole koskaan nähnyt sen tekevän töitä.
+1415 Sillä on kulkukortti, sopimus ja palkkalaskelma. Mutta ei toimistoa.
+1416 Löytyi täynnä seteleitä brysseliläisestä asunnosta joulukuussa 2022.
+1417 Salkku
+1418 Pieni laukku, joka kulkee kädestä käteen parlamentin juurella.
+1419 Putki
+1420 1 200 km pitkä meren alla. Sen hanaa hallitsee joku muu.
+1421 Sen lavat pyörivät heti, kun siihen puhalletaan. Se vihaa tyyniä päiviä.
+1422 Merituulivoima
+1423 Se asuu Pohjanmeren ulapalla ja tuottaa sähköä kokonaisille kaupungeille.
+1424 Aurinkopaneeli
+1425 Se nukkuu yöllä ja tekee kovasti töitä päivällä, varsinkin Espanjassa.
+1426 Se estää hintoja nousemasta liian korkealle. Sen niskaan sattuu työntämisestä.
+1427 Tulli
+1428 Se verottaa kaikkea, mikä kulkee sen ohi. Jopa kuolleita lehtiä.
+1429 Kauppasota
+1430 Se heiluttaa jättimäistä tullitaulukkoa. Luvut muuttuvat joka aamu.
+1431 Pieni kivi, josta kaikki puhelimet ovat riippuvaisia. Sen vientiä valvotaan.
+1432 Diplomaattipanda
+1433 Lainattu muutamaksi vuodeksi eurooppalaiseen eläintarhaan. Se syö bambua ja kauppasopimuksia.
+1434 Sisältö ei saatavilla
+1435 Tämä pieni keltainen nalle ei näy millään alueella. Sen kortti on poistettu.
+1436 Juristipulu
+1437 Se pesii tuomioistuimen torneissa Kirchbergissä ja kujertaa latinaksi.
+1438 Julistus
+1439 Se lausuu 9. toukokuuta 1950 julistuksen kaikille, jotka haluavat kuulla. Se ilmestyy Eurooppa-päivänä.
+1440 Nobelin palkinto
+1441 Euroopan unionille vuonna 2012 myönnetty mitali. Se hohtaa ylpeyttä.
+1442 Tihkusade
+1443 Pieni brysseliläinen pilvi. Sinulle sataa 200 päivänä vuodessa.
+1444 Bisneslounas
+1445 Kolme tuntia kestävä työlounas. Siellä päätetään enemmän kuin istunnossa.
+1446 Kauppasopimus
+1447 Siitä on neuvoteltu vuodesta 1999. Kun se ottaa askeleen eteenpäin, traktorit työntävät sen takaisin.
+1448 Syntyi 25. maaliskuuta 1957 Capitoliumilla. Se perusti Euroopan talousyhteisön.
+1449 Maastrichtin sopimus
+1450 Syntyi Alankomaissa vuonna 1992. Se loi unionin ja unelmoi eurosta.
+1451 Lissabonin sopimus
+1452 Allekirjoitettu 2007, se otti suurimman osan perustuslaista, joka ei koskaan nähnyt päivänvaloa.
+1453 Hylättiin kansanäänestyksissä Ranskassa ja Alankomaissa 2005. Se pakenee heti, kun sitä lähestytään.
+1454 Se osaa vain yhden hyökkäyksen, ja se onnistuu aina. Se pelasti euron yhdellä lauseella.
+1455 Virallinen leima
+1456 Leimaa heikentyneen Euromonin rekisteröidäkseen sen.
+1457 Superleima
+1458 Vahvistettu muste. Tehokkaampi kuin tavallinen leima.
+1459 Määräenemmistöleima
+1460 Määräenemmistö: erittäin hyvä nappausmahdollisuus.
+1461 Yksimielinen leima
+1462 Yksimielisyys! Nappaus taattu. Äärimmäisen harvinainen.
+1463 Ruokalan kahvi
+1464 Palauttaa 20 HP. Haaleaa, mutta tehokasta.
+1465 Kerrosvoileipä
+1466 Palauttaa 50 HP. Harjoittelijoiden suosikki.
+1467 Brysselin vohveli
+1468 Palauttaa 120 HP. Tomusokeri mukana.
+1469 Kniddelen
+1470 Luxemburgilainen erikoisuus. Palauttaa 200 HP.
+1471 Kokonainen menu
+1472 Alkuruoka, pääruoka, jälkiruoka: palauttaa kaiken HP:n.
+1473 Oikeudellinen lausunto
+1474 Parantaa kaikki tilaongelmat.
+1475 Herätyskello
+1476 Herättää huippukokouksen nukuttaman Euromonin.
+1477 Elvytysaloite
+1478 Palauttaa tyrmätyn Euromonin väittelykuntoon.
+1479 Yksimielinen elvytys
+1480 Herättää tyrmätyn Euromonin täysillä HP:illä.
+1481 Ammattiliittotauko
+1482 Palauttaa Euromonin kaikki PP:t.
+1483 Argumenttipaketti
+1484 Taistelussa: nostaa Argumentointia.
+1485 Luotiliivi
+1486 Taistelussa: nostaa Sietokykyä.
+1487 Asiantuntijaraportti
+1488 Taistelussa: nostaa Asiantuntemusta.
+1489 Osoitekirja
+1490 Taistelussa: nostaa Diplomatiaa.
+1491 Tupla-espresso
+1492 Taistelussa: nostaa Reaktiota.
+1493 Värväyskielto
+1494 Värväyskieltolauseke: pitää Euromonit loitolla 100 askeleen ajan.
+1495 Saa tietyt Euromonit kehittymään. Tarvitaan 27 allekirjoitusta.
+1496 Saa tietyt energia-Euromonit kehittymään.
+1497 USB-C-tikku
+1498 Saa tietyt digi-Euromonit kehittymään.
+1499 Euromonien tietosanakirja, Jean Monnet'n lahja.

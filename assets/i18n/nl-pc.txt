@@ -1,0 +1,157 @@
+# Nederlands — computer mini-games
+1928 Prince Mbeki III
+1929 Erfenis van 4 mln. € te verdelen
+1930 Diesellobby
+1931 Uitnodiging: kreeftdiner
+1932 HR-afdeling
+1933 Coördinatievergadering over de vergaderingen
+1934 SuperPromo
+1935 Je gratis telefoon wacht op je
+1936 Qatar Events
+1937 Een kleine koffer voor jou?
+1938 VeiligeBank
+1939 Bevestig hier je wachtwoord
+1940 Newsletter
+1941 47 spannende AVG-nieuwtjes
+1942 Agenda van de plenaire vergadering
+1943 Mama
+1944 Eet je goed in Brussel?
+1945 Kantine
+1946 Dagmenu: waterzooi
+1947 Griffie van het Hof
+1948 Arrest te betekenen vóór de middag
+1949 Commissie
+1950 Begrotingsstemming morgen
+1951 Je Eurodex is bijgewerkt
+1952 Debat vanavond? Ik ga winnen.
+1953 Postvak IN
+1954 437 ongelezen e-mails! Tik op een echte e-mail om die te lezen, en op het rode kruis om spam weg te gooien. Verwerk er 20 voordat de inbox overloopt!
+1955 Lezen: tikken · Spam: rood kruis
+1956 Fouten: %d / 3
+1957 Lege inbox! Voor het eerst sinds 2019. Geniet ervan, het duurt niet lang.
+1958 De inbox loopt over! De server van de Commissie is net gecrasht. Weer.
+1959 Je hebt de e-mail van de voorzitter weggegooid en de prins geantwoord. Gebeurt de besten.
+1960 Sinds 2024 moeten nieuwe telefoons die in de EU worden verkocht een USB-C-poort hebben.
+1961 Waar: de richtlijn over de universele oplader geldt sinds eind 2024.
+1962 De EU verbiedt de verkoop van te gebogen bananen.
+1963 Niet waar: een verordening uit 1994 verdeelde bananen in kwaliteitsklassen. Gebogen bananen blijven te koop.
+1964 De Europese vlag heeft 12 sterren omdat er 12 lidstaten waren.
+1965 Niet waar: 12 is een symbool van volmaaktheid. De vlag stamt uit 1955, lang voor de 12 landen.
+1966 Het Europees Parlement vergadert één week per maand in Straatsburg.
+1967 Waar: 12 zittingsweken per jaar in Straatsburg, met de bijbehorende koffers.
+1968 Europese commissarissen worden rechtstreeks door de burgers gekozen.
+1969 Niet waar: ze worden voorgedragen door de regeringen en vervolgens goedgekeurd door het Parlement.
+1970 De Europese Unie heeft 24 officiële talen.
+1971 Waar: van het Iers tot het Maltees, alle teksten worden in alle 24 vertaald.
+1972 Alle EU-landen gebruiken de euro.
+1973 Niet waar: in 2026 gebruiken 21 van de 27 landen de euro. Bulgarije is het laatst toegetreden.
+1974 De kosten voor mobiel roamen werden in 2017 in de EU afgeschaft.
+1975 Waar: sinds juni 2017 bel je overal "zoals thuis".
+1976 Het Europese volkslied is de Ode aan de vreugde van Beethoven.
+1977 Waar: zonder officiële tekst, om geen enkele taal te ergeren.
+1978 Luxemburg is het kleinste land van de EU.
+1979 Niet waar: dat is Malta, ongeveer 316 km².
+1980 De Europese Unie heeft de Nobelprijs voor de Vrede ontvangen.
+1981 Waar: in 2012, voor 60 jaar vrede en verzoening.
+1982 De AVG beschermt persoonsgegevens sinds 2018.
+1983 Waar: van kracht sinds 25 mei 2018. Vandaar de cookiebanners…
+1984 Kromme komkommers mogen in de EU niet worden verkocht.
+1985 Niet waar: de norm over hun kromming werd in 2009 afgeschaft.
+1986 Doppen moeten aan plastic flessen bevestigd blijven.
+1987 Waar: verplicht sinds juli 2024, zodat ze niet meer in de natuur belanden.
+1988 Zwitserland is lid van de Europese Unie.
+1989 Niet waar: het hoort bij het Schengengebied, maar niet bij de EU.
+1990 De Europese Centrale Bank heeft haar hoofdzetel in Brussel.
+1991 Niet waar: ze zit in Frankfurt, Duitsland.
+1992 Factcheck
+1993 Geruchten over Europa verspreiden zich sneller dan richtlijnen! Tik bij elke stelling op WAAR of ONWAAR. Je hebt 7 juiste antwoorden op 10 nodig.
+1994 WAAR
+1995 ONWAAR
+1996 Waar of niet waar?
+1997 Vraag %d / 10
+1998 Goed antwoord!
+1999 Te laat!
+2000 Mis!
+2001 Tik om verder te gaan
+2002 Goed gedaan! Alle nepnieuws is ontmaskerd. De factcheckers willen je aannemen.
+2003 Er is te veel nepnieuws rondgegaan… Het account "EchtEuropa2027" krijgt er 10.000 volgers bij.
+2004 Bulgaars
+2005 Tsjechisch
+2006 Deens
+2007 Duits
+2008 Grieks
+2009 Engels
+2010 Spaans
+2011 Ests
+2012 Fins
+2013 Frans
+2014 Iers
+2015 Kroatisch
+2016 Hongaars
+2017 Italiaans
+2018 Litouws
+2019 Lets
+2020 Maltees
+2021 Nederlands
+2022 Pools
+2023 Portugees
+2024 Roemeens
+2025 Slowaaks
+2026 Sloveens
+2027 Zweeds
+2028 Vertaaldienst
+2029 Er komen berichten uit heel Europa binnen! Lees elk bericht en stuur het naar de juiste vertaalcabine. 12 berichten in 45 seconden. Een fout kost 3 seconden!
+2030 Vertaalcabines
+2031 Stuur het bericht naar de juiste cabine
+2032 Alle berichten zijn goed aangekomen! DG Vertaling biedt je een baan aan. In 24 talen.
+2033 Een Slowaaks bericht ging naar de Sloveense cabine… Het diplomatieke incident wordt vertaald.
+2034 Energiecrisis! De prijzen stijgen de pan uit.
+2035 Lockdown: niemand koopt nog iets.
+2036 Gigantisch herstelplan vannacht goedgekeurd!
+2037 Beurskrach in Frankfurt!
+2038 Tekort aan computerchips!
+2039 Huishoudens sparen al hun geld.
+2040 Jij zit de ECB voor! Stijgt de inflatie? Verhoog de rente. Daalt ze? Verlaag de rente. Houd haar minstens de helft van de tijd in de groene zone (rond 2 %). 40 seconden!
+2041 Inflatie: %s
+2042 Rente: %s
+2043 Verlagen
+2044 Verhogen
+2046 Inflatie onder controle! De markten applaudisseren, de spaarders slapen rustig.
+2047 De inflatie is je ontglipt… De koffieprijs in de kantine is net verdubbeld.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Universele Oplader
+2053 Sinds 2024 is USB-C verplicht! Tik op de apparaten die nog een oude poort hebben om ze conform te maken. Vooral niet die met USB-C! 20 apparaten in 30 seconden.
+2054 Tik op oude poorten, niet op USB-C!
+2055 Allemaal conform! Eén oplader voor iedereen. De kabelladen van Europa kunnen ademhalen.
+2056 Je hebt een apparaat dat al USB-C had "conform gemaakt". Het heeft nu drie adapters.
+2057 Te veel oude kabels zijn aan de richtlijn ontsnapt… De kabellade loopt over.
+2058 Jouw computer. 437 ongelezen e-mails knipperen in een hoek van het scherm.
+2059 Postvak
+2060 Uitschakelen
+2061 Er verschijnt een melding: "Gefeliciteerd met je productiviteit!" Er stond een pakketje onder het bureau op je te wachten.
+2062 Lege inbox. Drie seconden later: "Re: Coördinatievergadering over de vergaderingen".
+2063 De mailserver toont een zandloper. Die zal waarschijnlijk tot morgen blijven staan.
+2064 Een computer van de persdienst. Op het scherm staat: "Factcheck-eenheid – te checken geruchten: 2384".
+2065 Mooi controlewerk! De persdienst geeft je deze expertrapporten. Mét bronnen, voor de verandering.
+2066 Alle geruchten van vandaag zijn gecontroleerd. Er komen er meer bij vóór de lunch.
+2067 Nepnieuws is net 40.000 keer gedeeld. De rechtzetting, 12 keer.
+2068 De terminal van DG Vertaling. Een rood lampje knippert: "Berichten wachten op doorsturen".
+2069 De tolken zitten overvol! Kun jij de berichten sorteren en naar de juiste cabine sturen?
+2070 Vierentwintig talen, geen enkele doorstuurfout! Neem dit adresboek, alle tolken van het Hof staan erin.
+2071 Jij herkent Sloveens beter van Slowaaks dan de helft van de Raad.
+2072 Een Maltees bericht is in de Ierse cabine aangekomen. Ze bespreken het nog steeds. Probeer het nog eens wanneer je wilt.
+2073 Een Bloomberg-terminal, nog warm. Op een geeltje: "Doel: 2 %. Niet 1,9. Niet 2,1. 2."
+2074 Het monetaire beleid van de eurozone overnemen?
+2075 De markten prijzen je voorzichtigheid. Een stabiliteitsbonus komt op je rekening!
+2076 Inflatie op 2 %. Ergens in Frankfurt laat een econoom een vreugdetraan.
+2077 De terminal toont een grafiek in de vorm van een achtbaan. Niemand heeft iets gezien. Begin snel opnieuw.
+2078 De computer van de Europarlementariër. Op het bureau een kluwen van 14 verschillende opladers.
+2079 Ik heb voor de USB-C-richtlijn gestemd! Maar mijn collega's hebben nog oude apparaten… Help je me ze conform te maken?
+2080 Eén oplader voor iedereen! Hier, neem dit USB-C-stickje. Het zou bepaalde digitale Euromon doen evolueren.
+2081 De kabellade is eindelijk leeg. Ik weet niet meer wat ik erin moet leggen.
+2082 Overal liggen nog Lightning-kabels… Probeer het nog eens wanneer je wilt.
+2083 Groene zone: %d %%
+2084 Doel: de helft van de tijd in het groen
+2085 Dock 30

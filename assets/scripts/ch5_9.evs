@@ -1,0 +1,348 @@
+# ---------------------------------------------------------------- Athènes
+script ath_sign
+  say - "Athènes. Berceau de la démocratie, de la philosophie… et du référendum du 5 juillet 2015."
+end
+script ath_touriste
+  say "Touriste" "L'Acropole a 2 500 ans. Elle a survécu aux Perses, aux Ottomans et à la Troïka."
+end
+script piree_guard
+  say "Douanier grec" "Le port du Pirée ? Fermé aux visiteurs. Il appartient à… des partenaires. Très partenaires."
+end
+script piree_block
+  say "Douanier grec" "Désolé, accès au port réservé. Revenez quand la situation sera… plus diplomatique."
+  move player "D"
+end
+script gym4_t1
+  say "Nikos" "En 2015, j'ai voté OXI. Et après… c'est compliqué."
+end
+script gym4_t2
+  say "Agent Troïka (BCE)" "Notre rapport recommande encore plus de rigueur. Même pour vos Euromons."
+end
+script gym4_t3
+  say "Agent Troïka (FMI)" "Nous reconnaissons quelques erreurs dans nos prévisions. Entre nous."
+end
+script gym4_leader
+  if flag BADGE_4 goto apres
+  show R varoufakis neutral
+  say "Yanis Varoufakis" "Tu viens pour un badge ? Je suis arrivé ici à moto, en blouson de cuir, sans cravate. Comme aux réunions de l'Eurogroupe en 2015."
+  expr R happy
+  say "Yanis Varoufakis" "Ministre des Finances pendant six mois. J'ai démissionné après le référendum : 61 % pour le OXI. La démocratie est belle, et têtue."
+  expr R angry
+  say "Yanis Varoufakis" "La Troïka m'attendait au tournant. Toi, tu as battu ses agents. Montre-moi si tu es plus fort que l'austérité !"
+  close
+  hide all
+  battle varoufakis
+  show R varoufakis happy
+  say "Yanis Varoufakis" "NAI ! Euh, je veux dire : bravo. Voici le Badge OXI, camarade."
+  badge 4
+  setflag TRAIN_LONDRES
+  chapter 5
+  say "Yanis Varoufakis" "Ton prochain badge est à Londres. Mais dépêche-toi : là-bas, on parle de plus en plus d'une certaine porte de sortie."
+  goto fin
+:apres
+  show R varoufakis happy
+  say "Yanis Varoufakis" "Je repars donner une conférence. Sur la dette. À moto."
+:fin
+end
+
+# ---------------------------------------------------------------- Londres (Brexit)
+script lon_sign
+  say - "Westminster. Ici, le 23 juin 2016, le Royaume-Uni a voté à 51,9 % pour quitter l'Union européenne."
+end
+script lon_garde
+  say "Garde royal" "…"
+  say "Garde royal" "…"
+  say "Garde royal" "(Il ne bouge pas. Même pour le Brexit.)"
+end
+script gym5_t1
+  say "Rédacteur en chef" "Demain, on titre sur les concombres trop droits. Ça a marché pendant vingt ans."
+end
+script gym5_johnson
+  show R johnson happy
+  say "Boris Johnson" "Dans les années 1990, j'étais correspondant à Bruxelles pour le Daily Telegraph. J'ai écrit des choses… imaginatives. Get Brexit done !"
+end
+script gym5_leader
+  if flag BADGE_5 goto apres
+  show R farage happy
+  say "Nigel Farage" "Bienvenue au pub ! Une pinte ? Moi, j'ai passé vingt ans au Parlement européen à expliquer qu'il ne fallait pas y être."
+  expr R angry
+  say "Nigel Farage" "Le 28 juin 2016, j'ai lancé aux eurodéputés : « Vous ne riez plus maintenant, hein ? ». Ils n'ont pas ri. Toi non plus, tu ne vas pas rire."
+  close
+  hide all
+  battle farage
+  show R farage worried
+  say "Nigel Farage" "Bon. Vous avez gagné. Prenez ce Badge Article 50. Nous, on l'a déjà utilisé."
+  badge 5
+  chapter 6
+  hide all
+  call brexit_event
+  goto fin
+:apres
+  show R farage happy
+  say "Nigel Farage" "Vous êtes encore là ? On a quitté, vous savez."
+:fin
+end
+
+script brexit_event
+  setflag BREXIT_DONE
+  clearflag TRAIN_LONDRES
+  setflag TRAIN_BUDAPEST
+  music sad
+  call cine_brexit
+  show L oliver worried
+  say "Oliver" "Je dois rentrer. Je n'ai plus le droit d'être stagiaire au Parlement. Mais avant… un dernier débat. Pour l'honneur."
+  close
+  hide all
+  if var STARTER == 1 goto c
+  if var STARTER == 2 goto a
+  battle oliver4_v nolose
+  goto fin
+:c
+  battle oliver4_c nolose
+  goto fin
+:a
+  battle oliver4_a nolose
+:fin
+  show L oliver worried
+  say "Oliver" "Merci, {P}. Garde un œil sur la directive pour moi. Et sur l'heure d'été. Chez nous, on ne la changera jamais, bien sûr."
+  say "Oliver" "Goodbye. Ou plutôt… see you later. Qui sait ?"
+  hide all
+  say - "Oliver est parti. Le train de Londres n'apparaîtra plus au guichet. La prochaine étape : Budapest, sur le Danube."
+end
+
+# ---------------------------------------------------------------- Budapest
+script bud_sign
+  say - "Országház, le Parlement hongrois, sur les rives du Danube. Le plus grand bâtiment de Hongrie. Et le plus grand veto."
+end
+script bud_magyar_npc
+  if flag BADGE_6 goto apres
+  say "Jeune Hongroise" "On dit que l'opposition gagne du terrain. Un certain Péter Magyar fait campagne dans tout le pays."
+  goto fin
+:apres
+  show R magyar happy
+  say "Péter Magyar" "Les Hongrois ont voté le 12 avril 2026. Mon parti, Tisza, a obtenu la majorité des deux tiers. Une nouvelle page s'ouvre !"
+:fin
+end
+script gym6_t1
+  say "Gábor" "Nous avons construit une clôture. Elle sert surtout à faire des photos."
+end
+script gym6_t2
+  say "Conseiller spécial" "Le Premier ministre va sortir prendre un café. C'est une technique de négociation."
+end
+script gym6_leader
+  if flag BADGE_6 goto apres
+  show R orban neutral
+  say "Viktor Orbán" "Vous venez chercher un accord ? Ici, il faut l'unanimité. Et je ne suis jamais d'accord."
+  expr R happy
+  say "Viktor Orbán" "En 2024, j'ai présidé le Conseil de l'Union avec le slogan « Make Europe Great Again ». Ça ne vous rappelle rien ?"
+  expr R angry
+  say "Viktor Orbán" "Dans mon arène, je peux poser mon VETO à chaque tour. Et parfois… je sors prendre un café. Comme en décembre 2023, pendant le vote sur l'Ukraine."
+  close
+  hide all
+  battle orban
+  show R orban worried
+  say "Viktor Orbán" "…Bon. Je m'abstiens. Prenez ce Badge Veto. Officiellement, je n'étais pas dans la salle."
+  badge 6
+  chapter 7
+  hide all
+  say - "Quelques mois plus tard, le 12 avril 2026, les Hongrois votent. Le parti Tisza de Péter Magyar l'emporte avec une majorité des deux tiers."
+  call cine_magyar
+  show L magyar happy
+  say "Péter Magyar" "Orbán a reconnu sa défaite : « douloureux, mais clair ». Merci, stagiaire. Retournez à Bruxelles : il paraît que la DG Concurrence a un problème… de lobby."
+  setflag TRAIN_BRUXELLES
+  goto fin
+:apres
+  show R orban sulk
+  say "Viktor Orbán" "Je suis parti prendre un café. Revenez plus tard. Beaucoup plus tard."
+:fin
+end
+
+# ---------------------------------------------------------------- Team Lobby (place Lux)
+script lux_barman
+  say "Barman" "Place Lux, le jeudi soir, tout Bruxelles vient boire un verre. Les députés, les assistants… et les lobbyistes. Surtout les lobbyistes."
+end
+script lux_guard
+  if !flag BADGE_6 goto ferme
+  if flag LOBBY_DEFEATED goto fin
+  if flag CINE_QATARGATE goto vu
+  setflag CINE_QATARGATE
+  call cine_qatargate
+:vu
+  say "Lobbyiste" "Le sous-sol ? Réservé aux membres. Vous êtes inscrit au registre de transparence ? Non ? Moi non plus. Entrez donc."
+  goto fin
+:ferme
+  say "Lobbyiste" "Circulez, stagiaire. Ici, on cause affaires entre grandes personnes."
+  move player "D"
+:fin
+end
+script lobby_t1
+  say "Lobbyiste du pétrole" "La transition énergétique ? Nous la soutenons. À partir de 2080."
+end
+script lobby_t2
+  say "Lobbyiste de la tech" "Nous respectons le RGPD. Nous avons même un bandeau cookies de 47 pages."
+  ask "Lobbyiste de la tech" "Je parie que tu ne sauras pas tous les refuser. Personne n'y arrive. On essaie ?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+  close
+  minigame cookies
+  if var RESULT == 0 goto rate
+  if flag COOKIES_DONE goto deja
+  setflag COOKIES_DONE
+  say "Lobbyiste de la tech" "Impossible… Tu as tout refusé ?! Bon. Voici un avis juridique. Gratuit. Ne le dis à personne."
+  giveitem avis_juridique 3
+  goto fin
+:deja
+  say "Lobbyiste de la tech" "Encore toi ! Nos bandeaux n'ont aucune chance."
+  goto fin
+:rate
+  say "Lobbyiste de la tech" "Merci d'avoir accepté nos 437 partenaires ! Tes données sont entre de bonnes mains. Les nôtres."
+:fin
+end
+script lobby_t3
+  say "Lobbyiste" "Les valises ? Ce sont des valises de documentation. Très documentées."
+end
+script lobby_kaili
+  show R kaili worried
+  say "Eva Kaili" "En décembre 2022, la police belge a trouvé des sacs de billets dans plusieurs appartements à Bruxelles. On a appelé ça le « Qatargate »."
+  say "Eva Kaili" "J'étais vice-présidente du Parlement. J'ai toujours contesté les accusations. À la date de ce jeu, aucun jugement définitif n'a été rendu dans cette affaire."
+  hide all
+  say - "Note : toute personne mise en cause est présumée innocente tant qu'elle n'a pas été jugée."
+end
+script lobby_chef
+  if flag LOBBY_DEFEATED goto fin
+  say "Le Lobbyiste en chef" "Tiens, tiens. Le stagiaire. Tu sais combien nous sommes à Bruxelles ? 25 000. Et toi, tu es un."
+  say "Le Lobbyiste en chef" "Ta directive sur l'heure d'été ? J'ai des clients qui vendent des horloges. Elle restera bloquée. À moins que…"
+  close
+  battle lobbychef
+  say "Le Lobbyiste en chef" "Bien joué. Je déclare officiellement ma défaite au registre de transparence. Et je file dans le privé. Ah, j'y suis déjà."
+  setflag LOBBY_DEFEATED
+  hidenpc chef_lobby
+  sfx DOOR
+  say - "La Team Lobby se disperse. Les enquêtes de la DG Concurrence peuvent reprendre !"
+:fin
+end
+
+# ---------------------------------------------------------------- DG COMP (Vestager)
+script gym7_t1
+  say "Avocat de Big Tech" "Nous allons faire appel. Puis appel de l'appel."
+end
+script gym7_t2
+  say "Juriste concurrence" "Abus de position dominante… Le mot « abus » est fort."
+end
+script gym7_leader
+  if flag BADGE_7 goto apres
+  show R vestager happy
+  say "Margrethe Vestager" "Merci de nous avoir débarrassés de la Team Lobby. Mes dossiers avancent enfin !"
+  expr R neutral
+  say "Margrethe Vestager" "Google : 2,4 milliards d'euros d'amende en 2017, 4,3 milliards en 2018. Apple : 13 milliards d'aides fiscales à rembourser, confirmé par la Cour en 2024."
+  say "Margrethe Vestager" "Votre équipe respecte-t-elle les règles de concurrence ? Je vais vérifier. Personnellement."
+  close
+  hide all
+  battle vestager
+  show R vestager happy
+  say "Margrethe Vestager" "Aucune infraction constatée. Le Badge Amende est à vous. Et prenez ceci aussi : le badge de l'OLAF, l'Office antifraude."
+  badge 7
+  giveitem badge_olaf
+  setflag OLAF_BADGE
+  chapter 8
+  expr R worried
+  say "Margrethe Vestager" "On signale des… présences étranges dans une aile du Parlement. Des assistants que personne ne voit jamais. Avec ce badge, vous les verrez."
+  goto fin
+:apres
+  show R vestager happy
+  say "Margrethe Vestager" "Pas d'amende pour vous aujourd'hui. Profitez-en."
+:fin
+end
+
+# ---------------------------------------------------------------- Tour des assistants fantômes
+script tour_entry
+  if flag OLAF_BADGE goto voir
+  say - "Un couloir froid… On entend des claviers taper tout seuls. Mais il n'y a personne. Il faudrait un moyen de voir l'invisible."
+  say - "Mieux vaut redescendre pour l'instant."
+  warp parlement_hall 14 3 down
+  goto fin
+:voir
+  call cine_tour
+:fin
+end
+script tour_t1a
+  say "Assistant fantôme" "Mon bureau ? Je ne l'ai jamais trouvé…"
+end
+script tour_t1b
+  say "Assistant fantôme" "J'étais payé pour assister… un parti. Pas un député."
+end
+script tour_t2a
+  say "Assistant fantôme" "Hou… Le changement d'heure me fait apparaître deux fois par an…"
+end
+script tour_t2b
+  say "Assistant fantôme" "Mon contrat dit « assistant local ». Local de quoi ? Mystère."
+end
+script tour_t3a
+  say "Assistant fantôme" "Je disparais… enfin…"
+end
+script tour_t3b
+  say "Assistant fantôme" "Merci… de m'avoir libéré de ce contrat…"
+end
+script tour_lepen
+  show R lepen neutral
+  say "Marine Le Pen" "L'affaire des assistants parlementaires du FN : le système rémunérait des employés du parti avec l'argent du Parlement européen."
+  say "Marine Le Pen" "J'ai été condamnée en première instance le 31 mars 2025, puis en appel le 7 juillet 2026 : trois ans dont un ferme sous bracelet et quinze mois d'inéligibilité."
+  hide all
+  say - "Avec cette peine en appel, sa candidature à la présidentielle de 2027 redevient théoriquement possible. Un dernier recours en cassation reste envisageable."
+end
+script tour_bayrou
+  show R bayrou neutral
+  say "François Bayrou" "L'affaire des assistants du MoDem, c'est autre chose. En février 2024, j'ai été relaxé « au bénéfice du doute ». Le parquet a fait appel."
+  say "François Bayrou" "Ensuite, j'ai été Premier ministre… de décembre 2024 à septembre 2025. Le temps passe vite à Matignon."
+  hide all
+  say - "Les assistants fantômes ne font pas de politique : ils hantent tous les partis qui les ont mal employés."
+end
+script tour_boss
+  if flag GHOST_BOSS_DONE goto fin
+  say "Le Contrat Vide" "JE SUIS… L'ESPRIT DE TOUS LES CONTRATS SANS BUREAU… DE TOUS LES PARTIS… DE TOUTES LES LÉGISLATURES…"
+  close
+  battle fantome_boss
+  setflag GHOST_BOSS_DONE
+  hidenpc fant_boss
+  say - "Le Contrat Vide se dissipe dans un nuage de fiches de paie. L'aile fantôme est enfin calme."
+  say - "Un message de Roberta Metsola arrive : « Merci ! Le dernier badge vous attend à Paris, à la Sorbonne. »"
+  setflag TRAIN_PARIS
+  chapter 9
+:fin
+end
+
+# ---------------------------------------------------------------- Paris
+script par_sign
+  say - "La Sorbonne. Ici, Emmanuel Macron a prononcé deux grands discours sur l'Europe, en 2017 et en 2024. Le second a duré presque deux heures."
+end
+script par_touriste
+  say "Touriste" "J'ai demandé mon chemin en anglais. On m'a répondu en français. Avec un sourire. Très léger."
+end
+script gym8_t1
+  say "Énarque" "J'ai rédigé une note de synthèse sur ma défaite. Elle fait 80 pages."
+end
+script gym8_t2
+  say "Ministre délégué" "Je viens d'être remanié pendant le combat. C'est un record."
+end
+script gym8_leader
+  if flag BADGE_8 goto apres
+  show R macron happy
+  say "Emmanuel Macron" "Bienvenue à la Sorbonne ! Ici, j'ai parlé d'Europe souveraine en 2017. Puis d'une Europe qui « peut mourir », en 2024."
+  expr R neutral
+  say "Emmanuel Macron" "En 2019, j'ai dit que l'OTAN était en état de « mort cérébrale ». En 2024, j'ai dissous l'Assemblée nationale. J'aime les décisions… surprenantes."
+  expr R happy
+  say "Emmanuel Macron" "Alors débattons, et en même temps, réfléchissons. Autonomie stratégique !"
+  close
+  hide all
+  battle macron
+  show R macron happy
+  say "Emmanuel Macron" "Magnifique ! Vous avez l'étoffe d'une grande Européenne… ou d'un grand Européen. Et en même temps des deux. Le Badge Sorbonne est à vous."
+  badge 8
+  chapter 10
+  say "Emmanuel Macron" "Avec huit badges, le Conseil européen vous attend au bâtiment Europa, à Bruxelles. Bonne chance : leurs sommets finissent rarement avant 5 h du matin."
+  goto fin
+:apres
+  show R macron happy
+  say "Emmanuel Macron" "Je vous parlerais bien d'Europe pendant deux heures, mais vous avez un Conseil à convaincre."
+:fin
+end

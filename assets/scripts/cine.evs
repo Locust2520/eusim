@@ -1,0 +1,414 @@
+# ---------------------------------------------------------------- Cinematics (slides + dialogue)
+# slide <name> [still|zoom_in|zoom_out|pan_right|pan_left|tilt_up|tilt_down] [fade|cut|flash|iris|wipe]
+# Slides with an _alex/_max version pick the player's one automatically.
+
+script cine_prologue
+  cine "Prologue — 9 mai 1950"
+  card "9 mai 1950" "Paris, Quai d'Orsay, 18 heures"
+  slide s00_prologue_01_salon zoom_in fade
+  say "Robert Schuman" "Messieurs, merci d'être venus. Je serai bref. Enfin… je vais essayer."
+  say "Journaliste" "(tout bas) Il dit ça à chaque fois."
+  slide s00_prologue_02_monnet pan_left cut
+  say "Jean Monnet" "(tout bas) Robert. La phrase sur le charbon. N'oubliez pas la phrase sur le charbon."
+  say "Robert Schuman" "« Le gouvernement français propose de placer l'ensemble de la production franco-allemande de charbon et d'acier sous une Haute Autorité commune. »"
+  say "Journaliste" "Le charbon ? L'acier ? On a raté l'apéritif pour ça ?"
+  slide s00_prologue_03_acier zoom_out fade
+  say - "Cinq ans après la guerre, l'idée est simple et folle : mettre en commun ce qui sert à fabriquer les canons."
+  say - "Pour que la guerre devienne « non seulement impensable, mais matériellement impossible »."
+  slide s00_prologue_04_carte pan_right fade
+  say - "Six pays en 1951. Puis neuf, douze, quinze, vingt-cinq… Vingt-sept aujourd'hui."
+  say - "Et chaque matin, quelque part à Bruxelles, un stagiaire se réveille en retard."
+  card "Chapitre 1" "Bruxelles"
+  slide s01_reveil_01_reveil zoom_in iris
+  say - "Lundi. Ton réveil indique 6 h 58. Ton téléphone, 7 h 58. L'un des deux n'a pas été prévenu du changement d'heure."
+  say "{P}" "PREMIER JOUR DE STAGE !"
+  slide s01_reveil_02_course pan_right wipe
+  say - "Rue de la Loi. Un croissant, trois dossiers, zéro dignité."
+  say "Cycliste" "Piste cyclable ! Même les stagiaires respectent le règlement 2019/1242 ! Enfin, je crois qu'il existe."
+  slide s01_reveil_03_esplanade pan_left fade
+  say "Oliver" "{P} ! Premier jour, et déjà une heure de retard. Moi, je suis là depuis 6 h 58. Heure de Londres, bien sûr."
+  say "Oliver" "Le professeur Schuman nous attend dans le hall du Parlement. Je lui ai dit que tu étais malade. Tu me remercieras plus tard."
+  cine end
+end
+
+script cine_lux
+  if flag CINE_LUX goto fin
+  setflag CINE_LUX
+  cine "Chapitre 2 — Luxembourg"
+  card "Chapitre 2" "Luxembourg"
+  slide s03_luxembourg_01_viaduc pan_right fade
+  say - "Le pont Adolphe enjambe la vallée de la Pétrusse. En bas, des jardins. En haut, des banques. Au milieu, ton train."
+  slide s03_luxembourg_02_bise zoom_in fade
+  say "Jean-Claude Juncker" "Ah, le petit Anglais ! Viens là que je t'embrasse !"
+  say "Oliver" "Sir, je… we don't do that. En Angleterre, on se serre la main. De loin. Avec des gants."
+  say "Jean-Claude Juncker" "Ici, c'est le Luxembourg. On fait la bise, on tapote la joue, et on parle quatre langues dans la même phrase. Moien, bonjour, guten Tag, hello !"
+  say "Oliver" "Help."
+  slide s03_luxembourg_03_arene tilt_up fade
+  say "Jean-Claude Juncker" "Mon Arène dorée est au Kirchberg, stagiaire. Viens quand tu veux. Je tapote les joues gratuitement. C'est le seul service gratuit du quartier."
+  cine end
+:fin
+end
+
+script cine_schengen
+  if flag CINE_SCHENGEN goto fin
+  setflag CINE_SCHENGEN
+  cine "Schengen, trois frontières"
+  slide s04_schengen_01_bateau pan_right fade
+  say - "Schengen. Ici, la France, l'Allemagne et le Luxembourg se touchent du bout des vignes."
+  say "Capitaine" "Le 14 juin 1985, cinq pays ont signé ici, sur un bateau, l'accord qui supprime les contrôles aux frontières. Sur une rivière qui EST une frontière. On aime l'ironie, sur la Moselle."
+  slide s04_schengen_02_barriere zoom_out fade
+  say "Douanier" "Trente ans que je tamponne des passeports. Et maintenant ? Les papillons passent sans visa."
+  say "Douanier" "Je vais me reconvertir. Tamponneur de cartes postales. C'est un marché d'avenir."
+  cine end
+:fin
+end
+
+script cine_ffm
+  if flag CINE_FFM goto fin
+  setflag CINE_FFM
+  cine "Chapitre 3 — Francfort"
+  card "Chapitre 3" "Francfort-sur-le-Main"
+  slide s05_bce_01_tour tilt_up fade
+  say - "Francfort, la nuit. Deux tours de verre, un symbole de l'euro grand comme un bus. La Banque centrale européenne ne dort jamais. Elle surveille l'inflation."
+  slide s05_bce_02_levier zoom_in fade
+  say "Christine Lagarde" "Vous voyez ce levier ? Le taux directeur. Je le monte, les prix se calment. Je le baisse, l'économie respire."
+  say "Christine Lagarde" "Je le touche par erreur avec mon coude, et trois gouvernements tombent. Donc je ne m'appuie jamais sur le bureau."
+  slide s05_bce_03_pluie zoom_out flash
+  say "Oliver" "IT'S RAINING EUROS ! C'est ça, l'assouplissement quantitatif ?!"
+  say "Agent de sécurité" "Non, monsieur. C'est la climatisation qui a soufflé les billets de l'exposition. Rendez-les. Tous. Je compte."
+  cine end
+:fin
+end
+
+script cine_stras
+  if flag CINE_STRAS goto fin
+  setflag CINE_STRAS
+  cine "Chapitre 4 — Strasbourg"
+  card "Chapitre 4" "Strasbourg"
+  slide s06_strasbourg_01_malles pan_right fade
+  say - "Une fois par mois, le Parlement déménage de Bruxelles à Strasbourg. Avec ses députés, ses assistants… et des milliers de malles."
+  say "Eurodéputé" "Ma malle a fait plus de sessions plénières que moi. Elle a même un siège en commission des transports."
+  slide s06_strasbourg_02_hemicycle zoom_in fade
+  say "Roberta Metsola" "La séance est ouverte ! …Où sont les députés ?"
+  say "Huissier" "Madame la Présidente, ils cherchent encore leurs malles sur le quai."
+  say "Roberta Metsola" "Alors on vote à main levée. Les malles ont-elles le droit de vote ? Non ? Dommage, elles sont à l'heure, elles."
+  cine end
+:fin
+end
+
+script cine_athenes
+  if flag CINE_ATHENES goto fin
+  setflag CINE_ATHENES
+  cine "Chapitre 5 — Athènes"
+  card "Chapitre 5" "Athènes"
+  slide s07_athenes_01_acropole pan_left fade
+  say - "L'Acropole au coucher du soleil. Deux mille cinq cents ans de démocratie, de philosophie… et de réunions qui finissent tard."
+  slide s07_athenes_02_moto zoom_in fade
+  say "Agent Troïka (BCE)" "Monsieur Varoufakis, votre plan n'est pas conforme à nos tableurs."
+  say "Yanis Varoufakis" "Vos tableurs ne sont pas conformes à la réalité. Je vous propose un débat. À moto, si vous suivez."
+  say "Agent Troïka (FMI)" "Nous ne faisons pas de moto. Nous faisons des recommandations."
+  say "Yanis Varoufakis" "Alors recommandez-vous de vous pousser. J'ai une arène qui m'attend."
+  cine end
+:fin
+end
+
+script cine_londres
+  if flag CINE_LONDRES goto fin
+  setflag CINE_LONDRES
+  cine "Chapitre 6 — Londres"
+  card "Chapitre 6" "Londres"
+  slide s08_brexit_01_pluie pan_right fade
+  say - "Londres, sous la pluie. Comme d'habitude. Mais cette fois, quelque chose de plus lourd flotte dans l'air."
+  slide s08_brexit_02_farage zoom_in fade
+  say "Nigel Farage" "Une pinte pour tout le monde ! Et un bus pour la campagne ! Peu importe ce qu'on écrit dessus, les gens liront le bus, pas les notes de bas de page."
+  slide s08_brexit_03_tyrolienne pan_left fade
+  say "Boris Johnson" "Pas de panique ! Je suis coincé sur une tyrolienne, mais c'est une stratégie. Get Brexit done ! Et quelqu'un, une échelle, s'il vous plaît."
+  cine end
+:fin
+end
+
+script cine_brexit
+  cine "Le référendum"
+  slide s08_brexit_04_urne zoom_in fade
+  say - "23 juin 2016. 51,9 % des votants choisissent de quitter l'Union européenne."
+  say - "Le 31 janvier 2020 à minuit, heure de Bruxelles — 23 heures à Londres —, le Royaume-Uni n'est plus membre de l'Union."
+  slide s08_brexit_05_adieu zoom_in fade
+  say "Oliver" "Tu sais ce qui est bizarre ? Je ne voulais pas être ici, au début. Je voulais juste gagner."
+  say "Oliver" "Et maintenant, je dois partir, et je n'en ai plus envie. Ironic, isn't it ?"
+  say "{P}" "Tu reviendras. Il y a Erasmus, les échanges, les visas étudiants…"
+  say "Oliver" "Erasmus ? On en est sortis aussi. Mais je trouverai un moyen. Les Anglais trouvent toujours un moyen de revenir en Europe. On appelle ça les vacances."
+  cine end
+end
+
+script cine_budapest
+  if flag CINE_BUDAPEST goto fin
+  setflag CINE_BUDAPEST
+  cine "Chapitre 7 — Budapest"
+  card "Chapitre 7" "Budapest"
+  slide s09_budapest_01_danube pan_right fade
+  say - "Le Parlement hongrois, doré sur le Danube. Le plus grand bâtiment du pays. Et la plus grande collection de tampons « VETO » d'Europe."
+  slide s09_budapest_02_veto zoom_in fade
+  say "Viktor Orbán" "Budget européen ? Veto. Aide à l'Ukraine ? Veto. Nouvelle couleur des badges du Conseil ? Veto. Par principe."
+  say "Conseiller spécial" "Monsieur le Premier ministre, c'était la commande de votre déjeuner."
+  say "Viktor Orbán" "…Veto quand même. Je n'aime pas qu'on décide pour moi."
+  cine end
+:fin
+end
+
+script cine_magyar
+  cine "12 avril 2026"
+  slide s09_budapest_03_foule zoom_out fade
+  say "Péter Magyar" "Hongrois ! Ce soir, nous n'avons pas gagné contre l'Europe, ni contre nos voisins. Nous avons gagné pour nous-mêmes !"
+  say "Foule" "TISZA ! TISZA ! TISZA !"
+  slide s09_budapest_04_boude zoom_in fade
+  say "Viktor Orbán" "…"
+  say "Viktor Orbán" "Je ne boude pas. Je réfléchis. De dos. Avec un nuage au-dessus de la tête. C'est très différent."
+  cine end
+end
+
+script cine_qatargate
+  cine "Décembre 2022 — l'aube"
+  slide s10_qatargate_01_aube pan_left fade
+  say - "Bruxelles, décembre 2022. À l'aube, la police belge mène des perquisitions autour de la place Lux."
+  slide s10_qatargate_02_billets zoom_in flash
+  say "Policier" "Chef, il y a des sacs. Avec des billets dedans. Beaucoup de billets."
+  say "Chef de la police" "Comptez-les. Et ne touchez pas au ballon de foot, c'est peut-être une pièce à conviction."
+  slide s10_qatargate_03_pris zoom_out fade
+  say - "Des responsables du Parlement et des proches sont interpellés. L'enquête porte sur une possible corruption au profit d'États étrangers."
+  say - "Toutes les personnes mises en cause sont présumées innocentes tant qu'elles n'ont pas été définitivement jugées."
+  say "Le Lobbyiste en chef" "(au loin) Nous, on n'a rien à voir avec ça. Nous, on paie en petits fours. C'est plus discret."
+  cine end
+end
+
+script cine_dgcomp
+  if flag CINE_DGCOMP goto fin
+  setflag CINE_DGCOMP
+  cine "La DG Concurrence"
+  slide s11_dgcomp_01_amende zoom_in fade
+  say "Margrethe Vestager" "Une amende de plus. Je signe, je souris, je tricote un éléphant. C'est très apaisant."
+  say "Juriste concurrence" "Madame la commissaire, les géants du numérique demandent un délai."
+  say "Margrethe Vestager" "Accordé. Ils ont jusqu'à… maintenant."
+  slide s11_dgcomp_02_dsa pan_right fade
+  say "Thierry Breton" "Le règlement sur les services numériques s'applique à tout le monde, monsieur Musk. Même aux réseaux qui changent de nom tous les six mois."
+  say "Elon Musk" "Je réponds par un mème. C'est ma position juridique officielle."
+  say "Thierry Breton" "Je réponds par une lettre de quatre pages. C'est la mienne."
+  say - "Ils tirent chacun d'un côté du téléphone. Le téléphone, lui, affiche « batterie faible »."
+  cine end
+:fin
+end
+
+script cine_tour
+  if flag CINE_TOUR goto fin
+  setflag CINE_TOUR
+  cine "La Tour des assistants fantômes"
+  slide s12_tour_01_couloir zoom_in iris
+  say - "Grâce au badge de l'OLAF, l'invisible devient visible. Des assistants translucides flottent dans le couloir, une fiche de paie à la main."
+  say "Assistant fantôme" "Bonjour… Je travaille ici depuis 2009… Enfin, mon contrat travaille ici… Moi, je ne suis jamais venu…"
+  slide s12_tour_02_sommet zoom_in fade
+  say "Assistant fantôme" "Mes employeurs sont tout là-haut. Ils disent qu'ils ne me connaissent pas. C'est vexant, pour un fantôme."
+  say "François Bayrou" "(derrière la porte) Je ne suis pas là. Et si j'y suis, c'est au bénéfice du doute."
+  cine end
+:fin
+end
+
+script cine_paris
+  if flag CINE_PARIS goto fin
+  setflag CINE_PARIS
+  cine "Chapitre 9 — Paris"
+  card "Chapitre 9" "Paris"
+  slide s13_paris_01_seine pan_right fade
+  say - "Paris à l'heure dorée. La tour Eiffel, la Seine, et quelque part, un discours qui commence et ne finit pas."
+  slide s13_paris_02_discours tilt_up fade
+  say "Emmanuel Macron" "L'Europe doit être souveraine ! Puissante ! Humaniste ! Et j'ajouterais même, si vous me le permettez, et je vais me le permettre…"
+  say "Étudiant" "Ça fait combien de temps qu'il parle ?"
+  say "Étudiante" "Une heure quarante. Il vient de finir l'introduction."
+  slide s13_paris_03_memetemps zoom_out flash
+  say "Emmanuel Macron" "Je suis pour la rigueur ET pour l'investissement. Pour l'ouverture ET pour la protection. Je suis d'accord avec vous ET avec votre adversaire."
+  say "{P}" "Ça s'appelle comment, ça ?"
+  say "Emmanuel Macron" "Le « en même temps ». C'est breveté. Enfin, en même temps, c'est libre de droits."
+  cine end
+:fin
+end
+
+script cine_sofagate
+  cine "Avril 2021 — Ankara"
+  slide s14_sofagate_01_fauteuils zoom_in fade
+  say - "Avril 2021, Ankara. Trois dirigeants entrent dans la pièce. Il y a deux fauteuils."
+  say "Ursula von der Leyen" "Ehm."
+  say "Charles Michel" "(déjà assis) Oh. Oh non. Je viens de comprendre."
+  slide s14_sofagate_02_canape zoom_out fade
+  say "Ursula von der Leyen" "Non, non, ne vous dérangez pas. Je vais très bien sur ce canapé. Il est long. Il est beige. Il est loin."
+  say - "L'incident fera le tour du monde sous le nom de « Sofagate ». Depuis, Charles Michel vérifie le nombre de chaises avant d'entrer quelque part."
+  cine end
+end
+
+script cine_conseil
+  if flag CINE_CONSEIL goto fin
+  setflag CINE_CONSEIL
+  cine "Chapitre 10 — Le Conseil européen"
+  card "Chapitre 10" "La nuit du Conseil européen"
+  slide s15_conseil_01_lanterne zoom_in fade
+  say - "Le bâtiment Europa. Dans sa lanterne de verre, les chefs d'État et de gouvernement se réunissent. Les sommets commencent à 15 h. Ils finissent… plus tard."
+  slide s15_conseil_02_table pan_right fade
+  say "António Costa" "Chers collègues, il est 4 h 12. Il nous reste une virgule à régler dans le paragraphe 37."
+  say "Angela Merkel" "J'ai connu des sommets où on a négocié une virgule jusqu'au petit-déjeuner. C'était une très belle virgule."
+  say "Mario Draghi" "Je propose une virgule. Quoi qu'il en coûte."
+  say "Kaja Kallas" "Je propose qu'on commande d'autres pizzas avant que quelqu'un propose un point-virgule."
+  slide s15_conseil_03_cloche zoom_in flash
+  say "António Costa" "ACCORD ! Il est 5 h 03. Les conclusions sont adoptées. Quelqu'un peut réveiller le Premier ministre qui dort sous la table ?"
+  cine end
+:fin
+end
+
+script cine_champion
+  cine "Le 13ᵉ étage"
+  slide s16_champion_01_berlaymont tilt_up fade
+  say - "Le Berlaymont au coucher du soleil. Treize étages. Au dernier, la présidente de la Commission attend."
+  slide s16_champion_02_bureau zoom_in fade
+  say "Ursula von der Leyen" "Charles, vous pouvez arrêter de bouder ? Ça fait cinq ans."
+  say "Charles Michel" "Je ne boude pas. Je regarde le mur. Il est très intéressant, ce mur. Il n'a pas de fauteuil."
+  say "Ursula von der Leyen" "{P}. Vous voilà enfin."
+  slide s16_champion_03_duel zoom_in flash
+  say "Ursula von der Leyen" "Vous voulez la directive ? Battez-moi. Team Europe, à la fin, il n'en restera qu'un."
+  cine end
+end
+
+script cine_pantheon
+  cine "Le mur des stagiaires"
+  slide s16_champion_04_pantheon pan_right fade
+  say - "Au 13ᵉ étage, un long couloir porte les photos de tous les stagiaires de la Commission. Personne ne les regarde jamais."
+  say - "Aujourd'hui, un nouveau cadre doré vient d'être accroché. Et pour une fois, quelqu'un s'arrête pour le regarder."
+  cine end
+end
+
+script cine_puissances
+  cine "Chapitre 11 — Les Grandes Puissances"
+  card "Chapitre 11" "Les Grandes Puissances"
+  slide s17_puissances_01_airforce pan_right fade
+  say - "Port d'Anvers. Un avion présidentiel atterrit. Les mouettes, prudentes, s'envolent vers les Pays-Bas."
+  slide s17_puissances_02_tele zoom_in cut
+  say "Présentatrice télé" "Édition spéciale ! Washington, Moscou et Pékin envoient en même temps des messages à l'Europe. Les marchés hésitent entre la panique et la sieste."
+  say "Client du café" "Encore ? Je n'ai même pas fini mon gaufre."
+  say "Serveur" "Une gaufre, monsieur. C'est féminin. Comme la Commission."
+  slide s17_puissances_03_cargo pan_left fade
+  say - "Au même moment, au Pirée, un porte-conteneurs grand comme une ville accoste. Personne ne sait exactement ce qu'il contient. Ni ce qu'il achète."
+  cine end
+end
+
+script cine_anvers
+  if flag CINE_ANVERS goto fin
+  setflag CINE_ANVERS
+  cine "Anvers — le green"
+  slide s18_anvers_01_golf zoom_in fade
+  say "Donald Trump" "Regardez-moi ce green. Entre deux conteneurs. Le plus beau green de l'histoire des ports."
+  say "JD Vance" "Monsieur le Président, le sac de golf est très lourd. Est-ce qu'on peut le taxer ?"
+  say "Mark Rutte" "Magnifique coup, papa ! Euh… Monsieur le Président !"
+  slide s18_anvers_02_taxe zoom_out flash
+  say "Donald Trump" "Chaque balle qui sort des États-Unis paie des droits de douane. Celle-là aussi. Surtout celle-là. Elle est tombée dans l'Escaut ? TRÈS INJUSTE."
+  cine end
+:fin
+end
+
+script cine_varsovie
+  if flag CINE_VARSOVIE goto fin
+  setflag CINE_VARSOVIE
+  cine "Varsovie — la neige"
+  slide s19_varsovie_03_neige pan_left fade
+  say "Donald Tusk" "Le palais au bout de la plaine ? C'est là qu'il vous attend. Prenez une écharpe. Et un mégaphone, pour la table."
+  say "Volodymyr Zelensky" "Il va vous dire que l'Europe a froid sans lui. Montrez-lui que l'Europe a appris à se réchauffer toute seule."
+  cine end
+:fin
+end
+
+script cine_poutine
+  cine "La table"
+  slide s19_varsovie_01_table pan_right fade
+  say - "Une table blanche. Très blanche. Très longue. Tellement longue qu'elle a son propre fuseau horaire."
+  say "{P}" "(très fort) BONJOUR !"
+  say - "…"
+  say - "Trois secondes plus tard, l'écho revient de l'autre bout de la salle."
+  slide s19_varsovie_02_regard zoom_in fade
+  say "Vladimir Poutine" "Je vous entends très bien. C'est vous qui êtes trop près."
+  cine end
+end
+
+script cine_piree
+  if flag CINE_PIREE goto fin
+  setflag CINE_PIREE
+  cine "Le Pirée"
+  slide s20_piree_01_panda zoom_in fade
+  say "Xi Jinping" "Un cadeau. Un panda en peluche. Il symbolise l'amitié entre nos peuples."
+  say "{P}" "Il est très mignon. Merci. …Pourquoi le port vient-il de changer de drapeau ?"
+  slide s20_piree_02_sceau zoom_out flash
+  say "Xi Jinping" "Partenariat stratégique. Vous gardez le panda. Nous gardons le port. Tout le monde est content."
+  say "Docker grec" "Moi, j'aurais préféré le panda en vrai. Il mange du bambou, au moins il ne rachète rien."
+  cine end
+:fin
+end
+
+script cine_gtout
+  cine "Le Sommet G-Tout"
+  slide s21_gtout_01_salle zoom_in fade
+  say - "Le Sommet G-Tout. Trois grandes puissances. Une seule table. Et une Europe qu'on avait mise sur le strapontin."
+  slide s21_gtout_02_triptyque pan_right cut
+  say "Donald Trump" "L'Europe doit choisir : moi."
+  say "Vladimir Poutine" "L'Europe doit choisir : moi. Ou le froid."
+  say "Xi Jinping" "L'Europe peut choisir. Nous avons déjà acheté les deux options."
+  cine end
+end
+
+script cine_gtout_fin
+  cine "L'Europe se lève"
+  slide s21_gtout_03_debout tilt_up flash
+  say "{P}" "L'Europe ne choisit pas un maître. Elle choisit de rester ensemble. Vingt-sept pays, vingt-quatre langues, une seule table. La nôtre."
+  slide s21_gtout_04_sortie zoom_out fade
+  say "Donald Trump" "Je pars. C'est MOI qui ai décidé de partir. Personne ne m'a battu."
+  say "Vladimir Poutine" "Je pars aussi. La porte était trop près de moi, de toute façon."
+  say "Xi Jinping" "Nous partons. Mais nous restons partenaires. Et concurrents. Et rivaux. Bonne soirée."
+  say - "Trois portes claquent. Trois grandes puissances boudent. Et dans la salle, des stagiaires applaudissent."
+  cine end
+end
+
+script cine_fin
+  cine "Épilogue"
+  card "Épilogue" "Bruxelles, le soir de la fin du stage"
+  slide s22_fin_01_grandplace tilt_up fade
+  say - "Grand-Place de Bruxelles. Des feux d'artifice bleus et or dessinent douze étoiles au-dessus de l'hôtel de ville."
+  slide s22_fin_02_diplome zoom_in fade
+  say "Professeur Schuman" "{P}, au nom de toutes les institutions, voici ton attestation de fin de stage. Elle est signée, contresignée et traduite en vingt-quatre langues."
+  say "Professeur Schuman" "La version maltaise a une coquille. C'est la tradition."
+  slide s22_fin_03_retour zoom_in flash
+  say "Oliver" "{P} ! WAIT ! Ne commencez pas sans moi !"
+  say "{P}" "Oliver ?! Mais… comment ?"
+  say "Oliver" "Visa jeune professionnel, assurance, deux formulaires, trois tampons. Un vrai Euromon de paperasse. Je suis de retour. Comme touriste. Mais de retour !"
+  slide s22_fin_04_photo pan_right fade
+  say "Jean-Claude Juncker" "Photo de groupe ! Tout le monde serré ! Je tapote les joues après."
+  say "Nigel Farage" "Je suis sur la photo seulement si on ne dit à personne que j'étais sur la photo."
+  say "Viktor Orbán" "(hors champ) Veto à la photo."
+  say "Péter Magyar" "Il n'a plus le droit de veto. Souriez !"
+  slide s22_fin_05_ciel zoom_out fade
+  say "Jean Monnet" "« Nous ne coalisons pas des États, nous unissons des hommes. » Et des femmes, et des stagiaires."
+  say "Robert Schuman" "Des réalisations concrètes. Une solidarité de fait. Bravo, petit. Et maintenant… va dormir. Demain, il y a une réunion de coordination sur les réunions."
+  cine end
+end
+
+script cine_rome
+  cine "Rome, 25 mars 1957"
+  slide s23_legendes_01_rome zoom_in fade
+  say - "Place du Capitole. Le 25 mars 1957, six pays ont signé ici les traités de Rome. La pierre s'en souvient. Elle se met à briller."
+  cine end
+end
+
+script cine_maastricht
+  cine "Maastricht, 7 février 1992"
+  slide s23_legendes_02_maastricht pan_right fade
+  say - "La Meuse, la nuit. Ici est née l'Union européenne, et l'idée d'une monnaie unique. Des pièces lumineuses remontent à la surface de l'eau."
+  cine end
+end
+
+script cine_lisbonne
+  cine "Lisbonne, 13 décembre 2007"
+  slide s23_legendes_03_lisbonne tilt_up fade
+  say - "L'aube sur le Tage. Devant le monastère des Hiéronymites, des pages de traité se mettent à flotter, puis à voler."
+  cine end
+end

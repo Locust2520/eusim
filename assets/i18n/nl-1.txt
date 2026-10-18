@@ -1,0 +1,477 @@
+# Nederlands — ids 0-499
+0 LOB
+1 SCH
+2 BEV
+3 SLP
+4 BLK
+5 Lv.%d
+6 DEBAT
+7 TAS
+8 VLUCHT
+9 TEAM
+10 PP %d/%d
+11 Geen effect
+12 Supereffectief
+13 Weinig effectief
+14 Terug
+15 Geen PP meer voor deze aanval!
+16 Jij bent aan de beurt, %s!
+17 %s stuurt %s het veld in!
+18 Maar %s heeft al een probleem…
+19 %s staat al aan de kant van de lobby's!
+20 De middelen van een centrale bankier bevries je niet!
+21 %s staat onder invloed van een lobby!
+22 %s zit in een schandaal!
+23 De middelen van %s zijn bevroren!
+24 %s valt in slaap midden in de nachttop!
+25 %s zit vast in de commissie!
+26 Argumentatie
+27 Weerbaarheid
+28 Expertise
+29 Diplomatie
+30 Reactie
+31 Precisie
+32 Ontwijking
+33 %s: %s kan niet hoger!
+34 %s: %s kan niet lager!
+35 %s: %s stijgt sterk!
+36 %s: %s stijgt!
+37 %s: %s daalt sterk!
+38 %s: %s daalt!
+39 %s gebruikt %s!
+40 (trump)%s gebruikt %s!
+41 %s bereidt een dossier van 400 pagina's voor…
+42 Maar niemand trapt twee keer in de banktruc!
+43 %s plagieert de tegenstander!
+44 Maar er valt niets te plagiëren…
+45 %s beroept zich op artikel 50 en verlaat het debat!
+46 %s beroept zich op artikel 50 en vertrekt!
+47 %s beroept zich op artikel 50… maar de onderhandelingen duren nog jaren!
+48 %s beschermt zich met een veto!
+49 'VETO!' De tegenstander blokkeert het besluit: unanimiteit vereist.
+50 Maar de aanval van %s mist doel!
+51 %s is al gedesinformeerd!
+52 %s is gedesinformeerd!
+53 Maar de HP van %s zijn al vol!
+54 %s krijgt HP terug!
+55 %s doet een herstellend dutje!
+56 Maar het veto werkt deze keer niet!
+57 %s zwaait met zijn vetorecht!
+58 Vrijwaringsclausule! Alle wijzigingen worden geschrapt.
+59 De berichten van %s zijn gewist… Geen spoor meer!
+60 Structuurfondsen regenen op het veld!
+61 %s belandt op de bank!
+62 Maar er gebeurt niets…
+63 Het heeft geen effect op %s…
+64 Voltreffer!
+65 %d keer geraakt!
+66 Het is supereffectief!
+67 Het is niet erg effectief…
+68 %s zit vast in een eindeloze procedure!
+69 %s sluist geld weg!
+70 %s krijgt de terugslag!
+71 Overal rollen munten!
+72 %s is te ontregeld om te handelen!
+73 %s slaapt diep… (het is 4 uur 's nachts)
+74 %s wordt wakker! De top is voorbij.
+75 %s komt eindelijk uit de commissie!
+76 De middelen van %s zijn bevroren! Handelen onmogelijk.
+77 %s heeft zijn bronnen gecheckt!
+78 %s is gedesinformeerd…
+79 Het deelt nepnieuws en zet zichzelf voor schut!
+80 Orbán is even koffie gaan halen! Zijn Euromon wacht, hulpeloos.
+81 %s ondergaat de invloed van de lobby's!
+82 Het schandaal raakt ook %s!
+83 %s zit vast in de procedure!
+84 %s is K.O.!
+85 %s leert %s!
+86 %s wil %s leren, maar kent al vier aanvallen.
+87 Niet leren
+88 Welke aanval vergeten?
+89 1, 2, 3… Hop! %s vergeet %s…
+90 … en leert %s!
+91 %s leert %s niet.
+92 %s krijgt %d ervaringspunten!
+93 %s gaat naar level %d!
+94 {P} gooit een %s!
+95 Hebbes! %s wordt bekendgemaakt in het Publicatieblad!
+96 De gegevens van %s zijn toegevoegd aan de Eurodex.
+97 %s is naar het Archief gestuurd.
+98 O nee! %s is losgebroken!
+99 Argh! Het scheelde zo weinig!
+100 Verdorie! Er ontbrak maar één stempel!
+101 Argh! Een vormfout!
+102 %s is bij referendum verworpen! Vangen onmogelijk.
+103 Je vangt geen Euromon van een andere trainer! Dat zou een schandaal zijn.
+104 {P} gebruikt %s!
+105 Op welke Euromon?
+106 %s krijgt HP terug.
+107 %s voelt zich beter.
+108 %s is weer in dienst!
+109 Dat heeft geen enkel effect.
+110 Dit is niet het moment!
+111 Wie gaat het debat in?
+112 Wie stuur je?
+113 %s kan niet meer debatteren!
+114 %s staat al in het veld!
+115 Kom terug, %s!
+116 partner
+117 concurrent
+118 systeemrivaal
+119 De Euromon van de tegenstander presenteert zich nu als… %s! (type %s)
+120 %s %s wil debatteren!
+121 O! Een glanzende %s!
+122 Een wilde %s verschijnt!
+123 Wat moet {P} doen?
+124 Een officieel debat verlaat je niet! Dat zou een teken van zwakte zijn.
+125 Je vlucht via de nooduitgang!
+126 Vluchten onmogelijk: de vergadering is niet gesloten!
+127 %s brengt zijn argument… De tafel is zo lang dat het een beurt duurt voor het aankomt!
+128 Het argument van de vorige beurt bereikt eindelijk het andere eind van de tafel!
+129 %s gaat %s sturen.
+130 Doorgaan
+131 Euromon wisselen
+132 Euromon wisselen?
+133 {P} wint %d € voor dit debat!
+134 {P} raapt %d € aan structuurfondsen op.
+135 — TUSSENFILMPJE —
+136 A: volgende    START: overslaan
+137 Ja
+138 Nee
+139 Tik of druk op A
+140 Bedankt voor het spelen!
+141 EINDE… of bijna.
+143 Opslagbestand onleesbaar!
+144 Professor Schuman
+145 Hallo, hallo! Welkom in de wonderlijke… en licht bureaucratische… wereld van de Europese Unie!
+146 Ik heet Robert Schuman. Misschien heb je van me gehoord: een verhaal over kolen, staal en een 9 mei… Ik vertel het je nog.
+147 Sindsdien wordt deze wereld bevolkt door vreemde wezens: de EUROMONS!\fRichtlijnen, verordeningen, amendementen, cookiebanners… Ze wonen in stapels dossiers en in de vloerbedekking van de gangen.
+148 Sommigen verzamelen ze, anderen laten ze debatteren. Ik bestudeer ze. Dat heet… comitologie!
+149 Maar laten we het over jou hebben. Vanochtend worden twee stagiairs verwacht in het Europees Parlement…
+150 Links Alex, de nieuwe stagiaire. Rechts Max, de nieuwe stagiair. Wie ben jij?
+151 Alex, een meisje
+152 Max, een jongen
+153 Perfect! En hoe moet ik je officieel noemen? Het moet in alle 24 talen geschreven worden, dus kies goed.
+154 Je voornaam (max. 10 letters):
+155 {P}! Prachtig. Ik laat het meteen in het Maltees vertalen.
+156 Dit is Oliver, je collega-stagiair, rechtstreeks uit Londen. Hij is… erg zelfverzekerd.
+157 Hello! Don't worry, {P}, ik word de beste stagiair van de hele Unie. Easy.
+158 Jullie missie is simpel: ÉÉN richtlijn erdoor krijgen.\fDe richtlijn over het einde van de klokwissel. Het Parlement heeft hem in maart 2019 aangenomen…
+159 … en sindsdien slaapt hij in de Raad. Zoals zoveel dingen.
+160 Daarvoor hebben jullie de 8 badges van de grote steden van Europa nodig, moeten jullie de Europese Raad overtuigen, en de voorzitter van de Commissie zelf!\fKom op, {P}. Je stage begint nu. Hij is onbetaald, maar wel leerzaam!
+161 Hoofd/klein
+162 Wissen
+163 Wist je dat? Het Parlement verhuist twaalf keer per jaar naar Straatsburg, koffers inbegrepen.
+164 De EU heeft 24 officiële talen. Je stagiair spreekt er anderhalf.
+165 Tip: doppen die aan de fles vastzitten raken niet meer kwijt (richtlijn 2019/904).
+166 Laden… zoals het einde van de klokwissel: aangenomen in 2019, nog steeds in afwachting.
+167 De Europese vlag heeft 12 sterren. Dat is niet het aantal landen: het is een symbool van perfectie.
+168 De Schumanverklaring dateert van 9 mei 1950. 9 mei is Europadag!
+169 De euromunten belandden op 1 januari 2002 in onze zakken.
+170 Sinds juni 2017 geen roamingkosten meer in Europa. Bel je moeder vanuit Lissabon!
+171 De universele USB-C-lader is verplicht sinds eind 2024. Vaarwel kabellade.
+172 Erasmus werd geboren in 1987. Sindsdien hebben miljoenen studenten leren pasta koken.
+173 Het Schengenakkoord werd in 1985 getekend op een boot op de Moezel, in Luxemburg.
+174 Het Europees Parlement telt sinds 2024 720 leden.
+175 Tip: de kantine geneest je hele team. Koffie geneest helemaal niets.
+176 Tip: ren door B ingedrukt te houden. De gangen van het Berlaymont zijn lang.
+177 De verordening over de kromming van bananen (1994) bestaat… maar gaat vooral over kwaliteit.
+178 De AVG (2018) bezorgde je cookiebanners. Heel veel cookiebanners.
+179 De Nobelprijs voor de Vrede werd in 2012 aan de Europese Unie toegekend.
+180 Het Verdrag van Rome (1957) richtte de Europese Economische Gemeenschap op.
+181 Het Verdrag van Maastricht (1992) richtte de Europese Unie op en voorzag in de euro.
+182 Het Verdrag van Lissabon (2007) bevat artikel 50. Eén land heeft het gebruikt.
+183 Het Verenigd Koninkrijk verliet de EU op 31 januari 2020. Oliver is er nog steeds niet overheen.
+184 Tip: officiële Stempels vangen verzwakte Euromons beter.
+185 Tip: een Euromon die in slaap is gesust door een Nachttop is makkelijker te vangen.
+186 Het Berlaymont werd van 1991 tot 2004 asbestvrij gemaakt. Het bouwoverleg duurde lang.
+187 Het Hof van Justitie van de EU zetelt in Luxemburg, op het Kirchbergplateau.
+188 De ECB zit in Frankfurt. De toren kostte meer dan gepland. Inflatie, ongetwijfeld.
+189 Simone Veil was in 1979 de eerste voorzitter van het verkozen Europees Parlement.
+190 De Commissie heeft 27 commissarissen: één per land. Ook voor het visserijbeleid van Oostenrijk.
+191 Tip: druk op X om het menu te openen.
+192 De Donau stroomt door tien landen. Jouw schoenen maar door twee.
+193 Op Europadag verschijnt een zeldzame Euromon. Probeer 9 mei!
+194 De vertalingen van de EU beslaan miljoenen pagina's per jaar.
+195 Het Europese volkslied is Beethovens Ode an die Freude, zonder officiële tekst.
+196 Tip: aanvallen van het type Juridisch zijn supereffectief tegen Lobby.
+197 Tip: een Veto blokkeert een aanval, maar niet je vastberadenheid.
+198 De brexit duurde zo lang dat het woord 'brextension' werd uitgevonden.
+199 Het Parlement heeft in elke lidstaat een verbindingsbureau.
+200 Tip: praat met iedereen. Zelfs met de duif op het Luxemburgplein.
+201 Denemarken heeft een opt-out voor de euro. Het houdt zijn kroon, en zijn Vikingen.
+202 Laden van 27 nationale adviezen… 26 van de 27… Wachten op Hongarije.
+203 Wist je dat?
+204 Laden…
+205 Team
+206 Tas
+207 Kaart
+208 Verslag
+209 Opties
+210 %lu u %02lu
+211 HP
+212 K.O.
+213 Lv.%d   Nr.%03d
+214 Erv.
+215 Volgende
+216 B: terug
+217 Wisselen met… ?
+218 A: kiezen   B: terug
+219 Overzicht
+220 Verplaatsen
+221 Genezing
+222 Stempels
+223 Gevecht
+224 Sleutel
+225 Wilde Euromons laten je een tijdje met rust.
+226 De PP van %s zijn hersteld.
+227 Het heeft geen effect.
+228 Dit is niet het moment om dat te gebruiken.
+230 (leeg)
+231 Gebruiken
+232 Nr.%03d  %s
+233 Vang deze Euromon om zijn fiche te lezen.
+234 EURODEX   Gezien: %d   Gevangen: %d
+235 Geen opslagmedium gevonden.\fStart het spel op een DS (DS Pico, R4…) vanaf de SD-kaart. Activeer in een emulator DLDI / de SD-kaart, of gebruik savestates.
+236 Een voortgangsverslag opstellen (slot %d)?
+237 Opslaan
+238 Ander slot…
+239 Annuleren
+240 Verslag verstuurd in 24 talen. Spel opgeslagen (slot %d)!
+241 Schrijven naar de SD-kaart mislukt. Probeer het opnieuw.
+242 Instellingen
+243 Bronnen van de feiten
+244 Terug naar titel
+245 Terug naar het titelscherm? Wat niet is opgeslagen gaat verloren.
+247 Totaal: %d €
+248 A: bevestigen   B: annuleren
+249 Kopen
+250 Verkopen
+251 Tot ziens
+252 Verkoper
+253 Welkom in de winkel van het Parlamentarium! Alles gegarandeerd conform de EG-normen.
+254 Je budget: %lu €
+255 In je tas: %d
+256 Het lijkt erop dat je budget… onder het uitgavenplafond zit.
+257 Bedankt! En hier is een Superstempel cadeau, voor de grootverpakking!
+258 Bedankt voor je aankoop! Factuur in drievoud.
+259 Dat? Dat is niet te koop, het is een voorwerp van strategisch belang!
+260 Afgesproken!
+261 Tot ziens! Vergeet niet: de USB-C-lader wordt apart verkocht.
+262 TEAM → ARCHIEF (%d/%d)
+263 ARCHIEF → TEAM (%d/%d)
+264 ◀▶ kant   A: verplaatsen   B: stoppen
+265 {P} zet de archiefterminal aan. 'Welkom in het documentbeheersysteem.'
+266 Er moet minstens één Euromon in het team blijven!
+267 Het team is vol (maximaal 6 Euromons).
+268 Ruling
+270 Halfrond
+272 Artikel 50
+274 Boete
+276 Jean-Claude Juncker, Luxemburg
+277 Christine Lagarde, Frankfurt
+278 Roberta Metsola, Straatsburg
+279 Yanis Varoufakis, Athene
+280 Farage & Johnson, Londen
+282 Margrethe Vestager, Brussel
+273 Veto
+284 KOKER MET VERDRAGSBADGES
+285 behaald
+286 te veroveren
+287 Badge %s — uitgereikt door %s.
+288 Wat? %s evolueert!
+289 Je hebt de hervorming uitgesteld. %s is niet geëvolueerd.
+290 Gefeliciteerd! %s is geëvolueerd tot %s!
+291 Tijd: %d s
+292 Score: %d / %d
+293 Minigame
+294 Stemming in de plenaire vergadering
+295 De Europarlementariërs komen het halfrond binnen! Tik op elke stoel die geel oplicht voordat hij uitgaat. 25 stemmen in 30 seconden!
+296 Voorzitterschap
+297 Tik op de gele stoelen!
+298 Met grote meerderheid aangenomen! Applaus van alle banken.
+299 Het quorum is niet gehaald. De vergadering is geschorst…
+300 De Stempel
+301 Documenten schuiven over het bureau. Tik op elk document om het af te stempelen voordat het van het scherm verdwijnt. 15 documenten!
+302 Tik op de documenten om ze te stempelen
+303 Alle documenten zijn gestempeld! De administratie is trots op je.
+304 Er zijn documenten zonder stempel vertrokken. Ze moeten het hele circuit opnieuw doorlopen…
+305 Cookiebanners
+306 Cookiebanners overspoelen het scherm! Tik op elke banner op 'Weigeren'. Stapelen er zes op, dan verlies je. Hou het 25 seconden vol!
+307 (een willekeurige website)
+308 Wij respecteren
+309 je privacy
+310 Accepteren
+311 Weigeren
+312 Weiger alles! (tik niet op Accepteren)
+313 Alle cookies geweigerd! De AVG is trots op je.
+314 Bedolven onder banners… Je hebt 437 advertentiepartners geaccepteerd.
+315 Nachttop
+316 Het is 3 uur 's nachts en de 27 staatshoofden vallen in slaap! Blaas in de microfoon (of tik op het slapende hoofd) om ze te wekken. 27 keer wekken voor zonsopgang!
+317 %d.%02d u
+318 Blaas / tik op het slapende hoofd!
+319 Iedereen wakker! Akkoord om 4.37 uur. Zoals altijd.
+320 De zon komt op boven een tafel slapende leiders. De top wordt uitgesteld.
+321 De koffers van Straatsburg
+322 Laad de koffers van de Europarlementariërs in de trein, op volgorde: 1, 2, 3… tot 10. Je hebt 30 seconden!
+323 Perron — TGV Straatsburg ⇄ Brussel
+324 De koffers
+325 Tik de koffers op volgorde aan!
+326 Alle koffers zitten in de trein! De zitting kan beginnen.
+327 De trein is zonder de koffers vertrokken. De parlementariërs vergaderen in pyjama.
+328 Taal
+329 Tekstsnelheid
+330 Tekstgeluid
+331 Muziekvolume
+332 Gevechtsanimaties
+333 Traag
+334 Normaal
+335 Snel
+336 ↑↓ / stylus: scrollen    B: terug
+337 Credits
+338 SD-kaart
+339 cartridge
+340 geen
+341 {P} krijgt %d × %s!
+342 {P} krijgt: %s!
+343 — Leeg slot —
+344 Eurodex: %d
+345 Doorgaan: kies een spel
+346 Nieuw spel: slot
+347 Opslaan in…
+348 Dit slot bevat al een spel. Overschrijven?
+349 Nieuw spel
+350 Credits & bronnen
+351 Hoofdmenu
+352 Onofficiële parodie · v2.0
+353 De stage van je leven
+354 DRUK OP START
+355 {P} krijgt %s!
+356 Het team is vol: hij gaat naar het Archief.
+357 {P} heeft geen Euromon meer die kan debatteren…\f{P} rent met gebogen hoofd terug naar de kantine.
+358 Kantinedame
+359 Kom op, een goeie koffie en we kunnen weer verder! Je Euromons zijn kerngezond.
+360 Rulingbadge
+361 Eurobadge
+362 Halfrondbadge
+363 OXI-badge
+364 Artikel 50-badge
+365 Vetobadge
+366 Boetebadge
+367 Sorbonnebadge
+368 {P} krijgt de %s!
+369 Je Eurodex telt %d gevangen Euromons van de %d geziene.
+371 Een begin! Kleine stapjes maken grote unies.
+372 Niet slecht! Je gaat sneller vooruit dan de zomertijdrichtlijn.
+373 Indrukwekkend! Zelfs de Commissie heeft niet zoveel dossiers.
+374 Buitengewoon! Je bent in je eentje een echte instelling.
+375 {P} vindt: %s!
+376 De niet-wervingsclausule is verlopen.
+377 Brussel
+378 Luxemburg
+379 Frankfurt
+380 Straatsburg
+381 Athene
+382 Londen
+384 Parijs
+385 Antwerpen
+386 Warschau
+387 Rome
+389 Lissabon
+390 Loketbediende
+391 Voorlopig geen bestemming beschikbaar.
+392 Andere bestemmingen…
+393 Instappen! De trein vertrekt… met maar een paar minuten vertraging.
+394 Diplomaat
+395 Josep Borrell, de voormalige hoge vertegenwoordiger, zei in 2022: 'Europa is een tuin, de rest van de wereld is een jungle.' Dat maakte… wat ophef.
+397 Zestien jaar bondskanselier. Honderden toppen. In 2015 zei ik: 'Wir schaffen das' — we gaan het redden.
+398 Maar redt u het ook? Ik ben het eerste lid van de Raad. Niemand komt erlangs zonder compromis.
+399 Wir haben es geschafft. U mag door. Mario wacht op u… met een verslag van 400 pagina's.
+401 Juli 2012, Londen. Ik zei drie woorden: 'Whatever it takes'. De euro was gered. De markten kwamen tot rust.
+402 In 2024 vroeg mijn rapport over concurrentievermogen tot 800 miljard investeringen per jaar. Investeer in dit debat.
+403 U hebt alles gedaan wat nodig was. Kaja Kallas wacht op u. Ze is… heel direct.
+405 Hoge vertegenwoordiger voor buitenlandse zaken sinds december 2024. Voormalig premier van Estland.
+406 De wereld is gevaarlijk. Ik moet weten of u stand kunt houden tegenover de grootmachten. Laat het me zien.
+407 Solide. Dat zult u nodig hebben. Voorzitter Costa wacht op u. Hij hoopt voor middernacht klaar te zijn.
+409 Voorzitter van de Europese Raad sinds december 2024! Het is 23.54 uur. Als we voor middernacht klaar zijn, is dat een historische primeur.
+410 Maar eerst: alle staatshoofden zijn rond de tafel in slaap gevallen. Help me ze wakker te maken! Blaas in de microfoon… of tik op het scherm!
+411 Het is… 4.37 uur. Goed. Zoals altijd. Laten we toch debatteren.
+412 De Europese Raad keurt uw kandidatuur unaniem goed! Nou ja… unaniem min één constructieve onthouding.
+413 De voorzitter van de Commissie wacht op u op de 13e verdieping van het Berlaymont. Het is de laatste stap voor de richtlijn.
+415 Ah, goedendag. Ik ben Charles Michel, voormalig voorzitter van de Europese Raad. Ik zit gewoon… Op de enige stoel.
+416 In Ankara, in april 2021, nam ik de fauteuil. Ursula belandde op de bank. Ze noemden het 'Sofagate'. Ik ben er nooit echt overheen gekomen.
+418 Welkom op de 13e verdieping. Ja, ik woon hier: naast mijn kantoor is een kleine slaapkamer. Handig voor dringende dossiers.
+419 Voorzitter van de Commissie sinds 2019, herkozen in 2024. De Green Deal, de coronacrisis, de vaccins…
+420 De sms'jes met de baas van Pfizer? In mei 2025 vernietigde het Gerecht van de EU onze weigering om ze aan de New York Times te geven. Enfin. Volgende punt.
+421 Wilt u de zomertijdrichtlijn? Versla me. Team Europe — op het eind kan er maar één overblijven.
+422 Buitengewoon. U bent de beste stagiair in de geschiedenis van de Commissie. Hier is ze… de richtlijn over het einde van de klokwissel.
+423 Ze hoeft alleen nog ondertekend te worden. Een formaliteit! Het volstaat dat…
+424 De grootmachten wachten! Antwerpen, Warschau, Piraeus… Neem de trein.
+425 U hebt Europa gered. En de richtlijn zit… in de commissie. Zoals altijd. Bedankt voor alles, {P}.
+426 PIEP PIEP PIEP! Drie dringende berichten komen tegelijk binnen op alle telefoons van het Berlaymont.
+428 HELLO EUROPE! Ik heb een klein verzoek. Heel klein. Ik heff invoerheffingen op alles. En ik wil graag Groenland kopen. Dat is toch te koop?
+429 Tweede bericht, uit het Oosten: 'De gaskraan is dicht. Voor uw eigen bestwil.' Getekend: V. P.
+430 Derde bericht, heel beleefd: 'Wij schorten onze export van zeldzame aarden op. Uw telefoons zullen… minder werken.' Getekend: X. J.
+431 {P}, de richtlijn moet wachten. De grootmachten willen Europa in het gareel brengen. We moeten ze opzoeken. Alle drie.
+432 De haven van Antwerpen, Warschau en de haven van Piraeus in Athene. De stations staan voor u open. Team Europe rekent op u!
+434 Ik ben secretaris-generaal van de NAVO. Op de top in Den Haag, in juni 2025, hebben we toegezegd tegen 2035 naar 5 % van het bbp voor defensie te gaan.
+435 En ik noemde Donald 'daddy'. Nou ja. Bij wijze van spreken. Hij vond het geweldig. Ga maar, hij staat op de green.
+437 In februari 2025 heb ik de Europeanen op de Veiligheidsconferentie in München uitgelegd wat democratie is. Ze waren… verrast.
+438 DIT IS DE MOOISTE GOLFBAAN VAN DE WERELD. Ik heb hem net gekocht. Denk ik. De haven misschien ook.
+439 Op 2 april 2025, Liberation Day! Ik hield een groot bord omhoog met heffingen voor IEDEREEN. Zelfs voor eilanden waar alleen pinguïns wonen.
+440 In juli 2025 sloten Ursula en ik op mijn golfbaan in Turnberry een deal: 15 %. Maar ik kan van gedachten veranderen. Dat doe ik vaak. Dat is strategie.
+441 En Groenland! Het is groot, het is wit, het is prachtig. Denemarken wil niet verkopen. ZEER ONEERLIJK. We debatteren, en als ik win, koop ik het!
+442 Het was doorgestoken kaart. Totaal doorgestoken kaart. Goed. Het blijft 15 %. En Groenland blijft Deens. Voorlopig. Vanavond post ik iets in hoofdletters.
+444 Welkom in Warschau. Premier van Polen, voormalig voorzitter van de Europese Raad. Hier weten we wat vrijheid waard is.
+446 Sinds februari 2022 biedt mijn land weerstand tegen de Russische invasie. Dank aan Europa voor de steun. Het paleis is daarboven: wees voorzichtig.
+447 Neem deze REPowerEU-kit: Europa heeft geleerd het zonder Russisch gas te doen. U hebt hem nodig om het daar warm te houden.
+448 Vladimir Poetin
+449 Gaat u zitten. Nee… verder weg. Zo. In februari 2022 ontving ik presidenten op deze afstand. Dat is… comfortabeler.
+450 Het gas? Ik heb de kraan dichtgedraaid. Verkiezingen? In december 2024 heeft het Roemeense Grondwettelijk Hof presidentsverkiezingen geannuleerd wegens inmenging. Ik weet niet waar u het over hebt.
+451 Hier doen uw argumenten een hele beurt over om het andere eind van de tafel te bereiken. Laten we beginnen.
+452 …Uw REPowerEU-kit werkt. Chantage werkt niet meer. Vertrek, voordat ik de tafel inkort.
+453 Oppasser
+454 Deze twee panda's zijn door China uitgeleend aan een Europese dierentuin. Dat heet 'pandadiplomatie'. Ze eten 40 kilo bamboe per dag. De panda's, niet de diplomaten.
+456 Welkom. Sinds 2019 omschrijft de Europese Unie ons als partner, concurrent en systeemrivaal. Ik ben ook alle drie.
+457 U belast onze elektrische auto's — tot 35 % sinds oktober 2024. Wij belasten uw cognac. En we houden onze zeldzame aarden in de gaten. Dat is evenwichtig.
+458 In dit debat verandert mijn Euromon elke beurt van type: partner, concurrent, rivaal. Veel succes met bijhouden.
+459 Hmm. Een partner die respect verdient. De zeldzame aarden komen weer op gang. De panda's blijven, ze zijn erg populair.
+460 Een geel beertje loopt achter een container langs. Er verschijnt een bordje: 'Inhoud niet beschikbaar in jouw regio.'
+461 Een bericht van de voorzitter: 'De drie grootmachten eisen een top. Nu meteen. De G-Alles-top. Ik stuur u erheen.'
+462 HET WAS MIJN IDEE OM DEZE TOP TE HOUDEN.
+463 De tafel is te kort.
+464 We zijn allemaal partners. En rivalen.
+465 Zo, beginnen we? Ik eerst. Iedereen zegt dat ik het best kan beginnen.
+466 Wij stellen voor te beginnen… na rijp beraad. Over vijftig jaar.
+467 Waarom zit Europa aan tafel? Het zou op het klapstoeltje zitten.
+468 HET KLAPSTOELTJE IS TREMENDOUS. Ik verkoop ze.
+469 Iedereen praat door elkaar. De tolken geven het op. Er blijft maar één oplossing over: het debat.
+470 Stilte in de zaal. De drie grootmachten kijken elkaar aan… en kijken dan naar Europa.
+471 Team Europe! Samen zijn we sterker dan apart. Dat is eigenlijk de hele geschiedenis van de Unie, toch?
+472 Concrete verwezenlijkingen, {P}. Een feitelijke solidariteit. Ik zei het in 1950. Jij hebt het in één stage gedaan.
+473 En de richtlijn over het einde van de klokwissel? Die is… teruggestuurd naar de commissie.
+474 Maar dat is een ander verhaal.
+475 Het avontuur gaat verder! Nieuwe treinen rijden naar Rome, Maastricht en Lissabon. Er slapen daar legendarische Euromons, zegt men… En iemand wacht op je in het station van Brussel.
+476 Een antiek standbeeld op het Capitoolplein. Op 25 maart 1957 tekenden zes landen hier het Verdrag van Rome. Er beweegt iets…
+477 Hier bracht het Verdrag van Maastricht op 7 februari 1992 de Europese Unie ter wereld. Een reusachtige euromunt begint te stralen…
+478 Op 13 december 2007 werd het Verdrag van Lissabon getekend in het Jerónimosklooster. Een doorschijnende gestalte komt dichterbij…
+479 In de verte vlucht een andere Euromon: Constitutio. In 2005 verworpen, laat hij zich nooit vangen.
+480 Eerste stagedag in het Europees Parlement! Professor Schuman wacht op je in de hal van het Parlement.
+481 Je computer toont 437 ongelezen mails. Allemaal met als onderwerp 'Coördinatievergadering over de vergaderingen'.
+482 Leopoldpark. Let op: in de stapels dossiers huizen wilde Euromons. Amendons niet voederen.
+483 Berlaymont — Europese Commissie. Beperkte toegang. 13e verdieping: kantoor (en slaapkamer) van de voorzitter.
+484 'Europa zal niet in één keer tot stand komen, noch door een allesomvattende constructie: het zal tot stand komen door concrete verwezenlijkingen.' — Robert Schuman, 9 mei 1950.
+485 Lobbyist
+486 Goedendag! Ik doe niet aan lobbyen. Ik doe aan 'kennisdeling'. Een hapje? Met zalm. Uit Noorwegen.
+487 Toerist
+488 Excuse me, waar is Manneken Pis? Ze zeiden dat hij groter was… Ze hebben me veel voorgelogen op deze reis.
+489 Kind
+490 Als ik groot ben, word ik tolk! In 24 talen. Of brandweerman, dat is rustiger.
+491 Journalist
+492 Ik volg de Europese Unie al twintig jaar. Mijn favoriete kop: 'Brussel zegt nee'. Werkt elke keer.
+494 Je hebt gewonnen… Schijnbaar zit de zomertijdrichtlijn al sinds 2019 vast in de Raad. Succes ermee.
+495 Bewaker
+496 De Ardennenweg? Niet zonder Euromon! Wilde dossiers zijn agressief in begrotingsseizoen.
+497 Halt! Niemand verlaat Brussel zonder Euromon. Ga eerst naar professor Schuman in het Parlement.
+498 Wacht
+499 De 13e verdieping? Alleen wie de Europese Raad heeft overtuigd, mag naar boven. En eerst heb je de acht badges nodig.

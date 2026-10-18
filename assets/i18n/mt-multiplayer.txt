@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Dibattitu b’diversi plejers
+2148	Oħloq kamra
+2149	Idħol f’kamra
+2150	Ilgħab ma’ kulħadd
+2151	Isem il-kamra
+2153	PIN (6 ċifri)
+2145	Qed nistennew il-plejers…
+2146	Tfittxija kull 10 sekondi.
+2147	PIN: %s
+2118	Ikkanċella (B)
+2117	Ikkonferma (A)
+2116	←→: pożizzjoni    ↑↓: ċifra
+2152	Daħħal isem il-kamra.
+2113	Tweġiba invalida mis-server.
+2135	Talba invalida għal kamra.
+2136	Dak l-isem tal-kamra diġà qed jintuża.
+2137	Il-kamra ma nstabitx.
+2138	PIN ħażin.
+2139	Din il-kamra mimlija.
+2140	Il-verżjonijiet tal-logħba huma differenti.
+2141	Is-server mimli.
+2142	Il-kamra skadiet.
+2143	Skambju tad-dibattitu invalidu.
+2144	Is-server waqaf.
+2108	Id-dibattitu ġie kkanċellat.
+2109	Is-server mhux qed iwieġeb.
+2110	Il-konnessjoni mas-server inqatgħet.
+2111	Il-plejer l-ieħor telaq mid-dibattitu.
+2115	Id-dibattiti mhumiex sinkronizzati.
+2114	Qed nistennew il-plejer l-ieħor… B: ikkanċella
+2123	Konnessjoni mal-Wi-Fi… B: ikkanċella
+2124	Ma stajniex nibdew il-Wi-Fi.
+2125	Iċċekkja s-settings tal-Wi-Fi tal-console.
+2126	Ma stajniex noħolqu l-konnessjoni.
+2127	Ma stajniex nikkonfiguraw il-konnessjoni.
+2128	Is-server ma jistax jintlaħaq.
+2129	Għandek bżonn tim biex tiddibatti.

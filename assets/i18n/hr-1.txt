@@ -1,0 +1,487 @@
+# Hrvatski — ids 0-499
+0 LOB
+1 SKA
+2 ZAM
+3 SAN
+4 BLO
+5 Niv.%d
+6 DEBATA
+7 TORBA
+8 BIJEG
+9 EKIPA
+10 PP %d/%d
+11 Nema učinka
+12 Super učinkovito
+13 Slabo učinkovito
+14 Natrag
+15 Nema više PP za ovaj napad!
+16 Na tebe je red, %s!
+17 %s šalje %s!
+18 Ali %s već ima problem…
+19 %s je već na strani lobija!
+20 Ne zamrzavaju se sredstva središnjeg bankara!
+21 %s je pod utjecajem lobija!
+22 %s je uhvaćen u skandalu!
+23 Sredstva %s su zamrznuta!
+24 %s zaspi usred noćnog samita!
+25 %s je blokiran u odboru!
+26 Argumentacija
+27 Otpornost
+28 Stručnost
+29 Diplomacija
+30 Reaktivnost
+31 Preciznost
+32 Izbjegavanje
+33 %s: %s ne može više rasti!
+34 %s: %s ne može više padati!
+35 %s: %s jako raste!
+36 %s: %s raste!
+37 %s: %s jako pada!
+38 %s: %s pada!
+39 %s koristi %s!
+40 (trump)%s koristi %s!
+41 %s priprema dosje od 400 stranica…
+42 Ali nitko ne nasjeda dvaput na trik sa sofom!
+43 %s plagira protivnika!
+44 Ali nema ničega za plagirati…
+45 %s poziva se na članak 50 i napušta debatu!
+46 %s poziva se na članak 50 i odlazi!
+47 %s poziva se na članak 50… ali pregovori će trajati godinama!
+48 %s se štiti vetom!
+49 „VETO!” Protivnik blokira odluku: potrebna je jednoglasnost.
+50 Ali %s ne pogađa cilj!
+51 %s je već dezinformiran!
+52 %s je dezinformiran!
+53 %s: HP su već puni!
+54 %s vraća HP!
+55 %s odspava okrepljujući san!
+56 Ali veto ovaj put ne prolazi!
+57 %s podiže svoje pravo veta!
+58 Zaštitna klauzula! Sve izmjene su poništene.
+59 %s: poruke su izbrisane… Nema više traga!
+60 Strukturni fondovi pljuste na teren!
+61 %s se nađe kako sjedi na sofi!
+62 Ali ništa se ne događa…
+63 To ne utječe na %s…
+64 Kritični udarac!
+65 Pogođeno %d puta!
+66 Super učinkovito!
+67 Nije previše učinkovito…
+68 %s je zapeo u beskrajnoj proceduri!
+69 %s crpi sredstva!
+70 %s trpi povratni udarac!
+71 Kovanice se rasipaju posvuda!
+72 %s je previše destabiliziran da bi djelovao!
+73 %s duboko spava… (4 je sata ujutro)
+74 %s se budi! Samit je završen.
+75 %s napokon izlazi iz odbora!
+76 %s: sredstva su zamrznuta! Nemoguće djelovati.
+77 %s je provjerio svoje izvore!
+78 %s je dezinformiran…
+79 On širi dezinformaciju i sam sebe diskreditira!
+80 Orbán je izašao na kavu! Njegov Euromon čeka, zbunjen.
+81 %s trpi utjecaj lobija!
+82 Skandal prska %s!
+83 %s je zapeo u proceduri!
+84 %s je K.O.!
+85 %s uči %s!
+86 %s želi naučiti %s, ali već zna četiri napada.
+87 Ne uči
+88 Koji napad zaboraviti?
+89 1, 2, 3… Hop! %s zaboravlja %s…
+90 … i uči %s!
+91 %s ne uči %s.
+92 %s dobiva %d bodova iskustva!
+93 %s napreduje na razinu %d!
+94 {P} baca %s!
+95 Eto! %s je zabilježen u Službenom listu!
+96 %s: podaci su dodani u Eurodex.
+97 %s je poslan u Arhiv.
+98 Oh ne! %s se oslobodio!
+99 Ah! Bilo je tako blizu!
+100 Uh! Nedostajao je samo jedan žig!
+101 Argh! Postupovna greška!
+102 %s je odbijen referendumom! Nemoguće ga uhvatiti.
+103 Ne hvata se Euromon drugog trenera! To bi bio skandal.
+104 {P} koristi %s!
+105 Na kojem Euromonu?
+106 %s vraća HP.
+107 %s se oporavlja.
+108 %s se vraća u službu!
+109 To neće imati nikakav učinak.
+110 Nije vrijeme za to!
+111 Koga poslati na debatu?
+112 Koga poslati?
+113 %s više nije u stanju debatirati!
+114 %s je već na terenu!
+115 Vrati se, %s!
+116 partner
+117 konkurent
+118 sistemski rival
+119 Protivnički Euromon se sada predstavlja kao… %s! (tip %s)
+120 %s %s želi debatirati!
+121 Oh! Kromatski %s!
+122 Pojavljuje se divlji %s!
+123 Što {P} treba učiniti?
+124 Ne napušta se službena debata! To bi bilo priznanje slabosti.
+125 Bježite kroz izlaz za nuždu!
+126 Nemoguće je pobjeći: sjednica nije zaključena!
+127 %s iznosi svoj argument… Stol je tako dugačak da će mu trebati jedan krug da stigne!
+128 Argument iz prethodnog kruga napokon stiže na drugi kraj stola!
+129 %s će poslati %s.
+130 Nastavi
+131 Promijeni Euromona
+132 Promijeniti Euromona?
+133 {P} osvaja %d € za ovu debatu!
+134 {P} skuplja %d € strukturnih fondova.
+135 — FILMSKI PRIZOR —
+136 A: dalje    START: preskoči
+137 Da
+138 Ne
+139 Dotaknite zaslon ili pritisnite A
+140 Hvala na igranju!
+141 KRAJ… ili gotovo.
+143 Spremljena datoteka nije čitljiva!
+144 Profesor Schuman
+145 Dobar dan, dobar dan! Dobrodošli u čudesni… i malo administrativni… svijet Europske unije!
+146 Zovem se Robert Schuman. Možda si čuo/čula za mene: priča o ugljenu, čeliku i 9. svibnju… Ispričat ću ti je.
+147 Od tada je ovaj svijet nastanjen čudnim bićima: EUROMONIMA!\fDirektive, uredbe, amandmani, cookie obavijesti… Žive u hrpama dosjea i tepisima po hodnicima.
+148 Neki ih skupljaju, drugi ih puštaju da debatiraju. Ja ih proučavam. To se zove… komitologija!
+149 Ali pričajmo o tebi. Jutros se u Europskom parlamentu očekuju dva pripravnika…
+150 Lijevo, Alex, nova pripravnica. Desno, Max, novi pripravnik. Tko si ti?
+151 Alex, djevojka
+152 Max, dječak
+153 Savršeno! A kako da te službeno zovem? To mora biti napisano na 24 jezika, pa dobro izaberi.
+154 Tvoje ime (najviše 10 slova):
+155 {P}! Izvrsno. Odmah ću to dati prevesti na malteški.
+156 Ovo je Oliver, tvoj kolega pripravnik, stigao ravno iz Londona. On je… veoma samouvjeren.
+157 Hello! Don't worry, {P}, bit ću najbolji pripravnik cijele Unije. Easy.
+158 Vaša je misija, oboje, jednostavna: usvojiti JEDNU direktivu.\fDirektivu o ukidanju promjene vremena. Parlament ju je izglasao u ožujku 2019…
+159 … i otad spava u Vijeću. Kao i mnogo drugih stvari.
+160 Za to će vam trebati 8 značaka velikih europskih gradova, uvjeriti Europsko vijeće, i samu predsjednicu Komisije!\fHajde, {P}. Tvoj pripravnički staž počinje sada. Nije plaćen, ali je formativan!
+161 Veliko/malo
+162 Obriši
+163 Jeste li znali? Parlament se seli u Strasbourg dvanaest puta godišnje, zajedno s kovčezima.
+164 U EU postoji 24 službena jezika. Vaš pripravnik govori jedan i pol.
+165 Savjet: čepovi pričvršćeni na bocu više se ne gube (direktiva 2019/904).
+166 Učitavanje… baš kao ukidanje promjene vremena: izglasano 2019., još se čeka.
+167 Europska zastava ima 12 zvijezda. To nije broj država: to je simbol savršenstva.
+168 Schumanova deklaracija datira od 9. svibnja 1950. 9. svibnja slavi se Dan Europe!
+169 Euro kovanice stigle su u džepove 1. siječnja 2002.
+170 Od lipnja 2017. nema više naknada za roaming u Europi. Nazovite mamu iz Lisabona!
+171 Univerzalni USB-C punjač obvezan je od kraja 2024. Zbogom, ladico puna kabela.
+172 Erasmus je rođen 1987. Milijuni studenata otad su naučili kuhati tjesteninu.
+173 Schengenski sporazum potpisan je 1985. na brodu, na rijeci Moseli, u Luksemburgu.
+174 Europski parlament broji 720 zastupnika od 2024.
+175 Savjet: kantina liječi cijelu vašu ekipu. Kava, s druge strane, ne liječi ništa.
+176 Savjet: trčite dok držite B. Hodnici Berlaymonta su dugi.
+177 Uredba o zakrivljenosti banana (1994.) postoji… ali uglavnom govori o kvaliteti.
+178 GDPR (2018.) vam je donio cookie obavijesti. Mnogo cookie obavijesti.
+179 Nobelova nagrada za mir dodijeljena je Europskoj uniji 2012.
+180 Rimski ugovor (1957.) stvorio je Europsku ekonomsku zajednicu.
+181 Ugovor iz Maastrichta (1992.) stvorio je Europsku uniju i predvidio euro.
+182 Ugovor iz Lisabona (2007.) sadrži članak 50. Samo ga je jedna država koristila.
+183 Ujedinjeno Kraljevstvo napustilo je EU 31. siječnja 2020. Oliver se otad nije oporavio.
+184 Savjet: službeni žigovi bolje hvataju iscrpljene Euromone.
+185 Savjet: Euromona uspavanog noćnim samitom lakše je uhvatiti.
+186 Iz Berlaymonta je azbest uklanjan od 1991. do 2004. Sastanak o gradilištu potrajao je dugo.
+187 Sud Europske unije zasjeda u Luksemburgu, na platou Kirchberg.
+188 ESB se nalazi u Frankfurtu. Njegova kula koštala je više nego što je planirano. Inflacija, bez sumnje.
+189 Simone Veil bila je prva predsjednica izravno izabranog Europskog parlamenta, 1979.
+190 Komisija ima 27 povjerenika: jednog po državi. Čak i za ribarstvenu politiku Austrije.
+191 Savjet: pritisnite X za otvaranje izbornika.
+192 Dunav prolazi kroz deset zemalja. Vaše cipele, samo kroz dvije.
+193 Na Dan Europe pojavljuje se rijedak Euromon. Pokušajte 9. svibnja!
+194 Prijevodi EU iznose milijune stranica godišnje.
+195 Europska himna je Oda radosti Beethovena, bez službenog teksta.
+196 Savjet: napadi pravnog tipa super su učinkoviti protiv lobija.
+197 Savjet: veto blokira napad, ali ne vašu odlučnost.
+198 Brexit je trajao tako dugo da je izmišljena riječ „Brextension”.
+199 Parlament ima vezni ured u svakoj državi članici.
+200 Savjet: razgovarajte sa svima. Čak i s golubom s Place Luxa.
+201 Danska ima izuzeće od eura. Čuva svoju krunu, i svoje vikinge.
+202 Učitavanje 27 nacionalnih mišljenja… 26 od 27… Čeka se Mađarska.
+203 Jeste li znali?
+204 Učitavanje…
+205 Ekipa
+206 Torba
+207 Karta
+208 Izvještaj
+209 Postavke
+210 %lu h %02lu
+211 HP
+212 K.O.
+213 Niv.%d   br.%03d
+214 Isk.
+215 Dalje
+216 B: natrag
+217 Razmijeniti s…?
+218 A: odaberi   B: natrag
+219 Sažetak
+220 Premjesti
+221 Lijekovi
+222 Žigovi
+223 Debata
+224 Važno
+225 Divlji Euromoni će vas neko vrijeme ostaviti na miru.
+226 %s: PP su obnovljeni.
+227 To nema nikakav učinak.
+228 Nije vrijeme za korištenje toga.
+229 ×%d
+230 (prazno)
+231 Koristi
+232 br.%03d  %s
+233 Uhvatite ovog Euromona da pročitate njegov profil.
+234 EURODEX   Viđeno: %d   Uhvaćeno: %d
+235 Nije pronađen medij za spremanje.\fNa DS-u (DS Pico, R4…), pokrenite igru s SD kartice. Na emulatoru, aktivirajte DLDI / SD karticu, ili koristite spremanja stanja.
+236 Napisati izvještaj o napretku (mjesto %d)?
+237 Spremi
+238 Drugo mjesto…
+239 Odustani
+240 Izvještaj poslan na 24 jezika. Igra spremljena (mjesto %d)!
+241 Pisanje na SD karticu nije uspjelo. Pokušajte ponovno.
+242 Postavke
+243 Izvori podataka
+244 Povratak na naslovnicu
+245 Vratiti se na naslovni zaslon? Sve što nije spremljeno bit će izgubljeno.
+246 ◀  × %d  ▶
+247 Ukupno: %d €
+248 A: potvrdi   B: odustani
+249 Kupi
+250 Prodaj
+251 Doviđenja
+252 Prodavač
+253 Dobrodošli u trgovinu Parlamentarija! Sve je garantirano usklađeno s CE normama.
+254 Vaš proračun: %lu €
+255 Na zalihi u torbi: %d
+256 Izgleda da je vaš proračun… ispod gornje granice potrošnje.
+257 Hvala! I evo Super žiga na dar, za skupnu kupovinu!
+258 Hvala na kupnji! Račun u tri primjerka.
+259 To? Nije na prodaju, to je predmet strateške važnosti!
+260 Dogovoreno!
+261 Doviđenja! Ne zaboravite: USB-C punjač prodaje se zasebno.
+262 EKIPA → ARHIV (%d/%d)
+263 ARHIV → EKIPA (%d/%d)
+264 ◀▶ strana   A: premjesti   B: izlaz
+265 {P} pali terminal Arhiva. „Dobrodošli u sustav upravljanja dokumentima.”
+266 Morate zadržati najmanje jednog Euromona u ekipi!
+267 Ekipa je puna (najviše 6 Euromona).
+268 Rješenje
+269 Euro
+270 Hemicikl
+271 OXI
+272 Članak 50
+273 Veto
+274 Kazna
+275 Sorbona
+276 Jean-Claude Juncker, Luksemburg
+277 Christine Lagarde, Frankfurt
+278 Roberta Metsola, Strasbourg
+279 Janis Varufakis, Atena
+280 Farage i Johnson, London
+281 Viktor Orbán, Budimpešta
+282 Margrethe Vestager, Bruxelles
+283 Emmanuel Macron, Pariz
+284 FUTROLA ZA ZNAČKE UGOVORA
+285 osvojeno
+286 za osvojiti
+287 Značka %s — dodjeljuje: %s.
+288 Što? %s evoluira!
+289 Odgodili ste reformu. %s nije evoluirao.
+290 Čestitamo! %s je evoluirao u %s!
+291 Vrijeme: %d s
+292 Rezultat: %d / %d
+293 Mini-igra
+294 Glasovanje na plenarnoj sjednici
+295 Zastupnici ulaze u hemicikl! Dotaknite svako sjedalo koje zasvijetli žuto prije nego što se ugasi. 25 glasova u 30 sekundi!
+296 Predsjedništvo
+297 Dotaknite žuta sjedala!
+298 Usvojeno velikom većinom! Pljesak na svim klupama.
+299 Kvorum nije postignut. Sjednica je prekinuta…
+300 Žig
+301 Dokumenti prolaze preko stola. Dotaknite svaki od njih da ga žigirate prije nego što izađe sa zaslona. 15 dokumenata!
+302 Dotaknite dokumente da ih žigirate
+303 Svi dokumenti su žigirani! Administracija je ponosna na vas.
+304 Neki dokumenti otišli su bez žiga. Morat će ponovno kroz cijeli postupak…
+305 Cookie obavijesti
+306 Cookie obavijesti preplavljuju zaslon! Dotaknite „Odbij” na svakoj. Ako se nakupi šest obavijesti, igra je gotova. Izdržite 25 sekundi!
+307 (neka web-stranica)
+308 Poštujemo
+309 vašu privatnost
+310 Prihvati
+311 Odbij
+312 Odbijte sve! (ne kliknite na Prihvati)
+313 Svi cookiesi odbijeni! GDPR je ponosan na vas.
+314 Preplavljeni obavijestima… Prihvatili ste 437 oglašivačkih partnera.
+315 Noćni samit
+316 3 sata je ujutro, 27 šefova država zaspalo je! Puhnite u mikrofon (ili dotaknite glavu koja spava) da ih probudite. 27 probuđenja prije zore!
+317 %d h %02d
+318 Puhnite / dotaknite uspavanu glavu!
+319 Svi su budni! Dogovor postignut u 4:37. Kao i obično.
+320 Sunce izlazi nad stolom uspavanih čelnika. Samit je odgođen.
+321 Kovčezi iz Strasbourga
+322 Utovarite kovčege zastupnika u vlak, redom: 1, 2, 3… do 10. Imate 30 sekundi!
+323 Peron — TGV Strasbourg ⇄ Bruxelles
+324 Kovčezi
+325 Dotaknite kovčege po redu!
+326 Svi kovčezi su u vlaku! Sjednica može početi.
+327 Vlak je otišao bez kovčega. Zastupnici će sjediti u pidžami.
+328 Jezik
+329 Brzina teksta
+330 Zvuk teksta
+331 Glasnoća glazbe
+332 Animacije debate
+333 Sporo
+334 Normalno
+335 Brzo
+336 ↑↓ / pisaljka: pomak    B: natrag
+337 Zasluge
+338 SD kartica
+339 kartridž
+340 nijedna
+341 {P} dobiva %d × %s!
+342 {P} dobiva: %s!
+343 — Prazno mjesto —
+344 Eurodex: %d
+345 Nastavi: odaberi igru
+346 Nova igra: mjesto
+347 Spremi u…
+348 Ovo mjesto već sadrži igru. Prepisati preko nje?
+349 Nova igra
+350 Zasluge i izvori
+351 Glavni izbornik
+352 Nezvanična parodija · v2.0
+353 Pripravnički staž tvog života
+354 PRITISNITE START
+355 {P} prima %s!
+356 Ekipa je puna: ide u Arhiv.
+357 {P} nema više Euromona u stanju za debatu…\f{P} se trčeći vraća u kantinu, pognute glave.
+358 Kuharica
+359 Hajde, dobra kava i sve ide dalje! Vaši Euromoni su u punoj snazi.
+360 Značka rješenja
+361 Značka eura
+362 Značka hemicikla
+363 Značka OXI
+364 Značka članka 50
+365 Značka veta
+366 Značka kazne
+367 Značka Sorbone
+368 {P} prima %s!
+369 Tvoj Eurodex broji %d uhvaćenih Euromona od %d viđenih.
+371 To je početak! Mali koraci čine velike unije.
+372 Nije loše! Napreduješ brže od direktive o ljetnom računanju vremena.
+373 Impresivno! Čak i Komisija nema toliko dosjea.
+374 Izvanredno! Ti sam/sama si prava institucija.
+375 {P} pronalazi: %s!
+376 Klauzula o nezaobilaženju je istekla.
+377 Bruxelles
+378 Luksemburg
+379 Frankfurt
+380 Strasbourg
+381 Atena
+382 London
+383 Budimpešta
+384 Pariz
+385 Antwerpen
+386 Varšava
+387 Rim
+388 Maastricht
+389 Lisabon
+390 Blagajnik
+391 Trenutno nema dostupnih odredišta.
+392 Druga odredišta…
+393 Ukrcavanje! Vlak kreće… sa samo nekoliko minuta zakašnjenja.
+394 Diplomat
+395 Josep Borrell, bivši Visoki predstavnik, rekao je 2022.: „Europa je vrt, ostatak svijeta je džungla.” To je izazvalo… malo buke.
+397 Šesnaest godina kancelarka. Stotine samita. 2015. sam rekla: „Wir schaffen das” — uspjet ćemo.
+398 Ali vi, hoćete li uspjeti? Ja sam prvi član Vijeća. Nitko ne prolazi bez kompromisa.
+399 Wir haben es geschafft. Možete proći. Mario vas čeka… s izvještajem od 400 stranica.
+401 Srpanj 2012., London. Rekao sam tri riječi: „Whatever it takes”. Euro je spašen. Tržišta su se smirila.
+402 2024. moj izvještaj o konkurentnosti tražio je do 800 milijardi ulaganja godišnje. Uložite u ovu debatu.
+403 Učinili ste sve što je trebalo. Kaja Kallas vas čeka. Ona je… veoma direktna.
+405 Visoka predstavnica za vanjske poslove od prosinca 2024. Bivša premijerka Estonije.
+406 Svijet je opasan. Moram znati hoćete li se znati održati pred velikim silama. Pokažite mi.
+407 Solidno. Trebat će vam to. Predsjednik Costa vas čeka. Nada se da će završiti prije ponoći.
+409 Predsjednik Europskog vijeća od prosinca 2024.! 23:54 je. Ako završimo prije ponoći, to će biti povijesni prvi put.
+410 Ali prvo: svi šefovi država zaspali su oko stola. Pomozite mi da ih probudim! Puhnite u mikrofon… ili tapnite po zaslonu!
+411 Sad je… 4:37. Dobro. Kao i obično. Ipak debatirajmo.
+412 Europsko vijeće jednoglasno odobrava vašu kandidaturu! Pa… jednoglasno, minus jedno konstruktivno suzdržavanje.
+413 Predsjednica Komisije čeka vas na 13. katu Berlaymonta. To je posljednji korak prije direktive.
+415 Ah, dobar dan. Ja sam Charles Michel, bivši predsjednik Europskog vijeća. Samo… sjedim. Na jedinoj stolici.
+416 U Ankari, u travnju 2021., ja sam uzeo fotelju. Ursula se našla na sofi. To su nazvali „Sofagate”. Nikad se od toga stvarno nisam oporavio.
+418 Dobrodošli na 13. kat. Da, ja živim ovdje: pokraj mog ureda postoji mala soba. Zgodno je za hitne dosjee.
+419 Predsjednica Komisije od 2019., ponovno izabrana 2024. Europski zeleni plan, kriza oko Covida, cjepiva…
+420 SMS poruke s šefom Pfizera? U svibnju 2025. Sud EU poništio je naše odbijanje da ih dostavimo New York Timesu. Ukratko. Prijeđimo dalje.
+421 Želite direktivu o ljetnom računanju vremena? Pobijedite me. Team Europe, na kraju će ostati samo jedan.
+422 Izvanredno. Vi ste najbolji pripravnik u povijesti Komisije. Evo… direktive o ukidanju promjene vremena.
+423 Preostaje je još samo potpisati. Formalnost! Potrebno je samo da…
+424 Velike sile čekaju! Antwerpen, Varšava, Pirej… Uzmite vlak.
+425 Spasili ste Europu. A direktiva je… u odboru. Kao i uvijek. Hvala na svemu, {P}.
+426 BIP BIP BIP! Tri hitne poruke stižu istovremeno na sve telefone u Berlaymontu.
+428 HELLO EUROPE! Imam malu molbu. Sasvim malu. Stavljam carine na sve. I htio bih kupiti Grenland. Prodaje se, zar ne?
+429 Druga poruka, s istoka: „Plinska slavina je zatvorena. Za vaše dobro.” Potpis: V. P.
+430 Treća poruka, veoma pristojna: „Suspendiramo izvoz rijetkih zemnih metala. Vaši telefoni će raditi… manje.” Potpis: X. J.
+431 {P}, direktiva će pričekati. Velike sile žele staviti Europu na kolje. Moraš ih posjetiti. Sve tri.
+432 Luka Antwerpen, Varšava, i luka Pirej, u Ateni. Kolodvori su vam otvoreni. Team Europe se oslanja na vas!
+434 Ja sam glavni tajnik NATO-a. Na samitu u Haagu, u lipnju 2025., obvezali smo se podići izdatke za obranu prema 5 % BDP-a do 2035.
+435 I nazvao sam Donalda „tatom”. Dobro, to je bila slika govora. Obožavao je to. Idite, on je na terenu za golf.
+437 U veljači 2025., na Minhenskoj konferenciji, objasnio sam Europljanima što je demokracija. Bili su… iznenađeni.
+438 OVO JE NAJLJEPŠI GOLF TEREN NA SVIJETU. Upravo sam ga kupio. Pa, mislim da jesam. I luku, možda.
+439 2. travnja 2025., Liberation Day! Podigao sam veliku tablu s carinama za SVE. Čak i za otoke gdje žive samo pingvini.
+440 U srpnju 2025., na mom terenu u Turnberryju, Ursula i ja dogovorili smo se: 15 %. Ali mogu promijeniti mišljenje. Često mijenjam mišljenje. To je strategija.
+441 I Grenland! Velik je, bijel je, prekrasan je. Danska ga ne želi prodati. VEOMA NEPRAVEDNO. Debatiramo, i ako pobijedim, kupujem ga!
+442 Bilo je namješteno. Potpuno namješteno. Dobro. Ostaje 15 %. I Grenland ostaje danski. Zasad. Večeras ću objaviti nešto velikim tiskanim slovima.
+444 Dobrodošli u Varšavu. Premijer Poljske, bivši predsjednik Europskog vijeća. Ovdje znamo koliko vrijedi sloboda.
+445 Volodimir Zelenski
+446 Od veljače 2022. moja zemlja odolijeva ruskoj invaziji. Hvala Europi na podršci. Palača je gore: budite oprezni.
+447 Uzmite ovaj REPowerEU komplet: Europa je naučila živjeti bez ruskog plina. Trebat će vam da se tamo zagrijete.
+448 Vladimir Putin
+449 Sjednite. Ne… dalje. Tako. U veljači 2022. primao sam predsjednike na ovoj udaljenosti. To je… ugodnije.
+450 Plin? Zatvorio sam slavinu. Izbori? U prosincu 2024. rumunjski Ustavni sud poništio je predsjedničke izbore zbog navodnog stranog utjecaja. Ne znam o čemu govorite.
+451 Ovdje će vašim argumentima trebati čitav krug da stignu na drugi kraj stola. Počnimo.
+452 …Vaš REPowerEU komplet je učinkovit. Ucjena više ne djeluje. Idite, prije nego što skratim stol.
+453 Čuvar
+454 Ova dva pande posudila je Kina europskom zoološkom vrtu. To se zove „diplomatija pandama”. Jedu 40 kg bambusa dnevno. Pande, ne diplomati.
+456 Dobrodošli. Europska unija nas od 2019. opisuje kao partnera, konkurenta i sistemskog rivala. I ja sam sve troje.
+457 Vi oporezujete naše električne automobile — do 35 % od listopada 2024. Mi oporezujemo vaš konjak. I nadziremo svoje rijetke zemne metale. To je ravnoteža.
+458 U ovoj debati, moj Euromon će promijeniti tip u svakom krugu: partner, konkurent, rival. Sretno s praćenjem.
+459 Hmm. Partner vrijedan poštovanja. Rijetki zemni metali nastavit će svojim putem. Pande ostaju, veoma su popularne.
+460 Žuti medvjedić prolazi iza kontejnera. Pojavljuje se natpis: „Sadržaj nije dostupan u vašoj regiji.”
+461 Poruka Predsjednice: „Tri velike sile traže samit. Odmah. Samit G-Sve. Šaljem vas tamo.”
+462 JA SAM SMISLIO OVAJ SAMIT.
+463 Stol je previše kratak.
+464 Svi smo partneri. I rivali.
+465 Dobro, počinjemo? Ja prvi. Svi kažu da sam najbolji za početak.
+466 Predlažemo da počnemo… nakon zrelog razmišljanja. Za pedeset godina.
+467 Zašto je Europa za stolom? Trebala je biti na preklopnoj stolici.
+468 PREKLOPNA STOLICA JE TREMENDOUS. Prodajem ih.
+469 Svi govore istovremeno. Prevoditelji odustaju. Ostaje samo jedno rješenje: debata.
+470 Tišina u dvorani. Tri velike sile gledaju jedna drugu… pa pogledaju Europu.
+471 Team Europe! Zajedno smo jači nego odvojeno. To je donekle cijela povijest Unije, zar ne?
+472 Konkretna ostvarenja, {P}. Solidarnost na djelu. To sam rekao 1950. Ti si to ostvario/ostvarila u jednom pripravništvu.
+473 A direktiva o ukidanju promjene vremena? Vraćena je… u odbor.
+474 Ali to je druga priča.
+475 Avantura se nastavlja! Novi vlakovi prometuju do Rima, Maastrichta i Lisabona. Kažu da tamo spavaju legendarni Euromoni… A netko vas čeka na kolodvoru u Bruxellesu.
+476 Antička statua, Kapitolski trg. 25. ožujka 1957. šest država ovdje je potpisalo Rimski ugovor. Nešto se miče…
+477 Ovdje je 7. veljače 1992. Ugovor iz Maastrichta dao život Europskoj uniji. Ogromna euro kovanica počinje svjetlucati…
+478 13. prosinca 2007. Ugovor iz Lisabona potpisan je u samostanu Jerónimos. Prozirna silueta se približava…
+479 U daljini, drugi Euromon bježi: Constitutio. Odbačen 2005., nikad se ne da uhvatiti.
+480 Prvi dan pripravničkog staža u Europskom parlamentu! Profesor Schuman te čeka u predvorju Parlamenta.
+481 Tvoje računalo prikazuje 437 nepročitanih e-mailova. Svi imaju naslov „Koordinacijski sastanak o sastancima”.
+482 Park Léopold. Pažnja: hrpe dosjea skrivaju divlje Euromone. Ne hranite Amendonse.
+483 Berlaymont — Europska komisija. Pristup ograničen. 13. kat: ured (i soba) Predsjednice.
+484 „Europa se neće stvoriti odjednom, ni kroz jedinstvenu konstrukciju: stvarat će se kroz konkretna ostvarenja.” — Robert Schuman, 9. svibnja 1950.
+485 Lobist
+486 Dobar dan! Ja se ne bavim lobiranjem. Ja se bavim „razmjenom stručnosti”. Kanapeić? Od lososa je. Norveškog.
+487 Turist
+488 Excuse me, gdje je Manneken Pis? Rekli su mi da je veći… Mnogo su mi slagali na ovom putovanju.
+489 Dijete
+490 Kad odrastem, bit ću prevoditelj! Na 24 jezika. Ili vatrogasac, to je mirnije.
+491 Novinar
+492 Pratim Europsku uniju već dvadeset godina. Moj najdraži naslov: „Bruxelles kaže ne”. Uvijek upali.
+494 Pobijedio/pobijedila si… Kažu da je direktiva o ljetnom računanju vremena blokirana u Vijeću od 2019. Sretno, u svakom slučaju.
+495 Zaštitar
+496 Cesta kroz Ardene? Ne bez Euromona! Divlji dosjei su agresivni u ovoj proračunskoj sezoni.
+497 Stop! Nitko ne napušta Bruxelles bez Euromona. Prvo idite do profesora Schumana, u Parlamentu.
+498 Čuvar
+499 13. kat? Samo oni koji su uvjerili Europsko vijeće mogu gore. A prvo su potrebne sve značke, njih osam.

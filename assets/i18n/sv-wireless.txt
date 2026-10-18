@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Online
+2165	Utan internet
+2166	Skapa lokalt spel
+2167	Gå med i lokalt spel
+2156	Spel i närheten
+2158	Utan router eller server.
+2159	Starta om spelet för att byta Wi-Fi-läge.
+2163	DS-läge: öppet/WEP-nätverk. För WPA2, starta spelet i DSi-läge.
+2162	DSi Wi-Fi: kontrollera WPA2-nätverket och konsolens inställningar.
+2160	Ansluter till DSi Wi-Fi… B: avbryt
+2161	Ansluter till DS Wi-Fi… B: avbryt
+2154	Konsolen svarar inte.

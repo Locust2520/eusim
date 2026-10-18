@@ -1,0 +1,257 @@
+# Polski — ids 1500-1751 + uzupełnienia
+1500 Przepustka
+1501 Otwiera drzwi Parlamentu. Kolor: stażysta.
+1502 Odznaka OLAF
+1503 Pozwala widzieć asystentów widm.
+1504 Paszport europejski
+1505 Bordowy, 32 strony, wszystkie granice stoją otworem.
+1506 Bilet Interrail
+1507 Podróżuj pociągiem po całej Europie.
+1508 Zestaw REPowerEU
+1509 Żeby włączyć ogrzewanie, gdy odcięto gaz.
+1510 Koniak
+1511 Cenna butelka. Obłożona dodatkowym cłem od 2024 r.…
+1512 Karta stołówkowa
+1513 Saldo: 3,40 €. Wystarczy na kawę.
+1514 Dyrektywa o czasie
+1515 Dyrektywa o zniesieniu zmiany czasu (2019).
+1516 Kufer z przeprowadzki Bruksela–Strasburg.
+1517 Etui na odznaki
+1518 Zawiera odznaki traktatów.
+1519 Hej, nowy! Tutaj wszystko załatwia się debatą. Pokaż, ile jesteś wart!
+1520 Argh… Trzeba było przeczytać notatki syntetyczne.
+1521 Ha! Wracaj do kserokopiarki!
+1522 Rywal
+1523 No to, {P}, sprawdzimy nasze Euromony? Mine is obviously better.
+1524 What?! To był łut szczęścia!
+1525 Easy. Zgodnie z planem.
+1526 {P}! Masz już odznakę? Nieważne, pożałujesz.
+1527 Not again… Dobra, we Frankfurcie zobaczysz.
+1528 Ha! Luksemburg mi służy.
+1529 Właśnie zwiedziłem EBC. Zrozumiałem całą politykę pieniężną. Prawie całą.
+1530 Bloody hell… Naprawdę szybko robisz postępy, {P}.
+1531 Jak mówią w City: time is money.
+1532 {P}… to nasza ostatnia debata. Potem wracam do Londynu. Na dobre. Dawaj, one last time!
+1533 Good game, {P}. Przynajmniej odchodzę z fasonem.
+1534 Odchodzę ze zwycięstwem. Zawsze coś.
+1535 {P}! I'm back. No… proszę o powrót. Rejoin? Ale najpierw debata dla honoru!
+1536 Dobra. Wypełniam wniosek o członkostwo. Ma 35 rozdziałów…
+1537 Ha! Jednak wyjście czyni silniejszym. Albo nie.
+1538 Ja też jestem stażystką! Bezpłatną, jak ty. Podebatujmy, to pociesza.
+1539 No cóż… wracam robić ksero.
+1540 Stój! Czy pański formularz turystyczny A-38 jest podbity?
+1541 Dobra, podbiję. Ale w trzech egzemplarzach.
+1542 Rolnik
+1543 WPR to moje życie! A traktor to moja rodzina. Dawaj, debatujemy!
+1544 Będę musiał pogadać o tym ze związkiem…
+1545 Bankier prywatny
+1546 Witamy w Luksemburgu. Absolutna dyskrecja. Ta debata nigdy się nie odbyła.
+1547 Ta debata zdecydowanie nigdy się nie odbyła.
+1548 Doradca podatkowy
+1549 Interpretacja podatkowa? Napiszę ją w pięć minut. Ale najpierw debata.
+1550 Moje struktury… runęły!
+1551 Mistrz areny
+1552 Ach, młody stażysta! Chodź, chodź, poklepię cię po policzku. A potem debata, jak za starych dobrych czasów Eurogrupy.
+1553 Brawo! Zasłużyłeś na Odznakę Interpretacji. A to akurat nie jest poufne!
+1554 No, nie rób takiej miny, żartuję… w połowie.
+1555 Jadę rowerem wzdłuż Mozeli! I debatuję w roamingu, za darmo!
+1556 Nawet bez opłat roamingowych straciłem wszystko.
+1557 Analityk
+1558 Rynki wyceniają moje zwycięstwo na 87%.
+1559 Rynki się pomyliły. Jak zwykle.
+1560 Winiarz
+1561 Mój crémant ma ChNP. Moje Euromony też. Prawie.
+1562 Dobra, i tak stawiam panu kieliszek.
+1563 Kupuj tanio, sprzedawaj drogo, debatuj mocno!
+1564 Krach! Jestem na debecie!
+1565 Według mojego modelu pan przegrywa. Mój model nigdy się nie myli. Poza 2008 r.
+1566 Będę musiał zrewidować prognozy.
+1567 Mistrzyni areny
+1568 Witamy w Europejskim Banku Centralnym. Tu ustalam stopy… i tempo debaty. Moje ataki zależą od dzisiejszej stopy referencyjnej!
+1569 Znakomicie. Zasłużył pan na Odznakę Euro. I spokojnie: nie jestem tu, by zmniejszać pański spread.
+1570 Stabilność cen to także stabilność zwycięstw.
+1571 Aktywistka klimatyczna
+1572 Każda przegrana debata to stopień więcej! Dawaj!
+1573 No cóż, przynajmniej było neutralne klimatycznie.
+1574 Wyłączność! „Stażysta przegrywa żałośnie”!
+1575 Zmieniam tytuł: „Stażysta wygrywa żałośnie dobrze”.
+1576 Winogrodnik
+1577 Ren to granica? Nie, to wino po obu stronach! Wzniesiemy toast po debacie.
+1578 Na zdrowie mimo wszystko!
+1579 Zgłosiłem dziś rano 2000 poprawek. Pierwsza dotyczy pana.
+1580 Moje poprawki odrzucone en bloc…
+1581 Sesja odbywa się w Strasburgu, nasze kufry dotarły, debatujmy!
+1582 Wracam do Brukseli. Z kuframi.
+1583 Cisza na sali! Otwieram posiedzenie. Udzielam głosu… panu. A potem go odbieram.
+1584 Przyjęte! Odznaka Hemicyklu zostaje panu przyznana bezwzględną większością.
+1585 Zamykam posiedzenie. Zapraszam na następną sesję.
+1586 Dług jest jak musaka: ciężko go strawić.
+1587 OXI dla tej porażki!
+1588 Kontrola rachunków! Pańskie Euromony wydają za dużo.
+1589 Raport z kontroli: negatywny.
+1590 Międzynarodowy Fundusz Walutowy zaleca… pańską porażkę.
+1591 Rewizja naszych prognoz: w dół.
+1592 Przyjechałem motocyklem, bez krawata. Jak w 2015 r. przed Eurogrupą. Debatujemy i głosujemy: OXI czy NAI?
+1593 OXI… przepraszam, NAI: wygrałeś. Weź Odznakę OXI, towarzyszu.
+1594 Lud przemówił. A lud to ja.
+1595 Tabloid
+1596 NA PIERWSZEJ STRONIE: „Bruksela chce zakazać krzywych bananów”! To nieprawda? Nieważne, sprzedaje się.
+1597 Jutro na pierwszej stronie: „Historyczna porażka”.
+1598 Były premier
+1599 Hello! Wie pan, byłem korespondentem w Brukseli. Napisałem sporo rzeczy… mniej lub bardziej prawdziwych. Get debate done!
+1600 Crikey. No cóż, i tak miałem w zanadrzu inny artykuł, o prostych ogórkach.
+1601 Teraz już się pan nie śmieje, co? Witamy w pubie. Debata, pinta i Artykuł 50.
+1602 Dobra. Proszę wziąć Odznakę Artykułu 50. Nam już niepotrzebna.
+1603 Take back control! Przynajmniej nad debatą.
+1604 Strażnik graniczny
+1605 Kontrola! Czy pański Euromon ma wizę?
+1606 Proszę przejść. Ale to odnotuję.
+1607 Doradca
+1608 Premier nikogo nie przyjmuje. Poza tymi, którzy mnie pokonają. A to się nigdy nie zdarza.
+1609 Właśnie się zdarzyło.
+1610 Chce pan mojej zgody? Wymagana jest jednomyślność. A ja nigdy się nie zgadzam. Uwaga: w każdej turze mogę założyć WETO.
+1611 No cóż… Wychodzę na kawę. W tym czasie proszę wziąć Odznakę Weta. Oficjalnie wstrzymałem się od głosu.
+1612 Weto! Weto! I jeszcze raz weto!
+1613 Team Lobby
+1614 Nie ma pan przepustki? Świetnie się składa, my też nie.
+1615 Będę musiał zgłosić to spotkanie w rejestrze przejrzystości…
+1616 Nasz algorytm przewidział pańską porażkę. Akceptujesz cookies?
+1617 Błąd 403: porażka.
+1618 Mała walizeczka za pański głos? Nie? To debata.
+1619 Nigdy nikomu niczego nie dałem. Proszę to zanotować.
+1620 Szef Team Lobby
+1621 Witaj w sercu władzy, stażysto. Tu nie pisze się ustaw: tu się je „sugeruje”. A ty podpiszesz moją sugestię.
+1622 Niemożliwe… Zwykły, nieopłacany stażysta… pokonał lobby. Wycofuję się. Do sektora prywatnego. A, już tam jestem.
+1623 Dziękujemy za udział w naszych konsultacjach społecznych.
+1624 Adwokat
+1625 Mój klient kwestionuje karę 4,34 miliarda. I tę debatę.
+1626 Odwołamy się.
+1627 Prawnik
+1628 Nadużycie pozycji dominującej? Ja? Ja jestem tylko dominujący.
+1629 Kara przyjęta…
+1630 Google, Apple… nałożyłam miliardowe kary. Czy pańska drużyna przestrzega reguł konkurencji? Sprawdźmy.
+1631 Nie stwierdzono nadużycia pozycji dominującej. Odznaka Grzywny należy do pana.
+1632 Kara! 4% pańskiego obrotu.
+1633 Buuu… Pracuję tu… od 2009 r.… no, na papierze…
+1634 Wracam… do mojej… fikcyjnej umowy…
+1635 Duch fikcyjnych posad
+1636 JESTEM… SUMĄ WSZYSTKICH UMÓW, KTÓRE NIGDY NIE MIAŁY BIURA…
+1637 Moje… paski wypłat… znikają…
+1638 Wysoki urzędnik
+1639 Skończyłem ENA. No, INSP. Krótko mówiąc, wiem wszystko.
+1640 Napiszę notatkę o tej porażce.
+1641 Minister
+1642 Jestem ministrem od… dzisiejszego ranka. Debatujmy przed następną rekonstrukcją rządu.
+1643 Zdymisjonowany!
+1644 Witamy na Sorbonie! Tu mówiłem o suwerennej Europie w 2017 r.… i w 2024 r. Będę do pana mówił przez dwie godziny. A jednocześnie debatował.
+1645 Wspaniale! Uosabia pan autonomię strategiczną. Proszę wziąć Odznakę Sorbony… a jednocześnie moje gratulacje.
+1646 Rozwiązuję… pańską drużynę!
+1647 Rada Europejska
+1648 Wir schaffen das. Razem damy radę. Ale najpierw musi mnie pan pokonać. Bez pośpiechu: mam szesnaście lat doświadczenia.
+1649 Udało się panu. Wir haben es geschafft.
+1650 Zrobię wszystko, co trzeba, by wygrać tę debatę. Whatever it takes. I proszę mi wierzyć: to wystarczy.
+1651 Mój raport zalecał 800 miliardów inwestycji rocznie. Proszę zainwestować je w drużynę.
+1652 Wysoka przedstawiciel do spraw zagranicznych. Moja dyplomacja jest stanowcza. Moja bałtycka tarcza też.
+1653 Wyraźne zwycięstwo. Europa będzie potrzebować takich ludzi jak pan wobec reszty świata.
+1654 Przewodniczący Rady Europejskiej
+1655 Jest 23:59. Mój cel: skończyć ten szczyt przed północą. Pierwszy raz w historii!
+1656 Jest… 4:37 rano. Jak zwykle. Brawo, może pan iść do Berlaymontu.
+1657 Przewodnicząca Komisji
+1658 Witamy na trzynastym piętrze Berlaymontu. Mieszkam tu, wie pan: mam pokój obok gabinetu. Zobaczmy więc, czy zasługuje pan na dyrektywę.
+1659 Team Europe… Jest pan najlepszym stażystą, jakiego Komisja kiedykolwiek miała. Dyrektywa o czasie jest pańska!
+1660 Wyślę panu SMS-a. A może nie.
+1661 Wiceprezydent
+1662 Przyjechałem do Monachium wytłumaczyć wam demokrację. Teraz przyjeżdżam do Antwerpii wytłumaczyć wam debatę.
+1663 Dobra. Wracam pisać przemówienie.
+1664 Prezydent USA
+1665 TREMENDOUS! Najpiękniejsza debata wszech czasów, wszyscy tak mówią. Nakładam 200% ceł na pańskie Euromony. Może 15. Zobaczymy.
+1666 TO BYŁO USTAWIONE! Dobra… zróbmy deal. 15%. To moje ostatnie słowo. Na dziś.
+1667 Wygrałem! Jak zawsze! Nikt nie wygrywa lepiej niż ja.
+1668 Prezydent Rosji
+1669 Proszę usiąść. Nie, dalej. Jeszcze dalej. O tak. Z sześciu metrów rozmowa jest bardziej… strategiczna. Pańskie ataki będą docierać z opóźnieniem jednej tury.
+1670 Gaz… jest odcięty… po mojej stronie. Ciekawe.
+1671 Nadchodzi zima. Dla pana.
+1672 Przewodniczący ChRL
+1673 Witamy. Jesteśmy partnerami. I konkurentami. I rywalami systemowymi. Zależy od tury.
+1674 Hmm. Partner godny szacunku. Znoszę kontrolę metali ziem rzadkich… na razie.
+1675 Treść niedostępna w twoim regionie.
+1676 Szczyt G-Wszystko
+1677 NAJPIERW JA. Szczyt to mój pomysł. Chyba.
+1678 Sad!
+1679 Wolałem długi stół.
+1680 Ostatnie słowo będzie… systemowe.
+1681 Porozmawiamy za pięćdziesiąt lat.
+1682 Port w Antwerpii – Pole golfowe Wolności
+1683 Ateny – Plaka
+1684 Berlaymont – 13. piętro
+1685 Sklep – Ateny
+1686 Sklep – Budapeszt
+1687 Sklep – Bruksela
+1688 Sklep – Frankfurt
+1689 Sklep – Londyn
+1690 Sklep – Luksemburg
+1691 Sklep – Paryż
+1692 Sklep – Strasburg
+1693 Bruksela – Dzielnica europejska
+1694 Budapeszt – Brzegi Dunaju
+1695 Stołówka – Ateny
+1696 Stołówka – Budapeszt
+1697 Stołówka – Bruksela
+1698 Stołówka – Frankfurt
+1699 Stołówka – Londyn
+1700 Stołówka – Luksemburg
+1701 Stołówka – Paryż
+1702 Stołówka – Strasburg
+1703 Trybunał Sprawiedliwości UE
+1704 Budynek Europa – Rada Europejska
+1705 Frankfurt – Dzielnica bankowa
+1706 Dworzec – Antwerpia
+1707 Dworzec – Ateny
+1708 Dworzec – Budapeszt
+1709 Dworzec – Bruksela-Luksemburg
+1710 Dworzec – Frankfurt
+1711 Dworzec – Lizbona
+1712 Dworzec – Londyn
+1713 Dworzec – Luksemburg
+1714 Dworzec – Maastricht
+1715 Dworzec – Paryż
+1716 Dworzec – Rzym
+1717 Dworzec – Strasburg
+1718 Dworzec – Warszawa
+1719 Arena w Atenach – Amfiteatr
+1720 Wieża EBC – Sala transakcji
+1721 Országház – Sala Weta
+1722 DG ds. Konkurencji – Arena
+1723 Hemicykl – Posiedzenie plenarne
+1724 The Brexit Arms – Pub-arena
+1725 Arena w Luksemburgu – Sala interpretacji
+1726 Wielki amfiteatr Sorbony
+1727 Lizbona – Klasztor Hieronimitów
+1728 Kwatera Team Lobby – Piwnica
+1729 Londyn – Westminster
+1730 Luksemburg – Płaskowyż Kirchberg
+1731 Maastricht – Brzegi Mozy
+1732 Dom – Frankfurt
+1733 Dom – Luksemburg
+1734 Dom – Strasburg
+1735 Paryż – Dzielnica Łacińska
+1736 Parlament Europejski – Hol
+1737 Port w Pireusie – Terminal kontenerowy
+1738 Plac Lux – Koktajl
+1739 Rzym – Kapitol
+1740 Droga 1 – Las Ardeński
+1741 Droga 2 – Dolina Mozeli
+1742 Droga 3 – Winnice nad Renem
+1743 Pałac – Długi stół
+1744 Schengen – Brzegi Mozeli
+1745 Szczyt „G-Wszystko” – Sala plenarna
+1746 Strasburg – Dzielnica europejska
+1747 Twoja kawalerka (Ixelles)
+1748 Parlament – Skrzydło widm, 1. piętro
+1749 Parlament – Skrzydło widm, 2. piętro
+1750 Parlament – Skrzydło widm, 3. piętro
+1751 Warszawa – Równina Wschodnia
+826 TISZA! TISZA! TISZA!
+275 Sorbona
+445 Wołodymyr Zełenski
+1752 Dom – Maastricht

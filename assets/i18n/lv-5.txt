@@ -1,0 +1,304 @@
+# Latviešu — completion
+539 Lea
+543 Žerārs
+560 Pjērs Anrī
+576 Kevins
+578 Hanss
+580 Žans Marks
+588 Karls
+601 Inesa
+603 Toms
+605 Alberts
+637 Nikos
+671 Gābors
+1500 Piekļuves nozīmīte
+1501 Atver Parlamenta durvis. Krāsa: praktikants.
+1502 OLAF nozīmīte
+1503 Ļauj redzēt fantomu asistentus.
+1504 Eiropas pase
+1505 Bordo krāsā, 32 lapaspuses, visas robežas paveras.
+1506 Interrail kartīte
+1507 Ceļo ar vilcienu pa visu Eiropu.
+1508 REPowerEU komplekts
+1509 Lai atkal ieslēgtu apkuri, kad gāze ir atslēgta.
+1510 Konjaks
+1511 Dārga pudele. Kopš 2024. gada apliekama ar papildu nodokli…
+1512 Ēdnīcas karte
+1513 Kredīts: 3,40 €. Pietiek vienai kafijai.
+1514 Laika direktīva
+1515 Direktīva par pulksteņa pārgriešanas atcelšanu (2019).
+1516 Brisele–Strasbūra pārcelšanās lāde.
+1517 Nozīmīšu maciņš
+1518 Satur līgumu nozīmītes.
+1519 Hei, jaunais! Šeit visu izšķir debatēs. Parādi, ko tu māki!
+1520 Argh… Man vajadzēja pārlasīt savas kopsavilkuma piezīmes.
+1521 Hā! Atpakaļ pie kopēšanas aparāta!
+1522 Sāncensis
+1523 Nu, {P}, pārbaudīsim savus Euromonus? Mine is obviously better.
+1524 What?! Tā bija veiksmes spēle!
+1525 Easy. Kā paredzēts.
+1526 {P}! Tev jau ir nozīmīte? Nekas, es panākšu, lai tu to nožēlo.
+1527 Not again… Labi, Frankfurtē tu redzēsi.
+1528 Hā! Luksemburga man der.
+1529 Es tikko apciemoju ECB. Es visu sapratu par monetāro politiku. Gandrīz visu.
+1530 Bloody hell… Tu tiešām ātri progresē, {P}.
+1531 Kā saka Londonas Sitijā: time is money.
+1532 {P}… šīs ir mūsu pēdējās debates. Pēc tam es atgriežos Londonā. Pavisam. Nu, one last time!
+1533 Good game, {P}. Vismaz es aizeju ar stilu.
+1534 Es aizeju ar uzvaru. Tas arī ir kaut kas.
+1535 {P}! I'm back. Nu labi… es lūdzu atgriezties. Rejoin? Bet vispirms — debates goda vārdā!
+1536 Labi. Es aizpildu iestāšanās formulāru. Tas ir 35 nodaļas garš…
+1537 Hā! Izrādās, iziešana padara stiprāku. Vai ne.
+1538 Es arī esmu praktikante! Bez algas, tāpat kā tu. Debatēsim, tas iepriecina.
+1539 Labi… es atgriežos pie kopēšanas.
+1540 Stāt! Vai jūsu pārgājiena formulārs A-38 ir apstiprināts?
+1541 Labi, es to apstiprinu. Bet trīs eksemplāros.
+1542 Lauksaimnieks
+1543 KLP ir mana dzīve! Un mans traktors ir mana ģimene. Nu, debatēsim!
+1544 Būs par to jārunā ar arodbiedrību…
+1545 Privātbanķieris
+1546 Laipni lūgts Luksemburgā. Absolūts diskrētums. Šīs debates nekad nav notikušas.
+1547 Šīs debates noteikti nekad nav notikušas.
+1548 Nodokļu konsultants
+1549 Nodokļu nolēmums? Es to sarakstīšu piecās minūtēs. Bet vispirms debates.
+1550 Manas shēmas… sabrukušas!
+1551 Arēnas čempions
+1552 Ā, jauns praktikants! Nāc, nāc, lai es paglaudu tev vaigu. Tad debatēsim, kā vecajos Eurogrupas laikos.
+1553 Lieliski! Tu izcīnīji Nodokļu nolēmuma nozīmīti. Un tā nav konfidenciāla!
+1554 Nu, nedari tādu seju, es jokoju… pa pusei.
+1555 Es braucu ar velosipēdu pa Mozeli! Un debatēju viesabonējot, par brīvu!
+1556 Pat bez viesabonēšanas maksas es visu pazaudēju.
+1557 Analītiķis
+1558 Tirgi prognozē manu uzvaru ar 87 % varbūtību.
+1559 Tirgi kļūdījās. Kā parasti.
+1560 Vīnkopis
+1561 Mans krēmāns ir ar ACVN. Mani Euromoni arī. Vai gandrīz.
+1562 Labi, es tev tāpat piedāvāju dzērienu.
+1563 Pirc zemu, pārdod augstu, debatē spēcīgi!
+1564 Krahs! Es esmu pārtēriņā!
+1565 Pēc mana modeļa tu zaudē. Mans modelis nekad nekļūdās. Izņemot 2008. gadā.
+1566 Man būs jāpārskata savas prognozes.
+1567 Arēnas čempione
+1568 Laipni lūgta Eiropas Centrālajā bankā. Šeit es nosaku likmes… un debašu tempu. Mani uzbrukumi ir atkarīgi no šodienas bāzes likmes!
+1569 Lieliski. Tu izcīnīji Eiro nozīmīti. Un nomierinies: es neesmu šeit, lai samazinātu tavu spredu.
+1570 Cenu stabilitāte ir arī uzvaru stabilitāte.
+1571 Klimata aktīviste
+1572 Katras zaudētas debates — vēl viens grāds! Ķeramies klāt!
+1573 Nu, vismaz tas bija klimatneitrāls.
+1574 Ekskluzīvi! "Praktikants žēlabaini zaudē"!
+1575 Es mainu virsrakstu: "Praktikants žēlabaini labi uzvar".
+1576 Vīndaris
+1577 Reina ir robeža? Nē, tas ir vīns no abām pusēm! Pēc debatēm skandināsim glāzes.
+1578 Priekā tomēr!
+1579 Šorīt es iesniedzu 2000 grozījumu. Pirmais skar tevi.
+1580 Mani grozījumi tiek noraidīti visi uzreiz…
+1581 Sesija notiek Strasbūrā, mūsu lādes ir ieradušās, debatēsim!
+1582 Es atgriežos Briselē. Ar savām lādēm.
+1583 Klusu plenārzālē! Sēde ir atklāta. Es dodu vārdu… jums. Tad to atkal paņemu.
+1584 Pieņemts! Plenārzāles nozīmīte jums piešķirta ar absolūtu balsu vairākumu.
+1585 Sēde ir slēgta. Atgriezieties nākamajā sesijā.
+1586 Parāds ir kā musaka: grūti sagremojams.
+1587 OXI šai sakāvei!
+1588 Kontu inspekcija! Jūsu Euromoni tērē pārāk daudz.
+1589 Inspekcijas ziņojums: nelabvēlīgs.
+1590 Starptautiskais Valūtas fonds iesaka… jūsu sakāvi.
+1591 Mūsu prognozes pārskatītas lejupvērsti.
+1592 Es atbraucu ar motociklu, bez kaklasaites, tāpat kā 2015. gadā, pret Eurogrupu. Debatējam un balsojam: OXI vai NAI?
+1593 OXI… piedod, NAI: tu uzvarēji. Ņem OXI nozīmīti, biedri.
+1594 Tauta ir runājusi. Un tauta — tas esmu es.
+1595 Tabloīds
+1596 VIRSRAKSTS: "Brisele grib aizliegt izliektus banānus"! Tas ir nepatiess? Nav svarīgi — tas pārdodas.
+1597 Rīt pirmajā lapā: "Vēsturiska sakāve".
+1598 Bijušais premjerministrs
+1599 Hello! Es biju korespondents Briselē, zini. Esmu sarakstījis dažādas lietas… vairāk vai mazāk patiesas. Get debate done!
+1600 Crikey. Nu labi, man tāpat bija cits raksts par taisniem gurķiem.
+1601 Tagad vairs nesmejaties, ko? Laipni lūgti krodziņā. Debates, puslitrs un 50. pants.
+1602 Labi. Ņemiet 50. panta nozīmīti. Mums tā vairs nav vajadzīga.
+1603 Take back control! Vismaz debašu gaitu.
+1604 Robežsargs
+1605 Kontrole! Vai jūsu Euromonam ir vīza?
+1606 Drīkstat iet. Bet es to pierakstu.
+1607 Padomnieks
+1608 Premjerministrs nepieņem nevienu. Izņemot tos, kas pieveic mani. Un tas nekad nenotiek.
+1609 Tas tikko notika.
+1610 Jūs gribat manu piekrišanu? Nepieciešama vienprātība. Un es nekad nepiekrītu. Uzmanību: es katrā gājienā varu likt VETO.
+1611 Labi… Es iešu padzert kafiju. Pa to laiku ņemiet šo Veto nozīmīti. Oficiāli es atturējos.
+1612 Veto! Veto! Un atkal veto!
+1613 Team Lobby
+1614 Jums nav piekļuves nozīmītes? Lieliski, mums arī nav.
+1615 Man šī tikšanās būs jāreģistrē pārredzamības reģistrā…
+1616 Mūsu algoritms prognozēja jūsu sakāvi. Pieņemt sīkdatnes?
+1617 Kļūda 403: sakāve.
+1618 Mazs čemodāns par jūsu balsojumu? Nē? Tad debates.
+1619 Es nekad nevienam neko neesmu devis. Pierakstiet to.
+1620 Team Lobby priekšnieks
+1621 Laipni lūgts varas sirdī, praktikant. Šeit likumus neraksta: tos "iesaka". Un tu parakstīsi manu ieteikumu.
+1622 Neiespējami… Vienkāršs, nealgots praktikants… ir pieveicis lobiju. Es atkāpjos. Uz privāto sektoru. Ā, es tur jau esmu.
+1623 Paldies par šo ieguldījumu mūsu sabiedriskajā apspriešanā.
+1624 Advokāts
+1625 Mans klients apstrīd 4,34 miljardu soda naudu. Un šīs debates.
+1626 Mēs iesniegsim apelāciju.
+1627 Jurists
+1628 Dominējošā stāvokļa izmantošana? Es? Es esmu vienkārši dominējošs.
+1629 Soda nauda pieņemta…
+1630 Google, Apple… es esmu uzlicis miljardus soda naudās. Vai jūsu komanda respektē konkurences noteikumus? Pārbaudīsim.
+1631 Dominējošā stāvokļa izmantošana nav konstatēta. Soda nozīmīte ir jūsu.
+1632 Soda nauda! 4 % no jūsu apgrozījuma.
+1633 Fui… Es strādāju šeit… kopš 2009. gada… nu, uz papīra…
+1634 Es atgriežos… pie sava… fiktīvā… darba līguma…
+1635 Fiktīvo darba vietu gars
+1636 ES ESMU… VISU LĪGUMU SUMMA, KURIEM NEKAD NAV BIJIS BIROJA…
+1637 Manas… algas lapas… izzūd…
+1638 Augstākais ierēdnis
+1639 Es beidzu ENA. Nu, tagad tā ir INSP. Īsāk, es zinu visu.
+1640 Es sarakstīšu ziņojumu par šo neveiksmi.
+1641 Ministrs
+1642 Esmu ministrs kopš… šorīta. Debatēsim, pirms notiek nākamā valdības pārveide.
+1643 Pārcelts!
+1644 Laipni lūgti Sorbonnā! Šeit es runāju par suverēnu Eiropu 2017. gadā… un 2024. gadā. Es runāšu ar jums divas stundas. Un tajā pašā laikā — debatēšu.
+1645 Lieliski! Jūs iemiesojat stratēģisko autonomiju. Ņemiet Sorbonnas nozīmīti… un tajā pašā laikā — manus apsveicienus.
+1646 Es izformēju… jūsu komandu!
+1647 Eiropadome
+1648 Wir schaffen das. Kopā mums izdosies. Bet vispirms jums jāpieveic mani. Ņemiet savu laiku — man ir sešpadsmit gadu pieredze.
+1649 Jums izdevās. Wir haben es geschafft.
+1650 Es darīšu visu nepieciešamo, lai uzvarētu šajās debatēs. Whatever it takes. Un ticiet man: tas būs pietiekami.
+1651 Mans ziņojums ieteica 800 miljardus investīciju gadā. Investējiet tos savā komandā.
+1652 Augstā pārstāve ārlietu jautājumos. Mana diplomātija ir stingra. Tāds pats ir mans Baltijas vairogs.
+1653 Skaidra uzvara. Eiropai būs nepieciešami tādi cilvēki kā jūs, saskaroties ar pārējo pasauli.
+1654 Eiropadomes priekšsēdētājs
+1655 Ir 23:59. Mans mērķis: pabeigt šo samitu pirms pusnakts. Pirmo reizi vēsturē!
+1656 Ir… 4:37 no rīta. Kā parasti. Lieliski, jūs varat kāpt augšup uz Berlemonu.
+1657 Komisijas priekšsēdētāja
+1658 Laipni lūgti Berlemona trīspadsmitajā stāvā. Es dzīvoju šeit, ziniet: man ir guļamistaba līdzās kabinetam. Tad paskatīsimies, vai jūs esat pelnījuši direktīvu.
+1659 Team Europe… Jūs esat labākais praktikants, kāds Komisijai jebkad bijis. Laika direktīva ir jūsu!
+1660 Es jums atsūtīšu SMS. Vai varbūt nē.
+1661 Viceprezidents
+1662 Es atbraucu uz Minheni, lai jums paskaidrotu demokrātiju. Tagad esmu atbraucis uz Antverpeni, lai paskaidrotu debates.
+1663 Labi. Es atgriežos rakstīt runu.
+1664 ASV prezidents
+1665 TREMENDOUS! Visu laiku visskaistākās debates, visi tā saka. Es uzlieku 200 % muitas nodokli jūsu Euromoniem. Varbūt 15. Redzēsim.
+1666 TAS BIJA SAFALSIFICĒTS! Nu labi… noslēgsim vienošanos. 15 %. Tas ir mans pēdējais vārds. Šodien.
+1667 Es uzvarēju! Kā vienmēr! Neviens neuzvar labāk par mani.
+1668 Krievijas prezidents
+1669 Sēdieties. Nē, tālāk. Vēl tālāk. Lūk, tā. Sešu metru attālumā saruna ir vairāk… stratēģiska. Jūsu uzbrukumiem būs vajadzīgs viens gājiens, lai pienāktu.
+1670 Gāze… ir noslēgta… no manas puses. Interesanti.
+1671 Nāk ziema. Jums.
+1672 Ķīnas prezidents
+1673 Laipni lūgti. Mēs esam partneri. Un konkurenti. Un sistēmiski sāncenši. Viss atkarīgs no gājiena.
+1674 Hmm. Partneris, kuru vērts respektēt. Es atceļu kontroli retzemju metāliem… pašlaik.
+1675 Saturs nav pieejams jūsu reģionā.
+1676 G-Visu samits
+1677 ES VISPIRMS. Samits ir mana ideja. Nu, es tā domāju.
+1678 Sad!
+1679 Es labāk gribēju to garo galdu.
+1680 Pēdējais vārds būs… sistēmisks.
+1681 Mēs par to runāsim atkal pēc piecdesmit gadiem.
+1682 Antverpenes osta – Brīvības golfs
+1683 Atēnas – Plaka
+1684 Berlemons – 13. stāvs
+1685 Veikals – Atēnas
+1686 Veikals – Budapešta
+1687 Veikals – Brisele
+1688 Veikals – Frankfurte
+1689 Veikals – Londona
+1690 Veikals – Luksemburga
+1691 Veikals – Parīze
+1692 Veikals – Strasbūra
+1693 Brisele – Eiropas kvartāls
+1694 Budapešta – Donavas krasti
+1695 Ēdnīca – Atēnas
+1696 Ēdnīca – Budapešta
+1697 Ēdnīca – Brisele
+1698 Ēdnīca – Frankfurte
+1699 Ēdnīca – Londona
+1700 Ēdnīca – Luksemburga
+1701 Ēdnīca – Parīze
+1702 Ēdnīca – Strasbūra
+1703 ES Tiesa
+1704 Europa ēka – Eiropadome
+1705 Frankfurte – Banku kvartāls
+1706 Stacija – Antverpene
+1707 Stacija – Atēnas
+1708 Stacija – Budapešta
+1709 Stacija – Brisele-Luksemburga
+1710 Stacija – Frankfurte
+1711 Stacija – Lisabona
+1712 Stacija – Londona
+1713 Stacija – Luksemburga
+1714 Stacija – Māstrihta
+1715 Stacija – Parīze
+1716 Stacija – Roma
+1717 Stacija – Strasbūra
+1718 Stacija – Varšava
+1719 Atēnu arēna – Amfiteātris
+1720 ECB tornis – Tirdzniecības zāle
+1721 Országház – Veto zāle
+1722 Konkurences ĢD – Arēna
+1723 Plenārzāle – Plenārsēde
+1724 The Brexit Arms – Krodziņa arēna
+1725 Luksemburgas arēna – Nodokļu nolēmumu zāle
+1726 Lielais Sorbonnas amfiteātris
+1727 Lisabona – Žeronimu klosteris
+1728 Team Lobby štābs – Pagrabs
+1729 Londona – Vestminstera
+1730 Luksemburga – Kiršberga plato
+1731 Māstrihta – Meusas krasti
+1732 Māja – Frankfurte
+1733 Māja – Luksemburga
+1734 Māja – Strasbūra
+1735 Parīze – Latīņu kvartāls
+1736 Eiropas Parlaments – Vestibils
+1737 Pirejas osta – Konteineru termināls
+1738 Place Lux – Kokteilis
+1739 Roma – Kapitolijs
+1740 1. maršruts – Ardēnu mežs
+1741 2. maršruts – Mozeles ieleja
+1742 3. maršruts – Reinas vīna dārzi
+1743 Pils – Garais galds
+1744 Šengena – Mozeles krasti
+1745 "G-Visu" samits – Plenārzāle
+1746 Strasbūra – Eiropas kvartāls
+1747 Tava studija (Ixelles)
+1748 Parlaments – Fantomu spārns, 1. stāvs
+1749 Parlaments – Fantomu spārns, 2. stāvs
+1750 Parlaments – Fantomu spārns, 3. stāvs
+1751 Varšava – Austrumu līdzenums
+1752 Māja – Māstrihta
+1754 Titulekrāns
+1755 Profesors Šūmans
+1756 Laboratorija
+1758 Tava studija
+1761 Ēdnīca
+1763 Veikals
+1764 Stacija
+1766 Uz ceļa
+1767 Kauja: savvaļas Euromons
+1768 Acu kontakts
+1769 Kauja: treneris
+1771 Kauja: Oliver
+1773 Uzvara
+1774 Uzvara (savvaļas)
+1775 Uzvara (treneris)
+1776 Evolūcija
+1778 Arēna
+1780 Kauja: arēna
+1782 Kauja: arēnas vadonis
+1784 Šengena
+1789 Ardievu, Oliver
+1791 Team Lobby
+1792 Kauja: priekšnieks
+1794 Fantomu spārns
+1797 Eiropadome
+1799 Kauja: Padome
+1802 Kauja: priekšsēdētāja
+1804 Kauja: Lielvaras
+1807 Pēdējā kauja
+1809 Leģendārās vietas
+1810 Kauja: leģendārs
+1812 Pēdējā kauja (variants)
+1813 Jukebox
+1814 %d dziesmas no %d
+1815 Izvēlies dziesmu.
+1816 JUKEBOX
+1817 A: klausīties    B: atpakaļ
+1818 Vecs jukebox, atvienots no kontakta. Uzlīme: "Pievienot atpakaļ pēc jūsu pirmās nozīmītes. — Tehniskais dienests"

@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Kelių žaidėjų debatai
+2148	Sukurti kambarį
+2149	Prisijungti prie kambario
+2150	Žaisti su bet kuo
+2151	Kambario pavadinimas
+2153	PIN (6 skaitmenys)
+2145	Laukiama žaidėjų…
+2146	Ieškoma kas 10 sekundžių.
+2147	PIN: %s
+2118	Atšaukti (B)
+2117	Patvirtinti (A)
+2116	←→: vieta    ↑↓: skaitmuo
+2152	Įveskite kambario pavadinimą.
+2113	Netinkamas serverio atsakymas.
+2135	Netinkama kambario užklausa.
+2136	Šis kambario pavadinimas jau naudojamas.
+2137	Kambarys nerastas.
+2138	Neteisingas PIN.
+2139	Kambarys pilnas.
+2140	Žaidimo versijos skiriasi.
+2141	Serveris pilnas.
+2142	Kambario laikas baigėsi.
+2143	Netinkamas debatų duomenų apsikeitimas.
+2144	Serveris sustabdytas.
+2108	Debatai atšaukti.
+2109	Serveris neatsako.
+2110	Ryšys su serveriu nutrūko.
+2111	Kitas žaidėjas paliko debatus.
+2115	Debatai nesinchronizuoti.
+2114	Laukiama kito žaidėjo… B: atšaukti
+2123	Jungiamasi prie Wi-Fi… B: atšaukti
+2124	Nepavyko paleisti Wi-Fi.
+2125	Patikrinkite konsolės Wi-Fi nustatymus.
+2126	Nepavyko sukurti ryšio.
+2127	Nepavyko nustatyti ryšio.
+2128	Serveris nepasiekiamas.
+2129	Debatams reikia komandos.

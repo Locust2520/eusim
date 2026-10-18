@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Mehrspieler-Debatte
+2148	Raum erstellen
+2149	Raum beitreten
+2150	Mit beliebigen Spielern
+2151	Raumname
+2153	PIN (6 Ziffern)
+2145	Warte auf Spieler…
+2146	Suche alle 10 Sekunden.
+2147	PIN: %s
+2118	Abbrechen (B)
+2117	Bestätigen (A)
+2116	←→: Position    ↑↓: Ziffer
+2152	Gib einen Raumnamen ein.
+2113	Ungültige Serverantwort.
+2135	Ungültige Raumanfrage.
+2136	Dieser Raumname wird bereits verwendet.
+2137	Raum nicht gefunden.
+2138	Falsche PIN.
+2139	Dieser Raum ist voll.
+2140	Die Spielversionen unterscheiden sich.
+2141	Der Server ist voll.
+2142	Der Raum ist abgelaufen.
+2143	Ungültiger Debattenaustausch.
+2144	Der Server wurde gestoppt.
+2108	Debatte abgebrochen.
+2109	Der Server antwortet nicht.
+2110	Verbindung zum Server unterbrochen.
+2111	Der andere Spieler hat die Debatte verlassen.
+2115	Die Debatten sind nicht mehr synchron.
+2114	Warte auf den anderen Spieler… B: abbrechen
+2123	WLAN-Verbindung… B: abbrechen
+2124	WLAN konnte nicht gestartet werden.
+2125	Prüfe die WLAN-Einstellungen der Konsole.
+2126	Verbindung konnte nicht erstellt werden.
+2127	Verbindung konnte nicht eingerichtet werden.
+2128	Server nicht erreichbar.
+2129	Du brauchst ein Team für die Debatte.

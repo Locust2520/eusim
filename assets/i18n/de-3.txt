@@ -1,0 +1,472 @@
+# Deutsch — ids 1000-1499
+1000 Frohen Europatag! Bis nächstes Jahr.
+1002 Föderal
+1003 Souverän
+1004 Liberal
+1005 Sozial
+1006 Grün
+1007 Industrie
+1008 Energie
+1009 Recht
+1010 Geld
+1011 Agrar
+1012 Digital
+1015 Populist
+1016 Geist
+1017 Änderung
+1018 Ändert den gegnerischen Text, Absatz für Absatz.
+1019 Papierkram
+1020 Begräbt das Ziel unter Formularen.
+1021 Dienstanweisung
+1022 Eine sehr bestimmte interne Notiz.
+1023 Sitzung
+1024 Eine Koordinierungssitzung, bei der alle einschlafen.
+1025 Trockenstempel
+1026 Ein sauberer, amtlicher Stempelschlag.
+1027 Komitologie
+1028 Niemand versteht das Verfahren. Nicht einmal das Ziel.
+1029 Korrekturlesen
+1030 Liest seine Akte nochmal. Erhöht Resilienz stark.
+1031 Richtlinie
+1032 Ein verbindlicher Text, dringend umzusetzen.
+1033 Verordnung
+1034 Unmittelbar in allen Mitgliedstaaten anwendbar.
+1035 Trilog
+1036 Parlament, Rat, Kommission: trifft 2- bis 5-mal.
+1037 Eilverfahren
+1038 Dringlichkeitsverfahren: handelt zuerst.
+1039 Kaffeepause
+1040 Ein Kantinenkaffee. Stellt die Hälfte der KP her.
+1041 Plagiat
+1042 Kopiert die letzte Attacke des Gegners.
+1043 Jahresbericht
+1044 Lädt eine Runde auf, dann haut er mit 400 Seiten zu.
+1045 Integration
+1046 Ein kleiner Schritt zu einer immer engeren Union.
+1047 Subsidiarität
+1048 Handelt auf der richtigen Ebene. Erhöht Diplomatie.
+1049 Vereinigte Staaten EU
+1050 Der große föderale Traum, mit voller Wucht.
+1053 Binnenmarkt
+1054 Schafft Grenzen ab… und die gegnerische Diplomatie.
+1055 Zwölf Sterne
+1056 Zwölf goldene Sterne, die nie danebengehen.
+1057 Spitzenkandidat
+1058 Eine Spitzenkandidaten-Kampagne. Hohe Volltrefferquote.
+1059 Erweiterung
+1060 Nimmt neue Mitglieder auf. Argumentation +2.
+1061 Blockiert diese Runde jede Attacke. Einstimmigkeit ist heilig.
+1062 Grenze
+1063 Führt Kontrollen wieder ein. Kann Reaktion senken.
+1065 Nimmt sich von gemeinsamen Regeln aus. Resilienz +2.
+1066 Referendum
+1067 Eine einfache Frage, komplizierte Folgen.
+1068 Artikel 7
+1069 Setzt Rechte aus. Gegnerische Argumentation -2.
+1070 Verlässt den Kampf… wenn die Verhandlungen klappen.
+1071 Rabatt
+1072 „I want my money back!“ Stellt KP her.
+1073 Souveränität
+1074 Holt sich mit Getöse die Kontrolle zurück.
+1075 Wettbewerb
+1076 Frei und unverfälscht, aber es tut weh.
+1077 Freihandel
+1078 Ein Handelsabkommen ohne Zölle.
+1079 Deregulierung
+1080 Streicht Schutzregeln. Gegnerische Resilienz -2.
+1082 Disruptiv und schnell. Handelt zuerst.
+1083 Unsichtbare Hand
+1084 Man sieht sie nicht kommen. Trifft immer.
+1085 Zugleich
+1086 Von rechts und von links, trifft 2- bis 5-mal.
+1087 Trickle-down
+1088 Lässt Euros auf das Feld rieseln.
+1089 Streik
+1090 Alles steht still. Friert die Gelder des Ziels ein.
+1091 Soziale Säule
+1092 Eine felsenfeste europäische Säule sozialer Rechte.
+1093 Mindestlohn
+1094 Richtlinie von 2022 über angemessene Mindestlöhne.
+1095 Demo
+1096 Ein Meer aus Schildern. Kann einschüchtern.
+1097 Solidarität
+1098 Teilt die Last. Stellt die Hälfte der KP her.
+1099 Das griechische „Nein“ vom Juli 2015. Rückstoß garantiert.
+1101 Ein Austausch, der den Horizont erweitert. Kann Expertise erhöhen.
+1102 Green Deal
+1103 Der Green Deal von 2019 mitten ins Gesicht.
+1104 Aufforstung
+1105 Pflanzt neu. Stellt die Hälfte der KP her.
+1106 CO2-Steuer
+1107 CO2-Grenzausgleichssystem. Kann Expertise senken.
+1108 Klimaneutral 2050
+1109 Netto-Null-Emissionen, in einem Schlag.
+1110 Kompost
+1111 Riecht streng. Kann Einfluss aussetzen.
+1112 Fester Deckel
+1113 Richtlinie 2019/904: Der Deckel lässt das Ziel nicht mehr los.
+1115 -55 % Emissionen bis 2030, und es knallt.
+1116 Fahrrad
+1117 Ein Express-Radweg. Handelt zuerst.
+1118 Kohle
+1119 Die EGKS von 1951 als Kugel. Kann einen Skandal auslösen.
+1120 Stahl
+1121 Eine Faust aus europäischem Stahl.
+1122 Hochofen
+1123 Extreme Hitze. Kann einen Skandal auslösen.
+1124 Verlagerung
+1125 Zieht weg. Kann gegnerische Reaktion senken.
+1127 Ein europäischer Champion im Sturzflug.
+1128 Fließband
+1129 Montagelinie: trifft 2- bis 5-mal.
+1130 Industrieplan
+1131 Kurbelt die Produktion an. Argumentation +2.
+1132 Funke
+1133 Ein kleiner Kurzschluss. Kann Gelder einfrieren.
+1134 Kernspaltung
+1135 Euratom, 1957. Die Kraft des Atoms.
+1136 Windrad
+1137 Rotorblätter, die sich drehen… und Köpfe auch.
+1138 Gashahn
+1139 Dreht die Versorgung ab. Friert Gelder ein.
+1141 Plan von 2022 zur Entwöhnung. Expertise +2.
+1142 Überspannung
+1143 Eine heftige Entladung, mit Rückstoß.
+1144 Kernfusion
+1145 Der ITER-Reaktor mit voller Leistung.
+1146 Preisdeckel
+1147 Deckelt den Gegner. Expertise -2.
+1148 Mahnschreiben
+1149 Erste offizielle Verwarnung.
+1150 Vertragsverletzung
+1151 Ein gezieltes Vertragsverletzungsverfahren.
+1152 EuGH-Urteil
+1153 Luxemburg hat entschieden. Keine Berufung möglich.
+1154 Ein Milliardenbußgeld. Münzen fliegen überallhin.
+1155 OLAF-Ermittlung
+1156 Das Betrugsbekämpfungsamt ermittelt. Kann das Ziel blockieren.
+1157 DSGVO
+1158 Schützt Daten. Gegnerisches Ausweichen -2.
+1159 Rechtsprechung
+1160 Stützt sich auf Präzedenzfälle. Expertise +2.
+1162 Gesetz über digitale Dienste. Kann Expertise senken.
+1163 Euromünze
+1164 Ein 2-€-Münzwurf. Kopf oder Zahl?
+1165 Leitzins
+1166 Erhöht die Zinsen. Kann das Ziel bremsen.
+1167 Notenpresse
+1168 Quantitative Lockerung nach Belieben.
+1169 Sparpolitik
+1170 Gürtel enger schnallen. Gegnerische Argumentation -2.
+1172 „Whatever it takes“ (Draghi, Juli 2012). Gelingt immer.
+1174 Frisst Runde um Runde an der Kaufkraft.
+1176 Der Zinsabstand explodiert. Hohe Volltrefferquote.
+1177 Konjunkturplan
+1178 NextGenerationEU, 750 Mrd. €. Stellt die Hälfte der KP her.
+1179 Traktor
+1180 Blockiert die Straße. Kann das Ziel bremsen.
+1181 GAP
+1182 Gemeinsame Agrarpolitik: stellt KP her.
+1183 Gülle
+1184 Vor der Präfektur verteilt. Kann verseuchen.
+1185 g.U.
+1186 Geschützte Ursprungsbezeichnung. Resilienz +2.
+1187 Ernte
+1188 Eine Rekordernte, mitten auf den Kopf.
+1190 2023 für zehn Jahre neu zugelassen. Kann mit Einfluss vergiften.
+1191 Krumme Banane
+1192 Verordnung von 1994 über die Qualität von Bananen. Verwirrend.
+1194 Ein Banner, das sich nicht schließen lässt. Friert das Ziel ein.
+1196 Fehler 404. Kann desinformieren.
+1197 Algorithmus
+1198 Eine personalisierte Empfehlung, sehr personalisiert.
+1200 Das einheitliche Ladegerät, seit 2024 Pflicht.
+1202 Ein virales Gerücht. Desinformiert das Ziel.
+1204 Keine Roaming-Gebühren mehr! Handelt zuerst.
+1205 KI-Gesetz
+1206 Die weltweit erste KI-Verordnung (2024).
+1207 Trollen
+1208 Ein gemeiner Kommentar. Kann aus der Fassung bringen.
+1209 Händedruck
+1210 Fest und lang, vor den Fotografen.
+1211 Verhandlungen bis 5 Uhr morgens. Schläfert das Ziel ein.
+1212 Kompromiss
+1213 Alle verlieren ein bisschen, du gewinnst KP.
+1214 Sanktionen
+1215 Ein neues Sanktionspaket. Kann Diplomatie senken.
+1216 Sofa
+1217 Sofagate (Ankara, 2021): Das Ziel setzt aus. Nur in der 1. Runde.
+1218 Dolmetschen
+1219 In 24 Sprachen übersetzt. Etwas geht verloren.
+1220 Abkommen
+1221 Ein historisches Abkommen, in letzter Minute unterzeichnet.
+1223 Europäischer Charme. Diplomatie +2.
+1224 Häppchen
+1225 Ein Empfang auf der Place Lux. Das Ziel gerät unter Einfluss.
+1226 Koffer
+1227 Ein gut gefüllter Koffer, mit Schwung geworfen.
+1228 Geldtasche
+1229 Überall Scheine. Das Feld ist damit bedeckt.
+1230 Positionspapier
+1231 Ein fertiger Schlüssel-Änderungsantrag, schon formuliert.
+1232 Seitenwechsel
+1233 Wechselt in die Privatwirtschaft. Reaktion +2.
+1234 Einfluss
+1235 Ein Wort ins richtige Ohr.
+1236 Drehtür
+1237 Man weiß nicht mehr, wer für wen arbeitet.
+1239 Drei Wörter, null Nuancen.
+1240 Roter Bus
+1241 „350 Millionen pro Woche!“ Kann desinformieren.
+1242 Megafon
+1243 Schreit lauter als alle anderen.
+1244 Euromythos
+1245 Eine Legende über Brüssel, sehr überzeugend.
+1247 Der beste Zug aller Zeiten. Argumentation +3.
+1248 Zölle
+1249 Liberation Day (2. April 2025). Kann Resilienz senken.
+1250 Post in Großbuchstaben
+1251 EINE NACHRICHT GANZ IN GROSSBUCHSTABEN.
+1253 „You're not laughing now!“ (2016). Kann Diplomatie senken.
+1254 Scheinjob
+1255 Eine Stelle, die es nicht gibt, die aber kostet.
+1256 Verschwinden
+1257 Im Büro unauffindbar. Ausweichen +2.
+1258 Gelöschte SMS
+1259 Keine Nachricht bleibt. Hebt gegnerische Boni auf.
+1260 Spuk
+1261 Eine Akte, die ihren Urheber heimsucht.
+1262 Gehaltszettel
+1263 Ein Gehalt für nichts. Stellt KP her.
+1264 Ektoplasma
+1265 Eine spektakuläre Erscheinung im Parlament.
+1266 Verfassung
+1267 2005 abgelehnt… aber wahnsinnig stark.
+1268 Römische Verträge
+1269 1957: die Gründung der EWG.
+1270 1992: die Union und die gemeinsame Währung.
+1271 2007: der Vertrag, der die Verfassung ersetzte.
+1272 Seltene Erden
+1273 Beschränkt Exporte. Kann Gelder einfrieren.
+1274 Langer Tisch
+1275 Empfängt am Ende eines sechs Meter langen Tisches. Ausweichen +2.
+1276 Systemrivale
+1277 Partner, Wettbewerber, Rivale. Kann Diplomatie senken.
+1278 Grönland
+1279 Versucht, eine ganze Insel zu kaufen. Großer Schaden.
+1280 Geboren mit dem Green Deal von 2019. Jedes Mal, wenn eine Emissionsnorm beschlossen wird, sprießt ein Trieb.
+1281 Klimaziel
+1282 Es trainiert, seine Emissionen bis 2030 um 55 % zu senken. Es zählt jede Kalorie.
+1283 Neutralität
+1284 Es strebt Klimaneutralität für 2050 an. Bis dahin pflanzt es bei jedem Schritt einen Baum.
+1285 Ein kleiner Kohlehaufen aus der EGKS von 1951. Es schwärzt begeistert alles, was es berührt.
+1286 Sein Schornstein spuckt Funken, wenn es sich ärgert. Es träumt von Vollbeschäftigung.
+1287 Gemeinsamer Stahl
+1288 Geschmiedet aus vergemeinschafteter Kohle und Stahl. Es ist der Beweis, dass man Frieden herstellen kann.
+1289 Atom
+1290 Ein neugieriges kleines Atom, geboren aus dem Euratom-Vertrag von 1957. Es kann nicht stillsitzen.
+1291 Reaktor
+1292 Seine Elektronen kreisen so schnell, dass es einen ganzen Raum erhellt. Energiesparen optional.
+1293 Es teilt sich, wenn es sich ärgert. Mit den Grünen spricht es nicht mehr.
+1294 Stempel
+1295 Ein lebender Stempel, der alles genehmigt, was ihm begegnet. Er hat schon seinen eigenen Trainer gestempelt.
+1296 Unterschriftenmappe
+1297 Es paraphiert jede Seite unten rechts. Es braucht vier Stunden pro Vertrag.
+1298 Ratifizierung
+1299 Es bewegt sich nur, wenn 27 nationale Parlamente Ja gesagt haben. Es schläft also viel.
+1300 Es vermehrt sich zu Tausenden bei jedem Gesetzentwurf. Das Parlament bekommt manchmal 2000 pro Bericht.
+1301 Obstruktion
+1302 Es reicht so viele Änderungsanträge ein, dass es die ganze Sitzung blockiert. Eine bewährte Technik.
+1303 Cookie-Banner
+1304 Seit der DSGVO von 2018 erscheint es vor jeder Tür. Ablehnen reicht nie.
+1305 Einwilligung
+1306 Es bittet um Zustimmung zu allem und dann um Zustimmung zur Zustimmung. Es ist sehr höflich.
+1307 Ladegerät
+1308 Seit Ende 2024 auf allen Geräten Pflicht. Es hat eine ganze Kabelschublade arbeitslos gemacht.
+1309 Deckel
+1310 Es verlässt seine Flasche seit Juli 2024 nicht mehr. Es stupst dir beim Trinken an die Nase.
+1311 Verschwundener Strohhalm
+1312 Seit 2021 verboten, galt es als ausgestorben. Nachts spukt es in Fast-Food-Läden.
+1313 Banane
+1314 Eine Verordnung von 1994 legt seine Qualität fest. Es verbringt sein Leben damit, seine Krümmung zu messen.
+1316 Es reist seit Juni 2017 überall ohne Zusatzkosten. Es ruft seine Mutter von jeder Grenze an.
+1317 Grenzenlos
+1318 Es hat an einem Wochenende alle 27 Länder besucht und alles live gepostet. Ohne Aufpreis.
+1319 Dieses kleine Nagetier geht ein Semester ins Ausland und kommt zweisprachig zurück. Geboren 1987.
+1320 Austausch
+1321 Es hat in 12 WGs gewohnt und kocht Nudeln in 9 Sprachen.
+1322 Münze
+1323 Eine 2-€-Münze, die seit 2002 überall herumrollt. Sie hat 27 mögliche nationale Seiten.
+1324 Gemeinsame Währung
+1325 Zwanzig Länder teilen seine Kraft. Hustet eins, bekommen die anderen Fieber.
+1326 Freizügigkeit
+1327 1985 auf einem Schiff auf der Mosel geboren. Keine Grenze hält es auf.
+1328 Herbizid
+1329 2023 für zehn Jahre neu zugelassen. Das Unkraut zittert, wenn es vorbeikommt.
+1330 Klinkenputzer
+1331 Es lungert mit einem Aktenkoffer größer als es selbst in den Fluren herum. Es macht kein Lobbying, es „informiert“.
+1332 Influencer
+1333 Es kennt die Nummer jedes parlamentarischen Assistenten. Und ihre Allergien.
+1334 Mega-Lobby
+1335 Einer der 25 000 Brüsseler Lobbyisten, in Riesenformat. Es schreibt Gesetze im Schlaf um.
+1336 Eisenkoffer
+1337 Ein Eisenkoffer, der zwölfmal im Jahr Brüssel–Straßburg fährt. Ihm wird beim Reisen übel.
+1338 Umzug
+1339 Es trägt ein ganzes Parlament im Bauch. Reisekosten: lieber nicht fragen.
+1340 Zeitumstellung
+1341 Das Parlament hat 2019 für seine Abschaffung gestimmt. Trotzdem kommt es zweimal im Jahr zurück.
+1342 Betrug
+1343 Es schummelt seit 2015 bei Tests: sauber auf dem Prüfstand, verqualmt auf der Straße.
+1344 Es kämpft um die Präsidentschaft… dann wird ein anderer ernannt.
+1345 Dolmetscher
+1346 Es spricht 24 Sprachen, immer mit zwei Sekunden Verzögerung.
+1347 Drei Köpfe: Parlament, Rat, Kommission. Gegen 4 Uhr morgens werden sie sich einig.
+1348 Niemand weiß genau, was es tut. Trotzdem sitzt es in 300 Ausschüssen.
+1349 Formular
+1350 Ein Stapel Formulare in dreifacher Ausfertigung. Es fehlt immer eine Seite.
+1351 Archiv
+1352 Es behält alles, sogar Notizzettel von 1958. Ablage: alphabetisch und emotional.
+1353 Kleinbauer
+1354 Es bekommt für jeden Hektar GAP-Gelder. Jeden Morgen zählt es seine Hektar.
+1355 Es schluckt ein Drittel des EU-Haushalts ohne mit der Wimper zu zucken. Es hat immer Hunger.
+1356 Agrarpolitik
+1357 Wenn es mit seinen Traktoren die Autobahn blockiert, verhandelt sogar der Rat.
+1358 Bei jeder Reform parkt es vor dem Parlament. Hupen garantiert.
+1359 Käse
+1360 Ein kleiner Rohmilchkäse, der sehr streng riecht. Es ist stolz auf sein Terroir.
+1361 Durch eine Ursprungsbezeichnung geschützt. Jede Nachahmung wird verfolgt.
+1362 Praline
+1363 Eine sehr liebe belgische Praline. Sie schmilzt, wenn man ihr ein Kompliment macht.
+1364 Belgische Fritte
+1365 Zweimal frittiert, wie es sich gehört. Es weigert sich kategorisch, „French“ genannt zu werden.
+1366 Taube
+1367 Es lebt auf der Place du Luxembourg und klaut den Lobbyisten die Fritten. Es kennt jeden Klatsch.
+1368 Kleiner Mann
+1369 Eine kleine, 55 cm hohe Statue mit mehr Kostümen als das ganze Parlament.
+1371 Neun Stahlkugeln, verbunden zu einem Kristall, seit der Expo 58. Nachts leuchtet es über Brüssel.
+1372 Praktikant
+1373 Es arbeitet viel und wird nicht bezahlt. Es sagt, das sei „eine lehrreiche Erfahrung“.
+1374 Zeitbediensteter
+1375 Sein Vertrag endet in drei Monaten. Es verlängert ihn seit sechs Jahren.
+1376 Es hat das EPSO-Auswahlverfahren bestanden. Es fürchtet nichts mehr, außer der Rentenreform.
+1377 Nörgler
+1378 Es ist dagegen. Wogegen, ist egal: Es ist dagegen.
+1379 Redner
+1380 Es steigt auf jeden Tisch, um die Menge aufzustacheln. Sogar in der Kantine.
+1381 Demagoge
+1382 Es verspricht allen alles. Seine Versprechen verdunsten im Morgengrauen.
+1383 Falschmeldung
+1384 Es ändert seine Form je nachdem, wer es ansieht. Es wird sehr oft geteilt.
+1385 Fake-Konto
+1386 Ein kleiner Roboter, der alles in Großbuchstaben kommentiert. Er hat nie geschlafen.
+1387 Trollfabrik
+1388 Zehntausend Konten in einer einzigen Kiste. Wahlen kennen es gut.
+1389 Es lernt aus allem, was du tust. Es weiß schon, was du fangen wirst.
+1390 Regulierte KI
+1391 Die weltweit erste Verordnung über künstliche Intelligenz (2024) hat es auf Linie gebracht.
+1392 Es bläht sich jeden Monat ein bisschen auf. Die Haushalte beobachten es genau.
+1393 Hyperinflation
+1394 So groß, dass es die Straßen verstopft. Die EZB erhöht die Zinsen, damit es abnimmt.
+1395 Zinsabstand
+1396 Es dehnt sich bei jeder ungeschickten Äußerung eines Zentralbankers.
+1397 Kryptowährung
+1398 Morgens ein Vermögen wert, abends nichts. Es liebt Achterbahnen.
+1399 Reguliertes Krypto
+1400 Die MiCA-Verordnung zwingt es, Krawatte zu tragen. Jetzt ist es ruhiger.
+1401 Haushaltsausgleich
+1402 Es gibt nie etwas aus, nicht einmal Energie. Sein Ruf: „Schwarze Null!“
+1403 Troika
+1404 Drei Katzen: EZB, Kommission, IWF. Gemeinsam prüfen sie die Konten anderer.
+1405 Eine Kröte, die bei jedem Vorschlag „Nein!“ quakt. Eine allein reicht, um alles zu blockieren.
+1406 Einstimmigkeit
+1407 Es verlangt für jede Entscheidung Einstimmigkeit und verweigert sie dann selbst.
+1408 Schranke
+1409 Es taucht auf, sobald von Grenzkontrollen die Rede ist. Es hat sein eigenes Wachhäuschen.
+1410 Austritt
+1411 2016 wollte es gehen, 2020 ging es, manchmal bereut es das. Es verlässt oft Kämpfe.
+1412 Volksbefragung
+1413 Eine Urne, die einfache Fragen zu komplizierten Problemen stellt.
+1414 Vom Parlament bezahlt, hat es dort nie einen Fuß hineingesetzt. Niemand hat es je arbeiten sehen.
+1415 Es hat einen Ausweis, einen Vertrag und einen Gehaltszettel. Aber kein Büro.
+1416 Im Dezember 2022 voller Geldscheine in einer Brüsseler Wohnung gefunden.
+1417 Aktenkoffer
+1418 Ein kleiner Koffer, der vor dem Parlament von Hand zu Hand geht.
+1420 1200 km lang unter dem Meer. Sein Hahn wird von jemand anderem kontrolliert.
+1421 Seine Flügel drehen sich, sobald man darauf pustet. Windstille Tage hasst es.
+1422 Offshore-Wind
+1423 Es lebt vor der Nordseeküste und versorgt ganze Städte.
+1424 Solarmodul
+1425 Nachts schläft es, tagsüber arbeitet es hart, vor allem in Spanien.
+1426 Es verhindert, dass die Preise zu hoch steigen. Vom vielen Drücken hat es Nackenschmerzen.
+1427 Zoll
+1428 Es besteuert alles, was an ihm vorbeikommt. Sogar Herbstlaub.
+1429 Handelskrieg
+1430 Es schwenkt eine riesige Zolltafel. Die Zahlen ändern sich jeden Morgen.
+1431 Ein kleiner Stein, von dem alle Handys abhängen. Seine Exporte werden überwacht.
+1432 Diplomatenpanda
+1433 Für ein paar Jahre an einen europäischen Zoo verliehen. Es frisst Bambus und Handelsabkommen.
+1434 Inhalt nicht verfügbar
+1435 Dieses gelbe Bärchen ist in keiner Region sichtbar. Sein Eintrag wurde entfernt.
+1436 Juristentaube
+1437 Es nistet auf den Türmen des Gerichtshofs am Kirchberg und gurrt auf Latein.
+1438 Erklärung
+1439 Es rezitiert die Erklärung vom 9. Mai 1950 vor jedem, der zuhört. Es erscheint am Europatag.
+1440 Nobelpreis
+1441 Eine Medaille, 2012 an die Europäische Union verliehen. Sie glänzt vor Stolz.
+1442 Nieselregen
+1443 Eine kleine Brüsseler Wolke. Sie regnet 200 Tage im Jahr auf dich.
+1444 Geschäftsessen
+1445 Ein dreistündiges Arbeitsessen. Dort wird mehr entschieden als im Plenum.
+1446 Handelsabkommen
+1447 Seit 1999 in Verhandlung. Macht es einen Schritt nach vorn, schieben es die Traktoren zurück.
+1448 Geboren am 25. März 1957 auf dem Kapitol. Es gründete die Europäische Wirtschaftsgemeinschaft.
+1449 Vertrag von Maastricht
+1450 1992 in den Niederlanden geboren. Es schuf die Union und erträumte den Euro.
+1451 Vertrag von Lissabon
+1452 2007 unterzeichnet, übernahm es das Wesentliche einer Verfassung, die nie das Licht der Welt erblickte.
+1453 2005 per Referendum in Frankreich und den Niederlanden abgelehnt. Es flieht, sobald man sich nähert.
+1454 Es kennt nur eine Attacke, und die gelingt immer. Es hat den Euro mit einem Satz gerettet.
+1455 Amtsstempel
+1456 Stempelt ein geschwächtes Euromon ab, um es zu erfassen.
+1457 Super-Stempel
+1458 Verstärkte Tinte. Wirksamer als ein einfacher Stempel.
+1459 Qualifizierter Stempel
+1460 Qualifizierte Mehrheit: sehr gute Fangchance.
+1461 Einstimmiger Stempel
+1462 Einstimmigkeit! Fang garantiert. Äußerst selten.
+1463 Kantinenkaffee
+1464 Stellt 20 KP her. Lauwarm, aber wirksam.
+1465 Club-Sandwich
+1466 Stellt 50 KP her. Der Liebling der Praktikanten.
+1467 Brüsseler Waffel
+1468 Stellt 120 KP her. Puderzucker inklusive.
+1470 Luxemburger Spezialität. Stellt 200 KP her.
+1471 Komplettes Menü
+1472 Vorspeise, Hauptgang, Dessert: stellt alle KP her.
+1473 Rechtsgutachten
+1474 Heilt alle Statusprobleme.
+1475 Wecker
+1476 Weckt ein vom Gipfel eingeschläfertes Euromon.
+1477 Wiederbelebungsantrag
+1478 Macht ein besiegtes Euromon wieder debattierfähig.
+1479 Einstimmige Wiederbelebung
+1480 Belebt ein besiegtes Euromon mit allen KP wieder.
+1481 Gewerkschaftspause
+1482 Füllt alle AP eines Euromons auf.
+1483 Argumentarium
+1484 Im Kampf: erhöht die Argumentation.
+1485 Schutzweste
+1486 Im Kampf: erhöht die Resilienz.
+1487 Gutachten
+1488 Im Kampf: erhöht die Expertise.
+1489 Adressbuch
+1490 Im Kampf: erhöht die Diplomatie.
+1491 Doppelter Espresso
+1492 Im Kampf: erhöht die Reaktion.
+1493 Nichtanwerbung
+1494 Anti-Werbe-Klausel: hält Euromons 100 Schritte fern.
+1495 Lässt bestimmte Euromons sich entwickeln. 27 Unterschriften nötig.
+1496 Lässt bestimmte Energie-Euromons sich entwickeln.
+1497 USB-C-Stick
+1498 Lässt bestimmte digitale Euromons sich entwickeln.
+1499 Enzyklopädie der Euromons, ein Geschenk von Jean Monnet.

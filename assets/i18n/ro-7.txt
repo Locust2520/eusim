@@ -1,0 +1,292 @@
+# Română — completion (ids 1500-1818)
+1500 Insignă de acces
+1501 Deschide porțile Parlamentului. Culoare: stagiar.
+1502 Insignă OLAF
+1503 Permite să vezi asistenții fantomă.
+1504 Pașaport european
+1505 Bordo, 32 de pagini, toate frontierele se deschid.
+1506 Legitimație Interrail
+1507 Călătorește cu trenul în toată Europa.
+1508 Kit REPowerEU
+1509 Pentru a reaprinde căldura când gazul e tăiat.
+1510 Coniac
+1511 O sticlă prețioasă. Suprataxată din 2024…
+1512 Card de cantină
+1513 Credit: 3,40 €. Suficient pentru o cafea.
+1514 Directiva orei
+1515 Directiva privind eliminarea schimbării orei (2019).
+1516 Un cufăr din mutarea Bruxelles–Strasbourg.
+1517 Suport pentru insigne
+1518 Conține insignele tratatelor.
+1519 Hei, noule! Aici totul se rezolvă prin dezbatere. Arată-mi ce poți!
+1520 Argh… Ar fi trebuit să-mi recitesc notele de sinteză.
+1521 Ha! Înapoi la copiator!
+1522 Rival
+1523 Așa, {P}, ne testăm Euromonii? Mine is obviously better.
+1524 What?! A fost un noroc chior!
+1525 Easy. Cum era de așteptat.
+1526 {P}! Ai deja o insignă? Nu-i nimic, te fac eu să regreți.
+1527 Not again… Bine, la Frankfurt ai să vezi.
+1528 Ha! Luxemburgul îmi prinde bine.
+1529 Am vizitat BCE. Am înțeles totul despre politica monetară. Aproape totul.
+1530 Bloody hell… Progresezi foarte rapid, {P}.
+1531 Cum se zice la City: time is money.
+1532 {P}… e ultima noastră dezbatere. După, mă întorc la Londra. Pentru totdeauna. Hai, one last time!
+1533 Good game, {P}. Cel puțin plec cu fast.
+1534 Plec cu o victorie. E deja ceva.
+1535 {P}! I'm back. Mă rog… cer să mă reîntorc. Rejoin? Dar mai întâi, o dezbatere de onoare!
+1536 Bine. Îmi completez formularul de adeziune. Are 35 de capitole…
+1537 Ha! Ca să vezi, ieșirea te face mai puternic. Sau nu.
+1538 Și eu sunt stagiară! Neplătită, ca tine. Să dezbatem, mai consolează.
+1539 Bine… mă întorc la copiator.
+1540 Halt! Formularul A-38 de drumeție e vizat?
+1541 Bine, vi-l vizez. Dar în triplu exemplar.
+1542 Agricultor
+1543 PAC e viața mea! Și tractorul, familia mea. Hai, să dezbatem!
+1544 Trebuie să vorbesc cu sindicatul despre asta…
+1545 Bancher privat
+1546 Bine ai venit în Luxemburg. Discreție absolută. Această dezbatere nu a avut loc niciodată.
+1547 Această dezbatere n-a avut loc niciodată, definitiv.
+1548 Fiscalist
+1549 Un rescript fiscal? Vă redactez unul în cinci minute. Dar mai întâi, o dezbatere.
+1550 Montajele mele… s-au prăbușit!
+1551 Campion de arenă
+1552 Ah, un tânăr stagiar! Vino, vino, să te bat ușor pe obraz. Apoi dezbatem, ca în vremurile bune ale Eurogrupului.
+1553 Bravo! Meriți Insigna Rescript. Și asta nu e confidențial!
+1554 Hai, nu face mutra asta, glumesc… pe jumătate.
+1555 Fac Mosela cu bicicleta! Și dezbat în roaming, gratuit!
+1556 Chiar și fără taxe de roaming, am pierdut tot.
+1557 Analist
+1558 Piețele îmi anticipează victoria cu 87%.
+1559 Piețele s-au înșelat. Ca de obicei.
+1560 Viticultor
+1561 Crémant-ul meu e DOP. Și Euromonii mei la fel. Sau aproape.
+1562 Bine, vă ofer totuși un pahar.
+1563 Cumpără jos, vinde sus, dezbate cu forță!
+1564 Krach! Sunt pe descoperit!
+1565 După modelul meu, pierzi. Modelul meu nu greșește niciodată. Cu excepția lui 2008.
+1566 Va trebui să-mi revizuiesc previziunile.
+1567 Campioană de arenă
+1568 Bine ai venit la Banca Centrală Europeană. Aici eu fixez ratele… și ritmul dezbaterii. Atacurile mele depind de rata de referință a zilei!
+1569 Formidabil. Meritați Insigna Euro. Și fiți liniștit: nu sunt aici ca să vă reduc spread-ul.
+1570 Stabilitatea prețurilor e și stabilitatea victoriilor.
+1571 Militantă pentru climă
+1572 Fiecare dezbatere pierdută e un grad în plus! Hai!
+1573 Bine, cel puțin a fost neutră din punct de vedere al emisiilor de carbon.
+1574 O exclusivitate! „Un stagiar pierde lamentabil”!
+1575 Schimb titlul: „Un stagiar câștigă lamentabil de bine”.
+1576 Viticultor
+1577 Rinul e frontiera? Nu, e vinul de pe ambele maluri! Ciocnim un pahar după dezbatere.
+1578 Noroc, totuși!
+1579 Am depus 2 000 de amendamente azi-dimineață. Primul vă privește pe voi.
+1580 Amendamentele mele sunt respinse în bloc…
+1581 Sesiunea are loc la Strasbourg, cuferele noastre au ajuns, să dezbatem!
+1582 Mă întorc la Bruxelles. Cu cuferele mele.
+1583 Silență în hemiciclu! Ședința e deschisă. Îți dau cuvântul… ție. Apoi ți-l retrag.
+1584 Adoptat! Insigna Hemiciclu vă este atribuită cu majoritate absolută.
+1585 Ședința se încheie. Reveniți la următoarea sesiune.
+1586 Datoria e ca musacaua: se digeră greu.
+1587 OXI acestei înfrângeri!
+1588 Inspecția conturilor! Euromonii tăi cheltuiesc prea mult.
+1589 Raport de inspecție: nefavorabil.
+1590 Fondul Monetar Internațional recomandă… înfrângerea ta.
+1591 Revizuirea previziunilor noastre: în scădere.
+1592 Am venit pe motocicletă, fără cravată. Ca în 2015, în fața Eurogrupului. Dezbatem, și votăm: OXI sau NAI?
+1593 OXI… pardon, NAI: ai învins. Ia Insigna OXI, tovarășe.
+1594 Poporul a vorbit. Și poporul sunt eu.
+1595 Tabloid
+1596 TITLU: „Bruxelles vrea să interzică bananele curbate”! E fals? Nu-i nimic, se vinde bine.
+1597 Mâine pe prima pagină: „Înfrângere istorică”.
+1598 Ex-prim-ministru
+1599 Hello! Am fost corespondent la Bruxelles, să știți. Am scris multe… mai mult sau mai puțin adevărate. Get debate done!
+1600 Crikey. Mă rog, mai aveam un articol despre castraveții drepți, în orice caz.
+1601 Nu mai râzi acum, nu? Bine ai venit la pub. O dezbatere, o halbă, și Articolul 50.
+1602 Bine. Luați Insigna Articolul 50. Noi nu mai avem nevoie de el.
+1603 Take back control! Al dezbaterii, în orice caz.
+1604 Agent de frontieră
+1605 Control! Euromonul tău are viză?
+1606 Treci. Dar notez asta.
+1607 Consilier
+1608 Prim-ministrul nu primește pe nimeni. Cu excepția celor care mă înving. Și asta nu se întâmplă niciodată.
+1609 Tocmai s-a întâmplat.
+1610 Vrei acordul meu? E necesară unanimitatea. Și eu nu sunt niciodată de acord. Atenție: pot pune VETO în fiecare tur.
+1611 Bine… Ies să-mi iau o cafea. În timpul ăsta, luați Insigna Veto. Oficial, m-am abținut.
+1612 Veto! Veto! Și iar veto!
+1613 Team Lobby
+1614 Nu aveți insigna de acces? Ce bine, nici noi nu avem.
+1615 Va trebui să declar această întâlnire în registrul de transparență…
+1616 Algoritmul nostru v-a prezis înfrângerea. Accepți cookie-urile?
+1617 Eroare 403: înfrângere.
+1618 O valiză mică pentru votul tău? Nu? Atunci o dezbatere.
+1619 Nu am dat niciodată nimic nimănui. Notați asta.
+1620 Șeful Team Lobby
+1621 Bine ai venit în inima puterii, stagiar. Aici nu scriem legile: le „sugerăm”. Și tu vei semna sugestia mea.
+1622 Impossibil… Un simplu stagiar, neplătit… a învins lobby-ul. Mă retrag. În privat. Ah, deja sunt acolo.
+1623 Mulțumesc pentru această contribuție la consultarea noastră publică.
+1624 Avocat
+1625 Clientul meu contestă amenda de 4,34 miliarde. Și această dezbatere.
+1626 Vom face recurs.
+1627 Jurist
+1628 Abuz de poziție dominantă? Eu? Sunt doar dominant.
+1629 Amendă acceptată…
+1630 Google, Apple… am aplicat amenzi de miliarde. Echipa ta respectă regulile concurenței? Să verificăm.
+1631 Niciun abuz de poziție dominantă detectat. Insigna Amendă e a ta.
+1632 Amendă! 4% din cifra ta de afaceri.
+1633 Bu-huu… Lucrez aici… din 2009… mă rog, pe hârtie…
+1634 Mă întorc… la contractul meu… fictiv…
+1635 Spiritul angajărilor fictive
+1636 SUNT… SUMA TUTUROR CONTRACTELOR CARE N-AU AVUT NICIODATĂ UN BIROU…
+1637 Fluturașii mei… de salariu… se șterg…
+1638 Înalt funcționar
+1639 Am făcut ENA. Mă rog, INSP. Mă rog, știu tot.
+1640 Voi redacta o notă despre acest eșec.
+1641 Ministru
+1642 Sunt ministru de… azi-dimineață. Să dezbatem înainte de următoarea remaniere.
+1643 Remaniat!
+1644 Bine ai venit la Sorbona! Aici am vorbit despre o Europă suverană în 2017… și în 2024. O să-ți vorbesc timp de două ore. Și, în același timp, să dezbatem.
+1645 Formidabil! Întruchipezi autonomia strategică. Iei Insigna Sorbona… și, în același timp, felicitările mele.
+1646 Îmi dizolv… echipa ta!
+1647 Consiliul European
+1648 Wir schaffen das. Împreună, vom reuși. Dar mai întâi, trebuie să mă învingeți. Luați-vă timpul: am șaisprezece ani de experiență.
+1649 Ați reușit. Wir haben es geschafft.
+1650 Voi face tot ce e necesar pentru a câștiga această dezbatere. Whatever it takes. Și credeți-mă: va fi suficient.
+1651 Raportul meu recomanda 800 de miliarde de investiții pe an. Investiți-le în echipa voastră.
+1652 Înaltă reprezentantă pentru afaceri externe. Diplomația mea e fermă. Și scutul meu baltic, la fel.
+1653 O victorie clară. Europa va avea nevoie de oameni ca tine în fața restului lumii.
+1654 Președintele Consiliului European
+1655 E ora 23:59. Obiectivul meu: să termin acest summit înainte de miezul nopții. Pentru prima dată în istorie!
+1656 E ora… 4:37 dimineața. Ca de obicei. Bravo, puteți merge la Berlaymont.
+1657 Președinta Comisiei
+1658 Bine ai venit la etajul treisprezece al Berlaymont-ului. Locuiesc aici, să știi: am o cameră lângă birou. Așa că, să vedem dacă meriți directiva.
+1659 Team Europe… Ești cel mai bun stagiar pe care l-a avut vreodată Comisia. Directiva privind ora e a ta!
+1660 Îți voi trimite un SMS. Sau poate nu.
+1661 Vicepreședinte
+1662 Am venit la München să vă explic democrația. Acum, vin la Anvers să vă explic dezbaterea.
+1663 Bine. Mă întorc să scriu un discurs.
+1664 Președinte american
+1665 TREMENDOUS! Cea mai frumoasă dezbatere din toate timpurile, toată lumea o spune. Pun 200% taxe vamale pe Euromonii tăi. Poate 15. O să vedem.
+1666 A FOST ARANJAT! Bine… facem un deal. 15%. Ăsta e ultimul meu cuvânt. Pentru azi.
+1667 Am câștigat! Ca întotdeauna! Nimeni nu câștigă mai bine ca mine.
+1668 Președinte rus
+1669 Luați loc. Nu, mai departe. Și mai departe. Așa. La șase metri, conversația e mai… strategică. Atacurile voastre vor avea nevoie de un tur ca să ajungă.
+1670 Gazul… e tăiat… de partea mea. Interesant.
+1671 Vine iarna. Pentru voi.
+1672 Președinte chinez
+1673 Bine ai venit. Suntem parteneri. Și concurenți. Și rivali sistemici. Totul depinde de tur.
+1674 Hmm. Un partener de respectat. Retrag controalele asupra pământurilor rare… pentru moment.
+1675 Conținut indisponibil în regiunea ta.
+1676 Summitul G-Tot
+1677 EU PRIMUL. Summitul e ideea mea. Mă rog, cred că e.
+1678 Sad!
+1679 Preferam masa cea lungă.
+1680 Ultimul cuvânt va fi… sistemic.
+1681 Ne vom revedea de vorbă în cincizeci de ani.
+1682 Portul Anvers – Golful Libertății
+1683 Atena – Plaka
+1684 Berlaymont – etajul 13
+1685 Magazin – Atena
+1686 Magazin – Budapesta
+1687 Magazin – Bruxelles
+1688 Magazin – Frankfurt
+1689 Magazin – Londra
+1690 Magazin – Luxemburg
+1691 Magazin – Paris
+1692 Magazin – Strasbourg
+1693 Bruxelles – Cartierul european
+1694 Budapesta – Malurile Dunării
+1695 Cantină – Atena
+1696 Cantină – Budapesta
+1697 Cantină – Bruxelles
+1698 Cantină – Frankfurt
+1699 Cantină – Londra
+1700 Cantină – Luxemburg
+1701 Cantină – Paris
+1702 Cantină – Strasbourg
+1703 Curtea de Justiție a UE
+1704 Clădirea Europa – Consiliul European
+1705 Frankfurt – Cartierul bancar
+1706 Gară – Anvers
+1707 Gară – Atena
+1708 Gară – Budapesta
+1709 Gară – Bruxelles-Luxemburg
+1710 Gară – Frankfurt
+1711 Gară – Lisabona
+1712 Gară – Londra
+1713 Gară – Luxemburg
+1714 Gară – Maastricht
+1715 Gară – Paris
+1716 Gară – Roma
+1717 Gară – Strasbourg
+1718 Gară – Varșovia
+1719 Arena din Atena – Amfiteatru
+1720 Turnul BCE – Sala piețelor
+1721 Országház – Sala Vetoului
+1722 DG Concurență – Arenă
+1723 Hemiciclu – Sesiune plenară
+1724 The Brexit Arms – Pub-arenă
+1725 Arena din Luxemburg – Sala rescripturilor
+1726 Marele amfiteatru al Sorbonei
+1727 Lisabona – Mănăstirea Ieronimilor
+1728 Sediul Team Lobby – Subsol
+1729 Londra – Westminster
+1730 Luxemburg – Platoul Kirchberg
+1731 Maastricht – Malurile Meusei
+1732 Casă – Frankfurt
+1733 Casă – Luxemburg
+1734 Casă – Strasbourg
+1735 Paris – Cartierul Latin
+1736 Parlamentul European – Hol
+1737 Portul Pireu – Terminal de containere
+1738 Place Lux – Cocktailul
+1739 Roma – Capitoliu
+1740 Drumul 1 – Pădurea Ardeni
+1741 Drumul 2 – Valea Moselei
+1742 Drumul 3 – Viile de pe Rin
+1743 Palatul – Masa cea lungă
+1744 Schengen – Malurile Moselei
+1745 Summitul „G-Tot” – Sala plenară
+1746 Strasbourg – Cartierul european
+1747 Studioul tău (Ixelles)
+1748 Parlament – Aripa fantomă, etajul 1
+1749 Parlament – Aripa fantomă, etajul 2
+1750 Parlament – Aripa fantomă, etajul 3
+1751 Varșovia – Câmpia de Est
+1752 Casă – Maastricht
+1754 Ecran de titlu
+1755 Profesorul Schuman
+1756 Laboratorul
+1758 Studioul tău
+1761 Cantina
+1763 Magazinul
+1764 Gara
+1766 Pe drum
+1767 Luptă: Euromon sălbatic
+1768 Priviri încrucișate
+1769 Luptă: dresor
+1771 Luptă: Oliver
+1773 Victorie
+1774 Victorie (sălbatic)
+1775 Victorie (dresor)
+1776 Evoluție
+1778 Arena
+1780 Luptă: arenă
+1782 Luptă: șef de arenă
+1784 Schengen
+1789 La revedere, Oliver
+1791 Team Lobby
+1792 Luptă: boss
+1794 Aripa fantomă
+1797 Consiliul European
+1799 Luptă: Consiliu
+1802 Luptă: Președinta
+1804 Luptă: Marile Puteri
+1807 Luptă finală
+1809 Locuri legendare
+1810 Luptă: legendar
+1812 Luptă finală (variantă)
+1813 Juke-box
+1814 %d melodii din %d
+1815 Alege o melodie.
+1816 JUKE-BOX
+1817 A: ascultă    B: înapoi
+1818 Un juke-box vechi, deconectat. O etichetă: „A se reconecta după prima insignă. — Serviciul tehnic”

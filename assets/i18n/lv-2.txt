@@ -1,0 +1,486 @@
+# Latviešu — ids 500-999
+500 Europa ēkā mājvietu rod Eiropadome. Lai tiktu pieņemts, tev jāiegūst visas astoņas līgumu nozīmītes.
+501 Zāles uzraudze
+502 Komisāre ir… ļoti aizņemta. Stāsta, ka Team Lobby bloķē visas viņas izmeklēšanas. Tas notiek zem bāra Place Lux.
+503 Konkurences ĢD pieņem tikai pieredzējušus praktikantus. Atgriezies ar vismaz sešām nozīmītēm.
+504 Parlamenta darbinieks
+505 Laipni lūgts Eiropas Parlamentā! Profesors Šūmans tevi gaida vestibila galā.
+506 Kāpnes pa labi ved uz stāviem… Stāsta, ka vienā spārnā mīt spoki. Es tur nekad neeju.
+507 Ā, {P}! Beidzot tu esi klāt! Precīzs… stundas robežās. Nolādētā pulksteņa pārgriešana.
+508 Hi! Es atnācu pirms stundas. Es dzīvoju pēc Londonas laika.
+509 Profesora laboratorija
+510 Labi. Jūs strādāsiet ar Euromoniem. Šā Parlamenta lietas ir tiem pilnas.
+511 Man šeit ir trīs, visi gluži jauni. Tie dzimuši no lielām Eiropas idejām. Izvēlies savu, {P}.
+512 Tie iznāk… no kartona vākiem?
+513 Briselē viss, kas ir svarīgs, sākas kartona vākā, Oliver. Pat Eiropa.
+514 VERDEAL, dzimis no Zaļā kursa. CHARBONNET, cēlies no 1951. gada EOTK. Vai ATOMINO, taisnā ceļā no Euratom.
+515 Verdeal (tips Zaļš)
+516 Charbonnet (tips Industrija)
+517 Atomino (tips Enerģija)
+518 Izcila izvēle! Rūpējies par to. Labi kopts Euromons ir vairāk vērts nekā desmit slikti ratificēti līgumi.
+519 Tad es paņemu to, kas pārspēj tavu. That's just smart negotiation.
+520 Oliver! Tas nav nemaz tik Kopienas garā.
+521 Nu, {P}, mazas debates, lai noskaidrotu, kurš ir labākais praktikants?
+522 What?! Es zaudēju kontinentālam praktikantam?! Tas bija… izmēģinājuma brauciens.
+523 Ha! Kā paredzēts. Neņem to ļauni, {P}, tas ir kulturāli.
+524 Apsveicu jūs abus. Tagad misija: panākt, lai tiek pieņemta direktīva par pulksteņa pārgriešanas atcelšanu.
+525 Parlaments to pieņēma 2019. gada martā. Kopš tā laika tā guļ Padomē. Jums būs jāiegūst visas astoņas līgumu nozīmītes, lai tiktu uzņemti nopietni.
+526 Pirmā nozīmīte jūs gaida Luksemburgā, pie Žana Kloda Junkera. Dodieties pa Ardēnu ceļu uz austrumiem.
+527 Luksemburga? Easy. Es tur būšu pirms tevis. See you, loser… ēē, kolēģi!
+528 Vienu mirkli, {P}! Es esmu Žans Monē. Es izgudroju mazo soļu metodi. Lūk, liels solis: EURODEX.
+529 Tas reģistrē katru Euromonu, ko satiec. Un lūk, ar ko tos oficiāli apzīmogot.
+530 Novājini savvaļas Euromonu, tad met Oficiālo zīmogu no SOMAS. Eiropa paļaujas uz tevi!
+531 Drosmi, {P}! Katra nozīmīte ir mazs akmentiņš. Tāpat kā Eiropai: konkrēti sasniegumi.
+532 Astoņas nozīmītes! Eiropadome tevi gaida Europa ēkā. Es esmu tik ļoti lepns.
+533 Parādi man savu Eurodex…
+534 Vispirms parunā ar profesoru Šūmanu, jaunais praktikant.
+535 Profesors ir tur. Steidzies, man apnīk.
+536 1. maršruts — Ardēnu mežs. Luksemburga: 3 stundas kājām, 12 minūtes ar nodokļu nolēmumu.
+537 Tūrists
+538 Ardēnu mežs stiepjas pāri trim valstīm. Mežacūkas savukārt nekad nav rādījušas pasi.
+540 Kādu dienu mums maksās. Kādu dienu…
+541 Dupona kungs
+542 Neaizmirstiet aizpildīt apmierinātības anketu. Tā ir 12 lappušu gara.
+544 KLP ir viena trešdaļa Eiropas budžeta. Un mana kombaina ir viena trešdaļa mana kredīta.
+545 Luksemburga-Kiršberga. ES Tiesa, Revīzijas palāta, Eiropas Investīciju banka. Un ļoti daudz vienkārši banku.
+546 Uz Šengenu, Mozeles ciemu, kur 1985. gadā parakstīts nolīgums. Sekojiet ceļam uz dienvidiem.
+547 Neliels celiņš ved lejup pie Mozeles… un uz Šengenu.
+548 Šeit sabiedriskais transports ir bezmaksas! Es 14 reizes apbraukāju pilsētu ar tramvaju. Par brīvu. Bezmaksas.
+549 Vecmāmiņa
+550 Mans vīrs bija Eiropas ierēdnis. Viņš strādāja Revīzijas palātā. Viņš pat skaitīja aitas, lai aizmigtu.
+551 Tiesnesis
+552 Eiropas Savienības Tiesa šeit sēdē kopš 1952. gada. Mūsu spriedumi ir saistoši visām 27 valstīm. Arī pirmdienas rītos.
+553 Tiesas sekretārs
+554 Es iztulkoju spriedumu 24 valodās. Maltiešu versijā ir pareizrakstības kļūda. Desmit gadu laikā to neviens nav pamanījis.
+555 Luksemburgas muitnieks
+556 Mozeles ceļš ir rezervēts Nodokļu nolēmuma nozīmītes īpašniekiem. Griezieties pie Junkera kunga Zelta arēnā.
+557 {P}! Joprojām šeit? Es jau apmeklēju trīs bankas un atvēru divus kontus. Folkloras pēc.
+558 Debates!
+559 Nu labi, tu virzies uz priekšu. Es dodos uz Frankfurti pie ECB. Viņi apsolīja man izskaidrot procentu likmes.
+561 Šeit, Luksemburgā, diskrētums ir tikums. Un nozare.
+562 Maître Kleins
+563 Nodokļu nolēmumi bija likumīgi, ziniet. Vienkārši nevienam nebija jālasa tie. LuxLeaks, 2014. gads, kāda nelaime.
+564 Žans Klods Junkers
+565 Ā, Šūmana mazais praktikants! Nāc, nāc. Es arī sāku no maza. Tad astoņpadsmit gadus biju premjerministrs.
+566 Es vadīju Eurogrupu, tad Komisiju. Esmu redzējis daudz samitu. Un esmu paglaudījis daudz vaigu.
+567 Reiz, 2011. gadā, es sacīju: “Kad kļūst nopietni, jāmelo.” Tāpēc es tev neteikšu, ka ļausu tev uzvarēt.
+568 Lieliski! Tu izcīnīji Nodokļu nolēmuma nozīmīti. Šī ir oficiāla, nevis konfidenciāla!
+569 Mozeles ceļš tev ir atvērts. Frankfurte tevi gaida, un Kristīne Lagarda ar likmēm nejoko.
+570 Nāc vēlreiz ciemos? Nāc šurp, lai paglaudu tev vaigu. Tā ir luksemburgiešu tradīcija. Nu, mana.
+571 Šeit, 1985. gada 14. jūnijā, uz kuģa Princesse Marie-Astrid, piecas valstis parakstīja Šengenas nolīgumu par robežkontroles atcelšanu.
+572 Kapteinis
+573 Princesse Marie-Astrid! Tieši uz tāda kuģa tika atceltas robežas. Ironiski — uz upes, kas pati ir robeža.
+574 Stāsta, ka rets Euromons, Schengeon, klejo pa ciema lietām. Tas uz muitas nekad neapstājas.
+575 2. maršruts — Mozeles ieleja. Trīs valstis divdesmit kilometru laikā. Atceries mainīt valodu.
+577 Bezmaksas roaminga ir Savienības visskaistākā dāvana. Esmu publicējis 4000 Mozeles fotogrāfiju.
+579 Pēc maniem aprēķiniem, jūs iegūsiet nākamo nozīmīti. Bet mani aprēķini reti ir pareizi.
+581 Luksemburgas krēmāns ir ar ACVN! Tāpat kā mans Fromajus.
+582 Eiropas Centrālā banka. Uzdevums: cenu stabilitāte. Inflācijas mērķis: 2% vidējā termiņā. Vidējais termiņš: nav precizēts.
+583 Treideris
+584 Tirgi ir nervozi. Tie vienmēr ir nervozi. Tāda ir to profesija.
+585 Krājējs
+586 Man vēl ir matracis, pilns ar vācu markām. Nekad nezini.
+587 Reinas ceļš ir slēgts praktikantiem bez Eiro nozīmītes. Dodieties pie Lagardas kundzes uz ECB.
+589 Es spekulēju uz tavu zaudējumu. Es pazaudēju kreklu. Un kaklasaiti.
+590 Dr. Sofija
+591 Šoks bija eksogēns. Pilnīgi eksogēns.
+592 Kristīne Lagarda
+593 Laipni lūgta Eiropas Centrālajā bankā. Šeit katrs mans vārds kustina tirgus. Tāpēc es rūpīgi izvēlos vārdus.
+594 2020. gada martā es pateicu, ka mēs “neesam šeit, lai samazinātu spredus”. Itālijas tirgi sabruka. Mācāmies.
+595 Manā arēnā manu uzbrukumu spēks seko tā brīža bāzes likmei. Gatavs nedaudz monetārajai politikai?
+596 Izcili. Jūsu stratēģija bija… paredzama, labā nozīmē. Lūk, Eiro nozīmīte.
+597 Strasbūra ir uz dienvidiem, pāri Reinas vīna dārziem. Robertai Metsolai pieder Parlamenta vadība. Nekad nepārtrauciet viņu.
+598 Šodien likmes ir stabilas. Izmantojiet to, tas nekad nav ilgi.
+599 ECB man visu izskaidrojusi: inflāciju, likmes, bilanci… Es nesapratu nenieka. Nu, debates, lai atslābtos!
+600 Hmm. Zini, mājās, Londonā, daži runā par izstāšanos no Savienības. Tas būtu smieklīgi, vai ne? …Vai ne?
+602 Zaļais kurss bija iesniegts 2019. gada decembrī. Kopš tā laika mēs kaujamies par katru komatu.
+604 Mans nākamais raksts: “Komisija grib aizliegt zaudētas debates”. Tas ir nepatiess, bet izraisīs ažiotāžu.
+606 Alzasas vīns un Bādenes vīns skatās viens uz otru pāri Reinai. Agrāk tur bija lielgabali. Progress!
+607 Strasbūra, Eiropas Parlamenta oficiālā mītne. 12 plenārsēdes gadā. 720 deputāti. Tūkstošiem lāžu.
+608 Eurodeputāte
+609 Es braucu Brisele–Strasbūra divpadsmit reizes gadā kopš 2014. gada. Tas sanāk… 132 pārcelšanās. Manām lādēm ir vairāk lojalitātes punktu nekā man.
+610 Ierēdnis
+611 Palīgā! Sesija sākas pēc 2 minūtēm, un deputātu lādes nav iekrautas! Vari man palīdzēt?
+612 Visas lādes ir uz klāja! Nāc, paņem šo, tā ir loģistikas dienesta oficiālā atlīdzība.
+613 Neizdevās… Nu, sacīsim, ka sesija sākas ar kavēšanos. Kā parasti. Pamēģini vēlreiz, kad vēlies!
+614 Nu… es atkal iešu paraudāt lādē.
+615 Deputāts Millers
+616 Mani 2000 grozījumi… noraidīti visi uzreiz. Būs jāsāk no jauna komitejā.
+617 Deputāte Rosi
+618 Lisabonas līgumam man bija vesela lāde pierakstu. Tā palika Briselē.
+619 Zāles uzraugs
+620 Klusu plenārzālē! Priekšsēdētājas kundze debates pieņem tikai pēc balsojuma. Vai vēlaties piedalīties plenārsēdes balsojumā?
+621 Pieņemts ar balsu vairākumu! Priekšsēdētāja jūs pieņems.
+622 Noraidīts… Kvorums nebija sasniegts. Sāciet no jauna!
+623 Jūsu balsojums reģistrēts. Priekšsēdētāja jūs gaida.
+624 Roberta Metsola
+625 Sēde ir atklāta. Parlamenta priekšsēdētāja kopš 2022. gada, pārvēlēta 2024. gadā: man ir pierasts panākt, ka tiek ievērots runas laiks.
+626 Jums ir trīsdesmit sekundes. Ā, tas jau ir beidzies. Nu, debatēsim!
+627 Rezultāts ir skaidrs: pieņemts! Plenārzāles nozīmīte pienākas jums.
+628 Un lūk, Eiropas Interrail kartīte. Ar to jums atvērtas visas stacijas. Jūsu nākamā nozīmīte ir Atēnās.
+629 Stāsta, ka Jans Varufakis tur pasniedz lekcijas… ar motociklu. Dodieties ar vilcienu no Strasbūras stacijas.
+630 Debates? Ne bez plenārsēdes balsojuma. Griezieties pie zāles uzrauga.
+631 Nākamā sesija ir pēc mēneša. Neaizmirstiet savas lādes!
+632 Atēnas. Demokrātijas, filozofijas… un 2015. gada 5. jūlija referenduma dzimtene.
+633 Akropolei ir 2500 gadu. Tā pārcieta persus, osmaņus un Troiku.
+634 Grieķijas muitnieks
+635 Pirēja osta? Slēgta apmeklētājiem. Tā pieder… partneriem. Ļoti partneriem.
+636 Atvainojiet, piekļuve ostai ierobežota. Atgriezieties, kad situācija būs… diplomātiskāka.
+638 2015. gadā es balsoju OXI. Un pēc tam… tas ir sarežģīti.
+639 Troikas pārstāvis (ECB)
+640 Mūsu ziņojums iesaka vēl vairāk stingrības. Arī jūsu Euromoniem.
+641 Troikas pārstāvis (SVF)
+642 Mēs atzīstam dažas kļūdas savās prognozēs. Starp mums runājot.
+643 Jans Varufakis
+644 Tu atnāci pēc nozīmītes? Es ierados šeit ar motociklu, ādas jakā, bez kaklasaites. Tāpat kā Eurogrupas sanāksmēs 2015. gadā.
+645 Finanšu ministrs sešus mēnešus. Es atkāpos pēc referenduma: 61% par OXI. Demokrātija ir skaista un stūrgalvīga.
+646 Troika mani gaidīja pie pagrieziena. Tu uzveici tās pārstāvjus. Parādi man, vai tu esi stiprāks par taupību!
+647 NAI! Ēē, es domāju: apsveicu. Lūk, OXI nozīmīte, biedri.
+648 Tava nākamā nozīmīte ir Londonā. Bet steidzies: tur arvien vairāk runā par kādām izejas durvīm.
+649 Es dodos lasīt lekciju. Par parādu. Ar motociklu.
+650 Westminsters. Šeit 2016. gada 23. jūnijā Apvienotā Karaliste ar 51,9% nobalsoja par izstāšanos no Eiropas Savienības.
+651 Karaliskais sargs
+652 (Viņš nekustas. Pat Brexit dēļ ne.)
+653 Galvenais redaktors
+654 Rīt virsrakstā būs par pārāk taisniem gurķiem. Tas ir darbojies divdesmit gadus.
+655 Boriss Džonsons
+656 20. gadsimta 90. gados es biju Daily Telegraph korespondents Briselē. Es rakstīju… iztēles pilnas lietas. Get Brexit done!
+657 Naidžels Faradžs
+658 Laipni lūgts pubā! Pinti? Es divdesmit gadus pavadīju Eiropas Parlamentā, paskaidrojot, ka tur nebūtu jābūt.
+659 2016. gada 28. jūnijā es eurodeputātiem metu: “You're not laughing now, hein?”. Viņi nesmējās. Tu arī nesmiesi.
+660 Nu labi. Jūs uzvarējāt. Ņemiet šo 50. panta nozīmīti. Mēs savu jau izmantojām.
+661 Jūs vēl esat šeit? Mēs izstājāmies, ziniet.
+662 Man jābrauc mājās. Man vairāk nav tiesību būt praktikantam Parlamentā. Bet vispirms… pēdējās debates. Goda pēc.
+663 Paldies, {P}. Paskaties manā vietā uz direktīvu. Un uz vasaras laiku. Mūsu valstī to nekad negrozīs, protams.
+664 Goodbye. Vai drīzāk… see you later. Kas zina?
+665 Olivers ir aizbraucis. Londonas vilciens biļešu kasē vairs neparādīsies. Nākamā pietura: Budapešta pie Donavas.
+666 Országház, Ungārijas parlaments, Donavas krastā. Lielākā ēka Ungārijā. Un lielākais veto.
+667 Jauna ungāriete
+668 Stāsta, ka opozīcija nostiprinās. Kāds Pēteris Magjars kampaņo visā valstī.
+669 Pēteris Magjars
+670 Ungāri balsoja 2026. gada 12. aprīlī. Mana partija, Tisza, iegūst divu trešdaļu balsu vairākumu. Paveras jauna lappuse!
+672 Mēs uzbūvējām žogu. Tas noderīgs galvenokārt fotografēšanai.
+673 Īpašais padomnieks
+674 Premjerministrs tūlīt izies dzert kafiju. Tā ir sarunu tehnika.
+675 Viktors Orbāns
+676 Jūs atnācāt pēc vienošanās? Šeit nepieciešama vienprātība. Un es nekad neesmu ar mieru.
+677 2024. gadā es vadīju Savienības Padomi ar sauklu “Make Europe Great Again”. Vai tas jums neko neatgādina?
+678 Manā arēnā es katrā gājienā varu uzlikt savu VETO. Un reizēm… es izeju padzert kafiju. Tāpat kā 2023. gada decembrī, balsojuma par Ukrainu laikā.
+679 …Nu labi. Es atturos. Ņemiet šo Veto nozīmīti. Oficiāli es zālē nebiju.
+680 Pāris mēnešus vēlāk, 2026. gada 12. aprīlī, ungāri balso. Pētera Magjara partija Tisza uzvar ar divu trešdaļu balsu vairākumu.
+681 Orbāns atzina savu zaudējumu: “sāpīgi, bet skaidri”. Paldies, praktikant. Dodies atpakaļ uz Briseli: šķiet, Konkurences ĢD ir… lobija problēma.
+682 Es aizgāju padzert kafiju. Atgriezieties vēlāk. Daudz vēlāk.
+683 Bārmenis
+684 Place Lux, ceturtdienu vakaros, visa Brisele nāk iedzert. Deputāti, palīgi… un lobisti. Sevišķi lobisti.
+685 Pazemes stāvs? Tikai biedriem. Vai esat ierakstīts pārredzamības reģistrā? Nē? Es arī nē. Nu tad ieejiet.
+686 Ejiet tālāk, praktikant. Šeit runā par biznesu pieaugušie.
+687 Naftas lobists
+688 Energopāreja? Mēs to atbalstām. No 2080. gada.
+689 Tehnoloģiju lobists
+690 Mēs respektējam VDAR. Mums pat ir 47 lappušu sīkdatņu baneris.
+691 Čemodāni? Tie ir dokumentācijas čemodāni. Ļoti dokumentēti.
+692 Eva Kaili
+693 2022. gada decembrī Beļģijas policija vairākos Briseles dzīvokļos atrada maisus ar banknotēm. To nosauca par “Qatargate”.
+694 Es biju Parlamenta priekšsēdētājas vietniece. Es vienmēr apstrīdēju apsūdzības. Šīs spēles tapšanas laikā šajā lietā galīgs spriedums nav pieņemts.
+695 Piezīme: katra persona, kurai celtas apsūdzības, tiek uzskatīta par nevainīgu, kamēr tās vaina nav pierādīta tiesā.
+696 Galvenais lobists
+697 Nu, nu. Praktikants. Vai zini, cik mūsu ir Briselē? 25 000. Un tu esi viens.
+698 Tava vasaras laika direktīva? Man ir klienti, kas pārdod pulksteņus. Tā paliks bloķēta. Ja vien…
+699 Labi spēlēts. Es oficiāli pieteikšu savu zaudējumu pārredzamības reģistrā. Un pāriešu uz privāto sektoru. Ā, es tur jau esmu.
+700 Team Lobby izklīst. Konkurences ĢD izmeklēšanas var atsākties!
+701 Big Tech advokāts
+702 Mēs iesniegsim apelāciju. Tad apelāciju par apelāciju.
+703 Konkurences jurists
+704 Dominējošā stāvokļa izmantošana… Vārds “izmantošana” ir skarbs.
+705 Margrēte Vestagere
+706 Paldies, ka atbrīvojāt mūs no Team Lobby. Manas lietas beidzot virzās uz priekšu!
+707 Google: 2,4 miljardu eiro soda 2017. gadā, 4,3 miljardi 2018. gadā. Apple: 13 miljardi nodokļu atbalsta jāatmaksā, ko 2024. gadā apstiprinājusi Tiesa.
+708 Vai jūsu komanda respektē konkurences noteikumus? Es to pārbaudīšu. Personīgi.
+709 Pārkāpumi nav konstatēti. Soda nozīmīte ir jūsu. Un paņemiet arī šo: OLAF, Krāpšanas apkarošanas biroja, nozīmīti.
+710 Ir ziņots par… dīvainu klātbūtni Parlamenta spārnā. Palīgi, ko neviens nekad neredz. Ar šo nozīmīti jūs tos redzēsiet.
+711 Šodien soda jums nav. Izmantojiet to.
+712 Auksts koridors… Dzirdama taustiņu klaudzēšana, kaut neviena nav. Nepieciešams veids, kā redzēt neredzamo.
+713 Pašlaik labāk ir doties lejā.
+714 Spoka palīgs
+715 Mans kabinets? Es to nekad neatradu…
+716 Man maksāja, lai palīdzētu… partijai. Nevis deputātam.
+717 Hū… Pulksteņa pārgriešana liek man parādīties divas reizes gadā…
+718 Manā līgumā rakstīts “vietējais palīgs”. Vietējais kam? Mistērija.
+719 Es izzūdu… beidzot…
+720 Paldies… ka atbrīvojāt mani no šī līguma…
+721 Marina Lepēna
+722 FN parlamenta palīgu lieta: sistēma ar Eiropas Parlamenta naudu algoja partijas darbiniekus.
+723 Mani notiesāja pirmajā instancē 2025. gada 31. martā, tad apelācijā 2026. gada 7. jūlijā: trīs gadi, no tiem viens cietumsods ar elektronisko aproci, un piecpadsmit mēnešu aizliegums kandidēt.
+724 Ar šo apelācijas spriedumu viņas kandidatūra 2027. gada prezidenta vēlēšanās teorētiski atkal ir iespējama. Vēl ir iespējama pēdēja kasācijas sūdzība.
+725 Fransuā Bairū
+726 MoDem palīgu lieta ir cita stāsts. 2024. gada februārī mani atzina par nevainīgu “šaubu labā”. Prokuratūra iesniedza apelāciju.
+727 Pēc tam es biju premjerministrs… no 2024. gada decembra līdz 2025. gada septembrim. Matignonā laiks skrien ātri.
+728 Spoku palīgi nenodarbojas ar politiku: tie vajā visas partijas, kas tos nepareizi nodarbinājušas.
+729 Tukšais līgums
+730 ES ESMU… VISU KABINETA BEZ BIROJA LĪGUMU GARS… VISU PARTIJU… VISU SASAUKUMU…
+731 Tukšais līgums izgaist algas lapu mākonī. Spoku spārns beidzot ir mierā.
+732 Atnāk ziņa no Robertas Metsolas: “Paldies! Pēdējā nozīmīte jūs gaida Parīzē, Sorbonnā.”
+733 Sorbonna. Šeit Emanuels Makrons teicis divas lielas runas par Eiropu, 2017. un 2024. gadā. Otrā ilga teju divas stundas.
+734 Es jautāju ceļu angliski. Man atbildēja franciski. Ar smaidu. Ļoti vieglu.
+735 ENA absolvents
+736 Es sarakstīju kopsavilkuma piezīmi par savu zaudējumu. Tā ir 80 lappušu gara.
+737 Deleģētais ministrs
+738 Mani tikko pārcēla amatā kaujas laikā. Tas ir rekords.
+739 Emanuels Makrons
+740 Laipni lūgts Sorbonnā! Šeit es 2017. gadā runāju par suverēnu Eiropu. Tad, 2024. gadā, par Eiropu, kas “var mirt”.
+741 2019. gadā es sacīju, ka NATO ir “smadzeņu nāvē”. 2024. gadā es izformēju Nacionālo asambleju. Man patīk… pārsteidzoši lēmumi.
+742 Tad debatēsim, un tajā pašā laikā, padomāsim. Stratēģiskā autonomija!
+743 Lieliski! Jums piemīt lielas eiropietes… vai lielas eiropieša… dotības. Un tajā pašā laikā abas kopā. Sorbonnas nozīmīte ir jūsu.
+744 Ar astoņām nozīmītēm Eiropadome jūs gaida Europa ēkā, Briselē. Veiksmi: viņu samiti reti beidzas pirms pulksten pieciem rītā.
+745 Es labprāt runātu ar jums par Eiropu divas stundas, bet jums ir jāpārliecina Padome.
+746 Prologs — 1950. gada 9. maijs
+747 1950. gada 9. maijs
+748 Parīze, Orsē piekraste, pulksten 18
+749 Roberts Šūmans
+750 Kungi, paldies, ka atnācāt. Es būšu īss. Nu… es pamēģināšu.
+751 (klusu) Viņš to sauc katru reizi.
+752 (klusu) Robert. Tā frāze par oglēm. Neaizmirsti frāzi par oglēm.
+753 “Francijas valdība ierosina nodot visu Francijas–Vācijas ogļu un tērauda ražošanu kopējas Augstās iestādes pakļautībā.”
+754 Ogles? Tērauds? Mēs tāpēc palaidām garām aperitīvu?
+755 Piecus gadus pēc kara ideja ir vienkārša un vērienīga: apvienot to, ko lieto lielgabalu izgatavošanai.
+756 Lai karš kļūtu “ne tikai nedomājams, bet materiāli neiespējams”.
+757 Sešas valstis 1951. gadā. Tad deviņas, divpadsmit, piecpadsmit, divdesmit piecas… Divdesmit septiņas šodien.
+758 Un katru rītu kaut kur Briselē kāds praktikants pamostas ar kavēšanos.
+759 1. nodaļa
+760 Pirmdiena. Tavs modinātājs rāda 6:58. Tavs telefons — 7:58. Vienam no tiem neviens nav pasacījis par pulksteņa pārgriešanu.
+762 PIRMĀ PRAKSES DIENA!
+763 Likuma iela. Viens kruasāns, trīs lietas, nulle pašcieņas.
+764 Riteņbraucējs
+765 Veloceliņš! Pat praktikanti respektē regulu 2019/1242! Nu, es domāju, ka tāda eksistē.
+766 {P}! Pirmā diena, un jau stundu kavējies. Es šeit esmu kopš 6:58. Protams, pēc Londonas laika.
+767 Profesors Šūmans mūs gaida Parlamenta vestibilā. Es viņam pateicu, ka tu esi slims. Tu man pateiksies vēlāk.
+768 2. nodaļa — Luksemburga
+769 2. nodaļa
+770 Adolfa tilts pārvar Petrusas ieleju. Lejā — dārzi. Augšā — bankas. Vidū — tavs vilciens.
+771 Ā, mazais anglis! Nāc šurp, ļauj tevi apskaut!
+772 Sir, es… we don't do that. Anglijā mēs sniedzam roku. No tālienes. Cimdos.
+773 Šeit ir Luksemburga. Mēs skūpstām vaigus, paglaudam vaigu, un runājam četras valodas vienā teikumā. Moien, bonjour, guten Tag, hello!
+775 Mana Zelta arēna ir Kiršbergā, praktikant. Nāc, kad vēlies. Es glaudu vaigus par brīvu. Tas ir vienīgais bezmaksas serviss šajā rajonā.
+776 Šengena, trīs robežas
+777 Šengena. Šeit Francija, Vācija un Luksemburga pieskaras viena otrai ar vīnogulāju galiem.
+778 1985. gada 14. jūnijā piecas valstis šeit, uz kuģa, parakstīja nolīgumu, kas atceļ robežkontroli. Uz upes, kas PATI ir robeža. Uz Mozeles mīl ironiju.
+779 Muitnieks
+780 Trīsdesmit gadus es zīmogoju pases. Un tagad? Taurenīši šķērso bez vīzas.
+781 Es pārkvalificēšos. Pastkaršu zīmogotājs. Tas ir nākotnes tirgus.
+782 3. nodaļa — Frankfurte
+783 3. nodaļa
+784 Frankfurte pie Mainas
+785 Frankfurte naktī. Divi stikla torņi, eiro simbols liels kā autobuss. Eiropas Centrālā banka nekad neguļ. Tā uzrauga inflāciju.
+786 Redzat šo sviru? Bāzes likme. Es to pacelu — cenas rimst. Es to nolaidu — ekonomika atviegloti uzelpo.
+787 Es to kļūdas pēc pieskaros ar elkoni, un trīs valdības krīt. Tāpēc es nekad neatbalstos pret galdu.
+788 IT'S RAINING EUROS! Vai šī ir kvantitatīvā mīkstināšana?!
+789 Nē, kungs. Tā gaisa kondicionieris izpūtis izstādes banknotes. Atdodiet tās. Visas. Es skaitu.
+790 4. nodaļa — Strasbūra
+791 4. nodaļa
+792 Reizi mēnesī Parlaments pārceļas no Briseles uz Strasbūru. Ar saviem deputātiem, palīgiem… un tūkstošiem lāžu.
+793 Eurodeputāts
+794 Mana lāde apmeklējusi vairāk plenārsēdes nekā es. Tai pat ir vieta Transporta komitejā.
+795 Sēde ir atklāta! …Kur ir deputāti?
+796 Priekšsēdētājas kundze, viņi vēl meklē savas lādes perona.
+797 Tad balsosim ar pacinātu roku. Vai lādēm ir balsstiesības? Nē? Pagaidi, viņas vismaz ir laikā.
+798 5. nodaļa — Atēnas
+799 5. nodaļa
+800 Akropole saulrietā. Divi tūkstoši piecsimt gadu demokrātijas, filozofijas… un vēlu beigušos sanāksmju.
+801 Varufaka kungs, jūsu plāns neatbilst mūsu izklājlapām.
+802 Jūsu izklājlapas neatbilst realitātei. Es piedāvāju debates. Ar motociklu, ja spējat sekot.
+803 Mēs ar motocikliem nebraucam. Mēs sniedzam ieteikumus.
+804 Tad ieteiciet pašiem sev paiet sāņus. Mani gaida arēna.
+805 6. nodaļa — Londona
+806 6. nodaļa
+807 Londona, lietū. Kā parasti. Bet šoreiz gaisā virmo kaut kas smagāks.
+808 Pinti visiem! Un autobusu kampaņai! Nav svarīgi, kas uz tā rakstīts, cilvēki lasīs autobusu, nevis zemsvītras piezīmes.
+809 Nav panikas! Es esmu iestrēdzis uz troses, bet tā ir stratēģija. Get Brexit done! Un kāds, kāpnes, lūdzu.
+810 Referendums
+811 2016. gada 23. jūnijs. 51,9% balsotāju izvēlas izstāties no Eiropas Savienības.
+812 2020. gada 31. janvārī pusnaktī pēc Briseles laika — 23:00 Londonā —, Apvienotā Karaliste vairs nav Savienības locekle.
+813 Zini, kas dīvaini? Sākumā es negribēju būt šeit. Es vienkārši gribēju uzvarēt.
+814 Un tagad man jāaizbrauc, un es vairāk negribu. Ironic, isn't it?
+815 Tu atgriezīsies. Ir Erasmus, apmaiņas, studentu vīzas…
+816 Erasmus? No tā mēs arī izstājāmies. Bet es atradīšu izeju. Angļi vienmēr atrod veidu, kā atgriezties Eiropā. To sauc par brīvdienām.
+817 7. nodaļa — Budapešta
+818 7. nodaļa
+819 Ungārijas parlaments, zeltīts Donavas krastā. Lielākā ēka valstī. Un lielākā “VETO” zīmogu kolekcija Eiropā.
+820 Eiropas budžets? Veto. Palīdzība Ukrainai? Veto. Jauna Padomes nozīmīšu krāsa? Veto. Principa pēc.
+821 Premjerministra kungs, tas bija jūsu pusdienu pasūtījums.
+822 …Tik un tā veto. Man nepatīk, kad par mani lemj kāds citi.
+823 2026. gada 12. aprīlis
+824 Ungāri! Šovakar mēs neuzvarējām pret Eiropu, ne pret kaimiņiem. Mēs uzvarējām sev!
+825 Pūlis
+826 TISZA! TISZA! TISZA!
+827 Es neesmu aizvainots. Es domāju. Ar muguru pret visiem. Ar mākoni virs galvas. Tas ir pavisam cita lieta.
+828 2022. gada decembris — rītausma
+829 Brisele, 2022. gada decembris. Rītausmā Beļģijas policija veic kratīšanas apkārt Place Lux.
+830 Policists
+831 Priekšniek, ir maisi. Ar banknotēm iekšā. Daudz banknošu.
+832 Policijas priekšnieks
+833 Saskaitiet tās. Un nepieskarieties futbola bumbai, tā var būt pierādījums.
+834 Parlamenta pārstāvji un viņiem tuvas personas tiek apcietinātas. Izmeklēšana skar iespējamu korupciju ārvalstu labā.
+835 Visas personas, kurām celtas apsūdzības, tiek uzskatītas par nevainīgām, kamēr tiesa nav pieņēmusi galīgo spriedumu.
+836 (tālumā) Mums ar to nekāda sakara. Mēs maksājam ar kanapē. Tas ir diskrētāk.
+837 Konkurences ĢD
+838 Vēl viens sods. Es parakstos, es smaidu, es adu zilonīti. Tas ir ļoti relaksējoši.
+839 Komisāres kundze, digitālie giganti pieprasa termiņa pagarinājumu.
+840 Piešķirts. Viņiem ir laiks līdz… tagad.
+841 Tjerī Bretons
+842 Digitālo pakalpojumu akts attiecas uz visiem, Maska kungs. Pat uz tīkliem, kas ik pēc sešiem mēnešiem mainina nosaukumu.
+843 Elons Masks
+844 Es atbildu ar mēmu. Tā ir mana oficiālā juridiskā nostāja.
+845 Es atbildu ar četru lappušu vēstuli. Tā ir mana.
+846 Viņi abi rauj telefonu katrs savā pusē. Telefons savukārt rāda “zems akumulatora līmenis”.
+847 Spoku palīgu torņis
+848 Pateicoties OLAF nozīmītei, neredzamais top redzams. Caurspīdīgi palīgi lēnām plūst pa koridoru, rokā turot algas lapu.
+849 Labdien… Es strādāju šeit kopš 2009. gada… Nu, mans līgums strādā šeit… Es pats nekad neesmu atnācis…
+850 Mani darba devēji ir tur augšā. Viņi saka, ka mani nepazīst. Tas ir aizvainojoši spoka ziņā.
+851 (aiz durvīm) Es nav šeit. Un, ja esmu, tad tikai šaubu labā.
+852 9. nodaļa — Parīze
+853 9. nodaļa
+854 Parīze zelta gaismā. Eifeļa tornis, Sēna, un kaut kur runa, kas sākas un nebeidzas.
+855 Eiropai jābūt suverēnai! Spēcīgai! Humānai! Un es piebilstu, ja atļausiet, un es sev to atļaušu…
+856 Students
+857 Cik ilgi viņš jau runā?
+858 Studente
+859 Stundu četrdesmit. Viņš tikko pabeidza iepriekšvārdu.
+860 Es esmu par stingrību UN par investīcijām. Par atvērtību UN par aizsardzību. Es piekrītu jums UN jūsu oponentam.
+861 Kā to sauc?
+862 “Tajā pašā laikā”. Tas ir patentēts. Nu, tajā pašā laikā, tas ir bez autortiesībām.
+863 2021. gada aprīlis — Ankara
+864 2021. gada aprīlis, Ankara. Trīs vadītāji ienāk telpā. Tur ir divi atzveltnes krēsli.
+866 (jau sēžot) Ak. Ak nē. Es tikko sapratu.
+867 Nē, nē, neuztraucieties. Man ir labi uz šī dīvāna. Tas ir garš. Tas ir bēšs. Tas ir tālu.
+868 Incidents apceļos visu pasauli ar nosaukumu “Sofagate”. Kopš tā laika Šarls Mišels pārbauda krēslu skaitu, pirms kaut kur ieiet.
+869 10. nodaļa — Eiropadome
+870 10. nodaļa
+871 Eiropadomes nakts
+872 Europa ēka. Tās stikla lukturī pulcējas valstu un valdību vadītāji. Samiti sākas pulksten 15. Tie beidzas… vēlāk.
+873 Mīļie kolēģi, ir pulksten 4:12. Mums atlicis sakārtot vienu komatu 37. punktā.
+874 Es pieredzēju samitus, kur par komatu sarunājās līdz brokastīm. Tas bija ļoti skaists komats.
+875 Es piedāvāju komatu. Lai maksā, cik maksā.
+876 Es piedāvāju pasūtīt vēl picas, pirms kāds piedāvā semikolu.
+877 VIENOŠANĀS! Ir pulksten 5:03. Secinājumi pieņemti. Vai kāds var pamodināt premjerministru, kas guļ apakš galda?
+878 13. stāvs
+879 Berlemons saulrietā. Trīspadsmit stāvi. Pēdējā gaida Komisijas priekšsēdētāja.
+880 Šarl, vai jūs varētu beigt apvainoties? Tas ilgst piecus gadus.
+881 Es neesmu apvainojies. Es skatos sienā. Šī siena ir ļoti interesanta. Tai nav krēsla.
+882 {P}. Beidzot jūs esat klāt.
+883 Jūs gribat direktīvu? Pieveiciet mani. Team Europe, beigās paliks tikai viens.
+884 Praktikantu siena
+885 13. stāvā garā koridorā rotājas visu Komisijas praktikantu fotogrāfijas. Neviens tās nekad neskatās.
+886 Šodien pie sienas tikko piekārts jauns zeltīts rāmis. Un šoreiz kāds apstājas, lai to apskatītu.
+887 11. nodaļa — Lielvaras
+888 11. nodaļa
+889 Lielvaras
+890 Antverpenes osta. Nolaižas prezidenta lidmašīna. Kaijas, piesardzīgas, aizlaižas uz Nīderlandi.
+891 TV diktore
+892 Speciālizdevums! Vašingtona, Maskava un Pekina vienlaikus sūta ziņas Eiropai. Tirgi svārstās starp paniku un snaudu.
+893 Kafejnīcas apmeklētājs
+894 Atkal? Es pat neesmu paēdis savu vafeli.
+895 Viesmīlis
+896 Vafele, kungs. Tas ir sievišķīgā dzimte. Tāpat kā Komisija.
+897 Tajā pašā laikā Pirejā piestāj konteinerkuģis, liels kā pilsēta. Neviens nezina precīzi, ko tas ved. Ne ko tas pērk.
+898 Antverpene — golfa laukums
+899 Paskatieties uz šo golfa laukumu. Starp divām konteinerkonstrukcijām. Visskaistākais golfa laukums ostu vēsturē.
+900 Prezidenta kungs, golfa soma ir ļoti smaga. Vai mēs varam to aplikt ar muitas nodevu?
+901 Lielisks sitiens, tēt! Ēē… prezidenta kungs!
+902 Katra bumbiņa, kas iznāk no Amerikas Savienotajām Valstīm, maksā muitas nodevu. Šī arī. Sevišķi šī. Tā iekrita Šeldā? ĻOTI NETAISNĪGI.
+903 Varšava — sniegs
+904 Pils līdzenuma galā? Tur viņš jūs gaida. Paņemiet šalli. Un megafonu — galda pēc.
+905 Viņš jums sacīs, ka Eiropai bez viņa ir salts. Parādiet viņam, ka Eiropa pati iemācījusies sasildīties.
+906 Galds
+907 Balts galds. Ļoti balts. Ļoti garš. Tik garš, ka tam ir savs laika josla.
+908 (ļoti skaļi) LABDIEN!
+909 Pēc trim sekundēm atbalss atgriežas no zāles otra gala.
+910 Es jūs dzirdu lieliski. Tas jūs esat pārāk tuvu.
+911 Pireja
+912 Dāvana. Plīša panda. Tā simbolizē draudzību starp mūsu tautām.
+913 Tā ir ļoti jauka. Paldies. …Kāpēc osta tikko nomainīja karogu?
+914 Stratēģiskā partnerība. Jūs paturat pandu. Mēs paturam ostu. Visi ir priecīgi.
+915 Grieķu ostas strādnieks
+916 Es labāk gribētu īstu pandu. Tā ēd bambusu, vismaz tā nekā nepērk.
+917 G-Visu samits
+918 G-Visu samits. Trīs lielvaras. Viens galds. Un Eiropa, ko nolika uz salokāma krēsliņa.
+919 Eiropai jāizvēlas: es.
+920 Eiropai jāizvēlas: es. Vai aukstums.
+921 Eiropa var izvēlēties. Mēs jau nopirkām abas iespējas.
+922 Eiropa pieceļas
+923 Eiropa nevēlas izvēlēties kungu. Tā izvēlas palikt kopā. Divdesmit septiņas valstis, divdesmit četras valodas, viens galds. Mūsu.
+924 Es eju. Tas biju ES, kas nolēma iet. Neviens mani nav pieveikis.
+925 Es eju arī. Durvis jau tā bija pārāk tuvu man.
+926 Mēs ejam. Bet mēs paliekam partneri. Un konkurenti. Un sāncenši. Labu vakaru.
+927 Trīs durvis sitas cieti. Trīs lielvaras apvainojas. Un zālē praktikanti aplaudē.
+928 Epilogs
+929 Brisele, prakses beigu vakars
+930 Briseles Grand-Place. Zili un zeltīti uguņošanas raķešu uzplaiksnījumi iezīmē divpadsmit zvaigznes pāri rātsnamam.
+931 {P}, visu iestāžu vārdā, lūk, tava prakses apliecība. Tā ir parakstīta, pretparakstīta un iztulkota divdesmit četrās valodās.
+932 Maltiešu versijā ir pareizrakstības kļūda. Tā ir tradīcija.
+933 {P}! WAIT! Nesāciet bez manis!
+934 Oliver?! Bet… kā?
+935 Jauno profesionāļu vīza, apdrošināšana, divas anketas, trīs zīmogi. Īsts Euromons no papīriem. Es esmu atpakaļ. Kā tūrists. Bet atpakaļ!
+936 Grupas foto! Visi sakļaujamies kopā! Vaigus paglaudīšu pēc tam.
+937 Es esmu fotogrāfijā tikai tad, ja nevienam neteiks, ka es tur esmu.
+938 (ārpus kadra) Veto fotogrāfijai.
+939 Viņam vairs nav veto tiesību. Smaidiet!
+940 “Mēs neapvienojam valstis, mēs vienojam cilvēkus.” Un sievietes, un praktikantus.
+941 Konkrēti sasniegumi. Faktiska solidaritāte. Apsveicu, mazais. Un tagad… ej gulēt. Rīt ir koordinācijas sanāksme par sanāksmēm.
+942 Roma, 1957. gada 25. marts
+943 Kapitolija laukums. 1957. gada 25. martā sešas valstis šeit parakstīja Romas līgumus. Akmens to atceras. Tas sāk mirdzēt.
+944 Māstrihta, 1992. gada 7. februāris
+945 Meusa naktī. Šeit dzima Eiropas Savienība un vienotās valūtas ideja. Mirdzošas monētas paceļas uz ūdens virsmu.
+946 Lisabona, 2007. gada 13. decembris
+947 Rītausma pār Težu. Žeronimu klostera priekšā līguma lapas sāk lidinēties, tad lidot.
+948 Laipni lūgti ēdnīcā! Kafija, sendvičs, un tavi Euromoni ir kā jauni… ēē, kā 57. gadā.
+949 Vai parūpēties par jūsu komandu?
+950 Lūk! Visi ir lieliskā formā. Kafija savukārt vienmēr ir remdena.
+951 Kā vēlaties. Bet pēc tam nenāciet raudāt pie nākamajām debatēm!
+952 Labdien! Eiropas stacija, vienas pieturas aģentūra. Jūsu Interrail kartīti, lūdzu… Perfekti. Kurp dosimies?
+953 Atvainojiet, starptautiskie vilcieni rezervēti Interrail kartītes īpašniekiem. Šķiet, to var izcīnīt Strasbūrā.
+954 Es šeit ēdu kopš 1993. gada. Ēdienkarte mainījusies tikai vienreiz: kad ieradās eiro.
+955 Baņķieris
+956 Šeit pat kafijai ir nodokļu rezidence citur.
+957 Ekonomists
+958 Sendviča cena kopš 2021. gada pieaugusi par 12%. Mans modelis prognozēja 2%. Mans modelis ir izsalkis.
+959 Parlamenta palīgs
+960 Četras dienas mēnesī šeit, pārējās Briselē. Manas puķes mani vairs nepazīst.
+961 Viesmīle
+962 Frapē kafiju? Tā ir vienīgā lieta, ko Troikai nekad nav izdevies reformēt.
+963 Džentlmenis
+964 Agrāk mēs sūdzējāmies par Briseli. Tagad mēs sūdzamies, ka nevaram vairs sūdzēties par Briseli.
+965 Šeit ēd guļašu. Un debatē, diskrēti.
+966 Filozofs
+967 Es domāju, tātad es pusdienoju. Un pusdienoju ilgi: šī ir Parīze.
+968 Klientē
+969 Es meklēju lādētāju… Ā nē, tiešām, tagad visur USB-C. Kāda svētlaime.
+970 Cenas ir bez nodokļiem. Protams.
+971 Klients
+972 Es par visu maksāju skaidrā naudā. Vācieši dievina skaidru naudu.
+973 Es atnācu pirkt Zīmogus. Mana priekšniece grib apzīmogot pulksteņa pārgriešanas Euromonu.
+974 Viss par pusi lētāk! Ā nē, tas PVN dubultojies.
+975 Vai cena ir mārciņās, eiro, vai vēlēšanu solījumos?
+976 Pārdevējs man jautāja manu domu par valdību. Es sacīju: “veto”.
+977 Vienu bagetu, vienu Zīmogu, un vienu protesta akciju, lūdzu.
+978 Ceļotāja
+979 Mans vilciens uz Strasbūru kavējas četras stundas. Parlaments, starp citu, arī.
+980 {P}! Pārsteigums! Es braucu ar Eurostar. Ar pasi, anketu un divu stundu rindu. Es atnācu palūgt… atgriezties. Rejoin?
+981 Bet vispirms debates. Kā vecajos labajos laikos!
+982 Kāda prakse! Nu, šķiet, lai atkal pievienotos, jāsarunā 35 nodaļas. Es sāku rīt. Cheers, {P}!
+983 1. nodaļa no 35: “preču brīva aprite”. Tas virzās uz priekšu!
+984 Ceļotājs
+985 Luksemburgā sabiedriskais transports ir bezmaksas kopš 2020. gada. Arī praktikantiem!
+986 Es braucu maršrutā Frankfurte–Brisele. Es zinu katru govi gar līniju pēc vārda.
+987 Šīs dzelzs lādes visas pieder eurodeputātiem. Tās ceļo vairāk nekā es.
+988 Vilciens uz Pireju? Slēgts. Šķiet, kāds nopircis ostu.
+989 Eurostar tagad pieprasa pasi. Mēs atkal pārņēmām kontroli. Pār rindām.
+990 Donava šķērso desmit valstis. Es vienkārši centos šķērsot vienu bez kontroles.
+991 Streiks SNCF. Ā nē, tā ir vienkārši otrdiena.
+992 Ostas strādnieks
+993 Antverpene, Eiropas otrā lielākā osta. Šeit redz visu, kas garām paiet. Pat muitas nodevas.
+994 Bez gāzes ir tik auksts, ka pingvīni lūdz patvērumu.
+995 Visi ceļi ved uz Romu. Arī vilcieni, ar kavēšanos.
+996 Šeit 1992. gadā parakstīja līgumu. Bija saule. Tā bija vienīgā reize.
+997 Lisabona, 2007: parakstīja līgumu, kas ļoti atgādinaja konstitūciju. Ssš.
+998 Šodien ir 9. maijs: Eiropas diena! Eiropas kvartālā visur plīvo karogi.
+999 Rets Euromons, piesaistīts svinībām, izlec no lietu kaudzes!

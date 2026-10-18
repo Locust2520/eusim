@@ -1,0 +1,10 @@
+# minigame NPCs
+1919 In tu je kup današnjih sodb. Vse jih je treba žigosati, preden se zapre sodno tajništvo. Mi pomagaš?
+1920 Petnajst sodb, petnajst žigov! Sodišče se ti zahvaljuje. Vzemi te kvalificirane žige, delujejo veliko bolje.
+1921 Brezhibno, kot vedno. Luksemburg obožuje metodične ljudi.
+1922 Nekaj sodb je odšlo brez žiga… Vrnile se bodo na pritožbi. Poskusi znova, kadar želiš.
+1923 Nič zato. Žigosal jih bom sam. V treh izvodih.
+1924 Stavim, da jih ne boš uspel zavrniti vseh. Nikomur ne uspe. Poskusiva?
+1925 Nemogoče… Zavrnil si vse?! Prav. Tukaj je pravno mnenje. Brezplačno. Nikomur ne povej.
+1926 Ti spet! Naši pasovi nimajo nobene možnosti.
+1927 Hvala, da si sprejel naših 437 partnerjev! Tvoji podatki so v dobrih rokah. V naših.

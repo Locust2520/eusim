@@ -1,0 +1,114 @@
+# Euromon names — reference for translators (id, French name, types, category, dex entry)
+# Then: other catalogue entries that mention the name (must be re-provided with your localized name)
+
+1819	Verdeal	[/]	category: Pacte vert	dex: Né avec le Pacte vert de 2019. Une pousse jaillit chaque fois qu'une norme d'émission est votée.
+   mentioned in 514: VERDEAL, né du Pacte vert. CHARBONNET, issu de la CECA de 1951. Ou ATOMINO, tout droit sorti d'Euratom.
+   mentioned in 515: Verdeal (type Vert)
+1820	Fit55	[/]	category: Objectif climat	dex: Il s'entraîne pour réduire ses émissions de 55 % d'ici 2030. Il compte chaque calorie.
+1821	Neutralis	[/]	category: Neutralité	dex: Il vise la neutralité carbone en 2050. D'ici là, il plante un arbre à chaque pas.
+1822	Charbonnet	[/]	category: Charbon	dex: Petit tas de charbon de la CECA de 1951. Il noircit tout ce qu'il touche, avec enthousiasme.
+   mentioned in 514: VERDEAL, né du Pacte vert. CHARBONNET, issu de la CECA de 1951. Ou ATOMINO, tout droit sorti d'Euratom.
+   mentioned in 516: Charbonnet (type Industrie)
+1823	Hautfourno	[/]	category: Haut-fourneau	dex: Sa cheminée crache des étincelles quand il s'énerve. Il rêve de plein emploi.
+1824	CECAgon	[/]	category: Acier commun	dex: Forgé dans le charbon et l'acier mis en commun. Il est la preuve que la paix se fabrique.
+1825	Atomino	[/]	category: Atome	dex: Un petit atome curieux, né du traité Euratom de 1957. Il ne tient pas en place.
+   mentioned in 514: VERDEAL, né du Pacte vert. CHARBONNET, issu de la CECA de 1951. Ou ATOMINO, tout droit sorti d'Euratom.
+   mentioned in 517: Atomino (type Énergie)
+1826	Euratome	[/]	category: Réacteur	dex: Ses électrons tournent si vite qu'il éclaire une pièce entière. Sobriété en option.
+1827	Fissionix	[/]	category: Fission	dex: Il se divise en deux quand il est contrarié. Les Verts et lui ne s'adressent plus la parole.
+1828	Tampono	[/]	category: Tampon	dex: Un tampon vivant qui valide tout ce qu'il croise. Il a déjà tamponné son propre dresseur.
+1829	Paraphor	[/]	category: Parapheur	dex: Il paraphe chaque page en bas à droite. Il lui faut quatre heures par traité.
+1830	Ratifix	[/]	category: Ratification	dex: Il ne bouge que lorsque 27 parlements nationaux ont dit oui. Il dort donc beaucoup.
+1831	Amendon	[/]	category: Amendement	dex: Il se reproduit par milliers à chaque texte de loi. Le Parlement en reçoit parfois 2000 par rapport.
+1832	Amendomax	[/]	category: Obstruction	dex: Il dépose tant d'amendements qu'il bloque toute la séance. Une technique bien rodée.
+1833	Cookiz	[/]	category: Bandeau cookie	dex: Il apparaît devant chaque porte depuis le RGPD de 2018. Le refuser ne suffit jamais.
+1834	Consentor	[/]	category: Consentement	dex: Il demande votre accord pour tout, puis pour l'accord lui-même. Il est très poli.
+1835	Usbécé	[/]	category: Chargeur	dex: Obligatoire sur tous les appareils depuis fin 2024. Il a mis au chômage un tiroir entier de câbles.
+1836	Bouchatach	[/]	category: Bouchon	dex: Il ne quitte plus sa bouteille depuis juillet 2024. Il vous frappe le nez quand vous buvez.
+1837	Pailleplast	[/]	category: Paille disparue	dex: Interdit depuis 2021, on le croyait disparu. Il hante les fast-foods la nuit.
+1838	Courbana	[/]	category: Banane	dex: Un règlement de 1994 fixe sa qualité. Il passe sa vie à mesurer sa propre courbure.
+1839	Roamy	[/]	category: Itinérance	dex: Il voyage partout sans frais depuis juin 2017. Il appelle sa mère depuis chaque frontière.
+1840	Roamfree	[/]	category: Sans frontières	dex: Il a visité les 27 pays en un week-end et a tout posté en direct. Sans surcoût.
+1841	Erasmouse	[/]	category: Étudiant	dex: Ce petit rongeur part un semestre à l'étranger et revient bilingue. Né en 1987.
+1842	Erasmus+	[/]	category: Échange	dex: Il a habité dans 12 colocations et cuisine des pâtes dans 9 langues.
+1843	Eurolo	[/]	category: Pièce	dex: Une pièce de 2 € qui roule partout depuis 2002. Elle a 27 faces nationales possibles.
+1844	Eurozone	[/]	category: Monnaie unique	dex: Vingt pays partagent sa force. Quand l'un tousse, les autres ont la fièvre.
+1845	Schengéon	[/]	category: Libre circulation	dex: Né sur un bateau sur la Moselle en 1985. Aucune frontière ne le retient.
+   mentioned in 574: On dit qu'un Euromon rare, Schengéon, rôde dans les dossiers du village. Il ne s'arrête jamais à la douane.
+1846	Glyphosaure	[/]	category: Herbicide	dex: Réautorisé pour dix ans en 2023. Les herbes folles tremblent à son passage.
+1847	Lobbyrax	[/]	category: Démarcheur	dex: Il traîne dans les couloirs avec une mallette plus grande que lui. Il ne fait pas de lobbying, il « informe ».
+1848	Lobbyron	[/]	category: Influenceur	dex: Il connaît le numéro de chaque assistant parlementaire. Et leurs allergies.
+1849	Lobbyzilla	[/]	category: Méga-lobby	dex: Un des 25 000 lobbyistes de Bruxelles, en version géante. Il réécrit les lois en dormant.
+1850	Transhumon	[/]	category: Malle en fer	dex: Une malle en fer qui fait Bruxelles–Strasbourg douze fois par an. Elle a le mal des transports.
+1851	Transhumax	[/]	category: Déménagement	dex: Il transporte un parlement entier dans son ventre. Coût du voyage : à ne pas demander.
+1852	Changheure	[/]	category: Changement d'heure	dex: Le Parlement a voté sa disparition en 2019. Il revient pourtant deux fois par an.
+1853	Diesgate	[/]	category: Fraude	dex: Il triche aux contrôles depuis 2015 : propre au banc d'essai, enfumé sur la route.
+1854	Spitzen	[/]	category: Tête de liste	dex: Il fait campagne pour la présidence… puis un autre est nommé à sa place.
+1855	Interpréton	[/]	category: Interprète	dex: Il parle 24 langues et toujours avec deux secondes de retard.
+1856	Trilogon	[/]	category: Trilogue	dex: Trois têtes : Parlement, Conseil, Commission. Elles se mettent d'accord vers 4 h du matin.
+1857	Comitologue	[/]	category: Comitologie	dex: Personne ne sait exactement ce qu'il fait. Il siège pourtant dans 300 comités.
+1858	Paperassor	[/]	category: Formulaire	dex: Une pile de formulaires en triple exemplaire. Il manque toujours une page.
+1859	Archivor	[/]	category: Archives	dex: Il garde tout, même les post-it de 1958. Classement : alphabétique et émotionnel.
+1860	Agrikolo	[/]	category: Petit fermier	dex: Il touche une aide de la PAC pour chaque hectare. Il compte ses hectares tous les matins.
+1861	PACtor	[/]	category: PAC	dex: Il absorbe un tiers du budget européen sans broncher. Il a toujours faim.
+1862	MégaPAC	[/]	category: Politique agricole	dex: Quand il bloque l'autoroute avec ses tracteurs, même le Conseil négocie.
+1863	Tracteuron	[/]	category: Manifestation	dex: Il se gare devant le Parlement à chaque réforme. Klaxon garanti.
+1864	Fromajus	[/]	category: Fromage	dex: Un petit fromage au lait cru qui sent très fort. Il est fier de son terroir.
+   mentioned in 581: Le crémant de Luxembourg, c'est AOP ! Comme mon Fromajus.
+1865	Appellatio	[/]	category: AOP	dex: Protégé par une appellation d'origine. Toute imitation est poursuivie en justice.
+1866	Pralinou	[/]	category: Praline	dex: Un chocolat belge très gentil. Il fond quand on lui fait un compliment.
+1867	Frituron	[/]	category: Frite belge	dex: Cuit deux fois, comme il se doit. Il refuse catégoriquement d'être appelé « French ».
+1868	Pigeonix	[/]	category: Pigeon	dex: Il vit place du Luxembourg et vole les frites des lobbyistes. Il connaît tous les ragots.
+1869	Manneken	[/]	category: Petit bonhomme	dex: Une petite statue de 55 cm qui a plus de costumes que tout le Parlement.
+   mentioned in 488: Excuse me, où est le Manneken-Pis ? On m'a dit qu'il était plus grand… On m'a beaucoup menti sur ce voyage.
+1870	Atomiom	[/]	category: Atomium	dex: Neuf sphères d'acier reliées en cristal, depuis l'Expo 58. Il brille la nuit sur Bruxelles.
+1871	Stagion	[/]	category: Stagiaire	dex: Il travaille beaucoup et n'est pas payé. Il dit que c'est « une expérience formatrice ».
+1872	Contractuel	[/]	category: Agent temporaire	dex: Son contrat finit dans trois mois. Il le renouvelle depuis six ans.
+1873	Titularis	[/]	category: Fonctionnaire	dex: Il a réussi le concours EPSO. Il ne craint plus rien, sauf la réforme des retraites.
+1874	Populo	[/]	category: Râleur	dex: Il est contre. Peu importe quoi, il est contre.
+1875	Tribun	[/]	category: Orateur	dex: Il monte sur toutes les tables pour haranguer la foule. Même à la cantine.
+1876	Démagogor	[/]	category: Démagogue	dex: Il promet tout à tout le monde. Ses promesses s'évaporent à l'aube.
+1877	Fakeon	[/]	category: Fausse info	dex: Il change de forme selon la personne qui le regarde. Il est très partagé.
+1878	Trollbot	[/]	category: Faux compte	dex: Un petit robot qui commente tout en majuscules. Il n'a jamais dormi.
+1879	Botfarm	[/]	category: Usine à trolls	dex: Dix mille comptes dans une seule boîte. Les élections le connaissent bien.
+1880	Algoritmo	[/]	category: Algorithme	dex: Il apprend de tout ce que vous faites. Il sait déjà ce que vous allez capturer.
+1881	IAct	[/]	category: IA régulée	dex: Le premier règlement mondial sur l'intelligence artificielle (2024) l'a mis en règle.
+1882	Inflaton	[/]	category: Inflation	dex: Il gonfle un peu chaque mois. Les ménages le surveillent de près.
+1883	Hyperflaton	[/]	category: Hyperinflation	dex: Si gros qu'il bouche les rues. La BCE monte les taux pour le faire maigrir.
+1884	Spreadon	[/]	category: Écart de taux	dex: Il s'étire à chaque déclaration maladroite d'un banquier central.
+1885	Cryptou	[/]	category: Cryptomonnaie	dex: Il vaut une fortune le matin et rien le soir. Il adore les montagnes russes.
+1886	MiCA	[/]	category: Crypto régulée	dex: Le règlement MiCA l'a obligé à porter une cravate. Il est plus calme, maintenant.
+   mentioned in 1400: Le règlement MiCA l'a obligé à porter une cravate. Il est plus calme, maintenant.
+1887	Austérix	[/]	category: Équilibre budgétaire	dex: Il ne dépense jamais rien, pas même son énergie. Son cri : « Schwarze Null ! »
+1888	Troïkat	[/]	category: Troïka	dex: Trois chats : BCE, Commission, FMI. Ils inspectent ensemble les comptes des autres.
+1889	Vetoad	[/]	category: Veto	dex: Un crapaud qui croasse « non ! » à chaque proposition. Il suffit de lui pour tout bloquer.
+1890	Vetoadmax	[/]	category: Unanimité	dex: Il exige l'unanimité pour chaque décision, puis la refuse lui-même.
+1891	Frontièrex	[/]	category: Barrière	dex: Il réapparaît dès qu'on parle de contrôles aux frontières. Il a sa guérite personnelle.
+1892	Brexitt	[/]	category: Sortie	dex: Il a voulu partir en 2016, est parti en 2020, et regrette parfois. Il quitte souvent les combats.
+1893	Référendo	[/]	category: Consultation	dex: Une urne qui pose des questions simples aux problèmes compliqués.
+1894	Assistome	[/]	category: Assistant fantôme	dex: Payé par le Parlement, il n'y a jamais mis les pieds. Personne ne l'a jamais vu travailler.
+1895	Emploifictif	[/]	category: Emploi fictif	dex: Il porte un badge, un contrat et une fiche de paie. Mais aucun bureau.
+1896	Sacabillet	[/]	category: Sac de billets	dex: Retrouvé plein de billets dans un appartement bruxellois en décembre 2022.
+1897	Valisette	[/]	category: Mallette	dex: Une petite valise qui passe de main en main au pied du Parlement.
+1898	Gazoduc	[/]	category: Pipeline	dex: Long de 1200 km sous la mer. Son robinet est contrôlé par quelqu'un d'autre.
+1899	Éolion	[/]	category: Éolienne	dex: Ses pales tournent dès qu'on souffle sur lui. Il déteste les jours sans vent.
+1900	Offshorion	[/]	category: Éolien en mer	dex: Il vit au large de la mer du Nord et alimente des villes entières.
+1901	Solario	[/]	category: Panneau solaire	dex: Il dort la nuit et travaille dur le jour, surtout en Espagne.
+1902	Plafonnor	[/]	category: Plafond de prix	dex: Il empêche les prix de monter trop haut. Il a mal au cou à force de pousser.
+1903	Tarifaux	[/]	category: Droit de douane	dex: Il taxe tout ce qui passe devant lui. Même les feuilles mortes.
+1904	Tarifator	[/]	category: Guerre commerciale	dex: Il brandit un tableau de taxes géant. Les chiffres changent chaque matin.
+1905	Terrara	[/]	category: Terres rares	dex: Un petit caillou dont dépendent tous les téléphones. Ses exportations sont surveillées.
+1906	Pandiplo	[/]	category: Panda diplomate	dex: Prêté pour quelques années à un zoo européen. Il mange du bambou et des accords commerciaux.
+1907	Censourson	[/]	category: Contenu indisponible	dex: Cet ourson jaune n'est visible dans aucune région. Sa fiche a été retirée.
+1908	Kirchbergeon	[/]	category: Pigeon juriste	dex: Il niche sur les tours de la Cour de justice au Kirchberg et roucoule en latin.
+1909	Schumark	[/]	category: Déclaration	dex: Il récite la déclaration du 9 mai 1950 à qui veut l'entendre. Il apparaît à la Fête de l'Europe.
+1910	Nobelix	[/]	category: Prix Nobel	dex: Une médaille remise à l'Union européenne en 2012. Elle brille de fierté.
+1911	Brumelle	[/]	category: Crachin	dex: Un petit nuage bruxellois. Il pleut sur vous 200 jours par an.
+1912	Lunchix	[/]	category: Déjeuner d'affaires	dex: Un déjeuner de travail qui dure trois heures. On y décide plus qu'en séance.
+1913	Mercosaur	[/]	category: Accord commercial	dex: Il est en négociation depuis 1999. Quand il avance d'un pas, les tracteurs le repoussent.
+1914	Romulus	[/]	category: Traité de Rome	dex: Né le 25 mars 1957 au Capitole. Il a fondé la Communauté économique européenne.
+1915	Maastrichtor	[/]	category: Traité de Maastricht	dex: Né aux Pays-Bas en 1992. Il a créé l'Union et rêvé l'euro.
+1916	Lisbonia	[/]	category: Traité de Lisbonne	dex: Signé en 2007, il a repris l'essentiel d'une constitution qui n'a jamais vu le jour.
+1917	Constitutio	[/]	category: Constitution	dex: Rejeté par référendum en France et aux Pays-Bas en 2005. Il fuit dès qu'on l'approche.
+   mentioned in 479: Au loin, un autre Euromon fuit : Constitutio. Rejeté en 2005, il ne se laisse jamais capturer.
+1918	Draghizord	[/]	category: Whatever it takes	dex: Il ne connaît qu'une attaque, et elle réussit toujours. Il a sauvé l'euro en une phrase.

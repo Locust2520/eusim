@@ -1,0 +1,157 @@
+# Español — computer mini-games
+1928 Prince Mbeki III
+1929 Herencia de 4 M€ para repartir
+1930 Lobby del diésel
+1931 Invitación: cena de bogavante
+1932 Recursos Humanos
+1933 Reunión de coordinación sobre las reuniones
+1934 SuperPromo
+1935 Tu móvil gratis te espera
+1936 Qatar Events
+1937 ¿Una maletita para ti?
+1938 BancoSeguro
+1939 Confirma aquí tu contraseña
+1940 Newsletter
+1941 47 novedades apasionantes del RGPD
+1942 Orden del día del pleno
+1943 Mamá
+1944 ¿Comes bien en Bruselas?
+1945 Cantina
+1946 Menú del día: waterzooi
+1947 Secretaría del Tribunal
+1948 Sentencia por notificar antes del mediodía
+1949 Comisión
+1950 Votación del presupuesto mañana
+1951 Tu Eurodex se ha actualizado
+1952 ¿Debate esta noche? Voy a ganar.
+1953 Bandeja de entrada
+1954 ¡437 correos sin leer! Toca un correo de verdad para leerlo, y la cruz roja para tirar el spam. ¡Procesa 20 antes de que la bandeja se desborde!
+1955 Leer: toca · Spam: cruz roja
+1956 Errores: %d / 3
+1957 ¡Bandeja vacía! Por primera vez desde 2019. Disfrútalo, no va a durar.
+1958 ¡La bandeja se desborda! El servidor de la Comisión acaba de caerse. Otra vez.
+1959 Has tirado el correo de la presidenta y has respondido al príncipe. Les pasa a los mejores.
+1960 Desde 2024, los móviles nuevos vendidos en la UE deben tener puerto USB-C.
+1961 Verdadero: la directiva del cargador universal se aplica desde finales de 2024.
+1962 La UE prohíbe vender plátanos demasiado curvados.
+1963 Falso: un reglamento de 1994 clasificaba los plátanos por calidad. Los curvados siguen a la venta.
+1964 La bandera europea tiene 12 estrellas porque había 12 países miembros.
+1965 Falso: el 12 es un símbolo de perfección. La bandera data de 1955, mucho antes de los 12 países.
+1966 El Parlamento Europeo se reúne una semana al mes en Estrasburgo.
+1967 Verdadero: 12 sesiones al año en Estrasburgo, con sus baúles correspondientes.
+1968 Los comisarios europeos son elegidos directamente por los ciudadanos.
+1969 Falso: los proponen los gobiernos y luego los aprueba el Parlamento.
+1970 La Unión Europea tiene 24 lenguas oficiales.
+1971 Verdadero: del irlandés al maltés, todos los textos se traducen a las 24.
+1972 Todos los países de la UE usan el euro.
+1973 Falso: en 2026, lo usan 21 de 27 países. Bulgaria es la última en llegar.
+1974 Las tarifas de itinerancia móvil se eliminaron en la UE en 2017.
+1975 Verdadero: desde junio de 2017, se llama a todas partes "como en casa".
+1976 El himno europeo es el Himno a la alegría de Beethoven.
+1977 Verdadero: sin letra oficial, para no molestar a ninguna lengua.
+1978 Luxemburgo es el país más pequeño de la UE.
+1979 Falso: es Malta, unos 316 km².
+1980 La Unión Europea recibió el Premio Nobel de la Paz.
+1981 Verdadero: en 2012, por 60 años de paz y reconciliación.
+1982 El RGPD protege los datos personales desde 2018.
+1983 Verdadero: se aplica desde el 25 de mayo de 2018. De ahí los avisos de cookies…
+1984 Los pepinos torcidos están prohibidos para la venta en la UE.
+1985 Falso: la norma sobre su curvatura se eliminó en 2009.
+1986 Los tapones deben quedar unidos a las botellas de plástico.
+1987 Verdadero: obligatorio desde julio de 2024, para que no terminen más en la naturaleza.
+1988 Suiza es miembro de la Unión Europea.
+1989 Falso: está en el espacio Schengen, pero no en la UE.
+1990 El Banco Central Europeo tiene su sede en Bruselas.
+1991 Falso: está en Fráncfort, Alemania.
+1992 Cazabulos
+1993 ¡Los rumores sobre Europa circulan más rápido que las directivas! Para cada afirmación, toca CIERTO o FALSO. Necesitas 7 respuestas correctas de 10.
+1994 CIERTO
+1995 FALSO
+1996 ¿Cierto o falso?
+1997 Pregunta %d / 10
+1998 ¡Respuesta correcta!
+1999 ¡Demasiado tarde!
+2000 ¡Fallo!
+2001 Toca para continuar
+2002 ¡Bien hecho! Todos esos bulos quedan desmontados. Los verificadores quieren contratarte.
+2003 Han circulado demasiados bulos… La cuenta "EuropaDeVerdad2027" gana 10.000 seguidores.
+2004 Búlgaro
+2005 Checo
+2006 Danés
+2007 Alemán
+2008 Griego
+2009 Inglés
+2010 Español
+2011 Estonio
+2012 Finés
+2013 Francés
+2014 Irlandés
+2015 Croata
+2016 Húngaro
+2017 Italiano
+2018 Lituano
+2019 Letón
+2020 Maltés
+2021 Neerlandés
+2022 Polaco
+2023 Portugués
+2024 Rumano
+2025 Eslovaco
+2026 Esloveno
+2027 Sueco
+2028 Servicio de Traducción
+2029 ¡Llegan mensajes de toda Europa! Lee cada uno y envíalo a la cabina de traducción correcta. 12 mensajes en 45 segundos. ¡Un error cuesta 3 segundos!
+2030 Cabinas de Traducción
+2031 Envía el mensaje a la cabina correcta
+2032 ¡Todos los mensajes llegaron a buen puerto! La DG de Traducción te ofrece un puesto. En 24 idiomas.
+2033 Un mensaje eslovaco fue a parar a los eslovenos… El incidente diplomático se está traduciendo.
+2034 ¡Crisis energética! Los precios se disparan.
+2035 Confinamiento: ya nadie compra nada.
+2036 ¡Plan de recuperación gigante aprobado esta noche!
+2037 ¡Crac bursátil en Fráncfort!
+2038 ¡Escasez de chips electrónicos!
+2039 Los hogares ahorran todo su dinero.
+2040 ¡Presides el BCE! ¿Sube la inflación? Sube el tipo. ¿Baja? Bájalo. Mantenla en la zona verde (alrededor del 2 %) al menos la mitad del tiempo. ¡40 segundos!
+2041 Inflación: %s
+2042 Tipo: %s
+2043 Bajar
+2044 Subir
+2046 ¡Inflación bajo control! Los mercados aplauden, los ahorradores duermen tranquilos.
+2047 La inflación se te escapó… El precio del café de la cantina se acaba de duplicar.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Cargador Universal
+2053 ¡Desde 2024, el USB-C es obligatorio! Toca los dispositivos que todavía tienen un puerto antiguo para ponerlos en conformidad. ¡Sobre todo no los que ya tienen USB-C! 20 dispositivos en 30 segundos.
+2054 ¡Toca los puertos viejos, no el USB-C!
+2055 ¡Todos conformes! Un solo cargador para todos. Los cajones de cables de Europa respiran.
+2056 Has "puesto en conformidad" un dispositivo que ya tenía USB-C. Ahora tiene tres adaptadores.
+2057 Demasiados cables viejos se escaparon de la directiva… El cajón de cables se desborda.
+2058 Tu ordenador. 437 correos sin leer parpadean en una esquina de la pantalla.
+2059 Correo
+2060 Apagar
+2061 Aparece una notificación: "¡Felicidades por tu productividad!" Un paquete te esperaba bajo la mesa.
+2062 Bandeja vacía. Tres segundos después: "Re: Reunión de coordinación sobre las reuniones".
+2063 El servidor de correo muestra un reloj de arena. Probablemente lo mostrará hasta mañana.
+2064 Un ordenador del servicio de prensa. La pantalla muestra: "Unidad Cazabulos – rumores por verificar: 2384".
+2065 ¡Buen trabajo de verificación! El servicio de prensa te regala estos informes de expertos. Con fuentes, para variar.
+2066 Todos los rumores del día están verificados. Llegarán más antes del almuerzo.
+2067 Un bulo acaba de compartirse 40.000 veces. La desmentida, 12 veces.
+2068 El terminal de la DG de Traducción. Una luz roja parpadea: "Mensajes pendientes de asignación".
+2069 ¡Los intérpretes están desbordados! ¿Puedes ordenar los mensajes y enviarlos a la cabina correcta?
+2070 ¡Veinticuatro idiomas, ningún error de asignación! Toma esta agenda, están todos los intérpretes del Tribunal.
+2071 Distingues el esloveno del eslovaco mejor que la mitad del Consejo.
+2072 Un mensaje maltés llegó a la cabina irlandesa. Todavía lo están discutiendo. Vuelve a intentarlo cuando quieras.
+2073 Un terminal Bloomberg, todavía caliente. En una nota adhesiva: "Objetivo: 2 %. Ni 1,9. Ni 2,1. 2."
+2074 ¿Tomar el control de la política monetaria de la zona euro?
+2075 Los mercados aplauden tu prudencia. ¡Una prima de estabilidad llega a tu cuenta!
+2076 Inflación al 2 %. En algún lugar de Fráncfort, un economista derrama una lágrima de alegría.
+2077 El terminal muestra un gráfico en forma de montaña rusa. Nadie ha visto nada. Vuelve a intentarlo rápido.
+2078 El ordenador de la eurodiputada. Sobre la mesa, un enredo de 14 cargadores distintos.
+2079 ¡Voté la directiva del USB-C! Pero mis colegas todavía tienen aparatos viejos… ¿Me ayudas a ponerlos en conformidad?
+2080 ¡Un solo cargador para todos! Toma, coge esta memoria USB-C. Dicen que hace evolucionar a ciertos Euromon digitales.
+2081 El cajón de cables está por fin vacío. Ya no sé qué guardar ahí.
+2082 Todavía quedan cables Lightning por todas partes… Vuelve a intentarlo cuando quieras.
+2083 Zona verde: %d %%
+2084 Objetivo: la mitad del tiempo en verde
+2085 Dock 30

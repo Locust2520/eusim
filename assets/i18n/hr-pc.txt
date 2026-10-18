@@ -1,0 +1,157 @@
+# Croatian — computer mini-games
+1928 Prince Mbeki III
+1929 Nasljedstvo od 4 mil. € za podijeliti
+1930 Dizelski lobi
+1931 Pozivnica: večera s jastogom
+1932 Služba za ljudske resurse
+1933 Koordinacijski sastanak o sastancima
+1934 SuperPromo
+1935 Vaš besplatni telefon vas čeka
+1936 Qatar Events
+1937 Mali kovčeg za vas?
+1938 Banka Sigurnost
+1939 Ovdje potvrdite svoju lozinku
+1940 Newsletter
+1941 47 uzbudljivih novosti o GDPR-u
+1942 Dnevni red plenarne sjednice
+1943 Mama
+1944 Jedeš li dobro u Bruxellesu?
+1945 Kantina
+1946 Današnji meni: waterzooi
+1947 Tajništvo Suda
+1948 Presudu dostaviti do podne
+1949 Komisija
+1950 Sutra glasanje o proračunu
+1951 Tvoj Eurodex je ažuriran
+1952 Debata večeras? Pobijedit ću.
+1953 Ulazna pošta
+1954 437 nepročitanih e-poruka! Dodirni pravu poruku da je pročitaš, a crveni križić da baciš spam. Riješi njih 20 prije nego što se sandučić prelije!
+1955 Čitaj: dodir · Spam: križić
+1956 Pogreške: %d / 3
+1957 Prazan sandučić! Prvi put od 2019. Uživaj, neće dugo trajati.
+1958 Sandučić se prelio! Poslužitelj Komisije upravo se srušio. Opet.
+1959 Bacio si poruku predsjednice i odgovorio princu. Događa se i najboljima.
+1960 Od 2024. novi telefoni koji se prodaju u EU-u moraju imati priključak USB-C.
+1961 Istina: direktiva o univerzalnom punjaču primjenjuje se od kraja 2024.
+1962 EU zabranjuje prodaju previše zakrivljenih banana.
+1963 Laž: uredba iz 1994. razvrstavala je banane po kvaliteti. Zakrivljene se i dalje prodaju.
+1964 Europska zastava ima 12 zvjezdica jer je bilo 12 država članica.
+1965 Laž: 12 je simbol savršenstva. Zastava potječe iz 1955., davno prije 12 država.
+1966 Europski parlament zasjeda jedan tjedan mjesečno u Strasbourgu.
+1967 Istina: 12 zasjedanja godišnje u Strasbourgu, s pripadajućim kovčezima.
+1968 Europske povjerenike izravno biraju građani.
+1969 Laž: predlažu ih vlade, a potom ih odobrava Parlament.
+1970 Europska unija ima 24 službena jezika.
+1971 Istina: od irskog do malteškog, svi se tekstovi prevode na svih 24.
+1972 Sve zemlje EU-a koriste euro.
+1973 Laž: 2026. koristi ga 21 od 27 zemalja. Bugarska se pridružila posljednja.
+1974 Naknade za mobilni roaming u EU-u ukinute su 2017.
+1975 Istina: od lipnja 2017. posvuda zoveš „kao kod kuće”.
+1976 Europska himna je Beethovenova Oda radosti.
+1977 Istina: bez službenog teksta, da se nijedan jezik ne uvrijedi.
+1978 Luksemburg je najmanja zemlja EU-a.
+1979 Laž: to je Malta, oko 316 km².
+1980 Europska unija dobila je Nobelovu nagradu za mir.
+1981 Istina: 2012., za 60 godina mira i pomirenja.
+1982 GDPR štiti osobne podatke od 2018.
+1983 Istina: primjenjuje se od 25. svibnja 2018. Otuda svi ti natpisi o kolačićima…
+1984 Krivi krastavci ne smiju se prodavati u EU-u.
+1985 Laž: norma o njihovoj zakrivljenosti ukinuta je 2009.
+1986 Čepovi moraju ostati pričvršćeni za plastične boce.
+1987 Istina: obvezno od srpnja 2024., da više ne završavaju u prirodi.
+1988 Švicarska je članica Europske unije.
+1989 Laž: u schengenskom je prostoru, ali nije u EU-u.
+1990 Europska središnja banka ima sjedište u Bruxellesu.
+1991 Laž: nalazi se u Frankfurtu, u Njemačkoj.
+1992 Lažolovac
+1993 Glasine o Europi šire se brže od direktiva! Za svaku tvrdnju dodirni ISTINA ili LAŽ. Trebaš 7 točnih odgovora od 10.
+1994 ISTINA
+1995 LAŽ
+1996 Istina ili laž?
+1997 Pitanje %d / 10
+1998 Točno!
+1999 Prekasno!
+2000 Promašaj!
+2001 Dodirni za nastavak
+2002 Bravo! Sve su lažne vijesti razotkrivene. Provjeravatelji činjenica žele te zaposliti.
+2003 Previše lažnih vijesti je prošlo… Račun „PravaEuropa2027” dobiva 10 000 pratitelja.
+2004 Bugarski
+2005 Češki
+2006 Danski
+2007 Njemački
+2008 Grčki
+2009 Engleski
+2010 Španjolski
+2011 Estonski
+2012 Finski
+2013 Francuski
+2014 Irski
+2015 Hrvatski
+2016 Mađarski
+2017 Talijanski
+2018 Litavski
+2019 Latvijski
+2020 Malteški
+2021 Nizozemski
+2022 Poljski
+2023 Portugalski
+2024 Rumunjski
+2025 Slovački
+2026 Slovenski
+2027 Švedski
+2028 Prevoditeljska služba
+2029 Poruke stižu iz cijele Europe! Pročitaj svaku i pošalji je u pravu prevoditeljsku kabinu. 12 poruka u 45 sekundi. Pogreška košta 3 sekunde!
+2030 Prevoditeljske kabine
+2031 Pošalji poruku u pravu kabinu
+2032 Sve su poruke stigle na odredište! Glavna uprava za prevođenje nudi ti posao. Na 24 jezika.
+2033 Slovačka poruka završila je kod Slovenaca… Diplomatski incident upravo se prevodi.
+2034 Energetska kriza! Cijene lete u nebo.
+2035 Karantena: nitko više ništa ne kupuje.
+2036 Noćas izglasan divovski plan oporavka!
+2037 Slom burze u Frankfurtu!
+2038 Nestašica čipova!
+2039 Kućanstva štede svaki cent.
+2040 Vodiš ESB! Inflacija raste? Podigni kamatnu stopu. Pada? Spusti je. Drži je u zelenoj zoni (oko 2 %) barem pola vremena. 40 sekundi!
+2041 Inflacija: %s
+2042 Stopa: %s
+2043 Spusti
+2044 Podigni
+2046 Inflacija pod kontrolom! Tržišta plješću, štediše mirno spavaju.
+2047 Inflacija ti je pobjegla… Kava u kantini upravo je poskupjela dvostruko.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Univerzalni punjač
+2053 Od 2024. USB-C je obvezan! Dodiruj uređaje koji još imaju stari priključak da ih uskladiš. Nikako one s USB-C-om! 20 uređaja u 30 sekundi.
+2054 Dodiruj stare priključke, ne USB-C!
+2055 Sve usklađeno! Jedan punjač za sve. Europske ladice s kabelima napokon dišu.
+2056 „Uskladio” si uređaj koji je već imao USB-C. Sad ima tri adaptera.
+2057 Previše starih kabela izmaklo je direktivi… Ladica s kabelima puca po šavovima.
+2058 Tvoje računalo. U kutu zaslona trepće 437 nepročitanih e-poruka.
+2059 E-pošta
+2060 Isključi
+2061 Pojavljuje se obavijest: „Čestitamo na vašoj produktivnosti!” Ispod stola čekao te paket.
+2062 Prazan sandučić. Tri sekunde kasnije: „Re: Koordinacijski sastanak o sastancima”.
+2063 Poslužitelj pošte prikazuje pješčani sat. Vjerojatno će ga prikazivati do sutra.
+2064 Računalo službe za medije. Na zaslonu piše: „Jedinica Lažolovac – glasine za provjeru: 2 384”.
+2065 Odlična provjera činjenica! Služba za medije poklanja ti ova stručna izvješća. Ova barem imaju izvore.
+2066 Sve današnje glasine su provjerene. Do ručka stići će nove.
+2067 Jedna lažna vijest upravo je podijeljena 40 000 puta. Demanti 12 puta.
+2068 Terminal Glavne uprave za prevođenje. Trepće crvena lampica: „Poruke čekaju usmjeravanje”.
+2069 Prevoditelji su zatrpani! Možeš li razvrstati poruke i poslati ih u pravu kabinu?
+2070 Dvadeset četiri jezika, nijedna pogreška! Uzmi ovaj adresar, u njemu su svi prevoditelji Suda.
+2071 Razlikuješ slovenski od slovačkog bolje od pola Vijeća.
+2072 Malteška poruka stigla je u irsku kabinu. Još raspravljaju o njoj. Pokušaj ponovno kad god želiš.
+2073 Bloombergov terminal, još topao. Na papiriću: „Cilj: 2 %. Ne 1,9. Ne 2,1. 2.”
+2074 Preuzeti upravljanje monetarnom politikom europodručja?
+2075 Tržišta pozdravljaju tvoj oprez. Na račun ti je sjeo bonus za stabilnost!
+2076 Inflacija na 2 %. Negdje u Frankfurtu ekonomist pušta suzu radosnicu.
+2077 Terminal prikazuje graf u obliku vlakića smrti. Nitko ništa nije vidio. Brzo pokušaj ponovno.
+2078 Računalo zastupnice u Europskom parlamentu. Na stolu splet od 14 različitih punjača.
+2079 Glasala sam za direktivu o USB-C-u! Ali kolege još imaju stare uređaje… Pomažeš mi da ih uskladimo?
+2080 Jedan punjač za sve! Evo, uzmi ovaj USB-C ključ. Kažu da razvija neke digitalne Euromone.
+2081 Ladica s kabelima napokon je prazna. Više ne znam što bih u nju stavila.
+2082 Posvuda još ima Lightning kabela… Pokušajmo ponovno kad god želiš.
+2083 Zelena zona: %d %%
+2084 Cilj: pola vremena u zelenom
+2085 Dock 30

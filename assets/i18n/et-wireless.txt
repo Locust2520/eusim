@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Võrgus
+2165	Ilma internetita
+2166	Loo kohalik mäng
+2167	Liitu kohaliku mänguga
+2156	Läheduses olevad mängud
+2158	Ruuterit ega serverit pole vaja.
+2159	Wi-Fi režiimi vahetamiseks taaskäivita mäng.
+2163	DS-režiim: avatud/WEP-võrk. WPA2 jaoks käivita mäng DSi-režiimis.
+2162	DSi Wi-Fi: kontrolli WPA2-võrku ja konsooli seadeid.
+2160	DSi Wi-Fi ühendamine… B: loobu
+2161	DS Wi-Fi ühendamine… B: loobu
+2154	Konsool ei vasta.

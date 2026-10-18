@@ -1,0 +1,501 @@
+# Latviešu — ids 1000-1499
+1000 Priecīgu Eiropas dienu! Tiekamies nākamgad.
+1001 Tehno
+1002 Federāls
+1003 Suverēns
+1004 Liberāls
+1005 Sociāls
+1006 Zaļš
+1007 Industrija
+1008 Enerģija
+1009 Juridisks
+1010 Monetārs
+1011 Agrārs
+1012 Digitāls
+1013 Diplo
+1014 Lobby
+1015 Populists
+1016 Spoks
+1017 Grozījums
+1018 Groza pretinieka tekstu, pa vienai rindkopai.
+1019 Papīri
+1020 Apber mērķi ar formulāriem.
+1021 Dienesta piezīme
+1022 Ļoti stingra iekšējā piezīme.
+1023 Sanāksme
+1024 Koordinācijas sanāksme, kas visus iemidzina.
+1025 Sausais zīmogs
+1026 Skaidrs un oficiāls zīmoga sitiens.
+1027 Komitoloģija
+1028 Neviens nesaprot procedūru. Pat ne mērķis.
+1029 Pārlasīšana
+1030 Pārlasa savu lietu. Krietni palielina Noturību.
+1031 Direktīva
+1032 Saistošs teksts, kas steidzami transponējams.
+1033 Regula
+1034 Tieši piemērojama visās dalībvalstīs.
+1035 Trialogs
+1036 Parlaments, Padome, Komisija: trāpa 2 līdz 5 reizes.
+1037 Steidzamība
+1038 Steidzamības procedūra: rīkojas pirmais.
+1039 Kafijas pauze
+1040 Kafija ēdnīcā. Atjauno pusi no HP.
+1041 Plaģiāts
+1042 Pārkopē pretinieka pēdējo uzbrukumu.
+1043 Gada ziņojums
+1044 Uzkrāj spēku vienu gājienu, tad notriec ar 400 lappusēm.
+1045 Integrācija
+1046 Mazs solis ceļā uz vienmēr ciešāku savienību.
+1047 Subsidiaritāte
+1048 Rīkojas pareizajā līmenī. Palielina Diplomātiju.
+1049 ES Savienotās Valstis
+1050 Lielais federālais sapnis, raidīts ar pilnu spēku.
+1051 Team Europe
+1052 Visi kopā! Solidārs uzbrukums.
+1053 Vienotais tirgus
+1054 Atceļ robežas… un pretinieka Diplomātiju.
+1055 Divpadsmit zvaigznes
+1056 Divpadsmit zelta zvaigznes, kas nekad netrāpa greizi.
+1057 Saraksta vadītājs
+1058 Spitzenkandidat kampaņa. Bieži kritiski trāpījumi.
+1059 Paplašināšanās
+1060 Uzņem jaunus locekļus. Argumentācija +2.
+1061 Bloķē katru uzbrukumu šajā gājienā. Vienprātība ir svēta.
+1062 Robeža
+1063 Atjauno kontroli. Var samazināt Reakciju.
+1064 Opt-out
+1065 Atbrīvojas no kopējiem noteikumiem. Noturība +2.
+1066 Referendums
+1067 Vienkāršs jautājums, sarežģītas sekas.
+1068 7. pants
+1069 Aptur tiesības. Pretinieka Argumentācija -2.
+1070 Pamet kauju… ja sarunas izdodas.
+1071 Atlaide
+1072 “I want my money back!” Atgūst HP.
+1073 Suverenitāte
+1074 Ar troksni atgūst kontroli.
+1075 Konkurence
+1076 Brīva un neizkropļota, bet tas sāp.
+1077 Brīvā tirdzniecība
+1078 Tirdzniecības nolīgums ar nulles nodevām.
+1079 Deregulācija
+1080 Atceļ aizsardzību. Pretinieka Noturība -2.
+1081 Jaunuzņēmums
+1082 Pārrāvumradošs un ātrs. Rīkojas pirmais.
+1083 Nemanāmā roka
+1084 To nevar pamanīt nākam. Nekad netrāpa greizi.
+1085 Tajā pašā laikā
+1086 No labās un kreisās, trāpa 2 līdz 5 reizes.
+1087 Pilēšana no augšas
+1088 Liek eiro pilēt lejup pa laukumu.
+1089 Streiks
+1090 Viss apstājas. Iesaldē mērķa līdzekļus.
+1091 Sociālais pīlārs
+1092 Ciets Eiropas sociālo tiesību pīlārs.
+1093 Minimālā alga
+1094 2022. gada direktīva par pienācīgu atalgojumu.
+1095 Manifestācija
+1096 Plakātu jūra. Var iebiedēt.
+1097 Solidaritāte
+1098 Apvieno pūles. Atjauno pusi no HP.
+1099 Grieķijas “nē” no 2015. gada jūlija. Garantēts atsitiens.
+1100 Erasmus
+1101 Apmaiņa, kas atver prātu. Var palielināt Ekspertīzi.
+1102 Zaļais kurss
+1103 2019. gada Zaļais kurss taisni sejā.
+1104 Pārmežošana
+1105 Pārstāda. Atjauno pusi no HP.
+1106 Karbona nodoklis
+1107 Robežu korekcijas mehānisms. Var samazināt Ekspertīzi.
+1108 Neitralitāte 2050
+1109 Neto nulle emisiju, vienā sitienā.
+1110 Komposts
+1111 Smaržo stipri. Var pakļaut ietekmei.
+1112 Piesietais korķis
+1113 Direktīva 2019/904: korķis vairs neatlaiž mērķi.
+1114 Fit for 55
+1115 -55% emisiju līdz 2030. gadam, un tas sāp.
+1116 Velosipēds
+1117 Ekspresa veloceliņš. Rīkojas pirmais.
+1118 Ogles
+1119 1951. gada EOTK lodes veidā. Var radīt skandālu.
+1120 Tērauds
+1121 Dūre no Eiropas tērauda.
+1122 Augstkrāsns
+1123 Ekstrēms karstums. Var izraisīt skandālu.
+1124 Pārvietošana
+1125 Dodas citur. Var samazināt pretinieka Reakciju.
+1126 Airbus
+1127 Eiropas čempions kritienā.
+1128 Konveijers
+1129 Montāžas konveijers: trāpa 2 līdz 5 reizes.
+1130 Industriālais plāns
+1131 Atjauno ražošanu. Argumentācija +2.
+1132 Dzirkstele
+1133 Mazs īssavienojums. Var iesaldēt līdzekļus.
+1134 Fisija
+1135 Euratom, 1957. Atoma enerģija.
+1136 Vēja turbīna
+1137 Lāpstiņas, kas griežas… un galva arī.
+1138 Gāzes krāns
+1139 Pārtrauc piegādi. Iesaldē līdzekļus.
+1140 REPowerEU
+1141 2022. gada plāns, lai atbrīvotos no atkarības. Ekspertīze +2.
+1142 Pārspriegums
+1143 Brutāla izlāde ar atsitienu.
+1144 Kodolsintēze
+1145 ITER reaktors pilnā jaudā.
+1146 Cenu maksimums
+1147 Nosaka pretiniekam maksimumu. Ekspertīze -2.
+1148 Brīdinājums
+1149 Pirmais oficiālais brīdinājums.
+1150 Pārkāpums
+1151 Jūtama pārkāpuma procedūra.
+1152 ES Tiesas spriedums
+1153 Luksemburga ir lēmusi. Apelācija nav iespējama.
+1154 Miljardu soda nauda. Monētas lidinās visapkārt.
+1155 OLAF izmeklēšana
+1156 Krāpšanas apkarošanas birojs izmeklē. Var bloķēt mērķi.
+1157 VDAR
+1158 Aizsargā datus. Pretinieka Izvairīšanās -2.
+1159 Judikatūra
+1160 Balstās uz precedentiem. Ekspertīze +2.
+1161 DSA
+1162 Digitālo pakalpojumu akts. Var samazināt Ekspertīzi.
+1163 Eiro monēta
+1164 2 eiro monētas mešana. Ciparu vai ģerboni?
+1165 Bāzes likme
+1166 Paceļ likmes. Var piebremzēt mērķi.
+1167 Naudas printeris
+1168 Kvantitatīvā mīkstināšana pēc vēlēšanās.
+1169 Taupība
+1170 Savelciet jostu. Pretinieka Argumentācija -2.
+1171 Whatever it takes
+1172 “Lai maksā, cik maksā” (Dragi, 2012. gada jūlijs). Vienmēr izdodas.
+1173 Inflācija
+1174 Grauž pirktspēju, gājienu pēc gājiena.
+1175 Spreds
+1176 Likmju starpība uzšaujas. Bieži kritiski trāpījumi.
+1177 Atveseļošanas plāns
+1178 NextGenerationEU, 750 mljrd €. Atjauno pusi no HP.
+1179 Traktors
+1180 Bloķē ceļu. Var piebremzēt mērķi.
+1181 KLP
+1182 Kopējā lauksaimniecības politika: atgūst HP.
+1183 Vircas
+1184 Izkliedēts prefektūras priekšā. Var inficēt.
+1185 ACVN
+1186 Aizsargāts nosaukums. Noturība +2.
+1187 Ražas novākšana
+1188 Rekordraža, taisni galvā.
+1189 Glifosāts
+1190 2023. gadā atkal atļauts desmit gadiem. Var saindēt ar ietekmi.
+1191 Izliekts banāns
+1192 1994. gada regula par banānu kvalitāti. Mulsinoši.
+1193 Sīkdatne
+1194 Baneris, ko nevar aizvērt. Iesaldē mērķi.
+1195 Bug
+1196 404 kļūda. Var dezinformēt.
+1197 Algoritms
+1198 Personalizēts ieteikums, ļoti personalizēts.
+1199 USB-C
+1200 Universālais lādētājs, obligāts kopš 2024. gada.
+1201 Fake news
+1202 Virālas baumas. Dezinformē mērķi.
+1203 Roaminga
+1204 Nav vairs roaminga maksas! Rīkojas pirmais.
+1205 MI akts
+1206 Pirmā pasaulē regula par MI (2024. g.).
+1207 Trollošana
+1208 Nepatīkams komentārs. Var sajaukt mērķi.
+1209 Rokasspiediens
+1210 Stingrs un ilgs, fotogrāfu priekšā.
+1211 Sarunas līdz pulksten 5 rītā. Iemidzina mērķi.
+1212 Kompromiss
+1213 Visi zaudē pa drusciņai, tu iegūsti HP.
+1214 Sankcijas
+1215 Jauna sankciju pakete. Var samazināt Diplomātiju.
+1216 Dīvāns
+1217 Sofagate (Ankara, 2021): mērķis zaudē savu gājienu. Tikai 1. gājienā.
+1218 Tulkošana
+1219 Iztulkots 24 valodās. Kaut kas pazūd.
+1220 Vienošanās
+1221 Vēsturiska vienošanās, parakstīta pēdējā brīdī.
+1222 Soft power
+1223 Eiropas šarms. Diplomātija +2.
+1224 Kanapē
+1225 Kokteiļparty Place Lux. Mērķis nonāk ietekmē.
+1226 Čemodāns
+1227 Labi pildīts čemodāns, aizmests ar sparu.
+1228 Naudas maiss
+1229 Banknotes visur. Laukums ir tajās pārklāts.
+1230 Nostājas piezīme
+1231 Pilnībā gatavs grozījums, jau sarakstīts.
+1232 Amatu nomaiņa
+1233 Pāriet uz privāto sektoru. Reakcija +2.
+1234 Ietekme
+1235 Vārds, iečukstēts pareizajā ausī.
+1236 Virpuļojošās durvis
+1237 Vairs nevar saprast, kurš strādā kura labā.
+1238 Sauklis
+1239 Trīs vārdi, nekādu nianses.
+1240 Sarkanais autobuss
+1241 “350 miljoni nedēļā!” Var dezinformēt.
+1242 Megafons
+1243 Kliedz skaļāk par visiem.
+1244 Eiromīts
+1245 Leģenda par Briseli, ļoti pārliecinoša.
+1246 TREMENDOUS
+1247 Labākais sitiens visu laiku. Argumentācija +3.
+1248 Muitas nodevas
+1249 Liberation Day (2025. gada 2. aprīlis). Var samazināt Noturību.
+1250 Ziņa ar lielajiem burtiem
+1251 ZIŅA, KAS PILNĪGI SARAKSTĪTA AR LIELAJIEM BURTIEM.
+1252 Not laughing
+1253 “You're not laughing now!” (2016). Var samazināt Diplomātiju.
+1254 Fiktīva darba vieta
+1255 Darbs, kas neeksistē, bet kas maksā.
+1256 Pazušana
+1257 Kabinetā nav atrodams. Izvairīšanās +2.
+1258 Izdzēsta SMS
+1259 Neviena ziņa nepaliek. Anulē pretinieka bonusus.
+1260 Vajāšana
+1261 Lieta, kas atgriežas vajāt savu autoru.
+1262 Algas lapa
+1263 Alga, kas maksāta par nieku. Atgūst HP.
+1264 Ektoplazma
+1265 Iespaidīga parādīšanās Parlamentā.
+1266 Konstitūcija
+1267 Noraidīta 2005. gadā… bet ar neprātīgu spēku.
+1268 Romas līgums
+1269 1957: EEK dibināšana.
+1270 1992: Savienība un vienotā valūta.
+1271 2007: līgums, kas aizstāja Konstitūciju.
+1272 Retzemju metāli
+1273 Ierobežo eksportu. Var iesaldēt līdzekļus.
+1274 Garais galds
+1275 Pieņem sešu metru galda galā. Izvairīšanās +2.
+1276 Sistēmisks sāncensis
+1277 Partneris, konkurents, sāncensis. Var samazināt Diplomātiju.
+1278 Grenlande
+1279 Mēģina nopirkt veselu salu. Lieli bojājumi.
+1280 Dzimis ar 2019. gada Zaļo kursu. Dzinums izlec katru reizi, kad tiek pieņemta emisiju norma.
+1281 Klimata mērķis
+1282 Tas trenējas, lai līdz 2030. gadam samazinātu emisijas par 55%. Tas skaita katru kaloriju.
+1283 Neitralitāte
+1284 Tas tiecas uz klimata neitralitāti 2050. gadā. Līdz tam tas iestāda koku ar katru soli.
+1285 Maza ogļu kaudzīte no 1951. gada EOTK. Tas ar entuziasmu nomelno visu, kam pieskaras.
+1286 Tā skurstenis izsprauslā dzirksteles, kad tas dusmojas. Tas sapņo par pilnu nodarbinātību.
+1287 Kopējais tērauds
+1288 Kalts no kopīgotām oglēm un tērauda. Tas ir pierādījums, ka mieru var izgatavot.
+1289 Atoms
+1290 Mazs, zinātkārs atoms, dzimis no 1957. gada Euratom līguma. Tas nespēj nosēdēt vietā.
+1291 Reaktors
+1292 Tā elektroni griežas tik ātri, ka tas izgaismo veselu telpu. Taupīgums pēc izvēles.
+1293 Tas šķeļas divās daļās, kad ir sadusmots. Viņš un zaļie vairs viens ar otru nerunā.
+1294 Zīmogs
+1295 Dzīvs zīmogs, kas apstiprina visu, ko sastop. Tas jau apzīmogojis savu paša treneri.
+1296 Parakstu mape
+1297 Tas parafē katru lappusi labajā apakšējā stūrī. Tam nepieciešamas četras stundas par līgumu.
+1298 Ratifikācija
+1299 Tas kustas tikai tad, kad visi 27 valstu parlamenti sacījuši “jā”. Tāpēc tas daudz guļ.
+1300 Tas pavairojas tūkstošos ar katru likumprojektu. Parlaments reizēm saņem 2000 vienā ziņojumā.
+1301 Obstrukcija
+1302 Tas iesniedz tik daudz grozījumu, ka bloķē visu sēdi. Labi iestrādāta tehnika.
+1303 Sīkdatņu baneris
+1304 Tas parādās pie katrām durvīm kopš 2018. gada VDAR. Tā noraidīšana nekad nav pietiekama.
+1305 Piekrišana
+1306 Tas lūdz jūsu piekrišanu visam, tad piekrišanu pašai piekrišanai. Tas ir ļoti pieklājīgs.
+1307 Lādētājs
+1308 Obligāts visām ierīcēm kopš 2024. gada beigām. Tas atstājis bez darba vesela kabeļu atvilktni.
+1309 Korķis
+1310 Tas vairs nepamet savu pudeli kopš 2024. gada jūlija. Tas sit jums pa degunu, kad dzerat.
+1311 Pazudusī salmiņš
+1312 Aizliegts kopš 2021. gada, to uzskatīja par izzudušu. Naktīs tas vajā fastfūdus.
+1313 Banāns
+1314 1994. gada regula nosaka tā kvalitāti. Tas visu mūžu mēra savu izliekumu.
+1315 Roaminga
+1316 Tas ceļo visur bez maksas kopš 2017. gada jūnija. Tas zvana mammai no katras robežas.
+1317 Bez robežām
+1318 Tas apmeklējis visas 27 valstis vienā nedēļas nogalē un publicējis visu tiešraidē. Bez papildu maksas.
+1319 Šis mazais grauzējs dodas uz semestri ārzemēs un atgriežas divvalodīgs. Dzimis 1987. gadā.
+1320 Apmaiņa
+1321 Tas dzīvojis 12 kopmītnēs un gatavo makaronus 9 valodās.
+1322 Monēta
+1323 2 eiro monēta, kas ripo visur kopš 2002. gada. Tai ir 27 iespējamās valstu puses.
+1324 Vienotā valūta
+1325 Divdesmit valstis dalās tā spēkā. Kad viena klepo, citām ir drudzis.
+1326 Brīva aprite
+1327 Dzimis uz kuģa Mozelē 1985. gadā. Neviena robeža to nespēj aizturēt.
+1328 Herbicīds
+1329 2023. gadā atkal atļauts desmit gadiem. Nezāles trīc tā priekšā.
+1330 Durvju tirgonis
+1331 Tas klaiņo pa koridoriem ar portfeli, lielāku par sevi pašu. Tas nelobē, tas “informē”.
+1332 Ietekmētājs
+1333 Tas zina katra Parlamenta palīga numuru. Un viņu alergijas.
+1334 Mega-lobists
+1335 Viens no 25 000 Briseles lobistiem, milzu izmērā. Tas pāraksta likumus, pat guļot.
+1336 Dzelzs lāde
+1337 Dzelzs lāde, kas divpadsmit reizes gadā brauc Brisele–Strasbūra. Tai ir ceļošanas slimība.
+1338 Pārcelšanās
+1339 Tas savā vēderā pārvadā veselu parlamentu. Ceļojuma izmaksas: labāk nejautāt.
+1340 Pulksteņa pārgriešana
+1341 Parlaments 2019. gadā nobalsoja par tā izzušanu. Tomēr tas atgriežas divas reizes gadā.
+1342 Krāpšana
+1343 Tas krāpjas pārbaudēs kopš 2015. gada: tīrs uz stenda, dūmakains uz ceļa.
+1344 Tas kampaņo par priekšsēdētāja posteni… tad tajā vietā ieceļ citu.
+1345 Tulks
+1346 Tas runā 24 valodās, un vienmēr ar divu sekunžu kavēšanos.
+1347 Trīs galvas: Parlaments, Padome, Komisija. Tās vienojas ap pulksten 4 rītā.
+1348 Neviens precīzi nezina, ko tas dara. Tomēr tas sēž 300 komitejās.
+1349 Formulārs
+1350 Formulāru kaudze trīs eksemplāros. Vienmēr kāda lappuse pietrūkst.
+1351 Arhīvs
+1352 Tas glabā visu, pat 1958. gada līmlapiņas. Kārtošana: alfabētiska un emocionāla.
+1353 Mazais zemnieks
+1354 Tas par katru hektāru saņem KLP atbalstu. Tas katru rītu skaita savus hektārus.
+1355 Tas bez ierunām uzsūc trešdaļu Eiropas budžeta. Tas vienmēr ir izsalkis.
+1356 Lauksaimniecības politika
+1357 Kad tas bloķē automaģistrāli ar saviem traktoriem, pat Padome sāk sarunas.
+1358 Tas pie katras reformas apstājas Parlamenta priekšā. Garantēta signāltaure.
+1359 Siers
+1360 Mazs siers no nepasterizēta piena, kas ļoti stipri smaržo. Tas ir lepns par savu izcelsmi.
+1361 Aizsargāts ar cilmes vietas nosaukumu. Katra imitācija tiek iesūdzēta tiesā.
+1362 Pralinē
+1363 Ļoti laipna beļģu šokolāde. Tā kūst, kad to komplimentē.
+1364 Beļģu frī kartupelis
+1365 Cepts divreiz, kā nākas. Tas kategoriski atsakās, ka to sauc “French”.
+1366 Balodis
+1367 Tas dzīvo Luksemburgas laukumā un zog lobistu frī kartupeļus. Tas zina visas tenkas.
+1368 Mazais vīriņš
+1369 Maza, 55 cm augsta statuja, kurai ir vairāk kostīmu nekā visam Parlamentam.
+1370 Atomium
+1371 Deviņas tērauda sfēras, savienotas kristāla formā, kopš Expo 58. Naktī tas mirdz pār Briseli.
+1372 Praktikants
+1373 Tas strādā daudz un netiek apmaksāts. Tas saka, ka tā ir “mācoša pieredze”.
+1374 Pagaidu darbinieks
+1375 Tā līgums beidzas pēc trim mēnešiem. Tas to pagarina jau sešus gadus.
+1376 Tas nokārtojis EPSO konkursu. Tas vairs nebaidās no nekā, izņemot pensiju reformu.
+1377 Sūdzīgais
+1378 Tas ir pret. Nav svarīgi, pret ko, tas ir pret.
+1379 Runātājs
+1380 Tas kāpj uz visiem galdiem, lai kvēli runātu pūlim. Pat ēdnīcā.
+1381 Demagogs
+1382 Tas visiem solī visu. Tā solījumi izgaist rītausmā.
+1383 Nepatiesa ziņa
+1384 Tas maina formu atkarībā no tā, kurš uz to skatās. Tas ir ļoti dalīts.
+1385 Fiktīvs konts
+1386 Mazs robots, kas visu komentē ar lielajiem burtiem. Tas nekad nav gulējis.
+1387 Trolu fabrika
+1388 Desmit tūkstoši kontu vienā kastē. Vēlēšanas to labi pazīst.
+1389 Tas mācās no visa, ko jūs darāt. Tas jau zina, ko jūs tūlīt noķersiet.
+1390 Regulēts MI
+1391 Pirmā pasaulē mākslīgā intelekta regula (2024) to sakārtojusi.
+1392 Tas ik mēnesi nedaudz uzpūšas. Mājsaimniecības to vēro ar modrību.
+1393 Hiperinflācija
+1394 Tik liels, ka nobloķē ielas. ECB ceļ likmes, lai to padarītu tievāku.
+1395 Likmju starpība
+1396 Tas stiepjas ar katru centrālā baņķiera neveiklo paziņojumu.
+1397 Kriptovalūta
+1398 No rīta tā ir bagātību vērta, vakarā — nieka. Tā dievina kalniņus.
+1399 Regulēta kriptovalūta
+1400 MiCA regula to piespiedusi uzvilkt kaklasaiti. Tagad tā ir mierīgāka.
+1401 Budžeta līdzsvars
+1402 Tas nekad netērē nenieka, ne pat savu enerģiju. Tā kliedziens: “Schwarze Null!”
+1403 Troika
+1404 Trīs kaķi: ECB, Komisija, SVF. Tie kopā pārbauda citu kontus.
+1405 Krupis, kas pie katra priekšlikuma kurkst “nē!”. Tam vienam pietiek, lai bloķētu visu.
+1406 Vienprātība
+1407 Tas prasa vienprātību katram lēmumam, tad pats to atsaka.
+1408 Barjera
+1409 Tas atkal parādās, tiklīdz tiek runāts par robežkontroli. Tam ir savs personīgais sargposms.
+1410 Izstāšanās
+1411 Tas 2016. gadā gribēja aizbraukt, 2020. gadā aizbrauca, un reizēm nožēlo. Tas bieži pamet kaujas.
+1412 Apspriešana
+1413 Balsošanas kaste, kas uzdod vienkāršus jautājumus sarežģītām problēmām.
+1414 Apmaksāts no Parlamenta, tas tur nekad nav kāju spēris. Neviens to nekad nav redzējis strādājot.
+1415 Tam ir nozīmīte, līgums un algas lapa. Bet nekāda kabineta.
+1416 2022. gada decembrī atrasts, pilns ar banknotēm, kādā Briseles dzīvoklī.
+1417 Portfelis
+1418 Mazs čemodāns, kas pie Parlamenta kājām pāriet no rokas rokā.
+1419 Cauruļvads
+1420 1200 km garš, zem jūras. Tā krānu kontrolē kāds citi.
+1421 Tā lāpstiņas griežas, tiklīdz uz to pūš. Tas ienīst dienas bez vēja.
+1422 Jūras vēja parks
+1423 Tas dzīvo Ziemeļjūrā un apgādā veselas pilsētas.
+1424 Saules panelis
+1425 Tas guļ naktī un smagi strādā dienā, sevišķi Spānijā.
+1426 Tas neļauj cenām kāpt pārāk augstu. Tam sāp kakls no nemitīgas stumšanas.
+1427 Muitas nodeva
+1428 Tas aplaiko ar nodevu visu, kas garām paiet. Pat nokritušas lapas.
+1429 Tirdzniecības karš
+1430 Tas vicina milzīgu nodevu tabulu. Skaitļi mainās katru rītu.
+1431 Mazs akmentiņš, no kura atkarīgi visi telefoni. Tā eksports tiek uzraudzīts.
+1432 Diplomāts panda
+1433 Uz dažiem gadiem aizdots Eiropas zoodārzam. Tas ēd bambusu un tirdzniecības nolīgumus.
+1434 Saturs nav pieejams
+1435 Šis dzeltenais lācītis nav redzams nevienā reģionā. Tā kartīte ir noņemta.
+1436 Jurists balodis
+1437 Tas ligzdo ES Tiesas torņos Kiršbergā un dūdo latīniski.
+1438 Deklarācija
+1439 Tas skaita priekšā 1950. gada 9. maija deklarāciju katram, kas gatavs klausīties. Tas parādās Eiropas dienā.
+1440 Nobela prēmija
+1441 Medaļa, pasniegta Eiropas Savienībai 2012. gadā. Tā mirdz no lepnuma.
+1442 Smalkais lietus
+1443 Mazs Briseles mākonis. Tas lej lietu virs jums 200 dienas gadā.
+1444 Biznesa pusdienas
+1445 Darba pusdienas, kas ilgst trīs stundas. Tur izlemj vairāk nekā sēdē.
+1446 Tirdzniecības nolīgums
+1447 Tas tiek sarunāts kopš 1999. gada. Kad tas sper soli uz priekšu, traktori to stumj atpakaļ.
+1448 Dzimis 1957. gada 25. martā Kapitolijā. Tas dibinājis Eiropas Ekonomikas kopienu.
+1449 Māstrihtas līgums
+1450 Dzimis Nīderlandē 1992. gadā. Tas radījis Savienību un izsapņojis eiro.
+1451 Lisabonas līgums
+1452 Parakstīts 2007. gadā, tas pārmantojis galveno no konstitūcijas, kas nekad neredzēja dienasgaismu.
+1453 Noraidīts referendumā Francijā un Nīderlandē 2005. gadā. Tas bēg, tiklīdz tam pietuvojas.
+1454 Tas zina tikai vienu uzbrukumu, un tas vienmēr izdodas. Tas izglābis eiro ar vienu teikumu.
+1455 Oficiālais zīmogs
+1456 Apzīmogo novājinātu Euromonu, lai to reģistrētu.
+1457 Superzīmogs
+1458 Stiprinātā tinte. Efektīvāks nekā vienkāršs zīmogs.
+1459 Kvalificētais zīmogs
+1460 Kvalificēts balsu vairākums: ļoti liela izredze noķert.
+1461 Vienprātīgais zīmogs
+1462 Vienprātība! Garantēta noķeršana. Ārkārtīgi rets.
+1463 Ēdnīcas kafija
+1464 Atjauno 20 HP. Remdena, bet efektīva.
+1465 Klubsendvičs
+1466 Atjauno 50 HP. Praktikantu mīļākais.
+1467 Briseles vafele
+1468 Atjauno 120 HP. Pūdercukurs iekļauts.
+1469 Kniddelen
+1470 Luksemburgas specialitāte. Atjauno 200 HP.
+1471 Pilns ēdienkartes komplekts
+1472 Uzkoda, galvēdiens, deserts: atjauno visus HP.
+1473 Juridiskais atzinums
+1474 Ārstē visas statusa problēmas.
+1475 Modinātājs
+1476 Pamodina Euromonu, ko iemidzinājis samits.
+1477 Atjaunošanas priekšlikums
+1478 Atgriež K.O. Euromonu spējā debatēt.
+1479 Vienprātīgā atjaunošana
+1480 Atdzīvina K.O. Euromonu ar visiem tā HP.
+1481 Arodbiedrības pauze
+1482 Atjauno visus Euromona PP.
+1483 Argumentu krājums
+1484 Kaujā: palielina Argumentāciju.
+1485 Pretšķembu veste
+1486 Kaujā: palielina Noturību.
+1487 Eksperta ziņojums
+1488 Kaujā: palielina Ekspertīzi.
+1489 Adresu grāmatiņa
+1490 Kaujā: palielina Diplomātiju.
+1491 Dubultespresso
+1492 Kaujā: palielina Reakciju.
+1493 Nepiesaistīšanas klauzula
+1494 Klauzula pret piesaistīšanu: attur Euromonus 100 soļu attālumā.
+1495 Liek dažiem Euromoniem evolucionēt. Nepieciešami 27 paraksti.
+1496 Liek dažiem energo-Euromoniem evolucionēt.
+1497 USB-C atslēga
+1498 Liek dažiem digitālajiem Euromoniem evolucionēt.
+1499 Euromonu enciklopēdija, Žana Monē dāvana.

@@ -1,0 +1,254 @@
+# Svenska — ids 1500-1751
+1500 Passerkort
+1501 Öppnar parlamentets dörrar. Färg: praktikant.
+1502 OLAF-märke
+1503 Gör det möjligt att se spökassistenterna.
+1504 Europeiskt pass
+1505 Vinrött, 32 sidor, alla gränser öppnas.
+1506 Interrail-kort
+1507 Res med tåg i hela Europa.
+1508 REPowerEU-paket
+1509 För att sätta på värmen igen när gasen är avstängd.
+1510 Konjak
+1511 En dyrbar flaska. Strafftullbelagd sedan 2024…
+1512 Matsalskort
+1513 Saldo: 3,40 €. Räcker till en kaffe.
+1514 Tidsdirektivet
+1515 Direktivet om slopad tidsomställning (2019).
+1516 En koffert från flytten Bryssel–Strasbourg.
+1517 Märkesetui
+1518 Innehåller fördragens märken.
+1519 Hallå, nykomlingen! Här löser vi allt med en debatt. Visa vad du går för!
+1520 Argh… Jag borde ha läst igenom mina sammanfattningar.
+1521 Ha! Gå tillbaka till kopiatorn!
+1522 Rival
+1523 Nå, {P}, ska vi testa våra Euromons? Mine is obviously better.
+1524 What?! Det var tur!
+1525 Easy. Som planerat.
+1526 {P}! Har du redan ett märke? Strunt samma, jag ska få dig att ångra det.
+1527 Not again… Okej, i Frankfurt ska du få se.
+1528 Ha! Luxemburg passar mig.
+1529 Jag har just besökt ECB. Jag förstod allt om penningpolitik. Nästan allt.
+1530 Bloody hell… Du blir verkligen bättre snabbt, {P}.
+1531 Som man säger i City: time is money.
+1532 {P}… det här är vår sista debatt. Sedan åker jag hem till London. För gott. Kom igen, one last time!
+1533 Good game, {P}. Jag går i alla fall med stil.
+1534 Jag går med en seger. Det är något i alla fall.
+1535 {P}! I'm back. Ja… jag ansöker om att komma tillbaka. Rejoin? Men först en debatt för äran!
+1536 Nåja. Jag fyller i medlemsansökan. Den har 35 kapitel…
+1537 Ha! Man blir starkare av att gå ur. Eller inte.
+1538 Jag är också praktikant! Oavlönad, som du. Vi debatterar, det tröstar.
+1539 Nåja… jag går tillbaka och kopierar.
+1540 Stopp! Är din vandringsblankett A-38 stämplad?
+1541 Okej, jag stämplar den. Men i tre exemplar.
+1542 Bonde
+1543 Jordbrukspolitiken är mitt liv! Och min traktor är min familj. Kom igen, vi debatterar!
+1544 Jag får ta upp det med facket…
+1545 Privatbankir
+1546 Välkommen till Luxemburg. Absolut diskretion. Den här debatten har aldrig ägt rum.
+1547 Den här debatten har definitivt aldrig ägt rum.
+1548 Skattejurist
+1549 Ett förhandsbesked i skattefrågor? Jag skriver ett på fem minuter. Men först en debatt.
+1550 Mina upplägg… har kollapsat!
+1551 Arenamästare
+1552 Ah, en ung praktikant! Kom, kom, så jag får klappa dig på kinden. Sedan debatterar vi, som på Eurogruppens gamla goda tid.
+1553 Bravo! Du förtjänar Förhandsbeskedsmärket. Och det här är inte konfidentiellt!
+1554 Kom igen, gör inte en sån min, jag skämtar… till hälften.
+1555 Jag cyklar längs Mosel! Och jag debatterar med roaming, gratis!
+1556 Även utan roamingavgifter förlorade jag allt.
+1557 Analytiker
+1558 Marknaderna räknar med min seger till 87 %.
+1559 Marknaderna hade fel. Som vanligt.
+1560 Vinodlare
+1561 Min crémant har skyddad ursprungsbeteckning. Mina Euromons också. Nästan.
+1562 Nåja, jag bjuder dig på ett glas ändå.
+1563 Köp lågt, sälj högt, debattera hårt!
+1564 Krasch! Jag är på minus!
+1565 Enligt min modell förlorar du. Min modell har aldrig fel. Utom 2008.
+1566 Jag får revidera mina prognoser.
+1567 Arenamästare
+1568 Välkommen till Europeiska centralbanken. Här bestämmer jag räntorna… och debattens takt. Mina attacker beror på dagens styrränta!
+1569 Utmärkt. Du förtjänar Euromärket. Och var lugn: jag är inte här för att minska din spread.
+1570 Prisstabilitet är också segerstabilitet.
+1571 Klimataktivist
+1572 Varje förlorad debatt är en grad till! Kom igen!
+1573 Nåja, det var i alla fall klimatneutralt.
+1574 Exklusivt! ”Praktikant förlorar ynkligt”!
+1575 Jag ändrar rubriken: ”Praktikant vinner ynkligt bra”.
+1576 Vinbonde
+1577 Är Rhen gränsen? Nej, det är vin på båda sidor! Vi skålar efter debatten.
+1578 Skål ändå!
+1579 Jag lade fram 2 000 ändringsförslag i morse. Det första gäller dig.
+1580 Mina ändringsförslag avslås i klump…
+1581 Sessionen hålls i Strasbourg, våra koffertar har kommit, låt oss debattera!
+1582 Jag åker tillbaka till Bryssel. Med mina koffertar.
+1583 Tystnad i plenarsalen! Sammanträdet är öppnat. Jag ger ordet till… dig. Sedan tar jag tillbaka det.
+1584 Antaget! Plenarsalsmärket tilldelas dig med absolut majoritet.
+1585 Sammanträdet är avslutat. Kom tillbaka till nästa session.
+1586 Skuld är som moussaka: svår att smälta.
+1587 OXI till den här förlusten!
+1588 Revision av räkenskaperna! Dina Euromons spenderar för mycket.
+1589 Revisionsrapport: negativ.
+1590 Internationella valutafonden rekommenderar… din förlust.
+1591 Revidering av våra prognoser: nedåt.
+1592 Jag kom på motorcykel, utan slips. Som 2015 inför Eurogruppen. Vi debatterar, och vi röstar: OXI eller NAI?
+1593 OXI… förlåt, NAI: du vann. Ta OXI-märket, kamrat.
+1594 Folket har talat. Och folket är jag.
+1595 Kvällstidning
+1596 FÖRSTASIDAN: ”Bryssel vill förbjuda krokiga bananer”! Är det falskt? Strunt samma, det säljer.
+1597 I morgon på förstasidan: ”Historisk förlust”.
+1598 Fd premiärminister
+1599 Hello! Jag var korrespondent i Bryssel, vet du. Jag skrev en hel del… mer eller mindre sant. Get debate done!
+1600 Crikey. Nåja, jag hade en annan artikel om raka gurkor ändå.
+1601 Nu skrattar du inte längre, va? Välkommen till puben. En debatt, en pint och artikel 50.
+1602 Nåja. Ta Artikel 50-märket. Vi behöver det inte längre.
+1603 Take back control! Över debatten i alla fall.
+1604 Gränsvakt
+1605 Kontroll! Har din Euromon visum?
+1606 Passera. Men jag antecknar det.
+1607 Rådgivare
+1608 Premiärministern tar inte emot någon. Utom dem som slår mig. Och det händer aldrig.
+1609 Nu hände det.
+1610 Vill du ha mitt medgivande? Enhällighet krävs. Och jag håller aldrig med. Se upp: jag kan lägga in VETO varje tur.
+1611 Nåja… Jag går ut och tar en kaffe. Under tiden kan du ta det här Vetomärket. Officiellt lade jag ner min röst.
+1612 Veto! Veto! Och veto igen!
+1613 Team Lobby
+1614 Har du inget passerkort? Vad bra, det har inte vi heller.
+1615 Jag måste anmäla det här mötet i öppenhetsregistret…
+1616 Vår algoritm förutsåg din förlust. Acceptera cookies?
+1617 Fel 403: förlust.
+1618 En liten väska för din röst? Nej? Då en debatt.
+1619 Jag har aldrig gett någon något. Anteckna det.
+1620 Team Lobbys chef
+1621 Välkommen till maktens hjärta, praktikant. Här skriver vi inte lagar: vi ”föreslår” dem. Och du ska skriva under mitt förslag.
+1622 Omöjligt… En simpel, oavlönad praktikant… har besegrat lobbyn. Jag drar mig tillbaka. Till privata sektorn. Åh, där är jag redan.
+1623 Tack för ditt bidrag till vårt offentliga samråd.
+1624 Advokat
+1625 Min klient bestrider bötesbeloppet på 4,34 miljarder. Och den här debatten.
+1626 Vi kommer att överklaga.
+1627 Jurist
+1628 Missbruk av dominerande ställning? Jag? Jag är bara dominerande.
+1629 Böterna godtas…
+1630 Google, Apple… jag har utdömt miljardböter. Följer ditt lag konkurrensreglerna? Vi kontrollerar.
+1631 Inget missbruk av dominerande ställning upptäckt. Bötesmärket är ditt.
+1632 Böter! 4 % av din omsättning.
+1633 Buu… Jag jobbar här… sedan 2009… ja, på papperet…
+1634 Jag återvänder… till mitt… fejkade kontrakt…
+1635 Fejkjobbens ande
+1636 JAG ÄR… SUMMAN AV ALLA KONTRAKT SOM ALDRIG HAFT ETT KONTOR…
+1637 Mina… lönebesked… försvinner…
+1638 Hög tjänsteman
+1639 Jag har gått ENA. Ja, INSP. Kort sagt, jag vet allt.
+1640 Jag ska skriva en PM om det här misslyckandet.
+1641 Minister
+1642 Jag har varit minister sedan… i morse. Vi debatterar före nästa ommöblering.
+1643 Ommöblerad!
+1644 Välkommen till Sorbonne! Här talade jag om ett suveränt Europa 2017… och 2024. Jag ska tala med dig i två timmar. Och samtidigt debattera.
+1645 Fantastiskt! Du förkroppsligar strategisk autonomi. Ta Sorbonnemärket… och samtidigt mina gratulationer.
+1646 Jag upplöser… ditt lag!
+1647 Europeiska rådet
+1648 Wir schaffen das. Tillsammans klarar vi det. Men först måste du slå mig. Ta god tid på dig: jag har sexton års erfarenhet.
+1649 Du klarade det. Wir haben es geschafft.
+1650 Jag ska göra allt som krävs för att vinna den här debatten. Whatever it takes. Och tro mig: det kommer att räcka.
+1651 Min rapport rekommenderade 800 miljarder i investeringar per år. Investera dem i ditt lag.
+1652 Hög representant för utrikesfrågor. Min diplomati är bestämd. Min baltiska sköld också.
+1653 En klar seger. Europa kommer att behöva människor som du inför resten av världen.
+1654 Europeiska rådets ordförande
+1655 Klockan är 23.59. Mitt mål: att avsluta toppmötet före midnatt. För första gången i historien!
+1656 Klockan är… 4.37 på morgonen. Som vanligt. Bravo, du får gå upp till Berlaymont.
+1657 Kommissionens ordförande
+1658 Välkommen till Berlaymonts trettonde våning. Jag bor här, vet du: jag har ett rum bredvid mitt kontor. Så, låt oss se om du förtjänar direktivet.
+1659 Team Europe… Du är den bästa praktikant kommissionen någonsin har haft. Tidsdirektivet är ditt!
+1660 Jag skickar ett sms till dig. Eller kanske inte.
+1661 Vicepresident
+1662 Jag kom till München för att förklara demokrati för er. Nu kommer jag till Antwerpen för att förklara debatt för er.
+1663 Nåja. Jag går tillbaka och skriver ett tal.
+1664 USA:s president
+1665 TREMENDOUS! Den vackraste debatten genom tiderna, alla säger det. Jag lägger 200 % tull på dina Euromons. Kanske 15. Vi får se.
+1666 DET VAR RIGGAT! Nåja… vi gör en deal. 15 %. Det är mitt sista ord. För i dag.
+1667 Jag vann! Som alltid! Ingen vinner bättre än jag.
+1668 Rysslands president
+1669 Sätt dig. Nej, längre bort. Ännu längre. Så. På sex meters avstånd blir samtalet mer… strategiskt. Dina attacker tar en tur på sig att komma fram.
+1670 Gasen… är avstängd… på min sida. Intressant.
+1671 Vintern kommer. För dig.
+1672 Kinas president
+1673 Välkommen. Vi är partner. Och konkurrenter. Och systemrivaler. Det beror på turen.
+1674 Hmm. En partner att respektera. Jag lyfter kontrollerna av sällsynta jordartsmetaller… tills vidare.
+1675 Innehållet är inte tillgängligt i din region.
+1676 G-Allt-toppmötet
+1677 JAG FÖRST. Toppmötet är min idé. Tror jag.
+1678 Sad!
+1679 Jag föredrog det långa bordet.
+1680 Sista ordet blir… systemiskt.
+1681 Vi pratar igen om femtio år.
+1682 Antwerpens hamn – Frihetsgolfen
+1683 Aten – Plaka
+1684 Berlaymont – 13:e våningen
+1685 Butik – Aten
+1686 Butik – Budapest
+1687 Butik – Bryssel
+1688 Butik – Frankfurt
+1689 Butik – London
+1690 Butik – Luxemburg
+1691 Butik – Paris
+1692 Butik – Strasbourg
+1693 Bryssel – EU-kvarteret
+1694 Budapest – Donaus strand
+1695 Matsal – Aten
+1696 Matsal – Budapest
+1697 Matsal – Bryssel
+1698 Matsal – Frankfurt
+1699 Matsal – London
+1700 Matsal – Luxemburg
+1701 Matsal – Paris
+1702 Matsal – Strasbourg
+1703 EU-domstolen
+1704 Europabyggnaden – Europeiska rådet
+1705 Frankfurt – Bankkvarteret
+1706 Station – Antwerpen
+1707 Station – Aten
+1708 Station – Budapest
+1709 Station – Bryssel-Luxemburg
+1710 Station – Frankfurt
+1711 Station – Lissabon
+1712 Station – London
+1713 Station – Luxemburg
+1714 Station – Maastricht
+1715 Station – Paris
+1716 Station – Rom
+1717 Station – Strasbourg
+1718 Station – Warszawa
+1719 Atens arena – Amfiteatern
+1720 ECB-tornet – Handelsrummet
+1721 Országház – Vetosalen
+1722 GD Konkurrens – Arenan
+1723 Plenarsalen – Plenarsession
+1724 The Brexit Arms – Pubarenan
+1725 Luxemburgs arena – Förhandsbeskedssalen
+1726 Sorbonnes stora amfiteater
+1727 Lissabon – Jerónimosklostret
+1728 Team Lobbys högkvarter – Källaren
+1729 London – Westminster
+1730 Luxemburg – Kirchbergplatån
+1731 Maastricht – Vid Maas
+1732 Hus – Frankfurt
+1733 Hus – Luxemburg
+1734 Hus – Strasbourg
+1735 Paris – Latinkvarteret
+1736 Europaparlamentet – Entréhallen
+1737 Pireus hamn – Containerterminalen
+1738 Place Lux – Cocktailen
+1739 Rom – Kapitolium
+1740 Väg 1 – Ardennerskogen
+1741 Väg 2 – Moseldalen
+1742 Väg 3 – Rhens vingårdar
+1743 Palatset – Det långa bordet
+1744 Schengen – Vid Mosel
+1745 ”G-Allt”-toppmötet – Plenarsalen
+1746 Strasbourg – EU-kvarteret
+1747 Din etta (Ixelles)
+1748 Parlamentet – Spökflygeln, 1:a våningen
+1749 Parlamentet – Spökflygeln, 2:a våningen
+1750 Parlamentet – Spökflygeln, 3:e våningen
+1751 Warszawa – Östra slätten
+1752 Hus – Maastricht

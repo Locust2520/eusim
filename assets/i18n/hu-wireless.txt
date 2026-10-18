@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Online
+2165	Internet nélkül
+2166	Helyi játék létrehozása
+2167	Csatlakozás helyi játékhoz
+2156	Közeli játékok
+2158	Router és szerver nélkül.
+2159	A Wi-Fi-mód váltásához indítsd újra a játékot.
+2163	DS-mód: nyílt/WEP-hálózat. WPA2-höz indítsd a játékot DSi-módban.
+2162	DSi Wi-Fi: ellenőrizd a WPA2-hálózatot és a konzol beállításait.
+2160	DSi Wi-Fi csatlakozás… B: mégse
+2161	DS Wi-Fi csatlakozás… B: mégse
+2154	A konzol nem válaszol.

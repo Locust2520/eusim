@@ -1,0 +1,67 @@
+; Ode à la joie (Beethoven, domaine public) — arrangement chiptune EU Simulator
+#tempo 126
+#instr lead env=110,120,118,112,106,100,96,92 loop=7 rel=6 duty=2 vib=14,5,5
+#instr lead2 env=96,100,96,90,84,80 loop=5 rel=8 duty=1 vib=18,4,5
+#instr harm env=70,64,58,54,50,48 loop=5 rel=6 duty=1
+#instr arp env=60,56,52,48 loop=3 rel=8 duty=3 arp=0,4,7
+#instr bass env=127,120,112,104 loop=3 rel=10 wave=0
+#instr kick env=127,90,50,20,0 rel=40 duty=0
+#instr snare env=110,80,50,30,15,0 rel=30
+#instr hat env=50,20,0 rel=50
+#track square 8
+; melody
+@lead v108 q92 o5 l4
+r1 r1
+L
+[ e e f g | g f e d | c c d e | e. d8 d2 |
+  e e f g | g f e d | c c d e | d. c8 c2 |
+  d d e c | d e8 f8 e c | d e8 f8 e d | c d < g2 > |
+  e e f g | g f e d | c c d e | d. c8 c2 ]2
+@lead2 o5
+d d e c | d e8 f8 e c | d e8 f8 e d | c d < g > e |
+e e f g | g f e d | c c d e | d. c8 c2 |
+r1 r1
+#track square 9
+; harmony (thirds/sixths)
+@harm v80 q88 o4 l4
+r1 r1
+L
+[ c c d e | e d c < b > | < a a b > c | c. < b8 b2 > |
+  c c d e | e d c < b > | < a a b > c | < b. a8 a2 > |
+  < b b > c < a | b > c8 d8 c < a | b > c8 d8 c < b | a b g2 > |
+  c c d e | e d c < b > | < a a b > c | < b. a8 a2 > ]2
+< b b > c < a | b > c8 d8 c < a | b > c8 d8 c < b | a b g > c |
+c c d e | e d c < b > | < a a b > c | < b. a8 a2 > |
+r1 r1
+#track square 10
+; arpeggiated chords
+@arp v60 q80 o4 l8
+[ c c c c c c c c ]2
+L
+[ c c c c c c c c | < g g g g g g g g > | c c c c c c c c | < g g g g g g g g > |
+  c c c c c c c c | < g g g g g g g g > | c c c c c c c c | < g g g g > c c c c
+  < g g g g g g g g | g g g g g g g g | g g g g g g g g | > c c c c < g g g g > |
+  c c c c c c c c | < g g g g g g g g > | c c c c c c c c | < g g g g > c c c c ]2
+< g g g g g g g g | g g g g g g g g | g g g g g g g g | > c c c c < g g g g > |
+c c c c c c c c | < g g g g g g g g > | c c c c c c c c | < g g g g > c c c c |
+c1 r1
+#track wave 0
+; bass
+@bass v118 q70 o3 l4
+c < g > c < g > | c < g > c < g >
+L
+[ c < g > c < g > | < g > d < g > d | c < g > c e | < g > d < g2 > |
+    c < g > c < g > | < g > d < g > d | c < g > c e | < g > d c2 |
+  < g > d < g > d | < g > d < g > d | < g > d < g > d | c e < g2 > |
+  c < g > c < g > | < g > d < g > d | c < g > c e | < g > d c2 ]2
+< g > d < g > d | < g > d < g > d | < g > d < g > d | c e < g2 > |
+c < g > c < g > | < g > d < g > d | c < g > c e | < g > d c2 |
+c1 r1
+#track noise 14
+; drums
+v90 q50 l8
+r1 r1
+L
+[ @kick o6 c @hat o8 c @snare o7 c @hat o8 c @kick o6 c @kick o6 c @snare o7 c @hat o8 c ]32
+[ @kick o6 c @hat o8 c @snare o7 c @hat o8 c @kick o6 c @kick o6 c @snare o7 c @snare o7 c ]8
+r1 r1

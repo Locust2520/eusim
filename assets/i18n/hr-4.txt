@@ -1,0 +1,254 @@
+# Hrvatski — ids 1500-1751
+1500 Pristupna značka
+1501 Otvara vrata Parlamenta. Boja: pripravnik.
+1502 OLAF značka
+1503 Omogućuje viđenje fantomskih pomoćnika.
+1504 Europska putovnica
+1505 Bordo boje, 32 stranice, sve se granice otvaraju.
+1506 Interrail propusnica
+1507 Putujte vlakom po cijeloj Europi.
+1508 REPowerEU komplet
+1509 Za ponovno paljenje grijanja kad je plin isključen.
+1510 Konjak
+1511 Vrijedna boca. Dodatno oporezovana od 2024…
+1512 Kantinska kartica
+1513 Kredit: 3,40 €. Dovoljno za kavu.
+1514 Direktiva o vremenu
+1515 Direktiva o ukidanju promjene vremena (2019.).
+1516 Kovčeg iz preseljenja Bruxelles–Strasbourg.
+1517 Futrola za značke
+1518 Sadrži značke ugovora.
+1519 Hej, novajlija! Ovdje se sve rješava debatom. Pokaži mi što vrijediš!
+1520 Argh… Trebao sam ponovno pročitati svoje sažetke.
+1521 Ha! Vrati se fotokopirnom uređaju!
+1522 Rival
+1523 Dakle, {P}, testiramo naše Euromone? Mine is obviously better.
+1524 What?! To je bila sreća!
+1525 Easy. Kao što se očekivalo.
+1526 {P}! Već imaš značku? Nema veze, učinit ću da zažališ.
+1527 Not again… Dobro, u Frankfurtu, vidjet ćeš.
+1528 Ha! Luksemburg mi ide od ruke.
+1529 Upravo sam posjetio ESB. Sve sam razumio o monetarnoj politici. Skoro sve.
+1530 Bloody hell… Stvarno brzo napreduješ, {P}.
+1531 Kao što kažu u Cityju: time is money.
+1532 {P}… ovo je naša posljednja debata. Poslije, vraćam se u London. Zauvijek. Hajde, one last time!
+1533 Good game, {P}. Barem odlazim s elegancijom.
+1534 Odlazim s pobjedom. To je nešto.
+1535 {P}! I'm back. Pa… molim da se vratim. Rejoin? Ali prvo, debata za čast!
+1536 Dobro. Popunjavam obrazac za pristupanje. Ima 35 poglavlja…
+1537 Ha! Pa, izlazak čini jačim. Ili ne.
+1538 I ja sam pripravnica! Neplaćena, kao ti. Debatirajmo, to tješi.
+1539 Dobro… vraćam se fotokopiranju.
+1540 Stop! Je li vaš obrazac za pohod A-38 ovjeren?
+1541 Dobro, ovjeravam ga. Ali u tri primjerka.
+1542 Poljoprivrednik
+1543 PAC je moj život! A moj traktor, moja obitelj. Hajde, debatiramo!
+1544 Morat ću o tome razgovarati sa sindikatom…
+1545 Privatni bankar
+1546 Dobrodošli u Luksemburg. Apsolutna diskrecija. Ova debata se nikad nije dogodila.
+1547 Ova debata se definitivno nikad nije dogodila.
+1548 Porezni savjetnik
+1549 Porezno rješenje? Napišem vam ga za pet minuta. Ali prvo, debata.
+1550 Moje konstrukcije… srušene!
+1551 Prvak arene
+1552 Ah, mladi pripravnik! Dođi, dođi, da te potapšam po obrazu. Pa debatiramo, kao u dobra stara vremena Eurogrupe.
+1553 Bravo! Zaslužuješ Značku rješenja. I to nije povjerljivo!
+1554 Hajde, ne pravi tu facu, šalim se… napola.
+1555 Prelazim Moselu biciklom! I debatiram u roamingu, besplatno!
+1556 Čak i bez naknada za roaming, sve sam izgubio.
+1557 Analitičar
+1558 Tržišta očekuju moju pobjedu sa 87 %.
+1559 Tržišta su se prevarila. Kao i obično.
+1560 Vinogradar
+1561 Moj kremant je ZOI. Moji Euromoni također. Ili skoro.
+1562 Dobro, ipak vas častim pićem.
+1563 Kupi nisko, prodaj visoko, debatiraj jako!
+1564 Krah! Ja sam na minusu!
+1565 Prema mom modelu, gubite. Moj model nikad nije u krivu. Osim 2008.
+1566 Morat ću revidirati svoje prognoze.
+1567 Prvakinja arene
+1568 Dobrodošli u Europsku središnju banku. Ovdje određujem kamate… i ritam debate. Moji napadi ovise o referentnoj stopi dana!
+1569 Izvanredno. Zaslužujete Značku eura. I budite sigurni: nisam ovdje da smanjim vaš spread.
+1570 Stabilnost cijena je i stabilnost pobjeda.
+1571 Klimatska aktivistica
+1572 Svaka izgubljena debata je jedan stupanj više! Hajde!
+1573 Dobro, bar je bilo ugljično neutralno.
+1574 Ekskluziva! „Pripravnik jadno gubi”!
+1575 Mijenjam naslov: „Pripravnik jadno dobro pobjeđuje”.
+1576 Vinogradar
+1577 Rajna je granica? Ne, to je vino s obje strane! Kucnemo se čašama nakon debate.
+1578 Živjeli, u svakom slučaju!
+1579 Podnio sam 2000 amandmana jutros. Prvi se odnosi na vas.
+1580 Moji amandmani su odbačeni u bloku…
+1581 Sjednica je u Strasbourgu, naši kovčezi su stigli, debatirajmo!
+1582 Vraćam se u Bruxelles. Sa svojim kovčezima.
+1583 Tišina u hemiciklu! Sjednica je otvorena. Dajem riječ… vama. Pa vam je oduzimam.
+1584 Usvojeno! Značka hemicikla vam je dodijeljena apsolutnom većinom.
+1585 Sjednica je zaključena. Vratite se na sljedeću sjednicu.
+1586 Dug je kao musaka: teško se probavlja.
+1587 OXI ovom porazu!
+1588 Inspekcija računa! Vaši Euromoni previše troše.
+1589 Izvještaj inspekcije: negativan.
+1590 Međunarodni monetarni fond preporučuje… vaš poraz.
+1591 Revizija naših prognoza: na niže.
+1592 Stigao sam na motoru, bez kravate. Kao 2015. pred Eurogrupom. Debatiramo, i glasamo: OXI ili NAI?
+1593 OXI… pardon, NAI: pobijedio/pobijedila si. Uzmi Značku OXI, druže.
+1594 Narod je govorio. A narod, to sam ja.
+1595 Tabloid
+1596 NASLOVNICA: „Bruxelles želi zabraniti zakrivljene banane”! Nije istina? Nema veze, prodaje se.
+1597 Sutra na naslovnici: „Povijesni poraz”.
+1598 Bivši premijer
+1599 Hello! Bio sam dopisnik u Bruxellesu, znate. Napisao sam stvari… više ili manje istinite. Get debate done!
+1600 Crikey. Dobro, imao sam drugi članak o ravnim krastavcima, u svakom slučaju.
+1601 Ne smijete se više sad, ha? Dobrodošli u pub. Jedna debata, jedna pinta, i Članak 50.
+1602 Dobro. Uzmite Značku članka 50. Nama ona više ne treba.
+1603 Take back control! Debate, u svakom slučaju.
+1604 Granični čuvar
+1605 Kontrola! Ima li vaš Euromon vizu?
+1606 Prođite. Ali zabilježit ću to.
+1607 Savjetnik
+1608 Premijer ne prima nikoga. Osim onih koji me pobijede. A to se nikad ne dogodi.
+1609 Upravo se dogodilo.
+1610 Želite moj pristanak? Potrebna je jednoglasnost. A ja se nikad ne slažem. Pažnja: mogu staviti svoj VETO u svakom krugu.
+1611 Dobro… Idem na kavu. U međuvremenu, uzmite ovu Značku veta. Službeno, suzdržao sam se.
+1612 Veto! Veto! I opet veto!
+1613 Team Lobby
+1614 Nemate pristupnu značku? Baš zgodno, ni mi.
+1615 Morat ću prijaviti ovaj susret u registar transparentnosti…
+1616 Naš algoritam je predvidio vaš poraz. Prihvatiti cookiese?
+1617 Greška 403: poraz.
+1618 Mali kovčeg za vaš glas? Ne? Onda debata.
+1619 Nikad nisam ništa dao nikome. Zabilježite to.
+1620 Šef Team Lobbyja
+1621 Dobrodošao u srce moći, pripravniče. Ovdje se zakoni ne pišu: oni se „predlažu”. A ti ćeš potpisati moj prijedlog.
+1622 Nemoguće… Običan pripravnik, neplaćen… pobijedio je lobi. Povlačim se. U privatni sektor. Ah, već sam tamo.
+1623 Hvala na ovom doprinosu našem javnom savjetovanju.
+1624 Odvjetnik
+1625 Moj klijent osporava kaznu od 4,34 milijarde. I ovu debatu.
+1626 Uložit ćemo žalbu.
+1627 Pravnik
+1628 Zloupotreba dominantnog položaja? Ja? Ja sam samo dominantan.
+1629 Kazna prihvaćena…
+1630 Google, Apple… izrekla sam milijarde kazni. Poštuje li vaša ekipa pravila tržišnog natjecanja? Provjerimo.
+1631 Nije utvrđena zloupotreba dominantnog položaja. Značka kazne je vaša.
+1632 Kazna! 4 % vašeg prihoda.
+1633 Huu… Radim ovdje… od 2009… pa, na papiru…
+1634 Vraćam se… svom ugovoru… fiktivnom…
+1635 Duh fiktivnih zaposlenja
+1636 JA SAM… ZBROJ SVIH UGOVORA KOJI NIKAD NISU IMALI URED…
+1637 Moje… platne liste… brišu se…
+1638 Visoki dužnosnik
+1639 Završio sam ENA-u. Pa, INSP. Ukratko, znam sve.
+1640 Napisat ću bilješku o ovom neuspjehu.
+1641 Ministar
+1642 Ministar sam od… jutros. Debatirajmo prije sljedeće rekonstrukcije vlade.
+1643 Smijenjen!
+1644 Dobrodošli na Sorbonu! Ovdje sam govorio o suverenoj Europi 2017… i 2024. Govorit ću vam dva sata. I istovremeno, debatirati.
+1645 Izvanredno! Vi ste utjelovljenje strateške autonomije. Uzmite Značku Sorbone… i istovremeno, moje čestitke.
+1646 Raspuštam… vašu ekipu!
+1647 Europsko vijeće
+1648 Wir schaffen das. Zajedno ćemo uspjeti. Ali prvo, morate me pobijediti. Uzmite vremena: imam šesnaest godina iskustva.
+1649 Uspjeli ste. Wir haben es geschafft.
+1650 Učinit ću sve što je potrebno da pobijedim ovu debatu. Whatever it takes. I vjerujte mi: to će biti dovoljno.
+1651 Moje izvješće preporučilo je 800 milijardi ulaganja godišnje. Uložite ih u svoju ekipu.
+1652 Visoka predstavnica za vanjske poslove. Moja diplomacija je čvrsta. Moj baltički štit, također.
+1653 Jasna pobjeda. Europi će trebati ljudi kao vi pred ostatkom svijeta.
+1654 Predsjednik Europskog vijeća
+1655 23:59 je. Moj cilj: završiti ovaj samit prije ponoći. Prvi put u povijesti!
+1656 Sad je… 4:37 ujutro. Kao i obično. Bravo, možete se uspeti u Berlaymont.
+1657 Predsjednica Komisije
+1658 Dobrodošli na trinaesti kat Berlaymonta. Ja živim ovdje, znate: imam sobu pokraj svog ureda. Dakle, vidimo zaslužujete li direktivu.
+1659 Team Europe… Vi ste najbolji pripravnik kojeg je Komisija ikad imala. Direktiva o vremenu je vaša!
+1660 Poslat ću vam SMS. Ili možda neću.
+1661 Potpredsjednik
+1662 Došao sam u München objasniti vam demokraciju. Sad dolazim u Antwerpen objasniti vam debatu.
+1663 Dobro. Vraćam se pisanju govora.
+1664 Američki predsjednik
+1665 TREMENDOUS! Najbolja debata svih vremena, svi to kažu. Stavljam 200 % carine na vaše Euromone. Možda 15. Vidjet ćemo.
+1666 BILO JE NAMJEŠTENO! Dobro… dogovorimo se. 15 %. To je moja posljednja riječ. Za danas.
+1667 Pobijedio sam! Kao i uvijek! Nitko ne pobjeđuje bolje od mene.
+1668 Ruski predsjednik
+1669 Sjednite. Ne, dalje. Još dalje. Tako. Na šest metara, razgovor je… strateškiji. Vašim napadima treba jedan krug da stignu.
+1670 Plin… je isključen… s moje strane. Interesantno.
+1671 Zima dolazi. Za vas.
+1672 Kineski predsjednik
+1673 Dobrodošli. Mi smo partneri. I konkurenti. I sistemski rivali. Sve ovisi o krugu.
+1674 Hmm. Partner kojeg treba poštovati. Povlačim kontrole na rijetkim zemnim metalima… zasad.
+1675 Sadržaj nedostupan u vašoj regiji.
+1676 Samit G-Sve
+1677 JA PRVI. Samit je moja ideja. Pa, mislim da jest.
+1678 Sad!
+1679 Volio sam više dugi stol.
+1680 Posljednja riječ bit će… sistemska.
+1681 Razgovarat ćemo opet za pedeset godina.
+1682 Luka Antwerpen – Golf slobode
+1683 Atena – Plaka
+1684 Berlaymont – 13. kat
+1685 Trgovina – Atena
+1686 Trgovina – Budimpešta
+1687 Trgovina – Bruxelles
+1688 Trgovina – Frankfurt
+1689 Trgovina – London
+1690 Trgovina – Luksemburg
+1691 Trgovina – Pariz
+1692 Trgovina – Strasbourg
+1693 Bruxelles – Europska četvrt
+1694 Budimpešta – Obale Dunava
+1695 Kantina – Atena
+1696 Kantina – Budimpešta
+1697 Kantina – Bruxelles
+1698 Kantina – Frankfurt
+1699 Kantina – London
+1700 Kantina – Luksemburg
+1701 Kantina – Pariz
+1702 Kantina – Strasbourg
+1703 Sud Europske unije
+1704 Zgrada Europa – Europsko vijeće
+1705 Frankfurt – Bankarska četvrt
+1706 Kolodvor – Antwerpen
+1707 Kolodvor – Atena
+1708 Kolodvor – Budimpešta
+1709 Kolodvor – Bruxelles-Luksemburg
+1710 Kolodvor – Frankfurt
+1711 Kolodvor – Lisabon
+1712 Kolodvor – London
+1713 Kolodvor – Luksemburg
+1714 Kolodvor – Maastricht
+1715 Kolodvor – Pariz
+1716 Kolodvor – Rim
+1717 Kolodvor – Strasbourg
+1718 Kolodvor – Varšava
+1719 Arena u Ateni – Amfiteatar
+1720 Toranj ESB-a – Dvorana tržišta
+1721 Országház – Dvorana veta
+1722 DG za tržišno natjecanje – Arena
+1723 Hemicikl – Plenarna sjednica
+1724 The Brexit Arms – Pub-arena
+1725 Arena u Luksemburgu – Dvorana rješenja
+1726 Veliki amfiteatar Sorbone
+1727 Lisabon – Samostan Jerónimos
+1728 Stožer Team Lobbyja – Podrum
+1729 London – Westminster
+1730 Luksemburg – Plato Kirchberg
+1731 Maastricht – Obale Meuse
+1732 Kuća – Frankfurt
+1733 Kuća – Luksemburg
+1734 Kuća – Strasbourg
+1735 Pariz – Latinska četvrt
+1736 Europski parlament – Predvorje
+1737 Luka Pirej – Kontejnerski terminal
+1738 Place Lux – Koktel
+1739 Rim – Kapitol
+1740 Ruta 1 – Šuma Ardeni
+1741 Ruta 2 – Dolina Mosele
+1742 Ruta 3 – Vinogradi na Rajni
+1743 Palača – Dugi stol
+1744 Schengen – Obale Mosele
+1745 Samit „G-Sve” – Plenarna dvorana
+1746 Strasbourg – Europska četvrt
+1747 Tvoj studio (Ixelles)
+1748 Parlament – Fantomsko krilo, 1. kat
+1749 Parlament – Fantomsko krilo, 2. kat
+1750 Parlament – Fantomsko krilo, 3. kat
+1751 Varšava – Istočna ravnica
+1752 Kuća – Maastricht

@@ -1,0 +1,44 @@
+# Czech — completion
+269 Euro
+271 OXI
+273 Veto
+275 Sorbonne
+388 Maastricht
+1754 Titulní obrazovka
+1755 Profesor Schuman
+1756 Laboratoř
+1758 Tvůj byt
+1761 Kantýna
+1763 Obchod
+1764 Nádraží
+1766 Na cestě
+1767 Boj: divoký Euromon
+1768 Oční kontakt
+1769 Boj: trenér
+1771 Boj: Oliver
+1773 Vítězství
+1774 Vítězství (divoký)
+1775 Vítězství (trenér)
+1776 Evoluce
+1778 Aréna
+1780 Boj: aréna
+1782 Boj: vedoucí arény
+1784 Schengen
+1789 Na shledanou, Oliver
+1791 Team Lobby
+1792 Boj: boss
+1794 Strašidelné křídlo
+1797 Evropská rada
+1799 Boj: Rada
+1802 Boj: předsedkyně
+1804 Boj: velmoci
+1807 Závěrečný boj
+1809 Legendární místa
+1810 Boj: legendární
+1812 Závěrečný boj (varianta)
+1813 Jukebox
+1814 %d skladeb z %d
+1815 Vyber skladbu.
+1816 JUKEBOX
+1817 A: poslouchat    B: zpět
+1818 Starý jukebox, odpojený. Cedulka: „Znovu zapojit po vašem prvním odznaku. — Technická služba“

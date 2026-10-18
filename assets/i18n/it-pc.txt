@@ -1,0 +1,157 @@
+# Italiano — computer mini-games
+1928 Prince Mbeki III
+1929 Eredità di 4 M€ da condividere
+1930 Lobby del diesel
+1931 Invito: cena a base di astice
+1932 Risorse Umane
+1933 Riunione di coordinamento sulle riunioni
+1934 SuperPromo
+1935 Il tuo telefono gratuito ti aspetta
+1936 Qatar Events
+1937 Una valigetta per te?
+1938 BancaSicura
+1939 Conferma qui la tua password
+1940 Newsletter
+1941 47 novità entusiasmanti sul GDPR
+1942 Ordine del giorno della plenaria
+1943 Mamma
+1944 Mangi bene a Bruxelles?
+1945 Mensa
+1946 Menù del giorno: waterzooi
+1947 Cancelleria della Corte
+1948 Sentenza da notificare entro mezzogiorno
+1949 Commissione
+1950 Voto di bilancio domani
+1951 Il tuo Eurodex è stato aggiornato
+1952 Dibattito stasera? Vincerò io.
+1953 Posta in arrivo
+1954 437 email non lette! Tocca un'email vera per leggerla, e la croce rossa per cestinare lo spam. Gestiscine 20 prima che la casella vada in overflow!
+1955 Leggere: tocca · Spam: croce rossa
+1956 Errori: %d / 3
+1957 Casella vuota! Per la prima volta dal 2019. Goditela, non durerà.
+1958 La casella va in overflow! Il server della Commissione è appena andato in crash. Di nuovo.
+1959 Hai cestinato l'email della presidente e hai risposto al principe. Capita ai migliori.
+1960 Dal 2024, i nuovi telefoni venduti nell'UE devono avere una porta USB-C.
+1961 Vero: la direttiva sul caricatore universale si applica da fine 2024.
+1962 L'UE vieta di vendere banane troppo curve.
+1963 Falso: un regolamento del 1994 classificava le banane per qualità. Quelle curve restano in vendita.
+1964 La bandiera europea ha 12 stelle perché c'erano 12 Stati membri.
+1965 Falso: il 12 è un simbolo di perfezione. La bandiera risale al 1955, molto prima dei 12 paesi.
+1966 Il Parlamento europeo si riunisce una settimana al mese a Strasburgo.
+1967 Vero: 12 sessioni all'anno a Strasburgo, bauli compresi.
+1968 I commissari europei sono eletti direttamente dai cittadini.
+1969 Falso: sono proposti dai governi e poi approvati dal Parlamento.
+1970 L'Unione europea conta 24 lingue ufficiali.
+1971 Vero: dall'irlandese al maltese, tutti i testi sono tradotti nelle 24 lingue.
+1972 Tutti i paesi dell'UE usano l'euro.
+1973 Falso: nel 2026, lo usano 21 paesi su 27. La Bulgaria è l'ultima arrivata.
+1974 I costi del roaming mobile sono stati aboliti nell'UE nel 2017.
+1975 Vero: da giugno 2017, si chiama ovunque "come a casa".
+1976 L'inno europeo è l'Inno alla gioia di Beethoven.
+1977 Vero: senza testo ufficiale, per non far arrabbiare nessuna lingua.
+1978 Il Lussemburgo è il paese più piccolo dell'UE.
+1979 Falso: è Malta, circa 316 km².
+1980 L'Unione europea ha ricevuto il premio Nobel per la pace.
+1981 Vero: nel 2012, per 60 anni di pace e riconciliazione.
+1982 Il GDPR protegge i dati personali dal 2018.
+1983 Vero: si applica dal 25 maggio 2018. Da qui i banner dei cookie…
+1984 I cetrioli storti sono vietati alla vendita nell'UE.
+1985 Falso: la norma sulla loro curvatura è stata abolita nel 2009.
+1986 I tappi devono restare attaccati alle bottiglie di plastica.
+1987 Vero: obbligatorio da luglio 2024, perché non finiscano più nella natura.
+1988 La Svizzera è membro dell'Unione europea.
+1989 Falso: è nello spazio Schengen, ma non nell'UE.
+1990 La Banca centrale europea ha sede a Bruxelles.
+1991 Falso: ha sede a Francoforte, in Germania.
+1992 Antibufala
+1993 Le voci sull'Europa circolano più in fretta delle direttive! Per ogni affermazione, tocca VERO o FALSO. Servono 7 risposte corrette su 10.
+1994 VERO
+1995 FALSO
+1996 Vero o falso?
+1997 Domanda %d / 10
+1998 Risposta corretta!
+1999 Troppo tardi!
+2000 Sbagliato!
+2001 Tocca per continuare
+2002 Bravo! Tutte queste bufale sono state smontate. I fact-checker vogliono assumerti.
+2003 Sono circolate troppe bufale… L'account "VeraEuropa2027" guadagna 10.000 follower.
+2004 Bulgaro
+2005 Ceco
+2006 Danese
+2007 Tedesco
+2008 Greco
+2009 Inglese
+2010 Spagnolo
+2011 Estone
+2012 Finlandese
+2013 Francese
+2014 Irlandese
+2015 Croato
+2016 Ungherese
+2017 Italiano
+2018 Lituano
+2019 Lettone
+2020 Maltese
+2021 Olandese
+2022 Polacco
+2023 Portoghese
+2024 Romeno
+2025 Slovacco
+2026 Sloveno
+2027 Svedese
+2028 Servizio di Traduzione
+2029 Arrivano messaggi da tutta Europa! Leggi ciascuno e invialo alla cabina di traduzione giusta. 12 messaggi in 45 secondi. Un errore costa 3 secondi!
+2030 Cabine di Traduzione
+2031 Invia il messaggio alla cabina giusta
+2032 Tutti i messaggi sono arrivati a destinazione! La DG Traduzione ti offre un posto. In 24 lingue.
+2033 Un messaggio slovacco è finito dagli sloveni… L'incidente diplomatico è in fase di traduzione.
+2034 Crisi energetica! I prezzi schizzano alle stelle.
+2035 Lockdown: nessuno compra più niente.
+2036 Piano di rilancio gigante votato stanotte!
+2037 Crollo in borsa a Francoforte!
+2038 Carenza di microchip!
+2039 Le famiglie risparmiano tutti i loro soldi.
+2040 Presiedi la BCE! L'inflazione sale? Alza il tasso. Scende? Abbassalo. Tienila nella zona verde (intorno al 2 %) almeno metà del tempo. 40 secondi!
+2041 Inflazione: %s
+2042 Tasso: %s
+2043 Abbassare
+2044 Alzare
+2046 Inflazione sotto controllo! I mercati applaudono, i risparmiatori dormono tranquilli.
+2047 L'inflazione ti è scappata di mano… Il prezzo del caffè alla mensa è appena raddoppiato.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Caricatore Universale
+2053 Dal 2024, l'USB-C è obbligatorio! Tocca gli apparecchi che hanno ancora una vecchia porta per metterli in regola. Soprattutto non quelli già in USB-C! 20 apparecchi in 30 secondi.
+2054 Tocca le vecchie porte, non l'USB-C!
+2055 Tutti in regola! Un solo caricatore per tutti. I cassetti dei cavi d'Europa respirano.
+2056 Hai "messo in regola" un apparecchio già in USB-C. Ora ha tre adattatori.
+2057 Troppi cavi vecchi sono scappati alla direttiva… Il cassetto dei cavi va in overflow.
+2058 Il tuo computer. 437 email non lette lampeggiano in un angolo dello schermo.
+2059 Posta
+2060 Spegnere
+2061 Appare una notifica: "Congratulazioni per la tua produttività!" Un pacco ti aspettava sotto la scrivania.
+2062 Casella vuota. Tre secondi dopo: "Re: Riunione di coordinamento sulle riunioni".
+2063 Il server di posta mostra una clessidra. Probabilmente la mostrerà fino a domani.
+2064 Un computer dell'ufficio stampa. Lo schermo mostra: "Unità Antibufala – voci da verificare: 2384".
+2065 Bel lavoro di verifica! L'ufficio stampa ti regala questi rapporti di esperti. Con tanto di fonti, per una volta.
+2066 Tutte le voci del giorno sono verificate. Ne arriveranno altre entro pranzo.
+2067 Una bufala è appena stata condivisa 40.000 volte. La smentita, 12 volte.
+2068 Il terminale della DG Traduzione. Una luce rossa lampeggia: "Messaggi in attesa di smistamento".
+2069 Gli interpreti sono sommersi di lavoro! Puoi ordinare i messaggi e inviarli alla cabina giusta?
+2070 Ventiquattro lingue, nessun errore di smistamento! Prendi questa rubrica, ci sono tutti gli interpreti della Corte.
+2071 Riconosci lo sloveno dallo slovacco meglio di metà del Consiglio.
+2072 Un messaggio maltese è arrivato alla cabina irlandese. Ne stanno ancora discutendo. Riprova quando vuoi.
+2073 Un terminale Bloomberg, ancora caldo. Su un post-it: "Obiettivo: 2 %. Non 1,9. Non 2,1. 2."
+2074 Prendere il controllo della politica monetaria dell'eurozona?
+2075 I mercati elogiano la tua prudenza. Un premio di stabilità arriva sul tuo conto!
+2076 Inflazione al 2 %. Da qualche parte a Francoforte, un economista versa una lacrima di gioia.
+2077 Il terminale mostra un grafico a forma di montagne russe. Nessuno ha visto niente. Ricomincia in fretta.
+2078 Il computer dell'eurodeputata. Sulla scrivania, un groviglio di 14 caricatori diversi.
+2079 Ho votato la direttiva USB-C! Ma i miei colleghi hanno ancora vecchi apparecchi… Mi aiuti a metterli in regola?
+2080 Un solo caricatore per tutti! Tieni, prendi questa chiavetta USB-C. Pare che faccia evolvere certi Euromon digitali.
+2081 Il cassetto dei cavi è finalmente vuoto. Non so più cosa metterci.
+2082 Restano cavi Lightning dappertutto… Riprova quando vuoi.
+2083 Zona verde: %d %%
+2084 Obiettivo: metà del tempo nel verde
+2085 Dock 30

@@ -1,0 +1,1 @@
+[{"id": "tampono", "num": 1, "name": "Tampono", "types": ["JURIDIQUE"], "base": [45, 49, 49, 45, 45, 45], "growth": "medium", "catch": 200, "exp": 50, "evo": null, "moves": [[1, "amendement"]], "dex": "x", "category": "Tampon"}]

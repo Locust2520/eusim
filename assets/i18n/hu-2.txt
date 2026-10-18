@@ -1,0 +1,471 @@
+# Magyar — ids 500-999
+500 Az Europa épület ad otthont az Európai Tanácsnak. A fogadtatáshoz mind a nyolc szerződési jelvény szükséges.
+501 Teremőr
+502 A biztos asszony… nagyon elfoglalt. Azt mondják, a Team Lobby blokkolja az összes vizsgálatát. Ez a Lux téri bár alatt zajlik.
+503 A Versenypolitikai Főigazgatóság csak tapasztalt gyakornokokat fogad. Gyere vissza legalább hat jelvénnyel.
+504 Parlamenti tisztviselő
+505 Üdv az Európai Parlamentben! Schuman professzor az előcsarnok végében vár rád.
+506 A jobb oldali lépcső felvezet az emeletekre… Azt mondják, egy szárny kísértetjárta. Én sosem megyek oda.
+507 Ó, {P}! Hát itt vagy végre! Pontos vagy… egy óra pontossággal. Az átkozott óraátállítás.
+508 Hi! Egy órával ezelőtt érkeztem. Én London szerinti időben vagyok.
+509 A professzor laborja
+510 Rendben. Euromonokkal fogtok dolgozni. Ennek a Parlamentnek a dossziéi tele vannak velük.
+511 Van itt belőlük három, egészen fiatalok. Nagy európai ötletekből születtek. Válaszd ki a tiédet, {P}.
+512 Ezek… kartonmappákból jönnek elő?
+513 Brüsszelben minden fontos dolog egy kartonmappában kezdődik, Oliver. Még Európa is.
+514 VERDEAL, a Zöld Megállapodásból született. CHARBONNET, az 1951-es Montánunióból. Vagy ATOMINO, egyenesen az Euratomból.
+515 Verdeal (Zöld típus)
+516 Charbonnet (Ipari típus)
+517 Atomino (Energia típus)
+518 Remek választás! Gondját viseld. Egy jól bánt Euromon többet ér, mint tíz rosszul ratifikált szerződés.
+519 Akkor én azt választom, amelyik legyőzi a tiédet. That's just smart negotiation.
+520 Oliver! Ez nem nagyon… közösségi.
+521 Gyerünk, {P}, egy kis vita, hogy kiderüljön, ki a jobb gyakornok?
+522 What?! Egy kontinentális gyakornok ellen vesztettem?! Ez csak… egy próbakör volt.
+523 Ha! Ahogy vártam. Ne vedd zokon, {P}, ez kulturális kérdés.
+524 Gratulálok mindkettőtöknek. Most pedig a küldetés: el kell fogadtatni az óraátállítás megszüntetéséről szóló irányelvet.
+525 A Parlament 2019 márciusában megszavazta. Azóta a Tanácsban szunnyad. A nyolc szerződési jelvény szükséges, hogy komolyan vegyenek.
+526 Az első jelvény Luxemburgban vár rád, Jean-Claude Junckernél. Indulj az Ardennek útján, kelet felé.
+527 Luxemburg? Easy. Előbb ott leszek, mint te. See you, loser… úgy értem, kolléga!
+528 Egy pillanat, {P}! Jean Monnet vagyok. Én találtam fel a kis lépések módszerét. Itt egy nagy lépés: az EURODEX.
+529 Minden Euromont rögzít, amivel találkozol. És itt van, amivel hivatalosan lebélyegezheted őket.
+530 Gyengítsd le a vadon élő Euromont, majd dobj rá egy hivatalos bélyegzőt a TÁSKÁBÓL. Európa rád számít!
+531 Bátorság, {P}! Minden jelvény egy kis építőkő. Mint Európánál: konkrét eredmények.
+532 Nyolc jelvény! Az Európai Tanács vár az Europa épületnél. Annyira büszke vagyok.
+533 Mutasd meg az Eurodexedet…
+534 Előbb beszélj Schuman professzorral, ifjú gyakornok.
+535 A professzor ott van. Gyorsan, unatkozom.
+536 1. útvonal — Ardennek erdeje. Luxemburg: 3 óra gyalog, 12 perc adóhatározattal.
+537 Túrázó
+538 Az Ardennek erdeje három országra terjed ki. A vaddisznók viszont még sosem mutatták fel az útlevelüket.
+540 Egyszer majd kapunk fizetést. Egyszer…
+541 Dupont úr
+542 Ne feledd kitölteni az elégedettségi űrlapot. 12 oldal.
+544 A KAP az európai költségvetés egyharmada. Az aratógépem meg a hitelem egyharmada.
+545 Luxembourg-Kirchberg. Az EU Bírósága, a Számvevőszék, az Európai Beruházási Bank. És még sok egyszerű bank.
+546 Schengen felé, a Mosel menti faluba, ahol 1985-ben aláírták a megállapodást. Kövesd az utat délre.
+547 Egy kis ösvény vezet le a Moselhez… és Schengenbe.
+548 Itt ingyenes a tömegközlekedés! Tizennégyszer körbejártam a várost villamossal. Semmiért. Ingyen.
+549 Nagyi
+550 A férjem európai tisztviselő volt. A Számvevőszéken dolgozott. Elalváshoz is bárányokat számolt.
+551 Bíró
+552 Az Európai Unió Bírósága 1952 óta székel itt. Az ítéleteink mind a 27 államra kötelezőek. Még hétfő reggel is.
+553 Jegyző
+554 Lefordítottam egy ítéletet 24 nyelvre. A máltai változatban van egy elütés. Tíz éve senki nem vette észre.
+555 Luxemburgi vámos
+556 A Mosel menti út csak az Adóhatározat jelvény tulajdonosai előtt áll nyitva. Keresd Juncker urat az Aranyarénában.
+557 {P}! Még itt vagy? Én már három bankot megnéztem, és két számlát nyitottam. A folklór miatt.
+558 Vita!
+559 Na jó, oké, fejlődsz. Megyek Frankfurtba, megnézem az EKB-t. Megígérték, hogy elmagyarázzák nekem a kamatlábakat.
+561 Itt, Luxemburgban a diszkréció erény. És iparág.
+562 Klein ügyvéd
+563 Az adóhatározatok legálisak voltak, tudod. Csak senkinek nem kellett volna elolvasnia őket. LuxLeaks, 2014, micsoda szerencsétlenség.
+565 Ó, Schuman kis gyakornoka! Gyere, gyere. Én is kicsiben kezdtem. Aztán tizennyolc évig voltam miniszterelnök.
+566 Elnököltem az Eurócsoportban, majd a Bizottságban. Sok csúcstalálkozót láttam már. És sok arcot megpaskoltam.
+567 Egyszer, 2011-ben azt mondtam: „Ha komollyá válik a helyzet, hazudni kell.” Szóval nem fogom azt mondani, hogy hagyom, hogy győzz.
+568 Remek! Megszerezted az Adóhatározat jelvényt. Ez hivatalos, nem titkos!
+569 A Mosel menti út megnyílt előtted. Frankfurt vár, és Christine Lagarde nem viccel a kamatokkal.
+570 Visszajössz hozzám? Gyere, hadd paskoljam meg az arcod. Ez luxemburgi hagyomány. Nos, legalábbis az enyém.
+571 Itt, 1985. június 14-én, a Princesse Marie-Astrid fedélzetén öt ország írta alá a schengeni megállapodást a határellenőrzések megszüntetéséről.
+572 Kapitány
+573 A Princesse Marie-Astrid! Egy ilyen hajón szüntették meg a határokat. Ironikus, egy olyan folyón, amely maga is egy határ.
+574 Azt mondják, egy ritka Euromon, Schengéon, kóborol a falu dossziéi között. Sosem áll meg a vámnál.
+575 2. útvonal — Mosel-völgy. Három ország húsz kilométeren. Ne feledj nyelvet váltani.
+577 Az ingyenes roaming az Unió legszebb ajándéka. 4000 fotót posztoltam a Moselről.
+579 A számításaim szerint megszerzed a következő jelvényt. De a számításaim ritkán pontosak.
+581 A luxemburgi crémant eredetvédett! Mint a Fromajusom.
+582 Európai Központi Bank. Küldetés: árstabilitás. Inflációs cél: 2% középtávon. Középtáv: nincs meghatározva.
+583 Kereskedő
+584 A piacok nyugtalanok. Mindig nyugtalanok. Ez a szakmájuk.
+585 Megtakarító
+586 Még megvan a matracom tele márkával. Sosem lehet tudni.
+587 A Rajna menti út zárva van az Euró jelvény nélküli gyakornokok előtt. Keresd meg Lagarde asszonyt az EKB-nál.
+589 A vereségedre spekuláltam. Ráment az ingem. És a nyakkendőm is.
+591 A sokk exogén volt. Teljesen exogén.
+593 Üdv az Európai Központi Bankban. Itt minden szó, amit kimondok, megmozgatja a piacokat. Ezért jól válogatom a szavaimat.
+594 2020 márciusában egy nap azt mondtam, hogy nem azért vagyunk itt, hogy „szűkítsük a hozamfelárakat”. Az olasz piacok zuhanni kezdtek. Az ember tanul.
+595 Az én arénámban a támadásaim erejét a mindenkori irányadó ráta határozza meg. Készen állsz egy kis monetáris politikára?
+596 Figyelemre méltó. A stratégiád… kiszámítható volt, a szó jó értelmében. Itt az Euró jelvény.
+597 Strasbourg délre van, a Rajna menti szőlők után. Roberta Metsola vezeti a Parlamentet. Sose szakítsd félbe.
+598 A ráták ma stabilak. Élvezd ki, sosem tart sokáig.
+599 Az EKB mindent elmagyarázott: az inflációt, a rátákat, a mérleget… Semmit nem értettem. Gyerünk, egy vita, hogy lazítsak!
+600 Hm. Tudod, otthon, Londonban páran arról beszélnek, hogy kilépnének az Unióból. Az nevetséges lenne, nem? …Nem?
+602 A Zöld Megállapodást 2019 decemberében mutatták be. Azóta minden vesszőért küzdünk.
+604 A következő cikkem: „A Bizottság be akarja tiltani az elvesztett vitákat”. Hamis, de be fog ütni.
+606 Az alsaci bor és a badeni bor egymásra néz a Rajnán át. Régen ágyúk néztek egymásra. Ez a fejlődés!
+607 Strasbourg, az Európai Parlament hivatalos székhelye. Évi 12 plenáris ülés. 720 képviselő. Több ezer bőrönd.
+608 EP-képviselő
+609 2014 óta évente tizenkétszer megyek Brüsszel–Strasbourg között. Ez… 132 költözés. A bőröndjeimnek több hűségpontjuk van, mint nekem.
+610 Tisztviselő
+611 Segítség! Az ülés 2 perc múlva kezdődik, és a képviselők bőröndjei még nincsenek felpakolva! Tudsz segíteni?
+612 Minden bőrönd a fedélzeten van! Nesze, ez a logisztikai szolgálat hivatalos jutalma.
+613 Nem sikerült… Na jó, azt mondjuk, az ülés késve kezdődik. Mint mindig. Próbáld újra, amikor akarod!
+614 Jó… megint egy bőröndben fogok sírni.
+615 Muller képviselő
+616 A 2000 módosító indítványom… egy tömbben elutasítva. Elölről kell kezdeni a bizottságban.
+617 Rossi képviselő
+618 A lisszaboni szerződéshez egy teljes bőrönd jegyzetem volt. Az Brüsszelben maradt.
+619 Teremőr
+620 Csend az ülésteremben! Az elnök asszony csak szavazás után fogad vitákat. Megpróbálod a plenáris szavazást?
+621 Elfogadva többséggel! Az elnök asszony fogad téged.
+622 Elutasítva… A kvórum nem teljesült. Próbáld újra!
+623 A szavazatod rögzítve. Az elnök asszony vár rád.
+625 Az ülést megnyitom. A Parlament elnöke vagyok 2022 óta, 2024-ben újraválasztva: hozzászoktam, hogy betartassam a felszólalási időt.
+626 Harminc másodperced van. Ó, már vége is. Jó, vitázzunk!
+627 Az eredmény világos: elfogadva! Az Ülésterem jelvény a tiéd.
+628 És itt az európai Interrail Bérlet. Ezzel minden vasútállomás nyitva áll előtted. A következő jelvényed Athénban van.
+629 Azt mondják, Yanis Varoufakis ott tart órákat… motoron. Szállj fel a vonatra a strasbourgi vasútállomáson.
+630 Egy vita? Csak plenáris szavazás után. Keresd meg a teremőrt.
+631 A következő ülés egy hónap múlva van. Ne feledd a bőröndjeidet!
+632 Athén. A demokrácia, a filozófia bölcsője… és a 2015. július 5-i népszavazásé.
+633 Az Akropolisz 2500 éves. Túlélte a perzsákat, az ottománokat és a Trojkát.
+634 Görög vámos
+635 A pireuszi kikötő? Zárva a látogatók előtt. Partnereké… nagyon is partnereké.
+636 Elnézést, a kikötő belépése korlátozott. Gyere vissza, ha a helyzet… diplomatikusabb lesz.
+638 2015-ben OXI-ra szavaztam. És azután… az bonyolult.
+639 Trojka-tisztviselő (EKB)
+640 A jelentésünk még szigorúbb megszorításokat javasol. Még az Euromonjaidnak is.
+641 Trojka-tisztviselő (IMF)
+642 Elismerünk néhány hibát az előrejelzéseinkben. Köztünk maradjon.
+644 Egy jelvényért jöttél? Motoron érkeztem, bőrdzsekiben, nyakkendő nélkül. Mint az Eurócsoport üléseire 2015-ben.
+645 Hat hónapig pénzügyminiszter voltam. Lemondtam a népszavazás után: 61% az OXI-ra. A demokrácia szép, és fejes.
+646 A Trojka ott várt rám a kanyarban. Te legyőzted az embereit. Mutasd meg, erősebb vagy-e, mint a megszorítás!
+647 NAI! Öhm, úgy értem: bravó. Itt az OXI jelvény, elvtárs.
+648 A következő jelvényed Londonban van. De siess: ott egyre többet beszélnek egy bizonyos kijáratról.
+649 Megyek, előadást tartok. Az adósságról. Motoron.
+650 Westminster. Itt, 2016. június 23-án az Egyesült Királyság 51,9%-kal a kilépésre szavazott.
+651 Királyi őr
+652 (Nem mozdul. Még a Brexit miatt sem.)
+653 Főszerkesztő
+654 Holnap a túl egyenes uborkákról szól a cím. Húsz évig bejött.
+656 A '90-es években Brüsszelben tudósítottam a Daily Telegraphnak. Írtam néhány… fantáziadús dolgot. Get Brexit done!
+658 Üdv a pubban! Egy pint? Én húsz évet töltöttem az Európai Parlamentben azzal, hogy elmagyarázzam, nem kellene odajárni.
+659 2016. június 28-án odavágtam a képviselőknek: „Most már nem nevettek, ugye?”. Nem nevettek. Te sem fogsz.
+660 Na jó. Győztél. Vedd ezt az 50. cikkely jelvényt. Mi már felhasználtuk a magunkét.
+661 Még itt vagy? Mi kiléptünk, tudod.
+662 Haza kell mennem. Nekem már nincs jogom gyakornoknak lenni a Parlamentben. De előbb… egy utolsó vita. A becsületért.
+663 Köszönöm, {P}. Figyelj az irányelvre a kedvemért. És a nyári időszámításra. Nálunk sosem fogjuk megváltoztatni, az biztos.
+664 Goodbye. Vagy inkább… see you later. Ki tudja?
+665 Oliver elment. A londoni vonat már nem jelenik meg a pénztárnál. A következő megálló: Budapest, a Dunán.
+666 Országház, a magyar Parlament, a Duna partján. Magyarország legnagyobb épülete. És a legnagyobb vétó.
+667 Fiatal magyar nő
+668 Azt mondják, az ellenzék egyre erősödik. Egy bizonyos Magyar Péter kampányol az egész országban.
+669 Magyar Péter
+670 A magyarok 2026. április 12-én szavaztak. A pártom, a Tisza, kétharmados többséget szerzett. Új lap nyílik!
+672 Építettünk egy kerítést. Leginkább fotózásra használják.
+673 Különleges tanácsadó
+674 A miniszterelnök most megy kávézni. Ez egy tárgyalási technika.
+675 Orbán Viktor
+676 Megegyezésért jöttél? Itt egyhangúság kell. És én sosem egyezek bele.
+677 2024-ben az „Make Europe Great Again” jelmondattal elnököltem az Unió Tanácsában. Nem emlékeztet valamire?
+678 Az én arénámban minden körben lerakhatom a VÉTÓMAT. És néha… kimegyek kávézni. Mint 2023 decemberében, az ukrajnai szavazás alatt.
+679 …Na jó. Tartózkodom. Vedd ezt a Vétó jelvényt. Hivatalosan nem voltam a teremben.
+680 Néhány hónappal később, 2026. április 12-én a magyarok szavaznak. Magyar Péter Tisza pártja kétharmados többséggel győz.
+681 Orbán elismerte a vereségét: „fájdalmas, de egyértelmű”. Köszönöm, gyakornok. Menj vissza Brüsszelbe: úgy hírlik, a Versenypolitikai Főigazgatóságnak van egy… lobbiproblémája.
+682 Elmentem kávézni. Gyere vissza később. Sokkal később.
+683 Pultos
+684 A Lux téren, csütörtök este egész Brüsszel egy italra jön. Képviselők, asszisztensek… és lobbisták. Főleg lobbisták.
+685 Az alagsor? Csak tagoknak. Be vagy jegyezve a transzparencia-nyilvántartásba? Nem? Én sem. Gyere csak be.
+686 Mozgás, gyakornok. Itt a nagyok beszélnek üzletről.
+687 Olajlobbista
+688 Az energetikai átállás? Támogatjuk. 2080-tól.
+689 Techlobbista
+690 Betartjuk a GDPR-t. Van egy 47 oldalas sütiablakunk is.
+691 A bőröndök? Azok dokumentációs bőröndök. Nagyon alaposak.
+693 2022 decemberében a belga rendőrség pénzes zsákokat talált több brüsszeli lakásban. Ezt „Katargate”-nek nevezték.
+694 A Parlament alelnöke voltam. Mindig vitattam a vádakat. Ennek a játéknak a megjelenésekor még nem született jogerős ítélet az ügyben.
+695 Megjegyzés: minden gyanúba vett személy ártatlannak tekintendő, amíg el nem ítélik.
+696 A főlobbista
+697 Hát, hát. A gyakornok. Tudod, hányan vagyunk Brüsszelben? 25 000. Te pedig egy vagy.
+698 A nyári időszámítási irányelved? Vannak ügyfeleim, akik órákat árulnak. Ez blokkolva marad. Hacsaknem…
+699 Jól játszottál. Hivatalosan bejelentem a vereségemet a transzparencia-nyilvántartásba. És megyek a magánszektorba. Ó, már ott is vagyok.
+700 A Team Lobby szétszéled. A Versenypolitikai Főigazgatóság vizsgálatai folytatódhatnak!
+701 Big Tech ügyvédje
+702 Fellebbezni fogunk. Majd fellebbezünk a fellebbezés ellen.
+703 Versenyjogász
+704 Visszaélés a piaci erőfölénnyel… A „visszaélés” szó erős.
+706 Köszönöm, hogy megszabadítottál minket a Team Lobbytól. Az ügyeim végre haladnak!
+707 Google: 2,4 milliárd eurós bírság 2017-ben, 4,3 milliárd 2018-ban. Apple: 13 milliárd euró visszafizetendő adókedvezmény, a Bíróság 2024-ben megerősítette.
+708 Betartja a csapatod a versenyszabályokat? Ellenőrizni fogom. Személyesen.
+709 Nem állapítottunk meg jogsértést. A Bírság jelvény a tiéd. És vedd ezt is: az OLAF, a csalásellenes hivatal jelvényét.
+710 Furcsa… jelenlétekről érkeznek jelentések a Parlament egy szárnyában. Olyan asszisztensekről, akiket senki nem lát soha. Ezzel a jelvénnyel látni fogod őket.
+711 Ma nincs bírság a számodra. Élvezd ki.
+712 Egy hideg folyosó… Hallani, hogy billentyűzetek kopognak önmaguktól. De nincs itt senki. Kellene valami, amivel láthatjuk a láthatatlant.
+713 Jobb, ha most lemész inkább.
+714 Szellemasszisztens
+715 Az irodám? Sosem találtam meg…
+716 Azért fizettek, hogy segítsek… egy pártnak. Nem egy képviselőnek.
+717 Hú… Az óraátállítás miatt évente kétszer jelenek meg…
+718 A szerződésemben „helyi asszisztens” áll. Minek a helyi? Rejtély.
+719 Eltűnök… végre…
+720 Köszönöm… hogy megszabadítottál ettől a szerződéstől…
+722 A Nemzeti Front parlamenti asszisztensei ügye: a rendszer az Európai Parlament pénzéből fizetett párttagokat.
+723 Elsőfokon 2025. március 31-én ítéltek el, majd fellebbezésben 2026. július 7-én: három év, ebből egy letöltendő bokaperecen, és tizenöt hónapra megfosztva a választhatóságtól.
+724 Ezzel a fellebbezési ítélettel a 2027-es elnökválasztási jelölése elméletileg újra lehetségessé válik. Egy utolsó, semmisségi panasz még lehetséges.
+726 A MoDem asszisztensügye más eset. 2024 februárjában „a kétség előnyére” felmentettek. Az ügyészség fellebbezett.
+727 Aztán miniszterelnök voltam… 2024 decemberétől 2025 szeptemberéig. Gyorsan telik az idő a Matignonban.
+728 A szellemasszisztensek nem politizálnak: minden pártot kísértenek, amely rosszul alkalmazta őket.
+729 Az Üres Szerződés
+730 ÉN VAGYOK… MINDEN IRODA NÉLKÜLI SZERZŐDÉS SZELLEME… MINDEN PÁRTÉ… MINDEN CIKLUSÉ…
+731 Az Üres Szerződés fizetési papírok felhőjében szétoszlik. A szellemszárny végre elcsendesül.
+732 Üzenet érkezik Roberta Metsolától: „Köszönöm! Az utolsó jelvény Párizsban, a Sorbonne-on vár rád.”
+733 A Sorbonne. Itt tartott Emmanuel Macron két nagy beszédet Európáról, 2017-ben és 2024-ben. A második majdnem két órán át tartott.
+734 Angolul kértem útbaigazítást. Franciául válaszoltak. Mosollyal. Nagyon halvánnyal.
+735 Elittisztviselő
+736 Összefoglaló jelentést írtam a vereségemről. 80 oldal.
+737 Államtitkár
+738 Épp most lapátoltak ki a harc közben. Ez rekord.
+740 Üdv a Sorbonne-on! Itt beszéltem a szuverén Európáról 2017-ben. Majd egy olyan Európáról, amely „meghalhat”, 2024-ben.
+741 2019-ben azt mondtam, hogy a NATO „klinikai halott” állapotban van. 2024-ben feloszlattam a Nemzetgyűlést. Szeretem a… meglepő döntéseket.
+742 Akkor vitázzunk, és ugyanakkor gondolkodjunk is. Stratégiai autonómia!
+743 Csodálatos! Benned megvan egy nagy európai nő… vagy egy nagy európai férfi anyaga. És egyszersmind mindkettőé. A Sorbonne jelvény a tiéd.
+744 Nyolc jelvénnyel az Európai Tanács vár az Europa épületnél, Brüsszelben. Sok sikert: a csúcstalálkozóik ritkán érnek véget hajnali 5 előtt.
+745 Szívesen beszélnék még két órán át Európáról, de neked egy Tanácsot kell meggyőznöd.
+746 Prológus — 1950. május 9.
+747 1950. május 9.
+748 Párizs, Quai d'Orsay, 18 óra
+750 Uraim, köszönöm, hogy eljöttek. Rövid leszek. Nos… próbálni fogom.
+751 (nagyon halkan) Ezt minden alkalommal mondja.
+752 (nagyon halkan) Robert. A mondat a szénről. Ne feledje a mondatot a szénről.
+753 „A francia kormány azt javasolja, hogy a francia-német szén- és acéltermelés egészét közös Főhatóság alá helyezzék.”
+754 A szén? Az acél? Ezért hagytuk ki az aperitifet?
+755 Öt évvel a háború után az ötlet egyszerű és merész: közössé tenni azt, amivel ágyúkat készítenek.
+756 Hogy a háború „nem csak elképzelhetetlenné, hanem materiálisan lehetetlenné” váljon.
+757 Hat ország 1951-ben. Majd kilenc, tizenkettő, tizenöt, huszonöt… Ma huszonhét.
+758 És minden reggel, valahol Brüsszelben, egy gyakornok elkésve ébred.
+759 1. fejezet
+760 Hétfő. Az ébresztőórád 6:58-at mutat. A telefonod 7:58-at. Az egyiket nem tájékoztatták az óraátállításról.
+762 A GYAKORLAT ELSŐ NAPJA!
+763 Rue de la Loi. Egy croissant, három dosszié, nulla méltóság.
+764 Kerékpáros
+765 Kerékpárút! Még a gyakornokok is betartják a 2019/1242 rendeletet! Legalábbis azt hiszem, hogy létezik.
+766 {P}! Első nap, és már egy órát késtél. Én itt vagyok 6:58 óta. London szerinti idő, persze.
+767 Schuman professzor a Parlament előcsarnokában vár ránk. Azt mondtam neki, hogy beteg vagy. Majd később megköszönöd.
+768 2. fejezet — Luxemburg
+769 2. fejezet
+770 Az Adolphe-híd átszeli a Pétrusse-völgyet. Lent kertek. Fent bankok. Középen a vonatod.
+771 Á, a kis angol! Gyere csak, hadd csókoljalak meg!
+772 Sir, én… we don't do that. Angliában kézfogással köszönünk. Távolról. Kesztyűben.
+773 Itt Luxemburg van. Arcot csókolunk, arcot paskolunk, és négy nyelvet beszélünk egy mondatban. Moien, bonjour, guten Tag, hello!
+775 Az Aranyarénám Kirchbergen van, gyakornok. Gyere, amikor akarsz. Az arcpaskolás ingyenes. Ez a negyed egyetlen ingyenes szolgáltatása.
+776 Schengen, három határ
+777 Schengen. Itt Franciaország, Németország és Luxemburg a szőlők szélén érintkezik egymással.
+778 1985. június 14-én öt ország írta alá itt, egy hajón, a megállapodást, amely megszünteti a határellenőrzéseket. Egy olyan folyón, amely MAGA egy határ. A Moselnél szeretik az iróniát.
+779 Vámos
+780 Harminc éve bélyegzem az útleveleket. És most? A lepkék vízum nélkül mennek át.
+781 Átképzem magam. Képeslapbélyegző leszek. Jövőbe mutató szakma.
+782 3. fejezet — Frankfurt
+783 3. fejezet
+784 Frankfurt am Main
+785 Frankfurt, éjjel. Két üvegtorony, egy busz méretű euró-szimbólum. Az Európai Központi Bank sosem alszik. Az inflációt figyeli.
+786 Látod ezt a kart? Az irányadó ráta. Felhúzom, az árak lecsillapodnak. Leeresztem, a gazdaság lélegzik.
+787 Ha véletlenül a könyökömmel megérintem, három kormány dől meg. Ezért sosem dőlök az asztalra.
+788 IT'S RAINING EUROS! Ez a mennyiségi lazítás?!
+789 Nem, uram. A légkondi fújta szét a kiállítás bankjegyeit. Add vissza őket. Mindet. Számolom.
+790 4. fejezet — Strasbourg
+791 4. fejezet
+792 Havonta egyszer a Parlament Brüsszelből Strasbourgba költözik. A képviselőkkel, az asszisztensekkel… és több ezer bőrönddel.
+793 EP-képviselő
+794 A bőröndöm több plenáris ülésen volt már, mint én. Még helye is van a közlekedési bizottságban.
+795 Az ülést megnyitom! …Hol vannak a képviselők?
+796 Elnök asszony, még a bőröndjeiket keresik a peronon.
+797 Akkor kézfeltartással szavazunk. A bőröndöknek van szavazati joguk? Nem? Kár, legalább ők pontosak.
+798 5. fejezet — Athén
+799 5. fejezet
+800 Az Akropolisz naplementében. Kétezer-ötszáz év demokrácia, filozófia… és későn végződő megbeszélések.
+801 Varoufakis úr, a terve nem felel meg a táblázatainknak.
+802 A táblázataik nem felelnek meg a valóságnak. Felajánlok egy vitát. Motoron, ha tudnak követni.
+803 Mi nem motorozunk. Mi ajánlásokat teszünk.
+804 Akkor ajánlják azt magukénak, hogy félreállnak. Vár egy arénám.
+805 6. fejezet — London
+806 6. fejezet
+807 London, esőben. Mint mindig. De ezúttal valami súlyosabb lóg a levegőben.
+808 Egy pint mindenkinek! És egy busz a kampányhoz! Nem fontos, mit írunk rá, az emberek a buszt fogják olvasni, nem a lábjegyzeteket.
+809 Semmi pánik! Fennakadtam egy drótsiklón, de ez egy stratégia. Get Brexit done! És valaki hozzon egy létrát, kérem.
+810 A népszavazás
+811 2016. június 23. A szavazók 51,9%-a a kilépést választja az Európai Unióból.
+812 2020. január 31-én éjfélkor, brüsszeli idő szerint — Londonban 23 órakor — az Egyesült Királyság már nem tagja az Uniónak.
+813 Tudod, mi a furcsa? Eleinte nem akartam itt lenni. Csak győzni akartam.
+814 És most el kell mennem, és már nem is akarok. Ironic, isn't it?
+815 Visszajössz majd. Van Erasmus, cserediák-programok, diákvízumok…
+816 Erasmus? Abból is kiléptünk. De találok majd egy módot. Az angolok mindig találnak módot, hogy visszatérjenek Európába. Ezt hívják nyaralásnak.
+817 7. fejezet — Budapest
+818 7. fejezet
+819 A magyar Parlament, arannyal a Dunán. Az ország legnagyobb épülete. És Európa legnagyobb „VÉTÓ” bélyegzőgyűjteménye.
+820 Európai költségvetés? Vétó. Ukrajnai segély? Vétó. A Tanács jelvényeinek új színe? Vétó. Elvi okokból.
+821 Miniszterelnök úr, ez volt az ebédrendelése.
+822 …Mégis vétó. Nem szeretem, ha helyettem döntenek.
+823 2026. április 12.
+824 Magyarok! Ma este nem Európa ellen győztünk, és nem is a szomszédaink ellen. Önmagunkért győztünk!
+825 Tömeg
+826 TISZA! TISZA! TISZA!
+827 Nem duzzogok. Gondolkodom. Háttal állva. Egy felhővel a fejem fölött. Ez egészen más.
+828 2022 december — hajnal
+829 Brüsszel, 2022 december. Hajnalban a belga rendőrség házkutatásokat tart a Lux tér körül.
+830 Rendőr
+831 Főnök, itt zsákok vannak. Pénz van bennük. Sok pénz.
+832 Rendőrfőnök
+833 Számoljátok meg. És ne nyúljatok a focilabdához, lehet, hogy az bizonyíték.
+834 Parlamenti tisztségviselőket és hozzájuk közel állókat vettek őrizetbe. A vizsgálat külföldi államok javára elkövetett korrupció gyanúja miatt folyik.
+835 Minden érintett személy ártatlannak tekintendő, amíg jogerősen el nem ítélik.
+836 (a távolból) Nekünk ehhez semmi közünk. Mi falatkákban fizetünk. Az diszkrétebb.
+837 A Versenypolitikai Főigazgatóság
+838 Még egy bírság. Aláírom, mosolygok, kötök egy elefántot. Nagyon megnyugtató.
+839 Biztos asszony, a digitális óriások haladékot kérnek.
+840 Megadva. Haladékuk van… most eddig.
+842 A digitális szolgáltatásokról szóló rendelet mindenkire vonatkozik, Musk úr. Még azokra a platformokra is, amelyek félévente nevet váltanak.
+844 Egy mémmel válaszolok. Ez a hivatalos jogi álláspontom.
+845 Egy négyoldalas levéllel válaszolok. Ez az enyém.
+846 Mindketten a telefon egyik végét rángatják. A telefon épp „alacsony akkumulátor”-t jelez.
+847 A szellemasszisztensek tornya
+848 Az OLAF-jelvénynek hála a láthatatlan láthatóvá válik. Áttetsző asszisztensek lebegnek a folyosón, egy fizetési papírral a kezükben.
+849 Jó napot… 2009 óta dolgozom itt… Nos, a szerződésem dolgozik itt… Én magam sosem jártam itt…
+850 A munkaadóim egészen fent vannak. Azt mondják, nem ismernek. Ez sértő, egy szellem számára.
+851 (az ajtó mögül) Nem vagyok itt. És ha mégis itt vagyok, az a kétség előnyére van.
+852 9. fejezet — Párizs
+853 9. fejezet
+854 Párizs az aranyórában. Az Eiffel-torony, a Szajna, és valahol egy beszéd, amely elkezdődik, de sosem ér véget.
+855 Európának szuverénnek kell lennie! Erősnek! Humanistának! És hozzátenném még, ha megengedik, és meg is fogom engedni magamnak…
+856 Diák
+857 Mióta beszél már?
+858 Diáklány
+859 Egy óra negyven perce. Épp most fejezte be a bevezetőt.
+860 A szigor MELLETT vagyok ÉS a beruházás mellett. A nyitottság MELLETT ÉS a védelem mellett. Egyetértek önnel ÉS az ellenfelével is.
+861 Ezt hogy hívják?
+862 Az „egyszersmind”. Ez szabadalmaztatva van. Nos, egyszersmind, díjmentesen használható is.
+863 2021 április — Ankara
+864 2021 április, Ankara. Három vezető lép be a terembe. Két karosszék van.
+866 (már ül) Ó. Ó, ne. Most értettem meg.
+867 Nem, nem, ne zavartassák magukat. Nagyon jól vagyok ezen a kanapén. Hosszú. Bézs. Messze van.
+868 Az incidens „Sofagate” néven járja körül a világot. Azóta Charles Michel mindenhová belépés előtt megszámolja a székeket.
+869 10. fejezet — Az Európai Tanács
+870 10. fejezet
+871 Az Európai Tanács éjszakája
+872 Az Europa épület. Az üveglámpásában az állam- és kormányfők gyűlnek össze. A csúcstalálkozók 15 órakor kezdődnek. Befejeződnek… később.
+873 Kedves kollégák, 4:12 van. Egy vessző van még, amit rendeznünk kell a 37. bekezdésben.
+874 Voltam már csúcson, ahol reggeliig tárgyaltunk egy vesszőről. Az egy nagyon szép vessző volt.
+875 Javaslok egy vesszőt. Whatever it takes.
+876 Azt javaslom, rendeljünk még pizzát, mielőtt valaki egy pontosvesszőt javasol.
+877 MEGÁLLAPODÁS! 5:03 van. A következtetéseket elfogadták. Valaki felébresztené a miniszterelnököt, aki az asztal alatt alszik?
+878 A 13. emelet
+879 A Berlaymont naplementében. Tizenhárom emelet. A legfelsőn a Bizottság elnöke várakozik.
+880 Charles, abbahagyhatná már a duzzogást? Öt éve ezt csinálja.
+881 Nem duzzogok. A falat nézem. Nagyon érdekes ez a fal. Nincs rajta karosszék.
+882 {P}. Hát itt vagy végre.
+883 Az irányelvet akarod? Győzz le. Team Europe — a végén csak egy marad.
+884 A gyakornokok fala
+885 A 13. emeleten egy hosszú folyosó viseli a Bizottság összes gyakornokának fényképét. Senki nem nézi meg őket soha.
+886 Ma épp most akasztottak ki egy új aranykeretes képet. És most az egyszer valaki megáll, hogy megnézze.
+887 11. fejezet — A Nagyhatalmak
+888 11. fejezet
+889 A Nagyhatalmak
+890 Antwerpeni kikötő. Egy elnöki repülő landol. A sirályok óvatosan Hollandia felé repülnek el.
+891 Tévébemondó
+892 Rendkívüli kiadás! Washington, Moszkva és Peking egyszerre küld üzenetet Európának. A piacok a pánik és a szundikálás között ingadoznak.
+893 Kávézó vendége
+894 Már megint? Még a gofrimat sem fejeztem be.
+895 Pincér
+896 Egy gofri, uram. Az nőnemű. Mint a Bizottság.
+897 Ugyanekkor, Pireuszban egy akkora konténerhajó köt ki, mint egy város. Senki nem tudja pontosan, mi van rajta. Sem azt, mit vesz meg.
+898 Antwerpen — a green
+899 Nézzék csak ezt a greent. Két konténer között. A kikötők történetének legszebb greenje.
+900 Elnök úr, a golfzsák nagyon nehéz. Megvámolhatjuk?
+901 Pompás ütés, papa! Öhm… Elnök úr!
+902 Minden labda, amely az Egyesült Államokból érkezik, vámot fizet. Az is. Főleg az. A Schelde folyóba esett? NAGYON IGAZSÁGTALAN.
+903 Varsó — a hó
+904 A palota a síkság végén? Ott vár rád. Vigyél egy sálat. És egy megafont, az asztalhoz.
+905 Azt fogja mondani, hogy Európa fázik nélküle. Mutasd meg neki, hogy Európa megtanult egyedül is megmelegedni.
+906 Az asztal
+907 Egy fehér asztal. Nagyon fehér. Nagyon hosszú. Olyan hosszú, hogy saját időzónája van.
+908 (nagyon hangosan) JÓ NAPOT!
+909 Három másodperccel később a visszhang a terem másik végéből érkezik.
+910 Nagyon jól hallom. Ön van túl közel.
+911 Pireusz
+912 Egy ajándék. Egy plüss panda. Népeink barátságát szimbolizálja.
+913 Nagyon kedves. Köszönöm. …Miért váltott most zászlót a kikötő?
+914 Stratégiai partnerség. Önöknél marad a panda. Nálunk marad a kikötő. Mindenki elégedett.
+915 Görög dokkmunkás
+916 Én inkább az igazi pandát választottam volna. Bambuszt eszik, legalább nem vásárol fel semmit.
+917 A G-Minden Csúcs
+918 A G-Minden Csúcs. Három nagyhatalom. Egyetlen asztal. És Európa, akit a kihajtható ülésre tettek.
+919 Európának választania kell: engem.
+920 Európának választania kell: engem. Vagy a hideget.
+921 Európa választhat. Mi már megvettük mindkét opciót.
+922 Európa talpra áll
+923 Európa nem urat választ. Azt választja, hogy együtt marad. Huszonhét ország, huszonnégy nyelv, egyetlen asztal. A miénk.
+924 Elmegyek. ÉN döntöttem úgy, hogy elmegyek. Senki nem győzött le.
+925 Én is megyek. Az ajtó egyébként is túl közel volt hozzám.
+926 Megyünk. De partnerek maradunk. És versenytársak. És riválisok. Jó estét.
+927 Három ajtó csapódik be. Három nagyhatalom duzzog. És a teremben gyakornokok ünnepelnek.
+928 Epilógus
+929 Brüsszel, a gyakorlat utolsó estéje
+930 A brüsszeli Grand Place. Kék és arany tűzijáték rajzol ki tizenkét csillagot a városháza fölött.
+931 {P}, az összes intézmény nevében, itt a gyakorlati igazolásod. Alá van írva, ellenjegyezve, és huszonnégy nyelvre lefordítva.
+932 A máltai változatban van egy elütés. Ez hagyomány.
+933 {P}! WAIT! Ne kezdjétek nélkülem!
+934 Oliver?! De… hogyan?
+935 Fiatal szakmai vízum, biztosítás, két formanyomtatvány, három bélyegző. Egy igazi papírmunka-Euromon. Visszajöttem. Turistaként. De visszajöttem!
+936 Csoportkép! Mindenki szorosan! Utána arcot paskolok.
+937 Csak akkor vagyok rajta a képen, ha senkinek nem mondjuk el, hogy rajta voltam.
+938 (kereten kívül) Vétó a fotóra.
+939 Neki már nincs vétójoga. Mosolyogjunk!
+940 „Nem államokat szövetkeztetünk, embereket egyesítünk.” És nőket, és gyakornokokat.
+941 Konkrét eredmények. Valós szolidaritás. Bravó, kölyök. És most… menj aludni. Holnap koordinációs megbeszélés van a megbeszélésekről.
+942 Róma, 1957. március 25.
+943 A Capitolium tér. 1957. március 25-én hat ország írta alá itt a római szerződéseket. A kő emlékszik rá. Ragyogni kezd.
+944 Maastricht, 1992. február 7.
+945 A Meuse, éjjel. Itt született meg az Európai Unió, és az egységes pénznem ötlete. Fénylő érmék emelkednek fel a víz felszínére.
+946 Lisszabon, 2007. december 13.
+947 Hajnal a Tejón. A Jerónimos-kolostor előtt szerződéslapok kezdenek lebegni, majd szállni.
+948 Üdv a kantinban! Egy kávé, egy szendvics, és az Euromonjaid újra olyanok, mint 40-ben… öhm, mint 57-ben.
+949 Foglalkozzak a csapatoddal?
+950 Így ni! Mindenki remek formában van. A kávé viszont még mindig langyos.
+951 Ahogy akarod. De ne gyere sírva a következő vita után!
+952 Jó napot! Európai vasútállomás, egyablakos pénztár. Az Interrail Bérletedet kérem… Tökéletes. Hová megyünk?
+953 Sajnálom, a nemzetközi vonatok csak az Interrail Bérlet tulajdonosainak. Úgy hírlik, Strasbourgban lehet megszerezni.
+954 1993 óta itt eszem. A menü csak egyszer változott: amikor megjelent az euró.
+955 Bankár
+956 Itt még a kávénak is máshol van az adóilletősége.
+957 Közgazdász
+958 A szendvics ára 12%-kal nőtt 2021 óta. A modellem 2%-ot jósolt. A modellem éhes.
+959 Parlamenti asszisztens
+960 Havonta négy napot itt, a többit Brüsszelben. A növényeim már nem ismernek meg.
+961 Pincérnő
+962 Egy frappét? Ez az egyetlen dolog, amit a Trojkának sosem sikerült megreformálnia.
+963 Úriember
+964 Régen Brüsszelre panaszkodtunk. Most arra panaszkodunk, hogy már nem panaszkodhatunk Brüsszelre.
+965 Itt gulyást eszünk. És vitázunk, csendben.
+966 Filozófus
+967 Gondolkodom, tehát ebédelek. És sokáig ebédelek: ez Párizs.
+968 Vásárló
+969 Töltőt keresek… Ja nem, igaz is, most már mindenhol USB-C van. Micsoda boldogság.
+970 Az árak nettók. Hát persze.
+971 Vásárló
+972 Mindent készpénzzel fizetek. A németek imádják a készpénzt.
+973 Bélyegzőket jövök venni. A főnökasszonyom le akarja bélyegezni az óraátállítás Euromonját.
+974 Minden féláron van! Á, nem, csak az áfa duplázódott meg.
+975 Az ár fontban, euróban, vagy választási ígéretben van megadva?
+976 Az eladó megkérdezte a véleményemet a kormányról. Azt mondtam: „vétó”.
+977 Egy bagettet, egy bélyegzőt, és egy tüntetést kérek.
+978 Utas
+979 A strasbourgi vonatom négy órát késik. A Parlament is, egyébként.
+980 {P}! Meglepetés! Eurostarral jöttem. Útlevéllel, egy nyomtatvánnyal és két óra sorban állással. Azért jöttem, hogy megkérdezzem… visszatérhetnék? Rejoin?
+981 De előbb egy vita. Mint a régi szép időkben!
+982 Micsoda gyakorlat! Nos, úgy hírlik, a visszatéréshez 35 fejezetet kell letárgyalni. Holnap kezdem. Cheers, {P}!
+983 1. fejezet a 35-ből: „az áruk szabad mozgása”. Halad a dolog!
+984 Utas
+985 Luxemburgban 2020 óta ingyenes a tömegközlekedés. Még a gyakornokoknak is!
+986 Frankfurt–Brüsszel között ingázom. A vonal összes tehenét ismerem a keresztnevén.
+987 Ezek a vasbőröndök mind EP-képviselőkhöz tartoznak. Többet utaznak, mint én.
+988 A vonat Pireuszba? Megszüntették. Úgy hírlik, valaki megvette a kikötőt.
+989 Az Eurostarhoz most útlevél kell. Visszavettük az irányítást. A sorban állás fölött.
+990 A Duna tíz országon folyik át. Én csak egyen próbálok átjutni ellenőrzés nélkül.
+991 Sztrájk a vasútnál. Á, nem, csak kedd van.
+992 Dokkmunkás
+993 Antwerpen, Európa második legnagyobb kikötője. Mindent látunk itt átmenni. Még vámokat is.
+994 Olyan hideg van gáz nélkül, hogy a pingvinek menedékjogot kérnek.
+995 Minden út Rómába vezet. A vonatok is, késéssel.
+996 Itt írták alá a szerződést 1992-ben. Sütött a nap. Az volt az egyetlen alkalom.
+997 Lisszabon, 2007: aláírtak egy szerződést, amely nagyon hasonlított egy alkotmányra. Pszt.
+998 Ma május 9. van: az Európa Nap! Zászlók lengenek mindenfelé az európai negyedben.
+999 Egy ritka Euromon, akit az ünnepségek csábítottak elő, előugrik egy dossziékupacból!

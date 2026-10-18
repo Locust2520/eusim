@@ -1,0 +1,254 @@
+# Suomi — ids 1500-1751
+1500 Kulkukortti
+1501 Avaa parlamentin ovet. Väri: harjoittelija.
+1502 OLAF-merkki
+1503 Mahdollistaa haamuavustajien näkemisen.
+1504 Euroopan passi
+1505 Viininpunainen, 32 sivua, kaikki rajat aukeavat.
+1506 Interrail-passi
+1507 Matkusta junalla koko Euroopassa.
+1508 REPowerEU-paketti
+1509 Lämmityksen käynnistämiseen, kun kaasu on katkaistu.
+1510 Konjakki
+1511 Arvokas pullo. Lisätullattu vuodesta 2024…
+1512 Ruokalakortti
+1513 Saldo: 3,40 €. Riittää kahviin.
+1514 Kellodirektiivi
+1515 Direktiivi kellonsiirrosta luopumisesta (2019).
+1516 Matka-arkku Bryssel–Strasbourg-muutosta.
+1517 Merkkikotelo
+1518 Sisältää sopimusten merkit.
+1519 Hei, uusi! Täällä kaikki ratkaistaan väittelyllä. Näytä, mihin pystyt!
+1520 Argh… Olisi pitänyt lukea tiivistelmät uudelleen.
+1521 Ha! Takaisin kopiokoneelle!
+1522 Kilpakumppani
+1523 No, {P}, testataanko Euromonejamme? Mine is obviously better.
+1524 What?! Se oli tuuria!
+1525 Easy. Kuten suunniteltu.
+1526 {P}! Onko sinulla jo merkki? Ei haittaa, saan sinut katumaan.
+1527 Not again… No, Frankfurtissa saat nähdä.
+1528 Ha! Luxemburg sopii minulle.
+1529 Kävin juuri EKP:ssä. Ymmärsin kaiken rahapolitiikasta. Melkein kaiken.
+1530 Bloody hell… Kehityt tosi nopeasti, {P}.
+1531 Kuten Cityssä sanotaan: time is money.
+1532 {P}… tämä on viimeinen väittelymme. Sen jälkeen palaan Lontooseen. Lopullisesti. No niin, one last time!
+1533 Good game, {P}. Ainakin lähden tyylillä.
+1534 Lähden voittajana. Sekin on jotain.
+1535 {P}! I'm back. No… haen paluuta. Rejoin? Mutta ensin väittely kunnian vuoksi!
+1536 No. Täytän jäsenhakemuksen. Siinä on 35 lukua…
+1537 Ha! Eroaminen tekee siis vahvemmaksi. Tai ei.
+1538 Minäkin olen harjoittelija! Palkaton, kuten sinä. Väitellään, se lohduttaa.
+1539 No… palaan ottamaan kopioita.
+1540 Seis! Onko retkeilylomakkeesi A-38 leimattu?
+1541 No, leimaan sen. Mutta kolmena kappaleena.
+1542 Viljelijä
+1543 Maatalouspolitiikka on elämäni! Ja traktori on perheeni. No niin, väitellään!
+1544 Pitää puhua tästä liitolle…
+1545 Yksityispankkiiri
+1546 Tervetuloa Luxemburgiin. Ehdoton hienotunteisuus. Tätä väittelyä ei koskaan käyty.
+1547 Tätä väittelyä ei todellakaan koskaan käyty.
+1548 Veroasiantuntija
+1549 Veroennakkopäätös? Kirjoitan sellaisen viidessä minuutissa. Mutta ensin väittely.
+1550 Järjestelyni… romahtivat!
+1551 Areenamestari
+1552 Ah, nuori harjoittelija! Tule, tule, niin taputan poskeasi. Sitten väitellään, kuten euroryhmän vanhoina hyvinä aikoina.
+1553 Bravo! Ansaitset Ennakkopäätösmerkin. Eikä se ole luottamuksellista!
+1554 No, älä näytä tuollaista naamaa, minä vitsailen… puoliksi.
+1555 Pyöräilen Moselin vartta! Ja väittelen roamingilla, ilmaiseksi!
+1556 Edes ilman verkkovierailumaksuja menetin kaiken.
+1557 Analyytikko
+1558 Markkinat ennakoivat voittoni 87 %:n todennäköisyydellä.
+1559 Markkinat erehtyivät. Kuten tavallista.
+1560 Viinitilallinen
+1561 Crémantillani on SAN. Euromoneillanikin. Melkein.
+1562 No, tarjoan sinulle lasillisen silti.
+1563 Osta halvalla, myy kalliilla, väittele kovaa!
+1564 Romahdus! Olen miinuksella!
+1565 Mallini mukaan häviät. Mallini ei ole koskaan väärässä. Paitsi vuonna 2008.
+1566 Joudun tarkistamaan ennusteeni.
+1567 Areenamestari
+1568 Tervetuloa Euroopan keskuspankkiin. Täällä minä päätän koroista… ja väittelyn tahdista. Hyökkäykseni riippuvat päivän ohjauskorosta!
+1569 Erinomaista. Ansaitset Euromerkin. Ja ole huoleti: en ole täällä kaventamassa korkoeroasi.
+1570 Hintavakaus on myös voittojen vakautta.
+1571 Ilmastoaktivisti
+1572 Jokainen hävitty väittely on aste lisää! No niin!
+1573 No, ainakin se oli hiilineutraali.
+1574 Yksinoikeudella! ”Harjoittelija häviää surkeasti”!
+1575 Vaihdan otsikkoa: ”Harjoittelija voittaa surkean hyvin”.
+1576 Viininviljelijä
+1577 Onko Rein raja? Ei, se on viiniä molemmin puolin! Kilistetään väittelyn jälkeen.
+1578 Kippis silti!
+1579 Jätin tänä aamuna 2 000 tarkistusta. Ensimmäinen koskee sinua.
+1580 Tarkistukseni hylätään yhtenä pakettina…
+1581 Istunto pidetään Strasbourgissa, arkkumme saapuivat, väitellään!
+1582 Palaan Brysseliin. Arkkujeni kanssa.
+1583 Hiljaisuus salissa! Istunto on avattu. Annan puheenvuoron… sinulle. Sitten otan sen takaisin.
+1584 Hyväksytty! Täysistuntomerkki myönnetään sinulle ehdottomalla enemmistöllä.
+1585 Istunto on päättynyt. Palaa seuraavalle istuntojaksolle.
+1586 Velka on kuin moussaka: se sulaa huonosti.
+1587 OXI tälle tappiolle!
+1588 Tilintarkastus! Euromonisi kuluttavat liikaa.
+1589 Tarkastusraportti: kielteinen.
+1590 Kansainvälinen valuuttarahasto suosittelee… tappiotasi.
+1591 Ennusteidemme tarkistus: alaspäin.
+1592 Tulin moottoripyörällä, ilman solmiota. Kuten 2015 euroryhmän edessä. Väitellään ja äänestetään: OXI vai NAI?
+1593 OXI… anteeksi, NAI: voitit. Ota OXI-merkki, toveri.
+1594 Kansa on puhunut. Ja kansa olen minä.
+1595 Iltapäivälehti
+1596 ETUSIVU: ”Bryssel haluaa kieltää käyrät banaanit”! Onko se valetta? Ei väliä, se myy.
+1597 Huomenna etusivulla: ”Historiallinen tappio”.
+1598 Entinen pääministeri
+1599 Hello! Olin kirjeenvaihtaja Brysselissä, tiedäthän. Kirjoitin kaikenlaista… enemmän tai vähemmän totta. Get debate done!
+1600 Crikey. No, minulla oli joka tapauksessa toinen juttu suorista kurkuista.
+1601 Nyt et enää naura, vai mitä? Tervetuloa pubiin. Väittely, tuoppi ja artikla 50.
+1602 No. Ota Artikla 50 -merkki. Me emme tarvitse sitä enää.
+1603 Take back control! Ainakin väittelystä.
+1604 Rajavartija
+1605 Tarkastus! Onko Euromonillasi viisumi?
+1606 Saat mennä. Mutta merkitsen sen muistiin.
+1607 Neuvonantaja
+1608 Pääministeri ei ota ketään vastaan. Paitsi niitä, jotka voittavat minut. Eikä sitä tapahdu koskaan.
+1609 Nyt tapahtui.
+1610 Haluatko suostumukseni? Yksimielisyys vaaditaan. Enkä ole koskaan samaa mieltä. Varo: voin käyttää VETOA joka vuoro.
+1611 No… Lähden kahville. Sillä välin ota tämä Vetomerkki. Virallisesti pidätyin äänestämästä.
+1612 Veto! Veto! Ja uusi veto!
+1613 Team Lobby
+1614 Eikö sinulla ole kulkukorttia? Hyvä, ei meilläkään.
+1615 Joudun ilmoittamaan tämän tapaamisen avoimuusrekisteriin…
+1616 Algoritmimme ennusti tappiosi. Hyväksytäänkö evästeet?
+1617 Virhe 403: tappio.
+1618 Pieni laukku äänestäsi? Ei? Sitten väittely.
+1619 En ole koskaan antanut kenellekään mitään. Kirjoita se ylös.
+1620 Team Lobbyn pomo
+1621 Tervetuloa vallan ytimeen, harjoittelija. Täällä lakeja ei kirjoiteta: niitä ”ehdotetaan”. Ja sinä allekirjoitat ehdotukseni.
+1622 Mahdotonta… Pelkkä palkaton harjoittelija… voitti lobbyn. Vetäydyn. Yksityiselle sektorille. Ai, olen jo siellä.
+1623 Kiitos osallistumisestasi julkiseen kuulemiseemme.
+1624 Asianajaja
+1625 Päämieheni kiistää 4,34 miljardin sakon. Ja tämän väittelyn.
+1626 Valitamme.
+1627 Juristi
+1628 Määräävän aseman väärinkäyttö? Minäkö? Olen vain määräävä.
+1629 Sakko hyväksytty…
+1630 Google, Apple… olen määrännyt miljardien sakkoja. Noudattaako tiimisi kilpailusääntöjä? Tarkistetaan.
+1631 Määräävän aseman väärinkäyttöä ei havaittu. Sakkomerkki on sinun.
+1632 Sakko! 4 % liikevaihdostasi.
+1633 Buu… Olen työskennellyt täällä… vuodesta 2009… no, paperilla…
+1634 Palaan… valesopimukseni… pariin…
+1635 Valetöiden henki
+1636 OLEN… KAIKKIEN NIIDEN SOPIMUSTEN SUMMA, JOILLA EI KOSKAAN OLLUT TOIMISTOA…
+1637 Palkka… laskelmani… haihtuvat…
+1638 Korkea virkamies
+1639 Kävin ENA:n. No, INSP:n. Lyhyesti: tiedän kaiken.
+1640 Kirjoitan muistion tästä epäonnistumisesta.
+1641 Ministeri
+1642 Olen ollut ministeri… tästä aamusta. Väitellään ennen seuraavaa hallitusmuutosta.
+1643 Vaihdettu!
+1644 Tervetuloa Sorbonneen! Täällä puhuin suvereenista Euroopasta vuonna 2017… ja 2024. Puhun sinulle kaksi tuntia. Ja samaan aikaan väittelen.
+1645 Upeaa! Ruumiillistat strategista autonomiaa. Ota Sorbonne-merkki… ja samaan aikaan onnitteluni.
+1646 Hajotan… tiimisi!
+1647 Eurooppa-neuvosto
+1648 Wir schaffen das. Yhdessä onnistumme. Mutta ensin sinun on voitettava minut. Ota aikaa: minulla on kuudentoista vuoden kokemus.
+1649 Onnistuit. Wir haben es geschafft.
+1650 Teen kaiken, mitä tarvitaan tämän väittelyn voittamiseksi. Whatever it takes. Ja usko minua: se riittää.
+1651 Raporttini suositteli 800 miljardin investointeja vuodessa. Sijoita ne tiimiisi.
+1652 Ulkoasioiden korkea edustaja. Diplomatiani on jämäkkää. Niin on baltialainen kilpenikin.
+1653 Selvä voitto. Eurooppa tarvitsee kaltaisiasi ihmisiä muuta maailmaa vastaan.
+1654 Eurooppa-neuvoston puheenjohtaja
+1655 Kello on 23.59. Tavoitteeni: saada tämä huippukokous päätökseen ennen puoltayötä. Ensimmäistä kertaa historiassa!
+1656 Kello on… 4.37 aamulla. Kuten tavallista. Bravo, saat nousta Berlaymontiin.
+1657 Komission puheenjohtaja
+1658 Tervetuloa Berlaymontin kolmanteentoista kerrokseen. Asun täällä, tiedäthän: minulla on huone toimistoni vieressä. Katsotaan siis, ansaitsetko direktiivin.
+1659 Team Europe… Olet paras harjoittelija, joka komissiolla on koskaan ollut. Kellodirektiivi on sinun!
+1660 Lähetän sinulle tekstiviestin. Tai ehkä en.
+1661 Varapresidentti
+1662 Tulin Müncheniin selittämään teille demokratiaa. Nyt tulen Antwerpeniin selittämään teille väittelyä.
+1663 No. Palaan kirjoittamaan puhetta.
+1664 Yhdysvaltain presidentti
+1665 TREMENDOUS! Kaikkien aikojen kaunein väittely, kaikki sanovat niin. Panen 200 %:n tullit Euromoneillesi. Ehkä 15. Katsotaan.
+1666 SE OLI HUIJAUSTA! No… tehdään diili. 15 %. Se on viimeinen sanani. Tältä päivältä.
+1667 Voitin! Kuten aina! Kukaan ei voita paremmin kuin minä.
+1668 Venäjän presidentti
+1669 Istu. Ei, kauemmas. Vielä kauemmas. Noin. Kuuden metrin päästä keskustelu on… strategisempaa. Hyökkäystesi perillepääsy vie vuoron.
+1670 Kaasu… on katkaistu… minun päästäni. Kiinnostavaa.
+1671 Talvi on tulossa. Sinulle.
+1672 Kiinan presidentti
+1673 Tervetuloa. Olemme kumppaneita. Ja kilpailijoita. Ja systeemisiä kilpailijoita. Riippuu vuorosta.
+1674 Hmm. Kunnioitettava kumppani. Poistan harvinaisten maametallien valvonnan… toistaiseksi.
+1675 Sisältö ei ole saatavilla alueellasi.
+1676 G-Kaikki-huippukokous
+1677 MINÄ ENSIN. Huippukokous on minun ideani. Luulisin.
+1678 Sad!
+1679 Pidin enemmän pitkästä pöydästä.
+1680 Viimeinen sana on… systeeminen.
+1681 Puhutaan taas viidenkymmenen vuoden päästä.
+1682 Antwerpenin satama – Vapauden golf
+1683 Ateena – Plaka
+1684 Berlaymont – 13. kerros
+1685 Myymälä – Ateena
+1686 Myymälä – Budapest
+1687 Myymälä – Bryssel
+1688 Myymälä – Frankfurt
+1689 Myymälä – Lontoo
+1690 Myymälä – Luxemburg
+1691 Myymälä – Pariisi
+1692 Myymälä – Strasbourg
+1693 Bryssel – EU-kortteli
+1694 Budapest – Tonavan rannat
+1695 Ruokala – Ateena
+1696 Ruokala – Budapest
+1697 Ruokala – Bryssel
+1698 Ruokala – Frankfurt
+1699 Ruokala – Lontoo
+1700 Ruokala – Luxemburg
+1701 Ruokala – Pariisi
+1702 Ruokala – Strasbourg
+1703 EU:n tuomioistuin
+1704 Europa-rakennus – Eurooppa-neuvosto
+1705 Frankfurt – Pankkikortteli
+1706 Asema – Antwerpen
+1707 Asema – Ateena
+1708 Asema – Budapest
+1709 Asema – Bryssel-Luxemburg
+1710 Asema – Frankfurt
+1711 Asema – Lissabon
+1712 Asema – Lontoo
+1713 Asema – Luxemburg
+1714 Asema – Maastricht
+1715 Asema – Pariisi
+1716 Asema – Rooma
+1717 Asema – Strasbourg
+1718 Asema – Varsova
+1719 Ateenan areena – Amfiteatteri
+1720 EKP:n torni – Kaupankäyntisali
+1721 Országház – Vetosali
+1722 Kilpailun pääosasto – Areena
+1723 Täysistuntosali – Täysistunto
+1724 The Brexit Arms – Pubiareena
+1725 Luxemburgin areena – Ennakkopäätössali
+1726 Sorbonnen suuri amfiteatteri
+1727 Lissabon – Jerónimosin luostari
+1728 Team Lobbyn päämaja – Kellari
+1729 Lontoo – Westminster
+1730 Luxemburg – Kirchbergin ylänkö
+1731 Maastricht – Maasin rannat
+1732 Talo – Frankfurt
+1733 Talo – Luxemburg
+1734 Talo – Strasbourg
+1735 Pariisi – Latinalaiskortteli
+1736 Euroopan parlamentti – Aula
+1737 Pireuksen satama – Konttiterminaali
+1738 Place Lux – Cocktail
+1739 Rooma – Capitolium
+1740 Tie 1 – Ardennien metsä
+1741 Tie 2 – Moselin laakso
+1742 Tie 3 – Reinin viinitarhat
+1743 Palatsi – Pitkä pöytä
+1744 Schengen – Moselin rannat
+1745 ”G-Kaikki”-huippukokous – Täysistuntosali
+1746 Strasbourg – EU-kortteli
+1747 Yksiösi (Ixelles)
+1748 Parlamentti – Haamusiipi, 1. kerros
+1749 Parlamentti – Haamusiipi, 2. kerros
+1750 Parlamentti – Haamusiipi, 3. kerros
+1751 Varsova – Itäinen tasanko
+1752 Talo – Maastricht

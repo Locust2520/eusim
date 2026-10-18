@@ -1,0 +1,468 @@
+# Română — ids 500-999
+500 Clădirea Europa găzduiește Consiliul European. Ai nevoie de cele opt insigne ale tratatelor pentru a fi primit.
+501 Ușieră
+502 Comisara este… foarte ocupată. Se zice că Team Lobby îi blochează toate anchetele. Se petrece sub barul din Place Lux.
+503 DG Concurență primește doar stagiari experimentați. Revino cu cel puțin șase insigne.
+504 Agent al Parlamentului
+505 Bine ai venit la Parlamentul European! Profesorul Schuman te așteaptă în fundul holului.
+506 Scara din dreapta duce la etaje… Se zice că o aripă e bântuită. Eu nu merg niciodată acolo.
+507 Ah, {P}! Te-ai decis să apari! Punctual… cu o oră mai puțin. Afurisita schimbare de oră.
+508 Hi! Eu am ajuns cu o oră în urmă. Eu sunt pe ora Londrei.
+509 Laboratorul profesorului
+510 Bine. Veți lucra cu Euromoni. Dosarele acestui Parlament sunt pline de ei.
+511 Am trei aici, foarte tineri. S-au născut din mari idei europene. Alege-l pe al tău, {P}.
+512 Ies… din dosare de carton?
+513 La Bruxelles, tot ce contează începe într-un dosar de carton, Oliver. Până și Europa.
+514 VERDEAL, născut din Pactul Verde. CHARBONNET, ieșit din CECO din 1951. Sau ATOMINO, venit direct din Euratom.
+515 Verdeal (tip Verde)
+516 Charbonnet (tip Industrie)
+517 Atomino (tip Energie)
+518 Alegere excelentă! Ai grijă de el. Un Euromon bine tratat valorează mai mult decât zece tratate ratificate prost.
+519 Atunci îl aleg pe cel care îl bate pe al tău. That's just smart negotiation.
+520 Oliver! Asta nu e foarte… comunitar.
+521 Haide, {P}, o mică dezbatere ca să vedem cine e cel mai bun stagiar?
+522 What?! Am pierdut împotriva unui stagiar continental?! A fost… un tur de încercare.
+523 Ha! Cum era de așteptat. Nu o lua personal, {P}, e cultural.
+524 Bravo amândurora. Acum, misiunea: să adoptați directiva privind eliminarea schimbării orei.
+525 Parlamentul a votat-o în martie 2019. De atunci doarme la Consiliu. Veți avea nevoie de cele opt insigne ale tratatelor pentru a fi luați în serios.
+526 Prima insignă vă așteaptă în Luxemburg, la Jean-Claude Juncker. Luați drumul prin Ardeni, spre est.
+527 Luxemburg? Easy. Voi fi acolo înaintea ta. See you, loser… ă, coleg!
+528 O clipă, {P}! Sunt Jean Monnet. Am inventat metoda pașilor mici. Iată un pas mare: EURODEX-ul.
+529 Înregistrează fiecare Euromon pe care îl întâlnești. Și iată cu ce să-i ștampilezi oficial.
+530 Slăbește un Euromon sălbatic, apoi lansează o Ștampilă oficială din SAC. Europa se bazează pe tine!
+531 Curaj, {P}! Fiecare insignă e o mică piatră. Ca pentru Europa: realizări concrete.
+532 Opt insigne! Consiliul European te așteaptă la clădirea Europa. Sunt atât de mândru.
+533 Arată-mi Eurodexul tău…
+534 Vorbește mai întâi cu profesorul Schuman, tânăr stagiar.
+535 Profesorul e acolo. Grăbește-te, mă plictisesc.
+536 Drumul 1 — Pădurea Ardeni. Luxemburg: 3 ore pe jos, 12 minute cu un rescript fiscal.
+537 Drumeț
+538 Pădurea Ardeni se întinde pe trei țări. Mistreții, în schimb, nu și-au arătat niciodată pașaportul.
+540 O zi, vom fi plătite. O zi…
+542 Nu uitați să completați formularul de satisfacție. Are 12 pagini.
+544 PAC-ul reprezintă o treime din bugetul european. Și combina mea e o treime din creditul meu.
+545 Luxemburg-Kirchberg. Curtea de Justiție a UE, Curtea de Conturi, Banca Europeană de Investiții. Și foarte multe bănci, pur și simplu.
+546 Spre Schengen, satul de pe Mosela unde a fost semnat acordul din 1985. Urmați drumul spre sud.
+547 Un drum mic coboară spre Mosela… și spre Schengen.
+548 Transportul public e gratuit aici! Am făcut de 14 ori înconjurul orașului cu tramvaiul. Fără motiv. Gratuit.
+549 Bunica
+550 Soțul meu era funcționar european. Lucra la Curtea de Conturi. Număra și oile ca să adoarmă.
+551 Judecător
+552 Curtea de Justiție a Uniunii Europene are sediul aici din 1952. Hotărârile noastre se impun celor 27 de state. Chiar și luni dimineața.
+553 Grefier
+554 Am tradus o hotărâre în 24 de limbi. În versiunea malteză există o greșeală de tipar. Nimeni n-a văzut-o în zece ani.
+555 Vameș luxemburghez
+556 Drumul pe Mosela e rezervat posesorilor Insignei Rescript. Vedeți-l pe dl. Juncker, la Arena Aurie.
+557 {P}! Încă aici? Eu am vizitat deja trei bănci și am deschis două conturi. De folclor.
+558 Dezbatere!
+559 Bine, OK, progresezi. Mă grăbesc la Frankfurt să văd BCE. Au promis să-mi explice ratele dobânzii.
+561 Aici, în Luxemburg, discreția e o virtute. Și o industrie.
+562 Avocatul Klein
+563 Rescripturile fiscale erau legale, să știți. Doar că nimeni nu trebuia să le citească. LuxLeaks, 2014, ce nenorocire.
+565 Ah, micul stagiar al lui Schuman! Vino, vino. Și eu am început mic. Apoi prim-ministru timp de optsprezece ani.
+566 Am prezidat Eurogrupul, apoi Comisia. Am văzut multe summituri. Și am bătut multe obraji ușor.
+567 O dată, în 2011, am spus: « Când devine serios, trebuie să minți. » Așa că nu o să-ți spun că te voi lăsa să câștigi.
+568 Formidabil! Ai câștigat Insigna Rescript. Asta e oficială, nu confidențială!
+569 Drumul pe Mosela ți-e deschis. Frankfurt te așteaptă, și Christine Lagarde nu glumește cu ratele.
+570 Mai treci pe la mine? Vino să-ți bat obrazul ușor. E tradiția luxemburgheză. Mă rog, a mea.
+571 Aici, pe 14 iunie 1985, la bordul vasului Princesse Marie-Astrid, cinci țări au semnat acordul Schengen privind eliminarea controalelor la frontiere.
+572 Căpitan
+573 Princesse Marie-Astrid! Pe un vas ca ăsta s-au abolit frontierele. Ironic, pe un râu care chiar e o frontieră.
+574 Se zice că un Euromon rar, Schengéon, bântuie prin dosarele satului. Nu se oprește niciodată la vamă.
+575 Drumul 2 — Valea Moselei. Trei țări în douăzeci de kilometri. Nu uitați să schimbați limba.
+577 Roamingul gratuit e cel mai frumos cadou al Uniunii. Am postat 4 000 de poze cu Mosela.
+579 Conform calculelor mele, veți câștiga următoarea insignă. Dar calculele mele sunt rareori corecte.
+581 Crémant-ul din Luxemburg e DOP! Ca și Fromajus-ul meu.
+582 Banca Centrală Europeană. Misiune: stabilitatea prețurilor. Țintă de inflație: 2 % pe termen mediu. Termen mediu: nespecificat.
+583 Trader
+584 Piețele sunt nervoase. Sunt mereu nervoase. E meseria lor.
+585 Economisitor
+586 Încă am salteaua mea cu mărci germane. Nu se știe niciodată.
+587 Drumul Rinului e închis stagiarilor fără Insigna Euro. Mergeți la dna Lagarde, la BCE.
+589 Speculam pe înfrângerea ta. Mi-am pierdut și cămașa. Și cravata.
+591 Șocul a fost exogen. Complet exogen.
+593 Bine ai venit la Banca Centrală Europeană. Aici, fiecare cuvânt pe care îl pronunț mișcă piețele. Așa că îmi aleg cuvintele.
+594 Într-o zi din martie 2020, am spus că nu suntem « aici pentru a reduce spread-urile ». Piețele italiene s-au prăbușit. Se mai învață.
+595 În arena mea, puterea atacurilor mele urmează rata dobânzii de politică monetară a momentului. Pregătit pentru puțină politică monetară?
+596 Remarcabil. Strategia ta a fost… previzibilă, în sensul bun al cuvântului. Iată Insigna Euro.
+597 Strasbourg e la sud, după viile Rinului. Roberta Metsola prezidează Parlamentul. Nu-i întrerupeți niciodată cuvântul.
+598 Ratele sunt stabile azi. Profitați, nu durează niciodată.
+599 BCE mi-a explicat tot: inflația, ratele, bilanțul… N-am înțeles nimic. Haide, o dezbatere, să mă relaxez!
+600 Hmm. Știi, la mine, la Londra, unii vorbesc despre a părăsi Uniunea. Ar fi ridicol, nu? …Nu?
+602 Pactul Verde a fost prezentat în decembrie 2019. De atunci, ne luptăm pentru fiecare virgulă.
+604 Următorul meu articol: « Comisia vrea să interzică dezbaterile pierdute ». E fals, dar va face senzație.
+606 Vinul din Alsacia și vinul din Baden se privesc peste Rin. Înainte erau tunurile. Ăsta e progresul!
+607 Strasbourg, sediul oficial al Parlamentului European. 12 sesiuni plenare pe an. 720 de deputați. Mii de cufere.
+608 Eurodeputată
+609 Fac Bruxelles–Strasbourg de douăsprezece ori pe an din 2014. Asta înseamnă… 132 de mutări. Cuferele mele au mai multe puncte de fidelitate decât mine.
+610 Funcționar
+611 Ajutor! Sesiunea începe în 2 minute și cuferele deputaților nu sunt încărcate! Mă poți ajuta?
+612 Toate cuferele sunt la bord! Ține, ia asta, e recompensa oficială a serviciului logistic.
+613 Ratat… Bine, vom zice că sesiunea începe cu întârziere. Ca de obicei. Mai încearcă oricând!
+614 Bine… o să mai plâng într-un cufăr.
+615 Deputatul Muller
+616 Cele 2 000 de amendamente ale mele… respinse în bloc. Va trebui să o luăm de la capăt în comisie.
+617 Deputata Rossi
+618 Pentru tratatul de la Lisabona, aveam un cufăr întreg de notițe. A rămas la Bruxelles.
+619 Ușier
+620 Silență în hemiciclu! Doamna Președintă acceptă dezbateri doar după un vot. Vrei să încerci un vot în plen?
+621 Adoptat cu majoritate! Președinta te va primi.
+622 Respins… Cvorumul nu a fost atins. Încearcă din nou!
+623 Votul tău a fost înregistrat. Președinta te așteaptă.
+625 Ședința e deschisă. Președintă a Parlamentului din 2022, realeasă în 2024: sunt obișnuită să impun respectarea timpului de vorbire.
+626 Ai treizeci de secunde. Ah, s-a terminat deja. Bine, să dezbatem!
+627 Rezultatul e clar: adoptat! Insigna Hemiciclu îți revine.
+628 Și iată Pass-ul Interrail european. Cu el, toate gările îți sunt deschise. Următoarea ta insignă e la Atena.
+629 Se zice că Yanis Varoufakis ține acolo cursuri… pe motocicletă. Luați trenul de la gara din Strasbourg.
+630 O dezbatere? Nu fără un vot în plen. Vedeți-l pe ușier.
+631 Următoarea sesiune e peste o lună. Nu vă uitați cuferele!
+632 Atena. Leagănul democrației, al filosofiei… și al referendumului din 5 iulie 2015.
+633 Acropolea are 2 500 de ani. A supraviețuit perșilor, otomanilor și Troikăi.
+634 Vameș grec
+635 Portul Pireu? Închis vizitatorilor. Aparține unor… parteneri. Foarte parteneri.
+636 Scuze, acces rezervat la port. Reveniți când situația va fi… mai diplomatică.
+638 În 2015, am votat OXI. Și după… e complicat.
+639 Agent Troika (BCE)
+640 Raportul nostru recomandă și mai multă rigoare. Chiar și pentru Euromonii tăi.
+641 Agent Troika (FMI)
+642 Recunoaștem câteva erori în previziunile noastre. Între noi fie vorba.
+644 Vii pentru o insignă? Am venit aici pe motocicletă, în geacă de piele, fără cravată. Ca la ședințele Eurogrupului din 2015.
+645 Ministru de Finanțe timp de șase luni. Am demisionat după referendum: 61 % pentru OXI. Democrația e frumoasă, și încăpățânată.
+646 Troika mă aștepta la colț. Tu i-ai învins agenții. Arată-mi dacă ești mai puternic decât austeritatea!
+647 NAI! Ă, voiam să zic: bravo. Iată Insigna OXI, tovarășe.
+648 Următoarea ta insignă e la Londra. Dar grăbește-te: acolo se vorbește tot mai mult despre o anumită ușă de ieșire.
+649 Mă duc să țin o conferință. Despre datorie. Pe motocicletă.
+650 Westminster. Aici, pe 23 iunie 2016, Regatul Unit a votat cu 51,9 % pentru a părăsi Uniunea Europeană.
+651 Gardian regal
+652 (Nu se mișcă. Nici pentru Brexit.)
+653 Redactor-șef
+654 Mâine, titrăm despre castravetii prea drepți. A funcționat douăzeci de ani.
+656 În anii '90, eram corespondent la Bruxelles pentru Daily Telegraph. Am scris niște lucruri… imaginative. Get Brexit done!
+658 Bine ai venit la pub! O halbă? Eu am petrecut douăzeci de ani la Parlamentul European explicând că n-ar trebui să fim acolo.
+659 Pe 28 iunie 2016, le-am spus eurodeputaților: « Nu mai râdeți acum, nu-i așa? ». Nu au râs. Nici tu n-o să râzi.
+660 Bine. Ai câștigat. Ia această Insignă Articolul 50. Noi am folosit-o deja.
+661 Încă ești aici? Noi am plecat, să știi.
+662 Trebuie să mă întorc acasă. Nu mai am dreptul să fiu stagiar la Parlament. Dar înainte… o ultimă dezbatere. Pentru onoare.
+663 Mulțumesc, {P}. Ai grijă de directivă în locul meu. Și de ora de vară. La noi, n-o s-o schimbăm niciodată, desigur.
+664 Goodbye. Sau mai bine… see you later. Cine știe?
+665 Oliver a plecat. Trenul spre Londra nu mai apare la ghișeu. Următoarea etapă: Budapesta, pe Dunăre.
+666 Országház, Parlamentul maghiar, pe malurile Dunării. Cea mai mare clădire din Ungaria. Și cel mai mare veto.
+667 Tânără maghiară
+668 Se zice că opoziția câștigă teren. Un anume Péter Magyar face campanie în toată țara.
+670 Ungurii au votat pe 12 aprilie 2026. Partidul meu, Tisza, a obținut majoritatea de două treimi. Se deschide o nouă pagină!
+672 Am construit un gard. Îi folosește mai ales la poze.
+673 Consilier special
+674 Prim-ministrul va ieși să bea o cafea. E o tehnică de negociere.
+676 Vii să cauți un acord? Aici e nevoie de unanimitate. Și eu nu sunt niciodată de acord.
+677 În 2024, am prezidat Consiliul Uniunii cu sloganul « Make Europe Great Again ». Nu vă aduce aminte de nimic?
+678 În arena mea, pot pune VETO la fiecare tură. Și, din când în când… ies să beau o cafea. Ca în decembrie 2023, în timpul votului despre Ucraina.
+679 …Bine. Mă abțin. Ia această Insignă Veto. Oficial, nu eram în sală.
+680 Câteva luni mai târziu, pe 12 aprilie 2026, ungurii votează. Partidul Tisza al lui Péter Magyar câștigă cu o majoritate de două treimi.
+681 Orbán și-a recunoscut înfrângerea: « dureros, dar clar ». Mulțumesc, stagiar. Du-te înapoi la Bruxelles: se pare că DG Concurență are o problemă… de lobby.
+682 Am plecat să beau o cafea. Reveniți mai târziu. Mult mai târziu.
+683 Barman
+684 Place Lux, joia seara, tot Bruxelles-ul vine la un pahar. Deputații, asistenții… și lobbyiștii. Mai ales lobbyiștii.
+685 Subsolul? Rezervat membrilor. Ești înscris în registrul de transparență? Nu? Nici eu. Poftiți, intrați.
+686 Circulă, stagiar. Aici se discută afaceri între oameni mari.
+687 Lobbyist al petrolului
+688 Tranziția energetică? O susținem. Începând din 2080.
+689 Lobbyist tech
+690 Respectăm GDPR-ul. Avem chiar și un banner de cookie-uri de 47 de pagini.
+691 Valizele? Sunt valize de documentare. Foarte documentate.
+693 În decembrie 2022, poliția belgiană a găsit saci de bani în mai multe apartamente din Bruxelles. S-a numit asta « Qatargate ».
+694 Eram vicepreședintă a Parlamentului. Am contestat mereu acuzațiile. La data acestui joc, nu s-a pronunțat niciun verdict definitiv în acest caz.
+695 Notă: orice persoană acuzată este prezumată nevinovată până la judecarea definitivă.
+696 Lobbyistul-șef
+697 Ia te uită. Stagiarul. Știi câți suntem la Bruxelles? 25 000. Și tu ești unul singur.
+698 Directiva ta privind ora de vară? Am clienți care vând ceasuri. Va rămâne blocată. Doar dacă…
+699 Bine jucat. Îmi declar oficial înfrângerea în registrul de transparență. Și trec în privat. Ah, deja sunt acolo.
+700 Team Lobby se dispersează. Anchetele DG Concurență pot continua!
+701 Avocatul Big Tech
+702 Vom face apel. Apoi apel la apel.
+703 Jurist al concurenței
+704 Abuz de poziție dominantă… Cuvântul « abuz » e cam dur.
+706 Mulțumesc că ne-ai scăpat de Team Lobby. Dosarele mele avansează în fine!
+707 Google: amendă de 2,4 miliarde de euro în 2017, 4,3 miliarde în 2018. Apple: 13 miliarde de ajutoare fiscale de rambursat, confirmat de Curte în 2024.
+708 Echipa ta respectă regulile concurenței? O să verific. Personal.
+709 Nicio infracțiune constatată. Insigna Amendă e a ta. Și ia și asta: insigna OLAF, Oficiul Antifraudă.
+710 Se semnalează niște… prezențe stranii într-o aripă a Parlamentului. Asistenți pe care nu-i vede niciodată nimeni. Cu această insignă, îi vei vedea.
+711 Nicio amendă pentru tine azi. Profită.
+712 Un coridor rece… Se aud tastaturi bătând singure. Dar nu e nimeni. Ar fi nevoie de o modalitate de a vedea invizibilul.
+713 Mai bine coborâm pentru moment.
+714 Asistent fantomă
+715 Biroul meu? Nu l-am găsit niciodată…
+716 Eram plătit să asist… un partid. Nu un deputat.
+717 Uuu… Schimbarea orei mă face să apar de două ori pe an…
+718 Contractul meu spune « asistent local ». Local a ce? Mister.
+719 Dispar… în fine…
+720 Mulțumesc… că m-ai eliberat de acest contract…
+722 Afacerea asistenților parlamentari ai FN: sistemul plătea angajați ai partidului cu banii Parlamentului European.
+723 Am fost condamnată în primă instanță pe 31 martie 2025, apoi în apel pe 7 iulie 2026: trei ani, dintre care unul cu executare sub brățară electronică, și cincisprezece luni de ineligibilitate.
+724 Cu această pedeapsă în apel, candidatura ei la prezidențialele din 2027 devine din nou teoretic posibilă. Un ultim recurs în casație rămâne posibil.
+726 Afacerea asistenților MoDem e altceva. În februarie 2024 am fost achitat « în baza îndoielii ». Parchetul a făcut apel.
+727 Apoi am fost prim-ministru… din decembrie 2024 până în septembrie 2025. Timpul trece rapid la Matignon.
+728 Asistenții fantomă nu fac politică: bântuie toate partidele care i-au angajat greșit.
+729 Contractul Gol
+730 SUNT… SPIRITUL TUTUROR CONTRACTELOR FĂRĂ BIROU… AL TUTUROR PARTIDELOR… AL TUTUROR LEGISLATURILOR…
+731 Contractul Gol se disipează într-un nor de fluturași de salariu. Aripa fantomă e în fine calmă.
+732 Un mesaj de la Roberta Metsola ajunge: « Mulțumesc! Ultima insignă te așteaptă la Paris, la Sorbona. »
+733 Sorbona. Aici, Emmanuel Macron a ținut două mari discursuri despre Europa, în 2017 și în 2024. Al doilea a durat aproape două ore.
+734 Am întrebat de drum în engleză. Mi s-a răspuns în franceză. Cu un surâs. Foarte subtil.
+735 Enarh
+736 Am redactat o notă de sinteză despre înfrângerea mea. Are 80 de pagini.
+737 Ministru delegat
+738 Tocmai am fost remaniat în timpul luptei. E un record.
+740 Bine ai venit la Sorbona! Aici am vorbit despre o Europă suverană în 2017. Apoi despre o Europă care « poate muri », în 2024.
+741 În 2019 am spus că NATO era în « moarte cerebrală ». În 2024 am dizolvat Adunarea Națională. Îmi plac deciziile… surprinzătoare.
+742 Așa că să dezbatem, și în același timp, să reflectăm. Autonomie strategică!
+743 Magnific! Ai calitățile unei mari europene… sau ale unui mare european. Și în același timp pe amândouă. Insigna Sorbona e a ta.
+744 Cu opt insigne, Consiliul European te așteaptă la clădirea Europa, la Bruxelles. Baftă: summiturile lor se termină rar înainte de ora 5 dimineața.
+745 Ți-aș vorbi cu plăcere despre Europa timp de două ore, dar ai un Consiliu de convins.
+746 Prolog — 9 mai 1950
+747 9 mai 1950
+748 Paris, Quai d'Orsay, ora 18
+750 Domnilor, vă mulțumesc că ați venit. Voi fi scurt. Mă rog… voi încerca.
+751 (în șoaptă) O spune de fiecare dată.
+752 (în șoaptă) Robert. Fraza despre cărbune. Nu uita fraza despre cărbune.
+753 « Guvernul francez propune plasarea întregii producții franco-germane de cărbune și oțel sub o Înaltă Autoritate comună. »
+754 Cărbunele? Oțelul? Am ratat aperitivul pentru asta?
+755 Cinci ani după război, ideea e simplă și nebunească: să punem în comun ceea ce servește la fabricarea tunurilor.
+756 Pentru ca războiul să devină « nu numai impensabil, dar material imposibil ».
+757 Șase țări în 1951. Apoi nouă, douăsprezece, cincisprezece, douăzeci și cinci… Douăzeci și șapte astăzi.
+758 Și în fiecare dimineață, undeva la Bruxelles, un stagiar se trezește cu întârziere.
+759 Capitolul 1
+760 Luni. Ceasul tău arată 6:58. Telefonul tău, 7:58. Unul dintre cele două n-a fost anunțat despre schimbarea orei.
+762 PRIMA ZI DE STAGIU!
+763 Rue de la Loi. Un croissant, trei dosare, zero demnitate.
+764 Biciclist
+765 Pistă pentru biciclete! Până și stagiarii respectă regulamentul 2019/1242! Mă rog, cred că există.
+766 {P}! Prima zi, și deja o oră întârziere. Eu sunt aici din 6:58. Ora Londrei, desigur.
+767 Profesorul Schuman ne așteaptă în holul Parlamentului. I-am spus că erai bolnav. O să-mi mulțumești mai târziu.
+768 Capitolul 2 — Luxemburg
+769 Capitolul 2
+770 Podul Adolphe trece peste valea Pétrusse. Jos, grădini. Sus, bănci. La mijloc, trenul tău.
+771 Ah, micul englez! Vino să te îmbrățișez!
+772 Sir, eu… we don't do that. În Anglia, dăm mâna. De la distanță. Cu mănuși.
+773 Aici e Luxemburg. Ne pupăm pe obraz, ne batem obrazul ușor, și vorbim patru limbi în aceeași propoziție. Moien, bonjour, guten Tag, hello!
+775 Arena mea Aurie e la Kirchberg, stagiar. Vino când vrei. Bat obrajii gratuit. E singurul serviciu gratuit din cartier.
+776 Schengen, trei frontiere
+777 Schengen. Aici, Franța, Germania și Luxemburgul se întâlnesc la marginea viilor.
+778 Pe 14 iunie 1985, cinci țări au semnat aici, pe un vas, acordul care elimină controalele la frontiere. Pe un râu care CHIAR E o frontieră. Ne place ironia, pe Mosela.
+779 Vameș
+780 Treizeci de ani de când ștampilez pașapoarte. Și acum? Fluturii trec fără viză.
+781 O să mă reconvertesc. Ștampilator de cărți poștale. E o piață de viitor.
+782 Capitolul 3 — Frankfurt
+783 Capitolul 3
+784 Frankfurt pe Main
+785 Frankfurt, noaptea. Două turnuri de sticlă, un simbol al euro mare cât un autobuz. Banca Centrală Europeană nu doarme niciodată. Supraveghează inflația.
+786 Vezi maneta asta? Rata de politică monetară. O ridic, prețurile se calmează. O scad, economia respiră.
+787 O ating din greșeală cu cotul, și trei guverne cad. Așa că nu mă sprijin niciodată de birou.
+788 IT'S RAINING EUROS! Asta e relaxarea cantitativă?!
+789 Nu, domnule. Aerul condiționat a suflat bancnotele de la expoziție. Dați-le înapoi. Pe toate. Număr.
+790 Capitolul 4 — Strasbourg
+791 Capitolul 4
+792 O dată pe lună, Parlamentul se mută de la Bruxelles la Strasbourg. Cu deputații săi, asistenții săi… și mii de cufere.
+793 Eurodeputat
+794 Cuferul meu a făcut mai multe sesiuni plenare decât mine. Are chiar un loc în comisia de transporturi.
+795 Ședința e deschisă! …Unde sunt deputații?
+796 Doamnă Președintă, încă își caută cuferele pe peron.
+797 Atunci votăm prin ridicare de mână. Au cuferele drept de vot? Nu? Păcat, ele sunt la timp.
+798 Capitolul 5 — Atena
+799 Capitolul 5
+800 Acropolea la apus. Două mii cinci sute de ani de democrație, de filosofie… și de ședințe care se termină târziu.
+801 Domnule Varoufakis, planul dumneavoastră nu corespunde foilor noastre de calcul.
+802 Foile voastre de calcul nu corespund realității. Vă propun o dezbatere. Pe motocicletă, dacă puteți urmări.
+803 Noi nu facem motocicletă. Noi facem recomandări.
+804 Atunci recomandați-vă să vă dați la o parte. Am o arenă care mă așteaptă.
+805 Capitolul 6 — Londra
+806 Capitolul 6
+807 Londra, sub ploaie. Ca de obicei. Dar de această dată, ceva mai apăsător plutește în aer.
+808 O halbă pentru toată lumea! Și un autobuz pentru campanie! Nu importă ce scriem pe el, oamenii vor citi autobuzul, nu notele de subsol.
+809 Fără panică! Sunt blocat pe o tiroliană, dar e o strategie. Get Brexit done! Și cineva, o scară, vă rog.
+810 Referendumul
+811 23 iunie 2016. 51,9 % dintre votanți aleg să părăsească Uniunea Europeană.
+812 Pe 31 ianuarie 2020 la miezul nopții, ora Bruxelles-ului — 23:00 la Londra —, Regatul Unit nu mai este membru al Uniunii.
+813 Știi ce e ciudat? Nu voiam să fiu aici, la început. Voiam doar să câștig.
+814 Și acum trebuie să plec, și nu mai am chef. Ironic, isn't it?
+815 O să te întorci. Există Erasmus, schimburile, vizele de studenți…
+816 Erasmus? Am ieșit și din ăla. Dar o să găsesc o soluție. Englezii găsesc mereu o soluție să se întoarcă în Europa. Se numesc vacanțe.
+817 Capitolul 7 — Budapesta
+818 Capitolul 7
+819 Parlamentul maghiar, auriu pe Dunăre. Cea mai mare clădire din țară. Și cea mai mare colecție de ștampile « VETO » din Europa.
+820 Bugetul european? Veto. Ajutor pentru Ucraina? Veto. Culoare nouă pentru insignele Consiliului? Veto. Din principiu.
+821 Domnule prim-ministru, era comanda pentru prânzul dumneavoastră.
+822 …Veto, totuși. Nu-mi place să se decidă în locul meu.
+823 12 aprilie 2026
+824 Unguri! În seara asta nu am câștigat împotriva Europei, nici împotriva vecinilor noștri. Am câștigat pentru noi înșine!
+825 Mulțime
+826 TISZA! TISZA! TISZA!
+827 Nu sunt îmbufnat. Reflectez. Cu spatele. Cu un nor peste cap. E foarte diferit.
+828 Decembrie 2022 — zorii zilei
+829 Bruxelles, decembrie 2022. În zori, poliția belgiană efectuează percheziții în jurul Place Lux.
+830 Polițist
+831 Șefu', sunt niște saci. Cu bani în ei. Mulți bani.
+832 Șeful poliției
+833 Numărați-i. Și nu vă atingeți de mingea de fotbal, ar putea fi o probă.
+834 Responsabili ai Parlamentului și persoane apropiate sunt reținuți. Anchetă privind o posibilă corupție în favoarea unor state străine.
+835 Toate persoanele acuzate sunt prezumate nevinovate până la judecarea definitivă.
+836 (în depărtare) Noi n-avem nicio legătură cu asta. Noi plătim în aperitive. E mai discret.
+837 DG Concurență
+838 Încă o amendă. Semnez, surâd, croșetez un elefant. E foarte relaxant.
+839 Doamnă comisară, giganții digitali cer o prelungire.
+840 Acordat. Au termen până… acum.
+842 Regulamentul privind serviciile digitale se aplică tuturor, domnule Musk. Până și rețelelor care își schimbă numele la fiecare șase luni.
+844 Răspund cu un meme. E poziția mea juridică oficială.
+845 Eu răspund cu o scrisoare de patru pagini. Asta e a mea.
+846 Trag fiecare de o parte a telefonului. Telefonul, el, arată « baterie slabă ».
+847 Turnul asistenților fantomă
+848 Grație insignei OLAF, invizibilul devine vizibil. Asistenți translucizi plutesc prin coridor, cu un fluturaș de salariu în mână.
+849 Bună ziua… Lucrez aici din 2009… Mă rog, contractul meu lucrează aici… Eu nu am venit niciodată…
+850 Angajatorii mei sunt tocmai acolo sus. Spun că nu mă cunosc. E jignitor, pentru o fantomă.
+851 (din spatele ușii) Nu sunt aici. Și dacă sunt, e în baza îndoielii.
+852 Capitolul 9 — Paris
+853 Capitolul 9
+854 Paris la ora de aur. Turnul Eiffel, Sena, și undeva, un discurs care începe și nu se mai termină.
+855 Europa trebuie să fie suverană! Puternică! Umanistă! Și aș adăuga chiar, dacă îmi permiteți, și o să-mi permit…
+856 Student
+857 De cât timp vorbește?
+858 Studentă
+859 O oră și patruzeci de minute. Tocmai a terminat introducerea.
+860 Sunt pentru rigoare ȘI pentru investiții. Pentru deschidere ȘI pentru protecție. Sunt de acord cu tine ȘI cu adversarul tău.
+861 Cum se numește asta?
+862 „În același timp”. E brevetat. Dar, în același timp, e liber de drepturi.
+863 Aprilie 2021 — Ankara
+864 Aprilie 2021, Ankara. Trei lideri intră în încăpere. Sunt doar două fotolii.
+866 (deja așezat) Oh. Oh, nu. Tocmai am înțeles.
+867 Nu, nu, nu vă deranjați. Mă simt foarte bine pe canapeaua asta. E lungă. E bej. E departe.
+868 Incidentul va face înconjurul lumii sub numele de « Sofagate ». De atunci, Charles Michel verifică numărul de scaune înainte să intre undeva.
+869 Capitolul 10 — Consiliul European
+870 Capitolul 10
+871 Noaptea Consiliului European
+872 Clădirea Europa. În felinarul său de sticlă, șefii de stat și de guvern se reunesc. Summiturile încep la ora 15. Se termină… mai târziu.
+873 Dragi colegi, e ora 4:12. Ne mai rămâne o virgulă de rezolvat în paragraful 37.
+874 Am văzut summituri în care s-a negociat o virgulă până la micul dejun. Era o virgulă foarte frumoasă.
+875 Propun o virgulă. Cu orice preț.
+876 Propun să mai comandăm pizza înainte ca cineva să propună un punct și virgulă.
+877 ACORD! E ora 5:03. Concluziile sunt adoptate. Poate cineva să-l trezească pe prim-ministrul care doarme sub masă?
+878 Etajul 13
+879 Berlaymont-ul la apus. Treisprezece etaje. La ultimul, președinta Comisiei așteaptă.
+880 Charles, poți să te oprești din îmbufnare? Au trecut cinci ani.
+881 Nu sunt îmbufnat. Mă uit la perete. E foarte interesant peretele ăsta. Nu are fotoliu.
+882 {P}. Ai venit, în fine.
+883 Vrei directiva? Învinge-mă. Team Europe, la final, va rămâne doar unul.
+884 Peretele stagiarilor
+885 La etajul 13, un coridor lung poartă fotografiile tuturor stagiarilor Comisiei. Nimeni nu se uită vreodată la ele.
+886 Astăzi, o ramă nouă aurie a fost tocmai atârnată. Și, pentru o dată, cineva se oprește să se uite la ea.
+887 Capitolul 11 — Marile Puteri
+888 Capitolul 11
+889 Marile Puteri
+890 Portul Anvers. Un avion prezidențial aterizează. Pescărușii, prudenți, zboară spre Țările de Jos.
+891 Prezentatoare TV
+892 Ediție specială! Washington, Moscova și Beijing trimit simultan mesaje Europei. Piețele hezită între panică și pui de somn.
+893 Client al cafenelei
+894 Iar? Nici nu mi-am terminat gofra.
+895 Chelner
+896 O gofră, domnule. E feminin. Ca Comisia.
+897 În același timp, la Pireu, un portcontainer mare cât un oraș acostează. Nimeni nu știe exact ce conține. Nici ce cumpără.
+898 Anvers — green-ul
+899 Uitați-vă la green-ul ăsta. Între două containere. Cel mai frumos green din istoria porturilor.
+900 Domnule Președinte, sacul de golf e foarte greu. Putem să-l taxăm?
+901 Lovitură magnifică, tata! Ă… Domnule Președinte!
+902 Fiecare minge care vine din Statele Unite plătește taxe vamale. Și asta. Mai ales asta. A căzut în Escaut? FOARTE INJUST.
+903 Varșovia — zăpada
+904 Palatul de la marginea câmpiei? Acolo te așteaptă. Ia un fular. Și un megafon, pentru masă.
+905 O să-ți spună că Europei îi e frig fără el. Arată-i că Europa a învățat să se încălzească singură.
+906 Masa
+907 O masă albă. Foarte albă. Foarte lungă. Atât de lungă încât are propriul ei fus orar.
+908 (foarte tare) BUNĂ ZIUA!
+909 Trei secunde mai târziu, ecoul se întoarce de la celălalt capăt al sălii.
+910 Te aud foarte bine. Tu ești cel care e prea aproape.
+911 Pireu
+912 Un cadou. Un panda de pluș. Simbolizează prietenia dintre popoarele noastre.
+913 E foarte drăguț. Mulțumesc. …De ce și-a schimbat tocmai portul drapelul?
+914 Parteneriat strategic. Tu ții panda. Noi ținem portul. Toată lumea e mulțumită.
+915 Docher grec
+916 Eu aș fi preferat panda adevărat. Mănâncă bambus, cel puțin nu răscumpără nimic.
+917 Summitul G-Tot
+918 Summitul G-Tot. Trei mari puteri. O singură masă. Și o Europă pusă pe scaunul pliant.
+919 Europa trebuie să aleagă: pe mine.
+920 Europa trebuie să aleagă: pe mine. Sau frigul.
+921 Europa poate alege. Noi am cumpărat deja ambele opțiuni.
+922 Europa se ridică
+923 Europa nu alege un stăpân. Ea alege să rămână unită. Douăzeci și șapte de țări, douăzeci și patru de limbi, o singură masă. A noastră.
+924 Plec. EU am decis să plec. Nimeni nu m-a învins.
+925 Plec și eu. Ușa era prea apropiată de mine, de altfel.
+926 Plecăm. Dar rămânem parteneri. Și concurenți. Și rivali. Seară bună.
+927 Trei uși se trântesc. Trei mari puteri sunt îmbufnate. Și în sală, niște stagiari aplaudă.
+928 Epilog
+929 Bruxelles, seara ultimei zile de stagiu
+930 Grand-Place din Bruxelles. Artificii albastre și aurii desenează douăsprezece stele peste primărie.
+931 {P}, în numele tuturor instituțiilor, iată atestatul tău de final de stagiu. E semnat, contrasemnat și tradus în douăzeci și patru de limbi.
+932 Versiunea malteză are o greșeală de tipar. E tradiția.
+933 {P}! WAIT! Nu începeți fără mine!
+934 Oliver?! Dar… cum?
+935 Viză de tânăr profesionist, asigurare, două formulare, trei ștampile. Un adevărat Euromon de hârtii. M-am întors. Ca turist. Dar m-am întors!
+936 Poză de grup! Toată lumea strânsă! Bat obrajii după.
+937 Sunt în poză doar dacă nu i se spune nimănui că am fost în poză.
+938 (din afara cadrului) Veto la poză.
+939 Nu mai are drept de veto. Surâdeți!
+940 « Noi nu coalizăm state, noi unim oameni. » Și femei, și stagiari.
+941 Realizări concrete. O solidaritate de fapt. Bravo, puiule. Și acum… du-te la culcare. Mâine e o ședință de coordonare despre ședințe.
+942 Roma, 25 martie 1957
+943 Piața Capitoliului. Pe 25 martie 1957, șase țări au semnat aici tratatele de la Roma. Piatra își amintește. Începe să strălucească.
+944 Maastricht, 7 februarie 1992
+945 Meuse, noaptea. Aici s-a născut Uniunea Europeană, și ideea unei monede unice. Monede luminoase ies la suprafața apei.
+946 Lisabona, 13 decembrie 2007
+947 Zorii peste Tajo. În fața mănăstirii Hieronimiților, pagini de tratat încep să plutească, apoi să zboare.
+948 Bine ai venit la cantină! O cafea, un sandviș, și Euromonii tăi repornesc ca în '40… ă, ca în '57.
+949 Mă ocup de echipa ta?
+950 Și poftim! Toată lumea e în formă maximă. Cafeaua, ea, e mereu călâie.
+951 Cum vrei. Dar nu veni să plângi la următoarea dezbatere!
+952 Bună ziua! Gara europeană, ghișeu unic. Pass-ul Interrail, vă rog… Perfect. Unde mergem?
+953 Scuze, trenurile internaționale sunt rezervate posesorilor de Pass Interrail. Se pare că se obține la Strasbourg.
+954 Mănânc aici din 1993. Meniul s-a schimbat o singură dată: la sosirea euro.
+955 Bancher
+956 Aici, până și cafeaua are domiciliul fiscal în altă parte.
+957 Economist
+958 Prețul sandvișului a crescut cu 12 % din 2021. Modelul meu prevedea 2 %. Modelul meu e flămând.
+959 Asistent parlamentar
+960 Patru zile pe lună aici, restul la Bruxelles. Plantele mele verzi nu mă mai recunosc.
+961 Chelneriță
+962 Un café frappé? E singurul lucru pe care Troika nu a reușit niciodată să-l reformeze.
+963 Gentleman
+964 Înainte, ne plângeam de Bruxelles. Acum, ne plângem că nu mai putem să ne plângem de Bruxelles.
+965 Aici se mănâncă gulaș. Și se dezbate, discret.
+966 Filosof
+967 Cuget, deci prânzesc. Și prânzesc mult: e Paris.
+968 Clientă
+969 Caut un încărcător… Ah nu, e adevărat, e USB-C peste tot acum. Ce fericire.
+970 Prețurile sunt fără taxe. Evident.
+971 Client
+972 Plătesc tot cu bani gheață. Germanii adoră banii gheață.
+973 Vin să cumpăr Ștampile. Șefa mea vrea să ștampileze Euromonul schimbării orei.
+974 Totul e la jumătate de preț! Ah nu, TVA-ul s-a dublat.
+975 Prețul e în lire, în euro, sau în promisiuni electorale?
+976 Vânzătorul m-a întrebat ce părere am despre guvern. Am spus: « veto ».
+977 O baghetă, o Ștampilă, și o manifestație, vă rog.
+978 Călătoare
+979 Trenul meu spre Strasbourg are patru ore întârziere. Parlamentul la fel, de altfel.
+980 {P}! Surpriză! Am luat Eurostarul. Cu un pașaport, un formular și două ore de coadă. Vin să cer… să mă întorc. Rejoin?
+981 Dar întâi, o dezbatere. Ca în vremurile bune!
+982 Ce stagiu! Bine, se pare că pentru a readera trebuie negociate 35 de capitole. Începi mâine. Cheers, {P}!
+983 Capitolul 1 din 35: « libera circulație a mărfurilor ». Avansează!
+984 Călător
+985 În Luxemburg, transportul public e gratuit din 2020. Chiar și pentru stagiari!
+986 Fac naveta Frankfurt–Bruxelles. Cunosc fiecare vacă de pe linie pe numele ei.
+987 Cuferele astea de fier sunt toate ale eurodeputaților. Călătoresc mai mult decât mine.
+988 Trenul spre Pireu? Închis. Se pare că cineva a cumpărat portul.
+989 Eurostarul cere acum pașaport. Am redobândit controlul. Cozi de așteptare.
+990 Dunărea traversează zece țări. Eu încerc doar să trec una fără control.
+991 Grevă la SNCF. Ah nu, e doar marți.
+992 Docher
+993 Anvers, al doilea port al Europei. Vezi trecând de toate. Chiar și taxe vamale.
+994 E atât de frig fără gaz încât pinguinii cer azil.
+995 Toate drumurile duc la Roma. Și trenurile, cu întârziere.
+996 Aici s-a semnat tratatul în 1992. Era soare. A fost chiar singura dată.
+997 Lisabona, 2007: s-a semnat un tratat care se asemăna foarte mult cu o Constituție. Șșt.
+998 Astăzi e 9 mai: Ziua Europei! Steaguri flutură pretutindeni în cartierul european.
+999 Un Euromon rar, atras de festivități, apare dintr-o stivă de dosare!

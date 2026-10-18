@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Debata více hráčů
+2148	Vytvořit místnost
+2149	Připojit se
+2150	Hrát s kýmkoli
+2151	Název místnosti
+2153	PIN (6 číslic)
+2145	Čekání na hráče…
+2146	Hledání každých 10 sekund.
+2147	PIN: %s
+2118	Zrušit (B)
+2117	Potvrdit (A)
+2116	←→: pozice    ↑↓: číslice
+2152	Zadejte název místnosti.
+2113	Neplatná odpověď serveru.
+2135	Neplatný požadavek na místnost.
+2136	Tento název místnosti se již používá.
+2137	Místnost nenalezena.
+2138	Nesprávný PIN.
+2139	Místnost je plná.
+2140	Verze hry se liší.
+2141	Server je plný.
+2142	Platnost místnosti vypršela.
+2143	Neplatná výměna debaty.
+2144	Server byl zastaven.
+2108	Debata zrušena.
+2109	Server neodpovídá.
+2110	Spojení se serverem přerušeno.
+2111	Druhý hráč opustil debatu.
+2115	Debaty nejsou synchronizované.
+2114	Čekání na druhého hráče… B: zrušit
+2123	Připojování k Wi-Fi… B: zrušit
+2124	Wi-Fi nelze spustit.
+2125	Zkontrolujte nastavení Wi-Fi konzole.
+2126	Spojení nelze vytvořit.
+2127	Spojení nelze nastavit.
+2128	Server není dostupný.
+2129	K debatě potřebujete tým.

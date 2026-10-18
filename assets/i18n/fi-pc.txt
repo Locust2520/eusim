@@ -1,0 +1,157 @@
+# Suomi — computer mini-games
+1928 Prince Mbeki III
+1929 4 milj. €:n perintö jaettavana
+1930 Diesellobby
+1931 Kutsu: hummeri-illallinen
+1932 Henkilöstöosasto
+1933 Koordinaatiokokous kokouksista
+1934 SuperPromo
+1935 Ilmainen puhelimesi odottaa
+1936 Qatar Events
+1937 Pieni matkalaukku sinulle?
+1938 TurvaPankki
+1939 Vahvista salasanasi tästä
+1940 Newsletter
+1941 47 jännittävää GDPR-uutuutta
+1942 Täysistunnon esityslista
+1943 Äiti
+1944 Syötkö kunnolla Brysselissä?
+1945 Ruokala
+1946 Päivän ruoka: waterzooi
+1947 Tuomioistuimen kirjaamo
+1948 Tuomio tiedoksi ennen puoltapäivää
+1949 Komissio
+1950 Budjettiäänestys huomenna
+1951 Eurodexisi on päivitetty
+1952 Väittely tänään? Minä voitan.
+1953 Saapuneet
+1954 437 lukematonta sähköpostia! Kosketa oikeaa viestiä lukeaksesi sen ja punaista ruksia heittääksesi roskapostin pois. Käsittele 20 ennen kuin laatikko tulvii yli!
+1955 Lue: kosketa · Roska: ruksi
+1956 Virheet: %d / 3
+1957 Tyhjä postilaatikko! Ensimmäistä kertaa sitten vuoden 2019. Nauti, ei kestä kauan.
+1958 Postilaatikko tulvii yli! Komission palvelin kaatui juuri. Taas.
+1959 Heitit puheenjohtajan viestin roskiin ja vastasit prinssille. Sattuuhan sitä parhaillekin.
+1960 Vuodesta 2024 lähtien EU:ssa myytävissä uusissa puhelimissa on oltava USB-C-portti.
+1961 Totta: yhteistä laturia koskevaa direktiiviä on sovellettu vuoden 2024 lopusta.
+1962 EU kieltää liian käyrien banaanien myynnin.
+1963 Tarua: vuoden 1994 asetus luokitteli banaanit laadun mukaan. Käyriä myydään yhä.
+1964 EU:n lipussa on 12 tähteä, koska jäsenmaita oli 12.
+1965 Tarua: 12 on täydellisyyden symboli. Lippu on vuodelta 1955, kauan ennen 12 jäsenmaata.
+1966 Euroopan parlamentti kokoontuu Strasbourgissa viikon kuukaudessa.
+1967 Totta: 12 istuntoa vuodessa Strasbourgissa, muuttolaatikot mukaan lukien.
+1968 Kansalaiset valitsevat EU-komissaarit suoraan.
+1969 Tarua: hallitukset ehdottavat heidät, ja parlamentti hyväksyy.
+1970 Euroopan unionissa on 24 virallista kieltä.
+1971 Totta: iiristä maltaan, kaikki tekstit käännetään kaikille 24 kielelle.
+1972 Kaikki EU-maat käyttävät euroa.
+1973 Tarua: vuonna 2026 sitä käyttää 21 maata 27:stä. Bulgaria liittyi viimeisimpänä.
+1974 Verkkovierailumaksut poistettiin EU:ssa vuonna 2017.
+1975 Totta: kesäkuusta 2017 on soitettu kaikkialla "kuin kotona".
+1976 EU:n hymni on Beethovenin Oodi ilolle.
+1977 Totta: ilman virallisia sanoja, ettei mikään kieli loukkaannu.
+1978 Luxemburg on EU:n pienin maa.
+1979 Tarua: se on Malta, noin 316 km².
+1980 Euroopan unioni on saanut Nobelin rauhanpalkinnon.
+1981 Totta: vuonna 2012, 60 vuodesta rauhaa ja sovintoa.
+1982 GDPR on suojannut henkilötietoja vuodesta 2018.
+1983 Totta: sitä on sovellettu 25.5.2018 lähtien. Siitä ne evästebannerit…
+1984 Käyrien kurkkujen myynti on kielletty EU:ssa.
+1985 Tarua: niiden käyryyttä koskeva normi poistettiin vuonna 2009.
+1986 Muovipullojen korkkien on pysyttävä kiinni pullossa.
+1987 Totta: pakollista heinäkuusta 2024, jotta ne eivät enää päätyisi luontoon.
+1988 Sveitsi on Euroopan unionin jäsen.
+1989 Tarua: se kuuluu Schengen-alueeseen, mutta ei EU:hun.
+1990 Euroopan keskuspankin päämaja on Brysselissä.
+1991 Tarua: se on Frankfurtissa, Saksassa.
+1992 Faktantarkistus
+1993 Huhut Euroopasta leviävät nopeammin kuin direktiivit! Kosketa jokaisen väitteen kohdalla TOTTA tai TARUA. Tarvitset 7 oikeaa vastausta 10:stä.
+1994 TOTTA
+1995 TARUA
+1996 Totta vai tarua?
+1997 Kysymys %d / 10
+1998 Oikein!
+1999 Liian myöhään!
+2000 Väärin!
+2001 Kosketa jatkaaksesi
+2002 Hienoa! Kaikki valeuutiset on kumottu. Faktantarkistajat haluavat palkata sinut.
+2003 Liikaa valeuutisia pääsi läpi… Tili "AitoEurooppa2027" saa 10 000 uutta seuraajaa.
+2004 Bulgaria
+2005 Tšekki
+2006 Tanska
+2007 Saksa
+2008 Kreikka
+2009 Englanti
+2010 Espanja
+2011 Viro
+2012 Suomi
+2013 Ranska
+2014 Iiri
+2015 Kroatia
+2016 Unkari
+2017 Italia
+2018 Liettua
+2019 Latvia
+2020 Malta
+2021 Hollanti
+2022 Puola
+2023 Portugali
+2024 Romania
+2025 Slovakki
+2026 Sloveeni
+2027 Ruotsi
+2028 Käännöspalvelu
+2029 Viestejä saapuu kaikkialta Euroopasta! Lue jokainen ja lähetä se oikeaan tulkkauskoppiin. 12 viestiä 45 sekunnissa. Virhe maksaa 3 sekuntia!
+2030 Tulkkauskopit
+2031 Lähetä viesti oikeaan koppiin
+2032 Kaikki viestit perillä! Käännöspääosasto tarjoaa sinulle työpaikkaa. 24 kielellä.
+2033 Slovakialainen viesti päätyi sloveeneille… Diplomaattista selkkausta käännetään parhaillaan.
+2034 Energiakriisi! Hinnat nousevat pilviin.
+2035 Sulkutila: kukaan ei osta enää mitään.
+2036 Jättimäinen elvytyspaketti hyväksyttiin yöllä!
+2037 Pörssiromahdus Frankfurtissa!
+2038 Mikrosirupula!
+2039 Kotitaloudet säästävät jokaisen sentin.
+2040 Johdat EKP:tä! Nouseeko inflaatio? Nosta korkoa. Laskeeko se? Laske korkoa. Pidä se vihreällä alueella (noin 2 %) vähintään puolet ajasta. 40 sekuntia!
+2041 Inflaatio: %s
+2042 Korko: %s
+2043 Laske
+2044 Nosta
+2046 Inflaatio hallinnassa! Markkinat taputtavat, säästäjät nukkuvat rauhassa.
+2047 Inflaatio karkasi käsistä… Ruokalan kahvin hinta juuri tuplaantui.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Yhteinen laturi
+2053 Vuodesta 2024 USB-C on pakollinen! Kosketa laitteita, joissa on vielä vanha portti, jotta ne saadaan säädösten mukaisiksi. Ei USB-C-laitteita! 20 laitetta 30 sekunnissa.
+2054 Vanhat portit, ei USB-C:tä!
+2055 Kaikki kunnossa! Yksi laturi kaikille. Euroopan johtolaatikot voivat taas hengittää.
+2056 "Korjasit" laitteen, jossa oli jo USB-C. Nyt siinä on kolme adapteria.
+2057 Liian moni vanha johto välttyi direktiiviltä… Johtolaatikko pursuaa yli.
+2058 Tietokoneesi. 437 lukematonta sähköpostia vilkkuu näytön nurkassa.
+2059 Sähköposti
+2060 Sammuta
+2061 Ilmoitus ponnahtaa esiin: "Onnittelut tuottavuudestasi!" Pöydän alla odotti paketti.
+2062 Tyhjä postilaatikko. Kolme sekuntia myöhemmin: "Vs: Koordinaatiokokous kokouksista".
+2063 Sähköpostipalvelin näyttää tiimalasia. Luultavasti vielä huomennakin.
+2064 Lehdistöpalvelun tietokone. Näytöllä lukee: "Faktantarkistusyksikkö – tarkistettavia huhuja: 2 384".
+2065 Hienoa faktantarkistusta! Lehdistöpalvelu antaa sinulle nämä asiantuntijaraportit. Lähteineen, kerrankin.
+2066 Kaikki päivän huhut on tarkistettu. Lisää tulee ennen lounasta.
+2067 Valeuutista jaettiin juuri 40 000 kertaa. Oikaisua 12 kertaa.
+2068 Käännöspääosaston pääte. Punainen valo vilkkuu: "Viestejä odottaa ohjausta".
+2069 Tulkit hukkuvat töihin! Voitko lajitella viestit ja lähettää ne oikeaan koppiin?
+2070 Kaksikymmentäneljä kieltä, ei ainuttakaan väärää ohjausta! Ota tämä osoitekirja, siinä ovat kaikki tuomioistuimen tulkit.
+2071 Erotat sloveenin slovakista paremmin kuin puolet neuvostosta.
+2072 Maltankielinen viesti päätyi iirin koppiin. Siitä väitellään yhä. Yritä uudelleen milloin vain.
+2073 Bloomberg-pääte, vielä lämmin. Post-it-lapussa: "Tavoite: 2 %. Ei 1,9. Ei 2,1. 2."
+2074 Otatko euroalueen rahapolitiikan ohjat?
+2075 Markkinat kiittävät varovaisuuttasi. Vakausbonus kilahtaa tilillesi!
+2076 Inflaatio 2 %. Jossain Frankfurtissa ekonomisti vuodattaa ilon kyyneleen.
+2077 Pääte näyttää vuoristoradan muotoista käyrää. Kukaan ei nähnyt mitään. Aloita äkkiä alusta.
+2078 Mepin tietokone. Pöydällä on 14 erilaisen laturin vyyhti.
+2079 Äänestin USB-C-direktiivin puolesta! Mutta kollegoillani on yhä vanhoja laitteita… Autatko saamaan ne säädösten mukaisiksi?
+2080 Yksi laturi kaikille! Tässä, ota tämä USB-C-tikku. Sen sanotaan kehittävän joitakin digitaalisia Euromoneja.
+2081 Johtolaatikko on vihdoin tyhjä. En enää tiedä, mitä sinne laittaisin.
+2082 Lightning-johtoja on yhä joka paikassa… Yritetään uudelleen milloin vain.
+2083 Vihreä alue: %d %%
+2084 Tavoite: puolet ajasta vihreällä
+2085 Dock 30

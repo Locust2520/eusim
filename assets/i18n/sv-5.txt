@@ -1,0 +1,41 @@
+# Swedish — completion
+583 Mäklare
+963 Herre
+1754 Titelskärmen
+1755 Professor Schuman
+1756 Laboratoriet
+1758 Din etta
+1761 Matsalen
+1763 Butiken
+1764 Stationen
+1766 På vägen
+1767 Debatt: vild Euromon
+1768 Ögonkontakt
+1769 Debatt: tränare
+1771 Debatt: Oliver
+1773 Seger
+1774 Seger (vild)
+1775 Seger (tränare)
+1776 Utveckling
+1778 Arenan
+1780 Debatt: arena
+1782 Debatt: arenaledare
+1784 Schengen
+1789 Hej då, Oliver
+1791 Team Lobby
+1792 Debatt: boss
+1794 Spökflygeln
+1797 Europeiska rådet
+1799 Debatt: Rådet
+1802 Debatt: Ordföranden
+1804 Debatt: Stormakterna
+1807 Sista debatten
+1809 Legendariska platser
+1810 Debatt: legendarisk
+1812 Sista debatten (variant)
+1813 Jukebox
+1814 %d av %d låtar
+1815 Välj en låt.
+1816 JUKEBOX
+1817 A: lyssna   B: tillbaka
+1818 En gammal jukebox, urkopplad. En lapp: ”Ska kopplas in igen efter ditt första märke. — Tekniska avdelningen”

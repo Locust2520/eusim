@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Ar líne
+2165	Gan idirlíon
+2166	Óstáil cluiche áitiúil
+2167	Glac páirt i gcluiche áitiúil
+2156	Cluichí in aice láimhe
+2158	Gan ródaire ná freastalaí.
+2159	Atosaigh an cluiche chun mód Wi-Fi a athrú.
+2163	Mód DS: líonra oscailte/WEP. Le WPA2, tosaigh an cluiche i mód DSi.
+2162	Wi-Fi DSi: seiceáil an líonra WPA2 agus socruithe an chonsóil.
+2160	Ag nascadh le Wi-Fi DSi… B: cealaigh
+2161	Ag nascadh le Wi-Fi DS… B: cealaigh
+2154	Níl an consól ag freagairt.

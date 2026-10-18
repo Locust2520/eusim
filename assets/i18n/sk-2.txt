@@ -1,0 +1,493 @@
+# Slovenčina — ids 500-999
+500 Budova Europa je sídlom Európskej rady. Na prijatie potrebujete osem odznakov zmlúv.
+501 Zriadenkyňa
+502 Komisárka je… veľmi vyťažená. Hovorí sa, že Team Lobby blokuje všetky jej vyšetrovania. Deje sa to pod barom na Place Lux.
+503 Generálne riaditeľstvo pre hospodársku súťaž prijíma len skúsených stážistov. Vráťte sa aspoň s šiestimi odznakmi.
+504 Agent Parlamentu
+505 Vitajte v Európskom parlamente! Profesor Schuman vás čaká na konci haly.
+506 Schodisko vpravo vedie na poschodia… Hovorí sa, že jedno krídlo je strašidelné. Ja tam nikdy nejdem.
+507 Á, {P}! Konečne tu si! Presný… s presnosťou na hodinu. Prekliata zmena času.
+508 Hi! Ja som tu už hodinu. Ja som totiž na londýnskom čase.
+509 Profesorovo laboratórium
+510 Dobre. Budete pracovať s Euromonmi. Spisy v tomto Parlamente sú nimi plné.
+511 Mám tu tri, celkom mladé. Zrodili sa z veľkých európskych myšlienok. Vyber si svojho, {P}.
+512 Vychádzajú… z kartónových zložiek?
+513 V Bruseli všetko, na čom záleží, začína v kartónovej zložke, Oliver. Aj Európa.
+514 VERDEAL, zrodený zo Zelenej dohody. CHARBONNET, pochádzajúci z ESUO z roku 1951. Alebo ATOMINO, priamo z Euratomu.
+515 Verdeal (typ Zelený)
+516 Charbonnet (typ Priemysel)
+517 Atomino (typ Energia)
+518 Výborná voľba! Postaraj sa oň. Dobre opatrovaný Euromon je lepší než desať zle ratifikovaných zmlúv.
+519 Tak si zoberiem toho, ktorý poráža tvojho. That's just smart negotiation.
+520 Oliver! To nie je veľmi… komunitárne.
+521 Poď, {P}, malá debata, nech vidíme, kto je lepší stážista?
+522 What?! Prehral som proti kontinentálnemu stážistovi?! To bol… len skúšobný galop.
+523 Ha! Presne, ako som čakal. Neber si to zle, {P}, je to kultúrne.
+524 Bravo obom. A teraz úloha: presadiť smernicu o zrušení zmeny času.
+525 Parlament ju schválil v marci 2019. Od tej doby spí v Rade. Budete potrebovať osem odznakov zmlúv, aby vás brali vážne.
+526 Prvý odznak na vás čaká v Luxemburgu, u Jeana-Clauda Junckera. Vydajte sa cestou cez Ardeny, na východ.
+527 Luxemburg? Easy. Budem tam skôr ako ty. See you, loser… ehm, kolega!
+528 Okamih, {P}! Som Jean Monnet. Vymyslel som metódu malých krokov. Tu je veľký krok: EURODEX.
+529 Zaznamenáva každého Euromona, ktorého stretneš. A tu máš niečo na ich úradné opečiatkovanie.
+530 Vyčerpaj divokého Euromona a potom vrhni Úradnú pečiatku z TAŠKY. Európa sa spolieha na teba!
+531 Odvahu, {P}! Každý odznak je malým kamienkom. Tak ako pri Európe: konkrétne výsledky.
+532 Osem odznakov! Európska rada ťa čaká v budove Europa. Som na teba taký hrdý.
+533 Ukáž mi svoj Eurodex…
+534 Prehovor najprv s profesorom Schumanom, mladý stážista.
+535 Profesor je tam. Poponáhľaj sa, nudím sa.
+536 Cesta 1 — Lesy Ardén. Luxemburg: 3 hodiny pešo, 12 minút pomocou daňového rescriptu.
+537 Turista-peší
+538 Ardénske lesy sa rozprestierajú na troch krajinách. Diviaky svoj pas nikdy neukázali.
+540 Jedného dňa budeme platené. Jedného dňa…
+541 Pán Dupont
+542 Nezabudnite vyplniť formulár spokojnosti. Má 12 strán.
+544 SPP je tretina európskeho rozpočtu. A môj kombajn je tretina môjho úveru.
+545 Luxemburg-Kirchberg. Súdny dvor EÚ, Dvor audítorov, Európska investičná banka. A veľa bánk vôbec.
+546 Smerom na Schengen, dedinku na Mosele, kde bola podpísaná dohoda z roku 1985. Pokračujte po ceste na juh.
+547 Malá cestička zostupuje k Mosele… a k Schengenu.
+548 Verejná doprava je tu zadarmo! Prešiel som mestom dvanásťkrát na tramvaji. Zbytočne. Zadarmo.
+549 Babka
+550 Môj muž bol európsky úradník. Pracoval na Dvore audítorov. Na uspatie počítal aj ovečky.
+551 Sudca
+552 Súdny dvor Európskej únie tu sídli od roku 1952. Naše rozsudky sú záväzné pre 27 štátov. Aj v pondelok ráno.
+553 Zapisovateľ
+554 Preložil som rozsudok do 24 jazykov. V maltskej verzii je preklep. Nikto si ho nevšimol za desať rokov.
+555 Luxemburský colník
+556 Cesta k Mosele je vyhradená pre držiteľov Odznaku Rescript. Zájdite za pánom Junckerom, do Zlatej arény.
+557 {P}! Stále tu? Ja som už navštívil tri banky a otvoril dva účty. Pre folklór.
+558 Debata!
+559 Dobre, OK, postupuješ. Ja sa poberám do Frankfurtu za ECB. Sľúbili mi vysvetliť úrokové sadzby.
+561 Tu, v Luxemburgu, je diskrétnosť cnosťou. A priemyslom.
+562 Advokát Klein
+563 Daňové rescripty boli legálne, vieš. Len nikto nemal čítať ich obsah. LuxLeaks, 2014, aká nešťastná vec.
+565 Ach, maličký stážista od Schumana! Poď, poď. Aj ja som začínal malý. Potom som bol osemnásť rokov premiérom.
+566 Predsedal som Euroskupine, potom Komisii. Toho som videl, samitov. A poplácal som veľa líc.
+567 Raz, v roku 2011, som povedal: „Keď sa to stane vážnym, treba luhať.“ Takže ti nebudem hovoriť, že ťa nechám vyhrať.
+568 Formidable! Získal si Odznak Rescript. Ten je skutočne úradný, nie dôverný!
+569 Cesta k Mosele je ti otvorená. Frankfurt na teba čaká, a Christine Lagarde sa so sadzbami nehráva.
+570 Vrátiš sa ma pozrieť? Poď sem, nech ťa poplácam po líci. Je to luxemburská tradícia. Teda, moja.
+571 Tu, 14. júna 1985, na palube lode Princesse Marie-Astrid, podpísalo päť krajín Schengenskú dohodu o zrušení hraničných kontrol.
+572 Kapitán
+573 Princesse Marie-Astrid! Práve na takejto lodi sa zrušili hranice. Iróniou, na rieke, ktorá sama hranicou je.
+574 Hovorí sa, že vzácny Euromon, Schengéon, blúdi v dedinských spisoch. Na colnici sa nikdy nezastaví.
+575 Cesta 2 — Údolie Mosely. Tri krajiny na dvadsiatich kilometroch. Nezabudnite prepnúť jazyk.
+576 Kevin
+577 Zadarmo roaming je najkrajší dar Únie. Zverejnil som 4000 fotiek z Mosely.
+578 Hans
+579 Podľa mojich výpočtov vyhráš ďalší odznak. Ale moje výpočty málokedy vychádzajú.
+580 Jean-Marc
+581 Luxemburský crémant je CHOP! Tak ako môj Fromajus.
+582 Európska centrálna banka. Úloha: cenová stabilita. Cieľ inflácie: 2 % v strednodobom horizonte. Strednodobý horizont: bližšie nešpecifikovaný.
+583 Obchodník
+584 Trhy sú nervózne. Sú vždy nervózne. Je to ich remeslo.
+585 Sporiteľ
+586 Stále mám svoj matrac plný nemeckých mariek. Nikdy nevieš.
+587 Cesta na Rýn je uzavretá pre stážistov bez Odznaku Euro. Zájdite za paňou Lagardovou do ECB.
+588 Karl
+589 Spekuloval som na tvoju prehru. Prišiel som o košeľu. I kravatu.
+591 Ten šok bol exogénny. Úplne exogénny.
+592 Christine Lagarde
+593 Vitajte v Európskej centrálnej banke. Tu každé slovo, ktoré vyslovím, pohne trhmi. Takže si svoje slová vyberám.
+594 Jedného dňa v marci 2020 som povedala, že nie sme „tu na to, aby sme znižovali spready“. Talianske trhy sa zrútili. Učíme sa.
+595 V mojej aréne sila mojich útokov sleduje aktuálnu základnú sadzbu. Pripravený na trochu menovej politiky?
+596 Pozoruhodné. Vaša strategia bola… predvídateľná, v tom dobrom zmysle slova. Tu je Odznak Euro.
+597 Štrasburg je na juhu, za rýnskymi vinicami. Roberta Metsola predsedá Parlamentu. Nikdy jej neskákajte do reči.
+598 Sadzby sú dnes stabilné. Užite si to, nikdy to netrvá dlho.
+599 ECB mi všetko vysvetlila: inflácia, sadzby, bilancia… Nič som nepochopil. No tak, debata, nech sa uvoľním!
+600 Hmm. Vieš, u nás v Londýne niektorí hovoria o vystúpení z Únie. To by bolo smiešne, nie? …Nie?
+601 Inès
+602 Zelená dohoda bola predstavená v decembri 2019. Od tej doby bojujeme o každú čiarku.
+603 Tom
+604 Môj ďalší článok: „Komisia chce zakázať prehraté debaty.“ Je to lož, ale pritiahne čítanosť.
+605 Albert
+606 Alsaské víno a bádenské víno sa pozerajú na seba cez Rýn. Kedysi to boli delá. Pokrok!
+607 Štrasburg, úradné sídlo Európskeho parlamentu. 12 plenárnych zasadnutí za rok. 720 poslancov. Tisíce kufrov.
+608 Europoslankyňa
+609 Robím Brusel–Štrasburg dvanásť krát za rok od roku 2014. To mi dáva… 132 presunov. Moje kufre majú viac vernostných bodov než ja.
+610 Úradník
+611 Pomoc! Zasadnutie začína za 2 minúty a kufre poslancov nie sú naložené! Pomôžeš mi?
+612 Všetky kufre sú na palube! Tu máš, to je úradná odmena logistickej služby.
+613 Nepodarilo sa… Dobre, povieme, že zasadnutie začína neskoro. Ako vždy. Skús to znova, keď budeš chcieť!
+614 Dobre… budem znova plakať v kufre.
+615 Poslanec Muller
+616 Mojich 2000 pozmeňovacích návrhov… zamietnutých v celku. Budem musieť začať znova vo výbore.
+617 Poslankyňa Rossi
+618 Pre Lisabonskú zmluvu som mala celý kufor poznámok. Zostal v Bruseli.
+619 Zriadenec
+620 Ticho v hemicykle! Pani predsedníčka prijíma debaty len po hlasovaní. Chcete skúsiť hlasovanie v pléne?
+621 Schválené väčšinou! Predsedníčka vás prijme.
+622 Zamietnuté… Kvórum nebolo dosiahnuté. Skúste znova!
+623 Vaše hlasovanie bolo zaznamenané. Predsedníčka na vás čaká.
+624 Roberta Metsola
+625 Zasadnutie je otvorené. Predsedníčka Parlamentu od roku 2022, znovu zvolená v roku 2024: som zvyknutá dohliadať na rečnícky čas.
+626 Máte tridsať sekúnd. Ách, už je po všetkom. Dobre, debatujme!
+627 Výsledok je jasný: schválené! Odznak Hemicyklu je váš.
+628 A tu je európsky Pass Interrail. S ním sú vám otvorené všetky stanice. Váš ďalší odznak je v Aténach.
+629 Hovorí sa, že Yanis Varoufakis tam prednáša… na motorke. Nastúpte na vlak na stanici v Štrasburgu.
+630 Debata? Nie bez hlasovania pléna. Zájdite za zriadencom.
+631 Ďalšie zasadnutie je o mesiac. Nezabudnite na kufre!
+632 Atény. Kolíska demokracie, filozofie… a referenda z 5. júla 2015.
+633 Akropola má 2500 rokov. Prežila Peržanov, Otomanov a Trojku.
+634 Grécky colník
+635 Prístav Pireus? Zatvorený pre návštevníkov. Patrí… partnerom. Veľmi partnerom.
+636 Ľutujem, prístup do prístavu vyhradený. Vráťte sa, keď bude situácia… diplomatickejšia.
+637 Nikos
+638 V roku 2015 som hlasoval OXI. A potom… je to zložité.
+639 Agent Trojky (ECB)
+640 Naša správa odporúča ešte väčšiu rigoróznosť. Aj pre vašich Euromonov.
+641 Agent Trojky (MMF)
+642 Uznávame niekoľko chýb v našich prognózach. Len medzi nami.
+643 Yanis Varoufakis
+644 Prišiel si pre odznak? Prišiel som sem na motorke, v kožená bunde, bez kravaty. Ako na zasadnutiach Euroskupiny v roku 2015.
+645 Minister financií šesť mesiacov. Odstúpil som po referende: 61 % za OXI. Demokracia je krásna, a tvrdohlavá.
+646 Trojka na mňa čakala za rohom. Ty si porazil jej agentov. Ukáž mi, či si silnejší než úsporné opatrenia!
+647 NAI! Ehm, chcem povedať: bravo. Tu je Odznak OXI, súdruh.
+648 Tvoj ďalší odznak je v Londýne. Ale pohni sa: tam sa hovorí čoraz viac o istých dverách na odchod.
+649 Idem znova prednášať. O dlhu. Na motorke.
+650 Westminster. Tu, 23. júna 2016, Spojené kráľovstvo hlasovalo za 51,9 % za odchod z Európskej únie.
+651 Kráľovský gardista
+652 (Nehýbe sa. Ani pre Brexit.)
+653 Šéfredaktor
+654 Zajtra titulok o príliš rovných uhorkách. Fungovalo to dvadsať rokov.
+655 Boris Johnson
+656 V 90. rokoch som bol spravodajcom v Bruseli pre Daily Telegraph. Napísal som veci… bohaté na fantáziu. Get Brexit done!
+657 Nigel Farage
+658 Vitajte v pube! Pintu? Strávil som dvadsať rokov v Európskom parlamente vysvetľovaním, že by sme tam nemali byť.
+659 28. júna 2016 som eurposlancom povedal: „Teraz sa už nesmejete, čo?“. Nesmiali sa. Ty sa tiež nebudeš smiať.
+660 Dobre. Vyhrali ste. Vezmite si tento Odznak Článku 50. My sme ho už použili.
+661 Ešte tu ste? Odišli sme, vieš.
+662 Musím sa vrátiť domov. Už nemám právo byť stážistom v Parlamente. Ale predtým… posledná debata. Pre čest.
+663 Ďakujem, {P}. Dávaj pozor na smernicu za mňa. A na letný čas. U nás ho, pravdaže, nikdy nezmeníme.
+664 Goodbye. Alebo skôr… see you later. Kto vie?
+665 Oliver odišiel. Vlak do Londýna sa už na priehradke neobjaví. Ďalšia zastávka: Budapešť, na Dunaji.
+666 Országház, maďarský parlament, na brehoch Dunaja. Najväčšia budova v Maďarsku. A najväčšia zbierka pečiatok „VETO“ v Európe.
+667 Mladá Maďarka
+668 Hovorí sa, že opozícia získava pôdu. Istý Péter Magyar vedie kampaň po celej krajine.
+669 Péter Magyar
+670 Maďari hlasovali 12. apríla 2026. Moja strana, Tisza, získala dvojtretinovú väčšinu. Otvára sa nová stránka!
+671 Gábor
+672 Postavili sme plot. Slúži najmä na fotografovanie.
+673 Osobný poradca
+674 Predseda vlády si odskočí na kávu. Je to rokovacia technika.
+675 Viktor Orbán
+676 Prišli ste si pre dohodu? Tu treba jednomyseľnosť. A ja nikdy nesúhlasím.
+677 V roku 2024 som predsedal Rade Únie so sloganom „Make Europe Great Again“. Nič vám to nepripomína?
+678 V mojej aréne môžem položiť svoje VETO každé kolo. A niekedy… si odskočím na kávu. Ako v decembri 2023, počas hlasovania o Ukrajine.
+679 …Dobre. Zdržím sa. Vezmite si tento Odznak Veta. Úradne som v sále nebol.
+680 O niekoľko mesiacov neskôr, 12. apríla 2026, Maďari hlasujú. Strana Tisza Pétera Magyara víťazí s dvojtretinovou väčšinou.
+681 Orbán uznal svoju prehru: „bolestivé, ale jasné“. Ďakujem, stážista. Vráťte sa do Bruselu: hovorí sa, že DG pre hospodársku súťaž má problém… s lobby.
+682 Odskočil som si na kávu. Vráťte sa neskôr. Oveľa neskôr.
+683 Barman
+684 Place Lux, vo štvrtok večer, celý Brusel ide na pohárik. Poslanci, asistenti… a lobisti. Hlavne lobisti.
+685 Suterén? Vyhradený pre členov. Ste zapísaný v registri transparentnosti? Nie? Ani ja. Tak poďte dnu.
+686 Poberajte sa, stážista. Tu sa rieši biznis medzi dospelými ľuďmi.
+687 Ropný lobista
+688 Energetická transformácia? Podporujeme ju. Od roku 2080.
+689 Technologický lobista
+690 Rešpektujeme GDPR. Máme dokonca cookie lištu na 47 stranách.
+691 Kufre? To sú kufre s dokumentáciou. Veľmi dokumentované.
+692 Eva Kaili
+693 V decembri 2022 belgická polícia našla vrecia s bankovkami v niekoľkých bruselských bytoch. Volalo sa to „Katargate“.
+694 Bola som podpredsedníčkou Parlamentu. Vždy som obvinenia spochybňovala. V čase tejto hry nebol v tejto veci vynesený konečný rozsudok.
+695 Poznámka: každá obvinená osoba sa považuje za nevinnú, dokiaľ nebola odsúdená.
+696 Hlavný lobista
+697 Nuž, nuž. Stážista. Vieš, koľko nás je v Bruseli? 25 000. A ty si jeden.
+698 Tvoja smernica o letnom čase? Mám klientov, ktorí predávajú hodiny. Zostane blokovaná. Pokiaľ…
+699 Dobre zahraté. Úradne vyhlasujem svoju prehru v registri transparentnosti. A idem do súkromného sektora. Ach, tam už som.
+700 Team Lobby sa rozpadá. Vyšetrovania DG pre hospodársku súťaž môžu pokračovať!
+701 Advokát Big Tech
+702 Podáme odvolanie. A potom odvolanie proti odvolaniu.
+703 Právnik pre hospodársku súťaž
+704 Zneužitie dominantného postavenia… Slovo „zneužitie“ je silné.
+705 Margrethe Vestager
+706 Ďakujem, že ste nás zbavili Team Lobby. Moje spisy konečne postupujú!
+707 Google: 2,4 miliardy eur pokuty v roku 2017, 4,3 miliardy v roku 2018. Apple: 13 miliárd daňovej pomoci na vrátenie, potvrdené Súdom v roku 2024.
+708 Rešpektuje váš tím pravidlá hospodárskej súťaže? Overím to. Osobne.
+709 Žiadne porušenie nebolo zistené. Odznak Pokuty je váš. A vezmite si aj toto: odznak OLAF-u, protipodvodného úradu.
+710 Hlásia sa… zvláštne prítomnosti v jednom krídle Parlamentu. Asistenti, ktorých nikto nikdy nevidí. S týmto odznakom ich uvidíte.
+711 Žiadna pokuta pre vás dnes. Užite si to.
+712 Chladná chodba… Počuť klávesnice, ktoré píšu sami od sebe. Ale nikto tam nie je. Bolo by treba spôsob, ako vidieť neviditeľné.
+713 Lepšie sa zatiaľ vrátiť dole.
+714 Asistent duch
+715 Moja kancelária? Nikdy som ju nenašiel…
+716 Bol som platený, aby som pomáhal… strane. Nie poslancovi.
+717 Hú… Zmena času spôsobuje, že sa objavím dvakrát za rok…
+718 Moja zmluva hovorí „miestny asistent“. Miestny čoho? Záhada.
+719 Miznem… konečne…
+720 Ďakujem… že si ma oslobodil od tej zmluvy…
+721 Marine Le Pen
+722 Kauza asistentov FN v Parlamente: systém odmeňoval zamestnancov strany peniazmi Európskeho parlamentu.
+723 Bola som odsúdená na prvom stupni 31. marca 2025, potom na odvolaní 7. júla 2026: tri roky, z toho jeden nepodmienečne s elektronickým náramkom, a pätnásť mesiacov nespôsobilosti kandidovať.
+724 S týmto trestom z odvolania sa jej kandidatúra na prezidentských voľbách v roku 2027 teoreticky znova stáva možnou. Posledné dovolanie na kasačný súd zostáva v úvahe.
+725 François Bayrou
+726 Kauza asistentov MoDem je iná vec. Vo februári 2024 som bol zbavený obžaloby „v prospech pochybnosti“. Prokuratúra sa odvolala.
+727 Potom som bol premiérom… od decembra 2024 do septembra 2025. Čas na Matignone letí rýchlo.
+728 Asistenti duchovia nerobia politiku: strašia všetky strany, ktoré ich zle zamestnávali.
+729 Prázdna zmluva
+730 SOM… DUCH VŠETKÝCH ZMLÚV BEZ KANCELÁRIE… VŠETKÝCH STRÁN… VŠETKÝCH VOLEBNÝCH OBDOBÍ…
+731 Prázdna zmluva sa rozplýva v oblaku výplatných pások. Krídlo duchov je konečne ticho.
+732 Prichádza správa od Roberty Metsoly: „Ďakujem! Posledný odznak na vás čaká v Paríži, na Sorbonne.“
+733 Sorbonna. Tu Emmanuel Macron predniesol dva veľké prejavy o Európe, v roku 2017 a 2024. Druhý trval takmer dve hodiny.
+734 Pýtal som sa na cestu po anglicky. Odpovedali mi po francúzsky. S úsmevom. Veľmi miernym.
+735 Absolvent ENA
+736 Napísal som syntetickú správu o svojej prehre. Má 80 strán.
+737 Štátny tajomník
+738 Práve som bol premenovaný počas boja. Je to rekord.
+739 Emmanuel Macron
+740 Vitajte na Sorbonne! Tu som hovoril o suverénnej Európe v roku 2017. Potom o Európe, ktorá „môže zomrieť“, v roku 2024.
+741 V roku 2019 som povedal, že NATO je v stave „mozgovej smrti“. V roku 2024 som rozpustil Národné zhromaždenie. Mám rád prekvapujúce… rozhodnutia.
+742 Tak debatujme, a súčasne uvažujme. Strategická autonómia!
+743 Nádherné! Máte výbavu veľkej Európanky… alebo veľkého Európana. A súčasne oboch. Odznak Sorbonny je váš.
+744 S ôsmymi odznakmi vás Európska rada čaká v budove Europa, v Bruseli. Veľa šťastia: ich samity málokedy skončia pred 5. hodinou ráno.
+745 Rád by som vám hovoril o Európe dve hodiny, ale máte Radu, ktorú treba presvedčiť.
+746 Prológ — 9. máj 1950
+747 9. máj 1950
+748 Paríž, Quai d'Orsay, 18. hodina
+749 Robert Schuman
+750 Páni, ďakujem, že ste prišli. Budem stručný. Teda… skúsim to.
+751 (potichu) To hovorí vždy.
+752 (potichu) Robert. Veta o uhlí. Nezabudni na vetu o uhlí.
+753 „Francúzska vláda navrhuje vložiť celú francúzsko-nemeckú výrobu uhlia a ocele pod spoločný Vysoký úrad.“
+754 Uhlie? Oceľ? Pre toto sme zmeškali aperitív?
+755 Päť rokov po vojne je myšlienka jednoduchá a bláznivá: zdieľať to, čo sa používa na výrobu kanónov.
+756 Aby sa vojna stala „nielen nemysliteľnou, ale aj materiálne nemožnou“.
+757 Šesť krajín v roku 1951. Potom deväť, dvanásť, pätnásť, dvadsaťpäť… Dvadsaťsedem dnes.
+758 A každé ráno sa niekde v Bruseli jeden stážista zobudí neskoro.
+759 Kapitola 1
+760 Pondelok. Tvoj budík hlási 6:58. Tvoj telefón 7:58. Jeden z dvoch nebol upovedomený o zmene času.
+762 PRVÝ DEŇ STÁŽE!
+763 Rue de la Loi. Jeden croissant, tri spisy, nula dôstojnosti.
+764 Cyklista
+765 Cyklotrasa! Aj stážisti dodržiavajú nariadenie 2019/1242! Teda, myslím, že existuje.
+766 {P}! Prvý deň, a už hodinu meškáš. Ja som tu od 6:58. Londýnskeho času, pravdaže.
+767 Profesor Schuman nás čaká v hale Parlamentu. Povedal som mu, že si chorý. Poďakuješ mi neskôr.
+768 Kapitola 2 — Luxemburg
+769 Kapitola 2
+770 Mostom Adolpha sa prechádza nad údolím Pétrusse. Dole záhrady. Hore banky. Uprostred tvoj vlak.
+771 Ach, ten malý Angličan! Poď sem, nech ťa objímem!
+772 Sir, ja… we don't do that. V Anglicku si podávame ruky. Z odstupu. V rukaviciach.
+773 Tu je Luxemburg. Bozkávame sa na líca, poplácame po líci, a hovoríme štyri jazyky v jednej vete. Moien, bonjour, guten Tag, hello!
+775 Moja Zlatá aréna je na Kirchbergu, stážista. Prídi, keď chceš. Poplácanie po líci robím zadarmo. Je to jediná bezplatná služba v okolí.
+776 Schengen, tri hranice
+777 Schengen. Tu sa Francúzsko, Nemecko a Luxemburg dotýkajú koncom viníc.
+778 14. júna 1985 tu, na lodi, päť krajín podpísalo dohodu, ktorá zrušila hraničné kontroly. Na rieke, ktorá JE hranicou. Milujeme iróniu, na Mosele.
+779 Colník
+780 Tridsať rokov opečiatkúvam pasy. A teraz? Motýle prechádzajú bez víza.
+781 Prekvalifikujem sa. Opečiatkovateľ pohľadníc. Je to trh budúcnosti.
+782 Kapitola 3 — Frankfurt
+783 Kapitola 3
+784 Frankfurt nad Mohanom
+785 Frankfurt, v noci. Dve sklenené veže, symbol eura veľký ako autobus. Európska centrálna banka nikdy nespí. Dohliada na infláciu.
+786 Vidíte tú páku? Základná sadzba. Zdvihnem ju, ceny sa upokojujú. Znížim ju, ekonomika dýcha.
+787 Dotknem sa jej omylom lakťom, a tri vlády padnú. Takže sa o stôl nikdy neopieram.
+788 IT'S RAINING EUROS! To je to kvantitatívne uvoľňovanie?!
+789 Nie, pane. To klimatizácia odfúkla bankovky z výstavy. Vráťte ich. Všetky. Počítam.
+790 Kapitola 4 — Štrasburg
+791 Kapitola 4
+792 Raz za mesiac sa Parlament presúva z Bruselu do Štrasburgu. S poslancami, asistentmi… a tisíckami kufrov.
+793 Europoslanec
+794 Môj kufor mal viac plenárnych zasadnutí než ja. Má dokonca kreslo v dopravnom výbore.
+795 Zasadnutie je otvorené! …Kde sú poslanci?
+796 Pani predsedníčka, ešte si hľadajú kufre na nástupišti.
+797 Tak budeme hlasovať zdvihnutím ruky. Majú kufre volebné právo? Nie? Škoda, oni sú aspoň včas.
+798 Kapitola 5 — Atény
+799 Kapitola 5
+800 Akropola pri západe slnka. Dvetisícpäťsto rokov demokracie, filozofie… a schôdzí, ktoré sa skončia neskoro.
+801 Pán Varoufakis, váš plán nie je v súlade s našimi tabuľkami.
+802 Vaše tabuľky nie sú v súlade s realitou. Navrhujem vám debatu. Na motorke, ak dokážete sledovať.
+803 Nerobíme motorky. Robíme odporúčania.
+804 Tak si odporučte, nech sa pohnete. Čaká na mňa aréna.
+805 Kapitola 6 — Londýn
+806 Kapitola 6
+807 Londýn, v daždi. Ako vždy. Ale tento raz sa vo vzduchu vznáša niečo ťažšie.
+808 Pinta pre každého! A autobus pre kampaň! Je jedno, čo na neho napíšeme, ľudia si prečítajú autobus, nie poznámky pod čiarou.
+809 Žiadna panika! Som zaseknutý na lanovke, ale je to strategia. Get Brexit done! A niekto, rebrík, prosím.
+810 Referendum
+811 23. júna 2016. 51,9 % voličov sa rozhoduje odísť z Európskej únie.
+812 31. januára 2020 o polnoci, bruselského času — 23. hodina londýnskeho —, Spojené kráľovstvo už nie je členom Únie.
+813 Vieš, čo je zvláštne? Pôvodne som tu nechcel byť. Chcel som len vyhrať.
+814 A teraz musím odísť, a už to nechcem. Ironic, isn't it?
+815 Vrátiš sa. Je tu Erasmus, výmeny, študentské víza…
+816 Erasmus? Z toho sme tiež vystúpili. Ale nájdem si spôsob. Angličania si vždy nájdu spôsob, ako sa vrátiť do Európy. Volá sa to dovolenka.
+817 Kapitola 7 — Budapešť
+818 Kapitola 7
+819 Maďarský parlament, zlatý na Dunaji. Najväčšia budova v krajine. A najväčšia zbierka pečiatok „VETO“ v Európe.
+820 Európsky rozpočet? Veto. Pomoc Ukrajine? Veto. Nová farba odznakov Rady? Veto. Zo zásady.
+821 Pán premiér, to bola objednávka vášho obedu.
+822 …Veto napriek tomu. Nemám rád, keď o mne rozhodujú iní.
+823 12. apríla 2026
+824 Maďari! Dnes večer sme nevyhrali proti Európe, ani proti svojim susedom. Vyhrali sme pre seba!
+825 Dav
+826 TISZA! TISZA! TISZA!
+827 Netrucujem. Rozmýšľam. Chrbtom. S mrakom nad hlavou. Je to veľmi iné.
+828 December 2022 — úsvit
+829 Brusel, december 2022. Za úsvitu belgická polícia vykonáva prehliadky okolo Place Lux.
+830 Policajt
+831 Šéf, sú tu vrecia. S bankovkami vo vnútri. Veľa bankoviek.
+832 Náčelník polície
+833 Spočítajte ich. A nedotýkajte sa futbalovej lopty, môže to byť dôkazový predmet.
+834 Zadržaní sú predstavitelia Parlamentu a ich blízki. Vyšetrovanie sa týka možnej korupcie v prospech cudzích štátov.
+835 Všetky obvinené osoby sa považujú za nevinné, dokiaľ neboli právoplatne odsúdené.
+836 (z diaľky) My s tým nemáme nič spoločné. My platíme v slaných koláčikoch. Je to diskrétnejšie.
+837 DG pre hospodársku súťaž
+838 Ešte jedna pokuta. Podpíšem, usmejem sa, pletiem slona. Je to veľmi upokojujúce.
+839 Pani komisárka, giganti digitálneho sektora žiadajú o odklad.
+840 Udelené. Majú čas až do… teraz.
+841 Thierry Breton
+842 Nariadenie o digitálnych službách platí pre každého, pán Musk. Aj pre siete, ktoré menia meno každých pol roka.
+843 Elon Musk
+844 Odpovedám mémom. Je to moja úradná právna pozícia.
+845 Odpovedám listom na štyri strany. To je moja.
+846 Každý ťahá telefón na svoju stranu. Telefón ukazuje „slabá batéria“.
+847 Veža asistentov duchov
+848 Vďaka odznaku OLAF-u sa neviditeľné stáva viditeľným. Priesvitní asistenti sa vznášajú na chodbe, výplatná páska v ruke.
+849 Dobrý deň… Pracujem tu od roku 2009… Teda, moja zmluva tu pracuje… Ja som sem nikdy neprišiel…
+850 Moji zamestnávatelia sú celí hore. Hovoria, že ma nepoznajú. Je to urážajúce, pre ducha.
+851 (za dverami) Nie som tu. A ak tam som, je to v prospech pochybnosti.
+852 Kapitola 9 — Paríž
+853 Kapitola 9
+854 Paríž v zlatú hodinu. Eiffelova veža, Seina, a niekde reč, ktorá sa začína a nekončí.
+855 Európa musí byť suverénna! Mocná! Humanistická! A dodal by som, ak mi to dovolíte, a dovolím si to…
+856 Študent
+857 Ako dlho už rozpráva?
+858 Študentka
+859 Hodinu štyridsať. Práve skončil úvod.
+860 Som za rigoróznosť AJ za investície. Za otvorenosť AJ za ochranu. Súhlasím s vami AJ s vaším protivníkom.
+861 Ako sa to volá?
+862 „Súčasne.“ Je to patentované. Teda, súčasne je to voľne dostupné.
+863 Apríl 2021 — Ankara
+864 Apríl 2021, Ankara. Traja lídri vstupujú do miestnosti. Sú tam dve kreslá.
+866 (už sedí) Ó. Ó nie. Práve som pochopil.
+867 Nie, nie, nerobte si starosti. Je mi na tomto gauči veľmi dobre. Je dlhý. Je béžový. Je ďaleko.
+868 Incident obletí svet pod názvom „Sofagate“. Odvtedy Charles Michel vždy overuje počet stoličiek, skôr než vojde kamkoľvek.
+869 Kapitola 10 — Európska rada
+870 Kapitola 10
+871 Noc Európskej rady
+872 Budova Europa. V jej sklenenej lucerne sa schádzajú hlavy štátov a vlád. Samity začínajú o 15:00. Končia… neskôr.
+873 Vážení kolegovia, je 4:12. Zostáva nám vyriešiť jednu čiarku v paragrafe 37.
+874 Zažil som samity, kde sa čiarka rokovala až do raňajok. Bola to veľmi krásna čiarka.
+875 Navrhujem čiarku. Whatever it takes.
+876 Navrhujem, aby sme objednali ďalšie pizze, skôr než niekto navrhne bodkočiarku.
+877 DOHODA! Je 5:03. Závery sú schválené. Môže niekto zobudiť premiéra, ktorý spí pod stolom?
+878 13. poschodie
+879 Berlaymont pri západe slnka. Trinásť poschodí. Na poslednom čaká predsedníčka Komisie.
+880 Charles, môžete prestať trucovať? Trvá to už päť rokov.
+881 Netrucujem. Pozerám sa na stenu. Je veľmi zaujímavá, táto stena. Nemá kreslo.
+882 {P}. Konečne tu ste.
+883 Chcete smernicu? Poraz ma. Team Europe, na konci zostane len jeden.
+884 Stena stážistov
+885 Na 13. poschodí dlhá chodba nesie fotografie všetkých stážistov Komisie. Nikto sa na ne nikdy nepozerá.
+886 Dnes bol práve zavesený nový zlatý rám. A pre raz sa niekto zastaví, aby sa naňho pozrel.
+887 Kapitola 11 — Veľké mocnosti
+888 Kapitola 11
+889 Veľké mocnosti
+890 Prístav Antverpy. Prezidentské lietadlo pristáva. Čajky, opatrné, odlietajú smerom k Holandsku.
+891 TV moderátorka
+892 Mimoriadne vydanie! Washington, Moskva a Peking posielajú súčasne správy Európe. Trhy váhajú medzi panikou a spánkom.
+893 Hosť v kaviarni
+894 Ešte? Ešte som si nedojedol vafľu.
+895 Čašník
+896 Vaflu, pane. Je to ženský rod. Ako Komisia.
+897 V tej istej chvíli v Pireu pristáva kontajnerová loď veľká ako mesto. Nikto presne nevie, čo obsahuje. Ani čo kupuje.
+898 Antverpy — golfové ihrisko
+899 Pozrite na ten green. Medzi dvoma kontajnermi. Najkrajší green v histórii prístavov.
+900 Pán prezident, golfová taška je veľmi ťažká. Môžeme ju zdaniť?
+901 Krásna rana, oteckovi! Ehm… Pán prezident!
+902 Každá lopta, ktorá vyjde z USA, platí clo. Aj táto. Hlavne táto. Spadla do Šeldy? VEĽMI NESPRAVODLIVÉ.
+903 Varšava — sneh
+904 Palác na konci roviny? Tam na vás čaká. Vezmite si šál. A megafón, pre stôl.
+905 Povie vám, že Európe je bez neho chladno. Ukážte mu, že sa Európa naučila zahriať sama.
+906 Stôl
+907 Biely stôl. Veľmi biely. Veľmi dlhý. Tak dlhý, že má svoje vlastné časové pásmo.
+908 (veľmi nahlas) DOBRÝ DEŇ!
+909 O tri sekundy neskôr sa z druhého konca sály vracia ozvena.
+910 Počujem vás veľmi dobre. To vy ste príliš blízko.
+911 Pireus
+912 Darček. Plyšová panda. Symbolizuje priateľstvo medzi našimi národmi.
+913 Je veľmi milá. Ďakujem. …Prečo prístav práve zmenil vlajku?
+914 Strategické partnerstvo. Vy si nechávate pandu. My si nechávame prístav. Všetci sú spokojní.
+915 Grécky dokár
+916 Ja by som bol radšej za pandu naživo. Jedáva bambus, aspoň nič neodkúpi.
+917 Summit G-Všetko
+918 Summit G-Všetko. Tri veľké mocnosti. Jeden stôl. A Európa, ktorú posadili na vyklápaciu sedačku.
+919 Európa si musí vybrať: mňa.
+920 Európa si musí vybrať: mňa. Alebo chlad.
+921 Európa môže vybrať. Obidve možnosti sme už kúpili.
+922 Európa sa dvíha
+923 Európa si nevyberá pána. Vyberá si, že zostane spolu. Dvadsaťsedem krajín, dvadsaťštyri jazykov, jeden stôl. Náš.
+924 Odchádzam. To JA som sa rozhodol odísť. Nikto ma neporazil.
+925 Odchádzam tiež. Dvere boli tak či tak príliš blízko mňa.
+926 Odchádzame. Ale zostávame partnermi. A konkurentmi. A rivalmi. Dobrý večer.
+927 Tri dvere zabuchnú. Tri veľké mocnosti trucujú. A v sále tlieskajú stážisti.
+928 Epilóg
+929 Brusel, večer na konci stáže
+930 Grand-Place v Bruseli. Modrý a zlatý ohňostroj kreslí nad radnicou dvanásť hviezd.
+931 {P}, v mene všetkých inštitúcií, tu je tvoje osvedčenie o ukončení stáže. Je podpísané, spolupodpísané a preložené do dvadsiatich štyroch jazykov.
+932 Maltská verzia má preklep. Je to tradícia.
+933 {P}! WAIT! Nezačínajte bez mňa!
+934 Oliver?! Ale… ako?
+935 Víza pre mladých profesionálov, poistenie, dva formuláre, tri pečiatky. Skutočný Euromon papierovania. Som späť. Ako turista. Ale späť!
+936 Spoločná fotka! Všetci k sebe! Poplácanie po líci potom.
+937 Som na fotke len, ak nikomu nepovieme, že som bol na fotke.
+938 (mimo kamery) Veto na fotku.
+939 Už nemá právo veta. Usmejte sa!
+940 „Nespájame štáty, spájame ľudí.“ A ženy, a stážistov.
+941 Konkrétne výsledky. Faktická solidarita. Bravo, chlapče. A teraz… idi spať. Zajtra je koordinačná schôdza o schôdzach.
+942 Rím, 25. marca 1957
+943 Kapitolské námestie. 25. marca 1957 tu šesť krajín podpísalo Rímske zmluvy. Kameň si to pamätá. Začína žiariť.
+944 Maastricht, 7. februára 1992
+945 Meuza, v noci. Tu sa zrodila Európska únia a myšlienka jednotnej meny. Svetelné mince stúpajú na hladinu.
+946 Lisabon, 13. decembra 2007
+947 Úsvit nad Tajom. Pred Kláštorom Jerónimov sa stránky zmluvy začínajú vznášať, potom letieť.
+948 Vitajte v kantíne! Káva, sendvič, a vaši Euromoni sú opäť ako v roku 40… ehm, ako v roku 57.
+949 Postarám sa o váš tím?
+950 A je to! Všetci sú vo výbornej forme. Káva je stále vlažná.
+951 Ako chcete. Ale nechoďte plakať na ďalšiu debatu!
+952 Dobrý deň! Európska stanica, jednotná priehradka. Váš Pass Interrail, prosím… Perfektné. Kam pôjdeme?
+953 Ľutujem, medzinárodné vlaky sú vyhradené pre držiteľov Pass Interrail. Vraj sa získava v Štrasburgu.
+954 Jedávam tu od roku 1993. Menu sa zmenilo len raz: pri príchode eura.
+955 Bankár
+956 Tu je aj káva daňovo rezidentná inde.
+957 Ekonóm
+958 Cena sendviča stúpla o 12 % od roku 2021. Môj model predpovedal 2 %. Môj model má hlad.
+959 Parlamentný asistent
+960 Štyri dni v mesiaci tu, zvyšok v Bruseli. Moje zelené rastliny ma už nepoznajú.
+961 Čašníčka
+962 Frappé káva? To je jediná vec, ktorú sa Trojke nikdy nepodarilo reformovať.
+963 Džentlmen
+964 Predtým sa sťažovali na Brusel. Teraz sa sťažujú, že sa už nemôžu sťažovať na Brusel.
+965 Tu jedávajú guláš. A debatujú, nenápadne.
+966 Filozof
+967 Myslím, tak obedujem. A obedujem dlho: je to Paríž.
+968 Klientka
+969 Hľadám nabíjačku… Ach nie, pravda, teraz je všade USB-C. Aké šťastie.
+970 Ceny sú bez dane. Pravdaže.
+971 Klient
+972 Platím všetko v hotovosti. Nemci milujú hotovosť.
+973 Idem kúpiť pečiatky. Moja šéfka chce opečiatkovať Euromona zmeny času.
+974 Všetko za polovicu! Ach nie, to DPH sa zdvojnásobilo.
+975 Je cena v librách, v eurách, alebo vo volebných sľuboch?
+976 Predavač sa ma spýtal na môj názor na vládu. Povedal som: „veto“.
+977 Bagetu, pečiatku, a demonštráciu, prosím.
+978 Cestujúca
+979 Môj vlak do Štrasburgu má štyri hodiny oneskorenia. Parlament tiež, mimochodom.
+980 {P}! Prekvapenie! Nasadla som na Eurostar. S pasom, formulárom a dvoma hodinami čakania. Prichádzam poprosiť… o návrat. Rejoin?
+981 Ale najprv debata. Ako za starých dobrých čias!
+982 Aká stáž! Dobre, vraj na opätovné pristúpenie treba vyrokovať 35 kapitol. Začínam zajtra. Cheers, {P}!
+983 Kapitola 1 z 35: „voľný pohyb tovaru“. Postupuje to!
+984 Cestujúci
+985 V Luxemburgu je verejná doprava zadarmo od roku 2020. Aj pre stážistov!
+986 Robím spoj Frankfurt–Brusel. Poznám každú kravu na trase po mene.
+987 Tieto železné kufre patria všetky europoslancom. Cestujú viac ako ja.
+988 Vlak do Pirea? Zatvorený. Vraj niekto odkúpil prístav.
+989 Eurostar teraz žiada pas. Prevzali sme kontrolu nad hranicami. Čakacie rady.
+990 Dunaj pretína desať krajín. Ja sa len snažím prejsť cez jednu bez kontroly.
+991 Štrajk na SNCF. Ach nie, to je len utorok.
+992 Dokár
+993 Antverpy, druhý prístav Európy. Vidno tu prejsť všetko. Aj clá.
+994 Je tak chladno bez plynu, že tučniaky žiadajú o azyl.
+995 Všetky cesty vedú do Ríma. Aj vlaky, s oneskorením.
+996 Tu bola podpísaná zmluva v roku 1992. Svietilo slnko. Bolo to naozaj jediný raz.
+997 Lisabon, 2007: podpísali zmluvu, ktorá sa veľmi podobala na ústavu. Pst.
+998 Dnes je 9. máj: Deň Európy! Vlajky sa vlnia všade v európskej štvrti.
+999 Vzácny Euromon, pritiahnutý slávnosťami, vyskakuje z hromady spisov!

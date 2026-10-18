@@ -1,0 +1,501 @@
+# Malti — ids 1000-1499
+1000 Jum tal-Ewropa hieni! Narawk sena d-dieħla.
+1001 Tekno
+1002 Federali
+1003 Sovran
+1004 Liberali
+1005 Soċjali
+1006 Aħdar
+1007 Industrija
+1008 Enerġija
+1009 Legali
+1010 Monetarju
+1011 Agrikola
+1012 Diġitali
+1013 Diplo
+1014 Lobby
+1015 Popolista
+1016 Fantażma
+1017 Emenda
+1018 Jimmodifika t-test tal-avversarju, alinea waħda kull darba.
+1019 Karti bla Tmiem
+1020 Jidfen lill-mira taħt il-formoli.
+1021 Nota ta' Servizz
+1022 Nota interna, iebsa ħafna.
+1023 Laqgħa
+1024 Laqgħa ta' koordinazzjoni li tnaddaf lil kulħadd.
+1025 Timbru Niexef
+1026 Daqqa ta' timbru nadifa u uffiċjali.
+1027 Komitoloġija
+1028 Ħadd ma jifhem il-proċedura. Lanqas il-mira.
+1029 Qari mill-Ġdid
+1030 Jaqra l-fajl tiegħu mill-ġdid. Iżid ħafna r-Reżiljenza.
+1031 Direttiva
+1032 Test vinkolanti li jrid jiġi traspost b'urġenza.
+1033 Regolament
+1034 Applikabbli direttament fl-Istati Membri kollha.
+1035 Trilogu
+1036 Parlament, Kunsill, Kummissjoni: jolqot minn 2 sa 5 darbiet.
+1037 Urġenza
+1038 Proċedura ta' urġenza: jaġixxi l-ewwel.
+1039 Pawża tal-Kafè
+1040 Kafè fil-kantina. Jirrestawra nofs l-HP.
+1041 Plaġjariżmu
+1042 Jikkopja l-aħħar attakk tal-avversarju.
+1043 Rapport Annwali
+1044 Jiċċarġja daqqa, imbagħad jistordi b'400 paġna.
+1045 Integrazzjoni
+1046 Pass żgħir lejn unjoni dejjem aktar magħquda.
+1047 Sussidjarjetà
+1048 Jaġixxi fil-livell it-tajjeb. Iżid id-Diplomazija.
+1049 Stati Uniti tal-Ewropa
+1050 Il-ħolma federali l-kbira, mitfugħa b'qawwa sħiħa.
+1051 Team Europe
+1052 Ilkoll flimkien! Daqqa solidali.
+1053 Suq Uniku
+1054 Jabolixxi l-fruntieri… u d-Diplomazija tal-avversarju.
+1055 Tnax-il Stilla
+1056 Tnax-il stilla tad-deheb li qatt ma jonqsu.
+1057 Lista Ewlenija
+1058 Kampanja ta' Spitzenkandidat. Kritika frekwenti.
+1059 Tkabbir
+1060 Jilqa' membri ġodda. Argument +2.
+1061 Jimblokka kull attakk din id-daqqa. L-unanimità hija sagra.
+1062 Fruntiera
+1063 Jirrestabbilixxi kontroll. Jista' jbaxxi l-Ħeffa.
+1064 Opt-out
+1065 Jeżenta lilu nnifsu mir-regoli komuni. Reżiljenza +2.
+1066 Referendum
+1067 Mistoqsija sempliċi, konsegwenzi kumplikati.
+1068 Artikolu 7
+1069 Jissospendi d-drittijiet. Argument tal-avversarju -2.
+1070 Jitlaq mid-dibattitu… jekk in-negozjati jirnexxu.
+1071 Rimbors
+1072 «I want my money back!» Jirkupra l-HP.
+1073 Sovranità
+1074 Jerġa' jieħu l-kontroll b'qawwa.
+1075 Kompetizzjoni
+1076 Ħielsa u mhux iffalsifikata, imma tweġġa'.
+1077 Kummerċ Ħieles
+1078 Ftehim kummerċjali b'dazji żero.
+1079 Deregolazzjoni
+1080 Ineħħi l-protezzjonijiet. Reżiljenza tal-avversarju -2.
+1081 Start-up
+1082 Dirompenti u rapida. Jaġixxi l-ewwel.
+1083 Id Invisibbli
+1084 Ma tarahiex ġejja. Qatt ma tonqos.
+1085 Fl-Istess Ħin
+1086 Mil-lemin u mix-xellug, jolqot minn 2 sa 5 darbiet.
+1087 Tnixxija
+1088 Inixxi l-euro fuq il-kamp.
+1089 Strajk
+1090 Kollox jieqaf. Jiffriża l-fondi tal-mira.
+1091 Pilastru Soċjali
+1092 Pilastru Ewropew tad-drittijiet soċjali, solidu ħafna.
+1093 Paga Minima
+1094 Direttiva tal-2022 dwar pagi adegwati.
+1095 Manifestazzjoni
+1096 Marea ta' kartelluni. Tista' tintimida.
+1097 Solidarjetà
+1098 Jimmutwalizza l-effort. Jirrestawra nofs l-HP.
+1099 Il-«le» Grieg ta' Lulju 2015. Radd lura garantit.
+1100 Erasmus
+1101 Skambju li jiftaħ il-moħħ. Jista' jtella' l-Perizja.
+1102 Patt Aħdar
+1103 Il-Green Deal tal-2019 dritt fil-wiċċ.
+1104 Riforestazzjoni
+1105 Jerġa' jħawwel. Jirrestawra nofs l-HP.
+1106 Taxxa fuq il-Karbonju
+1107 Mekkaniżmu ta' aġġustament fil-fruntieri. Jista' jbaxxi l-Perizja.
+1108 Newtralità 2050
+1109 Żero emissjonijiet netti, f'daqqa waħda.
+1110 Kompost
+1111 Irriħa qawwi. Jista' jesponi għall-influwenza.
+1112 Tapp Mehmuż
+1113 Direttiva 2019/904: it-tapp ma jħalli l-mira aktar.
+1114 Fit for 55
+1115 -55% ta' emissjonijiet sal-2030, u jħabbat sew.
+1116 Rota
+1117 Mogħdija taċ-ċikliżmu express. Jaġixxi l-ewwel.
+1118 Faħam
+1119 Il-KEFA tal-1951 bħala balla. Jista' joħloq skandlu.
+1120 Azzar
+1121 Ponn tal-azzar Ewropew.
+1122 Forn tal-Għoli
+1123 Sħana estrema. Jista' jiskatta skandlu.
+1124 Delokalizzazzjoni
+1125 Imur xi mkien ieħor. Jista' jbaxxi l-Ħeffa tal-avversarju.
+1126 Airbus
+1127 Champion Ewropew li jaqa' f'daqqa.
+1128 Katina
+1129 Katina ta' muntaġġ: jolqot minn 2 sa 5 darbiet.
+1130 Pjan Industrijali
+1131 Jerġa' jqabbad l-għodda produttiva. Argument +2.
+1132 Xewka
+1133 Short-circuit żgħir. Jista' jiffriża l-fondi.
+1134 Fissjoni
+1135 Euratom, 1957. L-enerġija tal-atomu.
+1136 Rota tar-Riħ
+1137 Pali li jduru… u r-ras ukoll.
+1138 Vit tal-Gass
+1139 Jaqta' l-provvista. Jiffriża l-fondi.
+1140 REPowerEU
+1141 Pjan tal-2022 biex titwettaq ix-xoffa. Perizja +2.
+1142 Surtensjoni
+1143 Xokk qawwi, b'radd lura.
+1144 Fużjoni
+1145 Ir-reattur ITER b'qawwa sħiħa.
+1146 Limitu tal-Prezz
+1147 Jillimita lill-avversarju. Perizja -2.
+1148 Avviż Formali
+1149 L-ewwel twissija uffiċjali.
+1150 Ksur
+1151 Proċedura ta' ksur ferm sentita.
+1152 Sentenza tal-QĠUE
+1153 Il-Lussemburgu ddeċieda. L-ebda appell possibbli.
+1154 Multa biljunarja. Muniti jtiru mal-kamp kollu.
+1155 Investigazzjoni tal-OLAF
+1156 L-uffiċċju antifrodi jinvestiga. Jista' jimblokka l-mira.
+1157 RGPD
+1158 Jipproteġi d-dejta. Evażjoni tal-avversarju -2.
+1159 Ġurisprudenza
+1160 Jibbaża fuq il-preċedenti. Perizja +2.
+1161 DSA
+1162 Regolament dwar is-servizzi diġitali. Jista' jbaxxi l-Perizja.
+1163 Munita ta' Euro
+1164 Tossija ta' munita ta' €2. Testa jew croce?
+1165 Rata ta' Referenza
+1166 Jogħla r-rati. Jista' jnaqqas il-veloċità tal-mira.
+1167 Magna tal-Flus
+1168 Ftuħ kwantitattiv skont ir-rieda.
+1169 Awsterità
+1170 Ħażżu ċ-ċintorin. Argument tal-avversarju -2.
+1171 Whatever it takes
+1172 «Whatever it takes» (Draghi, Lulju 2012). Jirnexxi dejjem.
+1173 Inflazzjoni
+1174 Tnewwer il-qawwa tax-xiri, daqqa wara l-oħra.
+1175 Spread
+1176 Id-differenza fir-rati titla' f'daqqa. Kritika frekwenti.
+1177 Pjan ta' Rkupru
+1178 NextGenerationEU, €750 biljun. Jirrestawra nofs l-HP.
+1179 Trattur
+1180 Jimblokka t-triq. Jista' jnaqqas il-veloċità tal-mira.
+1181 PAK
+1182 Politika Agrikola Komuni: jirkupra l-HP.
+1183 Demel
+1184 Imferra' quddiem il-prefettura. Jista' jikkontamina.
+1185 AOP
+1186 Denominazzjoni protetta. Reżiljenza +2.
+1187 Ħsad
+1188 Ħsad rekord, dritt fuq rasek.
+1189 Glifosat
+1190 Riawtorizzat għal għaxar snin fl-2023. Jista' jivvelenja bl-influwenza.
+1191 Banana Mgħawġa
+1192 Regolament tal-1994 dwar il-kwalità tal-banana. Konfuż.
+1193 Cookie
+1194 Bandalor impossibbli li tagħlaq. Jiffriża l-mira.
+1195 Bug
+1196 Żball 404. Jista' jiddiżinforma.
+1197 Algoritmu
+1198 Rakkomandazzjoni personalizzata, personalizzata ħafna.
+1199 USB-C
+1200 Il-charger universali, obbligatorju minn 2024.
+1201 Fake News
+1202 Rumor virali. Jiddiżinforma lill-mira.
+1203 Roaming
+1204 M'hemmx aktar spejjeż ta' roaming! Jaġixxi l-ewwel.
+1205 IA Act
+1206 L-ewwel regolament dinji dwar l-IA (2024).
+1207 Trolling
+1208 Kumment diżgustanti. Jista' jikkonfondi.
+1209 Tgħoddija tal-Id
+1210 Soda u mtawla, quddiem il-fotografi.
+1211 Negozjati sal-5 ta' filgħodu. Jirqad lill-mira.
+1212 Kompromess
+1213 Kulħadd jitlef ftit, int tirbaħ l-HP.
+1214 Sanzjonijiet
+1215 Pakkett ġdid ta' sanzjonijiet. Jista' jbaxxi d-Diplomazija.
+1216 Kanapè
+1217 Sofagate (Ankara, 2021): il-mira titlef id-daqqa tagħha. L-ewwel daqqa biss.
+1218 Interpretariat
+1219 Tradott fl-24 lingwa. Xi ħaġa tintilef.
+1220 Ftehim
+1221 Ftehim storiku, iffirmat bl-ebusija kollha.
+1222 Soft Power
+1223 Il-ġmiel Ewropew. Diplomazija +2.
+1224 Tiddel
+1225 Cocktail fil-Pjazza Lux. Il-mira taqa' taħt l-influwenza.
+1226 Bagalja
+1227 Bagalja mimlija sew, mitfugħa b'qawwa.
+1228 Borża ta' Karti tal-Flus
+1229 Karti tal-flus kullimkien. Il-kamp hu mogħti kollu bihom.
+1230 Nota ta' Pożizzjoni
+1231 Emenda lesta li tinħareġ.
+1232 Pantouflage
+1233 Imur fis-settur privat. Ħeffa +2.
+1234 Influwenza
+1235 Kelma mogħddija fil-widna t-tajba.
+1236 Bieb Idur
+1237 Ħadd m'għadu jaf min jaħdem għal min.
+1238 Islogan
+1239 Tliet kliem, l-ebda nuvanza.
+1240 Xarabank Aħmar
+1241 «350 miljun fil-ġimgħa!» Jista' jiddiżinforma.
+1242 Megafonu
+1243 Jgħajjat aktar b'qawwa minn kulħadd.
+1244 Euromit
+1245 Leġġenda dwar Brussell, konvinċenti ħafna.
+1246 TREMENDOUS
+1247 L-aħjar daqqa ta' kull żmien. Argument +3.
+1248 Dazji Doganali
+1249 Liberation Day (2 ta' April 2025). Jista' jbaxxi r-Reżiljenza.
+1250 Post bil-Kapitali
+1251 MESSAĠĠ MIKTUB KOLLU BIL-KAPITALI.
+1252 Not laughing
+1253 «You're not laughing now!» (2016). Jista' jbaxxi d-Diplomazija.
+1254 Impjieg Fittizju
+1255 Xogħol li ma jeżistix, imma jiswa.
+1256 Għajbien
+1257 Ma jinstabx fl-uffiċċju. Evażjoni +2.
+1258 SMS Imħassar
+1259 L-ebda messaġġ ma jibqa'. Jikkanċella l-bonusijiet tal-avversarju.
+1260 Tortura Psikoloġika
+1261 Fajl li jirritorna jistregħ lill-awtur tiegħu.
+1262 Slip tal-Paga
+1263 Salarju mħallas għal xejn. Jirkupra l-HP.
+1264 Ektoplażma
+1265 Dehra spettakolari fil-Parlament.
+1266 Kostituzzjoni
+1267 Rrifjutata fl-2005… imma b'qawwa kbira ħafna.
+1268 Trattat ta' Ruma
+1269 1957: it-twaqqif tal-KEE.
+1270 1992: l-Unjoni u l-munita unika.
+1271 2007: it-trattat li ħa post il-Kostituzzjoni.
+1272 Metalli Rari
+1273 Jillimita l-esportazzjonijiet. Jista' jiffriża l-fondi.
+1274 Mejda Twila
+1275 Jilqa' mat-tarf ta' mejda ta' sitt metri. Evażjoni +2.
+1276 Rivali Sistemiku
+1277 Sieħeb, kompetitur, rivali. Jista' jbaxxi d-Diplomazija.
+1278 Groenlandja
+1279 Jipprova jixtri gżira sħiħa. Ħsara kbira.
+1280 Imwieled mal-Patt Aħdar tal-2019. Rimja toħroġ kull darba li tiġi vutata norma tal-emissjonijiet.
+1281 Mira Klimatika
+1282 Jitħarreġ biex inaqqas l-emissjonijiet tiegħu b'55% sal-2030. Jgħodd kull kalorija.
+1283 Newtralità
+1284 Għandu l-mira tan-newtralità tal-karbonju fl-2050. Sakemm, iħawwel siġra kull pass.
+1285 Munzell żgħir ta' faħam tal-KEFA tal-1951. Jiswed dak kollu li jmiss, b'enerġija.
+1286 Iċ-ċumnija tiegħu tarmi xewk meta jeħodha l-korla. Joħlom bl-impjieg sħiħ.
+1287 Azzar Komuni
+1288 Iffurġat mill-faħam u l-azzar mqiegħda flimkien. Huwa l-prova li l-paċi tinbena.
+1289 Atomu
+1290 Atomu żgħir kurjuż, imwieled mit-trattat Euratom tal-1957. Qatt ma jibqa' kwiet.
+1291 Reattur
+1292 L-elettroni tiegħu jduru tant malajr li jdawwal kamra sħiħa. Sobrjetà bħala għażla.
+1293 Jinqasam f'tnejn meta jkun imdejjaq. Il-Verdi u hu ma jitkellmux aktar lil xulxin.
+1294 Timbru
+1295 Timbru ħaj li jivvalida dak kollu li jiltaqa' miegħu. Diġà ttimbra lit-trainer tiegħu stess.
+1296 Dossier tal-Firem
+1297 Jiffirma kull paġna fin-naħa t'isfel lemin. Jeħtieġlu erba' sigħat għal kull trattat.
+1298 Ratifikazzjoni
+1299 Ma jiċċaqlaqx ħlief meta 27 parlament nazzjonali jgħidu iva. Allura jorqod ħafna.
+1300 Jirriproduċi ruħu bl-eluf ma' kull test tal-liġi. Il-Parlament kultant jirċievi 2000 minnhom għal rapport wieħed.
+1301 Imblukkar
+1302 Jippreżenta tant emendi li jimblokka s-seduta kollha. Teknika mħarrġa sew.
+1303 Bandalor tal-Cookie
+1304 Jidher quddiem kull bieb minn RGPD tal-2018. Qatt mhu biżżejjed li tirrifjutah.
+1305 Kunsens
+1306 Jitlob il-ftehim tiegħek għal kollox, imbagħad għall-ftehim innifsu. Huwa pulit ħafna.
+1307 Charger
+1308 Obbligatorju fuq l-apparati kollha minn tmiem l-2024. Qiegħed bla xogħol kaxxa sħiħa ta' fili.
+1309 Tapp
+1310 Ma jitlaqx aktar il-flixkun tiegħu minn Lulju 2024. Jolqtok mnieħrek meta tixrob.
+1311 Pajpa Mitlufa
+1312 Ipprojbita minn 2021, konna naħsbu li għabet. Tistregħ il-fast-foods billejl.
+1313 Banana
+1314 Regolament tal-1994 jiffissa l-kwalità tagħha. Tgħaddi ħajjitha tkejjel il-kurvatura tagħha stess.
+1315 Roaming
+1316 Jivvjaġġa kullimkien bla spejjeż minn Ġunju 2017. Iċempel lil ommu minn kull fruntiera.
+1317 Bla Fruntieri
+1318 Żar is-27 pajjiż fi tmiem ta' ġimgħa u ppostja kollox dirett. Bla spiża żejda.
+1319 Dan il-ġurdien żgħir jitlaq semestru barra u jirritorna bilingwi. Imwieled fl-1987.
+1320 Skambju
+1321 Għex f'12-il flat kondiviż u jsajjar il-pasta b'9 lingwi.
+1322 Munita
+1323 Munita ta' €2 li tiddawwar kullimkien minn 2002. Għandha 27 wiċċ nazzjonali possibbli.
+1324 Munita Unika
+1325 Għoxrin pajjiż jaqsmu l-qawwa tagħha. Meta wieħed isogħol, l-oħrajn jaqbdu d-deni.
+1326 Moviment Ħieles
+1327 Imwieled fuq dgħajsa fuq il-Mosella fl-1985. L-ebda fruntiera ma żżommu.
+1328 Erbiċida
+1329 Riawtorizzat għal għaxar snin fl-2023. Il-ħaxix selvaġġ jitriegħed mal-passaġġ tiegħu.
+1330 Reklamatur
+1331 Idur fil-kurituri b'basket akbar minnu. Ma jagħmilx lobbying, «jinforma».
+1332 Influencer
+1333 Jaf in-numru ta' kull assistent parlamentari. U l-allerġiji tagħhom.
+1334 Mega-Lobby
+1335 Wieħed mill-25,000 lobbyista ta' Brussell, f'verżjoni ġgantija. Jikteb mill-ġdid il-liġijiet rieqed.
+1336 Bagalja tal-Ħadid
+1337 Bagalja tal-ħadid li tagħmel Brussell–Strasburgu tnax-il darba fis-sena. Għandha d-dardir tal-ivvjaġġar.
+1338 Trasferiment
+1339 Iġorr parlament sħiħ fi żaqqu. L-ispiża tal-vjaġġ: aħjar ma tistaqsix.
+1340 Bidla fil-Ħin
+1341 Il-Parlament ivvota l-għajbien tiegħu fl-2019. Madankollu jerġa' lura darbtejn fis-sena.
+1342 Frodi
+1343 Jiffroda fil-kontrolli minn 2015: nadif fit-test, bid-duħħan fit-triq.
+1344 Jagħmel kampanja għall-presidenza… imbagħad ieħor jinħatar floku.
+1345 Interpretu
+1346 Jitkellem 24 lingwa u dejjem b'żewġ sekondi dewmien.
+1347 Tliet irjus: Parlament, Kunsill, Kummissjoni. Jaqblu bejniethom madwar l-4 ta' filgħodu.
+1348 Ħadd ma jaf eżatt x'jagħmel. Madankollu jsieg f'300 kumitat.
+1349 Formola
+1350 Munzell ta' formoli f'tripliċi kopja. Dejjem jonqos paġna.
+1351 Arkivji
+1352 Iżomm kollox, anke l-post-it tal-1958. Klassifikazzjoni: alfabetika u emozzjonali.
+1353 Bidwi Żgħir
+1354 Jirċievi għajnuna tal-PAK għal kull ettaru. Jgħodd l-ettari tiegħu kull filgħodu.
+1355 Jassorbi terz tal-budget Ewropew mingħajr ma jaqta' nifsu. Dejjem bil-ġuħ.
+1356 Politika Agrikola
+1357 Meta jimblokka l-awtostrada bit-tratturi tiegħu, anke il-Kunsill jinnegozja.
+1358 Jipparkja quddiem il-Parlament ma' kull riforma. Klaxon garantit.
+1359 Ġobon
+1360 Ġobon żgħir tal-ħalib mhux ipproċessat li jrodd riħa qawwija ħafna. Kburi bl-art tiegħu.
+1361 Protett b'denominazzjoni ta' oriġini. Kull imitazzjoni tiġi mħarrka fil-qorti.
+1362 Pralina
+1363 Ċikkulata Belġjana ħelwa ħafna. Iddub meta tgħidilha kumment sabiħ.
+1364 Patata Fritta Belġjana
+1365 Imsajjar darbtejn, kif suppost. Jirrifjuta kategorikament li jissejjaħ «French».
+1366 Ħamiema
+1367 Tgħix fil-Pjazza tal-Lussemburgu u tisraq il-patata fritta tal-lobbyisti. Taf il-ġagaġ kollha.
+1368 Raġel Żgħir
+1369 Statwa żgħira ta' 55 cm li għandha aktar ilbies mill-Parlament kollu.
+1370 Atomium
+1371 Disa' spheri tal-azzar imqabbdin f'kristall, minn Expo 58. Jiddi billejl fuq Brussell.
+1372 Trainee
+1373 Jaħdem ħafna u mhux imħallas. Jgħid li hija «esperjenza edukattiva».
+1374 Uffiċjal Temporanju
+1375 Il-kuntratt tiegħu jispiċċa fi tliet xhur. Ġeddu minn sitt snin.
+1376 Għadda l-kompetizzjoni EPSO. Ma jibżax minn xejn aktar, ħlief ir-riforma tal-pensjonijiet.
+1377 Ilmentatur
+1378 Huwa kontra. Ma jimpurtax x'inhi, huwa kontra.
+1379 Orator
+1380 Jitla' fuq il-mejdiet kollha biex jindirizza l-folla. Anke fil-kantina.
+1381 Demagogu
+1382 Jwiegħed kollox lil kulħadd. Il-wegħdi tiegħu jisparixxu mas-sbieħ.
+1383 Informazzjoni Falza
+1384 Ibiddel il-forma skont il-persuna li tħares lejh. Huwa diviż ħafna.
+1385 Kont Falz
+1386 Robot żgħir li jikkummenta kollox bil-kapitali. Qatt ma raqad.
+1387 Fabbrika tat-Trolls
+1388 Għaxart elef kont f'kaxxa waħda. L-elezzjonijiet jafuh sew.
+1389 Jitgħallem minn dak kollu li tagħmel. Diġà jaf x'se taqbad.
+1390 IA Regolata
+1391 L-ewwel regolament dinji dwar l-intelliġenza artifiċjali (2024) qiegħdu f'ordni.
+1392 Jintefaħ ftit kull xahar. Il-familji jissorveljawh mill-qrib.
+1393 Hyperinflazzjoni
+1394 Hekk kbir li jimblokka t-triqat. Il-BĊE togħla r-rati biex ittaqqsu.
+1395 Differenza fir-Rati
+1396 Jintela' ma' kull dikjarazzjoni skomda ta' bankier ċentrali.
+1397 Kriptomunita
+1398 Jiswa fortuna filgħodu u xejn filgħaxija. Jadora l-muntanji russi.
+1399 Kripto Regolata
+1400 Ir-regolament MiCA obbligah jilbes ratà. Huwa aktar kalm, issa.
+1401 Bilanċ Baġitarju
+1402 Qatt ma jonfoq xejn, lanqas l-enerġija tiegħu. Il-għajta tiegħu: «Schwarze Null!»
+1403 Trojka
+1404 Tliet qtates: BĊE, Kummissjoni, FMI. Jispezzjonaw flimkien il-kontijiet tal-oħrajn.
+1405 Żrinġ li jgħajjat «le!» ma' kull proposta. Huwa biżżejjed biex jimblokka kollox.
+1406 Unanimità
+1407 Jeħtieġ l-unanimità għal kull deċiżjoni, imbagħad jirrifjutaha hu stess.
+1408 Ċint
+1409 Jidher mill-ġdid malli jitkellmu dwar kontrolli fil-fruntieri. Għandu l-guardiola personali tiegħu.
+1410 Ħruġ
+1411 Ried jitlaq fl-2016, telaq fl-2020, u kultant jiddispjaċih. Ta' spiss jitlaq mit-taqbidiet.
+1412 Konsultazzjoni
+1413 Urna li tagħmel mistoqsijiet sempliċi fuq problemi kumplikati.
+1414 Imħallas mill-Parlament, qatt ma daħal hemm. Ħadd qatt ma rah jaħdem.
+1415 Iġorr badge, kuntratt u slip tal-paga. Imma l-ebda uffiċċju.
+1416 Instab mimli karti tal-flus f'appartament ta' Brussell f'Diċembru 2022.
+1417 Basket
+1418 Bagalja żgħira li tgħaddi minn id għal id ħdejn il-Parlament.
+1419 Pipeline
+1420 Twil 1,200 km taħt il-baħar. Il-vit tiegħu huwa kkontrollat minn xi ħadd ieħor.
+1421 Il-pali tiegħu jduru malli tinfaħlu. Jobgħod il-ġranet bla riħ.
+1422 Riħ fil-Baħar
+1423 Jgħix 'il barra mill-Baħar tat-Tramuntana u jipprovdi bliet sħaħ.
+1424 Pannell Solari
+1425 Jorqod billejl u jaħdem bil-qawwa binhar, l-aktar fi Spanja.
+1426 Iżomm il-prezzijiet milli jogħlew wisq. Għandu wġigħ fl-għonq bl-imbuttar kontinwu.
+1427 Dazju Doganali
+1428 Jittaksja dak kollu li jgħaddi quddiemu. Anke l-weraq mejjet.
+1429 Gwerra Kummerċjali
+1430 Irfist tabella ġgantija ta' taxxi. In-numri jinbidlu kull filgħodu.
+1431 Ġebla żgħira li minnha jiddependu t-telefowns kollha. L-esportazzjonijiet tagħha huma ssorveljati.
+1432 Panda Diplomatiku
+1433 Mislut għal ftit snin lil żoo Ewropew. Jiekol bambù u ftehim kummerċjali.
+1434 Kontenut Mhux Disponibbli
+1435 Dan l-orsu żgħir isfar mhux viżibbli f'ebda reġjun. Il-fajl tiegħu ġie rtirat.
+1436 Ħamiema Ġurista
+1437 Tbejjet fuq it-torrijiet tal-Qorti tal-Ġustizzja fil-Kirchberg u tgemgem bil-Latin.
+1438 Dikjarazzjoni
+1439 Jirreċita d-dikjarazzjoni tad-9 ta' Mejju 1950 lil min irid jisimgħa. Jidher fil-Jum tal-Ewropa.
+1440 Premju Nobel
+1441 Midalja mogħtija lill-Unjoni Ewropea fl-2012. Tiddi bil-kburija.
+1442 Xita Ħafifa
+1443 Sħaba żgħira ta' Brussell. Tagħmel ix-xita fuqek 200 jum fis-sena.
+1444 Ikla tan-Negozju
+1445 Ikla tax-xogħol li ddum tliet sigħat. Jiġi deċiż aktar minn fiha milli fis-seduta.
+1446 Ftehim Kummerċjali
+1447 Qiegħed f'negozjati minn 1999. Meta jimxi pass, it-tratturi jġibuh lura.
+1448 Imwieled fil-25 ta' Marzu 1957 fil-Kapitolju. Waqqaf il-Komunità Ekonomika Ewropea.
+1449 Trattat ta' Maastricht
+1450 Imwieled fil-Pajjiżi Baxxi fl-1992. Ħoloq l-Unjoni u ħolom bl-euro.
+1451 Trattat ta' Liżbona
+1452 Iffirmat fl-2007, ħa l-essenzjal ta' kostituzzjoni li qatt ma rat id-dawl.
+1453 Rrifjutat b'referendum fi Franza u fil-Pajjiżi Baxxi fl-2005. Jaħrab malli toqrob lejh.
+1454 Jaf biss attakk wieħed, u dejjem jirnexxi. Salva l-euro b'sentenza waħda.
+1455 Timbru Uffiċjali
+1456 Jittimbra Euromon imdgħajjef biex jirreġistrah.
+1457 Super Timbru
+1458 Linka msaħħa. Aktar effettiv minn timbru sempliċi.
+1459 Timbru Kwalifikat
+1460 Maġġoranza kwalifikata: ċans tajjeb ħafna biex taqbad.
+1461 Timbru Unanimu
+1462 L-unanimità! Qbid garantit. Estremament rari.
+1463 Kafè tal-Kantina
+1464 Jirrestawra 20 HP. Ftit sħun, imma effettiv.
+1465 Sandwich Club
+1466 Jirrestawra 50 HP. Il-favorit tat-trainees.
+1467 Waffle ta' Brussell
+1468 Jirrestawra 120 HP. Zokkor ipproċessat inkluż.
+1469 Kniddelen
+1470 Speċjalità Lussemburgiża. Jirrestawra 200 HP.
+1471 Menu Komplut
+1472 Antipasta, platt, dessert: jirrestawra l-HP kollu.
+1473 Opinjoni Legali
+1474 Ifejjaq il-problemi kollha ta' status.
+1475 Arloġġ tal-Qawmien
+1476 Iqajjem Euromon rieqed minħabba summit.
+1477 Mozzjoni ta' Rkupru
+1478 Jerġa' jġib Euromon K.O. f'kundizzjoni li jiddibatti.
+1479 Rkupru Unanimu
+1480 Jerġa' jqajjem Euromon K.O. bl-HP kollu tiegħu.
+1481 Pawża Sindikali
+1482 Jirrestawra l-PP kollha ta' Euromon.
+1483 Nota ta' Argumentazzjoni
+1484 Fid-dibattitu: iżid l-Argument.
+1485 Ġlekk Antiproġettili
+1486 Fid-dibattitu: iżid ir-Reżiljenza.
+1487 Rapport ta' Espert
+1488 Fid-dibattitu: iżid il-Perizja.
+1489 Ktieb tal-Indirizzi
+1490 Fid-dibattitu: iżid id-Diplomazija.
+1491 Espresso Doppju
+1492 Fid-dibattitu: iżid il-Ħeffa.
+1493 Non-Solleċitazzjoni
+1494 Klawsola kontra r-reklamar: tbiegħed l-Euromons 100 pass.
+1495 Jevolvi ċerti Euromons. Jeħtieġ 27 firma.
+1496 Jevolvi ċerti Euromons enerġetiċi.
+1497 Chjavetta USB-C
+1498 Jevolvi ċerti Euromons diġitali.
+1499 Enċiklopedija tal-Euromons, mogħtija minn Jean Monnet.

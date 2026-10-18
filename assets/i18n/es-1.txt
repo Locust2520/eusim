@@ -1,0 +1,476 @@
+# Español — ids 0-499
+0 LOB
+1 ESC
+2 CON
+3 DOR
+4 BLQ
+5 Nv.%d
+6 DEBATIR
+7 MOCHILA
+8 HUIR
+9 EQUIPO
+10 PP %d/%d
+11 Sin efecto
+12 Muy eficaz
+13 Poco eficaz
+14 Volver
+15 ¡No quedan PP para este ataque!
+16 ¡Adelante, %s!
+17 ¡%s envía a %s!
+18 Pero %s ya tiene un problema…
+19 ¡%s ya está del lado de los lobbies!
+20 ¡No se congelan los fondos de un banquero central!
+21 ¡%s está bajo la influencia de un lobby!
+22 ¡%s está metido en un escándalo!
+23 ¡Los fondos de %s están congelados!
+24 ¡%s se duerme en plena cumbre nocturna!
+25 ¡%s está bloqueado en comisión!
+26 Argumentación
+27 Resiliencia
+28 Pericia
+29 Diplomacia
+30 Reactividad
+31 Precisión
+32 Evasión
+33 %s: ¡%s no puede subir más!
+34 %s: ¡%s no puede bajar más!
+35 %s: ¡%s sube mucho!
+36 %s: ¡%s sube!
+37 %s: ¡%s baja mucho!
+38 %s: ¡%s baja!
+39 ¡%s usa %s!
+40 (trump)¡%s usa %s!
+41 %s prepara un informe de 400 páginas…
+42 ¡Pero nadie cae dos veces en la trampa del sofá!
+43 ¡%s plagia al adversario!
+44 Pero no hay nada que plagiar…
+45 ¡%s invoca el artículo 50 y abandona el debate!
+46 ¡%s invoca el artículo 50 y se marcha!
+47 %s invoca el artículo 50… ¡pero las negociaciones durarán años!
+48 ¡%s se protege con un veto!
+49 «¡VETO!» El adversario bloquea la decisión: se requiere unanimidad.
+50 ¡Pero el ataque de %s falla!
+51 ¡%s ya está desinformado!
+52 ¡%s está desinformado!
+53 ¡Pero los PS de %s ya están al máximo!
+54 ¡%s recupera PS!
+55 ¡%s se echa una siesta reparadora!
+56 ¡Pero esta vez el veto no funciona!
+57 ¡%s blande su derecho de veto!
+58 ¡Cláusula de salvaguardia! Todos los cambios quedan anulados.
+59 Los mensajes de %s han sido borrados… ¡Ni rastro!
+60 ¡Llueven fondos estructurales sobre el terreno!
+61 ¡%s acaba sentado en el sofá!
+62 Pero no pasa nada…
+63 No afecta a %s…
+64 ¡Golpe crítico!
+65 ¡Acierta %d veces!
+66 ¡Es muy eficaz!
+67 No es muy eficaz…
+68 ¡%s queda atrapado en un procedimiento sin fin!
+69 ¡%s desvía fondos!
+70 ¡%s sufre el retroceso!
+71 ¡Las monedas se esparcen por todas partes!
+72 ¡%s está demasiado desestabilizado para actuar!
+73 %s duerme profundamente… (son las 4 de la mañana)
+74 ¡%s se despierta! La cumbre ha terminado.
+75 ¡%s sale por fin de comisión!
+76 ¡Los fondos de %s están congelados! No puede actuar.
+77 ¡%s ha verificado sus fuentes!
+78 %s está desinformado…
+79 ¡Difunde un bulo y se desacredita a sí mismo!
+80 ¡Orbán ha salido a tomar un café! Su Euromon espera, desamparado.
+81 ¡%s sufre la influencia de los lobbies!
+82 ¡El escándalo salpica a %s!
+83 ¡%s se queda atascado en el procedimiento!
+84 ¡%s está K.O.!
+85 ¡%s aprende %s!
+86 %s quiere aprender %s, pero ya conoce cuatro ataques.
+87 No aprender
+88 ¿Qué ataque olvidar?
+89 1, 2, 3… ¡Puf! %s olvida %s…
+90 … ¡y aprende %s!
+91 %s no aprende %s.
+92 ¡%s gana %d puntos de experiencia!
+93 ¡%s sube al nivel %d!
+94 ¡{P} lanza un %s!
+95 ¡Ya está! ¡%s queda registrado en el Diario Oficial!
+96 Los datos de %s se añaden a la Eurodex.
+97 %s ha sido enviado a los Archivos.
+98 ¡Oh, no! ¡%s se ha liberado!
+99 ¡Arg! ¡Casi lo tenías!
+100 ¡Vaya! ¡Faltaba solo un sello!
+101 ¡Argh! ¡Un defecto de forma!
+102 ¡%s fue rechazado en referéndum! Imposible capturarlo.
+103 ¡No se captura el Euromon de otro entrenador! Sería un escándalo.
+104 ¡{P} usa %s!
+105 ¿En qué Euromon?
+106 %s recupera PS.
+107 %s se encuentra mejor.
+108 ¡%s vuelve al servicio!
+109 No tendrá ningún efecto.
+110 ¡No es el momento!
+111 ¿A quién mandar al debate?
+112 ¿A quién mandar?
+113 ¡%s ya no está en condiciones de debatir!
+114 ¡%s ya está en el terreno!
+115 ¡Vuelve, %s!
+116 socio
+117 competidor
+118 rival sistémico
+119 El Euromon rival se presenta ahora como… ¡%s! (tipo %s)
+120 ¡%s %s quiere debatir!
+121 ¡Oh! ¡Un %s variocolor!
+122 ¡Aparece un %s salvaje!
+123 ¿Qué debe hacer {P}?
+124 ¡No se abandona un debate oficial! Sería admitir debilidad.
+125 ¡Huyes por la salida de emergencia!
+126 No puedes huir: ¡la sesión no se ha levantado!
+127 %s lanza su argumento… ¡La mesa es tan larga que tardará un turno en llegar!
+128 ¡El argumento del turno anterior llega por fin al otro extremo de la mesa!
+129 %s va a enviar a %s.
+130 Continuar
+131 Cambiar de Euromon
+132 ¿Cambiar de Euromon?
+133 ¡{P} gana %d € por este debate!
+134 {P} recoge %d € de fondos estructurales.
+135 — CINEMÁTICA —
+136 A: siguiente    START: saltar
+137 Sí
+138 No
+139 Toca o pulsa A
+140 ¡Gracias por jugar!
+141 FIN… o casi.
+143 ¡Partida guardada ilegible!
+144 Profesor Schuman
+145 ¡Hola, hola! ¡Bienvenido al maravilloso… y ligeramente burocrático… mundo de la Unión Europea!
+146 Me llamo Robert Schuman. Quizá hayas oído hablar de mí: una historia de carbón, acero y un 9 de mayo… Ya te la contaré.
+147 Desde entonces, este mundo está poblado de criaturas extrañas: ¡los EUROMONS!\fDirectivas, reglamentos, enmiendas, avisos de cookies… Viven en las pilas de expedientes y en la moqueta de los pasillos.
+148 Unos los coleccionan, otros los hacen debatir. Yo los estudio. Eso se llama… ¡comitología!
+149 Pero hablemos de ti. Esta mañana se espera a dos becarios en el Parlamento Europeo…
+150 A la izquierda, Alex, la nueva becaria. A la derecha, Max, el nuevo becario. ¿Quién eres tú?
+151 Alex, una chica
+152 Max, un chico
+153 ¡Perfecto! ¿Y cómo debo llamarte oficialmente? Tiene que escribirse en las 24 lenguas, así que elige bien.
+154 Tu nombre (10 letras máx.):
+155 ¡{P}! Magnífico. Ahora mismo lo mando traducir al maltés.
+156 Este es Oliver, tu compañero de prácticas, recién llegado de Londres. Es… muy seguro de sí mismo.
+157 ¡Hello! Don't worry, {P}, seré el mejor becario de toda la Unión. Easy.
+158 Vuestra misión es sencilla: conseguir que se adopte UNA directiva.\fLa directiva que pone fin al cambio de hora. El Parlamento la votó en marzo de 2019…
+159 … y desde entonces duerme en el Consejo. Como muchas cosas.
+160 Para lograrlo, necesitaréis las 8 insignias de las grandes ciudades de Europa, convencer al Consejo Europeo ¡y a la mismísima presidenta de la Comisión!\fVamos, {P}. Tus prácticas empiezan ahora. No están pagadas, ¡pero son muy formativas!
+161 Mayús/minús
+162 Borrar
+163 ¿Sabías que…? El Parlamento se traslada a Estrasburgo doce veces al año, baúles incluidos.
+164 La UE tiene 24 lenguas oficiales. Tu becario habla una y media.
+165 Consejo: los tapones unidos a la botella ya no se pierden (directiva 2019/904).
+166 Cargando… como el fin del cambio de hora: votado en 2019, todavía pendiente.
+167 La bandera europea tiene 12 estrellas. No es el número de países: es un símbolo de perfección.
+168 La Declaración Schuman es del 9 de mayo de 1950. ¡El 9 de mayo es el Día de Europa!
+169 Las monedas de euro llegaron a los bolsillos el 1 de enero de 2002.
+170 Desde junio de 2017, se acabaron las tarifas de itinerancia en Europa. ¡Llama a tu madre desde Lisboa!
+171 El cargador universal USB-C es obligatorio desde finales de 2024. Adiós al cajón de cables.
+172 Erasmus nació en 1987. Desde entonces, millones de estudiantes han aprendido a cocinar pasta.
+173 El Acuerdo de Schengen se firmó en 1985 en un barco, en el Mosela, en Luxemburgo.
+174 El Parlamento Europeo cuenta con 720 diputados desde 2024.
+175 Consejo: la cantina cura a todo tu equipo. El café, en cambio, no cura nada.
+176 Consejo: corre manteniendo B. Los pasillos del Berlaymont son largos.
+177 El reglamento sobre la curvatura de los plátanos (1994) existe… pero habla sobre todo de calidad.
+178 El RGPD (2018) te regaló avisos de cookies. Muchos avisos de cookies.
+179 El Premio Nobel de la Paz fue concedido a la Unión Europea en 2012.
+180 El Tratado de Roma (1957) creó la Comunidad Económica Europea.
+181 El Tratado de Maastricht (1992) creó la Unión Europea y previó el euro.
+182 El Tratado de Lisboa (2007) contiene el artículo 50. Solo un país lo ha utilizado.
+183 El Reino Unido salió de la UE el 31 de enero de 2020. Oliver aún no lo ha superado.
+184 Consejo: los Sellos oficiales capturan mejor a los Euromons debilitados.
+185 Consejo: un Euromon dormido por una Cumbre nocturna es más fácil de capturar.
+186 El Berlaymont fue desamiantado de 1991 a 2004. La reunión de obra fue larga.
+187 El Tribunal de Justicia de la UE tiene su sede en Luxemburgo, en la meseta de Kirchberg.
+188 El BCE está en Fráncfort. Su torre costó más de lo previsto. Inflación, sin duda.
+189 Simone Veil fue la primera presidenta del Parlamento Europeo elegido, en 1979.
+190 La Comisión tiene 27 comisarios: uno por país. Incluso para la política pesquera de Austria.
+191 Consejo: pulsa X para abrir el menú.
+192 El Danubio atraviesa diez países. Tus zapatos, solo dos.
+193 El Día de Europa aparece un Euromon raro. ¡Prueba el 9 de mayo!
+194 Las traducciones de la UE suman millones de páginas al año.
+195 El himno europeo es el Himno a la Alegría de Beethoven, sin letra oficial.
+196 Consejo: los ataques de tipo Jurídico son muy eficaces contra Lobby.
+197 Consejo: el Veto bloquea un ataque, pero no tu determinación.
+198 El Brexit duró tanto que se inventó la palabra «Brextensión».
+199 El Parlamento tiene una oficina de enlace en cada Estado miembro.
+200 Consejo: habla con todo el mundo. Incluso con la paloma de la plaza Lux.
+201 Dinamarca tiene una exención del euro. Conserva su corona, y sus vikingos.
+202 Cargando 27 dictámenes nacionales… 26 de 27… Esperando a Hungría.
+203 ¿Sabías que…?
+204 Cargando…
+205 Equipo
+206 Mochila
+207 Mapa
+208 Informe
+209 Opciones
+210 %lu h %02lu
+211 PS
+212 K.O.
+213 Nv.%d   N.º%03d
+214 Exp.
+215 Siguiente
+216 B: volver
+217 ¿Cambiar con… ?
+218 A: elegir   B: volver
+219 Resumen
+220 Mover
+221 Curación
+222 Sellos
+223 Combate
+224 Clave
+225 Los Euromons salvajes te dejarán en paz un rato.
+226 Los PP de %s han sido restaurados.
+227 No tiene ningún efecto.
+228 No es el momento de usar eso.
+230 (vacío)
+231 Usar
+232 N.º%03d  %s
+233 Captura este Euromon para leer su ficha.
+234 EURODEX   Vistos: %d   Capturados: %d
+235 No se ha detectado soporte de guardado.\fEn DS (DS Pico, R4…), inicia el juego desde la tarjeta SD. En emulador, activa DLDI / la tarjeta SD o usa los estados guardados.
+236 ¿Redactar un informe de progreso (ranura %d)?
+237 Guardar
+238 Otra ranura…
+239 Cancelar
+240 Informe enviado en 24 lenguas. ¡Partida guardada (ranura %d)!
+241 Error al escribir en la tarjeta SD. Inténtalo de nuevo.
+242 Ajustes
+243 Fuentes de los datos
+244 Volver al título
+245 ¿Volver a la pantalla de título? Se perderá lo que no esté guardado.
+247 Total: %d €
+248 A: confirmar   B: cancelar
+249 Comprar
+250 Vender
+251 Adiós
+252 Vendedor
+253 ¡Bienvenido a la Tienda del Parlamentarium! Todo garantizado conforme a las normas CE.
+254 Tu presupuesto: %lu €
+255 En tu mochila: %d
+256 Parece que tu presupuesto está… por debajo del techo de gasto.
+257 ¡Gracias! ¡Y aquí tienes un Súper Sello de regalo por la compra al por mayor!
+258 ¡Gracias por tu compra! Factura por triplicado.
+259 ¿Eso? No está a la venta, ¡es un objeto de importancia estratégica!
+260 ¡Trato hecho!
+261 ¡Adiós! No lo olvides: el cargador USB-C se vende por separado.
+262 EQUIPO → ARCHIVOS (%d/%d)
+263 ARCHIVOS → EQUIPO (%d/%d)
+264 ◀▶ lado   A: mover   B: salir
+265 {P} enciende el terminal de los Archivos. «Bienvenido al sistema de gestión documental».
+266 ¡Hay que dejar al menos un Euromon en el equipo!
+267 El equipo está completo (6 Euromons como máximo).
+268 Resolución fiscal
+270 Hemiciclo
+271 OXI
+272 Artículo 50
+274 Multa
+276 Jean-Claude Juncker, Luxemburgo
+277 Christine Lagarde, Fráncfort
+278 Roberta Metsola, Estrasburgo
+279 Yanis Varoufakis, Atenas
+280 Farage & Johnson, Londres
+282 Margrethe Vestager, Bruselas
+284 ESTUCHE DE INSIGNIAS DE LOS TRATADOS
+285 obtenida
+286 por conquistar
+287 Insignia %s — entregada por %s.
+288 ¿Qué? ¡%s está evolucionando!
+289 Has aplazado la reforma. %s no ha evolucionado.
+290 ¡Enhorabuena! ¡%s ha evolucionado a %s!
+291 Tiempo: %d s
+292 Puntos: %d / %d
+293 Minijuego
+294 Votación en el pleno
+295 ¡Los diputados llegan al hemiciclo! Toca cada escaño que se ilumine en amarillo antes de que se apague. ¡25 votos en 30 segundos!
+296 Presidencia
+297 ¡Toca los escaños amarillos!
+298 ¡Aprobado por amplia mayoría! Aplausos en todos los bancos.
+299 No hay quórum. Se suspende la sesión…
+300 El Sello
+301 Los documentos desfilan por la mesa. Toca cada uno para sellarlo antes de que salga de la pantalla. ¡15 documentos!
+302 Toca los documentos para sellarlos
+303 ¡Todos los documentos están sellados! La administración está orgullosa de ti.
+304 Algunos documentos se fueron sin sello. Tendrán que repetir todo el circuito…
+305 Avisos de cookies
+306 ¡Los avisos de cookies invaden la pantalla! Toca «Rechazar» en cada uno. Si se acumulan seis, pierdes. ¡Aguanta 25 segundos!
+307 (una web cualquiera)
+308 Respetamos
+309 tu privacidad
+310 Aceptar
+311 Rechazar
+312 ¡Recházalo todo! (no toques Aceptar)
+313 ¡Todas las cookies rechazadas! El RGPD está orgulloso de ti.
+314 Desbordado por los avisos… Has aceptado a 437 socios publicitarios.
+315 Cumbre nocturna
+316 ¡Son las 3 de la mañana y los 27 jefes de Estado se duermen! Sopla en el micro (o toca la cabeza dormida) para despertarlos. ¡27 despertares antes del alba!
+317 %d:%02d h
+318 ¡Sopla / toca la cabeza dormida!
+319 ¡Todos despiertos! Acuerdo alcanzado a las 4:37. Como siempre.
+320 Amanece sobre una mesa de dirigentes dormidos. La cumbre se aplaza.
+321 Los baúles de Estrasburgo
+322 Carga los baúles de los diputados en el tren, en orden: 1, 2, 3… hasta 10. ¡Tienes 30 segundos!
+323 Andén — TGV Estrasburgo ⇄ Bruselas
+324 Los baúles
+325 ¡Toca los baúles en orden!
+326 ¡Todos los baúles están en el tren! La sesión puede empezar.
+327 El tren se fue sin los baúles. Los diputados tendrán que sesionar en pijama.
+328 Idioma
+329 Velocidad del texto
+330 Sonido del texto
+331 Volumen música
+332 Animaciones de combate
+333 Lenta
+334 Normal
+335 Rápida
+336 ↑↓ / puntero: desplazar    B: volver
+337 Créditos
+338 tarjeta SD
+339 cartucho
+340 ninguno
+341 ¡{P} obtiene %d × %s!
+342 ¡{P} obtiene: %s!
+343 — Ranura vacía —
+344 Eurodex: %d
+345 Continuar: elige una partida
+346 Nueva partida: ranura
+347 Guardar en…
+348 Esta ranura ya contiene una partida. ¿Sobrescribirla?
+349 Nueva partida
+350 Créditos y fuentes
+351 Menú principal
+352 Parodia no oficial · v2.0
+353 Las prácticas de tu vida
+354 PULSA START
+355 ¡{P} recibe %s!
+356 El equipo está lleno: se va a los Archivos.
+357 {P} no tiene ningún Euromon en condiciones de debatir…\f{P} vuelve corriendo a la cantina, cabizbajo.
+358 Cocinera
+359 ¡Venga, un buen café y a seguir! Tus Euromons están en plena forma.
+360 Insignia Resolución
+361 Insignia Euro
+362 Insignia Hemiciclo
+363 Insignia OXI
+364 Insignia Artículo 50
+365 Insignia Veto
+366 Insignia Multa
+367 Insignia Sorbona
+368 ¡{P} recibe la %s!
+369 Tu Eurodex tiene %d Euromons capturados de %d vistos.
+371 ¡Es un comienzo! Los pequeños pasos hacen las grandes uniones.
+372 ¡Nada mal! Avanzas más rápido que la directiva del horario de verano.
+373 ¡Impresionante! Ni la Comisión tiene tantos expedientes.
+374 ¡Extraordinario! Eres una auténtica institución tú solo.
+375 ¡{P} encuentra: %s!
+376 La Cláusula de no captación ha expirado.
+377 Bruselas
+378 Luxemburgo
+379 Fráncfort
+380 Estrasburgo
+381 Atenas
+382 Londres
+385 Amberes
+386 Varsovia
+387 Roma
+389 Lisboa
+390 Taquillero
+391 No hay ningún destino disponible por ahora.
+392 Otros destinos…
+393 ¡Al tren! El tren sale… con solo unos minutos de retraso.
+394 Diplomático
+395 Josep Borrell, el ex Alto Representante, dijo en 2022: «Europa es un jardín, el resto del mundo es una jungla». Hizo… algo de ruido.
+397 Dieciséis años de canciller. Cientos de cumbres. En 2015 dije: «Wir schaffen das»: lo conseguiremos.
+398 Pero ¿lo conseguirá usted? Soy el primer miembro del Consejo. Nadie pasa sin un compromiso.
+399 Wir haben es geschafft. Puede pasar. Mario le espera… con un informe de 400 páginas.
+401 Julio de 2012, Londres. Dije tres palabras: «Whatever it takes». El euro se salvó. Los mercados se calmaron.
+402 En 2024, mi informe sobre competitividad pedía hasta 800 000 millones de inversión al año. Invierta en este debate.
+403 Ha hecho todo lo necesario. Kaja Kallas le espera. Es… muy directa.
+405 Alta Representante para Asuntos Exteriores desde diciembre de 2024. Ex primera ministra de Estonia.
+406 El mundo es peligroso. Necesito saber si sabrá resistir ante las grandes potencias. Demuéstremelo.
+407 Sólido. Lo necesitará. El presidente Costa le espera. Espera terminar antes de medianoche.
+409 ¡Presidente del Consejo Europeo desde diciembre de 2024! Son las 23:54. Si terminamos antes de medianoche, será una primicia histórica.
+410 Pero primero: todos los jefes de Estado se han dormido alrededor de la mesa. ¡Ayúdeme a despertarlos! Sople en el micro… ¡o toque la pantalla!
+411 Son… las 4:37. Bueno. Como siempre. Debatamos de todos modos.
+412 ¡El Consejo Europeo aprueba su candidatura por unanimidad! Bueno… por unanimidad menos una abstención constructiva.
+413 La presidenta de la Comisión le espera en la 13.ª planta del Berlaymont. Es el último paso antes de la directiva.
+415 Ah, buenos días. Soy Charles Michel, ex presidente del Consejo Europeo. Solo estoy… sentado. En la única silla.
+416 En Ankara, en abril de 2021, me quedé con el sillón. Ursula acabó en el sofá. Lo llamaron el «Sofagate». Nunca me he recuperado del todo.
+418 Bienvenido a la 13.ª planta. Sí, vivo aquí: hay un pequeño dormitorio junto a mi despacho. Es práctico para los expedientes urgentes.
+419 Presidenta de la Comisión desde 2019, reelegida en 2024. El Pacto Verde, la crisis del Covid, las vacunas…
+420 ¿Los SMS con el jefe de Pfizer? En mayo de 2025, el Tribunal General de la UE anuló nuestra negativa a entregárselos al New York Times. En fin. Sigamos.
+421 ¿Quiere la directiva del horario de verano? Gáneme. Team Europe: al final, solo puede quedar uno.
+422 Extraordinario. Es el mejor becario de la historia de la Comisión. Aquí está… la directiva que pone fin al cambio de hora.
+423 Solo falta firmarla. ¡Una formalidad! Basta con que…
+424 ¡Las grandes potencias esperan! Amberes, Varsovia, El Pireo… Tome el tren.
+425 Ha salvado a Europa. Y la directiva está… en comisión. Como siempre. Gracias por todo, {P}.
+426 ¡BIP BIP BIP! Tres mensajes urgentes llegan a la vez a todos los teléfonos del Berlaymont.
+428 ¡HELLO EUROPE! Tengo una pequeña petición. Pequeñita. Pongo aranceles a todo. Y me gustaría comprar Groenlandia. Está a la venta, ¿no?
+429 Segundo mensaje, procedente del Este: «La llave del gas está cerrada. Por su bien». Firmado: V. P.
+430 Tercer mensaje, muy educado: «Suspendemos nuestras exportaciones de tierras raras. Sus teléfonos funcionarán… menos». Firmado: X. J.
+431 {P}, la directiva esperará. Las Grandes Potencias quieren meter a Europa en vereda. Hay que ir a verlas. A las tres.
+432 El puerto de Amberes, Varsovia y el puerto de El Pireo, en Atenas. Las estaciones están abiertas para usted. ¡Team Europe cuenta con usted!
+434 Soy secretario general de la OTAN. En la cumbre de La Haya, en junio de 2025, nos comprometimos a subir hacia el 5 % del PIB en defensa para 2035.
+435 Y llamé a Donald «papá». Bueno. Era una forma de hablar. Le encantó. Vaya, está en el green.
+437 En febrero de 2025, en la Conferencia de Múnich, expliqué a los europeos qué era la democracia. Se quedaron… sorprendidos.
+438 ES EL CAMPO DE GOLF MÁS BONITO DEL MUNDO. Acabo de comprarlo. Bueno, creo. El puerto también, quizá.
+439 ¡El 2 de abril de 2025, Liberation Day! Enseñé un gran cartel con aranceles para TODO EL MUNDO. Incluso para islas donde solo hay pingüinos.
+440 En julio de 2025, en mi campo de golf de Turnberry, Ursula y yo hicimos un trato: 15 %. Pero puedo cambiar de opinión. Cambio de opinión a menudo. Es una estrategia.
+441 ¡Y Groenlandia! Es grande, es blanca, es magnífica. Dinamarca no quiere vender. MUY INJUSTO. Debatimos, ¡y si gano, la compro!
+442 Estaba amañado. Totalmente amañado. Bueno. Nos quedamos en el 15 %. Y Groenlandia sigue siendo danesa. De momento. Esta noche publicaré algo en mayúsculas.
+444 Bienvenido a Varsovia. Primer ministro de Polonia, ex presidente del Consejo Europeo. Aquí sabemos lo que vale la libertad.
+446 Desde febrero de 2022, mi país resiste la invasión rusa. Gracias, Europa, por su apoyo. El palacio está ahí arriba: tenga cuidado.
+447 Tome este kit REPowerEU: Europa ha aprendido a prescindir del gas ruso. Lo necesitará para no pasar frío allí dentro.
+448 Vladímir Putin
+449 Siéntese. No… más lejos. Así. En febrero de 2022 recibí a presidentes a esta distancia. Es más… cómodo.
+450 ¿El gas? Cerré la llave. ¿Las elecciones? En diciembre de 2024, el Tribunal Constitucional rumano anuló unas presidenciales por injerencias. No sé de qué me habla.
+451 Aquí, sus argumentos tardarán un turno entero en llegar al otro extremo de la mesa. Empecemos.
+452 …Su kit REPowerEU es eficaz. El chantaje ya no funciona. Váyase, antes de que acorte la mesa.
+453 Cuidador
+454 Estos dos pandas están cedidos por China a un zoo europeo. Se llama «diplomacia del panda». Comen 40 kg de bambú al día. Los pandas, no los diplomáticos.
+456 Bienvenido. Desde 2019, la Unión Europea nos describe como socio, competidor y rival sistémico. Yo también soy las tres cosas.
+457 Ustedes gravan nuestros coches eléctricos: hasta el 35 % desde octubre de 2024. Nosotros gravamos su coñac. Y vigilamos nuestras tierras raras. Es equilibrado.
+458 En este debate, mi Euromon cambiará de tipo cada turno: socio, competidor, rival. Buena suerte para seguirle.
+459 Hmm. Un socio digno de respeto. Las tierras raras retomarán su camino. Los pandas se quedan, son muy populares.
+460 Un osito amarillo pasa por detrás de un contenedor. Aparece un cartel: «Contenido no disponible en tu región».
+461 Un mensaje de la presidenta: «Las tres Grandes Potencias exigen una cumbre. Ya. La Cumbre G-Todo. Le envío allí».
+462 FUE IDEA MÍA HACER ESTA CUMBRE.
+463 La mesa es demasiado corta.
+464 Todos somos socios. Y rivales.
+465 Bueno, ¿empezamos? Yo primero. Todo el mundo dice que soy el mejor empezando.
+466 Proponemos empezar… tras madura reflexión. Dentro de cincuenta años.
+467 ¿Por qué está Europa en la mesa? Debía estar en el transportín.
+468 EL TRANSPORTÍN ES TREMENDOUS. Yo los vendo.
+469 Todos hablan a la vez. Los intérpretes se rinden. Solo queda una solución: el debate.
+470 Silencio en la sala. Las tres Grandes Potencias se miran… y luego miran a Europa.
+471 ¡Team Europe! Juntos somos más fuertes que por separado. Es un poco toda la historia de la Unión, ¿no?
+472 Realizaciones concretas, {P}. Una solidaridad de hecho. Lo dije en 1950. Tú lo has hecho en unas prácticas.
+473 ¿Y la directiva que pone fin al cambio de hora? La devolvieron… a comisión.
+474 Pero esa es otra historia.
+475 ¡La aventura continúa! Nuevos trenes van a Roma, Maastricht y Lisboa. Dicen que allí duermen Euromons legendarios… Y alguien te espera en la estación de Bruselas.
+476 Una estatua antigua en la plaza del Capitolio. El 25 de marzo de 1957, seis países firmaron aquí el Tratado de Roma. Algo se mueve…
+477 Aquí, el 7 de febrero de 1992, el Tratado de Maastricht dio a luz a la Unión Europea. Una moneda de euro gigante empieza a brillar…
+478 El 13 de diciembre de 2007 se firmó el Tratado de Lisboa en el monasterio de los Jerónimos. Una silueta translúcida se acerca…
+479 A lo lejos, otro Euromon huye: Constitutio. Rechazado en 2005, nunca se deja capturar.
+480 ¡Primer día de prácticas en el Parlamento Europeo! El profesor Schuman te espera en el vestíbulo del Parlamento.
+481 Tu ordenador muestra 437 correos sin leer. Todos con el asunto «Reunión de coordinación sobre las reuniones».
+482 Parque Leopoldo. Atención: las pilas de expedientes albergan Euromons salvajes. No den de comer a los Amendons.
+483 Berlaymont — Comisión Europea. Acceso restringido. Planta 13: despacho (y dormitorio) de la presidenta.
+484 «Europa no se hará de una vez ni en una obra de conjunto: se hará gracias a realizaciones concretas». — Robert Schuman, 9 de mayo de 1950.
+485 Lobista
+486 ¡Hola! Yo no hago lobby. Hago «intercambio de conocimientos». ¿Un canapé? Es de salmón. Noruego.
+487 Turista
+488 Excuse me, ¿dónde está el Manneken Pis? Me dijeron que era más grande… Me han mentido mucho en este viaje.
+489 Niño
+490 ¡De mayor seré intérprete! En 24 lenguas. O bombero, que es más tranquilo.
+491 Periodista
+492 Cubro la Unión Europea desde hace veinte años. Mi titular favorito: «Bruselas dice no». Funciona siempre.
+494 Has ganado… Dicen que la directiva del horario de verano está bloqueada en el Consejo desde 2019. Ánimo, ¿eh?
+495 Vigilante de seguridad
+496 ¿La carretera de las Ardenas? ¡No sin un Euromon! Los expedientes salvajes están agresivos en temporada presupuestaria.
+497 ¡Alto! Nadie sale de Bruselas sin un Euromon. Ve primero a ver al profesor Schuman al Parlamento.
+498 Guardia
+499 ¿La 13.ª planta? Solo pueden subir quienes han convencido al Consejo Europeo. Y antes hacen falta las ocho insignias.

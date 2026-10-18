@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Multiplayer debate
+2148	Create a room
+2149	Join a room
+2150	Play with anyone
+2151	Room name
+2153	PIN (6 digits)
+2145	Waiting for players…
+2146	Searching every 10 seconds.
+2147	PIN: %s
+2118	Cancel (B)
+2117	Confirm (A)
+2116	←→: position    ↑↓: digit
+2152	Enter a room name.
+2113	Invalid server response.
+2135	Invalid room request.
+2136	That room name is already in use.
+2137	Room not found.
+2138	Incorrect PIN.
+2139	This room is full.
+2140	The game versions differ.
+2141	The server is full.
+2142	The room has expired.
+2143	Invalid debate exchange.
+2144	The server has stopped.
+2108	Debate cancelled.
+2109	The server is not responding.
+2110	Connection to the server lost.
+2111	The other player left the debate.
+2115	The debates are out of sync.
+2114	Waiting for the other player… B: cancel
+2123	Connecting to Wi-Fi… B: cancel
+2124	Could not initialize Wi-Fi.
+2125	Check the console's Wi-Fi settings.
+2126	Could not create the connection.
+2127	Could not configure the connection.
+2128	Server unreachable.
+2129	You need a team to debate.

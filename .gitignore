@@ -1,0 +1,43 @@
+# Generated ROMs, native build products and emulator saves
+/build/
+/nitrofs/
+/source/gen/
+/include/gen/
+*.nds
+*.elf
+*.map
+*.dsv
+*.sav
+*.srm
+*.dct
+*.o
+*.d
+# Map source files are part of the game; the general *.map rule must not hide them.
+!/assets/maps/*.map
+
+# Local artwork-generation history, drafts and previews
+/.imagegen/
+/output/
+/out/
+/music_bloop/
+
+# Capture output: retain only the three README screenshots
+/docs/shots/*
+!/docs/shots/en/
+/docs/shots/en/*
+!/docs/shots/en/battle.png
+!/docs/shots/en/juncker.png
+!/docs/shots/en/minigame-translation-en.png
+
+# Local Python environment/cache and editor metadata
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# The workspace handoff is private workspace documentation, outside this package.
+/HANDOFF.md

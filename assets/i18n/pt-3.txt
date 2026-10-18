@@ -1,0 +1,477 @@
+# Português — ids 1000-1499
+1000 Feliz Dia da Europa! Até para o ano.
+1002 Federal
+1003 Soberano
+1004 Liberal
+1006 Verde
+1007 Indústria
+1008 Energia
+1009 Jurídico
+1010 Monetário
+1011 Agrícola
+1012 Digital
+1014 Lóbi
+1015 Populista
+1016 Fantasma
+1017 Alteração
+1018 Altera o texto adversário, uma alínea de cada vez.
+1019 Papelada
+1020 Soterra o alvo debaixo de formulários.
+1021 Nota de serviço
+1022 Uma nota interna, muito firme.
+1023 Reunião
+1024 Uma reunião de coordenação que adormece toda a gente.
+1025 Carimbo seco
+1026 Uma carimbadela limpa e oficial.
+1027 Comitologia
+1028 Ninguém percebe o procedimento. Nem o alvo.
+1029 Revisão
+1030 Relê o processo. Aumenta muito a Resiliência.
+1031 Diretiva
+1032 Um texto vinculativo a transpor com urgência.
+1033 Regulamento
+1034 Diretamente aplicável em todos os Estados-Membros.
+1035 Trílogo
+1036 Parlamento, Conselho, Comissão: atinge 2 a 5 vezes.
+1037 Urgência
+1038 Procedimento de urgência: age primeiro.
+1039 Pausa café
+1040 Um café da cantina. Restaura metade dos PS.
+1041 Plágio
+1042 Copia o último ataque do adversário.
+1043 Relatório anual
+1044 Carrega um turno e depois arrasa com 400 páginas.
+1045 Integração
+1046 Um pequeno passo rumo a uma união cada vez mais estreita.
+1047 Subsidiariedade
+1048 Age ao nível certo. Aumenta a Diplomacia.
+1049 Estados Unidos UE
+1050 O grande sonho federal, em força total.
+1053 Mercado único
+1054 Abole as fronteiras… e a Diplomacia adversária.
+1055 Doze estrelas
+1056 Doze estrelas douradas que nunca falham.
+1057 Cabeça de lista
+1058 Uma campanha de Spitzenkandidat. Críticos frequentes.
+1059 Alargamento
+1060 Acolhe novos membros. Argumentação +2.
+1061 Bloqueia qualquer ataque neste turno. A unanimidade é sagrada.
+1062 Fronteira
+1063 Restabelece um controlo. Pode baixar a Reatividade.
+1065 Isenta-se das regras comuns. Resiliência +2.
+1066 Referendo
+1067 Uma pergunta simples, consequências complicadas.
+1068 Artigo 7
+1069 Suspende direitos. Argumentação adversária -2.
+1070 Abandona o combate… se as negociações chegarem a bom porto.
+1071 Desconto
+1072 «I want my money back!» Recupera PS.
+1073 Soberania
+1074 Retoma o controlo com estrondo.
+1075 Concorrência
+1076 Livre e não falseada, mas dói.
+1077 Comércio livre
+1078 Um acordo comercial com tarifas zero.
+1079 Desregulação
+1080 Remove proteções. Resiliência adversária -2.
+1082 Disruptiva e rápida. Age primeiro.
+1083 Mão invisível
+1084 Não a vês chegar. Nunca falha.
+1085 Ao mesmo tempo
+1086 Pela direita e pela esquerda, atinge 2 a 5 vezes.
+1087 Gotejamento
+1088 Faz pingar euros sobre o terreno.
+1089 Greve
+1090 Tudo para. Congela os fundos do alvo.
+1091 Pilar social
+1092 Um pilar europeu dos direitos sociais bem sólido.
+1093 Salário mínimo
+1094 Diretiva de 2022 sobre salários adequados.
+1095 Manifestação
+1096 Uma maré de cartazes. Pode intimidar.
+1097 Solidariedade
+1098 Partilha o esforço. Restaura metade dos PS.
+1099 O «não» grego de julho de 2015. Ricochete garantido.
+1101 Um intercâmbio que abre a mente. Pode aumentar a Perícia.
+1102 Pacto Ecológico
+1103 O Pacto Ecológico de 2019 em plena cara.
+1104 Reflorestação
+1105 Replanta. Restaura metade dos PS.
+1106 Taxa carbono
+1107 Mecanismo de ajustamento nas fronteiras. Pode baixar a Perícia.
+1108 Neutralidade 2050
+1109 Emissões líquidas zero, de uma só vez.
+1110 Composto
+1111 Cheira forte. Pode expor à influência.
+1112 Tampa presa
+1113 Diretiva 2019/904: a tampa já não larga o alvo.
+1115 -55 % de emissões até 2030, e bate forte.
+1116 Bicicleta
+1117 Uma ciclovia expresso. Age primeiro.
+1118 Carvão
+1119 A CECA de 1951 como bala de canhão. Pode causar um escândalo.
+1120 Aço
+1121 Um punho de aço europeu.
+1122 Alto-forno
+1123 Calor extremo. Pode desencadear um escândalo.
+1124 Deslocalização
+1125 Vai para outro lado. Pode baixar a Reatividade adversária.
+1127 Um campeão europeu em voo picado.
+1128 Linha
+1129 Linha de montagem: atinge 2 a 5 vezes.
+1130 Plano industrial
+1131 Relança a produção. Argumentação +2.
+1132 Faísca
+1133 Um pequeno curto-circuito. Pode congelar os fundos.
+1134 Fissão
+1135 Euratom, 1957. A energia do átomo.
+1136 Eólica
+1137 Pás que giram… e cabeças também.
+1138 Torneira do gás
+1139 Corta o abastecimento. Congela os fundos.
+1141 Plano de 2022 para largar o vício. Perícia +2.
+1142 Sobretensão
+1143 Uma descarga brutal, com ricochete.
+1144 Fusão
+1145 O reator ITER em potência máxima.
+1146 Teto de preço
+1147 Põe um teto ao adversário. Perícia -2.
+1148 Notificação
+1149 Primeiro aviso oficial.
+1150 Infração
+1151 Um processo de infração bem aplicado.
+1152 Acórdão TJUE
+1153 O Luxemburgo decidiu. Sem recurso possível.
+1154 Uma coima de milhares de milhões. Voam moedas por todo o lado.
+1155 Inquérito OLAF
+1156 O Organismo Antifraude investiga. Pode bloquear o alvo.
+1157 RGPD
+1158 Protege os dados. Evasão adversária -2.
+1159 Jurisprudência
+1160 Apoia-se nos precedentes. Perícia +2.
+1162 Regulamento dos Serviços Digitais. Pode baixar a Perícia.
+1163 Moeda de euro
+1164 Um lançamento de moeda de 2 €. Cara ou coroa?
+1165 Taxa diretora
+1166 Sobe as taxas. Pode abrandar o alvo.
+1167 Impressora de notas
+1168 Flexibilização quantitativa à vontade.
+1169 Austeridade
+1170 Apertem o cinto. Argumentação adversária -2.
+1172 «Custe o que custar» (Draghi, julho de 2012). Resulta sempre.
+1173 Inflação
+1174 Corrói o poder de compra, turno após turno.
+1176 O diferencial de juros dispara. Críticos frequentes.
+1177 Plano de recuperação
+1178 NextGenerationEU, 750 mil M€. Restaura metade dos PS.
+1179 Trator
+1180 Bloqueia a estrada. Pode abrandar o alvo.
+1181 PAC
+1182 Política agrícola comum: recupera PS.
+1183 Chorume
+1184 Espalhado em frente à câmara. Pode contaminar.
+1185 DOP
+1186 Denominação protegida. Resiliência +2.
+1187 Colheita
+1188 Uma colheita recorde, em plena cabeça.
+1189 Glifosato
+1190 Reautorizado por dez anos em 2023. Pode envenenar de influência.
+1191 Banana curva
+1192 Regulamento de 1994 sobre a qualidade das bananas. Desconcertante.
+1194 Um aviso impossível de fechar. Congela o alvo.
+1196 Erro 404. Pode desinformar.
+1197 Algoritmo
+1198 Uma recomendação personalizada, muito personalizada.
+1200 O carregador universal, obrigatório desde 2024.
+1201 Notícia falsa
+1202 Um rumor viral. Desinforma o alvo.
+1204 Acabou o roaming pago! Age primeiro.
+1205 Lei da IA
+1206 O primeiro regulamento mundial sobre IA (2024).
+1207 Trollagem
+1208 Um comentário desagradável. Pode desconcertar.
+1209 Aperto de mão
+1210 Firme e prolongado, diante dos fotógrafos.
+1211 Negociações até às 5 da manhã. Adormece o alvo.
+1212 Compromisso
+1213 Toda a gente perde um pouco, tu ganhas PS.
+1214 Sanções
+1215 Um novo pacote de sanções. Pode baixar a Diplomacia.
+1216 Sofá
+1217 Sofagate (Ancara, 2021): o alvo perde a vez. Só no 1.º turno.
+1218 Interpretação
+1219 Traduzido para 24 línguas. Algo se perde.
+1220 Acordo
+1221 Um acordo histórico, assinado à justa.
+1223 O charme europeu. Diplomacia +2.
+1224 Salgadinhos
+1225 Um cocktail na praça Lux. O alvo fica sob influência.
+1226 Mala
+1227 Uma mala bem cheia, lançada com balanço.
+1228 Saco de notas
+1229 Notas por todo o lado. O terreno fica coberto.
+1230 Documento de posição
+1231 Uma alteração-chave chave na mão, já redigida.
+1232 Pantouflage
+1233 Passa para o privado. Reatividade +2.
+1234 Influência
+1235 Uma palavra ao ouvido certo.
+1236 Porta giratória
+1237 Já não se sabe quem trabalha para quem.
+1238 Slogan
+1239 Três palavras, zero nuances.
+1240 Autocarro vermelho
+1241 «350 milhões por semana!» Pode desinformar.
+1242 Megafone
+1243 Grita mais alto do que toda a gente.
+1244 Euromito
+1245 Uma lenda sobre Bruxelas, muito convincente.
+1247 O melhor golpe de todos os tempos. Argumentação +3.
+1248 Tarifas
+1249 Liberation Day (2 de abril de 2025). Pode baixar a Resiliência.
+1250 Post em maiúsculas
+1251 UMA MENSAGEM ESCRITA TODA EM MAIÚSCULAS.
+1253 «You're not laughing now!» (2016). Pode baixar a Diplomacia.
+1254 Emprego fictício
+1255 Um emprego que não existe, mas que custa.
+1256 Desaparecimento
+1257 Impossível de encontrar no gabinete. Evasão +2.
+1258 SMS apagado
+1259 Não resta nenhuma mensagem. Anula os bónus adversários.
+1260 Assombração
+1261 Um processo que volta para assombrar o autor.
+1262 Recibo de vencimento
+1263 Um salário pago por nada. Recupera PS.
+1264 Ectoplasma
+1265 Uma aparição espetacular no Parlamento.
+1266 Constituição
+1267 Rejeitada em 2005… mas de uma potência louca.
+1268 Tratado de Roma
+1269 1957: a fundação da CEE.
+1270 1992: a União e a moeda única.
+1271 2007: o tratado que substituiu a Constituição.
+1272 Terras raras
+1273 Restringe as exportações. Pode congelar os fundos.
+1274 Mesa comprida
+1275 Recebe ao fundo de uma mesa de seis metros. Evasão +2.
+1276 Rival sistémico
+1277 Parceiro, concorrente, rival. Pode baixar a Diplomacia.
+1278 Gronelândia
+1279 Tenta comprar uma ilha inteira. Grandes danos.
+1280 Nascido com o Pacto Ecológico de 2019. Rebenta-lhe um broto sempre que se vota uma norma de emissões.
+1281 Objetivo clima
+1282 Treina para reduzir as emissões em 55 % até 2030. Conta cada caloria.
+1283 Neutralidade
+1284 Aspira à neutralidade carbónica em 2050. Até lá, planta uma árvore a cada passo.
+1285 Montinho de carvão da CECA de 1951. Enegrece com entusiasmo tudo aquilo em que toca.
+1286 A chaminé cospe faíscas quando se zanga. Sonha com o pleno emprego.
+1287 Aço comum
+1288 Forjado no carvão e no aço postos em comum. É a prova de que a paz se fabrica.
+1289 Átomo
+1290 Um pequeno átomo curioso, nascido do Tratado Euratom de 1957. Não para quieto.
+1291 Reator
+1292 Os seus eletrões giram tão depressa que ilumina uma sala inteira. Sobriedade opcional.
+1293 Divide-se em dois quando se aborrece. Ele e os Verdes já não se falam.
+1294 Carimbo
+1295 Um carimbo vivo que valida tudo o que encontra. Já carimbou o próprio treinador.
+1296 Pasta de assinaturas
+1297 Rubrica cada página em baixo à direita. Precisa de quatro horas por tratado.
+1298 Ratificação
+1299 Só se mexe quando 27 parlamentos nacionais disseram sim. Por isso dorme muito.
+1300 Reproduz-se aos milhares a cada texto de lei. O Parlamento recebe por vezes 2000 por relatório.
+1301 Obstrução
+1302 Apresenta tantas alterações que bloqueia a sessão inteira. Uma técnica bem rodada.
+1303 Aviso de cookies
+1304 Aparece à frente de cada porta desde o RGPD de 2018. Recusá-lo nunca chega.
+1305 Consentimento
+1306 Pede-te autorização para tudo e depois autorização para a autorização. É muito educado.
+1307 Carregador
+1308 Obrigatório em todos os aparelhos desde o final de 2024. Deixou no desemprego uma gaveta inteira de cabos.
+1309 Tampa
+1310 Não larga a garrafa desde julho de 2024. Bate-te no nariz quando bebes.
+1311 Palhinha desaparecida
+1312 Proibida desde 2021, julgava-se extinta. Assombra os restaurantes de fast food à noite.
+1313 Banana
+1314 Um regulamento de 1994 fixa a sua qualidade. Passa a vida a medir a própria curvatura.
+1316 Viaja para todo o lado sem custos desde junho de 2017. Liga à mãe de cada fronteira.
+1317 Sem fronteiras
+1318 Visitou os 27 países num fim de semana e publicou tudo em direto. Sem custo extra.
+1319 Este pequeno roedor vai um semestre para o estrangeiro e volta bilingue. Nascido em 1987.
+1320 Intercâmbio
+1321 Viveu em 12 casas partilhadas e cozinha massa em 9 línguas.
+1322 Moeda
+1323 Uma moeda de 2 € que rola por todo o lado desde 2002. Tem 27 faces nacionais possíveis.
+1324 Moeda única
+1325 Vinte países partilham a sua força. Quando um tosse, os outros ficam com febre.
+1326 Livre circulação
+1327 Nascido num barco no Mosela em 1985. Nenhuma fronteira o retém.
+1328 Herbicida
+1329 Reautorizado por dez anos em 2023. As ervas daninhas tremem à sua passagem.
+1330 Angariador
+1331 Anda pelos corredores com uma pasta maior do que ele. Não faz lóbi, «informa».
+1332 Influenciador
+1333 Sabe o número de cada assistente parlamentar. E as alergias deles.
+1334 Megalóbi
+1335 Um dos 25 000 lobistas de Bruxelas, em versão gigante. Reescreve as leis a dormir.
+1336 Mala de ferro
+1337 Uma mala de ferro que faz Bruxelas–Estrasburgo doze vezes por ano. Enjoa nas viagens.
+1338 Mudança
+1339 Transporta um parlamento inteiro na barriga. Custo da viagem: melhor não perguntar.
+1340 Mudança de hora
+1341 O Parlamento votou o seu fim em 2019. Mesmo assim, volta duas vezes por ano.
+1342 Fraude
+1343 Faz batota nos testes desde 2015: limpo no banco de ensaio, fumarento na estrada.
+1344 Faz campanha para a presidência… e depois nomeiam outro no seu lugar.
+1345 Intérprete
+1346 Fala 24 línguas, sempre com dois segundos de atraso.
+1347 Três cabeças: Parlamento, Conselho, Comissão. Chegam a acordo por volta das 4 da manhã.
+1348 Ninguém sabe exatamente o que faz. Mas tem assento em 300 comités.
+1349 Formulário
+1350 Uma pilha de formulários em triplicado. Falta sempre uma página.
+1351 Arquivos
+1352 Guarda tudo, até post-its de 1958. Classificação: alfabética e emocional.
+1353 Pequeno agricultor
+1354 Recebe uma ajuda da PAC por cada hectare. Conta os hectares todas as manhãs.
+1355 Absorve um terço do orçamento europeu sem pestanejar. Tem sempre fome.
+1356 Política agrícola
+1357 Quando bloqueia a autoestrada com os tratores, até o Conselho negoceia.
+1358 Estaciona em frente ao Parlamento a cada reforma. Buzinadelas garantidas.
+1359 Queijo
+1360 Um queijinho de leite cru que cheira muito forte. Orgulha-se do seu terroir.
+1361 Protegido por uma denominação de origem. Qualquer imitação vai a tribunal.
+1362 Bombom
+1363 Um chocolate belga muito simpático. Derrete-se quando lhe fazem um elogio.
+1364 Batata frita belga
+1365 Frita duas vezes, como deve ser. Recusa categoricamente ser chamada «French».
+1366 Pombo
+1367 Vive na praça do Luxemburgo e rouba as batatas fritas dos lobistas. Sabe todos os mexericos.
+1368 Homenzinho
+1369 Uma estatueta de 55 cm com mais fatos do que o Parlamento inteiro.
+1371 Nove esferas de aço ligadas em cristal, desde a Expo 58. Brilha à noite sobre Bruxelas.
+1372 Estagiário
+1373 Trabalha muito e não é pago. Diz que é «uma experiência formativa».
+1374 Agente temporário
+1375 O contrato acaba daqui a três meses. Renova-o há seis anos.
+1376 Passou no concurso EPSO. Já não teme nada, exceto a reforma das pensões.
+1377 Resmungão
+1378 É contra. Contra o quê, não interessa: é contra.
+1379 Orador
+1380 Sobe para todas as mesas para inflamar a multidão. Até na cantina.
+1381 Demagogo
+1382 Promete tudo a toda a gente. As promessas evaporam-se de madrugada.
+1383 Notícia falsa
+1384 Muda de forma conforme quem olha. É muito partilhado.
+1385 Conta falsa
+1386 Um robozinho que comenta tudo em maiúsculas. Nunca dormiu.
+1387 Fábrica de trolls
+1388 Dez mil contas numa só caixa. As eleições conhecem-no bem.
+1389 Aprende com tudo o que fazes. Já sabe o que vais capturar.
+1390 IA regulada
+1391 O primeiro regulamento mundial sobre inteligência artificial (2024) pô-lo na ordem.
+1392 Incha um pouco todos os meses. As famílias vigiam-no de perto.
+1393 Hiperinflação
+1394 Tão grande que entope as ruas. O BCE sobe as taxas para o fazer emagrecer.
+1395 Diferencial
+1396 Estica-se a cada declaração desastrada de um banqueiro central.
+1397 Criptomoeda
+1398 De manhã vale uma fortuna, à noite não vale nada. Adora montanhas-russas.
+1399 Cripto regulada
+1400 O regulamento MiCA obrigou-a a usar gravata. Agora está mais calma.
+1401 Equilíbrio orçamental
+1402 Nunca gasta nada, nem sequer energia. O seu grito: «Schwarze Null!»
+1403 Troika
+1404 Três gatos: BCE, Comissão, FMI. Inspecionam juntos as contas dos outros.
+1405 Um sapo que coaxa «não!» a cada proposta. Basta ele para bloquear tudo.
+1406 Unanimidade
+1407 Exige unanimidade para cada decisão e depois recusa-a ele próprio.
+1408 Cancela
+1409 Reaparece assim que se fala de controlos fronteiriços. Tem a sua própria guarita.
+1410 Saída
+1411 Quis sair em 2016, saiu em 2020 e às vezes arrepende-se. Abandona muitas vezes os combates.
+1412 Consulta
+1413 Uma urna que faz perguntas simples sobre problemas complicados.
+1414 Pago pelo Parlamento, nunca lá pôs os pés. Ninguém o viu trabalhar.
+1415 Tem crachá, contrato e recibo de vencimento. Mas nenhum gabinete.
+1416 Encontrado cheio de notas num apartamento de Bruxelas em dezembro de 2022.
+1417 Maleta
+1418 Uma malinha que passa de mão em mão ao pé do Parlamento.
+1419 Gasoduto
+1420 Com 1200 km debaixo do mar. A torneira é controlada por outra pessoa.
+1421 As pás giram mal lhe sopras. Detesta os dias sem vento.
+1422 Eólica marítima
+1423 Vive ao largo do mar do Norte e abastece cidades inteiras.
+1424 Painel solar
+1425 Dorme de noite e trabalha muito de dia, sobretudo em Espanha.
+1426 Impede os preços de subirem demasiado. Tem dores no pescoço de tanto empurrar.
+1427 Tarifa aduaneira
+1428 Taxa tudo o que lhe passa à frente. Até folhas secas.
+1429 Guerra comercial
+1430 Agita um quadro gigante de taxas. Os números mudam todas as manhãs.
+1431 Uma pedrinha de que dependem todos os telefones. As exportações estão sob vigilância.
+1432 Panda diplomata
+1433 Emprestado por alguns anos a um jardim zoológico europeu. Come bambu e acordos comerciais.
+1434 Conteúdo indisponível
+1435 Este ursinho amarelo não é visível em nenhuma região. A ficha foi retirada.
+1436 Pombo jurista
+1437 Faz ninho nas torres do Tribunal de Justiça no Kirchberg e arrulha em latim.
+1438 Declaração
+1439 Recita a declaração de 9 de maio de 1950 a quem a quiser ouvir. Aparece no Dia da Europa.
+1440 Prémio Nobel
+1441 Uma medalha atribuída à União Europeia em 2012. Brilha de orgulho.
+1442 Chuvisco
+1443 Uma nuvenzinha de Bruxelas. Chove-te em cima 200 dias por ano.
+1444 Almoço de negócios
+1445 Um almoço de trabalho de três horas. Decide-se mais ali do que em plenário.
+1446 Acordo comercial
+1447 Está em negociação desde 1999. Quando avança um passo, os tratores empurram-no para trás.
+1448 Nascido a 25 de março de 1957 no Capitólio. Fundou a Comunidade Económica Europeia.
+1449 Tratado de Maastricht
+1450 Nascido nos Países Baixos em 1992. Criou a União e sonhou o euro.
+1451 Tratado de Lisboa
+1452 Assinado em 2007, retomou o essencial de uma constituição que nunca viu a luz do dia.
+1453 Rejeitado em referendo em França e nos Países Baixos em 2005. Foge mal te aproximas.
+1454 Só conhece um ataque, e resulta sempre. Salvou o euro com uma frase.
+1455 Carimbo oficial
+1456 Carimba um Euromon enfraquecido para o registar.
+1457 Super Carimbo
+1458 Tinta reforçada. Mais eficaz do que um carimbo simples.
+1459 Carimbo qualificado
+1460 Maioria qualificada: muito boa probabilidade de captura.
+1461 Carimbo unânime
+1462 Unanimidade! Captura garantida. Raríssimo.
+1463 Café da cantina
+1464 Restaura 20 PS. Morno, mas eficaz.
+1465 Sandes club
+1466 Restaura 50 PS. A preferida dos estagiários.
+1467 Waffle de Bruxelas
+1468 Restaura 120 PS. Açúcar em pó incluído.
+1470 Especialidade luxemburguesa. Restaura 200 PS.
+1471 Menu completo
+1472 Entrada, prato, sobremesa: restaura todos os PS.
+1473 Parecer jurídico
+1474 Cura todos os problemas de estado.
+1475 Despertador
+1476 Acorda um Euromon adormecido por uma cimeira.
+1477 Moção de relançamento
+1478 Devolve ao debate um Euromon K.O.
+1479 Relançamento unânime
+1480 Reanima um Euromon K.O. com todos os PS.
+1481 Pausa sindical
+1482 Restaura todos os PP de um Euromon.
+1483 Argumentário
+1484 Em combate: aumenta a Argumentação.
+1485 Colete à prova de bala
+1486 Em combate: aumenta a Resiliência.
+1487 Relatório pericial
+1488 Em combate: aumenta a Perícia.
+1489 Agenda de contactos
+1490 Em combate: aumenta a Diplomacia.
+1491 Café duplo
+1492 Em combate: aumenta a Reatividade.
+1493 Não solicitação
+1494 Cláusula antiangariação: afasta os Euromons durante 100 passos.
+1495 Faz evoluir certos Euromons. São precisas 27 assinaturas.
+1496 Faz evoluir certos Euromons energéticos.
+1497 Pen USB-C
+1498 Faz evoluir certos Euromons digitais.
+1499 Enciclopédia dos Euromons, oferecida por Jean Monnet.

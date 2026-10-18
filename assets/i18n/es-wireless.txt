@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	En línea
+2165	Sin internet
+2166	Crear partida local
+2167	Unirse a partida local
+2156	Partidas cercanas
+2158	Sin router ni servidor.
+2159	Reinicia el juego para cambiar el modo Wi-Fi.
+2163	Modo DS: red abierta/WEP. Para WPA2, inicia el juego en modo DSi.
+2162	Wi-Fi DSi: comprueba la red WPA2 y los ajustes de la consola.
+2160	Conectando a Wi-Fi DSi… B: cancelar
+2161	Conectando a Wi-Fi DS… B: cancelar
+2154	La consola no responde.

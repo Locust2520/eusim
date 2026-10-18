@@ -1,0 +1,476 @@
+# Română — ids 0-499
+0 LOB
+1 SCA
+2 ÎNG
+3 SOM
+4 BLO
+5 Niv.%d
+6 DEZBATE
+7 SAC
+8 FUGI
+9 ECHIPĂ
+10 PP %d/%d
+11 Niciun efect
+12 Super eficient
+13 Puțin eficient
+14 Înapoi
+15 Nu mai ai PP pentru acest atac!
+16 Rândul tău, %s!
+17 %s trimite pe %s!
+18 Dar %s are deja o problemă…
+19 %s este deja de partea lobby-urilor!
+20 Nu poți îngheța fondurile unui bancher central!
+21 %s este sub influența unui lobby!
+22 %s este prins într-un scandal!
+23 Fondurile lui %s sunt îngheațate!
+24 %s adoarme în plin summit de noapte!
+25 %s este blocat în comisie!
+26 Argumentare
+27 Reziliență
+28 Expertiză
+29 Diplomație
+30 Reactivitate
+31 Precizie
+32 Eschivare
+33 %s : %s nu mai poate crește!
+34 %s : %s nu mai poate scădea!
+35 %s : %s crește mult!
+36 %s : %s crește!
+37 %s : %s scade mult!
+38 %s : %s scade!
+39 %s folosește %s!
+40 (trump)%s folosește %s!
+41 %s pregătește un dosar de 400 de pagini…
+42 Dar nimeni nu cade de două ori în capcana canapelei!
+43 %s plagiază adversarul!
+44 Dar nu e nimic de plagiat…
+45 %s invocă Articolul 50 și abandonează dezbaterea!
+46 %s invocă Articolul 50 și pleacă!
+47 %s invocă Articolul 50… dar negocierile vor dura ani de zile!
+48 %s se protejează cu un veto!
+49 « VETO ! » Adversarul blochează decizia care necesita unanimitate.
+50 Dar atacul lui %s ratează ținta!
+51 %s este deja dezinformat!
+52 %s este dezinformat!
+53 Dar PV-ul lui %s este deja la maximum!
+54 %s își recuperează PV!
+55 %s își face un pui de somn reparator!
+56 Dar veto-ul nu trece de această dată!
+57 %s își flutură dreptul de veto!
+58 Clauză de salvgardare! Toate modificările sunt anulate.
+59 Mesajele lui %s au fost șterse… Nicio urmă nu mai rămâne!
+60 Fonduri structurale plouă pe teren!
+61 %s se trezește așezat pe canapea!
+62 Dar nu se întâmplă nimic…
+63 Asta nu îl afectează pe %s…
+64 Lovitură critică!
+65 Atins de %d ori!
+66 Este super eficient!
+67 Nu este foarte eficient…
+68 %s este prins într-o procedură fără sfârșit!
+69 %s confiscă fonduri!
+70 %s suferă reculul!
+71 Monede se împrăștie pretutindeni!
+72 %s este prea destabilizat pentru a acționa!
+73 %s doarme profund… (e ora 4 dimineața)
+74 %s se trezește! Summitul s-a terminat.
+75 %s iese în fine din comisie!
+76 Fondurile lui %s sunt îngheațate! Nu poate acționa.
+77 %s și-a verificat sursele!
+78 %s este dezinformat…
+79 Transmite o informație falsă și se discreditează singur!
+80 Orbán a ieșit să bea o cafea! Euromonul lui așteaptă, dezorientat.
+81 %s suferă influența lobby-urilor!
+82 Scandalul îl stropește pe %s!
+83 %s este înțepenit în procedură!
+84 %s este K.O.!
+85 %s învață %s!
+86 %s vrea să învețe %s, dar cunoaște deja patru atacuri.
+87 Nu învață
+88 Ce atac să uite?
+89 1, 2, 3… Hop! %s uită %s…
+90 … și învață %s!
+91 %s nu învață %s.
+92 %s obține %d puncte de experiență!
+93 %s trece la nivelul %d!
+94 {P} lansează un %s!
+95 Și poftim! %s este înregistrat în Jurnalul Oficial!
+96 Datele lui %s sunt adăugate în Eurodex.
+97 %s este trimis la Arhive.
+98 Vai, nu! %s s-a eliberat!
+99 Aah! Era cât pe ce!
+100 Fir-ar! Mai lipsea doar o ștampilă!
+101 Argh! Un viciu de procedură!
+102 %s a fost respins prin referendum! Nu poate fi capturat.
+103 Nu se capturează Euromonul altui antrenor! Ar fi un scandal.
+104 {P} folosește %s!
+105 Pe care Euromon?
+106 %s își recuperează PV.
+107 %s se simte mai bine.
+108 %s revine în activitate!
+109 Nu va avea niciun efect.
+110 Nu e momentul!
+111 Pe cine trimiți la dezbatere?
+112 Pe cine trimiți?
+113 %s nu mai este în stare să dezbată!
+114 %s este deja pe teren!
+115 Revino, %s!
+116 partener
+117 concurent
+118 rival sistemic
+119 Euromonul adversarului se prezintă acum ca… %s! (tip %s)
+120 %s %s vrea să dezbată!
+121 Oh! Un %s cromatic!
+122 Apare un %s sălbatic!
+123 Ce trebuie să facă {P}?
+124 Nu se abandonează o dezbatere oficială! Ar fi o recunoaștere a slăbiciunii.
+125 Fugi pe ușa de urgență!
+126 Nu poți fugi: ședința nu s-a încheiat!
+127 %s își lansează argumentul… Masa e atât de lungă încât va ajunge abia într-o tură!
+128 Argumentul din tura precedentă ajunge în fine la celălalt capăt al mesei!
+129 %s va trimite pe %s.
+130 Continuă
+131 Schimbă Euromonul
+132 Schimbi Euromonul?
+133 {P} câștigă %d € pentru această dezbatere!
+134 {P} adună %d € din fonduri structurale.
+135 — CINEMATICĂ —
+136 A : următor    START : omite
+137 Da
+138 Nu
+139 Apasă ecranul sau tasta A
+140 Mulțumim că ai jucat!
+141 SFÂRȘIT… sau aproape.
+143 Fișier de salvare ilizibil!
+145 Bună, bună! Bine ai venit în lumea minunată… și puțin administrativă… a Uniunii Europene!
+146 Mă numesc Robert Schuman. Poate ai auzit de mine: o poveste despre cărbune, oțel și 9 mai… Îți voi spune totul.
+147 De atunci, lumea asta e populată de creaturi stranii: EUROMONII!\fDirective, regulamente, amendamente, bannere de cookie-uri… Trăiesc în stivele de dosare și în mocheta coridoarelor.
+148 Unii le colecționează, alții le pun să dezbată. Eu le studiez. Asta se numește… comitologie!
+149 Dar să vorbim despre tine. În această dimineață, doi stagiari sunt așteptați la Parlamentul European…
+150 În stânga, Alex, noua stagiară. În dreapta, Max, noul stagiar. Tu cine ești?
+151 Alex, o fată
+152 Max, un băiat
+153 Perfect! Și cum trebuie să te numesc, oficial? Trebuie scris în 24 de limbi, așa că alege cu grijă.
+154 Prenumele tău (max. 10 litere):
+155 {P}! Magnific. Mă apuc imediat să traduc asta în malteză.
+156 Acesta e Oliver, colegul tău de stagiu, venit direct din Londra. Este… foarte încrezător.
+157 Hello! Don't worry, {P}, voi fi cel mai bun stagiar din toată Uniunea. Easy.
+158 Misiunea voastră, a amândurora, este simplă: să adoptați O directivă.\fDirectiva privind eliminarea schimbării orei. Parlamentul a votat-o în martie 2019…
+159 … și de atunci doarme la Consiliu. Ca multe alte lucruri.
+160 Pentru a reuși, veți avea nevoie de cele 8 insigne ale marilor orașe ale Europei, să convingeți Consiliul European, și pe președinta Comisiei în persoană!\fHaide, {P}. Stagiul tău începe acum. Nu e plătit, dar e formator!
+161 Maj/min
+162 Șterge
+163 Știai că? Parlamentul se mută la Strasbourg de douăsprezece ori pe an, cufere incluse.
+164 Există 24 de limbi oficiale în UE. Stagiarul tău vorbește una și jumătate.
+165 Sfat: capacele prinse de sticlă nu se mai pierd (directiva 2019/904).
+166 Se încarcă… ca eliminarea schimbării orei: votată în 2019, încă în așteptare.
+167 Drapelul european are 12 stele. Nu e numărul țărilor: e un simbol al perfecțiunii.
+168 Declarația Schuman datează din 9 mai 1950. 9 mai este Ziua Europei!
+169 Monedele euro au apărut în buzunare pe 1 ianuarie 2002.
+170 Din iunie 2017, nu mai există taxe de roaming în Europa. Sună-ți mama din Lisabona!
+171 Încărcătorul universal USB-C este obligatoriu de la finalul lui 2024. Adio, sertar plin de cabluri.
+172 Erasmus a apărut în 1987. De atunci, milioane de studenți au învățat să gătească paste.
+173 Acordul Schengen a fost semnat în 1985 pe o barcă, pe Mosela, în Luxemburg.
+174 Parlamentul European are 720 de deputați din 2024.
+175 Sfat: cantina vindecă toată echipa ta. Cafeaua, în schimb, nu vindecă nimic.
+176 Sfat: alergi ținând apăsat B. Coridoarele Berlaymont-ului sunt lungi.
+177 Regulamentul privind curbura bananelor (1994) chiar există… dar vorbește mai ales despre calitate.
+178 GDPR-ul (2018) ți-a oferit bannere de cookie-uri. Foarte multe bannere de cookie-uri.
+179 Premiul Nobel pentru Pace a fost acordat Uniunii Europene în 2012.
+180 Tratatul de la Roma (1957) a creat Comunitatea Economică Europeană.
+181 Tratatul de la Maastricht (1992) a creat Uniunea Europeană și a prevăzut euro.
+182 Tratatul de la Lisabona (2007) conține articolul 50. O singură țară l-a folosit.
+183 Regatul Unit a părăsit UE pe 31 ianuarie 2020. Oliver încă nu și-a revenit.
+184 Sfat: Ștampilele oficiale capturează mai bine Euromonii slăbiți.
+185 Sfat: un Euromon adormit de un Summit de noapte e mai ușor de capturat.
+186 Berlaymont-ul a fost decontaminat de azbest din 1991 până în 2004. Ședința de șantier a fost lungă.
+187 Curtea de Justiție a UE își are sediul în Luxemburg, pe platoul Kirchberg.
+188 BCE este la Frankfurt. Turnul ei a costat mai mult decât s-a prevăzut. Inflație, probabil.
+189 Simone Veil a fost prima președintă a Parlamentului European ales, în 1979.
+190 Comisia are 27 de comisari: unul de fiecare țară. Chiar și pentru politica pescuitului a Austriei.
+191 Sfat: apasă X pentru a deschide meniul.
+192 Dunărea traversează zece țări. Pantofii tăi, doar două.
+193 De Ziua Europei apare un Euromon rar. Încearcă pe 9 mai!
+194 Traducerile UE înseamnă milioane de pagini pe an.
+195 Imnul european este Oda bucuriei de Beethoven, fără versuri oficiale.
+196 Sfat: atacurile de tip Juridic sunt super eficiente contra tipului Lobby.
+197 Sfat: Veto-ul blochează un atac, dar nu și determinarea ta.
+198 Brexitul a durat atât de mult încât s-a inventat cuvântul „Brextension”.
+199 Există un birou de legătură al Parlamentului în fiecare stat membru.
+200 Sfat: vorbește cu toată lumea. Chiar și cu porumbelul din Place Lux.
+201 Danemarca are o derogare privind euro. Își păstrează coroana, și vikingii.
+202 Se încarcă cele 27 de avize naționale… 26 din 27… Se așteaptă Ungaria.
+203 Știai că?
+204 Se încarcă…
+205 Echipă
+206 Sac
+207 Hartă
+208 Raport
+209 Opțiuni
+210 %lu h %02lu
+211 PV
+212 K.O.
+213 Niv.%d   nr.%03d
+214 Exp.
+215 Următor
+216 B : înapoi
+217 Schimbă cu…?
+218 A : alege   B : înapoi
+219 Rezumat
+220 Mută
+221 Îngrijire
+222 Ștampile
+223 Luptă
+224 Chei
+225 Euromonii sălbatici te vor lăsa în pace o vreme.
+226 PP-ul lui %s este refăcut.
+227 Nu are niciun efect.
+228 Nu e momentul să folosești asta.
+229 ×%d
+230 (gol)
+231 Folosește
+232 nr.%03d  %s
+233 Capturează acest Euromon pentru a-i citi fișa.
+234 EURODEX   Văzuți: %d   Capturați: %d
+235 Niciun suport de salvare detectat.\fPe DS (DS Pico, R4…), lansează jocul de pe cardul SD. Pe emulator, activează DLDI / cardul SD, sau folosește salvările de stare.
+236 Scrii un raport de progres (slotul %d)?
+237 Salvează
+238 Alt slot…
+239 Anulează
+240 Raport transmis în 24 de limbi. Partidă salvată (slotul %d)!
+241 Scrierea pe cardul SD a eșuat. Încearcă din nou.
+242 Setări
+243 Surse ale faptelor
+244 Înapoi la titlu
+245 Te întorci la ecranul de titlu? Tot ce nu e salvat se va pierde.
+246 ◀  × %d  ▶
+247 Total : %d €
+248 A : confirmă   B : anulează
+249 Cumpără
+250 Vinde
+251 La revedere
+252 Vânzător
+253 Bine ai venit la Magazinul Parlamentarium! Totul e garantat conform normelor CE.
+254 Bugetul tău: %lu €
+255 În stoc în sacul tău: %d
+256 Se pare că bugetul tău e… sub plafonul de cheltuieli.
+257 Mulțumesc! Și poftim o Super Ștampilă cadou, pentru achiziția în bloc!
+258 Mulțumesc pentru achiziție! Factură în triplu exemplar.
+259 Asta? Nu e de vânzare, e un obiect de importanță strategică!
+260 Afacere încheiată!
+261 La revedere! Nu uita: încărcătorul USB-C se vinde separat.
+262 ECHIPĂ → ARHIVE (%d/%d)
+263 ARHIVE → ECHIPĂ (%d/%d)
+264 ◀▶ parte   A : mută   B : ieși
+265 {P} pornește terminalul Arhivelor. „Bine ai venit în sistemul de gestionare a documentelor.”
+266 Trebuie să păstrezi cel puțin un Euromon în echipă!
+267 Echipa este completă (maximum 6 Euromoni).
+268 Rescript
+269 Euro
+270 Hemiciclu
+271 OXI
+272 Articolul 50
+273 Veto
+274 Amendă
+275 Sorbona
+276 Jean-Claude Juncker, Luxemburg
+277 Christine Lagarde, Frankfurt
+279 Yanis Varoufakis, Atena
+280 Farage & Johnson, Londra
+281 Viktor Orbán, Budapesta
+284 ETUI DE INSIGNE AL TRATATELOR
+285 obținută
+286 de cucerit
+287 Insigna %s — oferită de %s.
+288 Ce? %s evoluează!
+289 Ai amânat reforma. %s nu a evoluat.
+290 Felicitări! %s a evoluat în %s!
+291 Timp : %d s
+292 Scor : %d / %d
+293 Mini-joc
+294 Vot în plen
+295 Deputații ajung în hemiciclu! Apasă fiecare loc care se aprinde galben înainte să se stingă. 25 de voturi în 30 de secunde!
+296 Președinție
+297 Apasă locurile galbene!
+298 Adoptat cu o largă majoritate! Aplauze pe toate băncile.
+299 Cvorumul nu este atins. Ședința este suspendată…
+300 Ștampila
+301 Documente defilează pe birou. Apasă fiecare dintre ele pentru a-l ștampila înainte să iasă din ecran. 15 documente!
+302 Apasă documentele pentru a le ștampila
+303 Toate documentele sunt ștampilate! Administrația e mândră de tine.
+304 Unele documente au plecat neștampilate. Vor trebui să refacă tot circuitul…
+305 Bannere de cookie-uri
+306 Bannere de cookie-uri invadează ecranul! Apasă „Refuz” pe fiecare. Dacă se adună șase bannere, ai pierdut. Rezistă 25 de secunde!
+307 (un site internet oarecare)
+308 Respectăm
+309 confidențialitatea ta
+310 Accept
+311 Refuz
+312 Refuză tot! (nu apăsa pe Accept)
+313 Toate cookie-urile refuzate! GDPR-ul e mândru de tine.
+314 Năpădit de bannere… Ai acceptat 437 de parteneri publicitari.
+315 Summit de noapte
+316 E ora 3 dimineața, cei 27 de șefi de stat adorm! Suflă în microfon (sau apasă capul care doarme) pentru a-i trezi. 27 de treziri înainte de zori!
+317 %d h %02d
+318 Suflă / apasă capul adormit!
+319 Toți treziți! Acord găsit la 4:37. Ca de obicei.
+320 Soarele răsare peste o masă de lideri adormiți. Summitul este reportat.
+321 Cuferele de la Strasbourg
+322 Încarcă cuferele deputaților în tren, în ordine: 1, 2, 3… până la 10. Ai 30 de secunde!
+323 Peron — TGV Strasbourg ⇄ Bruxelles
+324 Cuferele
+325 Apasă cuferele în ordine!
+326 Toate cuferele sunt în tren! Sesiunea poate începe.
+327 Trenul a plecat fără cufere. Deputații vor ședea în pijama.
+328 Limbă
+329 Viteza textului
+330 Sunet text
+331 Volum muzică
+332 Animații de luptă
+333 Lentă
+334 Normală
+335 Rapidă
+336 ↑↓ / stylus : derulează    B : înapoi
+337 Credite
+338 card SD
+339 cartuș
+340 niciuna
+341 {P} obține %d × %s!
+342 {P} obține : %s!
+343 — Slot gol —
+344 Eurodex : %d
+345 Continuă : alege o partidă
+346 Partidă nouă : slot
+347 Salvează în…
+348 Acest slot conține deja o partidă. Îl suprascrii?
+349 Partidă nouă
+350 Credite și surse
+351 Meniu principal
+352 Parodie neoficială · v2.0
+353 Stagiul vieții tale
+354 APASĂ START
+355 {P} primește %s!
+356 Echipa este plină: pleacă la Arhive.
+357 {P} nu mai are niciun Euromon în stare să dezbată…\f{P} se întoarce în fugă la cantină, cu capul în jos.
+358 Cantinieră
+359 Haide, o cafea bună și totul repornește! Euromonii tăi sunt în formă maximă.
+360 Insigna Rescript
+361 Insigna Euro
+362 Insigna Hemiciclu
+363 Insigna OXI
+364 Insigna Articolul 50
+365 Insigna Veto
+366 Insigna Amendă
+367 Insigna Sorbona
+368 {P} primește %s!
+369 Eurodexul tău are %d Euromoni capturați din %d văzuți.
+371 E un început! Pașii mici fac uniunile mari.
+372 Nu-i rău! Avansezi mai rapid decât directiva privind ora de vară.
+373 Impresionant! Nici Comisia n-are atâtea dosare.
+374 Extraordinar! Ești o instituție în sine.
+375 {P} găsește : %s!
+376 Clauza de nesolicitare a expirat.
+378 Luxemburg
+379 Frankfurt
+381 Atena
+382 Londra
+383 Budapesta
+386 Varșovia
+387 Roma
+389 Lisabona
+390 Vânzător de bilete
+391 Nicio destinație disponibilă momentan.
+392 Alte destinații…
+393 Toată lumea la bord! Trenul pornește… cu doar câteva minute întârziere.
+394 Diplomat
+395 Josep Borrell, fostul Înalt Reprezentant, spunea în 2022: „Europa este o grădină, restul lumii este o junglă.” A făcut… puțină vâlvă.
+397 Șaisprezece ani cancelar. Sute de summituri. În 2015 am spus: « Wir schaffen das » — vom reuși.
+398 Dar tu, vei reuși? Sunt primul membru al Consiliului. Nimeni nu trece fără compromis.
+399 Wir haben es geschafft. Poți trece. Mario te așteaptă… cu un raport de 400 de pagini.
+401 Iulie 2012, Londra. Am spus trei cuvinte: « Whatever it takes ». Euro a fost salvat. Piețele s-au calmat.
+402 În 2024, raportul meu despre competitivitate cerea până la 800 de miliarde de investiții pe an. Investește în această dezbatere.
+403 Ai făcut tot ce trebuia. Kaja Kallas te așteaptă. Este… foarte directă.
+405 Înaltă Reprezentantă pentru afaceri externe din decembrie 2024. Fostă prim-ministră a Estoniei.
+406 Lumea e periculoasă. Trebuie să știu dacă vei rezista în fața marilor puteri. Arată-mi.
+407 Solid. Vei avea nevoie de asta. Președintele Costa te așteaptă. Speră să termine înainte de miezul nopții.
+409 Președinte al Consiliului European din decembrie 2024! E ora 23:54. Dacă terminăm înainte de miezul nopții, va fi o premieră istorică.
+410 Dar întâi: toți șefii de stat au adormit în jurul mesei. Ajută-mă să-i trezesc! Suflă în microfon… sau apasă ecranul!
+411 E… 4:37. Bine. Ca de obicei. Să dezbatem totuși.
+412 Consiliul European îți aprobă candidatura în unanimitate! Mă rog… în unanimitate minus o abținere constructivă.
+413 Președinta Comisiei te așteaptă la etajul 13 al Berlaymont-ului. E ultimul pas înainte de directivă.
+415 Ah, bună ziua. Sunt Charles Michel, fostul președinte al Consiliului European. Sunt doar… așezat. Pe singurul scaun.
+416 La Ankara, în aprilie 2021, am luat fotoliul. Ursula s-a trezit pe canapea. Am numit asta « Sofagate ». Nu mi-am revenit niciodată complet.
+418 Bine ai venit la etajul 13. Da, locuiesc aici: e o cămăruță lângă biroul meu. E practic pentru dosarele urgente.
+419 Președinta Comisiei din 2019, realeasă în 2024. Pactul Verde, criza Covid, vaccinurile…
+420 SMS-urile cu șeful Pfizer? În mai 2025, Tribunalul UE a anulat refuzul nostru de a le comunica New York Times-ului. Mă rog. Să trecem peste.
+421 Vrei directiva privind ora de vară? Învinge-mă. Team Europe, la final, va rămâne doar unul.
+422 Extraordinar. Ești cel mai bun stagiar din istoria Comisiei. Iată… directiva privind eliminarea schimbării orei.
+423 Nu mai rămâne decât să o semnăm. O formalitate! E suficient ca…
+424 Marile puteri așteaptă! Anvers, Varșovia, Pireu… Ia trenul.
+425 Ai salvat Europa. Și directiva este… în comitet. Ca întotdeauna. Mulțumesc pentru tot, {P}.
+426 BIP BIP BIP! Trei mesaje urgente ajung simultan pe toate telefoanele din Berlaymont.
+428 HELLO EUROPE! Am o mică cerere. Foarte mică. Pun taxe vamale pe tot. Și aș vrea să cumpăr Groenlanda. Se vinde, nu?
+429 Al doilea mesaj, venit din Est: « Robinetul de gaz este închis. Pentru binele vostru. » Semnat: V. P.
+430 Al treilea mesaj, foarte politicos: « Suspendăm exporturile noastre de metale rare. Telefoanele voastre vor funcționa… mai puțin. » Semnat: X. J.
+431 {P}, directiva va mai aștepta. Marile Puteri vor să aducă Europa la ordine. Trebuie să le vizităm. Pe toate trei.
+432 Portul Anvers, Varșovia, și portul Pireu, la Atena. Gările îți sunt deschise. Team Europe se bazează pe tine!
+434 Sunt secretar general NATO. La summitul de la Haga, în iunie 2025, ne-am angajat să creștem spre 5 % din PIB pentru apărare, până în 2035.
+435 Și l-am numit pe Donald « tata ». Bine, a fost o figură de stil. I-a plăcut la nebunie. Du-te, e pe green.
+437 În februarie 2025, la Conferința de la München, le-am explicat europenilor ce este democrația. Au fost… surprinși.
+438 C'EST LE PLUS BEAU GOLF DU MONDE. Tocmai l-am cumpărat. Cred. Și portul, poate.
+439 Pe 2 aprilie 2025, Liberation Day! Am ridicat un panou mare cu taxe vamale pentru TOATĂ LUMEA. Chiar și pentru insule unde trăiesc doar pinguini.
+440 În iulie 2025, pe terenul meu de golf din Turnberry, Ursula și eu am făcut un deal: 15 %. Dar mă pot răzgândi. Mă răzgândesc des. E o strategie.
+441 Și Groenlanda! E mare, e albă, e magnifică. Danemarca nu vrea să vândă. FOARTE INJUST. Dezbatem, și dacă eu câștig, o cumpăr!
+442 A fost aranjat. Complet aranjat. Bine. Rămânem la 15 %. Și Groenlanda rămâne daneză. Pentru moment. Voi posta ceva cu majuscule în seara asta.
+444 Bine ai venit la Varșovia. Prim-ministru al Poloniei, fost președinte al Consiliului European. Aici, știm cât valorează libertatea.
+446 Din februarie 2022, țara mea rezistă invaziei ruse. Mulțumesc Europei pentru sprijin. Palatul e acolo sus: ai grijă.
+447 Ia acest kit REPowerEU: Europa a învățat să se descurce fără gazul rusesc. Vei avea nevoie de el ca să te ții de cald acolo.
+449 Așază-te. Nu… mai departe. Așa. În februarie 2022 am primit președinți la această distanță. E mai… confortabil.
+450 Gazul? Am închis robinetul. Alegerile? În decembrie 2024, Curtea Constituțională română a anulat un scrutin prezidențial pe fondul unor ingerințe. Nu știu despre ce vorbim.
+451 Aici, argumentele tale vor avea nevoie de o tură întreagă ca să ajungă la celălalt capăt al mesei. Să începem.
+452 …Kitul tău REPowerEU este eficient. Șantajul nu mai funcționează. Pleacă, înainte să scurtez masa.
+453 Paznic
+454 Acești doi panda sunt împrumutați de China unei grădini zoologice europene. Se numește « diplomația pandei ». Mănâncă 40 kg de bambus pe zi. Panda, nu diplomații.
+456 Bine ai venit. Uniunea Europeană ne descrie din 2019 ca partener, concurent și rival sistemic. Și eu sunt toate trei.
+457 Voi taxați mașinile noastre electrice — până la 35 % din octombrie 2024. Noi taxăm coniacul vostru. Și ne supraveghem metalele rare. E echilibrat.
+458 În această dezbatere, Euromonul meu își va schimba tipul la fiecare tură: partener, concurent, rival. Baftă să ții pasul.
+459 Hmm. Un partener demn de respect. Metalele rare își vor relua drumul. Panda rămân, sunt foarte populari.
+460 Un ursuleț galben trece pe după un container. Apare un panou: « Conținut indisponibil în regiunea ta. »
+461 Un mesaj de la Președintă: « Cele trei Mari Puteri cer un summit. Imediat. Summitul G-Tot. Te trimit acolo. »
+462 EU AM AVUT IDEEA ACESTUI SUMMIT.
+463 Masa e prea scurtă.
+464 Suntem toți parteneri. Și rivali.
+465 Bun, începem? Eu primul. Toată lumea zice că sunt cel mai bun la început.
+466 Propunem să începem… după o reflecție matură. În cincizeci de ani.
+467 De ce e Europa la masă? Trebuia să fie pe scaunul pliant.
+468 SCAUNUL PLIANT E TREMENDOUS. Vând din astea.
+469 Toată lumea vorbește deodată. Interpreții renunță. Nu mai rămâne decât o soluție: dezbaterea.
+470 Tăcere în sală. Cele trei Mari Puteri se privesc… apoi privesc Europa.
+471 Team Europe! Împreună suntem mai puternici decât separat. E cam toată povestea Uniunii, nu?
+472 Realizări concrete, {P}. O solidaritate de fapt. Am spus-o în 1950. Tu ai făcut-o într-un stagiu.
+473 Și directiva privind eliminarea schimbării orei? A fost retrimisă… în comitet.
+474 Dar asta e altă poveste.
+475 Aventura continuă! Trenuri noi fac legătura cu Roma, Maastricht și Lisabona. Se zice că Euromoni legendari dorm acolo… Și pe cineva te așteaptă la gara din Bruxelles.
+476 O statuie antică, în Piața Capitoliului. Pe 25 martie 1957, șase țări au semnat aici Tratatul de la Roma. Ceva se mișcă…
+477 Aici, pe 7 februarie 1992, Tratatul de la Maastricht a dat naștere Uniunii Europene. O monedă euro gigantică începe să strălucească…
+478 Pe 13 decembrie 2007, Tratatul de la Lisabona a fost semnat la mănăstirea Hieronimiților. O siluetă translucidă se apropie…
+479 În depărtare, un alt Euromon fuge: Constitutio. Respins în 2005, nu se lasă niciodată capturat.
+480 Prima zi de stagiu la Parlamentul European! Profesorul Schuman te așteaptă în holul Parlamentului.
+481 Calculatorul tău arată 437 de e-mailuri necitite. Toate au subiectul « Ședință de coordonare despre ședințe ».
+482 Parcul Léopold. Atenție: stivele de dosare ascund Euromoni sălbatici. Nu hrăni Amendonii.
+483 Berlaymont — Comisia Europeană. Acces restricționat. Etajul 13: biroul (și camera) Președintei.
+484 « Europa nu se va construi dintr-o dată, nici printr-o construcție de ansamblu: ea se va construi prin realizări concrete. » — Robert Schuman, 9 mai 1950.
+485 Lobbyist
+486 Bună ziua! Eu nu fac lobby. Fac « schimb de expertiză ». O gustare? E cu somon. Norvegian.
+487 Turist
+488 Excuse me, unde e Manneken-Pis? Mi s-a spus că e mai mare… Am fost mințit mult în călătoria asta.
+489 Copil
+490 Când voi fi mare, voi fi interpret! În 24 de limbi. Sau pompier, e mai calm.
+491 Jurnalist
+492 Acopăr Uniunea Europeană de douăzeci de ani. Titlul meu preferat: « Bruxelles spune nu ». Merge de fiecare dată.
+494 Ai câștigat… Se zice că directiva privind ora de vară e blocată la Consiliu din 2019. Baftă, mă.
+495 Agent de securitate
+496 Drumul prin Ardeni? Nu fără Euromon! Dosarele sălbatice sunt agresive în acest sezon bugetar.
+497 Stai! Nimeni nu părăsește Bruxelles-ul fără Euromon. Mergi mai întâi la profesorul Schuman, la Parlament.
+498 Gardă
+499 Etajul 13? Doar cei care au convins Consiliul European pot urca. Și mai întâi trebuie cele opt insigne.

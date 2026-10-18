@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Debata wieloosobowa
+2148	Utwórz pokój
+2149	Dołącz do pokoju
+2150	Graj z kimkolwiek
+2151	Nazwa pokoju
+2153	PIN (6 cyfr)
+2145	Oczekiwanie na graczy…
+2146	Szukanie co 10 sekund.
+2147	PIN: %s
+2118	Anuluj (B)
+2117	Potwierdź (A)
+2116	←→: pozycja    ↑↓: cyfra
+2152	Wpisz nazwę pokoju.
+2113	Nieprawidłowa odpowiedź serwera.
+2135	Nieprawidłowe żądanie pokoju.
+2136	Ta nazwa pokoju jest już używana.
+2137	Nie znaleziono pokoju.
+2138	Nieprawidłowy PIN.
+2139	Pokój jest pełny.
+2140	Wersje gry się różnią.
+2141	Serwer jest pełny.
+2142	Pokój wygasł.
+2143	Nieprawidłowa wymiana danych debaty.
+2144	Serwer został zatrzymany.
+2108	Debata anulowana.
+2109	Serwer nie odpowiada.
+2110	Połączenie z serwerem przerwane.
+2111	Drugi gracz opuścił debatę.
+2115	Debaty nie są zsynchronizowane.
+2114	Oczekiwanie na drugiego gracza… B: anuluj
+2123	Łączenie z Wi-Fi… B: anuluj
+2124	Nie udało się uruchomić Wi-Fi.
+2125	Sprawdź ustawienia Wi-Fi konsoli.
+2126	Nie udało się utworzyć połączenia.
+2127	Nie udało się skonfigurować połączenia.
+2128	Serwer nieosiągalny.
+2129	Do debaty potrzebujesz drużyny.

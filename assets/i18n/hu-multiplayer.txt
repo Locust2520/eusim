@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Többjátékos vita
+2148	Szoba létrehozása
+2149	Csatlakozás szobához
+2150	Játék bárkivel
+2151	Szoba neve
+2153	PIN (6 számjegy)
+2145	Várakozás játékosokra…
+2146	Keresés 10 másodpercenként.
+2147	PIN: %s
+2118	Mégse (B)
+2117	Megerősítés (A)
+2116	←→: hely    ↑↓: számjegy
+2152	Adj meg egy szobanevet.
+2113	Érvénytelen szerverválasz.
+2135	Érvénytelen szobakérés.
+2136	Ez a szobanév már használatban van.
+2137	A szoba nem található.
+2138	Helytelen PIN.
+2139	A szoba megtelt.
+2140	A játékverziók eltérnek.
+2141	A szerver megtelt.
+2142	A szoba lejárt.
+2143	Érvénytelen vitaadatcsere.
+2144	A szerver leállt.
+2108	Vita megszakítva.
+2109	A szerver nem válaszol.
+2110	Megszakadt a kapcsolat a szerverrel.
+2111	A másik játékos elhagyta a vitát.
+2115	A viták nincsenek szinkronban.
+2114	Várakozás a másik játékosra… B: mégse
+2123	Wi-Fi csatlakozás… B: mégse
+2124	A Wi-Fi nem indítható.
+2125	Ellenőrizd a konzol Wi-Fi-beállításait.
+2126	A kapcsolat nem hozható létre.
+2127	A kapcsolat nem állítható be.
+2128	A szerver nem érhető el.
+2129	A vitához csapatra van szükséged.

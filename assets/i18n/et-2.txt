@@ -1,0 +1,468 @@
+# Eesti — ids 500-999
+500 Europa hoones koguneb Euroopa Ülemkogu. Vastuvõtuks on vaja lepingute kaheksat märki.
+501 Uksehoidja
+502 Volinik on… väga hõivatud. Räägitakse, et Team Lobby blokeerib kõik tema uurimised. See toimub Place Luxi baari all.
+503 Konkurentsi peadirektoraat võtab vastu ainult kogenud praktikante. Tule tagasi vähemalt kuue märgiga.
+504 Parlamendi töötaja
+505 Tere tulemast Euroopa Parlamenti! Professor Schuman ootab sind fuajee tagaosas.
+506 Paremal olev trepp viib korrustele… Räägitakse, et ühes tiivas kummitab. Mina sinna kunagi ei lähe.
+507 Ah, {P}! Lõpuks oled sa siin! Täpne… tunni täpsusega. Neetud kellakeeramine.
+508 Hi! Ma tulin tund aega tagasi. Mina elan Londoni aja järgi.
+509 Professori labor
+510 Hästi. Te hakkate töötama Euromonidega. Selle Parlamendi toimikud on neid täis.
+511 Mul on siin kolm, päris noored. Nad sündisid suurtest Euroopa ideedest. Vali omale, {P}.
+512 Nad tulevad välja… papist kaustadest?
+513 Brüsselis algab kõik oluline papist kaustast, Oliver. Isegi Euroopa.
+514 VERDEAL, sündinud rohelisest kokkuleppest. CHARBONNET, pärit 1951. aasta Söe- ja Teraseühendusest. Või ATOMINO, otse Euratomist.
+515 Verdeal (tüüp Roheline)
+516 Charbonnet (tüüp Tööstus)
+517 Atomino (tüüp Energia)
+518 Suurepärane valik! Hoia teda hästi. Üks hästi koheldud Euromon on parem kui kümme halvasti ratifitseeritud lepingut.
+519 Siis võtan mina selle, kes sinu oma võidab. That's just smart negotiation.
+520 Oliver! See pole just… ühenduse vaimus.
+521 No kuule, {P}, väike väitlus, et näha, kes on parim praktikant?
+522 What?! Ma kaotasin mandri praktikandile?! See oli… peaproov.
+523 Ha! Nagu plaanitud. Ära pahanda, {P}, see on kultuuriline.
+524 Tublid mõlemad. Nüüd ülesanne: saada vastu võetud kellakeeramise lõpetamise direktiiv.
+525 Parlament kiitis selle heaks 2019. aasta märtsis. Sellest ajast magab see nõukogus. Tõsiseltvõetavuseks on vaja lepingute kaheksat märki.
+526 Esimene märk ootab Luksemburgis, Jean-Claude Junckeri juures. Minge Ardennide teed mööda itta.
+527 Luksemburg? Easy. Olen seal enne sind. See you, loser… ee, kolleeg!
+528 Üks hetk, {P}! Olen Jean Monnet. Leiutasin väikeste sammude meetodi. Siin on suur samm: EURODEX.
+529 See registreerib iga Euromoni, keda kohtad. Ja siin on vahendid nende ametlikuks templiga varustamiseks.
+530 Nõrgesta metsikut Euromoni ja viska siis KOTIST ametlik tempel. Euroopa loodab sinule!
+531 Julgust, {P}! Iga märk on väike kivike. Nagu Euroopaga: konkreetsed saavutused.
+532 Kaheksa märki! Euroopa Ülemkogu ootab sind Europa hoones. Ma olen nii uhke.
+533 Näita mulle oma Eurodexi…
+534 Räägi kõigepealt professor Schumaniga, noor praktikant.
+535 Professor on seal. Kiirusta, mul on igav.
+536 Tee 1 — Ardennide mets. Luksemburg: 3 tundi jalgsi, 12 minutit maksueelotsusega.
+537 Matkaja
+538 Ardennide mets ulatub üle kolme riigi. Metssead pole kunagi passi näidanud.
+540 Ühel päeval makstakse meile palka. Ühel päeval…
+541 Härra Dupont
+542 Ärge unustage täita rahuloluküsitlust. See on 12 lehekülge.
+544 Põllumajanduspoliitika on kolmandik ELi eelarvest. Ja minu kombain on kolmandik minu laenust.
+545 Luksemburg-Kirchberg. ELi Kohus, Kontrollikoda, Euroopa Investeerimispank. Ja palju lihtsalt panku.
+546 Schengeni poole, Moseli küla, kus 1985. aasta lepe allkirjastati. Järgi rada lõunasse.
+547 Väike rada laskub Moseli poole… ja Schengeni poole.
+548 Ühistransport on siin tasuta! Sõitsin trammiga linnast 14 korda läbi. Asjata. Tasuta.
+549 Vanaema
+550 Mu mees oli ELi ametnik. Ta töötas Kontrollikojas. Ta loendas isegi lambaid, et uinuda.
+551 Kohtunik
+552 Euroopa Liidu Kohus on siin asunud alates 1952. Meie otsused on siduvad kõigile 27 riigile. Isegi esmaspäeva hommikul.
+553 Kohtusekretär
+554 Tõlkisin kohtuotsuse 24 keelde. Malta versioonis on trükiviga. Keegi pole seda kümne aasta jooksul märganud.
+555 Luksemburgi tolliametnik
+556 Moseli tee on reserveeritud Eelotsuse märgi omanikele. Mine härra Junckeri juurde, Kuldsele areenile.
+557 {P}! Ikka veel siin? Mina olen juba kolmes pangas käinud ja kaks kontot avanud. Folkloori pärast.
+558 Väitlus!
+559 Noh, olgu, sa arened. Ma kihutan Frankfurti EKP-sse. Nad lubasid mulle intressimäärasid selgitada.
+561 Siin Luksemburgis on diskreetsus voorus. Ja tööstusharu.
+562 Advokaat Klein
+563 Maksueelotsused olid seaduslikud, tead. Lihtsalt keegi ei pidanud neid lugema. LuxLeaks, 2014, milline õnnetus.
+565 Ah, Schumani väike praktikant! Tule, tule. Mina alustasin ka väikselt. Siis kaheksateist aastat peaministrina.
+566 Juhtisin eurorühma, siis komisjoni. Olen näinud palju tippkohtumisi. Ja patsutanud palju põsi.
+567 Kord, 2011. aastal, ütlesin: „Kui asi muutub tõsiseks, tuleb valetada.” Nii et ma ei ütle sulle, et lasen sul võita.
+568 Suurepärane! Võitsid Eelotsuse märgi. See on ametlik, mitte konfidentsiaalne!
+569 Moseli tee on sulle avatud. Frankfurt ootab ja Christine Lagarde intressimääradega nalja ei tee.
+570 Tuled jälle külla? Tule siia, ma patsutan su põske. See on Luksemburgi traditsioon. Noh, minu oma.
+571 Siin, 14. juunil 1985, laeval Princesse Marie-Astrid, allkirjastasid viis riiki Schengeni leppe piirikontrolli kaotamise kohta.
+572 Kapten
+573 Princesse Marie-Astrid! Sellisel laeval kaotati piirid. Irooniline, jõel, mis ise on piir.
+574 Räägitakse, et haruldane Euromon, Schengeon, luusib küla toimikutes. Ta ei peatu kunagi tollis.
+575 Tee 2 — Moseli org. Kolm riiki kahekümne kilomeetri peal. Ära unusta keelt vahetada.
+577 Tasuta rändlus on Liidu ilusaim kingitus. Postitasin 4000 fotot Moselist.
+579 Minu arvutuste järgi võidad järgmise märgi. Aga mu arvutused peavad harva paika.
+581 Luksemburgi crémant on KPN-toode! Nagu minu Fromajus.
+582 Euroopa Keskpank. Ülesanne: hinnastabiilsus. Inflatsioonieesmärk: 2% keskmises perspektiivis. Keskmine perspektiiv: täpsustamata.
+584 Turud on närvilised. Nad on alati närvilised. See on nende töö.
+585 Hoiustaja
+586 Mul on ikka veel madrats Saksa marku täis. Iial ei tea.
+587 Reini tee on suletud praktikantidele, kellel pole Euro märki. Mine proua Lagarde'i juurde EKP-sse.
+589 Spekuleerisin sinu kaotusele. Kaotasin särgi. Ja lipsu.
+590 Dr Sofia
+591 Šokk oli eksogeenne. Täiesti eksogeenne.
+593 Tere tulemast Euroopa Keskpanka. Siin liigutab iga mu sõna turgusid. Seepärast valin oma sõnu.
+594 Ühel 2020. aasta märtsipäeval ütlesin, et me „ei ole siin selleks, et vahesid vähendada”. Itaalia turud kukkusid. Elu õpetab.
+595 Minu areenil järgib mu rünnakute jõud parasjagu kehtivat baasintressimäära. Valmis natukeseks rahapoliitikaks?
+596 Tähelepanuväärne. Sinu strateegia oli… etteaimatav, heas mõttes. Siin on Euro märk.
+597 Strasbourg on lõunas, Reini viinamarjaistanduste taga. Roberta Metsola juhib Parlamenti. Ära kunagi talle vahele sega.
+598 Intressimäärad on täna stabiilsed. Naudi, see ei kesta kunagi.
+599 EKP selgitas mulle kõike: inflatsiooni, intressimäärasid, bilanssi… Ma ei saanud midagi aru. Noh, väitlus, et lõõgastuda!
+600 Hmm. Tead, kodus Londonis räägivad mõned Liidust lahkumisest. See oleks naeruväärne, eks? …Eks?
+602 Roheline kokkulepe esitati 2019. aasta detsembris. Sellest ajast võitleme iga koma eest.
+604 Minu järgmine artikkel: „Komisjon tahab keelata kaotatud väitlused”. See pole tõsi, aga see lööb laineid.
+606 Alsace'i ja Badeni veinid vaatavad teineteist üle Reini. Varem olid need kahurid. Edasiminek!
+607 Strasbourg, Euroopa Parlamendi ametlik asukoht. 12 täiskogu istungjärku aastas. 720 saadikut. Tuhanded kohvrid.
+608 Europarlamendi liige
+609 Olen sõitnud Brüssel–Strasbourg kaksteist korda aastas alates 2014. See teeb… 132 kolimist. Mu kohvritel on rohkem boonuspunkte kui mul.
+610 Ametnik
+611 Appi! Istungjärk algab 2 minuti pärast ja saadikute kohvrid pole laaditud! Kas sa saad mind aidata?
+612 Kõik kohvrid on pardal! Säh, võta see, see on logistikaosakonna ametlik autasu.
+613 Ebaõnnestus… Noh, ütleme, et istungjärk algab hilinemisega. Nagu tavaliselt. Proovi uuesti, millal tahad!
+614 Noh… lähen jälle kohvrisse nutma.
+615 Saadik Müller
+616 Minu 2000 muudatusettepanekut… lükati tagasi en bloc. Tuleb komisjonis otsast alustada.
+617 Saadik Rossi
+618 Lissaboni lepingu jaoks oli mul terve kohvritäis märkmeid. See jäi Brüsselisse.
+619 Uksehoidja
+620 Vaikust istungisaalis! Proua president võtab väitlusi vastu alles pärast hääletust. Kas soovid proovida täiskogu hääletust?
+621 Vastu võetud häälteenamusega! President võtab sind vastu.
+622 Tagasi lükatud… Kvoorumit polnud. Proovi uuesti!
+623 Sinu hääl on registreeritud. President ootab sind.
+625 Istung on avatud. Parlamendi president alates 2022, tagasi valitud 2024: olen harjunud sõnavõtuaega jälgima.
+626 Sul on kolmkümmend sekundit. Ah, juba läbi. Noh, väitleme!
+627 Tulemus on selge: vastu võetud! Istungisaali märk on sinu.
+628 Ja siin on Euroopa Interraili pass. Sellega on kõik jaamad sulle avatud. Su järgmine märk on Ateenas.
+629 Räägitakse, et Yanis Varoufakis annab seal tunde… mootorrattal. Võta rong Strasbourgi jaamast.
+630 Väitlus? Mitte ilma täiskogu hääletuseta. Räägi uksehoidjaga.
+631 Järgmine istungjärk on kuu aja pärast. Ärge unustage oma kohvreid!
+632 Ateena. Demokraatia, filosoofia… ja 5. juuli 2015 rahvahääletuse häll.
+633 Akropol on 2500 aastat vana. See on üle elanud pärslased, osmanid ja troika.
+634 Kreeka tolliametnik
+635 Pireuse sadam? Külastajatele suletud. See kuulub… partneritele. Väga partneritele.
+636 Vabandust, juurdepääs sadamale on piiratud. Tule tagasi, kui olukord on… diplomaatilisem.
+638 2015. aastal hääletasin OXI. Ja pärast seda… see on keeruline.
+639 Troika agent (EKP)
+640 Meie aruanne soovitab veelgi rangemat kokkuhoidu. Isegi su Euromonidele.
+641 Troika agent (IMF)
+642 Tunnistame mõningaid vigu oma prognoosides. Meie vahel.
+644 Tuled märgi järele? Tulin siia mootorrattaga, nahktagis, lipsuta. Nagu 2015. aasta eurorühma koosolekutele.
+645 Rahandusminister kuus kuud. Astusin pärast rahvahääletust tagasi: 61% OXI poolt. Demokraatia on ilus, ja kangekaelne.
+646 Troika ootas mind nurga taga. Sina võitsid selle agendid. Näita, kas oled kokkuhoiust tugevam!
+647 NAI! Ee, ma mõtlen: braavo. Siin on OXI märk, seltsimees.
+648 Su järgmine märk on Londonis. Aga kiirusta: seal räägitakse üha rohkem ühest teatud väljapääsust.
+649 Lähen jälle loengut pidama. Võlast. Mootorrattal.
+650 Westminster. Siin, 23. juunil 2016, hääletas Ühendkuningriik 51,9%-ga Euroopa Liidust lahkumise poolt.
+651 Kuninglik kaardiväelane
+652 (Ta ei liigu. Isegi brexiti pärast mitte.)
+653 Peatoimetaja
+654 Homme on pealkiri liiga sirgetest kurkidest. See on kakskümmend aastat töötanud.
+656 1990. aastatel olin Daily Telegraphi korrespondent Brüsselis. Kirjutasin asju… fantaasiaga. Get Brexit done!
+658 Tere tulemast pubisse! Pint? Veetsin kakskümmend aastat Euroopa Parlamendis, selgitades, et me ei peaks seal olema.
+659 28. juunil 2016 ütlesin europarlamendi liikmetele: „Nüüd te enam ei naera, mis?”. Nad ei naernud. Ka sina ei hakka naerma.
+660 Noh. Sa võitsid. Võta see Artikkel 50 märk. Meie oleme seda juba kasutanud.
+661 Sa oled ikka veel siin? Me lahkusime, tead.
+662 Pean koju minema. Ma ei tohi enam Parlamendis praktikant olla. Aga enne… viimane väitlus. Au pärast.
+663 Aitäh, {P}. Hoia minu eest silma peal direktiivil. Ja suveajal. Meil seda muidugi kunagi ei muudeta.
+664 Goodbye. Või pigem… see you later. Kes teab?
+665 Oliver on lahkunud. Londoni rongi enam piletikassas ei näe. Järgmine etapp: Budapest, Doonau ääres.
+666 Országház, Ungari parlament, Doonau kaldal. Ungari suurim hoone. Ja suurim veto.
+667 Noor ungarlanna
+668 Räägitakse, et opositsioon võidab poolehoidu. Keegi Péter Magyar teeb kampaaniat üle kogu riigi.
+670 Ungarlased hääletasid 12. aprillil 2026. Minu partei Tisza sai kahekolmandikulise enamuse. Algab uus peatükk!
+672 Ehitasime aia. Seda kasutatakse peamiselt fotode tegemiseks.
+673 Erinõunik
+674 Peaminister läheb kohe kohvi jooma. See on läbirääkimistehnika.
+676 Tuled kokkulepet otsima? Siin on vaja ühehäälsust. Ja mina ei ole kunagi nõus.
+677 2024. aastal juhatasin ELi Nõukogu loosungiga „Make Europe Great Again”. Kas see ei meenuta sulle midagi?
+678 Minu areenil võin igal käigul VETO panna. Ja mõnikord… lähen kohvi jooma. Nagu 2023. aasta detsembris, Ukraina hääletuse ajal.
+679 …Noh. Jään erapooletuks. Võta see Veto märk. Ametlikult ma saalis ei olnud.
+680 Mõni kuu hiljem, 12. aprillil 2026, hääletavad ungarlased. Péter Magyari partei Tisza võidab kahekolmandikulise enamusega.
+681 Orbán tunnistas kaotust: „valus, aga selge”. Aitäh, praktikant. Mine tagasi Brüsselisse: räägitakse, et konkurentsi peadirektoraadil on probleem… lobiga.
+682 Läksin kohvi jooma. Tule hiljem tagasi. Palju hiljem.
+683 Baarman
+684 Neljapäeva õhtuti tuleb kogu Brüssel Place Luxile jooma. Saadikud, assistendid… ja lobistid. Eriti lobistid.
+685 Kelder? Ainult liikmetele. Kas oled läbipaistvusregistris? Ei? Mina ka mitte. Astu sisse.
+686 Liigu edasi, praktikant. Siin räägivad suured inimesed äri.
+687 Naftalobist
+688 Energiasüsteemi ümberkujundamine? Toetame seda. Alates 2080.
+689 Tehnoloogialobist
+690 Austame GDPR-i. Meil on isegi 47-leheküljeline küpsisebänner.
+691 Kohvrid? Need on dokumentatsioonikohvrid. Väga hästi dokumenteeritud.
+693 2022. aasta detsembris leidis Belgia politsei mitmest Brüsseli korterist rahakotte. Seda nimetati „Qatargate'iks”.
+694 Olin Parlamendi asepresident. Olen alati süüdistusi vaidlustanud. Selle mängu ilmumise ajal pole asjas lõplikku kohtuotsust tehtud.
+695 Märkus: iga süüdistatavat peetakse süütuks, kuni teda pole süüdi mõistetud.
+696 Peamine lobist
+697 Vaata aga. Praktikant. Tead, kui palju meid Brüsselis on? 25 000. Ja sina oled üks.
+698 Sinu suveaja direktiiv? Mul on kliente, kes müüvad kellasid. See jääb blokeerituks. Välja arvatud juhul, kui…
+699 Hästi mängitud. Teatan ametlikult oma kaotusest läbipaistvusregistris. Ja lähen erasektorisse. Ah, ma olen juba seal.
+700 Team Lobby hajub. Konkurentsi peadirektoraadi uurimised võivad jätkuda!
+701 Big Techi advokaat
+702 Kaebame edasi. Siis kaebame edasikaebuse peale.
+703 Konkurentsijurist
+704 Turgu valitseva seisundi kuritarvitamine… „Kuritarvitamine” on tugev sõna.
+706 Aitäh, et vabastasid meid Team Lobbyst. Mu toimikud liiguvad lõpuks edasi!
+707 Google: 2,4 miljardit eurot trahvi 2017, 4,3 miljardit 2018. Apple: 13 miljardit maksusoodustusi tagasi maksta, kohus kinnitas 2024.
+708 Kas su meeskond järgib konkurentsireegleid? Kontrollin seda. Isiklikult.
+709 Rikkumisi ei tuvastatud. Trahvi märk on sinu. Ja võta ka see: OLAF-i, pettustevastase ameti märk.
+710 Parlamendi ühest tiivast teatatakse… kummalistest kohalolekutest. Assistendid, keda keegi kunagi ei näe. Selle märgiga näed neid.
+711 Täna sulle trahvi pole. Naudi.
+712 Külm koridor… Kuulda on klaviatuure, mis trükivad iseenesest. Aga kedagi pole. Oleks vaja viisi nähtamatut näha.
+713 Parem praegu tagasi alla minna.
+714 Kummitusassistent
+715 Minu kabinet? Ma pole seda kunagi leidnud…
+716 Mulle maksti, et abistada… parteid. Mitte saadikut.
+717 Huu… Kellakeeramine paneb mind kaks korda aastas ilmuma…
+718 Minu lepingus on kirjas „kohalik assistent”. Kohalik millele? Saladus.
+719 Ma kaon… lõpuks…
+720 Aitäh… et vabastasid mind sellest lepingust…
+722 FN parlamendiassistentide afäär: süsteem maksis partei töötajatele palka Euroopa Parlamendi rahaga.
+723 Mind mõisteti süüdi esimeses astmes 31. märtsil 2025, seejärel apellatsioonis 7. juulil 2026: kolm aastat, millest üks reaalselt elektroonilise võruga, ja viisteist kuud valimisõiguse keeldu.
+724 Selle apellatsioonikohtu karistusega muutub tema kandidatuur 2027. aasta presidendivalimistel teoreetiliselt taas võimalikuks. Viimane kassatsioonikaebus on veel võimalik.
+726 MoDemi assistentide afäär on midagi muud. 2024. aasta veebruaris mõisteti mind õigeks „kahtluse tõttu”. Prokuratuur kaebas edasi.
+727 Siis olin peaminister… 2024. aasta detsembrist 2025. aasta septembrini. Aeg lendab Matignonis kiiresti.
+728 Kummitusassistendid ei tegele poliitikaga: nad kummitavad kõigis parteides, mis neid valesti tööle võtsid.
+729 Tühi Leping
+730 MA OLEN… KÕIGI KABINETITA LEPINGUTE VAIM… KÕIGI PARTEIDE… KÕIGI KOOSSEISUDE…
+731 Tühi Leping hajub palgalehtede pilveks. Kummitustiib on lõpuks rahulik.
+732 Saabub sõnum Roberta Metsolalt: „Aitäh! Viimane märk ootab sind Pariisis, Sorbonne'is.”
+733 Sorbonne. Siin pidas Emmanuel Macron kaks suurt kõnet Euroopast, 2017. ja 2024. aastal. Teine kestis peaaegu kaks tundi.
+734 Küsisin teed inglise keeles. Mulle vastati prantsuse keeles. Naeratusega. Väga kerge naeratusega.
+735 ENA vilistlane
+736 Kirjutasin oma kaotusest kokkuvõtliku memo. See on 80 lehekülge.
+737 Asendusminister
+738 Mind vahetati just lahingu ajal välja. See on rekord.
+740 Tere tulemast Sorbonne'i! Siin rääkisin suveräänsest Euroopast 2017. Siis Euroopast, mis „võib surra”, 2024.
+741 2019 ütlesin, et NATO on „ajusurmas”. 2024 saatsin Rahvusassamblee laiali. Mulle meeldivad… üllatavad otsused.
+742 Nii et väitleme ja samal ajal mõtiskleme. Strateegiline autonoomia!
+743 Suurepärane! Sinus on suure eurooplase ainest. Ja samal ajal kõike muud. Sorbonne'i märk on sinu.
+744 Kaheksa märgiga ootab sind Euroopa Ülemkogu Europa hoones Brüsselis. Edu: nende tippkohtumised lõppevad harva enne kella 5 hommikul.
+745 Räägiksin sulle meeleldi kaks tundi Euroopast, aga sul on vaja nõukogu veenda.
+746 Proloog — 9. mai 1950
+747 9. mai 1950
+748 Pariis, Quai d'Orsay, kell 18
+750 Härrased, aitäh, et tulite. Olen lühike. Noh… püüan olla.
+751 (sosinal) Ta ütleb nii iga kord.
+752 (sosinal) Robert. Lause söest. Ärge unustage lauset söest.
+753 „Prantsuse valitsus teeb ettepaneku allutada kogu Prantsuse-Saksa söe- ja terasetoodang ühisele kõrgemale ametile.”
+754 Süsi? Teras? Me jäime selle pärast aperitiivist ilma?
+755 Viis aastat pärast sõda on idee lihtne ja hull: liita see, millest kahureid tehakse.
+756 Et sõda muutuks „mitte ainult mõeldamatuks, vaid ka materiaalselt võimatuks”.
+757 Kuus riiki 1951. Siis üheksa, kaksteist, viisteist, kakskümmend viis… Täna kakskümmend seitse.
+758 Ja igal hommikul, kusagil Brüsselis, ärkab mõni praktikant hilinemisega.
+759 1. peatükk
+760 Esmaspäev. Su äratuskell näitab 6.58. Su telefon 7.58. Ühele neist pole kellakeeramisest teatatud.
+762 ESIMENE PRAKTIKAPÄEV!
+763 Rue de la Loi. Üks croissant, kolm toimikut, null väärikust.
+764 Jalgrattur
+765 Jalgrattatee! Isegi praktikandid järgivad määrust 2019/1242! Noh, ma arvan, et see on olemas.
+766 {P}! Esimene päev ja juba tund hiljaks jäänud. Mina olen siin alates 6.58. Londoni aja järgi muidugi.
+767 Professor Schuman ootab meid Parlamendi fuajees. Ütlesin talle, et oled haige. Tänad mind hiljem.
+768 2. peatükk — Luksemburg
+769 2. peatükk
+770 Adolphe'i sild kaardub üle Pétrusse oru. All aiad. Üleval pangad. Keskel su rong.
+771 Ah, väike inglane! Tule siia, ma suudlen sind!
+772 Sir, I… we don't do that. Inglismaal surume kätt. Eemalt. Kinnastega.
+773 See on Luksemburg. Siin suudeldakse põsele, patsutatakse põske ja räägitakse ühes lauses neljas keeles. Moien, bonjour, guten Tag, hello!
+775 Minu Kuldne areen on Kirchbergis, praktikant. Tule millal tahes. Patsutan põski tasuta. See on kvartali ainus tasuta teenus.
+776 Schengen, kolm piiri
+777 Schengen. Siin puudutavad Prantsusmaa, Saksamaa ja Luksemburg üksteist viinapuude tippudega.
+778 14. juunil 1985 allkirjastasid viis riiki siin, laeval, leppe, mis kaotab piirikontrolli. Jõel, mis ON piir. Moseli ääres armastatakse irooniat.
+779 Tolliametnik
+780 Kolmkümmend aastat olen passe templiga löönud. Ja nüüd? Liblikad lendavad üle ilma viisata.
+781 Õpin ümber. Postkaarditemplimees. See on tulevikuturg.
+782 3. peatükk — Frankfurt
+783 3. peatükk
+784 Frankfurt Maini ääres
+785 Frankfurt öösel. Kaks klaastorni, bussisuurune eurosümbol. Euroopa Keskpank ei maga kunagi. Ta valvab inflatsiooni.
+786 Näed seda hooba? Baasintressimäär. Tõstan seda, hinnad rahunevad. Langetan seda, majandus hingab.
+787 Puudutan seda kogemata küünarnukiga ja kolm valitsust kukub. Seepärast ei toetu ma kunagi lauale.
+788 IT'S RAINING EUROS! Kas see on kvantitatiivne lõdvendamine?!
+789 Ei, härra. Konditsioneer puhus näituselt rahatähed minema. Andke need tagasi. Kõik. Ma loen.
+790 4. peatükk — Strasbourg
+791 4. peatükk
+792 Kord kuus kolib Parlament Brüsselist Strasbourgi. Koos saadikute, assistentide… ja tuhandete kohvritega.
+793 Europarlamendi liige
+794 Minu kohver on käinud rohkematel täiskogu istungitel kui mina. Tal on isegi koht transpordikomisjonis.
+795 Istung on avatud! …Kus on saadikud?
+796 Proua president, nad otsivad perroonil veel oma kohvreid.
+797 Siis hääletame käetõstmisega. Kas kohvritel on hääleõigus? Ei? Kahju, nemad vähemalt on õigel ajal.
+798 5. peatükk — Ateena
+799 5. peatükk
+800 Akropol päikeseloojangul. Kaks ja pool tuhat aastat demokraatiat, filosoofiat… ja hilja lõppevaid koosolekuid.
+801 Härra Varoufakis, teie plaan ei vasta meie tabelarvutustele.
+802 Teie tabelid ei vasta tegelikkusele. Pakun väitlust. Mootorrattal, kui jõuate järele.
+803 Me ei sõida mootorrattaga. Me anname soovitusi.
+804 Siis soovitage endal teelt eemale astuda. Mind ootab areen.
+805 6. peatükk — London
+806 6. peatükk
+807 London vihmas. Nagu tavaliselt. Aga seekord hõljub õhus midagi raskemat.
+808 Pint kõigile! Ja buss kampaania jaoks! Pole vahet, mis sellele kirjutame, inimesed loevad bussi, mitte joonealuseid märkusi.
+809 Ärge paanitsege! Olen trossliugurile kinni jäänud, aga see on strateegia. Get Brexit done! Ja keegi, palun, redel.
+810 Rahvahääletus
+811 23. juuni 2016. 51,9% hääletajatest valib Euroopa Liidust lahkumise.
+812 31. jaanuaril 2020 südaööl Brüsseli aja järgi — kell 23 Londonis — ei ole Ühendkuningriik enam Liidu liige.
+813 Tead, mis on veider? Alguses ma ei tahtnud siin olla. Tahtsin lihtsalt võita.
+814 Ja nüüd pean lahkuma ja enam ei taha. Ironic, isn't it?
+815 Sa tuled tagasi. On Erasmus, vahetused, õpilasviisad…
+816 Erasmus? Sealt lahkusime ka. Aga ma leian viisi. Inglased leiavad alati viisi Euroopasse tagasi tulla. Seda nimetatakse puhkuseks.
+817 7. peatükk — Budapest
+818 7. peatükk
+819 Ungari parlament, kuldne Doonau ääres. Riigi suurim hoone. Ja Euroopa suurim „VETO” templite kollektsioon.
+820 ELi eelarve? Veto. Abi Ukrainale? Veto. Nõukogu pääsmete uus värv? Veto. Põhimõtte pärast.
+821 Härra peaminister, see oli teie lõunatellimus.
+822 …Veto ikkagi. Mulle ei meeldi, kui minu eest otsustatakse.
+823 12. aprill 2026
+824 Ungarlased! Täna õhtul ei võitnud me Euroopat ega oma naabreid. Me võitsime enda jaoks!
+825 Rahvahulk
+826 TISZA! TISZA! TISZA!
+827 Ma ei mossita. Ma mõtlen. Seljaga. Pilv pea kohal. See on hoopis midagi muud.
+828 Detsember 2022 — koidik
+829 Brüssel, detsember 2022. Koidikul korraldab Belgia politsei läbiotsimisi Place Luxi ümbruses.
+830 Politseinik
+831 Ülem, siin on kotid. Rahatähtedega sees. Palju rahatähti.
+832 Politseiülem
+833 Lugege need üle. Ja ärge puudutage jalgpalli, see võib olla asitõend.
+834 Parlamendi juhte ja nende lähedasi peetakse kinni. Uurimine puudutab võimalikku korruptsiooni välisriikide kasuks.
+835 Kõiki süüdistatavaid peetakse süütuks, kuni nad pole lõplikult süüdi mõistetud.
+836 (eemalt) Meil pole sellega mingit pistmist. Meie maksame suupistetega. See on diskreetsem.
+837 Konkurentsi peadirektoraat
+838 Veel üks trahv. Kirjutan alla, naeratan ja koon elevanti. See on väga rahustav.
+839 Proua volinik, digihiiud paluvad pikendust.
+840 Antud. Neil on aega… praeguseni.
+842 Digiteenuste määrus kehtib kõigile, härra Musk. Isegi võrgustikele, mis vahetavad nime iga kuue kuu tagant.
+844 Vastan meemiga. See on minu ametlik õiguslik seisukoht.
+845 Mina vastan neljaleheküljelise kirjaga. See on minu oma.
+846 Mõlemad tõmbavad telefoni enda poole. Telefon näitab „aku tühi”.
+847 Kummitusassistentide torn
+848 Tänu OLAF-i märgile muutub nähtamatu nähtavaks. Koridoris hõljuvad läbipaistvad assistendid, palgaleht käes.
+849 Tere… Töötan siin alates 2009… Noh, minu leping töötab siin… Mina pole siia kunagi tulnud…
+850 Minu tööandjad on seal üleval. Nad ütlevad, et ei tunne mind. Kummituse jaoks on see solvav.
+851 (ukse tagant) Mind pole siin. Ja kui olen, siis kahtluse tõttu.
+852 9. peatükk — Pariis
+853 9. peatükk
+854 Pariis kuldsel tunnil. Eiffeli torn, Seine ja kusagil kõne, mis algab ega lõpe.
+855 Euroopa peab olema suveräänne! Võimas! Humanistlik! Ja lisaksin isegi, kui lubate, ja ma luban endale…
+856 Üliõpilane
+857 Kui kaua ta on rääkinud?
+858 Üliõpilane
+859 Tund ja nelikümmend minutit. Ta lõpetas just sissejuhatuse.
+860 Olen kokkuhoiu JA investeeringute poolt. Avatuse JA kaitse poolt. Olen nõus teiega JA teie vastasega.
+861 Kuidas seda nimetatakse?
+862 „Samal ajal”. Patenteeritud. Noh, samal ajal ka vabalt kasutatav.
+863 Aprill 2021 — Ankara
+864 Aprill 2021, Ankara. Ruumi astuvad kolm liidrit. Tugitoole on kaks.
+866 (juba istudes) Oh. Oh ei. Nüüd ma sain aru.
+867 Ei, ei, ärge vaevuge. Mul on sellel diivanil väga hea. See on pikk. See on beež. See on kaugel.
+868 Intsident käis maailma läbi nime all „Sofagate”. Sellest ajast loendab Charles Michel toole, enne kui kuhugi siseneb.
+869 10. peatükk — Euroopa Ülemkogu
+870 10. peatükk
+871 Euroopa Ülemkogu öö
+872 Europa hoone. Selle klaaslaternas kogunevad riigipead ja valitsusjuhid. Tippkohtumised algavad kell 15. Need lõpevad… hiljem.
+873 Kallid kolleegid, kell on 4.12. Meil on veel üks koma lahendada punktis 37.
+874 Olen olnud tippkohtumistel, kus koma üle peeti läbirääkimisi hommikusöögini. See oli väga ilus koma.
+875 Teen ettepaneku koma kohta. Whatever it takes.
+876 Teen ettepaneku tellida veel pitsat, enne kui keegi semikoolonit pakub.
+877 KOKKULEPE! Kell on 5.03. Järeldused on vastu võetud. Kas keegi saab äratada peaministri, kes magab laua all?
+878 13. korrus
+879 Berlaymont päikeseloojangul. Kolmteist korrust. Ülemisel ootab komisjoni president.
+880 Charles, kas te saaksite mossitamise lõpetada? On möödunud viis aastat.
+881 Ma ei mossita. Vaatan seina. See sein on väga huvitav. Sellel pole tugitooli.
+882 {P}. Lõpuks oled siin.
+883 Tahad direktiivi? Võida mind. Team Europe, lõpuks saab alles jääda vaid üks.
+884 Praktikantide sein
+885 13. korrusel on pikas koridoris kõigi komisjoni praktikantide fotod. Keegi ei vaata neid kunagi.
+886 Täna riputati üles uus kuldne raam. Ja seekord peatub keegi, et seda vaadata.
+887 11. peatükk — Suurriigid
+888 11. peatükk
+889 Suurriigid
+890 Antwerpeni sadam. Maandub presidendilennuk. Ettevaatlikud kajakad lendavad Hollandi poole.
+891 Telesaatejuht
+892 Erisaade! Washington, Moskva ja Peking saadavad samal ajal sõnumeid Euroopale. Turud kõhklevad paanika ja uinaku vahel.
+893 Kohvikukülastaja
+894 Jälle? Ma pole isegi oma vahvlit ära söönud.
+895 Kelner
+896 See on vahvel, härra. Mitte kriis. Erinevalt komisjoni postkastist.
+897 Samal ajal sildub Pireuses linnasuurune konteinerlaev. Keegi ei tea täpselt, mis selles on. Ega seda, mida see ostab.
+898 Antwerpen — griin
+899 Vaadake seda griini. Kahe konteineri vahel. Sadamate ajaloo ilusaim griin.
+900 Härra president, golfikott on väga raske. Kas me võime selle maksustada?
+901 Suurepärane löök, issi! Ee… härra president!
+902 Iga pall, mis USAst lahkub, maksab tolli. See ka. Eriti see. See kukkus Scheldesse? VÄGA EBAÕIGLANE.
+903 Varssavi — lumi
+904 Palee tasandiku lõpus? Seal ta sind ootab. Võta sall kaasa. Ja megafon, laua jaoks.
+905 Ta ütleb sulle, et Euroopal on ilma temata külm. Näita talle, et Euroopa on õppinud ise sooja saama.
+906 Laud
+907 Valge laud. Väga valge. Väga pikk. Nii pikk, et sel on oma ajavöönd.
+908 (väga valjult) TERE!
+909 Kolm sekundit hiljem jõuab kaja saali teisest otsast tagasi.
+910 Ma kuulen teid väga hästi. Teie olete liiga lähedal.
+911 Pireus
+912 Kingitus. Mängupanda. See sümboliseerib meie rahvaste sõprust.
+913 Ta on väga armas. Aitäh. …Miks sadam just lippu vahetas?
+914 Strateegiline partnerlus. Teie jätate panda. Meie jätame sadama. Kõik on rahul.
+915 Kreeka sadamatööline
+916 Mina oleksin eelistanud päris pandat. Ta sööb bambust, aga vähemalt ei osta ta midagi kokku.
+917 G-Kõik tippkohtumine
+918 G-Kõik tippkohtumine. Kolm suurriiki. Üks laud. Ja Euroopa, kes oli pandud lisatoolile.
+919 Euroopa peab valima: mind.
+920 Euroopa peab valima: mind. Või külma.
+921 Euroopa võib valida. Oleme mõlemad variandid juba ära ostnud.
+922 Euroopa tõuseb
+923 Euroopa ei vali isandat. Ta valib koos püsimise. Kakskümmend seitse riiki, kakskümmend neli keelt, üks laud. Meie oma.
+924 Ma lähen. MINA otsustasin minna. Keegi ei võitnud mind.
+925 Mina lähen ka. Uks oli niikuinii minu jaoks liiga lähedal.
+926 Me läheme. Aga jääme partneriteks. Ja konkurentideks. Ja rivaalideks. Head õhtut.
+927 Kolm ust paugub kinni. Kolm suurriiki mossitavad. Ja saalis plaksutavad praktikandid.
+928 Epiloog
+929 Brüssel, praktika viimane õhtu
+930 Brüsseli Grand-Place. Sinised ja kuldsed ilutulestikud joonistavad raekoja kohale kaksteist tähte.
+931 {P}, kõigi institutsioonide nimel on siin sinu praktikatunnistus. See on allkirjastatud, kaasallkirjastatud ja tõlgitud kahekümne neljasse keelde.
+932 Malta versioonis on trükiviga. See on traditsioon.
+933 {P}! WAIT! Ärge alustage ilma minuta!
+934 Oliver?! Aga… kuidas?
+935 Noore spetsialisti viisa, kindlustus, kaks vormi, kolm templit. Tõeline paberimajanduse Euromon. Ma olen tagasi. Turistina. Aga tagasi!
+936 Grupifoto! Kõik tihedalt koos! Põsepatsutused pärast.
+937 Olen fotol ainult siis, kui keegi ei räägi, et olin fotol.
+938 (kaadri tagant) Veto fotole.
+939 Tal pole enam vetoõigust. Naeratage!
+940 „Me ei ühenda riike, me liidame inimesi.” Mehi, naisi ja praktikante.
+941 Konkreetsed saavutused. Tegelik solidaarsus. Braavo, pisike. Ja nüüd… mine magama. Homme on koosolekute koordineerimiskoosolek.
+942 Rooma, 25. märts 1957
+943 Kapitooliumi väljak. 25. märtsil 1957 allkirjastasid kuus riiki siin Rooma lepingud. Kivi mäletab seda. See hakkab helendama.
+944 Maastricht, 7. veebruar 1992
+945 Maas öösel. Siin sündis Euroopa Liit ja ühisraha idee. Helendavad mündid tõusevad veepinnale.
+946 Lissabon, 13. detsember 2007
+947 Koit Tejo kohal. Jerónimose kloostri ees hakkavad lepingulehed hõljuma ja siis lendama.
+948 Tere tulemast sööklasse! Kohv, võileib ja su Euromonid on jälle nagu uued… nagu 57. aastal.
+949 Kas ma hoolitsen su meeskonna eest?
+950 Ongi tehtud! Kõik on tippvormis. Kohv on seevastu endiselt leige.
+951 Nagu soovid. Aga ära tule järgmisel väitlusel nutma!
+952 Tere! Euroopa jaam, üks ühine kassa. Teie Interraili pass, palun… Suurepärane. Kuhu sõidame?
+953 Vabandust, rahvusvahelised rongid on ainult Interraili passi omanikele. Räägitakse, et selle saab võita Strasbourgis.
+954 Söön siin alates 1993. Menüü on muutunud vaid korra: kui tuli euro.
+955 Pankur
+956 Siin on isegi kohvi maksuresidentsus kusagil mujal.
+957 Majandusteadlane
+958 Võileiva hind on alates 2021 tõusnud 12%. Minu mudel ennustas 2%. Mu mudel on näljane.
+959 Parlamendiassistent
+960 Neli päeva kuus siin, ülejäänud Brüsselis. Mu toataimed ei tunne mind enam ära.
+961 Ettekandja
+962 Kohv frappé? See on ainus asi, mida troika kunagi reformida ei suutnud.
+964 Varem kurtsime Brüsseli üle. Nüüd kurdame, et ei saa enam Brüsseli üle kurta.
+965 Siin süüakse guljašši. Ja väideldakse, diskreetselt.
+966 Filosoof
+967 Ma mõtlen, järelikult ma lõunatan. Ja ma lõunatan kaua: see on Pariis.
+968 Klient
+969 Otsin laadijat… Ah jaa, õige, nüüd on igal pool USB-C. Milline õnn.
+970 Hinnad on ilma käibemaksuta. Muidugi.
+971 Klient
+972 Maksan kõik sularahas. Sakslased armastavad sularaha.
+973 Tulin templeid ostma. Mu ülemus tahab kellakeeramise Euromoni templiga varustada.
+974 Kõik poole hinnaga! Ah ei, see on käibemaks, mis kahekordistus.
+975 Kas hind on naeltes, eurodes või valimislubadustes?
+976 Müüja küsis mu arvamust valitsuse kohta. Ütlesin: „veto”.
+977 Üks baguette, üks tempel ja üks meeleavaldus, palun.
+978 Reisija
+979 Mu rong Strasbourgi on neli tundi hiljaks jäänud. Parlament muide samuti.
+980 {P}! Üllatus! Tulin Eurostariga. Passi, vormi ja kahetunnise järjekorraga. Tulin paluma… tagasitulekut. Rejoin?
+981 Aga kõigepealt väitlus. Nagu vanadel headel aegadel!
+982 Milline praktika! Noh, räägitakse, et tagasi astumiseks tuleb läbi rääkida 35 peatükki. Alustan homme. Cheers, {P}!
+983 1. peatükk 35-st: „kaupade vaba liikumine”. Edeneb!
+984 Reisija
+985 Luksemburgis on ühistransport tasuta alates 2020. Isegi praktikantidele!
+986 Sõidan Frankfurt–Brüssel. Tunnen liini ääres iga lehma nime järgi.
+987 Need raudkohvrid kuuluvad kõik europarlamendi liikmetele. Nad reisivad rohkem kui mina.
+988 Rong Pireusesse? Ära jäetud. Räägitakse, et keegi ostis sadama ära.
+989 Eurostar nõuab nüüd passi. Võtsime kontrolli tagasi. Järjekordade üle.
+990 Doonau voolab läbi kümne riigi. Mina proovin lihtsalt ühest läbi saada ilma kontrollita.
+991 Raudteestreik. Ah ei, on lihtsalt teisipäev.
+992 Sadamatööline
+993 Antwerpen, Euroopa suuruselt teine sadam. Siit läheb läbi kõike. Isegi tolle.
+994 Ilma gaasita on nii külm, et pingviinid paluvad varjupaika.
+995 Kõik teed viivad Rooma. Rongid ka, hilinemisega.
+996 Siin me allkirjastasime lepingu 1992. Paistis päike. See oli ainus kord.
+997 Lissabon, 2007: allkirjastasime lepingu, mis meenutas väga põhiseadust. Kuss.
+998 Täna on 9. mai: Euroopa päev! Euroopa kvartalis lehvivad kõikjal lipud.
+999 Haruldane Euromon, keda pidustused meelitasid, hüppab toimikuhunnikust välja!

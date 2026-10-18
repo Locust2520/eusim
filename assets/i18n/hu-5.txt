@@ -1,0 +1,300 @@
+# Magyar — completion
+278 Roberta Metsola, Strasbourg
+380 Strasbourg
+383 Budapest
+388 Maastricht
+1051 Team Europe
+1171 Whatever it takes
+1246 TREMENDOUS
+1252 Not laughing
+1500 Belépő jelvény
+1501 Kinyitja a Parlament kapuit. Szín: gyakornok.
+1502 OLAF-jelvény
+1503 Lehetővé teszi, hogy lásd a szellemasszisztenseket.
+1504 Európai útlevél
+1505 Bordó, 32 oldal, minden határ megnyílik előtte.
+1506 Interrail Bérlet
+1507 Vonatozz egész Európában.
+1508 REPowerEU-készlet
+1509 Hogy újra bekapcsold a fűtést, ha elzárják a gázt.
+1510 Konyak
+1511 Egy értékes üveg. 2024 óta büntetővámmal terhelve…
+1512 Kantinkártya
+1513 Egyenleg: 3,40 €. Pont elég egy kávéra.
+1514 Óraátállítási irányelv
+1515 Az óraátállítás megszüntetéséről szóló irányelv (2019).
+1516 Egy bőrönd a Brüsszel–Strasbourg költözésből.
+1517 Jelvénytartó
+1518 A szerződési jelvényeket tartalmazza.
+1519 Hé, újonc! Itt mindent vitával oldunk meg. Mutasd meg, mit tudsz!
+1520 Argh… Újra kellett volna olvasnom az összefoglalómat.
+1521 Ha! Vissza a fénymásolóhoz!
+1522 Rivális
+1523 Na, {P}, kipróbáljuk az Euromonjainkat? Mine is obviously better.
+1524 What?! Ez csak szerencse volt!
+1525 Easy. Pont, ahogy terveztem.
+1526 {P}! Már van egy jelvényed? Nem baj, úgyis megbánod majd.
+1527 Not again… Jó, majd meglátod Frankfurtban.
+1528 Ha! Nekem bejön Luxemburg.
+1529 Most jártam az EKB-n. Mindent megértettem a monetáris politikából. Majdnem mindent.
+1530 Bloody hell… Te tényleg gyorsan fejlődsz, {P}.
+1531 Ahogy a Cityben mondják: time is money.
+1532 {P}… ez az utolsó vitánk. Utána hazamegyek Londonba. Véglegesen. Gyerünk, one last time!
+1533 Good game, {P}. Legalább stílusosan távozom.
+1534 Győzelemmel távozom. Már ez is valami.
+1535 {P}! I'm back. Illetve… csak kérem, hogy visszatérhessek. Rejoin? De előbb egy vita a becsületért!
+1536 Jó. Kitöltöm a csatlakozási formanyomtatványt. 35 fejezetből áll…
+1537 Ha! Lám, a kilépés erősebbé tesz. Vagy nem.
+1538 Én is gyakornok vagyok! Fizetés nélkül, mint te. Vitázzunk, az megnyugtat.
+1539 Jó… megyek is vissza fénymásolni.
+1540 Állj! Le van pecsételve az A-38-as túraengedélyed?
+1541 Jó, lepecsételem neked. De három példányban.
+1542 Gazda
+1543 A KAP az életem! A traktorom pedig a családom. Gyerünk, vitázzunk!
+1544 Ezt jelentem majd a szövetségnek…
+1545 Magánbankár
+1546 Üdv Luxemburgban. Teljes titoktartás. Ez a vita sosem történt meg.
+1547 Ez a vita végérvényesen sosem történt meg.
+1548 Adószakértő
+1549 Egy adóhatározat? Megírom neked öt perc alatt. De előbb egy vita.
+1550 A konstrukcióim… összeomlottak!
+1551 Arénabajnok
+1552 Ah, egy ifjú gyakornok! Gyere, gyere, hadd paskoljam meg az arcod. Aztán vitázunk, mint a jó öreg Eurócsoport idején.
+1553 Bravó! Megszerezted az Adóhatározat jelvényt. Na, ez nem titkos!
+1554 Ugyan, ne vágj ilyen képet, csak viccelek… félig.
+1555 Kerékpárral járom a Mosel-t! És ingyen, roamingban vitázok!
+1556 Még roamingdíj nélkül is mindent elvesztettem.
+1557 Elemző
+1558 A piacok 87%-ra árazzák be a győzelmemet.
+1559 A piacok tévedtek. Mint mindig.
+1560 Szőlőtermelő
+1561 A crémant-om AOP minősítésű. Az Euromonjaim is. Vagy majdnem.
+1562 Jó, mindenesetre adok egy pohárral.
+1563 Vegyél olcsón, adj el drágán, vitázz keményen!
+1564 Krach! Negatívba csúsztam!
+1565 A modellem szerint veszítesz. A modellem sosem téved. Kivéve 2008-ban.
+1566 Felül kell vizsgálnom az előrejelzéseimet.
+1567 Arénabajnok
+1568 Üdv az Európai Központi Bankban. Itt én szabom meg a kamatokat… és a vita ritmusát. A támadásaim erejét a mindenkori irányadó ráta határozza meg!
+1569 Remek. Megérdemled az Euró jelvényt. És nyugodj meg: nem azért vagyok itt, hogy csökkentsem a spreadedet.
+1570 Az árstabilitás a győzelmek stabilitása is.
+1571 Klímaaktivista
+1572 Minden elvesztett vita egy fokkal több! Gyerünk!
+1573 Jó, legalább karbonsemleges volt.
+1574 Exkluzív hír! „Egy gyakornok siralmasan veszít”!
+1575 Megváltoztatom a főcímet: „Egy gyakornok siralmasan jól győz”.
+1576 Borász
+1577 A Rajna a határ? Nem, mindkét oldalon bor van! Koccintunk a vita után.
+1578 Egészségünkre, mindenesetre!
+1579 Ma reggel 2000 módosítót nyújtottam be. Az első rólad szól.
+1580 A módosítóimat egy tömegben elvetették…
+1581 Az ülés Strasbourgban van, megérkeztek a bőröndjeink, vitázzunk!
+1582 Visszamegyek Brüsszelbe. A bőröndjeimmel.
+1583 Csend az ülésteremben! Az ülés megnyílt. Megadom a szót… neked. Aztán visszavonom.
+1584 Elfogadva! Az Ülésterem jelvényt abszolút többséggel ítélem oda neked.
+1585 Az ülést berekesztem. Gyere vissza a következő ülésre.
+1586 Az adósság olyan, mint a muszaka: nehezen emészthető.
+1587 OXI erre a vereségre!
+1588 Számlaellenőrzés! Az Euromonjaid túl sokat költenek.
+1589 Ellenőrzési jelentés: kedvezőtlen.
+1590 A Nemzetközi Valutaalap a… vereségedet javasolja.
+1591 Az előrejelzéseink felülvizsgálata: lefelé.
+1592 Motoron jöttem, nyakkendő nélkül. Mint 2015-ben az Eurócsoport előtt. Vitázunk, aztán szavazunk: OXI vagy NAI?
+1593 OXI… bocs, NAI: győztél. Vedd az OXI jelvényt, elvtárs.
+1594 A nép szólt. És a nép, az én vagyok.
+1595 Bulvárlap
+1596 CÍMLAP: „Brüsszel be akarja tiltani a görbe banánt”! Hamis? Nem gond, attól fogy a lap.
+1597 Holnap a címlapon: „Történelmi vereség”.
+1598 Volt miniszterelnök
+1599 Hello! Tudod, brüsszeli tudósító voltam. Sok mindent megírtam… többé-kevésbé igazat. Get debate done!
+1600 Crikey. Jó, úgyis volt egy másik cikkem az egyenes uborkákról.
+1601 Most már nem nevetsz, ugye? Üdv a pubban. Egy vita, egy korsó, és az 50. cikkely.
+1602 Jó. Vedd az 50. cikkely jelvényt. Nekünk már nincs rá szükségünk.
+1603 Take back control! A vita felett legalább.
+1604 Határőr
+1605 Ellenőrzés! Van vízuma az Euromonodnak?
+1606 Mehetsz. De feljegyzem.
+1607 Tanácsadó
+1608 A miniszterelnök senkit nem fogad. Kivéve azokat, akik legyőznek engem. Ez pedig sosem történik meg.
+1609 Most történt meg.
+1610 Az egyetértésemet akarod? Egyhangúság szükséges. És én sosem egyezek bele. Figyelem: minden körben lerakhatom a VÉTÓMAT.
+1611 Jó… Megyek kávézni. Addig is vedd ezt a Vétó jelvényt. Hivatalosan tartózkodtam.
+1612 Vétó! Vétó! És újra vétó!
+1613 Team Lobby
+1614 Nincs belépő jelvényed? Milyen jó, nekünk sincs.
+1615 Ezt a találkozót be kell majd jelentenem az átláthatósági nyilvántartásba…
+1616 Az algoritmusunk megjósolta a vereségedet. Elfogadod a sütiket?
+1617 403-as hiba: vereség.
+1618 Egy kis bőrönd a szavazatodért? Nem? Akkor egy vita.
+1619 Sosem adtam senkinek semmit. Ezt jegyezd fel.
+1620 A Team Lobby főnöke
+1621 Üdv a hatalom szívében, gyakornok. Itt nem írjuk a törvényeket: „javasoljuk” őket. És te most alá fogod írni a javaslatomat.
+1622 Lehetetlen… Egy egyszerű, fizetés nélküli gyakornok… legyőzte a lobbit. Visszavonulok. A magánszektorba. Ja, hát ott is vagyok már.
+1623 Köszönjük ezt a hozzászólást a nyilvános konzultációnkhoz.
+1624 Ügyvéd
+1625 A kliensem vitatja a 4,34 milliárdos bírságot. És ezt a vitát is.
+1626 Fellebbezni fogunk.
+1627 Jogász
+1628 Erőfölénnyel való visszaélés? Én? Én csak erőfölényben vagyok.
+1629 Bírság elfogadva…
+1630 Google, Apple… milliárdos bírságokat osztottam ki. A csapatod betartja a versenyszabályokat? Nézzük meg.
+1631 Nem észleltem erőfölénnyel való visszaélést. A Bírság jelvény a tiéd.
+1632 Bírság! Az árbevételed 4%-a.
+1633 Bú… Itt dolgozom… 2009 óta… nos, papíron…
+1634 Visszamegyek… a fiktív… szerződésemhez…
+1635 A fiktív állások szelleme
+1636 ÉN VAGYOK… MINDEN SZERZŐDÉS ÖSSZESSÉGE, AMELYNEK SOHA NEM VOLT IRODÁJA…
+1637 A… fizetési jegyzékeim… eltűnnek…
+1638 Magas rangú tisztviselő
+1639 Az ENA-t jártam. Illetve az INSP-et. Szóval mindent tudok.
+1640 Készítek egy feljegyzést erről a kudarcról.
+1641 Miniszter
+1642 Miniszter vagyok… ma reggel óta. Vitázzunk, mielőtt jön a következő átalakítás.
+1643 Leváltva!
+1644 Üdv a Sorbonne-on! Itt beszéltem a szuverén Európáról 2017-ben… és 2024-ben is. Most két órán át fogok beszélni hozzád. És ezzel egyidejűleg vitázni is.
+1645 Csodálatos! Te testesíted meg a stratégiai autonómiát. Vedd a Sorbonne jelvényt… és ezzel egyidejűleg a gratulációmat.
+1646 Feloszlatom… a csapatodat!
+1647 Európai Tanács
+1648 Wir schaffen das. Együtt sikerülni fog. De előbb le kell győznöd engem. Ne siess: tizenhat év tapasztalatom van.
+1649 Sikerült neked. Wir haben es geschafft.
+1650 Megteszek mindent, hogy megnyerjem ezt a vitát. Whatever it takes. És hidd el: ez elég is lesz.
+1651 A jelentésem évi 800 milliárdos beruházást javasolt. Fektesd be a csapatodba.
+1652 Főképviselő a külügyekért. A diplomáciám határozott. A balti pajzsom is.
+1653 Tiszta győzelem. Európának szüksége lesz az olyanokra, mint te, a világ többi részével szemben.
+1654 Az Európai Tanács elnöke
+1655 23:59 van. A célom: befejezni ezt a csúcstalálkozót éjfél előtt. A történelem során először!
+1656 Most… hajnali 4:37 van. Mint mindig. Bravó, felmehetsz a Berlaymontba.
+1657 A Bizottság elnöke
+1658 Üdv a Berlaymont tizenharmadik emeletén. Tudod, itt is lakom: van egy szobám az irodám mellett. Nos, lássuk, megérdemled-e az irányelvet.
+1659 Team Europe… Te vagy a legjobb gyakornok, akit a Bizottság valaha látott. Az óraátállítási irányelv a tiéd!
+1660 Küldök majd egy SMS-t. Vagy talán nem.
+1661 Alelnök
+1662 Münchenbe jöttem, hogy elmagyarázzam neked a demokráciát. Most Antwerpenbe jöttem, hogy elmagyarázzam a vitát.
+1663 Jó. Megyek is vissza beszédet írni.
+1664 Amerikai elnök
+1665 TREMENDOUS! Minden idők legszebb vitája, mindenki ezt mondja. 200% vámot vetek ki az Euromonjaidra. Vagy mondjuk 15-öt. Majd meglátjuk.
+1666 MEG VOLT RENDEZVE! Jó… üzletet kötünk. 15%. Ez az utolsó szavam. Mára.
+1667 Győztem! Mint mindig! Senki nem győz jobban, mint én.
+1668 Orosz elnök
+1669 Ülj le. Nem, messzebb. Még messzebb. Így jó. Hat méterről a beszélgetés sokkal… stratégiaibb. A támadásaidnak egy kör kell, mire megérkeznek.
+1670 A gáz… el van zárva… az én oldalamon. Érdekes.
+1671 Jön a tél. Neked.
+1672 Kínai elnök
+1673 Üdvözlöm. Partnerek vagyunk. És versenytársak. És szisztémás riválisok. Minden a köröktől függ.
+1674 Hmm. Egy tiszteletre méltó partner. Visszavonom a ritkaföldfém-exportkorlátozásokat… egyelőre.
+1675 A tartalom a régiódban nem elérhető.
+1676 G-Minden Csúcs
+1677 ÉN ELŐBB. A csúcstalálkozó az én ötletem. Legalábbis azt hiszem.
+1678 Sad!
+1679 Én jobban szerettem a hosszú asztalt.
+1680 Az utolsó szó… szisztémás lesz.
+1681 Ötven év múlva újra beszélünk.
+1682 Antwerpeni kikötő – Szabadság Golfklub
+1683 Athén – Plaka
+1684 Berlaymont – 13. emelet
+1685 Bolt – Athén
+1686 Bolt – Budapest
+1687 Bolt – Brüsszel
+1688 Bolt – Frankfurt
+1689 Bolt – London
+1690 Bolt – Luxemburg
+1691 Bolt – Párizs
+1692 Bolt – Strasbourg
+1693 Brüsszel – Európai negyed
+1694 Budapest – Duna-part
+1695 Kantin – Athén
+1696 Kantin – Budapest
+1697 Kantin – Brüsszel
+1698 Kantin – Frankfurt
+1699 Kantin – London
+1700 Kantin – Luxemburg
+1701 Kantin – Párizs
+1702 Kantin – Strasbourg
+1703 Az EU Bírósága
+1704 Europa épület – Európai Tanács
+1705 Frankfurt – Bankárnegyed
+1706 Állomás – Antwerpen
+1707 Állomás – Athén
+1708 Állomás – Budapest
+1709 Állomás – Brüsszel-Luxemburg
+1710 Állomás – Frankfurt
+1711 Állomás – Lisszabon
+1712 Állomás – London
+1713 Állomás – Luxemburg
+1714 Állomás – Maastricht
+1715 Állomás – Párizs
+1716 Állomás – Róma
+1717 Állomás – Strasbourg
+1718 Állomás – Varsó
+1719 Athéni Aréna – Amfiteátrum
+1720 EKB-torony – Kereskedési terem
+1721 Országház – Vétó terem
+1722 Versenypolitikai Főigazgatóság – Aréna
+1723 Ülésterem – Plenáris ülés
+1724 The Brexit Arms – Pub-aréna
+1725 Luxemburgi Aréna – Adóhatározati terem
+1726 A Sorbonne nagy amfiteátruma
+1727 Lisszabon – Jerónimos-kolostor
+1728 A Team Lobby főhadiszállása – Alagsor
+1729 London – Westminster
+1730 Luxemburg – Kirchberg-fennsík
+1731 Maastricht – Meuse-part
+1732 Ház – Frankfurt
+1733 Ház – Luxemburg
+1734 Ház – Strasbourg
+1735 Párizs – Latin negyed
+1736 Európai Parlament – Előcsarnok
+1737 Pireuszi kikötő – Konténerterminál
+1738 Lux tér – A koktél
+1739 Róma – Capitolium
+1740 1. útvonal – Ardennek erdeje
+1741 2. útvonal – Mosel-völgy
+1742 3. útvonal – Rajna-vidéki szőlők
+1743 Palota – A hosszú asztal
+1744 Schengen – Mosel-part
+1745 „G-Minden” Csúcs – Plenáris terem
+1746 Strasbourg – Európai negyed
+1747 A stúdiód (Ixelles)
+1748 Parlament – Szellemszárny, 1. emelet
+1749 Parlament – Szellemszárny, 2. emelet
+1750 Parlament – Szellemszárny, 3. emelet
+1751 Varsó – Keleti síkság
+1752 Ház – Maastricht
+1754 Címképernyő
+1755 Schuman professzor
+1756 A laboratórium
+1758 A stúdiód
+1761 A kantin
+1763 A bolt
+1764 Az állomás
+1766 Úton
+1767 Harc: vadon élő Euromon
+1768 Szemkontaktus
+1769 Harc: edző
+1771 Harc: Oliver
+1773 Győzelem
+1774 Győzelem (vadon élő)
+1775 Győzelem (edző)
+1776 Fejlődés
+1778 Az aréna
+1780 Harc: aréna
+1782 Harc: arénavezető
+1784 Schengen
+1789 Viszlát, Oliver
+1791 Team Lobby
+1792 Harc: főnök
+1794 A szellemszárny
+1797 Az Európai Tanács
+1799 Harc: Tanács
+1802 Harc: az elnök asszony
+1804 Harc: Nagyhatalmak
+1807 Végső harc
+1809 Legendás helyek
+1810 Harc: legendás
+1812 Végső harc (variáns)
+1813 Juke-box
+1814 %d/%d szám feloldva
+1815 Válassz egy számot.
+1816 JUKEBOX
+1817 A: lejátszás    B: vissza
+1818 Egy régi juke-box, kihúzva a konnektorból. Egy címke: „Csatlakoztasd vissza az első jelvényed megszerzése után. — A műszaki szolgálat”

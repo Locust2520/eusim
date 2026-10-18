@@ -1,0 +1,47 @@
+# Polish — completion
+229 ×%d
+246 ◀  × %d  ▶
+269 Euro
+271 OXI
+388 Maastricht
+583 Makler
+683 Barman
+963 Dżentelmen
+1754 Ekran tytułowy
+1755 Profesor Schuman
+1756 Laboratorium
+1758 Twoja kawalerka
+1761 Stołówka
+1763 Sklep
+1764 Dworzec
+1766 W drodze
+1767 Debata: dziki Euromon
+1768 Kontakt wzrokowy
+1769 Debata: trener
+1771 Debata: Oliver
+1773 Zwycięstwo
+1774 Zwycięstwo (dziki)
+1775 Zwycięstwo (trener)
+1776 Ewolucja
+1778 Arena
+1780 Debata: arena
+1782 Debata: lider areny
+1784 Schengen
+1789 Do widzenia, Oliver
+1791 Team Lobby
+1792 Debata: boss
+1794 Skrzydło widm
+1797 Rada Europejska
+1799 Debata: Rada
+1802 Debata: Przewodnicząca
+1804 Debata: Mocarstwa
+1807 Debata finałowa
+1809 Legendarne miejsca
+1810 Debata: legendarny
+1812 Debata finałowa (wariant)
+1813 Szafa grająca
+1814 %d z %d utworów
+1815 Wybierz utwór.
+1816 SZAFA GRAJĄCA
+1817 A: słuchaj   B: wróć
+1818 Stara szafa grająca, odłączona od zasilania. Etykieta: „Podłączyć ponownie po pierwszej odznace. — Serwis techniczny”.

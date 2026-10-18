@@ -1,0 +1,470 @@
+# Lietuvių — ids 500-999
+500 Pastate Europa posėdžiauja Europos Vadovų Taryba. Norint būti priimtam, reikia aštuonių sutarčių ženklelių.
+501 Tarnautoja
+502 Komisarė yra… labai užsiėmusi. Sakoma, kad Team Lobby blokuoja visus jos tyrimus. Tai vyksta Lux aikštės baro rūsyje.
+503 Konkurencijos generalinis direktoratas priima tik patyrusius stažuotojus. Sugrįžkite su bent šešiais ženkleliais.
+504 Parlamento darbuotojas
+505 Sveiki atvykę į Europos Parlamentą! Profesorius Schumanas jūsų laukia fojė gilumoje.
+506 Laiptai dešinėje veda į aukštus… Sakoma, kad vienas sparnas apsėstas. Aš tikrai ten neinu.
+507 Ak, {P}! Pagaliau tu! Punktualus… su valandos tikslumu. Nelemtas laiko keitimas.
+508 Hi! Aš atvykau prieš valandą. Aš gyvenu Londono laiku.
+509 Profesoriaus laboratorija
+510 Gerai. Jūs dirbsite su Euromonais. Šio Parlamento bylos jų pilnos.
+511 Turiu čia tris, visai jaunus. Jie gimė iš didžių Europos idėjų. Pasirink savąjį, {P}.
+512 Jie išlipa… iš kartoninių aplankų?
+513 Briuselyje viskas, kas svarbu, pradedama kartoniniame aplanke, Oliveri. Net Europa.
+514 VERDEAL, gimęs iš Žaliojo kurso. CHARBONNET, kilęs iš 1951 m. EAPB. Arba ATOMINO, atkeliavęs tiesiai iš Euratomo.
+515 Verdeal (tipas Žalias)
+516 Charbonnet (tipas Industrija)
+517 Atomino (tipas Energija)
+518 Puikus pasirinkimas! Rūpinkis juo. Geras Euromonas vertingesnis nei dešimt blogai ratifikuotų sutarčių.
+519 Tada aš imu tą, kuris nugali tavąjį. That's just smart negotiation.
+520 Oliveri! Tai nelabai… bendruomeniška.
+521 Nagi, {P}, mažas debatas, kad pažiūrėtume, kuris stažuotojas geresnis?
+522 What?! Pralaimėjau kontinentiniam stažuotojui?! Tai buvo… bandomasis ratas.
+523 Ha! Kaip ir tikėtasi. Neimk į galvą, {P}, tai kultūrinis dalykas.
+524 Sveikinu jus abu. Dabar misija: pasiekti, kad būtų priimta direktyva dėl laiko keitimo atšaukimo.
+525 Parlamentas ją priėmė 2019 m. kovą. Nuo tada ji snaudžia Taryboje. Jums reikės aštuonių sutarčių ženklelių, kad būtumėte vertinami rimtai.
+526 Pirmasis ženklelis jūsų laukia Liuksemburge, pas Jean-Claude Juncker. Imkite Ardėnų kelią, į rytus.
+527 Liuksemburgas? Easy. Būsiu ten pirmiau nei tu. See you, loser… klaida, kolega!
+528 Minutę, {P}! Esu Žanas Monė. Sugalvojau mažų žingsnelių metodą. Štai didelis žingsnis: EURODEX.
+529 Jis registruoja kiekvieną Euromoną, kurį sutinki. O čia – kuo juos oficialiai antspauduoti.
+530 Nusilpnink laukinį Euromoną, tada paleisk oficialų antspaudą iš KREPŠIO. Europa tavimi tiki!
+531 Drąsos, {P}! Kiekvienas ženklelis – mažas akmenukas. Kaip ir Europai: konkretūs pasiekimai.
+532 Aštuoni ženkleliai! Europos Vadovų Taryba jūsų laukia pastate Europa. Esu tiek didžiuojuosi.
+533 Parodyk man savo Eurodex…
+534 Pirma pasikalbėk su profesoriumi Schumanu, jaunasis stažuotojau.
+535 Profesorius ten. Paskubėk, man nuobodu.
+536 1-asis kelias — Ardėnų miškas. Liuksemburgas: 3 valandos pėsčiomis, 12 minučių mokestiniu rescriptu.
+537 Keliautojas
+538 Ardėnų miškas plyti per tris šalis. Šernai savo pasų niekada nerodė.
+540 Vieną dieną mums sumokės. Vieną dieną…
+541 P. Dupont
+542 Neužmirškite užpildyti pasitenkinimo anketos. Ji turi 12 puslapių.
+544 BŽŪP – tai trečdalis ES biudžeto. O mano kombainas – trečdalis mano kredito.
+545 Liuksemburgas-Kirchbergas. ES Teisingumo Teismas, Audito Rūmai, Europos investicijų bankas. Ir dar daug bankų.
+546 Į Šengeną, Mozelio kaimelį, kur 1985 m. pasirašytas susitarimas. Sekite kelią pietų link.
+547 Mažas keliukas leidžiasi Mozelio pusėn… ir Šengeno pusėn.
+548 Viešasis transportas čia nemokamas! Tramvajumi apvažiavau miestą 14 kartų. Niam niek. Visiškai nemokamai.
+549 Močiutė
+550 Mano vyras buvo ES pareigūnas. Jis dirbo Audito Rūmuose. Net avis skaičiuodavo, kad užmigtų.
+551 Teisėjas
+552 ES Teisingumo Teismas čia posėdžiauja nuo 1952 m. Mūsų sprendimai galioja 27 valstybėms. Net pirmadienio rytą.
+553 Teismo sekretorius
+554 Išverčiau sprendimą į 24 kalbas. Maltiečių versijoje yra klaida. Niekas jos nepastebėjo per dešimt metų.
+555 Liuksemburgo muitininkas
+556 Mozelio kelias – tik Reskripto ženklelio turėtojams. Kreipkitės į p. Juncker, Aukso arenoje.
+557 {P}! Vis dar čia? Aš jau apsilankiau trijuose bankuose ir atidariau dvi sąskaitas. Dėl folkloro.
+558 Debatai!
+559 Gerai, OK, tu pažengi. Skubu į Frankfurtą, pas ECB. Jie žadėjo paaiškinti man palūkanų normas.
+561 Čia, Liuksemburge, diskretiškumas – tai dorybė. Ir pramonė.
+562 Meistras Klein
+563 Mokesčių sprendimai buvo teisėti, žinote. Tiesiog niekas neturėjo jų skaityti. LuxLeaks, 2014, kokia nelaimė.
+565 Ak, mažasis Schumano stažuotojas! Eikš, eikš. Aš taip pat pradėjau nuo mažo. Tada – ministras pirmininkas aštuoniolika metų.
+566 Pirmininkavau Eurogrupei, tada Komisijai. Mačiau daug viršūnių susitikimų. Ir daug skruostų patapšnojau.
+567 Kartą, 2011 m., pasakiau: „Kai pasidaro rimtai, reikia meluoti.“ Taigi nesakysiu, kad leisiu tau laimėti.
+568 Formidable! Laimėjai Reskripto ženklelį. Jis oficialus, šitas, ne konfidencialus!
+569 Mozelio kelias tau atviras. Frankfurtas tavęs laukia, o Christine Lagarde su palūkanomis nejuokauja.
+570 Užsuksi vėl pas mane? Eikš, patapšnosiu per skruostą. Tai liuksemburgiška tradicija. Na, mano.
+571 Čia, 1985 m. birželio 14 d., laive „Princesė Marie-Astrid“, penkios šalys pasirašė Šengeno susitarimą dėl pasienio kontrolės atšaukimo.
+572 Kapitonas
+573 Princesė Marie-Astrid! Ant tokio laivo ir buvo panaikintos sienos. Ironiška, ant upės, kuri pati yra siena.
+574 Sakoma, kad retas Euromonas, Schengéon, slankioja po kaimelio bylas. Jis niekada neapsistoja muitinėje.
+575 2-asis kelias — Mozelio slėnis. Trys šalys per dvidešimt kilometrų. Nepamirškite pasikeisti kalbos.
+577 Nemokamas tarptinklinis ryšys – gražiausia Sąjungos dovana. Paskelbiau 4000 Mozelio nuotraukų.
+579 Pagal mano skaičiavimus, laimėsite kitą ženklelį. Bet mano skaičiavimai retai teisingi.
+581 Liuksemburgo kremantas – tai AOP! Kaip ir mano Fromajus.
+582 Europos centrinis bankas. Misija: kainų stabilumas. Infliacijos tikslas: 2 % vidutiniu laikotarpiu. Vidutinis laikotarpis: nenurodytas.
+583 Prekybininkas
+584 Rinkos nervingos. Jos visada nervingos. Tai jų darbas.
+585 Taupytojas
+586 Vis dar turiu čiužinį, prikimštą markių. Niekada nežinai.
+587 Reino kelias uždarytas stažuotojams be Euro ženklelio. Eikite pas p. Lagarde, į ECB.
+589 Spekuliavau tavo pralaimėjimu. Pralaimėjau marškinius. Ir kaklaraištį.
+590 Dr. Sofia
+591 Šokas buvo egzogeninis. Visiškai egzogeninis.
+593 Sveiki atvykę į Europos centrinį banką. Čia kiekvienas mano žodis pajudina rinkas. Taigi žodžius renkuosi atsargiai.
+594 Vieną 2020 m. kovo dieną pasakiau, kad nesame „čia, kad mažintume spreadus“. Italijos rinkos nukrito. Mokomės.
+595 Mano arenoje mano atakų galia seka dabartinę bazinę palūkanų normą. Pasiruošęs truputį monetarinės politikos?
+596 Puiku. Jūsų strategija buvo… nuspėjama, gerąja prasme. Štai Euro ženklelis.
+597 Strasbūras yra pietuose, po Reino vynuogynų. Roberta Metsola pirmininkauja Parlamentui. Niekada nenutraukite jai žodžio.
+598 Šiandien palūkanų normos stabilios. Mėgaukitės, tai niekada nesitęsia ilgai.
+599 ECB man visa paaiškino: infliaciją, normas, balansą… Nieko nesupratau. Nagi, debatai, kad atsipalaiduočiau!
+600 Hmm. Žinote, pas mane, Londone, kai kurie kalba apie išėjimą iš Sąjungos. Būtų juokinga, ar ne? …Ar ne?
+602 Žaliasis kursas pristatytas 2019 m. gruodį. Nuo tada kovojame dėl kiekvieno kablelio.
+604 Kitas mano straipsnis: „Komisija nori uždrausti pralaimėtus debatus“. Tai netiesa, bet bus populiaru.
+606 Alzaso vynas ir Badeno vynas žvelgia vienas į kitą per Reiną. Anksčiau būdavo patrankos. Progresas!
+607 Strasbūras, Europos Parlamento oficiali būstinė. 12 plenarinių sesijų per metus. 720 europarlamentarų. Tūkstančiai lagaminų.
+608 Europarlamentarė
+609 Važiuoju Briuselis–Strasbūras dvylika kartų per metus nuo 2014 m. Tai… 132 persikraustymai. Mano lagaminai turi daugiau lojalumo taškų, nei aš.
+610 Pareigūnas
+611 Pagalbos! Sesija prasideda po 2 minučių, o deputatų lagaminai nesukrauti! Gali padėti?
+612 Visi lagaminai laive! Še, paimk – tai oficialus logistikos tarnybos apdovanojimas.
+613 Nepavyko… Gerai, pasakysime, kad sesija prasideda vėliau. Kaip visada. Bandyk vėl, kai norėsi!
+614 Nu… vėl verksiu lagamine.
+615 Deputatas Muller
+616 Mano 2000 pataisų… atmestos iš karto. Teks pradėti iš naujo komitete.
+617 Deputatė Rossi
+618 Lisabonos sutarčiai turėjau pilną lagaminą užrašų. Jis liko Briuselyje.
+619 Tarnautojas
+620 Tylos hemicikle! Ponia pirmininkė priima debatus tik po balsavimo. Norite pabandyti balsavimą plenariniame posėdyje?
+621 Priimta balsų dauguma! Pirmininkė jus priims.
+622 Atmesta… Kvorumas nesusirinko. Bandykite vėl!
+623 Jūsų balsas užregistruotas. Pirmininkė jūsų laukia.
+625 Posėdis atidaromas. Parlamento pirmininkė nuo 2022 m., perrinkta 2024 m.: moku prižiūrėti kalbėjimo laiką.
+626 Turite trisdešimt sekundžių. Ak, jau pasibaigė. Gerai, debatuokime!
+627 Rezultatas aiškus: priimta! Hemiciklo ženklelis atitenka jums.
+628 Ir štai Europos Interrail bilietas. Su juo jums atviros visos stotys. Kitas ženklelis – Atėnuose.
+629 Sakoma, kad Yanis Varoufakis tenai dėsto… ant motociklo. Imk traukinį iš Strasbūro stoties.
+630 Debatas? Ne be plenarinio balsavimo. Kreipkitės į tarnautoją.
+631 Kita sesija – po mėnesio. Nepamirškite lagaminų!
+632 Atėnai. Demokratijos, filosofijos… ir 2015 m. liepos 5 d. referendumo lopšys.
+633 Akropoliui 2500 metų. Jis atlaikė persus, otomanus ir Troiką.
+634 Graikijos muitininkas
+635 Pirėjo uostas? Uždarytas vizituojantiems. Jis priklauso… partneriams. Labai partneriams.
+636 Atsiprašau, priėjimas į uostą ribotas. Sugrįžkite, kai padėtis bus… diplomatiškesnė.
+638 2015 m. balsavau OXI. Ir po to… viskas sudėtinga.
+639 Troikos agentas (ECB)
+640 Mūsų ataskaita vėl rekomenduoja daugiau taupymo. Net jūsų Euromonams.
+641 Troikos agentas (TVF)
+642 Mes pripažįstame kelias klaidas savo prognozėse. Tarp mūsų.
+644 Tu atvykai dėl ženklelio? Atvažiavau čia motociklu, su odine striuke, be kaklaraiščio. Kaip 2015 m. Eurogrupės posėdžiuose.
+645 Finansų ministras šešis mėnesius. Atsistatydinau po referendumo: 61 % už OXI. Demokratija graži ir užsispyrusi.
+646 Troika manęs laukė už kampo. Tu – nugalėjai jos agentus. Parodyk, ar esi stipresnis už taupymą!
+647 NAI! Ak, noriu pasakyti: sveikinu. Štai OXI ženklelis, drauge.
+648 Kitas tavo ženklelis – Londone. Bet paskubėk: ten dažnai kalbama apie vieną tam tikrą išeitį.
+649 Vėl vykstu skaityti paskaitą. Apie skolą. Ant motociklo.
+650 Vestminsteris. Čia, 2016 m. birželio 23 d., Jungtinė Karalystė 51,9 % balsavo išstoti iš Europos Sąjungos.
+651 Karališkasis gvardietis
+652 (Jis nejuda. Net dėl Brexito.)
+653 Vyriausiasis redaktorius
+654 Rytoj rašome apie pernelyg tiesius agurkus. Veikė dvidešimt metų.
+656 1990-aisiais buvau korespondentas Briuselyje „Daily Telegraph“ leidiniui. Rašiau… vaizdingus dalykus. Get Brexit done!
+658 Sveiki atvykę į pubą! Pintą? Aš praleidau dvidešimt metų Europos Parlamente aiškindamas, kad ten nereikėtų būti.
+659 2016 m. birželio 28 d. pasakiau europarlamentarams: „Dabar jau nebesijuokiate, ar ne?“ Jie nesijuokė. Tu taip pat nesijuoksi.
+660 Gerai. Jūs laimėjote. Imkite šį 50 straipsnio ženklelį. Mes jį jau sunaudojome.
+661 Jūs vis dar čia? Mes jau išstojome, žinote.
+662 Turiu grįžti namo. Nebegaliu būti stažuotoju Parlamente. Bet pirma… paskutinis debatas. Garbės dėlei.
+663 Dėkui, {P}. Žiūrėk už mane direktyvą. Ir vasaros laiką. Pas mus jo, aišku, niekada nekeisime.
+664 Goodbye. Arba tiksliau… see you later. Kas žino?
+665 Oliveris išvyko. Londono traukinys prie kasos daugiau nebepasirodys. Kitas etapas: Budapeštas, ant Dunojaus.
+666 Országház, Vengrijos parlamentas, Dunojaus pakrantėje. Didžiausias Vengrijos pastatas. Ir didžiausias veto.
+667 Jauna vengrė
+668 Sakoma, kad opozicija stiprėja. Tam tikras Péter Magyar keliauja su kampanija per visą šalį.
+670 Vengrai balsavo 2026 m. balandžio 12 d. Mano partija, Tisza, gavo dviejų trečdalių daugumą. Atsiveria naujas puslapis!
+672 Pastatėme tvorą. Ji labiausiai naudinga nuotraukoms.
+673 Specialusis patarėjas
+674 Ministras pirmininkas tuoj išeis gerti kavos. Tai derybų technika.
+676 Jūs atvykote ieškoti susitarimo? Čia reikia vienbalsiškumo. O aš niekada nesutinku.
+677 2024 m. pirmininkavau Europos Sąjungos Tarybai su šūkiu „Make Europe Great Again“. Nieko neprimena?
+678 Mano arenoje galiu dėti savo VETO kiekvieną eilę. O kartais… išeinu gerti kavos. Kaip 2023 m. gruodį, balsuojant dėl Ukrainos.
+679 …Gerai. Susilaikau. Imkite šį Veto ženklelį. Oficialiai – aš nebuvau salėje.
+680 Praėjus kelioms mėnesiams, 2026 m. balandžio 12 d., vengrai balsuoja. Péter Magyar partija Tisza laimi su dviejų trečdalių dauguma.
+681 Orbán pripažino pralaimėjimą: „skausminga, bet aišku“. Dėkui, stažuotojau. Grįžkite į Briuselį: sako, kad Konkurencijos generaliniame direktorate yra… lobistų problema.
+682 Išėjau gerti kavos. Sugrįžkite vėliau. Daug vėliau.
+683 Barmenas
+684 Lux aikštėje, ketvirtadienio vakare, visas Briuselis ateina išgerti taurelę. Deputatai, padėjėjai… ir lobistai. Ypač lobistai.
+685 Rūsys? Tik nariams. Esate įregistruoti skaidrumo registre? Ne? Aš taip pat ne. Prašom įeiti.
+686 Judėkite, stažuotojau. Čia kalbamės apie verslą, tarp didelių žmonių.
+687 Naftos lobistas
+688 Energetikos pertvarka? Mes ją remiame. Nuo 2080 metų.
+689 Technologijų lobistas
+690 Mes gerbiame BDAR. Turime net 47 puslapių slapukų juostą.
+691 Lagaminai? Tai dokumentacijos lagaminai. Labai dokumentuoti.
+693 2022 m. gruodį Belgijos policija rado maišus pinigų keliuose Briuselio butuose. Tai pavadinta „Qatargate“.
+694 Buvau Parlamento viceprirmininkė. Visada neigiau kaltinimus. Šio žaidimo sukūrimo metu šioje byloje nebuvo priimtas galutinis nuosprendis.
+695 Pastaba: kiekvienas kaltinamas asmuo laikomas nekaltu, kol nėra nuteistas.
+696 Vyriausiasis lobistas
+697 Oho, oho. Stažuotojas. Žinai, kiek mūsų Briuselyje? 25000. O tu – vienas.
+698 Tavo direktyva dėl vasaros laiko? Turiu klientų, kurie parduoda laikrodžius. Ji liks užblokuota. Nebent…
+699 Gerai žaista. Oficialiai skelbiu savo pralaimėjimą skaidrumo registre. Ir išeinu į privatų sektorių. Ak, aš jau ten.
+700 Team Lobby išsiskirsto. Konkurencijos generalinio direktorato tyrimai gali tęstis!
+701 Big Tech advokatas
+702 Mes paduosime apeliaciją. Tada – apeliaciją apeliacijai.
+703 Konkurencijos teisininkas
+704 Dominuojančios padėties piktnaudžiavimas… Žodis „piktnaudžiavimas“ – stiprus.
+706 Dėkui, kad atsikratėte Team Lobby. Mano bylos pagaliau pajudėjo!
+707 Google: 2,4 milijardo eurų bauda 2017 m., 4,3 milijardo 2018 m. Apple: 13 milijardų mokestinės paramos, kurią reikia grąžinti, patvirtinta Teismo 2024 m.
+708 Ar jūsų komanda gerbia konkurencijos taisykles? Patikrinsiu. Pati.
+709 Nerasta pažeidimų. Baudos ženklelis jums. Ir imkite šitą taip pat: OLAF, antisukčiavimo tarnybos, ženklelį.
+710 Praneštos… keistos buvimo apraiškos vienąme Parlamento sparne. Padėjėjai, kurių niekas niekada nematė. Su šiuo ženkleliu juos pamatysite.
+711 Šiandien jums baudos nebus. Mėgaukitės.
+712 Šaltas koridorius… Girdisi, kaip klaviatūros kalba savaime. Bet nė vieno žmogaus. Reikėtų kažko, kad pamatytum nematomą.
+713 Geriau leiskitės žemyn, kol kas.
+714 Vaiduoklis padėjėjas
+715 Mano kabinetas? Niekada jo neradau…
+716 Buvau mokamas padėti… partijai. Ne deputatui.
+717 Ūū… Laiko keitimas verčia mane pasirodyti du kartus per metus…
+718 Mano sutartyje rašoma „vietinis padėjėjas“. Vietinis ko? Mįslė.
+719 Dingstu… na…
+720 Dėkoju… kad išvadavote mane iš šios sutarties…
+722 NF padėjėjų byla: sistema mokėjo partijos darbuotojams Europos Parlamento pinigais.
+723 Buvau nuteista pirmoje instancijoje 2025 m. kovo 31 d., tada apeliacijoje 2026 m. liepos 7 d.: treji metai, iš jų vieni su apyranke, ir penkiolika mėnesių teisių atėmimo.
+724 Su šiuo apeliacijos nuosprendžiu jos kandidatūra 2027 m. prezidento rinkimuose teoriškai vėl tampa galima. Dar galimas paskutinis kasacinis skundas.
+726 MoDem padėjėjų byla – kitas atvejis. 2024 m. vasarį buvau išteisintas „abejonės naudai“. Prokuratūra pateikė apeliaciją.
+727 Tada buvau ministras pirmininkas… nuo 2024 m. gruodžio iki 2025 m. rugsėjo. Laikas Matignon rūmuose skrieja greitai.
+728 Vaiduokliai padėjėjai nesigilina į politiką: jie kerta visas partijas, kurios juos netinkamai įdarbino.
+729 Tuščia Sutartis
+730 ESU… VISŲ SUTARČIŲ BE KABINETO DVASIA… VISŲ PARTIJŲ… VISŲ KADENCIJŲ…
+731 Tuščia Sutartis išsisklaido darbo užmokesčio lapelių debesyje. Vaiduoklių sparnas pagaliau tylus.
+732 Atkeliauja Roberta Metsola žinutė: „Dėkui! Paskutinis ženklelis jūsų laukia Paryžiuje, Sorbonoje.“
+733 Sorbona. Čia Emmanuel Macron pasakė dvi dideles kalbas apie Europą, 2017 ir 2024 m. Antroji truko beveik dvi valandas.
+734 Paklausiau kelio angliškai. Man atsakė prancūziškai. Su šypsena. Labai švelnia.
+735 Elitinis valdininkas
+736 Parašiau santraukos pastabą apie savo pralaimėjimą. Ji turi 80 puslapių.
+737 Delegatas ministras
+738 Mane ką tik pakeitė vyriausybės pertvarkoje. Vidury kovos. Tai rekordas.
+740 Sveiki atvykę į Sorboną! Čia kalbėjau apie suverenią Europą 2017 m. Tada – apie Europą, kuri „gali mirti“, 2024 m.
+741 2019 m. pasakiau, kad NATO yra „smegenų mirties“ būsenoje. 2024 m. paleidau Nacionalinę Asamblėją. Man patinka… netikėti sprendimai.
+742 Tad debatuokime, ir kartu pamąstykime. Strateginė autonomija!
+743 Nuostabu! Jūs turite tikros Europietės… ar Europiečio esmę. Ir kartu abiejų. Sorbonos ženklelis jums.
+744 Su aštuoniais ženkleliais Europos Vadovų Taryba jūsų laukia pastate Europa, Briuselyje. Sėkmės: jų viršūnių susitikimai retai baigiasi prieš 5 val. ryto.
+745 Mielai kalbėčiau apie Europą dvi valandas, bet jums reikia įtikinti Tarybą.
+746 Prologas — 1950 m. gegužės 9 d.
+747 1950 m. gegužės 9 d.
+748 Paryžius, Quai d'Orsay, 18 valanda
+750 Ponai, dėkoju, kad atvykote. Būsiu trumpas. Na… pasistengsiu.
+751 (pašnibždom) Jis taip sako kaskart.
+752 (pašnibždom) Robert. Frazė apie anglį. Nepamirškite frazės apie anglį.
+753 „Prancūzijos vyriausybė siūlo visą prancūzų-vokiečių anglies ir plieno gamybą pavesti bendrai Vyriausiajai valdybai.“
+754 Anglis? Plienas? Dėl to praleidome aperityvą?
+755 Penki metai po karo, idėja paprasta ir beprotiška: suvienyti tai, iš ko gaminami pabūklai.
+756 Kad karas taptų „ne tik neįsivaizduojamas, bet ir materialiai neįmanomas“.
+757 Šešios šalys 1951 m. Tada devynios, dvylika, penkiolika, dvidešimt penkios… Dvidešimt septynios šiandien.
+758 Ir kiekvieną rytą, kažkur Briuselyje, pabunda vėluojantis stažuotojas.
+759 1 skyrius
+760 Pirmadienis. Tavo žadintuvas rodo 6:58. Tavo telefonas – 7:58. Vienam iš jų nepranešė apie laiko keitimą.
+762 PIRMA STAŽUOTĖS DIENA!
+763 Rue de la Loi. Vienas kruasanas, trys bylos, nulis orumo.
+764 Dviratininkas
+765 Dviračių takas! Net stažuotojai gerbia reglamentą 2019/1242! Na, bent jau manau, kad jis egzistuoja.
+766 {P}! Pirma diena, ir jau valanda vėluoji. Aš čia nuo 6:58. Žinoma, Londono laiku.
+767 Profesorius Schumanas mūsų laukia Parlamento fojė. Pasakiau jam, kad tu sirgai. Vėliau man padėkosi.
+768 2 skyrius — Liuksemburgas
+769 2 skyrius
+770 Adolfo tiltas kerta Petrusos slėnį. Apačioje – sodai. Viršuje – bankai. Viduryje – tavo traukinys.
+771 Ak, mažasis anglas! Eikš, apkabinsiu tave!
+772 Sir, aš… we don't do that. Anglijoje spaudžiam ranką. Iš atokiau. Su pirštinėmis.
+773 Čia Liuksemburgas. Čia bučiuojamės į skruostą, tapšnojame per veidą, ir sakinyje kalbame keturiomis kalbomis. Moien, bonjour, guten Tag, hello!
+775 Mano Aukso arena yra Kirchberge, stažuotojau. Ateik, kada nori. Patapšnoju per skruostą nemokamai. Tai vienintelė nemokama paslauga šiame rajone.
+776 Šengenas, trys sienos
+777 Šengenas. Čia Prancūzija, Vokietija ir Liuksemburgas susiliečia vynuogynų pakraščiuose.
+778 1985 m. birželio 14 d. penkios šalys čia, laive, pasirašė susitarimą, kuris atšaukia pasienio kontrolę. Ant upės, kuri YRA siena. Mums patinka ironija ant Mozelio.
+779 Muitininkas
+780 Trisdešimt metų antspauduoju pasus. Ir dabar? Drugeliai praeina be vizos.
+781 Persikvalifikuosiu. Atvirukų antspauduotojas. Perspektyvi rinka.
+782 3 skyrius — Frankfurtas
+783 3 skyrius
+784 Frankfurtas prie Maino
+785 Frankfurtas, naktis. Du stiklo bokštai, euro simbolis, didelis kaip autobusas. Europos centrinis bankas niekada nemiega. Jis saugo infliaciją.
+786 Matote šitą svirtelę? Bazinė palūkanų norma. Pakeliu – kainos nurimsta. Nuleidžiu – ekonomika atsidūsta.
+787 Netyčia palieciu ją alkūne, ir trys vyriausybės krenta. Taigi niekada nesiremiu į stalą.
+788 IT'S RAINING EUROS! Tai ir yra kiekybinis skatinimas?!
+789 Ne, pone. Tai oro kondicionierius nupūtė banknotus iš parodos. Grąžinkite juos. Visus. Skaičiuoju.
+790 4 skyrius — Strasbūras
+791 4 skyrius
+792 Kartą per mėnesį Parlamentas keliauja iš Briuselio į Strasbūrą. Su savo deputatais, padėjėjais… ir tūkstančiais lagaminų.
+793 Europarlamentaras
+794 Mano lagaminas lankėsi daugiau plenarinių sesijų nei aš. Jis net turi vietą transporto komitete.
+795 Posėdis atidaromas! …Kur deputatai?
+796 Ponia pirmininke, jie vis dar ieško savo lagaminų perone.
+797 Tada balsuojame pakeldami ranką. Ar lagaminai turi balsavimo teisę? Ne? Gaila, jie bent laiku.
+798 5 skyrius — Atėnai
+799 5 skyrius
+800 Akropolis saulėlydžio metu. Du tūkstančiai penki šimtai metų demokratijos, filosofijos… ir vėlai baigiamų posėdžių.
+801 Pone Varoufaki, jūsų planas neatitinka mūsų skaičiuoklių.
+802 Jūsų skaičiuoklės neatitinka tikrovės. Siūlau debatą. Ant motociklo, jei pavysite.
+803 Mes nevažinėjame motociklais. Mes teikiame rekomendacijas.
+804 Tada rekomenduokite pasitraukti. Manęs laukia arena.
+805 6 skyrius — Londonas
+806 6 skyrius
+807 Londonas, lietuje. Kaip visada. Bet šįkart ore tvyra kažkas sunkesnio.
+808 Pintą visiems! Ir autobusą kampanijai! Nesvarbu, kas ant jo parašyta, žmonės skaitys autobusą, ne išnašas.
+809 Nesinervinkite! Įstrigau ant lynų trasos, bet tai strategija. Get Brexit done! Ir kopėčias, kas nors, prašau.
+810 Referendumas
+811 2016 m. birželio 23 d. 51,9 % balsavusių pasirinko palikti Europos Sąjungą.
+812 2020 m. sausio 31 d. vidurnaktį Briuselio laiku — 23 valandą Londono laiku — Jungtinė Karalystė nebėra Sąjungos narė.
+813 Žinai, kas keista? Iš pradžių nenorėjau čia būti. Tiesiog norėjau laimėti.
+814 Ir dabar turiu išvykti, bet nebenoriu. Ironic, isn't it?
+815 Tu sugrįši. Yra Erasmus, mainai, studentų vizos…
+816 Erasmus? Iš jo mes taip pat išstojome. Bet rasiu kelią. Anglai visada randa kelią grįžti į Europą. Tai vadinasi atostogos.
+817 7 skyrius — Budapeštas
+818 7 skyrius
+819 Vengrijos parlamentas, auksinis, ant Dunojaus. Didžiausias šalies pastatas. Ir didžiausia „VETO“ antspaudų kolekcija Europoje.
+820 Europos biudžetas? Veto. Pagalba Ukrainai? Veto. Nauja Tarybos ženklelių spalva? Veto. Iš principo.
+821 Pone ministre pirmininke, tai buvo jūsų pietų užsakymas.
+822 …Veto bet kokiu atveju. Nemėgstu, kai kiti sprendžia už mane.
+823 2026 m. balandžio 12 d.
+824 Vengrai! Šįvakar nugalėjome ne Europą, ne kaimynus. Nugalėjome dėl savęs!
+825 Minia
+826 TISZA! TISZA! TISZA!
+827 Aš ne pyktoju. Mąstau. Nugara. Su debesiuku virš galvos. Tai visiškai kitaip.
+828 2022 m. gruodis — aušra
+829 Briuselis, 2022 m. gruodis. Auštant Belgijos policija vykdo kratas aplink Lux aikštę.
+830 Policininkas
+831 Viršininke, čia maišai. Su banknotais viduje. Daug banknotų.
+832 Policijos viršininkas
+833 Suskaičiuokite. Ir nelieskite futbolo kamuolio, jis gali būti įkaltis.
+834 Parlamento pareigūnai ir artimieji suimti. Tyrimas nagrinėja galimą korupciją užsienio valstybių naudai.
+835 Visi kaltinami asmenys laikomi nekaltais, kol nėra galutinai nuteisti.
+836 (iš tolo) Mes su tuo nieko bendra neturime. Mes mokame užkandžiais. Tai diskretiškiau.
+837 Konkurencijos generalinis direktoratas
+838 Dar viena bauda. Pasirašau, šypsosi, nerioju dramblį. Labai nuramina.
+839 Ponia komisarė, technologijų milžinai prašo atidėjimo.
+840 Suteikta. Jiems liko… dabar.
+842 Skaitmeninių paslaugų aktas taikomas visiems, pone Musk. Net tinklams, kurie keičia pavadinimą kas šešis mėnesius.
+844 Atsakau memu. Tai mano oficiali teisinė pozicija.
+845 Atsakau keturių puslapių laišku. Tai mano.
+846 Jie tampo telefoną į skirtingas puses. Telefonas rodo: „baterija senka“.
+847 Vaiduoklių padėjėjų bokštas
+848 Dėkojant OLAF ženkleliui, nematomas tampa matomu. Permatomi padėjėjai plazdena koridoriuje, rankoje – darbo užmokesčio lapelis.
+849 Labas… Dirbu čia nuo 2009 m… Na, mano sutartis čia dirba… Aš pats niekada neatvykau…
+850 Mano darbdaviai – visi ten, viršuje. Sako, kad nepažįsta manęs. Tai įžeidžia, kaip vaiduoklį.
+851 (už durų) Manęs čia nėra. O jei esu – tai abejonės naudai.
+852 9 skyrius — Paryžius
+853 9 skyrius
+854 Paryžius auksinę valandą. Eifelio bokštas, Sena, ir kažkur – kalba, kuri pradeda ir nesibaigia.
+855 Europa turi būti suvereni! Galinga! Humanistinė! Ir aš pridurčiau, jei leisite, ir leisiu sau…
+856 Studentas
+857 Kiek jau laiko jis kalba?
+858 Studentė
+859 Valandą keturiasdešimt. Jis tik baigė įvadą.
+860 Esu už taupymą IR už investicijas. Už atvirumą IR už apsaugą. Sutinku su jumis IR su jūsų priešininku.
+861 Kaip tai vadinasi?
+862 „Tuo pačiu metu“. Tai patentuota. Na, tuo pačiu metu, tai nemokama.
+863 2021 m. balandis — Ankara
+864 2021 m. balandis, Ankara. Trys vadovai įeina į kambarį. Yra dvi kėdės.
+866 (jau sėdi) O. O ne. Ką tik supratau.
+867 Ne, ne, nesivaržykite. Man labai gerai šioje sofoje. Ji ilga. Ji smėlio spalvos. Ji toli.
+868 Incidentas apkeliaus pasaulį pavadinimu „Sofagate“. Nuo tol Charles Michel tikrina kėdžių skaičių prieš kur nors įžengdamas.
+869 10 skyrius — Europos Vadovų Taryba
+870 10 skyrius
+871 Europos Vadovų Tarybos naktis
+872 Pastatas Europa. Jo stiklinėje žibintuvėje susirenka valstybių ir vyriausybių vadovai. Viršūnių susitikimai prasideda 15 val. Baigiasi… vėliau.
+873 Mieli kolegos, dabar 4:12. Mums liko sutvarkyti vieną kablelį 37 pastraipoje.
+874 Mačiau viršūnių susitikimų, kur kablelis buvo derybos tęstos iki pusryčių. Tai buvo labai gražus kablelis.
+875 Siūlau kablelį. Whatever it costs.
+876 Siūlau užsisakyti dar picų, kol kas nors pasiūlys kabliataškį.
+877 SUSITARTA! Dabar 5:03. Išvados priimtos. Kas gali pažadinti ministrą pirmininką, miegantį po stalu?
+878 13-as aukštas
+879 Berlaymont saulėlydžio metu. Trylika aukštų. Viršuje laukia Komisijos pirmininkė.
+880 Charles, galite pabaigti pyktis? Juk penki metai praėjo.
+881 Aš ne pyktoju. Žiūriu į sieną. Ji labai įdomi, ta sienа. Ji neturi fotelio.
+882 {P}. Pagaliau tu čia.
+883 Norite direktyvos? Nugalėkite mane. Team Europe, pabaigoje – tik vienas.
+884 Stažuotojų siena
+885 13-ame aukšte ilgas koridorius su visų Komisijos stažuotojų nuotraukomis. Niekas į jas niekada nežiūri.
+886 Šiandien pakabintas naujas auksinis rėmas. Ir šįkart kažkas sustoja pažiūrėti.
+887 11 skyrius — Didžiosios galios
+888 11 skyrius
+889 Didžiosios galios
+890 Antverpeno uostas. Nusileidžia prezidentinis lėktuvas. Žuvėdros, atsargiai, skrenda Nyderlandų link.
+891 Televizijos laidų vedėja
+892 Specialus leidimas! Washingtonas, Maskva ir Pekinas vienu metu siunčia žinutes Europai. Rinkos svyruoja tarp panikos ir miego.
+893 Kavinės klientas
+894 Vėl? Dar nebaigiau savo vaflio.
+895 Padavėjas
+896 Vafl, pone. Tai moteriškos giminės žodis. Kaip ir Komisija.
+897 Tuo pačiu metu, Pirėjuje, prisišvartuoja konteinerinis laivas, didelis kaip miestas. Niekas tiksliai nežino, kas jame. Nei ką jis perka.
+898 Antverpenas — golfo aikštelė
+899 Pažiūrėkite į šią golfo aikštelę. Tarp dviejų konteinerių. Gražiausia aikštelė uostų istorijoje.
+900 Pone prezidente, golfo lazdų krepšys labai sunkus. Ar galime jį apmuitinti?
+901 Nuostabus smūgis, tėveli! Ak… pone prezidente!
+902 Kiekvienas iš JAV išskridęs kamuoliukas moka muitą. Ir šis taip pat. Ypač šis. Jis nukrito į Šeldę? LABAI NETEISINGA.
+903 Varšuva — sniegas
+904 Rūmai lygumos gale? Čia jis jūsų laukia. Imkite šaliką. Ir megafoną – stalui.
+905 Jis jums pasakys, kad Europai šalta be jo. Parodykite, kad Europa pati išmoko sušilti.
+906 Stalas
+907 Baltas stalas. Labai baltas. Labai ilgas. Tiek ilgas, kad turi savo laiko juostą.
+908 (labai garsiai) LABAS!
+909 Po trijų sekundžių echo sugrįžta iš kito salės galo.
+910 Girdžiu jus puikiai. Jūs esate tas, kuris per arti.
+911 Pirėjas
+912 Dovana. Pliušinis panda. Jis simbolizuoja mūsų tautų draugystę.
+913 Jis labai mielas. Dėkoju. …Kodėl uostas ką tik pakeitė vėliavą?
+914 Strateginė partnerystė. Jūs pasiliekate pandą. Mes pasiliekame uostą. Visi laimingi.
+915 Graikų dokininkas
+916 Aš būčiau labiau mėgęs tikrą pandą. Ji bent valgo bambuką, nieko neperka.
+917 G-Viskas viršūnių susitikimas
+918 G-Viskas viršūnių susitikimas. Trys didžiosios galios. Vienas stalas. Ir Europa, pasodinta ant sulankstomos kėdutės.
+919 Europa turi pasirinkti: mane.
+920 Europa turi pasirinkti: mane. Arba šaltį.
+921 Europa gali pasirinkti. Mes jau nupirkome abi galimybes.
+922 Europa pakyla
+923 Europa nesirenka šeimininko. Ji renkasi likti vienybėje. Dvidešimt septynios šalys, dvidešimt keturios kalbos, vienas stalas. Mūsų.
+924 Išeinu. Tai AŠ nusprendžiau išeiti. Niekas manęs nenugalėjo.
+925 Aš taip pat išeinu. Durys buvo bet kokiu atveju per arti manęs.
+926 Mes išeiname. Bet pasiliekame partneriais. Ir konkurentais. Ir varžovais. Gero vakaro.
+927 Trys durys trenkia. Trys didžiosios galios pyksta. O salėje – ploja stažuotojai.
+928 Epilogas
+929 Briuselis, stažuotės pabaigos vakaras
+930 Briuselio Didžioji aikštė. Mėlyni ir aukso ugnių fejerverkai nubrėžia dvylika žvaigždučių virš rotušės.
+931 {P}, visų institucijų vardu, štai tavo stažuotės pabaigos pažymėjimas. Pasirašytas, kontrasignuotas ir išverstas į dvidešimt keturias kalbas.
+932 Maltietiška versija turi klaidą. Tai tradicija.
+933 {P}! WAIT! Nepradėkite be manęs!
+934 Oliveri?! Bet… kaip?
+935 Jauno profesionalo viza, draudimas, du formuliarai, trys antspaudai. Tikras popierizmo Euromonas. Esu sugrįžęs. Kaip turistas. Bet sugrįžęs!
+936 Grupinė nuotrauka! Visi susispaudę! Patapšnosiu per skruostus po to.
+937 Esu nuotraukoje tik jei niekam nesakysite, kad buvau nuotraukoje.
+938 (už kadro) Veto nuotraukai.
+939 Jis neturi daugiau teisės į veto. Šypsokitės!
+940 „Mes nejungiame valstybių, mes vienijame žmones.“ Ir moteris, ir stažuotojus.
+941 Konkretūs pasiekimai. Faktinis solidarumas. Šaunuolis. Ir dabar… eik miegoti. Rytoj – koordinacinis susitikimas dėl susitikimų.
+942 Roma, 1957 m. kovo 25 d.
+943 Kapitolijaus aikštė. 1957 m. kovo 25 d. šešios šalys čia pasirašė Romos sutartis. Akmuo tai atmena. Jis pradeda švytėti.
+944 Mastrichtas, 1992 m. vasario 7 d.
+945 Myza naktį. Čia gimė Europos Sąjunga, ir idėja apie vieną bendrą valiutą. Švytinčios monetos iškyla į vandens paviršių.
+946 Lisabona, 2007 m. gruodžio 13 d.
+947 Aušra virš Tacho. Priešais Jeronimitų vienuolyną sutarties puslapiai pakyla ir ima skraidyti.
+948 Sveiki atvykę į valgyklą! Kava, sumuštinis, ir jūsų Euromonai vėl kaip nauji… na, kaip 1957-aisiais.
+949 Pasirūpinti jūsų komanda?
+950 Štai ir viskas! Visi pilnos formos. Kava, kaip visada, drungna.
+951 Kaip norite. Bet tada neverkite kitame debate!
+952 Labas! Europos stotis, vienas langelis. Jūsų Interrail bilietą, prašau… Puiku. Kur vykstame?
+953 Atsiprašau, tarptautiniai traukiniai – tik Interrail bilieto turėtojams. Sako, kad jį laimi Strasbūre.
+954 Valgau čia nuo 1993 m. Meniu pasikeitė tik vieną kartą: atėjus eurui.
+955 Bankininkas
+956 Čia net kava mokestiniu požiūriu registruota kitur.
+957 Ekonomistas
+958 Sumuštinio kaina pakilo 12 % nuo 2021 m. Mano modelis prognozavo 2 %. Mano modelis alkanas.
+959 Parlamento padėjėjas
+960 Keturias dienas per mėnesį čia, likusį laiką – Briuselyje. Mano vazoninės gėlės mane jau nebepažįsta.
+961 Padavėja
+962 Šaltą kavą? Tai vienintelis dalykas, kurio Troika niekada nesugebėjo reformuoti.
+963 Džentelmenas
+964 Anksčiau skųsdavomės Briuseliu. Dabar skundžiamės, kad negalime daugiau skųstis Briuseliu.
+965 Čia valgome guliašą. Ir diskretiškai debatuojame.
+966 Filosofas
+967 Mąstau, vadinasi, pietauju. Ir pietauju ilgai: tai Paryžius.
+968 Klientė
+969 Ieškau įkroviklio… Ak ne, tiesa, dabar visur USB-C. Koks laimėjimas.
+970 Kainos be mokesčių. Žinoma.
+971 Klientas
+972 Mokiau grynaisiais. Vokiečiai dievina grynuosius.
+973 Atvykau pirkti antspaudų. Mano viršininkė nori antspauduoti laiko keitimo Euromoną.
+974 Visos kainos per pusę! Ak ne, tai PVM padvigubėjo.
+975 Kaina svarais, eurais, ar rinkimų pažadais?
+976 Pardavėjas paklausė mano nuomonės apie vyriausybę. Atsakiau: „veto“.
+977 Baguetę, antspaudą ir protesto akciją, prašau.
+978 Keliautoja
+979 Mano traukinys į Strasbūrą vėluoja keturias valandas. Parlamentas, atrodo, taip pat.
+980 {P}! Netikėtumas! Atvykau Eurostar traukiniu. Su pasu, formuliaru ir dviem valandomis eilėje. Ateinu paprašyti… sugrįžti. Rejoin?
+981 Bet pirma – debatas. Kaip senais geraisiais laikais!
+982 Kokia stažuotė! Gerai, sako, kad norint vėl prisijungti, reikia sutarti dėl 35 skyrių. Rytoj pradedu. Cheers, {P}!
+983 1 skyrius iš 35: „laisvas prekių judėjimas“. Pirmyn!
+984 Keliautojas
+985 Liuksemburge viešasis transportas nemokamas nuo 2020 m. Net stažuotojams!
+986 Važinėju Frankfurtas–Briuselis maršrutu. Pažįstu kiekvieną linijos karvę vardu.
+987 Šie geležiniai lagaminai visi priklauso europarlamentarams. Jie keliauja daugiau nei aš.
+988 Traukinys į Pirėją? Uždarytas. Sako, kad kažkas nupirko uostą.
+989 Eurostar dabar reikalauja paso. Atgavome kontrolę. Ir eiles.
+990 Dunojus teka per dešimt šalių. Aš tiesiog bandau pereiti bent vieną be kontrolės.
+991 Streikas SNCF. Ak ne, tai tiesiog antradienis.
+992 Dokininkas
+993 Antverpenas, antras didžiausias Europos uostas. Čia pamatysi visko. Net muito mokesčių.
+994 Be dujų taip šalta, kad pingvinai prašo prieglobsčio.
+995 Visi keliai veda į Romą. Ir traukiniai – su vėlavimu.
+996 Čia 1992 m. pasirašyta sutartis. Buvo saulėta. Tai, tikriausiai, buvo vienintelis kartas.
+997 Lisabona, 2007 m.: pasirašyta sutartis, labai panaši į konstituciją. Ššš.
+998 Šiandien gegužės 9-oji: Europos diena! Vėliavos plevėsuoja visame Europos kvartale.
+999 Retas Euromonas, pritrauktas šventės, iššoka iš bylų krūvos!

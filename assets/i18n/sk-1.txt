@@ -1,0 +1,487 @@
+# Slovenčina — ids 0-499
+0 LOB
+1 SKA
+2 ZMR
+3 SPÁ
+4 BLK
+5 Úr.%d
+6 DEBATOVAŤ
+7 TAŠKA
+8 ÚTEK
+9 TÍM
+10 PP %d/%d
+11 Žiadny účinok
+12 Veľmi účinné
+13 Málo účinné
+14 Späť
+15 Už žiadne PP na tento útok!
+16 Do toho, %s!
+17 %s vysiela %s!
+18 Ale %s už má problém…
+19 %s je už na strane lobby!
+20 Fondy centrálneho bankára sa nezmrazujú!
+21 %s je pod vplyvom lobby!
+22 %s je zapletený do skandálu!
+23 Fondy %s sú zmrazené!
+24 %s zaspáva uprostred nočného summitu!
+25 %s je blokovaný vo výbore!
+26 Argumentácia
+27 Odolnosť
+28 Odbornosť
+29 Diplomacia
+30 Reaktivita
+31 Presnosť
+32 Úhyb
+33 %s: %s už nemôže ďalej stúpať!
+34 %s: %s už nemôže ďalej klesať!
+35 %s: %s výrazne stúpa!
+36 %s: %s stúpa!
+37 %s: %s výrazne klesá!
+38 %s: %s klesá!
+39 %s používa %s!
+40 (trump)%s používa %s!
+41 %s pripravuje spis na 400 stranách…
+42 Ale nikto nepadne dvakrát do pasce gauča!
+43 %s plagiuje súpera!
+44 Ale nie je čo plagiovať…
+45 %s sa odvoláva na Článok 50 a odchádza z debaty!
+46 %s sa odvoláva na Článok 50 a odchádza!
+47 %s sa odvoláva na Článok 50… ale rokovania budú trvať roky!
+48 %s sa chráni vetom!
+49 „VETO!“ Súper blokuje rozhodnutie, ktoré si vyžaduje jednomyseľnosť.
+50 Ale útok %s minul cieľ!
+51 %s je už dezinformovaný!
+52 %s je dezinformovaný!
+53 Ale HP %s sú už na maxime!
+54 %s si obnovuje HP!
+55 %s si dáva osviežujúci spánok!
+56 Ale veto tentoraz neprešlo!
+57 %s uplatňuje svoje právo veta!
+58 Ochranná doložka! Všetky zmeny sú zrušené.
+59 Správy %s boli vymazané… Žiadna stopa!
+60 Na ihrisko dopadajú štrukturálne fondy!
+61 %s skončí na gauči!
+62 Ale nič sa nestane…
+63 To na %s nezaberá…
+64 Kritický zásah!
+65 Zasiahnuté %d-krát!
+66 Je to veľmi účinné!
+67 Nie je to veľmi účinné…
+68 %s je uviaznutý v nekonečnom konaní!
+69 %s odčerpáva fondy!
+70 %s utrpí spätný náraz!
+71 Mince sa rozsýpajú na všetky strany!
+72 %s je príliš rozrušený na to, aby konal!
+73 %s spí ako zarezaný… (je 4 hodiny ráno)
+74 %s sa zobúdza! Summit sa skončil.
+75 %s konečne vychádza z výboru!
+76 Fondy %s sú zmrazené! Nemôže konať.
+77 %s si overil zdroje!
+78 %s je dezinformovaný…
+79 Šíri falošnú správu a sám sa tým zosmiešňuje!
+80 Orbán si odskočil na kávu! Jeho Euromon čaká, bezradný.
+81 %s podlieha vplyvu lobby!
+82 Skandál postriekal %s!
+83 %s sa zamotal do konania!
+84 %s je K.O.!
+85 %s sa učí %s!
+86 %s sa chce naučiť %s, ale už pozná štyri útoky.
+87 Nenaučiť sa
+88 Ktorý útok zabudnúť?
+89 Jeden, dva, tri… Hop! %s zabúda %s…
+90 … a učí sa %s!
+91 %s sa nenaučil %s.
+92 %s získava %d bodov skúseností!
+93 %s postupuje na úroveň %d!
+94 {P} hádže %s!
+95 A hotovo! %s je zaregistrovaný v Úradnom vestníku!
+96 Údaje o %s sú pridané do Eurodexu.
+97 %s je odoslaný do Archívu.
+98 Ale nie! %s sa vyslobodil!
+99 Ách! Bolo to tak blízko!
+100 Hádam nie! Chýbala len jedna pečiatka!
+101 Argh! Procesná chyba!
+102 %s bol zamietnutý v referende! Nemožno ho chytiť.
+103 Euromon iného trénera sa nechytá! To by bol skandál.
+104 {P} používa %s!
+105 Na ktorého Euromona?
+106 %s si obnovuje HP.
+107 %s sa cíti lepšie.
+108 %s je opäť v akcii!
+109 Nebude to mať žiadny účinok.
+110 Teraz na to nie je čas!
+111 Koho poslať do debaty?
+112 Koho poslať?
+113 %s už nie je v stave na debatu!
+114 %s je už na ihrisku!
+115 Vráť sa, %s!
+116 partner
+117 konkurent
+118 systémový rival
+119 Súperov Euromon sa teraz predstavuje ako… %s! (typ %s)
+120 %s %s chce debatovať!
+121 Oh! Chromatický %s!
+122 Objavuje sa divoký %s!
+123 Čo má {P} urobiť?
+124 Z úradnej debaty sa neodchádza! To by bolo priznanie slabosti.
+125 Utekáte cez núdzový východ!
+126 Nemožno utiecť: schôdza nebola skončená!
+127 %s spúšťa svoj argument… Stôl je taký dlhý, že mu to bude trvať celé kolo!
+128 Argument z predchádzajúceho kola konečne dorazil na druhý koniec stola!
+129 %s vyšle %s.
+130 Pokračovať
+131 Vymeniť Euromona
+132 Vymeniť Euromona?
+133 {P} získava %d € za túto debatu!
+134 {P} zbiera %d € zo štrukturálnych fondov.
+135 — CUTSCÉNA —
+136 A: ďalej    START: preskočiť
+137 Áno
+138 Nie
+139 Dotknite sa alebo stlačte A
+140 Ďakujeme za hranie!
+141 KONIEC… alebo takmer.
+143 Súbor uloženia je nečitateľný!
+144 Profesor Schuman
+145 Dobrý deň, dobrý deň! Vitajte v nádhernom… a mierne administratívnom… svete Európskej únie!
+146 Volám sa Robert Schuman. Možno si o mne počul: príbeh o uhlí, oceli a 9. máji… Porozprávam ti ho.
+147 Od tej doby je tento svet obývaný zvláštnymi tvormi: EUROMONMI!\fSmernice, nariadenia, pozmeňovacie návrhy, cookie lišty… Žijú v hromadách zložiek a v koberci na chodbách.
+148 Niektorí ich zbierajú, iní ich posielajú debatovať. Ja ich skúmam. Volá sa to… komitológia!
+149 Ale hovorme o tebe. Dnes ráno sa v Európskom parlamente čakajú dvaja stážisti…
+150 Vľavo Alex, nová stážistka. Vpravo Max, nový stážista. Kto si?
+151 Alex, dievča
+152 Max, chlapec
+153 Výborne! A ako ťa mám oficiálne nazývať? Musí to byť napísané v 24 jazykoch, tak si vyber dobre.
+154 Tvoje meno (max. 10 písmen):
+155 {P}! Nádherné. Hneď to dám preložiť do maltčiny.
+156 Toto je Oliver, tvoj kolega stážista, priamo z Londýna. Je… veľmi sebavedomý.
+157 Hello! Don't worry, {P}, budem najlepší stážista v celej Únii. Easy.
+158 Vaša úloha je jednoduchá: presadiť JEDNU smernicu.\fSmernicu o zrušení zmeny času. Parlament ju schválil v marci 2019…
+159 … a od tej doby spí v Rade. Ako mnoho iných vecí.
+160 Na to budete potrebovať 8 odznakov z veľkých miest Európy, presvedčiť Európsku radu a samotnú predsedníčku Komisie!\fTak poď, {P}. Tvoja stáž sa začína teraz. Nie je platená, ale je formujúca!
+161 Veľké/malé
+162 Vymazať
+163 Vedeli ste, že Parlament sa dvanásťkrát do roka presúva do Strasburgu, vrátane kufrov?
+164 V EÚ je 24 úradných jazykov. Váš stážista hovorí jedným a pol.
+165 Tip: viečka pripevnené k láhvi sa už nestrácajú (smernica 2019/904).
+166 Načítava sa… ako zrušenie zmeny času: schválené v roku 2019, stále sa čaká.
+167 Európska vlajka má 12 hviezd. Nie je to počet krajín: je to symbol dokonalosti.
+168 Schumanova deklarácia je z 9. mája 1950. 9. máj je Deň Európy!
+169 Euromince sa objavili vo vreckách 1. januára 2002.
+170 Od júna 2017 už v Európe nie sú roamingové poplatky. Zavolajte mame z Lisabonu!
+171 Univerzálna nabíjačka USB-C je povinná od konca roku 2024. Zbohom, zásuvka plná káblov.
+172 Erasmus vznikol v roku 1987. Milióny študentov sa odtedy naučili variť cestoviny.
+173 Schengenská dohoda bola podpísaná v roku 1985 na lodi, na Mosele, v Luxemburgu.
+174 Európsky parlament má od roku 2024 720 poslancov.
+175 Tip: v kantíne sa vylieči celý tvoj tím. Káva nevylieči nič.
+176 Tip: pridaj do behu stlačením B. Chodby Berlaymontu sú dlhé.
+177 Nariadenie o zakrivení banánov (1994) naozaj existuje… ale hovorí hlavne o kvalite.
+178 GDPR (2018) vám daroval cookie lišty. Veľa cookie líšt.
+179 Nobelova cena za mier bola udelená Európskej únii v roku 2012.
+180 Rímska zmluva (1957) založila Európske hospodárske spoločenstvo.
+181 Maastrichtská zmluva (1992) založila Európsku úniu a pripravila euro.
+182 Lisabonská zmluva (2007) obsahuje článok 50. Použila ho len jedna krajina.
+183 Spojené kráľovstvo vystúpilo z EÚ 31. januára 2020. Oliver sa z toho stále nedostal.
+184 Tip: Úradné pečiatky lepšie chytajú slabších Euromonov.
+185 Tip: Euromona uspatého Nočným summitom je ľahšie chytiť.
+186 Berlaymont bol odazbestovaný od roku 1991 do 2004. Stavebná porada bola dlhá.
+187 Súdny dvor EÚ sídli v Luxemburgu, na plató Kirchberg.
+188 ECB sídli vo Frankfurte. Jej veža stála viac, než sa plánovalo. Inflácia, zrejme.
+189 Simone Veil bola v roku 1979 prvou predsedníčkou volebne zvoleného Európskeho parlamentu.
+190 Komisia má 27 komisárov: jeden na krajinu. Aj pre rybársku politiku Rakúska.
+191 Tip: stlačením X otvoríš menu.
+192 Dunaj pretína desať krajín. Tvoje topánky iba dve.
+193 V Deň Európy sa objavuje vzácny Euromon. Skús to 9. mája!
+194 Preklady EÚ predstavujú milióny strán za rok.
+195 Európska hymna je Óda na radosť od Beethovena, bez úradného textu.
+196 Tip: útoky typu Právny sú veľmi účinné proti typu Lobby.
+197 Tip: Veto zablokuje útok, ale nie vašu odhodlanosť.
+198 Brexit trval tak dlho, že vznikol výraz „Brextension“.
+199 V každom členskom štáte existuje styčná kancelária Parlamentu.
+200 Tip: hovor s každým. Aj s holubom z Place Lux.
+201 Dánsko má výjimku z eura. Necháva si svoju korunu aj svojich vikingov.
+202 Načítavanie 27 národných stanovísk… 26 z 27… Čaká sa na Maďarsko.
+203 Vedeli ste, že?
+204 Načítava sa…
+205 Tím
+206 Taška
+207 Mapa
+208 Správa
+209 Možnosti
+210 %lu h %02lu
+211 HP
+212 K.O.
+213 Úr.%d   č.%03d
+214 Exp.
+215 Ďalej
+216 B: späť
+217 Vymeniť s…?
+218 A: vybrať   B: späť
+219 Prehľad
+220 Presunúť
+221 Liečenie
+222 Pečiatky
+223 Boj
+224 Kľúče
+225 Divokí Euromoni vás na chvíľu nechajú na pokoji.
+226 PP %s sú obnovené.
+227 Nemá to žiadny účinok.
+228 Teraz nie je čas na to, aby ste to použili.
+229 ×%d
+230 (prázdne)
+231 Použiť
+232 č.%03d  %s
+233 Chyť tohto Euromona, aby si si mohol prečítať jeho profil.
+234 EURODEX   Videných: %d   Chytených: %d
+235 Nebolo zistené žiadne úložisko pre uloženie.\fNa DS (DS Pico, R4…) spustite hru z SD karty. Na emulátore aktivujte DLDI / SD kartu, alebo použite ukladanie stavu (save state).
+236 Napísať správu o priebehu (pozícia %d)?
+237 Uložiť
+238 Iná pozícia…
+239 Zrušiť
+240 Správa odoslaná v 24 jazykoch. Hra uložená (pozícia %d)!
+241 Zápis na SD kartu zlyhal. Skúste znova.
+242 Nastavenia
+243 Zdroje faktov
+244 Späť na titulku
+245 Vrátiť sa na titulnú obrazovku? Čo nie je uložené, sa stratí.
+246 ◀  × %d  ▶
+247 Celkom: %d €
+248 A: potvrdiť   B: zrušiť
+249 Kúpiť
+250 Predať
+251 Dovidenia
+252 Predavač
+253 Vitajte v obchode Parlamentária! Všetko garantovane zodpovedá normám CE.
+254 Váš rozpočet: %lu €
+255 V taške máte: %d
+256 Zdá sa, že váš rozpočet je… pod výdavkovým stropom.
+257 Ďakujem! A tu máte Super pečiatku ako darček za hromadný nákup!
+258 Ďakujeme za nákup! Faktúra v troch vyhotoveniach.
+259 Toto? To sa nepredáva, je to predmet strategického významu!
+260 Dohoda uzavretá!
+261 Dovidenia! Nezabudnite: nabíjačka USB-C sa predáva samostatne.
+262 TÍM → ARCHÍV (%d/%d)
+263 ARCHÍV → TÍM (%d/%d)
+264 ◀▶ strana   A: presunúť   B: koniec
+265 {P} zapína terminál Archívu. „Vitajte v systéme správy dokumentov.“
+266 V tíme musí zostať aspoň jeden Euromon!
+267 Tím je plný (maximálne 6 Euromonov).
+268 Rescript
+269 Euro
+270 Hemicyklus
+271 OXI
+272 Článok 50
+273 Veto
+274 Pokuta
+275 Sorbonna
+276 Jean-Claude Juncker, Luxemburg
+277 Christine Lagarde, Frankfurt
+278 Roberta Metsola, Štrasburg
+279 Yanis Varoufakis, Atény
+280 Farage & Johnson, Londýn
+281 Viktor Orbán, Budapešť
+282 Margrethe Vestager, Brusel
+283 Emmanuel Macron, Paríž
+284 PUZDRO NA ODZNAKY ZMLÚV
+285 získaný
+286 na získanie
+287 Odznak %s — udelil: %s.
+288 Čo? %s sa vyvíja!
+289 Reformu ste odložili. %s sa nevyvinul.
+290 Gratulujeme! %s sa vyvinul na %s!
+291 Čas: %d s
+292 Skóre: %d / %d
+293 Minihra
+294 Hlasovanie v pléne
+295 Poslanci prichádzajú do hemicyklu! Dotkni sa každého sedadla, ktoré sa rozsvieti nažlto, skôr než zhasne. 25 hlasov za 30 sekúnd!
+296 Predsedníctvo
+297 Dotýkaj sa žltých sedadiel!
+298 Schválené veľkou väčšinou! Potlesk zo všetkých lavíc.
+299 Kvórum nebolo dosiahnuté. Schôdza sa prerušuje…
+300 Pečiatka
+301 Na stole sa posúvajú dokumenty. Dotkni sa každého z nich, aby si ho opečiatkoval, skôr než zmizne z obrazovky. 15 dokumentov!
+302 Dotýkaj sa dokumentov a opečiatkuj ich
+303 Všetky dokumenty sú opečiatkované! Administratíva je na vás hrdá.
+304 Niektoré dokumenty odišli bez pečiatky. Budú musieť celý kolobeh zopakovať…
+305 Cookie lišty
+306 Cookie lišty zaplavujú obrazovku! Na každej z nich klikni na „Odmietnuť“. Ak sa nahromadí šesť líšt, je koniec. Vydrž 25 sekúnd!
+307 (nejaká webová stránka)
+308 Rešpektujeme
+309 vaše súkromie
+310 Prijať
+311 Odmietnuť
+312 Odmietni všetko! (neklikaj na Prijať)
+313 Všetky cookies odmietnuté! GDPR je na vás hrdé.
+314 Lišty vás zavalili… Prijali ste 437 reklamných partnerov.
+315 Nočný summit
+316 Sú 3 hodiny ráno a 27 hláv štátov zaspáva! Fúkni do mikrofónu (alebo sa dotkni spiacej hlavy), aby sa zobudili. 27 zobudení pred svitaním!
+317 %d h %02d
+318 Fúkaj / dotýkaj sa spiacej hlavy!
+319 Všetci hore! Dohoda nájdená o 4:37. Ako vždy.
+320 Slnko vychádza nad stolom spiacich lídrov. Summit sa odkladá.
+321 Kufre do Strasburgu
+322 Nalož kufre poslancov do vlaku v poradí: 1, 2, 3… až 10. Máš 30 sekúnd!
+323 Nástupište — TGV Strasburg ⇄ Brusel
+324 Kufre
+325 Dotýkaj sa kufrov v správnom poradí!
+326 Všetky kufre sú vo vlaku! Zasadnutie môže začať.
+327 Vlak odišiel bez kufrov. Poslanci budú zasadať v pyžame.
+328 Jazyk
+329 Rýchlosť textu
+330 Zvuk textu
+331 Hlasitosť hudby
+332 Animácie boja
+333 Pomalá
+334 Normálna
+335 Rýchla
+336 ↑↓ / stylus: posúvať    B: späť
+337 Tvorcovia
+338 SD karta
+339 kazeta
+340 žiadna
+341 {P} získava %d × %s!
+342 {P} získava: %s!
+343 — Prázdna pozícia —
+344 Eurodex: %d
+345 Pokračovať: vybrať hru
+346 Nová hra: pozícia
+347 Uložiť do…
+348 Táto pozícia už obsahuje uloženú hru. Prepísať ju?
+349 Nová hra
+350 Tvorcovia a zdroje
+351 Hlavné menu
+352 Neoficiálna paródia · v2.0
+353 Stáž tvojho života
+354 STLAČTE START
+355 {P} dostáva %s!
+356 Tím je plný: ide do Archívu.
+357 {P} nemá už žiadneho Euromona schopného debaty…\f{P} sa so sklonenou hlavou poberá bežať do kantíny.
+358 Kuchárka
+359 Tak poď, dobrá káva a ide sa ďalej! Vaši Euromoni sú vo výbornej forme.
+360 Odznak Rescript
+361 Odznak Euro
+362 Odznak Hemicyklu
+363 Odznak OXI
+364 Odznak Článku 50
+365 Odznak Veta
+366 Odznak Pokuty
+367 Odznak Sorbonny
+368 {P} dostáva %s!
+369 Tvoj Eurodex obsahuje %d chytených Euromonov z %d videných.
+371 Je to začiatok! Malé kroky robia veľké únie.
+372 Nie zlé! Postupuješ rýchlejšie než smernica o letnom čase.
+373 Impozantné! Ani Komisia nemá toľko spisov.
+374 Výnimočné! Sám si skutočná inštitúcia.
+375 {P} nachádza: %s!
+376 Doložka o zákaze oslovovania vypršala.
+377 Brusel
+378 Luxemburg
+379 Frankfurt
+380 Štrasburg
+381 Atény
+382 Londýn
+383 Budapešť
+384 Paríž
+385 Antverpy
+386 Varšava
+387 Rím
+388 Maastricht
+389 Lisabon
+390 Pokladník
+391 Momentálne nie je dostupný žiadny cieľ.
+392 Ďalšie destinácie…
+393 Nastupovať! Vlak odchádza… len s niekoľkominútovým oneskorením.
+394 Diplomat
+395 Josep Borrell, bývalý vysoký predstaviteľ, povedal v roku 2022: „Európa je záhrada, zvyšok sveta je džungľa.“ Spôsobilo to… trochu rozruchu.
+397 Šestnásť rokov kancelárkou. Stovky summitov. V roku 2015 som povedala: „Wir schaffen das“ — zvládneme to.
+398 Ale vy, zvládnete to? Som prvou členkou Rady. Nikto neprejde bez kompromisu.
+399 Wir haben es geschafft. Môžete prejsť. Mario vás čaká… so správou na 400 stranách.
+401 Júl 2012, Londýn. Povedal som tri slová: „Whatever it takes“. Euro bolo zachránené. Trhy sa upokojili.
+402 V roku 2024 moja správa o konkurencieschopnosti požadovala až 800 miliárd investícií ročne. Investujte do tejto debaty.
+403 Urobili ste všetko, čo bolo treba. Čaká vás Kaja Kallas. Je… veľmi priama.
+405 Vysoká predstaviteľka pre zahraničné veci od decembra 2024. Bývalá predsedníčka vlády Estónska.
+406 Svet je nebezpečný. Musím vedieť, či obstojíte proti veľkým mocnostiam. Ukážte mi to.
+407 Silné. Budete to potrebovať. Čaká vás predseda Costa. Dúfa, že skončí pred polnocou.
+409 Predseda Európskej rady od decembra 2024! Je 23:54. Ak skončíme pred polnocou, bude to historické prvenstvo.
+410 Ale najprv: všetky hlavy štátov zaspali okolo stola. Pomôžte mi ich zobudiť! Fúkajte do mikrofónu… alebo ťukajte na obrazovku!
+411 Je… 4:37. Dobre. Ako vždy. Tak debatujme.
+412 Európska rada jednohlasne schvaľuje vašu kandidatúru! Teda… jednohlasne, minus jedna konštruktívna abstencia.
+413 Predsedníčka Komisie vás čaká na 13. poschodí Berlaymontu. Je to posledný krok pred smernicou.
+415 Á, dobrý deň. Som Charles Michel, bývalý predseda Európskej rady. Len tak… sedím. Na jedinej stoličke.
+416 V Ankare, v apríli 2021, som si sadol do kresla. Ursula skončila na gauči. Nazvali to „Sofagate“. Nikdy som sa z toho naozaj nedostal.
+418 Vitajte na 13. poschodí. Áno, bývam tu: vedľa mojej kancelárie je malá spálňa. Je to praktické pri naliehavých spisoch.
+419 Predsedníčka Komisie od roku 2019, znovu zvolená v roku 2024. Zelená dohoda, kríza okolo Covidu, vakcíny…
+420 SMS-ky so šéfom Pfizeru? V máji 2025 Súd EÚ zrušil naše odmietnutie ich poskytnúť New York Times. No. Poďme ďalej.
+421 Chcete smernicu o letnom čase? Poraz ma. Team Europe, na konci zostane len jeden.
+422 Výnimočné. Ste najlepší stážista v histórii Komisie. Tu je… smernica o zrušení zmeny času.
+423 Zostáva ju už len podpísať. Formalita! Stačí len, aby…
+424 Veľké mocnosti čakajú! Antverpy, Varšava, Pireus… Nastúpte na vlak.
+425 Zachránili ste Európu. A smernica je… vo výbore. Ako vždy. Ďakujem za všetko, {P}.
+426 BÍP BÍP BÍP! Tri naliehavé správy prichádzajú naraz na všetky telefóny v Berlaymonte.
+428 HELLO EUROPE! Mám malú žiadosť. Celkom malú. Dávam clá na všetko. A chcel by som kúpiť Grónsko. Predáva sa, nie?
+429 Druhá správa, z Východu: „Plynový kohútik je zatvorený. Pre vaše dobro.“ Podpísané: V. P.
+430 Tretia správa, veľmi slušná: „Zastavujeme export vzácnych zemín. Vaše telefóny budú fungovať… menej.“ Podpísané: X. J.
+431 {P}, smernica počká. Veľké mocnosti chcú Európu dostať na kolená. Musíme ich navštíviť. Všetky tri.
+432 Prístav Antverpy, Varšava a prístav Pireus v Aténach. Stanice sú vám otvorené. Team Europe sa spolieha na vás!
+434 Som generálny sekretár NATO. Na samite v Haagu, v júni 2025, sme sa zaviazali zvýšiť výdavky na obranu na 5 % HDP do roku 2035.
+435 A nazval som Donalda „oteckom“. Dobre, bolo to len prirovnanie. Veľmi sa mu to páčilo. Poďte, je na greene.
+437 Vo februári 2025, na Mníchovskej konferencii, som Európanom vysvetlil, čo je demokracia. Boli… prekvapení.
+438 TOTO JE NAJKRAJŠIE GOLFOVÉ IHRISKO NA SVETE. Práve som ho kúpil. Teda, myslím. Možno aj prístav.
+439 2. apríla 2025, Liberation Day! Vytiahol som veľkú tabuľu s clami pre VŠETKÝCH. Aj pre ostrovy, kde žijú len tučniaky.
+440 V júli 2025, na mojom golfovom ihrisku v Turnberry, sme s Ursulou uzavreli dohodu: 15 %. Ale môžem zmeniť názor. Mením názor často. To je stratégia.
+441 A Grónsko! Je veľké, je biele, je nádherné. Dánsko ho nechce predať. VEĽMI NESPRAVODLIVÉ. Debatujeme, a ak vyhrám, kúpim ho!
+442 Bolo to podvod. Úplný podvod. Dobre. Zostáva 15 %. A Grónsko ostáva dánske. Zatiaľ. Dnes večer niečo napostujem veľkými písmenami.
+444 Vitajte vo Varšave. Predseda vlády Poľska, bývalý predseda Európskej rady. Tu vieme, akú cenu má sloboda.
+445 Volodymyr Zelenskyj
+446 Od februára 2022 moja krajina odoláva ruskej invázii. Ďakujem Európe za jej podporu. Palác je tam hore: buďte opatrní.
+447 Vezmite si túto súpravu REPowerEU: Európa sa naučila zaobísť sa bez ruského plynu. Budete ju potrebovať, aby ste sa tam zohriali.
+448 Vladimir Putin
+449 Sadnite si. Nie… ďalej. Tak. Vo februári 2022 som na tejto vzdialenosti prijímal prezidentov. Je to… pohodlnejšie.
+450 Plyn? Zatvoril som kohútik. Voľby? V decembri 2024 rumunský Ústavný súd zrušil prezidentské voľby pre podozrenie z vplyvu. Nevidím dôvod, o čom hovoríte.
+451 Tu budú vaše argumenty potrebovať celé kolo, aby doputovali na druhý koniec stola. Začnime.
+452 …Vaša súprava REPowerEU je účinná. Vydieranie už nefunguje. Odíďte, skôr než stôl skrátim.
+453 Strážnik
+454 Tieto dve pandy požičala Čína jednej európskej zoo. Volá sa to „diplomacia pandy“. Zjedia 40 kg bambusu denne. Pandy, nie diplomati.
+456 Vitajte. Európska únia nás od roku 2019 označuje za partnera, konkurenta a systémového rivala. Aj ja som všetky tri.
+457 Vy zdaňujete naše elektromobily — až do výšky 35 % od októbra 2024. My zdaňujeme váš koňak. A dohliadame na naše vzácne zeminy. Je to vyvážené.
+458 V tejto debate môj Euromon zmení typ každé kolo: partner, konkurent, rival. Šťastie pri sledovaní.
+459 Hmm. Partner, ktorý si zaslúži rešpekt. Vzácne zeminy sa znova vydajú na cestu. Pandy ostávajú, sú veľmi populárne.
+460 Žltý medvedík prechádza za kontajnerom. Zobrazí sa tabuľa: „Obsah nie je vo vašom regióne k dispozícii.“
+461 Správa od predsedníčky: „Tri veľké mocnosti žiadajú summit. Hneď teraz. Summit G-Všetko. Posielam vás tam.“
+462 TO JA SOM MAL NÁPAD NA TENTO SUMMIT.
+463 Stôl je príliš krátky.
+464 Všetci sme partneri. A rivali.
+465 Dobre, začneme? Ja prvý. Všetci hovoria, že som na začínanie najlepší.
+466 Navrhujeme začať… po dôkladnom zvážení. O päťdesiat rokov.
+467 Prečo je Európa za stolom? Mala byť na vyklápacej sedačke.
+468 VYKLÁPACIA SEDAČKA, TO JE TREMENDOUS. Predávam ich.
+469 Všetci hovoria naraz. Tlmočníci to vzdávajú. Zostáva len jedno riešenie: debata.
+470 V sále je ticho. Tri veľké mocnosti sa pozerajú na seba… potom na Európu.
+471 Team Europe! Spolu sme silnejší než jednotlivo. To je tak trochu celý príbeh Únie, nie?
+472 Konkrétne výsledky, {P}. Faktická solidarita. Povedal som to v roku 1950. Ty si to dokázal za jednu stáž.
+473 A smernica o zrušení zmeny času? Bola vrátená… do výboru.
+474 Ale to je už iný príbeh.
+475 Dobrodružstvo pokračuje! Nové vlaky teraz obsluhujú Rím, Maastricht a Lisabon. Hovorí sa, že tam spia legendárni Euromoni… A na stanici v Bruseli na vás niekto čaká.
+476 Antická socha na Kapitolskom námestí. 25. marca 1957 tu šesť krajín podpísalo Rímsku zmluvu. Niečo sa hýbe…
+477 Tu, 7. februára 1992, Maastrichtská zmluva zrodila Európsku úniu. Obrovská eurominca začína žiariť…
+478 13. decembra 2007 bola v Kláštore Jerónimov podpísaná Lisabonská zmluva. Blíži sa priesvitná silueta…
+479 V diaľke uniká ďalší Euromon: Constitutio. Zamietnutý v roku 2005, nikdy sa nedá chytiť.
+480 Prvý deň stáže v Európskom parlamente! Profesor Schuman na teba čaká v hale Parlamentu.
+481 Na tvojom počítači je 437 neprečítaných e-mailov. Všetky majú predmet „Koordinačná schôdza o schôdzach“.
+482 Park Leopolda. Pozor: v hromadách zložiek sa skrývajú divokí Euromoni. Nekrmte Amendonov.
+483 Berlaymont — Európska komisia. Vyhradený prístup. 13. poschodie: kancelária (a spálňa) predsedníčky.
+484 „Európa nevznikne naraz, ani jednotnou stavbou: vznikne prostredníctvom konkrétnych výsledkov.“ — Robert Schuman, 9. mája 1950.
+485 Lobista
+486 Dobrý deň! Nerobím lobing. Robím „zdieľanie odborných znalostí“. Slaný koláčik? Je s lososom. Norským.
+487 Turista
+488 Excuse me, kde je Manneken-Pis? Povedali mi, že je väčší… Na tejto ceste mi veľa nahovorili.
+489 Dieťa
+490 Keď budem veľký, budem tlmočníkom! V 24 jazykoch. Alebo hasičom, to je pokojnejšie.
+491 Novinár
+492 Pokrývam Európsku úniu už dvadsať rokov. Môj najobľúbenejší titulok: „Brusel povedal nie.“ Funguje vždy.
+494 Vyhral si… Vraj je smernica o letnom čase blokovaná v Rade od roku 2019. Držím palce, hej.
+495 Bezpečnostný agent
+496 Cesta cez Ardeny? Nie bez Euromona! Divoké zložky sú v tomto rozpočtovom období agresívne.
+497 Stop! Nikto neopustí Brusel bez Euromona. Najprv zájdite za profesorom Schumanom, do Parlamentu.
+498 Strážca
+499 13. poschodie? Hore môžu len tí, ktorí presvedčili Európsku radu. A najprv treba osem odznakov zmlúv.

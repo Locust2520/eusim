@@ -1,0 +1,254 @@
+# Lietuvių — ids 1500-1751
+1500 Priėjimo ženklelis
+1501 Atveria Parlamento duris. Spalva: stažuotojas.
+1502 OLAF ženklelis
+1503 Leidžia matyti vaiduoklius padėjėjus.
+1504 Europos pasas
+1505 Bordo spalvos, 32 puslapiai, atveria visas sienas.
+1506 Interrail bilietas
+1507 Keliaukite traukiniu visoje Europoje.
+1508 REPowerEU rinkinys
+1509 Kad vėl įjungtumėte šildymą, kai dujos išjungtos.
+1510 Konjakas
+1511 Vertingas butelis. Apmuitintas nuo 2024 m…
+1512 Valgyklos kortelė
+1513 Likutis: 3,40 €. Pakanka kavai.
+1514 Laiko direktyva
+1515 Direktyva dėl laiko keitimo atšaukimo (2019 m.).
+1516 Lagaminas iš Briuselis–Strasbūras persikraustymo.
+1517 Ženklelių dėklas
+1518 Saugo sutarčių ženklelius.
+1519 Ei, naujoke! Čia visa sprendžiama debatu. Parodyk, ko esi vertas!
+1520 Argh… Turėjau perskaityti savo santraukos pastabas.
+1521 Ha! Grįžk prie kopijavimo aparato!
+1522 Varžovas
+1523 Tai, {P}, patikrinsime savo Euromonus? Mine is obviously better.
+1524 What?! Tai buvo tiesiog sėkmė!
+1525 Easy. Kaip ir tikėjausi.
+1526 {P}! Jau turi ženklelį? Nieko, aš dėl to pasirūpinsiu, kad gailėtumeisi.
+1527 Not again… Gerai, Frankfurte pamatysi.
+1528 Ha! Liuksemburgas man tinka.
+1529 Ką tik apsilankiau ECB. Visiškai supratau monetarinę politiką. Beveik visą.
+1530 Bloody hell… Tu tikrai greitai pažengi, {P}.
+1531 Kaip sakoma City rajone: time is money.
+1532 {P}… tai mūsų paskutinis debatas. Po jo grįžtu į Londoną. Visam laikui. Nagi, one last time!
+1533 Good game, {P}. Bent jau pasitraukiu su stilium.
+1534 Pasitraukiu pergalės fone. Tai bent kažkas.
+1535 {P}! I'm back. Na… prašau sugrįžti. Rejoin? Bet pirma – debatas, garbės dėlei!
+1536 Gerai. Pildau narystės formuliarą. Jame 35 skyriai…
+1537 Ha! Kaip ir manyta, išstojimas stiprina. Arba ne.
+1538 Aš taip pat stažuotoja! Nemokama, kaip ir tu. Debatuokime, tai nuramina.
+1539 Nu… grįžtu kopijuoti dokumentus.
+1540 Stop! Ar jūsų A-38 kelionės formuliaras patvirtintas?
+1541 Gerai, patvirtinsiu. Bet trimis egzemplioriais.
+1542 Ūkininkas
+1543 BŽŪP – tai mano gyvenimas! O mano traktorius – mano šeima. Nagi, debatuojame!
+1544 Teks apie tai papasakoti profesinei sąjungai…
+1545 Privatus bankininkas
+1546 Sveiki atvykę į Liuksemburgą. Absoliutus diskretiškumas. Šio debato niekada nebuvo.
+1547 Šio debato tikrai niekada nebuvo.
+1548 Mokesčių konsultantas
+1549 Mokesčių sprendimas? Parašysiu jums per penkias minutes. Bet pirma – debatas.
+1550 Mano schemos… sugriuvo!
+1551 Arenos čempionas
+1552 Ak, jaunas stažuotojas! Eikš, eikš, patapšnosiu per skruostą. Tada debatuojame, kaip senais Eurogrupės laikais.
+1553 Bravo! Nusipelnei Reskripto ženklelio. Ir tai, žinok, nekonfidencialu!
+1554 Nagi, nedaryk tokio veido, juokauju… pusiau.
+1555 Važinėju Mozeliu dviračiu! Ir debatuoju per tarptinklinį ryšį, nemokamai!
+1556 Net be itinerancijos mokesčių viską pralaimėjau.
+1557 Analitikas
+1558 Rinkos prognozuoja mano pergalę su 87 % tikimybe.
+1559 Rinkos suklydo. Kaip visada.
+1560 Vyndarys
+1561 Mano kremantas – AOP. Mano Euromonai taip pat. Ar beveik.
+1562 Gerai, vis tiek pavaišinsiu taurele.
+1563 Pirk žemai, parduok aukštai, debatuok stipriai!
+1564 Krachas! Esu be padengimo!
+1565 Pagal mano modelį, jūs pralaimite. Mano modelis niekada neklysta. Nebent 2008 m.
+1566 Teks peržiūrėti savo prognozes.
+1567 Arenos čempionė
+1568 Sveiki atvykę į Europos centrinį banką. Čia nustatau normas… ir debato ritmą. Mano atakos priklauso nuo šios dienos bazinės normos!
+1569 Puiku. Nusipelnėte Euro ženklelio. Ir nesijaudinkite: nesu čia, kad mažinčiau jūsų spreadą.
+1570 Kainų stabilumas yra ir pergalių stabilumas.
+1571 Klimato aktyvistė
+1572 Kiekvienas pralaimėtas debatas – dar vienas laipsnis! Nagi!
+1573 Gerai, bent tai buvo neutralu anglies dioksido atžvilgiu.
+1574 Išskirtinė žinia! „Stažuotojas gėdingai pralaimi“!
+1575 Keičiu antraštę: „Stažuotojas gėdingai gerai laimi“.
+1576 Vynuogininkas
+1577 Reinas – tai siena? Ne, tai vynas iš abiejų pusių! Po debato – gurkšnis.
+1578 Į sveikatą bet kokiu atveju!
+1579 Šįryt pateikiau 2000 pataisų. Pirmoji susijusi su jumis.
+1580 Mano pataisos atmestos iš karto…
+1581 Sesija vyksta Strasbūre, lagaminai atvyko, debatuojame!
+1582 Vykstu atgal į Briuselį. Su savo lagaminais.
+1583 Tylos hemicikle! Posėdis atidarytas. Duodu žodį… jums. Tada jį atimu.
+1584 Priimta! Hemiciklo ženklelis jums skirtas absoliučia dauguma.
+1585 Posėdis uždarytas. Sugrįžkite kitai sesijai.
+1586 Skola – kaip musaka: sunkiai virškinama.
+1587 OXI šiam pralaimėjimui!
+1588 Sąskaitų patikra! Jūsų Euromonai leidžia per daug.
+1589 Patikros ataskaita: nepalanki.
+1590 Tarptautinis valiutos fondas rekomenduoja… jūsų pralaimėjimą.
+1591 Mūsų prognozių peržiūra: mažinant.
+1592 Atvažiavau motociklu, be kaklaraiščio. Kaip 2015 m. prieš Eurogrupę. Debatuojame, ir balsuojame: OXI ar NAI?
+1593 OXI… atleiskite, NAI: tu laimėjai. Imk OXI ženklelį, drauge.
+1594 Tauta prabilo. O tauta – tai aš.
+1595 Tabloidas
+1596 ANTRAŠTĖ: „Briuselis norinori uždrausti kreivus bananus“! Netiesa? Nesvarbu, taip pardavimai didėja.
+1597 Rytoj antraštėje: „Istorinis pralaimėjimas“.
+1598 Ex-ministras pirmininkas
+1599 Hello! Buvau korespondentas Briuselyje, žinote. Rašiau… daugmaž tikrus dalykus. Get debate done!
+1600 Crikey. Gerai, vis tiek turėjau kitą straipsnį apie tiesius agurkus.
+1601 Dabar jau nebesijuokiate, ar ne? Sveiki atvykę į pubą. Debatas, pinta, ir 50 straipsnis.
+1602 Gerai. Imk 50 straipsnio ženklelį. Mums jo daugiau nebereikia.
+1603 Take back control! Bent debato prasme.
+1604 Pasieniečiai
+1605 Kontrolė! Ar jūsų Euromonas turi vizą?
+1606 Praeikite. Bet pažymėsiu.
+1607 Patarėjas
+1608 Ministras pirmininkas nieko nepriima. Nebent tie, kas mane nugali. Ir tai niekada neatsitinka.
+1609 Tai ką tik atsitiko.
+1610 Norite mano sutikimo? Reikalingas vienbalsiškumas. O aš niekada nesutinku. Dėmesio: galiu dėti savo VETO kiekvieną eilę.
+1611 Gerai… Eisiu gerti kavos. Tuo tarpu imkite šį Veto ženklelį. Oficialiai – aš susilaikiau.
+1612 Veto! Veto! Ir vėl veto!
+1613 Team Lobby
+1614 Neturite priėjimo ženklelio? Puiku, mes taip pat neturime.
+1615 Teks paskelbti šį susitikimą skaidrumo registre…
+1616 Mūsų algoritmas prognozavo jūsų pralaimėjimą. Priimti slapukus?
+1617 Klaida 403: pralaimėjimas.
+1618 Mažas lagaminas už jūsų balsą? Ne? Tada debatas.
+1619 Niekada nieko niekam nedaviau. Užrašykite tai.
+1620 Team Lobby vadovas
+1621 Sveiki atvykę į valdžios širdį, stažuotojau. Čia mes nerašome įstatymų: mes juos „pasiūlome“. O tu pasirašysi mano pasiūlymą.
+1622 Neįmanoma… Paprastas, nemokamas stažuotojas… nugalėjo lobistus. Pasitraukiu. Į privatų sektorių. Ak, jau esu ten.
+1623 Dėkoju už šį įnašą į mūsų viešas konsultacijas.
+1624 Advokatas
+1625 Mano klientas kvestionuoja 4,34 milijardo baudą. Ir šį debatą.
+1626 Paduosime apeliaciją.
+1627 Teisininkas
+1628 Dominuojančios padėties piktnaudžiavimas? Aš? Aš tiesiog dominuoju.
+1629 Bauda priimta…
+1630 Google, Apple… uždėjau milijardines baudas. Ar jūsų komanda gerbia konkurencijos taisykles? Patikrinkime.
+1631 Piktnaudžiavimo dominuojančia padėtimi nenustatyta. Baudos ženklelis jums.
+1632 Bauda! 4 % jūsų apyvartos.
+1633 Hū… Dirbu čia… nuo 2009 m… na, ant popieriaus…
+1634 Grįžtu… prie savo… fiktyvios sutarties…
+1635 Fiktyvių darbų dvasia
+1636 ESU… VISŲ SUTARČIŲ, KURIOS NIEKADA NETURĖJO KABINETO, SUMA…
+1637 Mano… darbo užmokesčio lapeliai… nyksta…
+1638 Aukštas valdininkas
+1639 Baigiau ENA. Na, INSP. Trumpai, žinau visa.
+1640 Parašysiu pastabą apie šį pralaimėjimą.
+1641 Ministras
+1642 Esu ministras nuo… šio rytmečio. Debatuokime prieš kitą pertvarką.
+1643 Pertvarkytas!
+1644 Sveiki atvykę į Sorboną! Čia kalbėjau apie suverenią Europą 2017 m… ir 2024 m. Kalbėsiu dvi valandas. Ir tuo pačiu metu – debatuosime.
+1645 Puiku! Jūs esate strateginės autonomijos įsikūnijimas. Imkite Sorbonos ženklelį… ir tuo pačiu metu – mano sveikinimus.
+1646 Paleidžiu… jūsų komandą!
+1647 Europos Vadovų Taryba
+1648 Wir schaffen das. Kartu susitvarkysime. Bet pirma turite mane nugalėti. Neskubėkite: turiu šešiolikos metų patirtį.
+1649 Jums pavyko. Wir haben es geschafft.
+1650 Padarysiu visa, kas būtina, kad laimėčiau šį debatą. Whatever it takes. Ir patikėkite: tai bus pakankamai.
+1651 Mano ataskaita siūlė 800 milijardų investicijų per metus. Investuokite jas į savo komandą.
+1652 Vyriausioji įgaliotinė užsienio reikalams. Mano diplomatija yra tvirta. Mano baltijos skydas – taip pat.
+1653 Aiški pergalė. Europai reikės žmonių kaip jūs, prieš likusį pasaulį.
+1654 Europos Vadovų Tarybos pirmininkas
+1655 Dabar 23:59. Mano tikslas: baigti šį viršūnių susitikimą prieš vidurnaktį. Pirmą kartą istorijoje!
+1656 Dabar… 4:37 ryto. Kaip visada. Sveikinu, galite kilti į Berlaymont.
+1657 Komisijos pirmininkė
+1658 Sveiki atvykę į Berlaymont 13-ą aukštą. Taip, aš čia gyvenu: turiu kambarelį prie kabineto. Pažiūrėkime, ar nusipelnėte direktyvos.
+1659 Team Europe… Jūs esate geriausias stažuotojas, kurį Komisija kada nors turėjo. Laiko direktyva jūsų!
+1660 Jums parašysiu SMS. Arba gal ne.
+1661 Viceprezidentas
+1662 Atvykau į Miuncheną paaiškinti jums demokratijos. Dabar atvykau į Antverpeną paaiškinti jums debato.
+1663 Gerai. Grįžtu rašyti kalbą.
+1664 Amerikos prezidentas
+1665 TREMENDOUS! Geriausias debatas visų laikų, visi tai sako. Uždedu 200 % muitą jūsų Euromonams. Galbūt 15. Pažiūrėsime.
+1666 C'ÉTAIT TRUQUÉ! Gerai… padarykime sandėrį. 15 %. Tai mano galutinis žodis. Šiandien.
+1667 Aš laimėjau! Kaip visada! Niekas nelaimi geriau nei aš.
+1668 Rusijos prezidentas
+1669 Sėskitės. Ne, toliau. Vis dar toliau. Taip. Šešių metrų atstumu pokalbis… strategiškesnis. Jūsų atakoms reikės eilės, kol pasieks.
+1670 Dujos… užsuktos… iš mano pusės. Įdomu.
+1671 Žiema ateina. Jums.
+1672 Kinijos prezidentas
+1673 Sveiki atvykę. Mes esame partneriai. Ir konkurentai. Ir sisteminiai varžovai. Viskas priklauso nuo eilės.
+1674 Hmm. Partneris, vertas pagarbos. Atšaukiu retųjų žemių kontrolę… kol kas.
+1675 Turinys neprieinamas jūsų regione.
+1676 G-Viskas viršūnių susitikimas
+1677 PIRMA AŠ. Viršūnių susitikimas – mano idėja. Na, atrodo, kad mano.
+1678 Sad!
+1679 Man labiau patiko ilgas stalas.
+1680 Paskutinis žodis bus… sisteminis.
+1681 Pasikalbėsime po penkiasdešimties metų.
+1682 Antverpeno uostas – Laisvės golfo aikštelė
+1683 Atėnai – Plaka
+1684 Berlaymont – 13-as aukštas
+1685 Parduotuvė – Atėnai
+1686 Parduotuvė – Budapeštas
+1687 Parduotuvė – Briuselis
+1688 Parduotuvė – Frankfurtas
+1689 Parduotuvė – Londonas
+1690 Parduotuvė – Liuksemburgas
+1691 Parduotuvė – Paryžius
+1692 Parduotuvė – Strasbūras
+1693 Briuselis – Europos kvartalas
+1694 Budapeštas – Dunojaus pakrantė
+1695 Valgykla – Atėnai
+1696 Valgykla – Budapeštas
+1697 Valgykla – Briuselis
+1698 Valgykla – Frankfurtas
+1699 Valgykla – Londonas
+1700 Valgykla – Liuksemburgas
+1701 Valgykla – Paryžius
+1702 Valgykla – Strasbūras
+1703 ES Teisingumo Teismas
+1704 Pastatas Europa – Europos Vadovų Taryba
+1705 Frankfurtas – Bankų kvartalas
+1706 Stotis – Antverpenas
+1707 Stotis – Atėnai
+1708 Stotis – Budapeštas
+1709 Stotis – Briuselis-Liuksemburgas
+1710 Stotis – Frankfurtas
+1711 Stotis – Lisabona
+1712 Stotis – Londonas
+1713 Stotis – Liuksemburgas
+1714 Stotis – Mastrichtas
+1715 Stotis – Paryžius
+1716 Stotis – Roma
+1717 Stotis – Strasbūras
+1718 Stotis – Varšuva
+1719 Atėnų arena – Amfiteatras
+1720 ECB bokštas – Rinkų salė
+1721 Országház – Veto salė
+1722 Konkurencijos GD – Arena
+1723 Hemiciklas – Plenarinė sesija
+1724 The Brexit Arms – Pubo arena
+1725 Liuksemburgo arena – Reskriptų salė
+1726 Sorbonos didysis amfiteatras
+1727 Lisabona – Jeronimitų vienuolynas
+1728 Team Lobby štabas – Rūsys
+1729 Londonas – Vestminsteris
+1730 Liuksemburgas – Kirchbergo plynaukštė
+1731 Mastrichtas – Myzos pakrantė
+1732 Namai – Frankfurtas
+1733 Namai – Liuksemburgas
+1734 Namai – Strasbūras
+1735 Paryžius – Lotynų kvartalas
+1736 Europos Parlamentas – Fojė
+1737 Pirėjo uostas – Konteinerių terminalas
+1738 Lux aikštė – Kokteilis
+1739 Roma – Kapitolijus
+1740 1-asis kelias — Ardėnų miškas
+1741 2-asis kelias — Mozelio slėnis
+1742 3-iasis kelias — Reino vynuogynai
+1743 Rūmai – Ilgas stalas
+1744 Šengenas – Mozelio pakrantė
+1745 G-Viskas viršūnių susitikimas – Plenarinė salė
+1746 Strasbūras – Europos kvartalas
+1747 Tavo studija (Ixelles)
+1748 Parlamentas – Vaiduoklių sparnas, 1-as aukštas
+1749 Parlamentas – Vaiduoklių sparnas, 2-as aukštas
+1750 Parlamentas – Vaiduoklių sparnas, 3-as aukštas
+1751 Varšuva – Rytų lyguma
+1752 Namai – Mastrichtas

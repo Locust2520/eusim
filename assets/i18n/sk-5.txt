@@ -1,0 +1,39 @@
+# Slovak — completion
+1754 Titulná obrazovka
+1755 Profesor Schuman
+1756 Laboratórium
+1758 Tvoje štúdio
+1761 Kantína
+1763 Obchod
+1764 Stanica
+1766 Na ceste
+1767 Debata: divoký Euromon
+1768 Očný kontakt
+1769 Debata: tréner
+1771 Debata: Oliver
+1773 Víťazstvo
+1774 Víťazstvo (divoký)
+1775 Víťazstvo (tréner)
+1776 Vývoj
+1778 Aréna
+1780 Debata: aréna
+1782 Debata: vedúci arény
+1784 Schengen
+1789 Dovidenia, Oliver
+1791 Team Lobby
+1792 Debata: boss
+1794 Krídlo duchov
+1797 Európska rada
+1799 Debata: Rada
+1802 Debata: Predsedníčka
+1804 Debata: Veľké mocnosti
+1807 Záverečná debata
+1809 Legendárne miesta
+1810 Debata: legendárny
+1812 Záverečná debata (variant)
+1813 Jukebox
+1814 %d z %d skladieb
+1815 Vyber skladbu.
+1816 JUKEBOX
+1817 A: počúvať   B: späť
+1818 Starý jukebox, odpojený od siete. Štítok: „Zapojiť späť po prvom odznaku. — Technická služba“

@@ -1,0 +1,157 @@
+# Lithuanian — computer mini-games
+1928 Prince Mbeki III
+1929 4 mln. € palikimas pasidalyti
+1930 Dyzelio lobistai
+1931 Kvietimas: vakarienė su omarais
+1932 Personalo skyrius
+1933 Koordinacinis susitikimas dėl susitikimų
+1934 SuperPromo
+1935 Jūsų nemokamas telefonas jūsų laukia
+1936 Qatar Events
+1937 Lagaminėlio jums?
+1938 Saugumo bankas
+1939 Patvirtinkite slaptažodį čia
+1940 Newsletter
+1941 47 įdomiausios BDAR naujovės
+1942 Plenarinės sesijos darbotvarkė
+1943 Mama
+1944 Ar Briuselyje gerai valgai?
+1945 Valgykla
+1946 Dienos patiekalas: waterzooi
+1947 Teismo kanceliarija
+1948 Sprendimą įteikti iki vidurdienio
+1949 Komisija
+1950 Rytoj balsavimas dėl biudžeto
+1951 Tavo Eurodex atnaujintas
+1952 Debatai šįvakar? Aš laimėsiu.
+1953 Gautieji
+1954 437 neperskaityti laiškai! Palieskite tikrą laišką, kad jį perskaitytumėte, ir raudoną kryžiuką, kad išmestumėte šlamštą. Sutvarkykite 20, kol dėžutė neperpildyta!
+1955 Skaityti: liesk · Šlamštas: kryžius
+1956 Klaidos: %d / 3
+1957 Dėžutė tuščia! Pirmą kartą nuo 2019-ųjų. Mėgaukitės, ilgai tai netruks.
+1958 Dėžutė perpildyta! Komisijos serveris ką tik nulūžo. Vėl.
+1959 Išmetėte pirmininkės laišką ir atsakėte princui. Pasitaiko ir geriausiems.
+1960 Nuo 2024 m. visi nauji ES parduodami telefonai privalo turėti USB-C jungtį.
+1961 Tiesa: universalaus įkroviklio direktyva taikoma nuo 2024 m. pabaigos.
+1962 ES draudžia prekiauti per daug išlenktais bananais.
+1963 Netiesa: 1994 m. reglamentas skirstė bananus pagal kokybę. Išlenkti tebėra parduodami.
+1964 Europos vėliavoje yra 12 žvaigždžių, nes buvo 12 valstybių narių.
+1965 Netiesa: 12 – tobulumo simbolis. Vėliava sukurta 1955 m., gerokai prieš 12 šalių.
+1966 Europos Parlamentas vieną savaitę per mėnesį posėdžiauja Strasbūre.
+1967 Tiesa: 12 sesijų per metus Strasbūre, su visais lagaminais.
+1968 Europos Komisijos narius tiesiogiai renka piliečiai.
+1969 Netiesa: juos siūlo vyriausybės, o tvirtina Parlamentas.
+1970 Europos Sąjungoje yra 24 oficialiosios kalbos.
+1971 Tiesa: nuo airių iki maltiečių – visi tekstai verčiami į visas 24.
+1972 Visos ES šalys naudoja eurą.
+1973 Netiesa: 2026 m. jį naudoja 21 šalis iš 27. Bulgarija – naujausia narė.
+1974 Tarptinklinio ryšio mokesčiai ES panaikinti 2017 m.
+1975 Tiesa: nuo 2017 m. birželio visur skambinama „kaip namie“.
+1976 Europos himnas – Bethoveno „Odė džiaugsmui“.
+1977 Tiesa: be oficialių žodžių, kad neįsižeistų nė viena kalba.
+1978 Liuksemburgas – mažiausia ES šalis.
+1979 Netiesa: tai Malta, apie 316 km².
+1980 Europos Sąjunga yra gavusi Nobelio taikos premiją.
+1981 Tiesa: 2012 m., už 60 metų taiką ir susitaikymą.
+1982 BDAR saugo asmens duomenis nuo 2018 m.
+1983 Tiesa: taikomas nuo 2018 m. gegužės 25 d. Iš čia ir slapukų juostos…
+1984 ES draudžiama prekiauti kreivais agurkais.
+1985 Netiesa: jų kreivumo norma panaikinta 2009 m.
+1986 Kamšteliai turi likti pritvirtinti prie plastikinių butelių.
+1987 Tiesa: privaloma nuo 2024 m. liepos, kad jie nebeatsidurtų gamtoje.
+1988 Šveicarija yra Europos Sąjungos narė.
+1989 Netiesa: ji yra Šengeno erdvėje, bet ne ES.
+1990 Europos centrinio banko būstinė yra Briuselyje.
+1991 Netiesa: ji yra Frankfurte, Vokietijoje.
+1992 Dezinfo
+1993 Gandai apie Europą sklinda greičiau nei direktyvos! Kiekvienam teiginiui palieskite TIESA arba NETIESA. Reikia 7 teisingų atsakymų iš 10.
+1994 TIESA
+1995 NETIESA
+1996 Tiesa ar ne?
+1997 Klausimas %d / 10
+1998 Teisingai!
+1999 Per vėlu!
+2000 Pro šalį!
+2001 Palieskite ir tęskite
+2002 Bravo! Visos šios melagienos paneigtos. Faktų tikrintojai nori jus įdarbinti.
+2003 Per daug melagienų pasklido… Paskyra „TikraEuropa2027“ gauna 10 000 sekėjų.
+2004 Bulgarų
+2005 Čekų
+2006 Danų
+2007 Vokiečių
+2008 Graikų
+2009 Anglų
+2010 Ispanų
+2011 Estų
+2012 Suomių
+2013 Prancūzų
+2014 Airių
+2015 Kroatų
+2016 Vengrų
+2017 Italų
+2018 Lietuvių
+2019 Latvių
+2020 Maltiečių
+2021 Nyderlandų
+2022 Lenkų
+2023 Portugalų
+2024 Rumunų
+2025 Slovakų
+2026 Slovėnų
+2027 Švedų
+2028 Vertimo tarnyba
+2029 Žinutės plūsta iš visos Europos! Perskaitykite kiekvieną ir nusiųskite į tinkamą vertimo kabiną. 12 žinučių per 45 sekundes. Klaida kainuoja 3 sekundes!
+2030 Vertimo kabinos
+2031 Siųskite žinutę į tinkamą kabiną
+2032 Visos žinutės pasiekė tikslą! Vertimo GD siūlo jums darbą. 24 kalbomis.
+2033 Slovakiška žinutė iškeliavo pas slovėnus… Diplomatinis incidentas šiuo metu verčiamas.
+2034 Energetikos krizė! Kainos šauna į viršų.
+2035 Karantinas: niekas nieko nebeperka.
+2036 Šią naktį priimtas milžiniškas gaivinimo planas!
+2037 Biržos krachas Frankfurte!
+2038 Mikroschemų stygius!
+2039 Namų ūkiai taupo visus pinigus.
+2040 Jūs vadovaujate ECB! Infliacija kyla? Kelkite palūkanas. Krenta? Mažinkite. Laikykite ją žalioje zonoje (apie 2 %) bent pusę laiko. 40 sekundžių!
+2041 Infliacija: %s
+2042 Palūkanos: %s
+2043 Mažinti
+2044 Kelti
+2046 Infliacija suvaldyta! Rinkos ploja, taupytojai miega ramiai.
+2047 Infliacija išslydo iš rankų… Kavos kaina valgykloje ką tik padvigubėjo.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Universalus įkroviklis
+2053 Nuo 2024 m. USB-C privaloma! Palieskite prietaisus, kurie dar turi seną jungtį, kad juos suderintumėte. Tik ne tuos su USB-C! 20 prietaisų per 30 sekundžių.
+2054 Liesk senas jungtis, ne USB-C!
+2055 Visi atitinka! Vienas įkroviklis visiems. Europos laidų stalčiai atsikvepia.
+2056 „Suderinote“ prietaisą, kuris jau turėjo USB-C. Dabar jis turi tris adapterius.
+2057 Per daug senų laidų išvengė direktyvos… Laidų stalčius perpildytas.
+2058 Tavo kompiuteris. Ekrano kampe mirksi 437 neperskaityti laiškai.
+2059 Paštas
+2060 Išjungti
+2061 Pasirodo pranešimas: „Sveikiname su jūsų produktyvumu!“ Po stalu tavęs laukė siuntinys.
+2062 Dėžutė tuščia. Po trijų sekundžių: „Re: Koordinacinis susitikimas dėl susitikimų“.
+2063 Pašto serveris rodo smėlio laikrodį. Turbūt rodys iki rytojaus.
+2064 Spaudos tarnybos kompiuteris. Ekrane: „Dezinfo skyrius – gandų patikrinti: 2 384“.
+2065 Puikus tikrinimo darbas! Spaudos tarnyba dovanoja tau šias ekspertų ataskaitas. Su šaltiniais, beje.
+2066 Visi šiandienos gandai patikrinti. Iki pietų atkeliaus naujų.
+2067 Melagiena ką tik pasidalyta 40 000 kartų. Paneigimas – 12 kartų.
+2068 Vertimo GD terminalas. Mirksi raudona lemputė: „Žinutės laukia nukreipimo“.
+2069 Vertėjai skęsta darbe! Gal gali surūšiuoti žinutes ir nusiųsti jas į tinkamą kabiną?
+2070 Dvidešimt keturios kalbos, nė vienos nukreipimo klaidos! Imk šią adresų knygelę, joje visi Teismo vertėjai.
+2071 Slovėnų kalbą nuo slovakų skiri geriau nei pusė Tarybos.
+2072 Maltiečių žinutė atsidūrė airių kabinoje. Jie vis dar ją aptarinėja. Pamėgink vėl, kai panorėsi.
+2073 Bloomberg terminalas, dar šiltas. Ant lipnaus lapelio: „Tikslas: 2 %. Ne 1,9. Ne 2,1. 2.“
+2074 Perimti euro zonos pinigų politikos vairą?
+2075 Rinkos giria tavo atsargumą. Į tavo sąskaitą krenta stabilumo premija!
+2076 Infliacija 2 %. Kažkur Frankfurte ekonomistas nubraukia džiaugsmo ašarą.
+2077 Terminalas rodo amerikietiškų kalnelių formos grafiką. Niekas nieko nematė. Greitai bandyk iš naujo.
+2078 Europarlamentarės kompiuteris. Ant stalo – 14 skirtingų įkroviklių raizginys.
+2079 Balsavau už USB-C direktyvą! Bet mano kolegos vis dar turi senų prietaisų… Padėsi juos suderinti?
+2080 Vienas įkroviklis visiems! Še, imk šią USB-C atmintinę. Sako, ji priverčia kai kuriuos skaitmeninius Euromonus evoliucionuoti.
+2081 Laidų stalčius pagaliau tuščias. Nebežinau, ką į jį dėti.
+2082 Lightning laidų vis dar visur… Bandysim vėl, kai panorėsi.
+2083 Žalia zona: %d %%
+2084 Tikslas: pusę laiko žaliai
+2085 Dock 30

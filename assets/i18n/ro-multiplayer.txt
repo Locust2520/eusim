@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Dezbatere multiplayer
+2148	Creează o cameră
+2149	Intră într-o cameră
+2150	Joacă cu oricine
+2151	Numele camerei
+2153	PIN (6 cifre)
+2145	Se așteaptă jucători…
+2146	Căutare la fiecare 10 secunde.
+2147	PIN: %s
+2118	Anulează (B)
+2117	Confirmă (A)
+2116	←→: poziție    ↑↓: cifră
+2152	Introdu un nume de cameră.
+2113	Răspuns invalid de la server.
+2135	Cerere de cameră invalidă.
+2136	Acest nume de cameră este deja folosit.
+2137	Camera nu a fost găsită.
+2138	PIN incorect.
+2139	Camera este plină.
+2140	Versiunile jocului diferă.
+2141	Serverul este plin.
+2142	Camera a expirat.
+2143	Schimb de date invalid în dezbatere.
+2144	Serverul a fost oprit.
+2108	Dezbatere anulată.
+2109	Serverul nu răspunde.
+2110	Conexiunea la server s-a întrerupt.
+2111	Celălalt jucător a părăsit dezbaterea.
+2115	Dezbaterile nu sunt sincronizate.
+2114	Se așteaptă celălalt jucător… B: anulează
+2123	Conectare Wi-Fi… B: anulează
+2124	Wi-Fi nu a putut fi pornit.
+2125	Verifică setările Wi-Fi ale consolei.
+2126	Conexiunea nu a putut fi creată.
+2127	Conexiunea nu a putut fi configurată.
+2128	Server inaccesibil.
+2129	Ai nevoie de o echipă pentru dezbatere.

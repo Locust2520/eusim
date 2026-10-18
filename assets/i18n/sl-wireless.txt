@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Spletno
+2165	Brez interneta
+2166	Ustvari lokalno igro
+2167	Pridruži se lokalni igri
+2156	Igre v bližini
+2158	Brez usmerjevalnika ali strežnika.
+2159	Za spremembo načina Wi-Fi znova zaženite igro.
+2163	Način DS: odprto/WEP omrežje. Za WPA2 zaženite igro v načinu DSi.
+2162	DSi Wi-Fi: preverite omrežje WPA2 in nastavitve konzole.
+2160	Povezovanje z DSi Wi-Fi… B: prekliči
+2161	Povezovanje z DS Wi-Fi… B: prekliči
+2154	Konzola se ne odziva.

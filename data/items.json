@@ -1,0 +1,274 @@
+[
+ {
+  "id": "tampon",
+  "name": "Tampon officiel",
+  "kind": "ball",
+  "price": 200,
+  "param": 10,
+  "desc": "Tamponne un Euromon affaibli pour l'enregistrer."
+ },
+ {
+  "id": "super_tampon",
+  "name": "Super Tampon",
+  "kind": "ball",
+  "price": 600,
+  "param": 15,
+  "desc": "Encre renforcée. Plus efficace qu'un tampon simple."
+ },
+ {
+  "id": "tampon_qualifie",
+  "name": "Tampon qualifié",
+  "kind": "ball",
+  "price": 1200,
+  "param": 20,
+  "desc": "Majorité qualifiée : très bonne chance de capture."
+ },
+ {
+  "id": "tampon_unanime",
+  "name": "Tampon unanime",
+  "kind": "ball",
+  "price": 0,
+  "param": 255,
+  "desc": "L'unanimité ! Capture garantie. Extrêmement rare."
+ },
+ {
+  "id": "cafe",
+  "name": "Café cantine",
+  "kind": "heal",
+  "price": 200,
+  "param": 20,
+  "desc": "Restaure 20 PV. Tiède, mais efficace."
+ },
+ {
+  "id": "sandwich",
+  "name": "Sandwich club",
+  "kind": "heal",
+  "price": 500,
+  "param": 50,
+  "desc": "Restaure 50 PV. Le préféré des stagiaires."
+ },
+ {
+  "id": "gaufre",
+  "name": "Gaufre de Bruxelles",
+  "kind": "heal",
+  "price": 900,
+  "param": 120,
+  "desc": "Restaure 120 PV. Sucre glace inclus."
+ },
+ {
+  "id": "kniddelen",
+  "name": "Kniddelen",
+  "kind": "heal",
+  "price": 1500,
+  "param": 200,
+  "desc": "Spécialité luxembourgeoise. Restaure 200 PV."
+ },
+ {
+  "id": "menu_complet",
+  "name": "Menu complet",
+  "kind": "heal",
+  "price": 2500,
+  "param": 999,
+  "desc": "Entrée, plat, dessert : restaure tous les PV."
+ },
+ {
+  "id": "avis_juridique",
+  "name": "Avis juridique",
+  "kind": "status",
+  "price": 300,
+  "param": 0,
+  "desc": "Soigne tous les problèmes de statut."
+ },
+ {
+  "id": "reveil",
+  "name": "Réveil-matin",
+  "kind": "status",
+  "price": 150,
+  "param": 0,
+  "desc": "Réveille un Euromon endormi par un sommet."
+ },
+ {
+  "id": "motion_relance",
+  "name": "Motion de relance",
+  "kind": "revive",
+  "price": 1500,
+  "param": 50,
+  "desc": "Remet un Euromon K.O. en état de débattre."
+ },
+ {
+  "id": "motion_unanime",
+  "name": "Relance unanime",
+  "kind": "revive",
+  "price": 0,
+  "param": 999,
+  "desc": "Ranime un Euromon K.O. avec tous ses PV."
+ },
+ {
+  "id": "pause_syndicale",
+  "name": "Pause syndicale",
+  "kind": "pp",
+  "price": 1200,
+  "param": 0,
+  "desc": "Restaure tous les PP d'un Euromon."
+ },
+ {
+  "id": "x_argument",
+  "name": "Argumentaire",
+  "kind": "battle",
+  "price": 500,
+  "param": 11,
+  "desc": "En combat : augmente l'Argumentation."
+ },
+ {
+  "id": "x_resilience",
+  "name": "Gilet pare-balles",
+  "kind": "battle",
+  "price": 500,
+  "param": 21,
+  "desc": "En combat : augmente la Résilience."
+ },
+ {
+  "id": "x_expertise",
+  "name": "Rapport d'expert",
+  "kind": "battle",
+  "price": 500,
+  "param": 31,
+  "desc": "En combat : augmente l'Expertise."
+ },
+ {
+  "id": "x_diplomatie",
+  "name": "Carnet d'adresses",
+  "kind": "battle",
+  "price": 500,
+  "param": 41,
+  "desc": "En combat : augmente la Diplomatie."
+ },
+ {
+  "id": "x_reactivite",
+  "name": "Double expresso",
+  "kind": "battle",
+  "price": 500,
+  "param": 51,
+  "desc": "En combat : augmente la Réactivité."
+ },
+ {
+  "id": "non_sollicitation",
+  "name": "Non-sollicitation",
+  "kind": "repel",
+  "price": 400,
+  "param": 100,
+  "desc": "Clause anti-démarchage : éloigne les Euromons 100 pas."
+ },
+ {
+  "id": "ratification",
+  "name": "Ratification",
+  "kind": "evo",
+  "price": 2000,
+  "param": 0,
+  "desc": "Fait évoluer certains Euromons. Il faut 27 signatures."
+ },
+ {
+  "id": "pierre_solaire",
+  "name": "Panneau solaire",
+  "kind": "evo",
+  "price": 2000,
+  "param": 0,
+  "desc": "Fait évoluer certains Euromons énergétiques."
+ },
+ {
+  "id": "cle_usb",
+  "name": "Clé USB-C",
+  "kind": "evo",
+  "price": 2000,
+  "param": 0,
+  "desc": "Fait évoluer certains Euromons numériques."
+ },
+ {
+  "id": "eurodex",
+  "name": "Eurodex",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Encyclopédie des Euromons, offerte par Jean Monnet."
+ },
+ {
+  "id": "badge_acces",
+  "name": "Badge d'accès",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Ouvre les portes du Parlement. Couleur : stagiaire."
+ },
+ {
+  "id": "badge_olaf",
+  "name": "Badge OLAF",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Permet de voir les assistants fantômes."
+ },
+ {
+  "id": "passeport",
+  "name": "Passeport européen",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Bordeaux, 32 pages, toutes les frontières s'ouvrent."
+ },
+ {
+  "id": "pass_interrail",
+  "name": "Pass Interrail",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Voyagez en train dans toute l'Europa."
+ },
+ {
+  "id": "repowereu_item",
+  "name": "Kit REPowerEU",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Pour rallumer le chauffage quand le gaz est coupé."
+ },
+ {
+  "id": "cognac",
+  "name": "Cognac",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Une bouteille précieuse. Surtaxée depuis 2024…"
+ },
+ {
+  "id": "carte_cantine",
+  "name": "Carte de cantine",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Crédit : 3,40 €. Suffisant pour un café."
+ },
+ {
+  "id": "directive_heure",
+  "name": "Directive heure",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "La directive sur la fin du changement d'heure (2019)."
+ },
+ {
+  "id": "malle_fer",
+  "name": "Malle en fer",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Une malle du déménagement Bruxelles–Strasbourg."
+ },
+ {
+  "id": "etui_badges",
+  "name": "Étui à badges",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Contient les badges des traités."
+ }
+]

@@ -1,0 +1,48 @@
+; ghost — EU Simulator (original)
+#tempo 84
+
+#instr lead env=100,118,116,110,104,98,94,90 loop=7 rel=7 duty=2 vib=16,5,5
+#instr lead_s env=90,104,100,94,88,84,80 loop=6 rel=6 duty=1 vib=14,4,5
+#instr lead_b env=110,120,116,108,100,94 loop=5 rel=10 duty=2 vib=10,6,6
+#instr pluck env=110,90,72,58,46,36,28,22,18 loop=8 rel=12 duty=1
+#instr harm env=64,60,56,52,50 loop=4 rel=6 duty=1
+#instr pad env=30,40,50,56,60,60 loop=5 rel=4 duty=3 vib=20,3,4
+#instr arpM env=58,52,46,42 loop=3 rel=8 duty=3 arp=0,4,7
+#instr arpm env=58,52,46,42 loop=3 rel=8 duty=3 arp=0,3,7
+#instr arp7 env=58,52,46,42 loop=3 rel=8 duty=3 arp=0,4,10
+#instr arpd env=58,52,46,42 loop=3 rel=8 duty=3 arp=0,3,6
+#instr bass env=127,120,112,104 loop=3 rel=12 wave=0
+#instr bassp env=127,110,90,70,56,46,40 loop=6 rel=14 wave=0
+#instr organ env=80,90,90,86 loop=3 rel=6 wave=3 vib=18,3,5
+#instr piano env=110,96,84,74,66,60,54,50 loop=7 rel=10 wave=5
+#instr kick env=127,90,50,20,0 rel=40 duty=0
+#instr snare env=110,80,50,30,15,0 rel=30
+#instr hat env=44,18,0 rel=50
+#instr crash env=90,80,70,60,50,40,30,20,10 rel=20
+
+#track square 8
+@lead_s v84 q70 o5 l8 L
+e4 r f e d+ e4 | r g f+ e d+2 | c4 r d+ e f+ e4 | d+2 r2 |
+e4 r f e d+ e4 | r b- a g+ g2 | f4 e d+ d c+ c c | < b2 r2 > |
+#track square 10
+v46 q80 o3 l8 L
+@arpm e e e e e e e e |
+@arpd e e e e e e e e |
+@arpM c c c c c c c c |
+@arp7 b b b b b b b b |
+@arpm e e e e e e e e |
+@arpd e e e e e e e e |
+@arpM f f f f f f f f |
+@arp7 b b b b b b b b |
+#track wave 0
+@bassp v118 q70 o2 l4 L
+e r e r |
+e r f r |
+c r c r |
+< b r b r > |
+e r e r |
+e r f r |
+f r f r |
+< b b b b > |
+#track noise 14
+v30 q50 l8 L [ @hat o8 c4 @hat o8 c4 @hat o8 c4 @hat o8 c4 ]8

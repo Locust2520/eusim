@@ -1,0 +1,254 @@
+# Čeština — ids 1500-1751
+1500 Vstupní odznak
+1501 Otevírá dveře Parlamentu. Barva: stážista.
+1502 Odznak OLAF
+1503 Umožňuje vidět duchy asistentů.
+1504 Evropský pas
+1505 Bordó, 32 stran, otevírá všechny hranice.
+1506 Pas Interrail
+1507 Cestujte vlakem po celé Evropě.
+1508 Sada REPowerEU
+1509 Pro znovu zapnutí topení, když je plyn vypnutý.
+1510 Koňak
+1511 Vzácná lahev. Přetížená clem od roku 2024…
+1512 Kantýnová karta
+1513 Kredit: 3,40 €. Dost na kávu.
+1514 Směrnice o čase
+1515 Směrnice o konci střídání letního a zimního času (2019).
+1516 Kufr ze stěhování Brusel–Strasburk.
+1517 Pouzdro na odznaky
+1518 Obsahuje odznaky smluv.
+1519 Hej, nováček! Tady se vše řeší debatou. Ukaž, co umíš!
+1520 Argh… Měl jsem si přečíst svoje shrnutí znovu.
+1521 Ha! Vrať se ke kopírce!
+1522 Rival
+1523 Tak co, {P}, vyzkoušíme naše Euromony? Mine is obviously better.
+1524 What?! To byla jen šťastná náhoda!
+1525 Easy. Jak jsem předpokládal.
+1526 {P}! Ty už máš odznak? Nic se neděje, udělám, že toho budeš litovat.
+1527 Not again… Dobře, ve Frankfurtu uvidíš.
+1528 Ha! Lucembursko mi sedí.
+1529 Právě jsem navštívil ECB. Úplně jsem pochopil měnovou politiku. Skoro úplně.
+1530 Bloody hell… Opravdu se zlepšuješ rychle, {P}.
+1531 Jak se říká ve City: time is money.
+1532 {P}… tohle je naše poslední debata. Pak se vracím do Londýna. Nadobro. No tak, one last time!
+1533 Good game, {P}. Aspoň odcházím se ctí.
+1534 Odcházím s výhrou. To je aspoň něco.
+1535 {P}! I'm back. Totiž… žádám o návrat. Rejoin? Ale nejdřív debata, pro čest!
+1536 Dobře. Vyplňuji přihlášku. Má 35 kapitol…
+1537 Ha! Takže odchod člověka posílí. Nebo ne.
+1538 Já jsem taky stážistka! Bez placení, jako ty. Zadebatujme si, uklidní to.
+1539 No… vracím se ke kopírování.
+1540 Stát! Máte orazítkovaný formulář A-38 pro turistiku?
+1541 Dobře, orazítkuji ho. Ale ve trojím vyhotovení.
+1542 Zemědělec
+1543 SZP, to je můj život! A traktor, to je moje rodina. No tak, debatujeme!
+1544 Budu to muset probrat s odborem…
+1545 Soukromý bankéř
+1546 Vítejte v Lucembursku. Absolutní discrétnost. Tahle debata nikdy neproběhla.
+1547 Tahle debata definitivně nikdy neproběhla.
+1548 Daňový poradce
+1549 Daňový výměr? Napíšu vám ho za pět minut. Ale nejdřív debata.
+1550 Mé konstrukce… zhroucené!
+1551 Šampion arény
+1552 Ach, mladý stážista! Pojď, pojď, ať tě plácnu po tváři. Pak si zadebatujeme, jako za starých dobrých časů Euroskupiny.
+1553 Bravo! Zasloužíš si Odznak Výměr. A ten, to není důvěrné!
+1554 No tak, nedělej ten obličej, dělám si legraci… napolovic.
+1555 Jezdím po Mosele na kole! A debatuji v roamingu, zadarmo!
+1556 I bez poplatků za roaming jsem ztratil všechno.
+1557 Analytik
+1558 Trhy předpovídají mé vítězství na 87 %.
+1559 Trhy se spletly. Jako obvykle.
+1560 Vinař
+1561 Můj crémant má AOP. Moji Euromoni také. Nebo skoro.
+1562 Dobře, přesto vám nabídnu skleničku.
+1563 Kupuj levně, prodávej draze, debatuj tvrdě!
+1564 Krach! Jsem v minusu!
+1565 Podle mého modelu prohráváte. Můj model se nikdy neplete. Kromě roku 2008.
+1566 Budu muset přehodnotit své prognózy.
+1567 Šampionka arény
+1568 Vítejte v Evropské centrální bance. Tady určuji sazby… a tempo debaty. Mé útoky závisí na dnešní klíčové sazbě!
+1569 Skvěle. Zasloužíte si Odznak Euro. A ujišťuji vás: nejsem tu, abych zmenšila váš spread.
+1570 Cenová stabilita, to je taky stabilita vítězství.
+1571 Klimatická aktivistka
+1572 Každá prohraná debata je o stupeň víc! Do toho!
+1573 Dobře, aspoň to bylo uhlíkově neutrální.
+1574 Exkluzivní zpráva! „Stážista žalostně prohrává“!
+1575 Měním titulek: „Stážista žalostně dobře vyhrává“.
+1576 Vinohradník
+1577 Rýn, to je hranice? Ne, to je víno na obou stranách! Přiťukneme si po debatě.
+1578 Na zdraví tak jako tak!
+1579 Dnes ráno jsem podal 2000 pozměňovacích návrhů. První se týká vás.
+1580 Mé pozměňovací návrhy jsou zamítnuty najednou…
+1581 Zasedání se konalo ve Strasburku, naše kufry dorazily, debatujme!
+1582 Vracím se do Bruselu. Se svými kufry.
+1583 Ticho v sále! Zasedání je zahájeno. Dávám slovo… vám. Pak vám ho vezmu zpátky.
+1584 Schváleno! Odznak Hemicykl vám je udělen absolutní většinou.
+1585 Zasedání je ukončeno. Vraťte se na příští sezení.
+1586 Dluh, to je jako moussaka: špatně se tráví.
+1587 OXI téhle prohře!
+1588 Kontrola účtů! Vaši Euromoni utrácí příliš.
+1589 Zpráva o kontrole: nepříznivá.
+1590 Mezinárodní měnový fond doporučuje… vaši porážku.
+1591 Revize našich prognóz: směrem dolů.
+1592 Dorazil jsem na motorce, bez kravaty. Jako v roce 2015 proti Euroskupině. Zadebatujme a hlasujme: OXI nebo NAI?
+1593 OXI… pardon, NAI: vyhrál jsi. Vezmi si Odznak OXI, kamaráde.
+1594 Lid promluvil. A lid, to jsem já.
+1595 Bulvární plátek
+1596 TITULEK: „Brusel chce zakázat křivé banány“! Je to lež? To nevadí, prodává se to.
+1597 Zítřejší titulek: „Historická prohra“.
+1598 Bývalý premiér
+1599 Hello! Byl jsem zpravodajem v Bruselu, víte. Napsal jsem spoustu věcí… víceméně pravdivých. Get debate done!
+1600 Crikey. Dobře, měl jsem ještě jeden článek o rovných okurkách, stejně.
+1601 Teď se nesmějete, že? Vítejte v pubu. Debata, pinta, a Článek 50.
+1602 Dobře. Vezměte si Odznak Článek 50. My ho už nepotřebujeme.
+1603 Take back control! Debaty, tedy.
+1604 Pohraniční stráž
+1605 Kontrola! Má váš Euromon vízum?
+1606 Projděte. Ale zapíšu si to.
+1607 Poradce
+1608 Premiér nikoho nepřijímá. Kromě těch, kdo mě porazí. A to se nikdy nestane.
+1609 Právě se to stalo.
+1610 Chcete můj souhlas? Je potřeba jednomyslnost. A já nikdy nesouhlasím. Pozor: každé kolo můžu vznést své VETO.
+1611 Dobře… Odskočím si na kávu. Mezitím si vezměte Odznak Veto. Úředně jsem se zdržel hlasování.
+1612 Veto! Veto! A znovu veto!
+1613 Team Lobby
+1614 Nemáte vstupní odznak? To se hodí, my taky ne.
+1615 Budu muset nahlásit toto setkání do registru transparentnosti…
+1616 Náš algoritmus předpověděl vaši porážku. Přijmout cookies?
+1617 Chyba 403: prohra.
+1618 Malý kufřík za váš hlas? Ne? Tak debata.
+1619 Já jsem nikdy nikomu nic nedal. Zapište si to.
+1620 Šéf Team Lobby
+1621 Vítejte v srdci moci, stážisto. Tady zákony nepíšeme: „navrhujeme“ je. A ty podepíšeš můj návrh.
+1622 Nemožné… Prostý, neplacený stážista… porazil lobby. Odcházím. Do soukromého sektoru. Ach, tam už jsem.
+1623 Děkuji za tento příspěvek do naší veřejné konzultace.
+1624 Advokát
+1625 Můj klient napadá pokutu 4,34 miliardy. A tuhle debatu.
+1626 Podáme odvolání.
+1627 Právník
+1628 Zneužití dominantního postavení? Já? Jsem jen dominantní.
+1629 Pokuta přijata…
+1630 Google, Apple… uložila jsem miliardové pokuty. Respektuje váš tým pravidla hospodářské soutěže? Zjistíme to.
+1631 Žádné zneužití dominantního postavení nebylo zjištěno. Odznak Pokuta je váš.
+1632 Pokuta! 4 % vašeho obratu.
+1633 Bú… Pracuji tady… od roku 2009… tedy, na papíře…
+1634 Vracím se… ke své… fiktivní smlouvě…
+1635 Duch fiktivních pracovních míst
+1636 JSEM… SUMA VŠECH SMLUV, KTERÉ NIKDY NEMĚLY KANCELÁŘ…
+1637 Mé… výplatní pásky… mizí…
+1638 Vysoký úředník
+1639 Studoval jsem ENA. Totiž INSP. Zkrátka, vím všechno.
+1640 Napíšu si poznámku o tomto neúspěchu.
+1641 Ministr
+1642 Jsem ministrem od… dnešního rána. Zadebatujme před příští obměnou vlády.
+1643 Vyměněn!
+1644 Vítejte na Sorbonně! Tady jsem mluvil o suverénní Evropě v roce 2017… a v roce 2024. Budu k vám mluvit dvě hodiny. A zároveň debatovat.
+1645 Nádherné! Ztělesňujete strategickou autonomii. Vezměte si Odznak Sorbonne… a zároveň mé gratulace.
+1646 Rozpouštím… váš tým!
+1647 Evropská rada
+1648 Wir schaffen das. Společně to zvládneme. Ale nejdřív mě musíte porazit. Nespěchejte: mám šestnáct let zkušeností.
+1649 Dokázali jste to. Wir haben es geschafft.
+1650 Udělám vše, co bude potřeba, abych tuto debatu vyhrála. Whatever it takes. A věřte mi: to bude stačit.
+1651 Moje zpráva doporučovala 800 miliard investic ročně. Investujte je do svého týmu.
+1652 Vysoká představitelka pro zahraniční věci. Moje diplomacie je pevná. Můj baltský štít také.
+1653 Jasné vítězství. Evropa bude potřebovat lidi jako vy proti zbytku světa.
+1654 Předseda Evropské rady
+1655 Je 23:59. Můj cíl: dokončit tento summit před půlnocí. Poprvé v historii!
+1656 Je… 4:37 ráno. Jako obvykle. Bravo, můžete vystoupat do Berlaymontu.
+1657 Předsedkyně Komise
+1658 Vítejte ve třináctém patře Berlaymontu. Bydlím tady, víte: mám pokoj vedle kanceláře. Tak uvidíme, jestli si zasloužíte tu směrnici.
+1659 Team Europe… Jste nejlepší stážista, jakého Komise kdy měla. Směrnice o čase je vaše!
+1660 Pošlu vám SMS. Nebo možná ne.
+1661 Místopředseda
+1662 Přijel jsem do Mnichova vysvětlit vám demokracii. Teď jedu do Antverp vysvětlit vám debatu.
+1663 Dobře. Vracím se psát projev.
+1664 Americký prezident
+1665 TREMENDOUS! Nejkrásnější debata všech dob, to říkají všichni. Dávám 200 % cla na vaše Euromony. Možná 15. Uvidíme.
+1666 BYLO TO PODVOD! Dobře… uzavřeme dohodu. 15 %. To je mé poslední slovo. Na dnešek.
+1667 Vyhrál jsem! Jako vždycky! Nikdo nevyhrává lépe než já.
+1668 Ruský prezident
+1669 Posaďte se. Ne, dál. Ještě dál. Tak. Na šest metrů je konverzace strategičtější… Vaše útoky budou cestovat celé kolo, než dorazí.
+1670 Plyn… je vypnutý… na mé straně. Zajímavé.
+1671 Zima se blíží. Pro vás.
+1672 Čínský prezident
+1673 Vítejte. Jsme partneři. A konkurenti. A systémoví rivalové. Vše závisí na kole.
+1674 Hmm. Partner hodný respektu. Odvolávám kontroly na vzácné zeminy… pro tuto chvíli.
+1675 Obsah není ve vaší oblasti k dispozici.
+1676 Summit G-Všechno
+1677 JÁ PRVNÍ. Summit, to je můj nápad. Tedy, myslím.
+1678 Sad!
+1679 Dával jsem přednost dlouhému stolu.
+1680 Poslední slovo bude… systémové.
+1681 Promluvíme si znovu za padesát let.
+1682 Přístav v Antverpách – Golf svobody
+1683 Atény – Plaka
+1684 Berlaymont – 13. patro
+1685 Obchod – Atény
+1686 Obchod – Budapešť
+1687 Obchod – Brusel
+1688 Obchod – Frankfurt
+1689 Obchod – Londýn
+1690 Obchod – Lucemburk
+1691 Obchod – Paříž
+1692 Obchod – Strasburk
+1693 Brusel – Evropská čtvrť
+1694 Budapešť – Břehy Dunaje
+1695 Kantýna – Atény
+1696 Kantýna – Budapešť
+1697 Kantýna – Brusel
+1698 Kantýna – Frankfurt
+1699 Kantýna – Londýn
+1700 Kantýna – Lucemburk
+1701 Kantýna – Paříž
+1702 Kantýna – Strasburk
+1703 Soudní dvůr EU
+1704 Budova Europa – Evropská rada
+1705 Frankfurt – Bankovní čtvrť
+1706 Nádraží – Antverpy
+1707 Nádraží – Atény
+1708 Nádraží – Budapešť
+1709 Nádraží – Brusel-Lucemburk
+1710 Nádraží – Frankfurt
+1711 Nádraží – Lisabon
+1712 Nádraží – Londýn
+1713 Nádraží – Lucemburk
+1714 Nádraží – Maastricht
+1715 Nádraží – Paříž
+1716 Nádraží – Řím
+1717 Nádraží – Strasburk
+1718 Nádraží – Varšava
+1719 Aréna v Aténách – Amfiteátr
+1720 Věž ECB – Obchodní sál
+1721 Országház – Sál veta
+1722 GŘ pro hospodářskou soutěž – Aréna
+1723 Hemicykl – Plenární zasedání
+1724 The Brexit Arms – Pub-aréna
+1725 Aréna Lucemburku – Sál výměrů
+1726 Velký amfiteátr Sorbonny
+1727 Lisabon – Klášter Jerónimos
+1728 Velitelství Team Lobby – Suterén
+1729 Londýn – Westminster
+1730 Lucemburk – Plošina Kirchberg
+1731 Maastricht – Břehy Mázy
+1732 Dům – Frankfurt
+1733 Dům – Lucemburk
+1734 Dům – Strasburk
+1735 Paříž – Latinská čtvrť
+1736 Evropský parlament – Hala
+1737 Přístav Pireus – Kontejnerový terminál
+1738 Náměstí Lux – Koktejl
+1739 Řím – Kapitol
+1740 Cesta 1 – Ardenský les
+1741 Cesta 2 – Údolí Mosely
+1742 Cesta 3 – Vinice Rýna
+1743 Palác – Dlouhý stůl
+1744 Schengen – Břehy Mosely
+1745 Summit „G-Všechno“ – Plenární sál
+1746 Strasburk – Evropská čtvrť
+1747 Tvůj byt (Ixelles)
+1748 Parlament – Strašidelné křídlo, 1. patro
+1749 Parlament – Strašidelné křídlo, 2. patro
+1750 Parlament – Strašidelné křídlo, 3. patro
+1751 Varšava – Východní pláň
+1752 Dům – Maastricht

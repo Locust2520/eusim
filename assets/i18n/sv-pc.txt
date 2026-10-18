@@ -1,0 +1,157 @@
+# Svenska — computer mini-games
+1928 Prince Mbeki III
+1929 Arv på 4 miljoner € att dela
+1930 Diesellobbyn
+1931 Inbjudan: hummarmiddag
+1932 HR-avdelningen
+1933 Mötessamordningsmöte
+1934 SuperPromo
+1935 Din gratis telefon väntar
+1936 Qatar Events
+1937 En liten resväska åt dig?
+1938 SäkerBank
+1939 Bekräfta ditt lösenord här
+1940 Newsletter
+1941 47 spännande GDPR-nyheter
+1942 Dagordning för plenarsammanträdet
+1943 Mamma
+1944 Äter du bra i Bryssel?
+1945 Matsal
+1946 Dagens meny: waterzooi
+1947 Domstolens kansli
+1948 Dom ska meddelas före kl. 12
+1949 Kommissionen
+1950 Budgetomröstning imorgon
+1951 Din Eurodex har uppdaterats
+1952 Debatt ikväll? Jag tänker vinna.
+1953 Inkorg
+1954 437 olästa mejl! Tryck på ett riktigt mejl för att läsa det, och på det röda krysset för att slänga ett skräpmejl. Hantera 20 innan brevlådan svämmar över!
+1955 Läs: tryck · Skräp: rött kryss
+1956 Fel: %d / 3
+1957 Tom inkorg! För första gången sedan 2019. Njut, det varar inte.
+1958 Inkorgen svämmar över! Kommissionens server har just kraschat. Igen.
+1959 Du slängde ordförandens mejl och svarade prinsen. Det händer de bästa.
+1960 Sedan 2024 måste nya telefoner som säljs i EU ha en USB-C-port.
+1961 Sant: direktivet om den universella laddaren gäller sedan slutet av 2024.
+1962 EU förbjuder försäljning av alltför böjda bananer.
+1963 Falskt: en förordning från 1994 klassade bananer efter kvalitet. Böjda bananer säljs fortfarande.
+1964 Europeiska flaggan har 12 stjärnor eftersom det fanns 12 medlemsländer.
+1965 Falskt: 12 är en symbol för fullkomlighet. Flaggan är från 1955, långt innan det fanns 12 länder.
+1966 Europaparlamentet sammanträder en vecka i månaden i Strasbourg.
+1967 Sant: 12 sessioner per år i Strasbourg, med flyttlådorna som hör till.
+1968 EU-kommissionärerna väljs direkt av medborgarna.
+1969 Falskt: de föreslås av regeringarna och godkänns sedan av parlamentet.
+1970 Europeiska unionen har 24 officiella språk.
+1971 Sant: från iriska till maltesiska, alla texter översätts till alla 24.
+1972 Alla EU-länder använder euron.
+1973 Falskt: 2026 är det 21 av 27 länder som gör det. Bulgarien är senast att ansluta sig.
+1974 Avgifterna för mobil roaming avskaffades i EU 2017.
+1975 Sant: sedan juni 2017 ringer man överallt som hemma.
+1976 Europas hymn är Beethovens Till glädjen.
+1977 Sant: utan officiell text, för att inte göra något språk upprört.
+1978 Luxemburg är EU:s minsta land.
+1979 Falskt: det är Malta, cirka 316 km².
+1980 Europeiska unionen har fått Nobels fredspris.
+1981 Sant: 2012, för 60 år av fred och försoning.
+1982 GDPR skyddar personuppgifter sedan 2018.
+1983 Sant: det gäller sedan den 25 maj 2018. Därav alla kakbanners…
+1984 Böjda gurkor är förbjudna att sälja i EU.
+1985 Falskt: normen om deras böjning avskaffades 2009.
+1986 Korkar måste förbli fästa vid plastflaskor.
+1987 Sant: obligatoriskt sedan juli 2024, så att de inte hamnar i naturen.
+1988 Schweiz är medlem i Europeiska unionen.
+1989 Falskt: landet ingår i Schengenområdet, men inte i EU.
+1990 Europeiska centralbanken har sitt säte i Bryssel.
+1991 Falskt: den ligger i Frankfurt, Tyskland.
+1992 Faktakollen
+1993 Ryktena om Europa sprids snabbare än direktiven! Tryck på SANT eller FALSKT för varje påstående. Du behöver 7 rätt av 10.
+1994 SANT
+1995 FALSKT
+1996 Sant eller falskt?
+1997 Fråga %d / 10
+1998 Rätt svar!
+1999 För sent!
+2000 Fel svar!
+2001 Tryck för att fortsätta
+2002 Bra jobbat! Alla dessa myter är avslöjade. Faktagranskarna vill rekrytera dig.
+2003 Alldeles för mycket desinformation spreds… Kontot "SannaEuropa2027" får 10 000 nya följare.
+2004 Bulgariska
+2005 Tjeckiska
+2006 Danska
+2007 Tyska
+2008 Grekiska
+2009 Engelska
+2010 Spanska
+2011 Estniska
+2012 Finska
+2013 Franska
+2014 Irländska
+2015 Kroatiska
+2016 Ungerska
+2017 Italienska
+2018 Litauiska
+2019 Lettiska
+2020 Maltesiska
+2021 Nederländska
+2022 Polska
+2023 Portugisiska
+2024 Rumänska
+2025 Slovakiska
+2026 Slovenska
+2027 Svenska
+2028 Översättningstjänsten
+2029 Meddelanden strömmar in från hela Europa! Läs vartenda och skicka det till rätt tolkbås. 12 meddelanden på 45 sekunder. Ett misstag kostar 3 sekunder!
+2030 Tolkbås
+2031 Skicka meddelandet till rätt bås
+2032 Alla meddelanden kom fram rätt! GD Översättning erbjuder dig en tjänst. På 24 språk.
+2033 Ett slovakiskt meddelande hamnade hos slovenerna… Den diplomatiska incidenten är under översättning.
+2034 Energikris! Priserna skenar.
+2035 Nedstängning: ingen köper något längre.
+2036 Jättestort återhämtningspaket röstat igenom i natt!
+2037 Börskrasch i Frankfurt!
+2038 Brist på datorchip!
+2039 Hushållen sparar alla sina pengar.
+2040 Du leder ECB! Stiger inflationen? Höj räntan. Sjunker den? Sänk den. Håll den i den gröna zonen (runt 2 %) minst halva tiden. 40 sekunder!
+2041 Inflation: %s
+2042 Ränta: %s
+2043 Sänk
+2044 Höj
+2046 Inflationen under kontroll! Marknaderna applåderar, spararna sover lugnt.
+2047 Inflationen sprang ifrån dig… Kaffepriset i matsalen har just dubblats.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Universalladdare
+2053 Sedan 2024 är USB-C obligatoriskt! Tryck på apparater som fortfarande har en gammal port för att göra dem regelenliga. Men inte de med USB-C! 20 apparater på 30 sekunder.
+2054 Tryck på gamla portar, inte USB-C!
+2055 Alla regelenliga! En enda laddare för alla. Europas kabellådor andas ut.
+2056 Du gjorde en redan USB-C-apparat "regelenlig". Den har nu tre adaptrar.
+2057 Alldeles för många gamla kablar slank förbi direktivet… Kabellådan svämmar över.
+2058 Din dator. 437 olästa mejl blinkar i ett hörn av skärmen.
+2059 Mejl
+2060 Stäng av
+2061 En avisering visas: "Grattis till din produktivitet!" Ett paket väntade på dig under skrivbordet.
+2062 Tom inkorg. Tre sekunder senare: "Re: Möte om mötessamordning".
+2063 Mejlservern visar ett timglas. Det lär den göra ända till imorgon.
+2064 En dator på presstjänsten. Skärmen visar: "Faktakollen – rykten att kontrollera: 2 384".
+2065 Fint faktagranskningsjobb! Presstjänsten bjuder dig på dessa expertrapporter. De är källbelagda, i alla fall.
+2066 Alla dagens rykten är kontrollerade. Fler kommer före lunch.
+2067 En myt har just delats 40 000 gånger. Dementin, däremot, 12 gånger.
+2068 Terminalen på GD Översättning. En röd lampa blinkar: "Meddelanden väntar på vidarebefordran".
+2069 Tolkarna är överbelastade! Kan du sortera meddelandena och skicka dem till rätt bås?
+2070 Tjugofyra språk, inget fel på vägen! Ta den här adressboken, alla domstolens tolkar finns där.
+2071 Du känner igen slovenska från slovakiska bättre än halva rådet.
+2072 Ett maltesiskt meddelande hamnade i det irländska båset. De diskuterar det fortfarande. Försök igen när du vill.
+2073 En Bloomberg-terminal, fortfarande varm. På en lapp: "Mål: 2 %. Inte 1,9. Inte 2,1. 2."
+2074 Ta kontrollen över eurozonens penningpolitik?
+2075 Marknaderna hyllar din försiktighet. En stabilitetsbonus landar på ditt konto!
+2076 Inflation på 2 %. Någonstans i Frankfurt fäller en ekonom en glädjetår.
+2077 Terminalen visar en graf formad som en berg-och-dalbana. Ingen såg något. Börja om snabbt.
+2078 EU-parlamentarikerns dator. På skrivbordet, en snårskog av 14 olika laddare.
+2079 Jag röstade för USB-C-direktivet! Men mina kollegor har fortfarande gamla apparater… Hjälper du mig göra dem regelenliga?
+2080 En enda laddare för alla! Här, ta det här USB-C-minnet. Det ska få vissa digitala Euromons att utvecklas.
+2081 Kabellådan är äntligen tom. Jag vet inte längre vad jag ska lägga där.
+2082 Det finns fortfarande Lightning-kablar överallt… Vi försöker igen när du vill.
+2083 Grön zon: %d %%
+2084 Mål: halva tiden i grönt
+2085 Dock 30

@@ -1,0 +1,486 @@
+# Malti — ids 0-499
+0 LOB
+1 SKA
+2 FRŻ
+3 RIE
+4 BLK
+5 Liv.%d
+6 DIBATTITU
+7 BORŻA
+8 AĦRAB
+9 TIMM
+10 PP %d/%d
+11 L-ebda effett
+12 Super effettiv
+13 Ftit effettiv
+14 Lura
+15 M'hemmx aktar PP għal dan l-attakk!
+16 Imiss lilek, %s!
+17 %s jibgħat lil %s!
+18 Imma %s diġà għandu problema…
+19 Imma %s diġà huwa fuq in-naħa tal-lobbies!
+20 Il-fondi ta' bankier ċentrali ma jiġux iffriżati!
+21 %s huwa taħt l-influwenza ta' lobby!
+22 %s waqa' fi skandlu!
+23 Il-fondi ta' %s huma ffriżati!
+24 %s raqad f'nofs summit bil-lejl!
+25 %s huwa mblukkat f'kumitat!
+26 Argument
+27 Reżiljenza
+28 Perizja
+29 Diplomazija
+30 Ħeffa
+31 Preċiżjoni
+32 Evażjoni
+33 %s: %s ma tistax togħla aktar!
+34 %s: %s ma tistax tinżel aktar!
+35 %s: %s togħla ħafna!
+36 %s: %s togħla!
+37 %s: %s tinżel ħafna!
+38 %s: %s tinżel!
+39 %s juża %s!
+40 (trump)%s juża %s!
+41 %s qed tipprepara fajl ta' 400 paġna…
+42 Imma ħadd ma jaqa' darbtejn fit-nassa tal-kanapè!
+43 %s jikkopja lill-avversarju!
+44 Imma m'hemm xejn x'jikkopja…
+45 %s jinvoka l-Artikolu 50 u jitlaq mid-dibattitu!
+46 %s jinvoka l-Artikolu 50 u jitlaq!
+47 %s jinvoka l-Artikolu 50… imma n-negozjati se jdumu snin!
+48 %s jipproteġi ruħu b'veto!
+49 «VETO!» L-avversarju jimblokka d-deċiżjoni fl-unanimità meħtieġa.
+50 Imma l-attakk ta' %s jonqos milli jolqot!
+51 %s diġà huwa dizinformat!
+52 %s sar dizinformat!
+53 Imma l-HP ta' %s diġà fil-massimu!
+54 %s jirkupra l-HP!
+55 %s jieħu siesta ta' rkupru!
+56 Imma l-veto ma jgħaddix din id-darba!
+57 %s juri d-dritt tal-veto tiegħu!
+58 Klawsola ta' salvagwardja! Il-modifiki kollha huma annullati.
+59 Il-messaġġi ta' %s tħassru… L-ebda traċċa aktar!
+60 Fondi strutturali jwaqqgħu fuq il-kamp!
+61 %s jispiċċa bilqiegħda fuq il-kanapè!
+62 Imma ma jiġri xejn…
+63 Dan ma jaffettwax lil %s…
+64 Daqqa kritika!
+65 Milqut %d darbiet!
+66 Huwa super effettiv!
+67 Mhux tant effettiv…
+68 %s weħel f'proċedura bla tmiem!
+69 %s jieħu fondi b'forza!
+70 %s ibati r-radd lura!
+71 Muniti jintasru mal-kamp kollu!
+72 %s huwa destabilizzat wisq biex jaġixxi!
+73 %s rieqed fil-fond… (l-4 ta' filgħodu)
+74 %s jistenbaħ! Is-summit intemm.
+75 %s fl-aħħar joħroġ mill-kumitat!
+76 Il-fondi ta' %s huma ffriżati! Ma jistax jaġixxi.
+77 %s ivverifika l-għejun tiegħu!
+78 %s huwa dizinformat…
+79 Huwa jxerred informazzjoni falsa u jiddiskredita lilu nnifsu!
+80 Orbán ħareġ jieħu kafè! L-Euromon tiegħu qed jistenna, mitluf.
+81 %s ibati l-influwenza tal-lobbies!
+82 L-iskandlu jolqot lil %s!
+83 %s weħel fil-proċedura!
+84 %s huwa K.O.!
+85 %s jitgħallem %s!
+86 %s jixtieq jitgħallem %s, imma diġà jaf erba' attakki.
+87 Titgħallem xejn
+88 Liema attakk tinsa?
+89 1, 2, 3… Ħabbi! %s jinsa %s…
+90 … u jitgħallem %s!
+91 %s ma jitgħallem xejn minn %s.
+92 %s jirbaħ %d punt ta' esperjenza!
+93 %s jogħla sal-livell %d!
+94 {P} jitfa' %s!
+95 Hemm hu! %s huwa rreġistrat fil-Ġurnal Uffiċjali!
+96 Id-dejta ta' %s tiżdied mal-Eurodex.
+97 %s jintbagħat lill-Arkivji.
+98 Ah ma! %s ħeles lilu nnifsu!
+99 Argh! Kien kważi hemm!
+100 Ħasra! Kien jonqos biss timbru!
+101 Argh! Vizju ta' proċedura!
+102 %s ġie rrifjutat b'referendum! Impossibbli li tiġbdu.
+103 Ma tiġbidx l-Euromon ta' trainer ieħor! Dak ikun skandlu.
+104 {P} juża %s!
+105 Fuq liema Euromon?
+106 %s jirkupra l-HP.
+107 %s qed jaqbad l-aħjar.
+108 %s lura fis-servizz!
+109 Dan mhu se jkollu ebda effett.
+110 Mhux il-waqt tajjeb għal dan!
+111 Lil min tibgħat għad-dibattitu?
+112 Lil min tibgħat?
+113 %s m'għadux f'kundizzjoni li jiddibatti!
+114 %s diġà qiegħed fuq il-kamp!
+115 Ejja lura, %s!
+116 sieħeb
+117 kompetitur
+118 rivali sistemiku
+119 L-Euromon tal-avversarju issa jippreżenta ruħu bħala… %s! (tip %s)
+120 %s %s jixtieq jiddibatti!
+121 Ara! %s kromatiku!
+122 %s selvaġġ jidher!
+123 X'għandu jagħmel {P}?
+124 Ma titlaqx minn dibattitu uffiċjali! Dak ikun qbiż ta' dgħufija.
+125 Tieħu l-fliġġ mill-ħruġ ta' emerġenza!
+126 Impossibbli li taħrab: is-seduta mhix magħluqa!
+127 %s jitfa' l-argument tiegħu… Il-mejda hija twila ħafna li se jieħu daqqa biex jasal!
+128 L-argument tad-daqqa li għaddiet fl-aħħar jilħaq it-tarf l-ieħor tal-mejda!
+129 %s se jibgħat %s.
+130 Kompli
+131 Biddel l-Euromon
+132 Tibdel l-Euromon?
+133 {P} jirbaħ %d € għal dan id-dibattitu!
+134 {P} jiġbor %d € ta' fondi strutturali.
+135 — SCENA ĊINEMATOGRAFIKA —
+136 A: li jmiss    START: aqbeż
+137 Iva
+138 Le
+139 Imiss jew agħfas A
+140 Grazzi talli lgħabt!
+141 TMIEM… jew kważi.
+143 Salvataġġ illeġibbli!
+144 Professur Schuman
+145 Bonġu, bonġu! Merħba fid-dinja mirakoluża… u ftit amministrattiva… tal-Unjoni Ewropea!
+146 Jisimni Robert Schuman. Forsi smajt bija: storja tal-faħam, l-azzar, u id-9 ta' Mejju… Ngħidlek dwarha.
+147 Minn dakinhar, din id-dinja hija popolata minn kreaturi stramb: l-EUROMONS!\fDirettivi, regolamenti, emendi, bandalori tal-cookies… Jgħixu fil-munzelli tal-fajls u l-moqjit tal-kurituri.
+148 Xi wħud jiġborhom, oħrajn jagħmluhom jiddibattu. Jien, nistudjhom. Dan jissejjaħ… il-komitoloġija!
+149 Imma ħa nitkellmu dwarek. Dalgħodu, żewġ trainees huma mistennija fil-Parlament Ewropew…
+150 Fuq ix-xellug, Alex, it-trainee l-ġdida. Fuq il-lemin, Max, it-trainee l-ġdid. Int min?
+151 Alex, tifla
+152 Max, tifel
+153 Perfett! U kif għandi nsejjaħlek, uffiċjalment? Irid ikun miktub fl-24 lingwa, allura agħżel sewwa.
+154 L-isem tiegħek (massimu 10 ittri):
+155 {P}! Manjifiku. Issa se nagħmlu traduzzjoni ta' dan f'Malti minnufih.
+156 Dan hu Oliver, il-kollega trainee tiegħek, dirett minn Londra. Huwa… ferm kunfidenti.
+157 Hello! Don't worry, {P}, jien se nkun l-aħjar trainee tal-Unjoni kollha. Easy.
+158 Il-missjoni tagħkom it-tnejn hija sempliċi: li jiġi adottat DIRETTIVA WAĦDA.\fId-direttiva fuq it-tmiem tal-bidla fil-ħin. Il-Parlament approvaha f'Marzu 2019…
+159 … u minn dakinhar, qed torqod fil-Kunsill. Bħal ħafna affarijiet.
+160 Biex tirnexxi, ikollok bżonn it-8 badges tal-ibliet kbar tal-Ewropa, tikkonvinċi lill-Kunsill Ewropew, u lill-President tal-Kummissjoni nfisha!\fEjja, {P}. Il-traineeship tiegħek tibda issa. Mhix imħallsa, imma hija edukattiva!
+161 Kbir/żgħir
+162 Ħassar
+163 Taf? Il-Parlament jittrasferixxi ruħu lejn Strasburgu tnax-il darba fis-sena, bil-bagalji inklużi.
+164 Hemm 24 lingwa uffiċjali fl-UE. It-trainee tagħkom jitkellem waħda u nofs.
+165 Parir: it-tappijiet mehmużin mal-flixkun ma jintilfux aktar (direttiva 2019/904).
+166 Qed jgħabbi… bħat-tmiem tal-bidla fil-ħin: approvat fl-2019, għadu jistenna.
+167 Il-bandiera Ewropea għandha 12 stella. Dan mhux in-numru ta' pajjiżi: huwa simbolu ta' perfezzjoni.
+168 Id-Dikjarazzjoni Schuman hija tad-9 ta' Mejju 1950. Id-9 ta' Mejju huwa l-Jum tal-Ewropa!
+169 Il-muniti tal-euro daħlu fil-bwiet fl-1 ta' Jannar 2002.
+170 Minn Ġunju 2017, m'hemmx aktar spejjeż ta' roaming fl-Ewropa. Ċempel lil ommok minn Liżbona!
+171 Il-chager universali USB-C huwa obbligatorju minn tmiem l-2024. Addiju tal-kaxxa tal-fili.
+172 Erasmus twieled fl-1987. Minn dakinhar, miljuni ta' studenti tgħallmu jsajru l-pasta.
+173 Il-Ftehim ta' Schengen ġie ffirmat fl-1985 fuq dgħajsa, fuq il-Mosella, fil-Lussemburgu.
+174 Il-Parlament Ewropew għandu 720 membru parlamentari minn 2024.
+175 Parir: il-kantina tfejjaq it-timm sħiħ tiegħek. Il-kafè, hu, ma jfejjaq xejn.
+176 Parir: iġri biż-żamma ta' B. Il-kurituri tal-Berlaymont huma twal.
+177 Ir-regolament fuq il-kurvatura tal-banana (1994) jeżisti… imma l-aktar li jitkellem fuq il-kwalità.
+178 Ir-RGPD (2018) tak il-bandalori tal-cookies. Ħafna bandalori tal-cookies.
+179 Il-Premju Nobel għall-paċi ngħata lill-Unjoni Ewropea fl-2012.
+180 It-Trattat ta' Ruma (1957) ħoloq il-Komunità Ekonomika Ewropea.
+181 It-Trattat ta' Maastricht (1992) ħoloq l-Unjoni Ewropea u pprevveda l-euro.
+182 It-Trattat ta' Liżbona (2007) fih l-Artikolu 50. Pajjiż wieħed biss użah.
+183 Ir-Renju Unit telaq mill-UE fil-31 ta' Jannar 2020. Oliver għadu ma rritornax minn hemm.
+184 Parir: it-Timbri Uffiċjali jiġbdu aħjar Euromons imdgħajfa.
+185 Parir: Euromon rieqed minn Summit bil-Lejl huwa eħfef biex jinqabad.
+186 Il-Berlaymont tneħħa l-asbest minnu bejn l-1991 u l-2004. Il-laqgħa dwar il-bini damet ħafna.
+187 Il-Qorti tal-Ġustizzja tal-UE qed tiltaqa' fil-Lussemburgu, fuq il-Kirchberg.
+188 Il-BĊE qiegħda f'Frankfurt. It-torri tagħha swiet aktar milli mistenni. Inflazzjoni, probabbilment.
+189 Simone Veil kienet l-ewwel President tal-Parlament Ewropew elett, fl-1979.
+190 Il-Kummissjoni għandha 27 kummissarju: wieħed għal kull pajjiż. Anke għall-politika tas-sajd tal-Awstrija.
+191 Parir: agħfas X biex tiftaħ il-menu.
+192 Id-Danubju jgħaddi minn għaxar pajjiżi. Iż-żarbun tiegħek, biss minn tnejn.
+193 Fil-Jum tal-Ewropa, jidher Euromon rari. Ipprova d-9 ta' Mejju!
+194 It-traduzzjonijiet tal-UE jirrappreżentaw miljuni ta' paġni fis-sena.
+195 L-innu Ewropew huwa l-Ode to Joy ta' Beethoven, bla kliem uffiċjali.
+196 Parir: l-attakki tat-tip Legali huma super effettivi kontra l-Lobby.
+197 Parir: il-Veto jimblokka attakk, imma mhux id-determinazzjoni tiegħek.
+198 Il-Brexit dam tant li ħolqu l-kelma «Brextension».
+199 Hemm uffiċċju ta' kollegament tal-Parlament f'kull Stat Membru.
+200 Parir: kellem lil kulħadd. Anke il-ħamiema tal-Pjazza Lux.
+201 Id-Danimarka għandha eżenzjoni fuq l-euro. Iżżomm il-krona tagħha, u l-vikings tagħha.
+202 Qed jgħabbi 27 opinjoni nazzjonali… 26 minn 27… Qed nistennew lill-Ungerija.
+203 Taf?
+204 Qed jgħabbi…
+205 Timm
+206 Borża
+207 Mappa
+208 Rapport
+209 Settings
+210 %lu s %02lu
+211 HP
+212 K.O.
+213 Liv.%d   Nru.%03d
+214 Esp.
+215 Li jmiss
+216 B: lura
+217 Tibdel ma'… ?
+218 A: agħżel   B: lura
+219 Sommarju
+220 Iċċaqlaq
+221 Kura
+222 Timbri
+223 Dibattitu
+224 Ċwievet
+225 L-Euromons selvaġġi se jħalluk kwiet għal ftit.
+226 Il-PP ta' %s huma restawrati.
+227 Dan ma jagħmel ebda effett.
+228 Mhux il-waqt li tuża dan.
+229 ×%d
+230 (vojt)
+231 Uża
+232 Nru.%03d  %s
+233 Aqbad dan l-Euromon biex taqra l-fajl tiegħu.
+234 EURODEX   Mgħoddija: %d   Maqbuda: %d
+235 L-ebda mezz ta' salvataġġ ma ġie identifikat.\fFuq DS (DS Pico, R4…), ibda l-logħba mill-karta SD. Fuq emulatur, attiva d-DLDI / il-karta SD, jew uża s-salvataġġi tal-istat.
+236 Tikteb rapport ta' progress (post %d)?
+237 Issejvja
+238 Post ieħor…
+239 Ikkanċella
+240 Rapport mibgħut fl-24 lingwa. Partita ssejvjata (post %d)!
+241 Il-kitba fuq il-karta SD falliet. Erġa' pprova.
+242 Settings
+243 Sorsi tal-fatti
+244 Lura għat-titlu
+245 Lura għat-titlu? Dak li mhux issejvjat jintilef.
+246 ◀  × %d  ▶
+247 Total: %d €
+248 A: ikkonferma   B: ikkanċella
+249 Ixtri
+250 Biegħ
+251 Saħħa
+252 Bejjieġ
+253 Merħba fil-Ħanut tal-Parlamentarium! Kollox garantit konformi mal-istandards CE.
+254 Il-budget tiegħek: %lu €
+255 Fl-istokk fil-borża tiegħek: %d
+256 Jidher li l-budget tiegħek huwa… taħt il-limitu tan-nefqa.
+257 Grazzi! U hawn Super Timbru b'rigal, għax-xirja bl-ingrossa!
+258 Grazzi tax-xirja tiegħek! Fattura f'tripliċi kopja.
+259 Dak? Mhux għall-bejgħ, huwa oġġett ta' importanza strateġika!
+260 Ftehim konkluż!
+261 Saħħa! Tinsiex: il-charger USB-C jinbiegħ separatament.
+262 TIMM → ARKIVJI (%d/%d)
+263 ARKIVJI → TIMM (%d/%d)
+264 ◀▶ naħa   A: iċċaqlaq   B: oħroġ
+265 {P} jixgħel it-terminal tal-Arkivji. «Merħba fis-sistema tal-ġestjoni tad-dokumenti.»
+266 Trid iżżomm mill-inqas Euromon wieħed fit-timm!
+267 It-timm huwa komplut (massimu 6 Euromons).
+268 Deċiżjoni Fiskali
+269 Euro
+270 Kamra Plenarja
+271 OXI
+272 Artikolu 50
+273 Veto
+274 Multa
+275 Sorbonne
+276 Jean-Claude Juncker, Lussemburgu
+277 Christine Lagarde, Frankfurt
+278 Roberta Metsola, Strasburgu
+279 Yanis Varoufakis, Ateni
+280 Farage & Johnson, Londra
+281 Viktor Orbán, Budapest
+282 Margrethe Vestager, Brussell
+283 Emmanuel Macron, Pariġi
+284 KAXXA TAL-BADGES TAT-TRATTATI
+285 miksub
+286 li għad trid tirbaħ
+287 Badge %s — mogħti minn %s.
+288 Xi? %s qed jevolvi!
+289 Iddifferejt ir-riforma. %s ma evolviex.
+290 Kongratulazzjonijiet! %s evolva f'%s!
+291 Ħin: %d s
+292 Skor: %d / %d
+293 Logħba Żgħira
+294 Vot fil-Plenarja
+295 Il-membri parlamentari jaslu fil-kamra plenarja! Imiss kull siġġu li jidher isfar qabel jintefa'. 25 vot f'30 sekonda!
+296 Presidenza
+297 Imiss is-siġġijiet suffer!
+298 Adottat b'maġġoranza kbira! Applaws minn kull bank.
+299 Il-kworum ma ntlaħaqx. Is-seduta hija suspiża…
+300 It-Timbru
+301 Dokumenti jiċċaqlu fuq il-mejda. Imiss lil kull wieħed biex tittimbrah qabel joħroġ mill-iskrin. 15-il dokument!
+302 Imiss id-dokumenti biex tittimbrahom
+303 Id-dokumenti kollha huma ttimbrati! L-amministrazzjoni kburija bik.
+304 Xi dokumenti telqu bla timbru. Se jkollhom jerġgħu jagħmlu ċ-ċirkwit kollu…
+305 Bandalori tal-Cookies
+306 Bandalori tal-cookies jinvadu l-iskrin! Imiss «Irrifjuta» fuq kull wieħed. Jekk jinġabru sitt bandalori, tilfita. Żomm għal 25 sekonda!
+307 (xi sit tal-internet)
+308 Aħna nirrispettaw
+309 il-privatezza tiegħek
+310 Aċċetta
+311 Irrifjuta
+312 Irrifjuta kollox! (tikklikkjax fuq Aċċetta)
+313 Il-cookies kollha rrifjutati! Ir-RGPD kburi bik.
+314 Mgħarraq mill-bandalori… Aċċettajt 437 sieħeb tar-reklamar.
+315 Summit bil-Lejl
+316 Huma s-3 ta' filgħodu, is-27 kapijiet ta' stat qed jorqdu! Nefaħ fil-mikrofon (jew imiss ir-ras rieqda) biex tqajjimhom. 27 qawmien qabel is-sbieħ!
+317 %d:%02d
+318 Nefaħ / imiss ir-ras rieqda!
+319 Kulħadd imqajjem! Ftehim milħuq fl-4:37. Bħas-soltu.
+320 Ix-xemx titla' fuq mejda ta' mexxejja rieqda. Is-summit huwa differit.
+321 Il-Bagalji ta' Strasburgu
+322 Għabbi l-bagalji tal-membri parlamentari fuq il-ferrovija, bl-ordni: 1, 2, 3… sa 10. Għandek 30 sekonda!
+323 Pjattaforma — TGV Strasburgu ⇄ Brussell
+324 Il-Bagalji
+325 Imiss il-bagalji bl-ordni!
+326 Il-bagalji kollha huma fuq il-ferrovija! Is-sessjoni tista' tibda.
+327 Il-ferrovija telqet mingħajr il-bagalji. Il-membri parlamentari se jsiegu bil-pajama.
+328 Lingwa
+329 Veloċità tat-test
+330 Ħoss tat-test
+331 Volum tal-mużika
+332 Animazzjonijiet tad-dibattitu
+333 Bil-mod
+334 Normali
+335 Rapida
+336 ↑↓ / pinna: skrollja    B: lura
+337 Krediti
+338 karta SD
+339 kartoċċ
+340 l-ebda
+341 {P} jikseb %d × %s!
+342 {P} jikseb: %s!
+343 — Post vojt —
+344 Eurodex: %d
+345 Kompli: agħżel partita
+346 Partita ġdida: post
+347 Issejvja f'…
+348 Dan il-post diġà fih partita. Tiktiha minn fuqha?
+349 Partita Ġdida
+350 Krediti u sorsi
+351 Menu Prinċipali
+352 Parodija mhux uffiċjali · v2.0
+353 It-Traineeship ta' Ħajtek
+354 AGĦFAS START
+355 {P} jirċievi %s!
+356 It-timm huwa mimli: imur fl-Arkivji.
+357 {P} m'għandu l-ebda Euromon aktar f'kundizzjoni li jiddibatti…\f{P} jirritorna jiġri lejn il-kantina, b'rasu baxxuta.
+358 Mara tal-Kantina
+359 Ejja, kafè tajjeb u kollox jerġa' jaqbad! L-Euromons tiegħek huma fl-aħjar forma.
+360 Badge Deċiżjoni Fiskali
+361 Badge Euro
+362 Badge Kamra Plenarja
+363 Badge OXI
+364 Badge Artikolu 50
+365 Badge Veto
+366 Badge Multa
+367 Badge Sorbonne
+368 {P} jirċievi l-%s!
+369 L-Eurodex tiegħek fih %d Euromons maqbuda minn %d mgħoddija.
+371 Dan huwa bidu! Il-passi żgħar jagħmlu l-unjonijiet kbar.
+372 Mhux ħażin! Avanzajt aktar malajr mid-direttiva fuq il-ħin tas-sajf.
+373 Impressjonanti! Lanqas il-Kummissjoni m'għandha daqshekk fajls.
+374 Extraordinarju! Int istituzzjoni vera waħdek.
+375 {P} isib: %s!
+376 Il-Klawsola ta' Non-Solleċitazzjoni skadiet.
+377 Brussell
+378 Lussemburgu
+379 Frankfurt
+380 Strasburgu
+381 Ateni
+382 Londra
+383 Budapest
+384 Pariġi
+385 Antwerpen
+386 Varsavja
+387 Ruma
+388 Maastricht
+389 Liżbona
+390 Uffiċjal tal-Biljetti
+391 L-ebda destinazzjoni disponibbli bħalissa.
+392 Destinazzjonijiet oħra…
+393 Itlgħu abbord! Il-ferrovija titlaq… b'ftit minuti ta' dewmien biss.
+394 Diplomatiku
+395 Josep Borrell, l-eks-Rappreżentant Għoli, qal fl-2022: «L-Ewropa hija ġnien, il-bqija tad-dinja hija ġungla.» Dan ħalla… ftit storbju.
+397 Sittax-il sena bħala Kanċellier. Mijiet ta' summits. Fl-2015, għidt: «Wir schaffen das» — se nirnexxu.
+398 Imma int, se tirnexxi? Jien l-ewwel membru tal-Kunsill. Ħadd ma jgħaddi mingħajr kompromess.
+399 Wir haben es geschafft. Tista' tgħaddi. Mario qed jistenniek… b'rapport ta' 400 paġna.
+401 Lulju 2012, Londra. Għidt tliet kliem: «Whatever it takes». L-euro ġie salvat. Is-swieq kalmaw.
+402 Fl-2024, ir-rapport tiegħi dwar il-kompetittività talab sa 800 biljun ta' investimenti fis-sena. Investi f'dan id-dibattitu.
+403 Għamilt dak kollu li kien hemm bżonn. Kaja Kallas qed tistenniek. Hija… diretta ħafna.
+405 Rappreżentant Għoli għall-Affarijiet Barranin minn Diċembru 2024. Eks Prim Ministru tal-Estonja.
+406 Id-dinja hija perikoluża. Irrid inkun naf jekk tkunx taf iżżomm quddiem il-Potenzi l-Kbar. Urieni.
+407 Solidu. Se jkollok bżonnu. Il-President Costa qed jistenniek. Qed jittama li jispiċċa qabel nofsillejl.
+409 President tal-Kunsill Ewropew minn Diċembru 2024! Huma s-23:54. Jekk nispiċċaw qabel nofsillejl, tkun l-ewwel darba fl-istorja.
+410 Imma l-ewwel: il-kapijiet ta' stat kollha raqdu madwar il-mejda. Għinni nqajjimhom! Nefaħ fil-mikrofon… jew agħfas fuq l-iskrin!
+411 Huma… l-4:37. Tajjeb. Bħas-soltu. Ejja niddibattu xorta waħda.
+412 Il-Kunsill Ewropew japprova l-kandidatura tiegħek b'unanimità! Jiġifieri… b'unanimità minus astensjoni kostruttiva.
+413 Il-President tal-Kummissjoni qed tistenniek fit-13-il sular tal-Berlaymont. Huwa l-aħħar pass qabel id-direttiva.
+415 Ah, bonġu. Jien Charles Michel, eks President tal-Kunsill Ewropew. Jien sempliċiment… bilqiegħda. Fuq l-uniku siġġu.
+416 Ankara, f'April 2021, ħadt il-pultruna. Ursula spiċċat fuq il-kanapè. Sejħulha «Sofagate». Qatt ma rkuprajt tassew minn dik.
+418 Merħba fit-13-il sular. Iva, ngħix hawn: hemm kamra żgħira ħdejn l-uffiċċju tiegħi. Prattiku għall-fajls urġenti.
+419 President tal-Kummissjoni minn 2019, eletta mill-ġdid fl-2024. Il-Patt Aħdar, il-kriżi tal-Covid, il-vaċċini…
+420 L-SMS mal-kap ta' Pfizer? F'Mejju 2025, it-Tribunal tal-UE annulla r-rifjut tagħna li nikkomunikawhom lin-New York Times. Tajjeb. Ejja ngħaddu 'l quddiem.
+421 Trid id-direttiva fuq il-ħin tas-sajf? Għelibni. Team Europe, fl-aħħar, jibqa' wieħed biss.
+422 Extraordinarju. Int l-aħjar trainee fl-istorja tal-Kummissjoni. Hawn hi… id-direttiva fuq it-tmiem tal-bidla fil-ħin.
+423 Fadal biss li tiġi ffirmata. Formalità! Hemm bżonn biss li…
+424 Il-Potenzi l-Kbar qed jistennew! Antwerpen, Varsavja, il-Pireu… Ħu l-ferrovija.
+425 Int salvajt l-Ewropa. U d-direttiva hija… f'kumitat. Bħas-soltu. Grazzi ta' kollox, {P}.
+426 BIP BIP BIP! Tliet messaġġi urġenti jaslu fl-istess ħin fuq it-telefowns kollha tal-Berlaymont.
+428 HELLO EUROPE! Għandi talba żgħira. Żgħira ħafna. Qed inpoġġi dazji doganali fuq kollox. U nixtieq nixtri l-Groenlandja. Tinbiegħ, mhux hekk?
+429 It-tieni messaġġ, mil-Lvant: «Il-vit tal-gass hija magħluqa. Għall-ġid tagħkom.» Iffirmat: V. P.
+430 It-tielet messaġġ, pulit ħafna: «Qed nissospendu l-esportazzjonijiet tagħna ta' metalli rari. It-telefowns tagħkom se jaħdmu… inqas.» Iffirmat: X. J.
+431 {P}, id-direttiva tistenna. Il-Potenzi l-Kbar iridu jġiegħlu l-Ewropa timxi mal-linja. Trid tmur tarahom. It-tlieta kollha.
+432 Il-port ta' Antwerpen, Varsavja, u l-port tal-Pireu, f'Ateni. L-istazzjonijiet huma miftuħa għalik. Team Europe qed tgħolli fuqek!
+434 Jien Segretarju Ġenerali tan-NATO. Fis-summit tal-Aja, f'Ġunju 2025, impenjajna rwieħna li nitilgħu lejn 5% tal-PDG għad-difiża, sal-2035.
+435 U sejjaħt lil Donald «papà». Tajjeb. Kienet immaġni. Huwa adora. Mur, qiegħed fuq il-green.
+437 F'Frar 2025, fil-Konferenza ta' Munich, spjegajt lill-Ewropej x'inhi d-demokrazija. Kienu… sorpriżi.
+438 DAN HUWA L-ISBAĦ GOLF FID-DINJA. Għadni kemm xrajtu. Jiġifieri, naħseb. Forsi anke l-port.
+439 Fit-2 ta' April 2025, Liberation Day! Rfist tabella kbira b'dazji doganali għal KULĦADD. Anke għal gżejjer fejn hemm biss pingwini.
+440 F'Lulju 2025, fuq il-golf tiegħi f'Turnberry, Ursula u jien, għamilna deal: 15%. Imma nista' nbiddel fehmti. Nibdel fehmti ta' spiss. Hija strateġija.
+441 U l-Groenlandja! Hija kbira, hija bajda, hija mill-isbaħ. Id-Danimarka ma tridx tbigħ. ĦAFNA INĠUSTA. Niddibattu, u jekk nirbaħ, nixtriha!
+442 Kien iffalsifikat. Totalment iffalsifikat. Tajjeb. Inżommu 15%. U l-Groenlandja tibqa' Daniża. Għalissa. Se npoġġi xi ħaġa bil-kapitali llejla.
+444 Merħba f'Varsavja. Prim Ministru tal-Polonja, eks President tal-Kunsill Ewropew. Hawn, nafu kemm tiswa l-libertà.
+446 Minn Frar 2022, pajjiżi qed jirreżisti l-invażjoni Russa. Grazzi lill-Ewropa għall-appoġġ tagħha. Il-palazz hemm fuq: oqgħod attent.
+447 Ħu dan il-kit REPowerEU: l-Ewropa tgħallmet tgħaddi mingħajr il-gass Russu. Se jkollok bżonnu biex tibqa' sħun hemm.
+448 Vladimir Putin
+449 Oqgħod bilqiegħda. Le… aktar 'il bogħod. Hemm. F'Frar 2022, laqat Presidenti f'din id-distanza. Huwa aktar… komdu.
+450 Il-gass? Għalaqt il-vit. L-elezzjonijiet? F'Diċembru 2024, il-Qorti Kostituzzjonali Rumena annullat elezzjoni presidenzjali minħabba ndħil. Ma nafx x'qed tgħid.
+451 Hawn, l-argumenti tiegħek se jieħdu daqqa sħiħa biex jilħqu t-tarf l-ieħor tal-mejda. Nibdew.
+452 …Il-kit REPowerEU tiegħek huwa effettiv. L-estorsjoni ma taħdimx aktar. Mur, qabel inqassar il-mejda.
+453 Gwardjan
+454 Dawn iż-żewġ pandas huma misluta miċ-Ċina lil żoo Ewropew. Isejħulha d-«diplomazija tal-panda». Jieklu 40 kg ta' bambù kuljum. Il-pandas, mhux id-diplomatiċi.
+456 Merħba. L-Unjoni Ewropea tiddeskrivina minn 2019 bħala sieħeb, kompetitur u rivali sistemiku. Jien ukoll, jien it-tlieta.
+457 Int tittaksja l-karozzi elettriċi tagħna — sa 35% minn Ottubru 2024. Aħna nittaksjaw il-cognac tiegħek. U nissorveljaw il-metalli rari tagħna. Huwa bbilanċjat.
+458 F'dan id-dibattitu, l-Euromon tiegħi se jbiddel it-tip f'kull daqqa: sieħeb, kompetitur, rivali. Xorti tajba biex ssegwi.
+459 Hmm. Sieħeb li jixraqlu r-rispett. Il-metalli rari se jerġgħu jaqbdu r-rotta tagħhom. Il-pandas jibqgħu, huma popolari ħafna.
+460 Orsu żgħir isfar jgħaddi wara container. Jidher kartell: «Kontenut mhux disponibbli fir-reġjun tiegħek.»
+461 Messaġġ mill-President: «It-tliet Potenzi l-Kbar qed jitolbu summit. Issa stess. Is-Summit G-Kollox. Qed nibgħatek hemm.»
+462 JIEN LI KELLI L-IDEA TA' DAN IS-SUMMIT.
+463 Il-mejda hija qasira wisq.
+464 Aħna lkoll sħab. U rivali.
+465 Tajjeb, nibdew? Jien l-ewwel. Kulħadd jgħid li jien l-aħjar biex nibda.
+466 Aħna nipproponu li nibdew… wara riflessjoni profonda. F'ħamsin sena.
+467 Għaliex l-Ewropa qiegħda fuq il-mejda? Kellha tkun fuq is-siġġu żejjed.
+468 IS-SIĠĠU ŻEJJED, HUWA TREMENDOUS. Ninbiegħ minnhom.
+469 Kulħadd jitkellem fl-istess ħin. L-interpreti jaqtgħu qalbhom. Ma jifdal ħlief soluzzjoni waħda: id-dibattitu.
+470 Silenzju fis-sala. It-tliet Potenzi l-Kbar iħarsu lejn xulxin… imbagħad iħarsu lejn l-Ewropa.
+471 Team Europe! Flimkien, aħna aktar b'saħħithna milli separatament. Hija kważi l-istorja kollha tal-Unjoni, mhux hekk?
+472 Realizzazzjonijiet konkreti, {P}. Solidarjetà de facto. Kont għidtha fl-1950. Int għamiltha f'traineeship wieħed.
+473 U d-direttiva fuq it-tmiem tal-bidla fil-ħin? Ġiet mibgħuta lura… f'kumitat.
+474 Imma dik, hija storja oħra.
+475 L-avventura tkompli! Ferroviji ġodda jaslu f'Ruma, Maastricht u Liżbona. Jgħidu li Euromons leġġendarji jorqdu hemm… U xi ħadd qed jistenniek fl-istazzjon ta' Brussell.
+476 Statwa antika, Pjazza tal-Kapitolju. Fil-25 ta' Marzu 1957, sitt pajjiżi ffirmaw hawn it-Trattat ta' Ruma. Xi ħaġa qed tiċċaqlaq…
+477 Hawn, fis-7 ta' Frar 1992, it-Trattat ta' Maastricht ta t-twelid lill-Unjoni Ewropea. Munita ta' euro ġgantija tibda ddi'…
+478 Fit-13 ta' Diċembru 2007, it-Trattat ta' Liżbona ġie ffirmat fil-monasteru tal-Ġerolmini. Siluwetta translucida qed toqrob…
+479 'Il bogħod, Euromon ieħor jaħrab: Constitutio. Rrifjutat fl-2005, qatt ma jħalli lilu nnifsu jinqabad.
+480 L-ewwel jum tat-traineeship fil-Parlament Ewropew! Il-Professur Schuman qed jistenniek fil-hall tal-Parlament.
+481 Il-kompjuter tiegħek juri 437 email mhux moqrija. Kollha għandhom bħala suġġett «Laqgħa ta' koordinazzjoni dwar il-laqgħat».
+482 Park Léopold. Attent: il-munzelli tal-fajls jospitaw Euromons selvaġġi. Tagħtix l-ikel lill-Amendons.
+483 Berlaymont — Kummissjoni Ewropea. Aċċess riservat. 13-il sular: uffiċċju (u kamra) tal-President.
+484 «L-Ewropa mhux se tinbena f'daqqa, u lanqas f'kostruzzjoni waħda sħiħa: se tinbena permezz ta' realizzazzjonijiet konkreti.» — Robert Schuman, 9 ta' Mejju 1950.
+485 Lobbyista
+486 Bonġu! Ma nagħmilx lobbying. Nagħmel «qsim tal-għarfien espert». Tiddel żgħira? Hija tas-salamun. Norveġiż.
+487 Turist
+488 Excuse me, fejn hu l-Manneken-Pis? Qaluli li kien akbar… Qaluli ħafna gideb dwar dan il-vjaġġ.
+489 Tifel
+490 Meta nikber, se nkun interpretu! B'24 lingwa. Jew pompier, dak hu aktar kalm.
+491 Ġurnalist
+492 Inkopri l-Unjoni Ewropea għal għoxrin sena. It-titlu favorit tiegħi: «Brussell tgħid le». Jaħdem kull darba.
+494 Rbaħt… Jidher li d-direttiva fuq il-ħin tas-sajf hija mblukkata fil-Kunsill minn 2019. Kuraġġ, eh.
+495 Uffiċjal tas-Sigurtà
+496 It-triq tal-Ardennes? Mhux mingħajr Euromon! Il-fajls selvaġġi huma aggressivi f'dan l-istaġun baġitarju.
+497 Waqaf! Ħadd ma jitlaq minn Brussell mingħajr Euromon. Mur l-ewwel tara l-Professur Schuman, fil-Parlament.
+498 Gwardja
+499 It-13-il sular? Biss dawk li kkonvinċew lill-Kunsill Ewropew jistgħu jitilgħu. U l-ewwel trid it-tmien badges.

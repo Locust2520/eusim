@@ -1,0 +1,157 @@
+# Maltese — computer mini-games
+1928 Prince Mbeki III
+1929 Wirt ta' 4 M€ biex jinqasam
+1930 Il-lobby tad-diżil
+1931 Stedina: ikla tal-awwista
+1932 Riżorsi Umani
+1933 Laqgħa ta' koordinazzjoni dwar il-laqgħat
+1934 SuperPromo
+1935 It-telefon b'xejn tiegħek qed jistennik
+1936 Qatar Events
+1937 Valiġġa żgħira għalik?
+1938 Bank Sigurtà
+1939 Ikkonferma l-password tiegħek hawn
+1940 Newsletter
+1941 47 aġġornament eċitanti tal-GDPR
+1942 L-aġenda tal-plenarja
+1943 Ma
+1944 Qed tiekol sew fi Brussell?
+1945 Kantina
+1946 Il-menu tal-lum: waterzooi
+1947 Reġistru tal-Qorti
+1948 Sentenza li trid tiġi notifikata qabel nofsinhar
+1949 Kummissjoni
+1950 Vot fuq il-baġit għada
+1951 L-Eurodex tiegħek ġie aġġornat
+1952 Dibattitu llejla? Se nirbaħ jien.
+1953 Inbox
+1954 437 email mhux moqrija! Mess email vera biex taqraha, u s-salib aħmar biex tarmi l-ispam. Ipproċessa 20 qabel ma l-inbox tfur!
+1955 Aqra: mess · Spam: salib
+1956 Żbalji: %d / 3
+1957 Inbox vojta! L-ewwel darba mill-2019. Gawdiha, mhux se ddum.
+1958 L-inbox qed tfur! Is-server tal-Kummissjoni għadu kif waqa'. Għal darb'oħra.
+1959 Armejt l-email tal-President u wieġbt lill-prinċep. Jiġri anke lill-aqwa.
+1960 Mill-2024, it-telefons il-ġodda mibjugħa fl-UE jridu jkollhom port USB-C.
+1961 Veru: id-direttiva dwar iċ-ċarġer universali tapplika mill-aħħar tal-2024.
+1962 L-UE tipprojbixxi l-bejgħ ta' banana mgħawġa wisq.
+1963 Falz: regolament tal-1994 kien jikklassifika l-banana skont il-kwalità. Dawk mgħawġa għadhom jinbiegħu.
+1964 Il-bandiera Ewropea għandha 12-il stilla għax kien hemm 12-il pajjiż membru.
+1965 Falz: 12 huwa simbolu tal-perfezzjoni. Il-bandiera hi tal-1955, ħafna qabel it-12-il pajjiż.
+1966 Il-Parlament Ewropew jiltaqa' ġimgħa fix-xahar fi Strasburgu.
+1967 Veru: 12-il sessjoni fis-sena fi Strasburgu, flimkien mal-kaxxi kollha.
+1968 Il-Kummissarji Ewropej jiġu eletti direttament miċ-ċittadini.
+1969 Falz: jiġu proposti mill-gvernijiet u mbagħad approvati mill-Parlament.
+1970 L-Unjoni Ewropea għandha 24 lingwa uffiċjali.
+1971 Veru: mill-Irlandiż sal-Malti, it-testi kollha jiġu tradotti fl-24.
+1972 Il-pajjiżi kollha tal-UE jużaw l-euro.
+1973 Falz: fl-2026, 21 pajjiż minn 27 jużawh. Il-Bulgarija hi l-aħħar waħda li daħlet.
+1974 It-tariffi tar-roaming ġew aboliti fl-UE fl-2017.
+1975 Veru: minn Ġunju 2017, iċċempel kullimkien "bħal f'darek".
+1976 L-innu Ewropew huwa l-Ode lill-Ferħ ta' Beethoven.
+1977 Veru: bla kliem uffiċjali, biex ma titqanqalx l-ebda lingwa.
+1978 Il-Lussemburgu huwa l-iżgħar pajjiż tal-UE.
+1979 Falz: hija Malta, madwar 316 km².
+1980 L-Unjoni Ewropea rebħet il-Premju Nobel għall-Paċi.
+1981 Veru: fl-2012, għal 60 sena ta' paċi u rikonċiljazzjoni.
+1982 Il-GDPR jipproteġi d-dejta personali mill-2018.
+1983 Veru: japplika mill-25 ta' Mejju 2018. Għalhekk il-banners tal-cookies…
+1984 Il-ħjar mgħawweġ huwa pprojbit milli jinbiegħ fl-UE.
+1985 Falz: l-istandard dwar kemm huma mgħawġa tneħħa fl-2009.
+1986 It-tappijiet iridu jibqgħu mwaħħla mal-fliexken tal-plastik.
+1987 Veru: obbligatorju minn Lulju 2024, biex ma jispiċċawx aktar fin-natura.
+1988 L-Iżvizzera hija membru tal-Unjoni Ewropea.
+1989 Falz: hija fiż-żona Schengen, iżda mhux fl-UE.
+1990 Il-Bank Ċentrali Ewropew għandu s-sede tiegħu fi Brussell.
+1991 Falz: jinsab fi Frankfurt, il-Ġermanja.
+1992 Diżinfo
+1993 Ix-xnigħat dwar l-Ewropa jinxterdu aktar malajr mid-direttivi! Għal kull stqarrija, mess VERU jew FALZ. Trid 7 tweġibiet tajbin minn 10.
+1994 VERU
+1995 FALZ
+1996 Veru jew falz?
+1997 Mistoqsija %d / 10
+1998 Tweġiba tajba!
+1999 Tard wisq!
+2000 Żbaljajt!
+2001 Mess biex tkompli
+2002 Bravu! Dawn il-gideb kollha ġew miċħuda. Il-fact-checkers iridu jirreklutawk.
+2003 Infirxu wisq gideb… Il-kont "EwropaVera2027" jikseb 10 000 follower.
+2004 Bulgaru
+2005 Ċek
+2006 Daniż
+2007 Ġermaniż
+2008 Grieg
+2009 Ingliż
+2010 Spanjol
+2011 Estonjan
+2012 Finlandiż
+2013 Franċiż
+2014 Irlandiż
+2015 Kroat
+2016 Ungeriż
+2017 Taljan
+2018 Litwan
+2019 Latvjan
+2020 Malti
+2021 Olandiż
+2022 Pollakk
+2023 Portugiż
+2024 Rumen
+2025 Slovakk
+2026 Sloven
+2027 Żvediż
+2028 Servizz tat-traduzzjoni
+2029 Qed jaslu messaġġi mill-Ewropa kollha! Aqra kull wieħed u ibagħtu lill-kabina tat-traduzzjoni t-tajba. 12-il messaġġ f'45 sekonda. Żball jiswa 3 sekondi!
+2030 Kabini tat-traduzzjoni
+2031 Ibgħat lill-kabina t-tajba
+2032 Il-messaġġi kollha waslu fejn suppost! Id-DĠ Traduzzjoni qed toffrilek post. F'24 lingwa.
+2033 Messaġġ Slovakk spiċċa għand is-Sloveni… L-inċident diplomatiku qed jiġi tradott bħalissa.
+2034 Kriżi tal-enerġija! Il-prezzijiet itiru.
+2035 Lockdown: ħadd ma għadu jixtri xejn.
+2036 Pjan ta' rkupru ġgant ivvotat il-lejl li għadda!
+2037 Kollass tal-borża fi Frankfurt!
+2038 Nuqqas ta' ċipep!
+2039 Il-familji qed jiffrankaw flushom kollha.
+2040 Int tippresiedi l-BĊE! L-inflazzjoni qed togħla? Għolli r-rata. Qed tinżel? Niżżilha. Żommha fiż-żona l-ħadra (madwar 2 %) mill-inqas nofs il-ħin. 40 sekonda!
+2041 Inflazzjoni: %s
+2042 Rata: %s
+2043 Niżżel
+2044 Għolli
+2046 Inflazzjoni taħt kontroll! Is-swieq iċapċpu, dawk li jfaddlu jorqdu kwieti.
+2047 L-inflazzjoni ħarbitlek… Il-prezz tal-kafè fil-kantina għadu kif irdoppja.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Ċarġer universali
+2053 Mill-2024, l-USB-C hu obbligatorju! Mess l-apparati li għad għandhom port antik biex iġġibhom konformi. Mhux dawk bl-USB-C! 20 apparat f'30 sekonda.
+2054 Mess il-portijiet qodma, mhux l-USB-C!
+2055 Kollha konformi! Ċarġer wieħed għal kulħadd. Il-kxaxen tal-kejbils tal-Ewropa jieħdu nifs.
+2056 "Ġibt konformi" apparat li diġà kellu USB-C. Issa għandu tliet adapters.
+2057 Wisq kejbils qodma ħarbu mid-direttiva… Il-kexxun tal-kejbils qed ifur.
+2058 Il-kompjuter tiegħek. 437 email mhux moqrija qed iteptpu f'rokna tal-iskrin.
+2059 Email
+2060 Itfi
+2061 Tidher notifika: "Prosit għall-produttività tiegħek!" Kien hemm pakkett jistennik taħt l-iskrivanija.
+2062 Inbox vojta. Tliet sekondi wara: "Re: Laqgħa ta' koordinazzjoni dwar il-laqgħat".
+2063 Is-server tal-email juri ħġieġa tar-ramel. Probabbli se jibqa' jurieha sa għada.
+2064 Kompjuter tas-servizz tal-istampa. Fuq l-iskrin: "Unità Diżinfo – xnigħat x'jiġu vverifikati: 2 384".
+2065 Xogħol ta' verifika sabiħ! Is-servizz tal-istampa jagħtik dawn ir-rapporti tal-esperti. B'sorsi, dawn.
+2066 Ix-xnigħat kollha tal-lum ġew ivverifikati. Oħrajn jaslu qabel l-ikel.
+2067 Gidba għadha kif inqasmet 40 000 darba. Iċ-ċaħda, 12-il darba.
+2068 It-terminal tad-DĠ Traduzzjoni. Dawl aħmar iteptep: "Messaġġi jistennew li jiġu indirizzati".
+2069 L-interpreti għarqanin! Tista' tissortja l-messaġġi u tibgħathom lill-kabina t-tajba?
+2070 Erbgħa u għoxrin lingwa, l-ebda żball! Ħu dan il-ktieb tal-indirizzi, l-interpreti kollha tal-Qorti qegħdin fih.
+2071 Tagħraf is-Sloven mis-Slovakk aħjar minn nofs il-Kunsill.
+2072 Messaġġ Malti wasal fil-kabina Irlandiża. Għadhom jiddiskutuh. Erġa' pprova meta trid.
+2073 Terminal Bloomberg, għadu sħun. Fuq post-it: "Għan: 2 %. Mhux 1,9. Mhux 2,1. 2."
+2074 Tieħu f'idejk il-politika monetarja taż-żona tal-euro?
+2075 Is-swieq ifaħħru l-prudenza tiegħek. Bonus tal-istabbiltà jidħol fil-kont tiegħek!
+2076 Inflazzjoni ta' 2 %. X'imkien fi Frankfurt, ekonomista qed iwaqqa' dmugħa ta' ferħ.
+2077 It-terminal juri grafika forma ta' roller coaster. Ħadd ma ra xejn. Erġa' pprova malajr.
+2078 Il-kompjuter tal-MEP. Fuq l-iskrivanija, taħwida ta' 14-il ċarġer differenti.
+2079 Ivvutajt favur id-direttiva USB-C! Imma l-kollegi tiegħi għad għandhom apparati qodma… Tgħinni nġibhom konformi?
+2080 Ċarġer wieħed għal kulħadd! Ħa, ħu din l-istikka USB-C. Jgħidu li tevolvi xi Euromons diġitali.
+2081 Il-kexxun tal-kejbils fl-aħħar vojt. Ma nafx x'se npoġġi fih issa.
+2082 Għad hemm kejbils Lightning kullimkien… Nerġgħu nippruvaw meta trid.
+2083 Żona ħadra: %d %%
+2084 Għan: nofs il-ħin fl-aħdar
+2085 Dock 30

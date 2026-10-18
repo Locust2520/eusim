@@ -1,0 +1,41 @@
+# Estonian — completion
+583 Kaupleja
+963 Härrasmees
+1754 Avakuva
+1755 Professor Schuman
+1756 Labor
+1758 Sinu stuudiokorter
+1761 Söökla
+1763 Pood
+1764 Jaam
+1766 Teel
+1767 Lahing: metsik Euromon
+1768 Silmside
+1769 Lahing: treener
+1771 Lahing: Oliver
+1773 Võit
+1774 Võit (metsik)
+1775 Võit (treener)
+1776 Areng
+1778 Areen
+1780 Lahing: areen
+1782 Lahing: areenijuht
+1784 Schengen
+1789 Head aega, Oliver
+1791 Team Lobby
+1792 Lahing: boss
+1794 Kummitustiib
+1797 Euroopa Ülemkogu
+1799 Lahing: Ülemkogu
+1802 Lahing: president
+1804 Lahing: suurriigid
+1807 Lõpplahing
+1809 Legendaarsed paigad
+1810 Lahing: legendaarne
+1812 Lõpplahing (variant)
+1813 Jukeboks
+1814 %d lugu %d-st
+1815 Vali lugu.
+1816 JUKEBOKS
+1817 A: kuula    B: tagasi
+1818 Vana jukeboks, pistikust väljas. Sildil: „Pärast esimese märgi saamist tagasi pistikusse panna. — Tehniline teenistus”

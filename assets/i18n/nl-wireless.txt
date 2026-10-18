@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Online
+2165	Zonder internet
+2166	Lokaal spel maken
+2167	Lokaal spel binnengaan
+2156	Spellen in de buurt
+2158	Zonder router of server.
+2159	Herstart het spel om de wifi-modus te wijzigen.
+2163	DS-modus: open/WEP-netwerk. Start het spel in DSi-modus voor WPA2.
+2162	DSi-wifi: controleer het WPA2-netwerk en de console-instellingen.
+2160	Verbinden met DSi-wifi… B: annuleren
+2161	Verbinden met DS-wifi… B: annuleren
+2154	De console reageert niet.

@@ -1,0 +1,299 @@
+# Deutsch — ids 1500-1751
+1500 Zugangsausweis
+1501 Öffnet die Türen des Parlaments. Farbe: Praktikant.
+1502 OLAF-Abzeichen
+1503 Macht die Geisterassistenten sichtbar.
+1504 Europäischer Pass
+1505 Bordeauxrot, 32 Seiten, alle Grenzen öffnen sich.
+1506 Interrail-Pass
+1507 Reise mit dem Zug durch ganz Europa.
+1508 REPowerEU-Set
+1509 Um die Heizung wieder anzuwerfen, wenn das Gas abgedreht ist.
+1511 Eine kostbare Flasche. Seit 2024 mit Strafzoll…
+1512 Kantinenkarte
+1513 Guthaben: 3,40 €. Reicht für einen Kaffee.
+1514 Zeit-Richtlinie
+1515 Die Richtlinie zur Abschaffung der Zeitumstellung (2019).
+1516 Ein Koffer vom Umzug Brüssel–Straßburg.
+1517 Abzeichenetui
+1518 Enthält die Vertragsabzeichen.
+1519 He, Neuling! Hier regeln wir alles mit einer Debatte. Zeig, was du kannst!
+1520 Argh… Ich hätte meine Notizen nochmal lesen sollen.
+1521 Ha! Zurück an den Kopierer!
+1522 Rivale
+1523 Also, {P}, testen wir unsere Euromons? Mine is obviously better.
+1524 What?! Das war Glück!
+1525 Easy. Wie erwartet.
+1526 {P}! Du hast schon ein Abzeichen? Egal, das wirst du bereuen.
+1527 Not again… Na gut, in Frankfurt sehen wir uns wieder.
+1528 Ha! Luxemburg bekommt mir.
+1529 Ich war gerade bei der EZB. Ich habe die Geldpolitik komplett verstanden. Fast komplett.
+1530 Bloody hell… Du wirst wirklich schnell besser, {P}.
+1531 Wie man in der City sagt: time is money.
+1532 {P}… das ist unsere letzte Debatte. Danach gehe ich zurück nach London. Für immer. Komm, one last time!
+1533 Good game, {P}. Wenigstens gehe ich mit Stil.
+1534 Ich gehe mit einem Sieg. Immerhin.
+1535 {P}! I'm back. Na ja… ich beantrage die Rückkehr. Rejoin? Aber zuerst eine Debatte für die Ehre!
+1536 Gut. Ich fülle den Beitrittsantrag aus. Er hat 35 Kapitel…
+1537 Ha! Austreten macht stärker. Oder auch nicht.
+1538 Ich bin auch Praktikantin! Unbezahlt, wie du. Debattieren wir, das tröstet.
+1539 Na ja… zurück zum Kopieren.
+1540 Halt! Ist Ihr Wanderformular A-38 abgezeichnet?
+1541 Na gut, ich zeichne es ab. Aber in dreifacher Ausfertigung.
+1542 Landwirt
+1543 Die GAP ist mein Leben! Und mein Traktor ist meine Familie. Los, debattieren wir!
+1544 Das muss ich der Gewerkschaft melden…
+1545 Privatbankier
+1546 Willkommen in Luxemburg. Absolute Diskretion. Diese Debatte hat nie stattgefunden.
+1547 Diese Debatte hat definitiv nie stattgefunden.
+1548 Steuerberater
+1549 Ein Steuervorbescheid? Schreibe ich Ihnen in fünf Minuten. Aber zuerst eine Debatte.
+1550 Meine Konstruktionen… eingestürzt!
+1551 Arenachampion
+1552 Ah, ein junger Praktikant! Komm, komm, lass dir die Wange tätscheln. Dann debattieren wir, wie in den guten alten Eurogruppen-Zeiten.
+1553 Bravo! Du verdienst das Steuervorbescheid-Abzeichen. Und das ist nicht vertraulich!
+1554 Komm, mach nicht so ein Gesicht, ich scherze… halb.
+1555 Ich fahre mit dem Rad an der Mosel entlang! Und debattiere im Roaming, gratis!
+1556 Sogar ohne Roaming-Gebühren habe ich alles verloren.
+1557 Analyst
+1558 Die Märkte preisen meinen Sieg mit 87 % ein.
+1559 Die Märkte haben sich geirrt. Wie immer.
+1560 Winzer
+1561 Mein Crémant ist g.U. Meine Euromons auch. Fast.
+1562 Na gut, ich lade Sie trotzdem auf ein Glas ein.
+1563 Billig kaufen, teuer verkaufen, hart debattieren!
+1564 Crash! Ich bin im Minus!
+1565 Laut meinem Modell verlieren Sie. Mein Modell irrt sich nie. Außer 2008.
+1566 Ich muss meine Prognosen anpassen.
+1567 Arenachampion
+1568 Willkommen bei der Europäischen Zentralbank. Hier lege ich die Zinsen fest… und das Tempo der Debatte. Meine Attacken hängen vom heutigen Leitzins ab!
+1569 Großartig. Sie verdienen das Euro-Abzeichen. Und keine Sorge: Ich bin nicht da, um Ihren Spread zu verringern.
+1570 Preisstabilität ist auch Siegstabilität.
+1571 Klimaaktivistin
+1572 Jede verlorene Debatte ist ein Grad mehr! Los!
+1573 Na gut, immerhin war es klimaneutral.
+1574 Exklusiv! „Praktikant verliert kläglich“!
+1575 Ich ändere die Schlagzeile: „Praktikant gewinnt kläglich gut“.
+1576 Weinbauer
+1577 Der Rhein eine Grenze? Nein, auf beiden Seiten gibt's Wein! Wir stoßen nach der Debatte an.
+1578 Prost trotzdem!
+1579 Ich habe heute Morgen 2000 Änderungsanträge eingereicht. Der erste betrifft Sie.
+1580 Meine Änderungsanträge wurden en bloc abgelehnt…
+1581 Die Sitzung ist in Straßburg, unsere Koffer sind da, debattieren wir!
+1582 Ich fahre zurück nach Brüssel. Mit meinen Koffern.
+1583 Ruhe im Plenarsaal! Die Sitzung ist eröffnet. Ich erteile das Wort… Ihnen. Und entziehe es Ihnen wieder.
+1584 Angenommen! Das Plenarsaal-Abzeichen wird Ihnen mit absoluter Mehrheit zuerkannt.
+1585 Die Sitzung ist geschlossen. Kommen Sie zur nächsten Tagung wieder.
+1586 Schulden sind wie Moussaka: schwer verdaulich.
+1587 OXI zu dieser Niederlage!
+1588 Kontenprüfung! Ihre Euromons geben zu viel aus.
+1589 Prüfbericht: ungünstig.
+1590 Der Internationale Währungsfonds empfiehlt… Ihre Niederlage.
+1591 Korrektur unserer Prognosen: nach unten.
+1592 Ich kam mit dem Motorrad, ohne Krawatte. Wie 2015 vor der Eurogruppe. Wir debattieren und stimmen ab: OXI oder NAI?
+1593 OXI… Verzeihung, NAI: Du hast gewonnen. Nimm das OXI-Abzeichen, Genosse.
+1594 Das Volk hat gesprochen. Und das Volk bin ich.
+1595 Boulevardblatt
+1596 TITELSEITE: „Brüssel will krumme Bananen verbieten“! Stimmt nicht? Egal, verkauft sich.
+1597 Morgen auf der Titelseite: „Historische Niederlage“.
+1598 Ex-Premierminister
+1599 Hello! Ich war Brüssel-Korrespondent, wissen Sie. Ich habe Dinge geschrieben… mehr oder weniger wahr. Get debate done!
+1600 Crikey. Na ja, ich hatte sowieso noch einen Artikel über gerade Gurken.
+1601 Jetzt lachen Sie nicht mehr, was? Willkommen im Pub. Eine Debatte, ein Pint und Artikel 50.
+1602 Na gut. Nehmen Sie das Artikel-50-Abzeichen. Wir brauchen es nicht mehr.
+1603 Take back control! Zumindest über die Debatte.
+1604 Grenzbeamter
+1605 Kontrolle! Hat Ihr Euromon ein Visum?
+1606 Gehen Sie durch. Aber ich notiere es.
+1607 Berater
+1608 Der Ministerpräsident empfängt niemanden. Außer denen, die mich schlagen. Und das passiert nie.
+1609 Es ist gerade passiert.
+1610 Sie wollen meine Zustimmung? Einstimmigkeit ist erforderlich. Und ich bin nie einverstanden. Vorsicht: Ich kann jede Runde mein VETO einlegen.
+1611 Na gut… Ich gehe einen Kaffee trinken. Nehmen Sie inzwischen das Veto-Abzeichen. Offiziell habe ich mich enthalten.
+1612 Veto! Veto! Und nochmal Veto!
+1614 Sie haben keinen Zugangsausweis? Gut so, wir auch nicht.
+1615 Ich muss dieses Treffen im Transparenzregister melden…
+1616 Unser Algorithmus hat Ihre Niederlage vorhergesagt. Cookies akzeptieren?
+1617 Fehler 403: Niederlage.
+1618 Ein kleiner Koffer für Ihre Stimme? Nein? Dann eine Debatte.
+1619 Ich habe nie jemandem etwas gegeben. Notieren Sie das.
+1620 Chef des Team Lobby
+1621 Willkommen im Herzen der Macht, Praktikant. Hier schreiben wir keine Gesetze: Wir „schlagen sie vor“. Und du wirst meinen Vorschlag unterschreiben.
+1622 Unmöglich… Ein einfacher, unbezahlter Praktikant… hat die Lobby besiegt. Ich ziehe mich zurück. In die Privatwirtschaft. Ach, da bin ich ja schon.
+1623 Danke für diesen Beitrag zu unserer öffentlichen Konsultation.
+1624 Anwalt
+1625 Mein Mandant ficht das Bußgeld von 4,34 Milliarden an. Und diese Debatte.
+1626 Wir legen Berufung ein.
+1627 Jurist
+1628 Missbrauch einer marktbeherrschenden Stellung? Ich? Ich bin nur marktbeherrschend.
+1629 Bußgeld akzeptiert…
+1630 Google, Apple… Ich habe Milliarden an Bußgeldern verhängt. Hält Ihr Team die Wettbewerbsregeln ein? Prüfen wir es.
+1631 Kein Missbrauch einer marktbeherrschenden Stellung festgestellt. Das Bußgeld-Abzeichen gehört Ihnen.
+1632 Bußgeld! 4 % Ihres Umsatzes.
+1633 Huhu… Ich arbeite hier… seit 2009… na ja, auf dem Papier…
+1634 Ich kehre zurück… zu meinem fiktiven… Vertrag…
+1635 Geist der Scheinjobs
+1636 ICH BIN… DIE SUMME ALLER VERTRÄGE, DIE NIE EIN BÜRO HATTEN…
+1637 Meine… Gehaltszettel… verblassen…
+1638 Hoher Beamter
+1639 Ich war auf der ENA. Na ja, dem INSP. Kurz: Ich weiß alles.
+1640 Ich schreibe ein Memo über diesen Fehlschlag.
+1641 Minister
+1642 Ich bin Minister seit… heute Morgen. Debattieren wir vor der nächsten Kabinettsumbildung.
+1643 Umbesetzt!
+1644 Willkommen an der Sorbonne! Hier sprach ich 2017… und 2024 von einem souveränen Europa. Ich rede jetzt zwei Stunden mit Ihnen. Und zugleich debattieren wir.
+1645 Großartig! Sie verkörpern die strategische Autonomie. Nehmen Sie das Sorbonne-Abzeichen… und zugleich meine Glückwünsche.
+1646 Ich löse… Ihr Team auf!
+1647 Europäischer Rat
+1648 Wir schaffen das. Gemeinsam schaffen wir es. Aber zuerst müssen Sie mich schlagen. Lassen Sie sich Zeit: Ich habe sechzehn Jahre Erfahrung.
+1649 Sie haben es geschafft. Wir haben es geschafft.
+1650 Ich tue alles, was nötig ist, um diese Debatte zu gewinnen. Whatever it takes. Und glauben Sie mir: Es wird reichen.
+1651 Mein Bericht empfahl 800 Milliarden Investitionen pro Jahr. Investieren Sie sie in Ihr Team.
+1652 Hohe Vertreterin für Außenpolitik. Meine Diplomatie ist entschlossen. Mein baltischer Schild auch.
+1653 Ein klarer Sieg. Europa wird Leute wie Sie gegenüber dem Rest der Welt brauchen.
+1654 Präsident des Europäischen Rates
+1655 Es ist 23:59 Uhr. Mein Ziel: diesen Gipfel vor Mitternacht beenden. Zum ersten Mal in der Geschichte!
+1656 Es ist… 4:37 Uhr morgens. Wie immer. Bravo, Sie dürfen ins Berlaymont hinauf.
+1657 Kommissionspräsidentin
+1658 Willkommen im dreizehnten Stock des Berlaymont. Ich wohne hier, wissen Sie: Ich habe ein Schlafzimmer neben meinem Büro. Also, sehen wir, ob Sie die Richtlinie verdienen.
+1659 Team Europe… Sie sind der beste Praktikant, den die Kommission je hatte. Die Zeit-Richtlinie gehört Ihnen!
+1660 Ich schicke Ihnen eine SMS. Oder auch nicht.
+1661 Vizepräsident
+1662 Ich kam nach München, um euch Demokratie zu erklären. Jetzt komme ich nach Antwerpen, um euch das Debattieren zu erklären.
+1663 Gut. Ich schreibe wieder an einer Rede.
+1664 US-Präsident
+1665 TREMENDOUS! Die schönste Debatte aller Zeiten, sagen alle. Ich verhänge 200 % Zoll auf Ihre Euromons. Vielleicht 15. Mal sehen.
+1666 ES WAR MANIPULIERT! Na gut… machen wir einen Deal. 15 %. Mein letztes Wort. Für heute.
+1667 Ich habe gewonnen! Wie immer! Niemand gewinnt besser als ich.
+1668 Russischer Präsident
+1669 Setzen Sie sich. Nein, weiter weg. Noch weiter. So. Auf sechs Meter ist das Gespräch… strategischer. Ihre Attacken brauchen eine Runde, um anzukommen.
+1670 Das Gas… ist abgedreht… auf meiner Seite. Interessant.
+1671 Der Winter naht. Für Sie.
+1672 Chinesischer Präsident
+1673 Willkommen. Wir sind Partner. Und Wettbewerber. Und systemische Rivalen. Das hängt von der Runde ab.
+1674 Hmm. Ein Partner, den man respektieren muss. Ich hebe die Kontrollen für Seltene Erden auf… vorerst.
+1675 Inhalt in deiner Region nicht verfügbar.
+1676 G-Alles-Gipfel
+1677 ICH ZUERST. Der Gipfel war meine Idee. Glaube ich.
+1679 Mir war der lange Tisch lieber.
+1680 Das letzte Wort wird… systemisch sein.
+1681 Wir sprechen uns in fünfzig Jahren wieder.
+1682 Hafen Antwerpen – Freiheits-Golfplatz
+1683 Athen – Plaka
+1684 Berlaymont – 13. Stock
+1685 Laden – Athen
+1686 Laden – Budapest
+1687 Laden – Brüssel
+1688 Laden – Frankfurt
+1689 Laden – London
+1690 Laden – Luxemburg
+1691 Laden – Paris
+1692 Laden – Straßburg
+1693 Brüssel – Europaviertel
+1694 Budapest – Donauufer
+1695 Kantine – Athen
+1696 Kantine – Budapest
+1697 Kantine – Brüssel
+1698 Kantine – Frankfurt
+1699 Kantine – London
+1700 Kantine – Luxemburg
+1701 Kantine – Paris
+1702 Kantine – Straßburg
+1703 Gerichtshof der EU
+1704 Europa-Gebäude – Europäischer Rat
+1705 Frankfurt – Bankenviertel
+1706 Bahnhof – Antwerpen
+1707 Bahnhof – Athen
+1708 Bahnhof – Budapest
+1709 Bahnhof – Brüssel-Luxemburg
+1710 Bahnhof – Frankfurt
+1711 Bahnhof – Lissabon
+1712 Bahnhof – London
+1713 Bahnhof – Luxemburg
+1714 Bahnhof – Maastricht
+1715 Bahnhof – Paris
+1716 Bahnhof – Rom
+1717 Bahnhof – Straßburg
+1718 Bahnhof – Warschau
+1719 Arena Athen – Amphitheater
+1720 EZB-Turm – Handelssaal
+1721 Országház – Vetosaal
+1722 GD Wettbewerb – Arena
+1723 Plenarsaal – Plenartagung
+1724 The Brexit Arms – Pub-Arena
+1725 Arena Luxemburg – Saal der Vorbescheide
+1726 Großer Hörsaal der Sorbonne
+1727 Lissabon – Hieronymitenkloster
+1728 Hauptquartier Team Lobby – Keller
+1729 London – Westminster
+1730 Luxemburg – Kirchberg-Plateau
+1731 Maastricht – Maasufer
+1732 Haus – Frankfurt
+1733 Haus – Luxemburg
+1734 Haus – Straßburg
+1735 Paris – Quartier Latin
+1736 Europäisches Parlament – Halle
+1737 Hafen Piräus – Containerterminal
+1738 Place Lux – Der Empfang
+1739 Rom – Kapitol
+1740 Route 1 – Ardennenwald
+1741 Route 2 – Moseltal
+1742 Route 3 – Rheinweinberge
+1743 Palast – Der lange Tisch
+1744 Schengen – Moselufer
+1745 „G-Alles“-Gipfel – Plenarsaal
+1746 Straßburg – Europaviertel
+1747 Dein Studio (Ixelles)
+1748 Parlament – Geisterflügel, 1. Stock
+1749 Parlament – Geisterflügel, 2. Stock
+1750 Parlament – Geisterflügel, 3. Stock
+1751 Warschau – Östliche Ebene
+# additions
+1052 Alle zusammen! Ein solidarischer Ansturm.
+276 Jean-Claude Juncker, Luxemburg
+379 Frankfurt
+382 London
+1315 Roaming
+1678 Sad!
+826 TISZA! TISZA! TISZA!
+344 Eurodex: %d
+1752 Haus – Maastricht
+# jukebox
+1754 Titelbild
+1755 Professor Schuman
+1756 Das Labor
+1758 Dein Studio
+1761 Die Kantine
+1763 Der Laden
+1764 Der Bahnhof
+1766 Unterwegs
+1767 Kampf: wildes Euromon
+1768 Blickkontakt
+1769 Kampf: Trainer
+1771 Kampf: Oliver
+1773 Sieg
+1774 Sieg (wild)
+1775 Sieg (Trainer)
+1776 Entwicklung
+1778 Die Arena
+1780 Kampf: Arena
+1782 Kampf: Arenaleiter
+1784 Schengen
+1789 Auf Wiedersehen, Oliver
+1791 Team Lobby
+1792 Kampf: Boss
+1794 Der Geisterflügel
+1797 Der Europäische Rat
+1799 Kampf: Rat
+1802 Kampf: die Präsidentin
+1804 Kampf: Großmächte
+1807 Endkampf
+1809 Legendäre Orte
+1810 Kampf: legendär
+1812 Endkampf (Variante)
+1813 Jukebox
+1814 %d von %d Stücken
+1815 Wähle ein Stück.
+1816 JUKEBOX
+1817 A: anhören    B: zurück
+1818 Eine alte Jukebox, ausgesteckt. Ein Zettel: „Nach Ihrem ersten Abzeichen wieder einstecken. — Der Technikdienst“

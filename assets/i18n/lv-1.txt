@@ -1,0 +1,500 @@
+# Latviešu — ids 0-499
+0 LOB
+1 SKA
+2 IES
+3 MIG
+4 BLO
+5 Līm.%d
+6 DEBATĒT
+7 SOMA
+8 BĒGT
+9 KOMANDA
+10 PP %d/%d
+11 Nav efekta
+12 Ļoti efektīvs
+13 Maz efektīvs
+14 Atpakaļ
+15 Šim uzbrukumam vairs nav PP!
+16 Tavs gājiens, %s!
+17 %s sūta laukumā: %s!
+18 Bet %s jau ir problēmas…
+19 %s jau ir lobistu pusē!
+20 Centrālā baņķiera līdzekļus neiesaldē!
+21 %s ir lobija ietekmē!
+22 %s ir iepīts skandālā!
+23 %s: līdzekļi ir iesaldēti!
+24 %s aizmieg nakts samita vidū!
+25 %s ir iestrēdzis komitejā!
+26 Argumentācija
+27 Noturība
+28 Ekspertīze
+29 Diplomātija
+30 Reakcija
+31 Precizitāte
+32 Izvairīšanās
+33 %s: %s vairs nevar pieaugt!
+34 %s: %s vairs nevar samazināties!
+35 %s: %s stipri pieaug!
+36 %s: %s pieaug!
+37 %s: %s stipri samazinās!
+38 %s: %s samazinās!
+39 %s izmanto: %s!
+40 (trump)%s izmanto: %s!
+41 %s gatavo 400 lappušu lietu…
+42 Bet neviens divreiz neiekrīt dīvāna lamatās!
+43 %s plaģiē pretinieku!
+44 Bet nav ko plaģiēt…
+45 %s piemēro 50. pantu un pamet debates!
+46 %s piemēro 50. pantu un aiziet!
+47 %s piemēro 50. pantu… bet sarunas ilgs gadiem!
+48 %s aizsargājas ar veto!
+49 “VETO!” Pretinieks bloķē lēmumu, kam nepieciešama vienprātība.
+50 Bet %s netrāpa mērķī!
+51 %s jau ir dezinformēts!
+52 %s ir dezinformēts!
+53 Bet %s: HP jau ir pilni!
+54 %s atgūst HP!
+55 %s atpūšas atjaunojošā snaudā!
+56 Bet šoreiz veto neiziet cauri!
+57 %s vicina savas veto tiesības!
+58 Aizsardzības klauzula! Visas izmaiņas atceltas.
+59 %s: ziņas ir izdzēstas… Ne pēdu!
+60 Pār laukumu līst struktūrfondi!
+61 %s nonāk uz dīvāna!
+62 Bet nekas nenotiek…
+63 Tas neietekmē: %s…
+64 Kritisks trāpījums!
+65 Trāpīja %d reizes!
+66 Tas ir ļoti efektīvi!
+67 Tas nav īpaši efektīvi…
+68 %s ir iestrēdzis bezgalīgā procedūrā!
+69 %s izsūc līdzekļus!
+70 %s cieš no atsitiena!
+71 Monētas izbirst visur!
+72 %s ir pārāk satricināts, lai rīkotos!
+73 %s dziļi guļ… (pulkstenis ir 4 no rīta)
+74 %s pamostas! Samits ir beidzies.
+75 %s beidzot tiek ārā no komitejas!
+76 %s: līdzekļi ir iesaldēti! Nevar rīkoties.
+77 %s ir pārbaudījis savus avotus!
+78 %s ir dezinformēts…
+79 Tas izplata viltus ziņu un diskreditē pats sevi!
+80 Orbāns aizgāja iedzert kafiju! Viņa Euromons gaida, apjucis.
+81 %s nonāk lobistu ietekmē!
+82 Skandāls aptraipa: %s!
+83 %s ir iestidzis procedūrā!
+84 %s ir K.O.!
+85 %s apgūst: %s!
+86 %s vēlas apgūt: %s, bet jau zina četrus uzbrukumus.
+87 Neapgūt
+88 Kuru uzbrukumu aizmirst?
+89 1, 2, 3… Hop! %s aizmirst: %s…
+90 … un apgūst: %s!
+91 %s neapgūst: %s.
+92 %s iegūst %d pieredzes punktus!
+93 %s sasniedz %d. līmeni!
+94 {P} met: %s!
+95 Gatavs! %s ir reģistrēts Oficiālajā Vēstnesī!
+96 %s: dati pievienoti Eurodex.
+97 %s nosūtīts uz Arhīvu.
+98 Ak nē! %s izrāvās!
+99 Ak! Tas bija tik tuvu!
+100 Velns! Pietrūka tikai viena zīmoga!
+101 Ak! Procesuāla kļūda!
+102 %s ir noraidīts referendumā! To nevar noķert.
+103 Cita trenera Euromonu neķer! Tas būtu skandāls.
+104 {P} izmanto: %s!
+105 Kuram Euromonam?
+106 %s atgūst HP.
+107 %s jūtas labāk.
+108 %s atkal ir dienestā!
+109 Tam nebūs nekāda efekta.
+110 Tagad nav īstais brīdis!
+111 Ko sūtīt debatēs?
+112 Ko sūtīt?
+113 %s nav debatēšanas formā!
+114 %s jau ir laukumā!
+115 Nāc atpakaļ, %s!
+116 partneris
+117 konkurents
+118 sistēmisks sāncensis
+119 Pretinieka Euromons tagad uzstājas kā… %s! (tips %s)
+120 %s %s grib debatēt!
+121 Ak! Hromatisks %s!
+122 Parādās savvaļas %s!
+123 Ko darīs {P}?
+124 Oficiālas debates nepamet! Tā būtu vājuma atzīšana.
+125 Tu bēdz pa avārijas izeju!
+126 Nevar aizbēgt: sēde nav slēgta!
+127 %s izsaka argumentu… Galds ir tik garš, ka nokļūšana galā aizņems veselu gājienu!
+128 Iepriekšējā gājiena arguments beidzot sasniedz galda otru galu!
+129 %s gatavojas sūtīt: %s.
+130 Turpināt
+131 Mainīt Euromonu
+132 Mainīt Euromonu?
+133 {P} par debatēm iegūst %d €!
+134 {P} savāc %d € struktūrfondu.
+135 — STARPAINA —
+136 A: tālāk    START: izlaist
+137 Jā
+138 Nē
+139 Pieskaries vai nospied A
+140 Paldies, ka spēlēji!
+141 BEIGAS… gandrīz.
+143 Saglabājums nav nolasāms!
+144 Profesors Šūmans
+145 Sveiki, sveiki! Laipni lūdzam brīnišķīgajā… un nedaudz birokrātiskajā… Eiropas Savienības pasaulē!
+146 Mani sauc Roberts Šūmans. Varbūt esi par mani dzirdējis: stāsts par oglēm, tēraudu un 9. maiju… Es tev to izstāstīšu.
+147 Kopš tā laika šo pasauli apdzīvo dīvainas būtnes: EUROMONI!\fDirektīvas, regulas, grozījumi, sīkdatņu baneri… Tie dzīvo dokumentu kaudzēs un gaiteņu paklājos.
+148 Daži tos kolekcionē, citi liek tiem debatēt. Es tos pētu. To sauc par… komitoloģiju!
+149 Bet parunāsim par tevi. Šorīt Eiropas Parlamentā gaida divus praktikantus…
+150 Pa kreisi Alekss, jaunā praktikante (meitene). Pa labi Makss, jaunais praktikants (zēns). Kas esi tu?
+151 Alekss, meitene
+152 Makss, zēns
+153 Lieliski! Un kā man tevi oficiāli saukt? Tas jāuzraksta visās 24 valodās, tāpēc izvēlies rūpīgi.
+154 Tavs vārds (līdz 10 burtiem):
+155 {P}! Lieliski. Tūlīt likšu to pārtulkot maltiešu valodā.
+156 Šis ir Olivers, tavs praktikantu kolēģis, tieši no Londonas. Viņš ir… ļoti pašpārliecināts.
+157 Hello! Don't worry, {P}, es būšu labākais praktikants visā Savienībā. Easy.
+158 Jūsu abu misija ir vienkārša: panākt, lai tiek pieņemta VIENA direktīva.\fDirektīva par pulksteņa pārgriešanas atcelšanu. Parlaments to pieņēma 2019. gada martā…
+159 … un kopš tā laika tā guļ Padomē. Kā daudzas lietas.
+160 Lai to panāktu, jums vajadzēs 8 lielo Eiropas pilsētu nozīmītes, jāpārliecina Eiropadome un pati Komisijas priekšsēdētāja!\fNu, {P}. Tava prakse sākas tagad. Tā nav apmaksāta, bet ir izglītojoša!
+161 Lielie/mazie
+162 Dzēst
+163 Vai zināji? Parlaments pārceļas uz Strasbūru divpadsmit reizes gadā, kopā ar lādēm.
+164 ES ir 24 oficiālās valodas. Tavs praktikants runā pusotru.
+165 Padoms: pudelei piestiprinātie korķi vairs nepazūd (direktīva 2019/904).
+166 Ielādē… kā pulksteņa pārgriešanas atcelšana: nobalsota 2019, joprojām gaida.
+167 ES karogā ir 12 zvaigznes. Tas nav valstu skaits: tas ir pilnības simbols.
+168 Šūmana deklarācija ir datēta ar 1950. gada 9. maiju. 9. maijs ir Eiropas diena!
+169 Eiro monētas nonāca kabatās 2002. gada 1. janvārī.
+170 Kopš 2017. gada jūnija Eiropā vairs nav viesabonēšanas maksas. Piezvani mammai no Lisabonas!
+171 Universālais USB-C lādētājs ir obligāts kopš 2024. gada beigām. Ardievu, vadu atvilktne.
+172 Erasmus dzima 1987. gadā. Miljoniem studentu kopš tā laika ir iemācījušies vārīt makaronus.
+173 Šengenas līgums tika parakstīts 1985. gadā uz kuģa, Mozeles upē, Luksemburgā.
+174 Eiropas Parlamentā kopš 2024. gada ir 720 deputāti.
+175 Padoms: ēdnīca izārstē visu tavu komandu. Kafija gan neizārstē neko.
+176 Padoms: skrien, turot nospiestu B. Berlemona gaiteņi ir gari.
+177 Regula par banānu izliekumu (1994) pastāv… bet tā galvenokārt runā par kvalitāti.
+178 VDAR (2018) tev uzdāvināja sīkdatņu banerus. Ļoti daudz sīkdatņu baneru.
+179 Nobela Miera prēmija tika piešķirta Eiropas Savienībai 2012. gadā.
+180 Romas līgums (1957) izveidoja Eiropas Ekonomikas kopienu.
+181 Māstrihtas līgums (1992) izveidoja Eiropas Savienību un paredzēja eiro.
+182 Lisabonas līgumā (2007) ir 50. pants. To ir izmantojusi tikai viena valsts.
+183 Apvienotā Karaliste izstājās no ES 2020. gada 31. janvārī. Olivers joprojām nav atguvies.
+184 Padoms: oficiālie zīmogi labāk noķer novājinātus Euromonus.
+185 Padoms: Euromonu, kas aizmidzis nakts samitā, ir vieglāk noķert.
+186 No Berlemona azbestu izvāca no 1991. līdz 2004. gadam. Būvsapulce bija gara.
+187 ES Tiesa atrodas Luksemburgā, Kiršberga plato.
+188 ECB atrodas Frankfurtē. Tās tornis izmaksāja vairāk nekā plānots. Droši vien inflācija.
+189 Simona Veila bija tieši vēlētā Eiropas Parlamenta pirmā priekšsēdētāja 1979. gadā.
+190 Komisijā ir 27 komisāri: viens no katras valsts. Pat Austrijas zivsaimniecības politikai.
+191 Padoms: nospied X, lai atvērtu izvēlni.
+192 Donava plūst caur desmit valstīm. Tavas kurpes tikai caur divām.
+193 Eiropas dienā parādās rets Euromons. Pamēģini 9. maijā!
+194 ES tulkojumi veido miljoniem lappušu gadā.
+195 Eiropas himna ir Bēthovena “Oda priekam”, bez oficiāliem vārdiem.
+196 Padoms: Tiesiskā tipa uzbrukumi ir ļoti efektīvi pret Lobiju.
+197 Padoms: veto bloķē uzbrukumu, bet ne tavu apņēmību.
+198 Brexit ilga tik ilgi, ka izdomāja vārdu “Brextension”.
+199 Parlamentam katrā dalībvalstī ir sakaru birojs.
+200 Padoms: runā ar visiem. Pat ar baložu uz Place Lux.
+201 Dānijai ir izņēmums attiecībā uz eiro. Tā patur savu kronu, un savus vikingus.
+202 Ielādē 27 valstu atzinumus… 26 no 27… Gaidām Ungāriju.
+203 Vai zināji?
+204 Ielādē…
+205 Komanda
+206 Soma
+207 Karte
+208 Ziņojums
+209 Iestatījumi
+210 %lu h %02lu
+211 HP
+212 K.O.
+213 Līm.%d   Nr. %03d
+214 Pier.
+215 Tālāk
+216 B: atpakaļ
+217 Apmainīt ar… ?
+218 A: izvēlēties   B: atpakaļ
+219 Kopsavilkums
+220 Pārvietot
+221 Aprūpe
+222 Zīmogi
+223 Kauja
+224 Atslēgas
+225 Savvaļas Euromoni kādu laiku tevi liks mierā.
+226 %s: PP ir atjaunoti.
+227 Tam nav efekta.
+228 Tagad nav īstais brīdis to izmantot.
+229 ×%d
+230 (tukšs)
+231 Izmantot
+232 Nr. %03d  %s
+233 Noķer šo Euromonu, lai izlasītu tā kartīti.
+234 EURODEX   Redzēti: %d   Noķerti: %d
+235 Nav atrasts saglabāšanas datu nesējs.\fDS (DS Pico, R4…) palaid spēli no SD kartes. Emulatorā ieslēdz DLDI/SD karti vai izmanto stāvokļa saglabājumus.
+236 Uzrakstīt progresa ziņojumu (slots %d)?
+237 Saglabāt
+238 Cits slots…
+239 Atcelt
+240 Ziņojums nosūtīts 24 valodās. Spēle saglabāta (slots %d)!
+241 Neizdevās ierakstīt SD kartē. Mēģini vēlreiz.
+242 Iestatījumi
+243 Faktu avoti
+244 Atpakaļ uz titulekrānu
+245 Atgriezties titulekrānā? Viss nesaglabātais tiks zaudēts.
+246 ◀  × %d  ▶
+247 Kopā: %d €
+248 A: apstiprināt   B: atcelt
+249 Pirkt
+250 Pārdot
+251 Uz redzēšanos
+252 Pārdevējs
+253 Laipni lūdzam Parlamentārija veikalā! Viss ir garantēti ar CE marķējumu.
+254 Tavs budžets: %lu €
+255 Tavā somā: %d
+256 Šķiet, ka tavs budžets ir… zem izdevumu griestiem.
+257 Paldies! Un te ir Superzīmogs dāvanā, par vairumpirkumu!
+258 Paldies par pirkumu! Rēķins trīs eksemplāros.
+259 Tas? Tas nav pārdošanā, tas ir stratēģiskas nozīmes priekšmets!
+260 Darījums noslēgts!
+261 Uz redzēšanos! Neaizmirsti: USB-C lādētājs tiek pārdots atsevišķi.
+262 KOMANDA → ARHĪVS (%d/%d)
+263 ARHĪVS → KOMANDA (%d/%d)
+264 ◀▶ puse   A: pārvietot   B: iziet
+265 {P} ieslēdz Arhīva termināli. “Laipni lūdzam dokumentu pārvaldības sistēmā.”
+266 Komandā jāpaliek vismaz vienam Euromonam!
+267 Komanda ir pilna (ne vairāk kā 6 Euromoni).
+268 Nodokļu nolēmums
+269 Eiro
+270 Plenārzāle
+271 OXI
+272 50. pants
+273 Veto
+274 Sods
+275 Sorbonna
+276 Žans Klods Junkers, Luksemburga
+277 Kristīne Lagarda, Frankfurte
+278 Roberta Metsola, Strasbūra
+279 Jans Varufakis, Atēnas
+280 Faradžs & Džonsons, Londona
+281 Viktors Orbāns, Budapešta
+282 Margrēte Vestagere, Brisele
+283 Emanuels Makrons, Parīze
+284 LĪGUMU NOZĪMĪŠU FUTRĀLIS
+285 iegūta
+286 jāiekaro
+287 Nozīmīte “%s” — pasniedza %s.
+288 Kas? %s attīstās!
+289 Tu atliki reformu. %s neattīstījās.
+290 Apsveicam! %s attīstījās par: %s!
+291 Laiks: %d s
+292 Punkti: %d / %d
+293 Minispēle
+294 Plenārsēdes balsojums
+295 Deputāti ierodas plenārzālē! Pieskaries katrai vietai, kas iedegas dzeltena, pirms tā nodziest. 25 balsis 30 sekundēs!
+296 Prezidijs
+297 Pieskaries dzeltenajām vietām!
+298 Pieņemts ar lielu balsu vairākumu! Aplausi no visiem soliem.
+299 Kvorums nav sasniegts. Sēde tiek pārtraukta…
+300 Zīmogs
+301 Pa galdu slīd dokumenti. Pieskaries katram, lai to apzīmogotu, pirms tas pazūd no ekrāna. 15 dokumenti!
+302 Pieskaries dokumentiem, lai tos apzīmogotu
+303 Visi dokumenti ir apzīmogoti! Administrācija ar tevi lepojas.
+304 Daži dokumenti aizgāja bez zīmoga. Tiem būs jāiziet viss aprites cikls no jauna…
+305 Sīkdatņu baneri
+306 Sīkdatņu baneri pārņem ekrānu! Katrā pieskaries “Noraidīt”. Ja sakrājas seši baneri, tu zaudē. Izturi 25 sekundes!
+307 (kaut kāda tīmekļa vietne)
+308 Mēs cienām
+309 tavu privātumu
+310 Pieņemt
+311 Noraidīt
+312 Noraidi visu! (nespied Pieņemt)
+313 Visas sīkdatnes noraidītas! VDAR ar tevi lepojas.
+314 Baneru pārpludināts… Tu pieņēmi 437 reklāmas partnerus.
+315 Nakts samits
+316 Ir 3 naktī, un 27 valstu vadītāji aizmieg! Pūt mikrofonā (vai pieskaries guļošajai galvai), lai viņus pamodinātu. 27 pamodināšanas līdz rītausmai!
+317 %d:%02d
+318 Pūt / pieskaries guļošajai galvai!
+319 Visi ir nomodā! Vienošanās panākta 4:37. Kā parasti.
+320 Saule lec pār guļošu vadītāju galdu. Samits tiek atlikts.
+321 Strasbūras lādes
+322 Iekrauj deputātu lādes vilcienā secībā: 1, 2, 3… līdz 10. Tev ir 30 sekundes!
+323 Perons — TGV Strasbūra ⇄ Brisele
+324 Lādes
+325 Pieskaries lādēm secībā!
+326 Visas lādes ir vilcienā! Sesija var sākties.
+327 Vilciens aizbrauca bez lādēm. Deputāti sēdēs pidžamās.
+328 Valoda
+329 Teksta ātrums
+330 Teksta skaņa
+331 Mūzikas skaļums
+332 Kaujas animācijas
+333 Lēns
+334 Parasts
+335 Ātrs
+336 ↑↓ / irbulis: ritināt    B: atpakaļ
+337 Veidotāji
+338 SD karte
+339 kasetne
+340 nav
+341 {P} saņem %d × %s!
+342 {P} saņem: %s!
+343 — Tukšs slots —
+344 Eurodex: %d
+345 Turpināt: izvēlies spēli
+346 Jauna spēle: slots
+347 Saglabāt…
+348 Šajā slotā jau ir spēle. Pārrakstīt?
+349 Jauna spēle
+350 Veidotāji & avoti
+351 Galvenā izvēlne
+352 Neoficiāla parodija · v2.0
+353 Tavas dzīves prakse
+354 NOSPIED START
+355 {P} saņem: %s!
+356 Komanda ir pilna: tas tiek nosūtīts uz Arhīvu.
+357 {P} vairs nav neviena Euromona, kas spētu debatēt…\f{P} skrien atpakaļ uz ēdnīcu ar nokārtu galvu.
+358 Ēdnīcas darbiniece
+359 Nu, laba tase kafijas, un var turpināt! Tavi Euromoni ir lieliskā formā.
+360 Nodokļu nolēmuma nozīmīte
+361 Eiro nozīmīte
+362 Plenārzāles nozīmīte
+363 OXI nozīmīte
+364 50. panta nozīmīte
+365 Veto nozīmīte
+366 Soda nozīmīte
+367 Sorbonnas nozīmīte
+368 {P} saņem: %s!
+369 Tavā Eurodex ir %d noķerti Euromoni no %d redzētajiem.
+370 Žans Monē
+371 Tas ir sākums! Mazi soļi veido lielas savienības.
+372 Nav slikti! Tu virzies ātrāk nekā vasaras laika direktīva.
+373 Iespaidīgi! Pat Komisijai nav tik daudz lietu.
+374 Neparasti! Tu viens pats esi vesela iestāde.
+375 {P} atrod: %s!
+376 Klauzulas par nepiesaistīšanu termiņš ir beidzies.
+377 Brisele
+378 Luksemburga
+379 Frankfurte
+380 Strasbūra
+381 Atēnas
+382 Londona
+383 Budapešta
+384 Parīze
+385 Antverpene
+386 Varšava
+387 Roma
+388 Māstrihta
+389 Lisabona
+390 Kasieris
+391 Pašlaik nav pieejamu galamērķu.
+392 Citi galamērķi…
+393 Iekāpt! Vilciens atiet… tikai ar dažu minūšu kavēšanos.
+394 Diplomāts
+395 Žozeps Borels, bijušais Augstais pārstāvis, 2022. gadā teica: “Eiropa ir dārzs, pārējā pasaule ir džungļi.” Tas sacēla… zināmu troksni.
+396 Angela Merkele
+397 Sešpadsmit gadi kancleres amatā. Simtiem samitu. 2015. gadā es teicu: “Wir schaffen das” — mēs tiksim galā.
+398 Bet tu, vai tu tiksi galā? Esmu pirmā Padomes locekle. Neviens netiek garām bez kompromisa.
+399 Wir haben es geschafft. Vari iet tālāk. Mario tevi gaida… ar 400 lappušu ziņojumu.
+400 Mario Dragi
+401 2012. gada jūlijs, Londona. Es pateicu trīs vārdus: “Whatever it takes”. Eiro tika izglābts. Tirgi nomierinājās.
+402 2024. gadā mans konkurētspējas ziņojums prasīja līdz 800 miljardiem investīciju gadā. Investē šajās debatēs.
+403 Tu izdarīji visu nepieciešamo. Tevi gaida Kaja Kalasa. Viņa ir… ļoti tieša.
+404 Kaja Kalasa
+405 Augstā pārstāve ārlietās kopš 2024. gada decembra. Bijusī Igaunijas premjerministre.
+406 Pasaule ir bīstama. Man jāzina, vai tu spēsi turēties pretī lielvarām. Parādi man.
+407 Pamatīgi. Tev tas būs vajadzīgs. Priekšsēdētājs Košta tevi gaida. Viņš cer pabeigt pirms pusnakts.
+408 Antoniu Košta
+409 Eiropadomes priekšsēdētājs kopš 2024. gada decembra! Pulkstenis ir 23:54. Ja pabeigsim pirms pusnakts, tā būs vēsturiska pirmā reize.
+410 Bet vispirms: visi valstu vadītāji ir aizmiguši pie galda. Palīdzi man viņus pamodināt! Pūt mikrofonā… vai piesit pie ekrāna!
+411 Pulkstenis ir… 4:37. Nu labi. Kā parasti. Tomēr debatēsim.
+412 Eiropadome vienprātīgi apstiprina tavu kandidatūru! Nu… vienprātīgi mīnus viena konstruktīva atturēšanās.
+413 Komisijas priekšsēdētāja tevi gaida Berlemona 13. stāvā. Tas ir pēdējais solis pirms direktīvas.
+414 Šarls Mišels
+415 Ā, labdien. Esmu Šarls Mišels, bijušais Eiropadomes priekšsēdētājs. Es tikai… sēžu. Uz vienīgā krēsla.
+416 Ankarā 2021. gada aprīlī es apsēdos atpūtas krēslā. Urzula nonāca uz dīvāna. To nosauca par “Sofagate”. Es nekad īsti neesmu atguvies.
+417 Urzula fon der Leiena
+418 Laipni lūdzam 13. stāvā. Jā, es dzīvoju šeit: blakus manam kabinetam ir maza istaba. Tas ir ērti steidzamām lietām.
+419 Komisijas priekšsēdētāja kopš 2019. gada, pārvēlēta 2024. gadā. Zaļais kurss, Covid krīze, vakcīnas…
+420 Īsziņas ar Pfizer vadītāju? 2025. gada maijā ES Vispārējā tiesa atcēla mūsu atteikumu tās izsniegt laikrakstam New York Times. Nu labi. Turpināsim.
+421 Gribi vasaras laika direktīvu? Pieveic mani. Team Europe, beigās paliks tikai viens.
+422 Neparasti. Tu esi labākais praktikants Komisijas vēsturē. Lūk… direktīva par pulksteņa pārgriešanas atcelšanu.
+423 Atliek tikai to parakstīt. Formalitāte! Pietiek tikai ar to, lai…
+424 Lielvaras gaida! Antverpene, Varšava, Pireja… Kāp vilcienā.
+425 Tu izglābi Eiropu. Un direktīva ir… komitejā. Kā vienmēr. Paldies par visu, {P}.
+426 PĪKST PĪKST PĪKST! Trīs steidzamas ziņas vienlaikus pienāk visos Berlemona telefonos.
+427 Donalds Tramps
+428 HELLO EUROPE! Man ir neliels lūgums. Pavisam mazs. Es uzlieku muitas tarifus visam. Un es gribētu nopirkt Grenlandi. To taču var nopirkt, ne?
+429 Otrā ziņa, no austrumiem: “Gāzes krāns ir aizgriezts. Jūsu pašu labā.” Paraksts: V. P.
+430 Trešā ziņa, ļoti pieklājīga: “Mēs apturam reto zemju metālu eksportu. Jūsu telefoni darbosies… sliktāk.” Paraksts: S. Dž.
+431 {P}, direktīva pagaidīs. Lielvaras grib Eiropu nolikt uz ceļiem. Mums jādodas pie tām. Pie visām trim.
+432 Antverpenes osta, Varšava un Pirejas osta Atēnās. Stacijas tev ir atvērtas. Team Europe paļaujas uz tevi!
+433 Marks Rute
+434 Esmu NATO ģenerālsekretārs. Hāgas samitā 2025. gada jūnijā mēs apņēmāmies līdz 2035. gadam virzīties uz 5% no IKP aizsardzībai.
+435 Un es nosaucu Donaldu par “tētiņu”. Nu. Tas bija tēls. Viņam ļoti patika. Ej, viņš ir uz grīna.
+436 Džei Dī Venss
+437 2025. gada februārī Minhenes drošības konferencē es izskaidroju eiropiešiem, kas ir demokrātija. Viņi bija… pārsteigti.
+438 ŠIS IR PASAULES SKAISTĀKAIS GOLFA LAUKUMS. Es to tikko nopirku. Laikam. Ostu arī, varbūt.
+439 2025. gada 2. aprīlis, Liberation Day! Es vicināju lielu tabulu ar muitas tarifiem VISIEM. Pat salām, kur ir tikai pingvīni.
+440 2025. gada jūlijā manā golfa laukumā Ternberijā mēs ar Urzulu noslēdzām darījumu: 15%. Bet es varu pārdomāt. Es bieži pārdomāju. Tā ir stratēģija.
+441 Un Grenlande! Tā ir liela, tā ir balta, tā ir lieliska. Dānija negrib pārdot. ĻOTI NETAISNĪGI. Debatēsim, un ja es uzvarēšu, es to nopirkšu!
+442 Tas bija sarunāts. Pilnīgi sarunāts. Nu labi. Paturam 15%. Un Grenlande paliek dāņu. Pagaidām. Šovakar publicēšu kaut ko ar lielajiem burtiem.
+443 Donalds Tusks
+444 Laipni lūdzam Varšavā. Polijas premjerministrs, bijušais Eiropadomes priekšsēdētājs. Šeit zina, ko vērta ir brīvība.
+445 Volodimirs Zelenskis
+446 Kopš 2022. gada februāra mana valsts pretojas Krievijas iebrukumam. Paldies Eiropai par atbalstu. Pils ir tur augšā: esi uzmanīgs.
+447 Paņem šo REPowerEU komplektu: Eiropa ir iemācījusies iztikt bez Krievijas gāzes. Tev tas būs vajadzīgs, lai tur nenosaltu.
+448 Vladimirs Putins
+449 Apsēdies. Nē… tālāk. Tā. 2022. gada februārī es pieņēmu prezidentus šādā attālumā. Tā ir… ērtāk.
+450 Gāze? Es aizgriezu krānu. Vēlēšanas? 2024. gada decembrī Rumānijas Konstitucionālā tiesa atcēla prezidenta vēlēšanas iejaukšanās dēļ. Nesaprotu, par ko mēs runājam.
+451 Šeit taviem argumentiem būs vajadzīgs vesels gājiens, lai sasniegtu galda otru galu. Sāksim.
+452 …Tavs REPowerEU komplekts ir efektīvs. Šantāža vairs nedarbojas. Ej, pirms es saīsinu galdu.
+453 Sargs
+454 Šīs divas pandas Ķīna ir aizdevusi Eiropas zoodārzam. To sauc par “pandu diplomātiju”. Tās apēd 40 kg bambusa dienā. Pandas, ne diplomāti.
+455 Sji Dzjiņpins
+456 Laipni lūdzam. Eiropas Savienība kopš 2019. gada mūs raksturo kā partneri, konkurentu un sistēmisku sāncensi. Arī es esmu visi trīs.
+457 Jūs apliekat ar muitu mūsu elektroautomobiļus — līdz 35% kopš 2024. gada oktobra. Mēs apliekam jūsu konjaku. Un mēs uzmanām savus retos zemju metālus. Tas ir līdzsvaroti.
+458 Šajās debatēs mans Euromons katrā gājienā mainīs tipu: partneris, konkurents, sāncensis. Veiksmi sekot līdzi.
+459 Hmm. Cieņas vērts partneris. Retie zemju metāli turpinās ceļu. Pandas paliek, tās ir ļoti populāras.
+460 Aiz konteinera paiet mazs dzeltens lācītis. Parādās zīme: “Saturs nav pieejams jūsu reģionā.”
+461 Ziņa no priekšsēdētājas: “Trīs lielvaras pieprasa samitu. Tūlīt. G-Visu samitu. Es tevi tur sūtu.”
+462 TIEŠI ES IZDOMĀJU ŠO SAMITU.
+463 Galds ir par īsu.
+464 Mēs visi esam partneri. Un sāncenši.
+465 Sāksim? Es pirmais. Visi saka, ka es vislabāk protu sākt.
+466 Mēs ierosinām sākt… pēc rūpīgas pārdomāšanas. Pēc piecdesmit gadiem.
+467 Kāpēc Eiropa sēž pie galda? Tai bija jāsēž uz saliekamā krēsliņa.
+468 SALIEKAMAIS KRĒSLIŅŠ IR TREMENDOUS. Es tos pārdodu.
+469 Visi runā vienlaikus. Tulki padodas. Paliek tikai viens risinājums: debates.
+470 Zālē klusums. Trīs lielvaras skatās viena uz otru… un tad uz Eiropu.
+471 Team Europe! Kopā mēs esam stiprāki nekā atsevišķi. Tas taču ir mazliet visas Savienības stāsts, vai ne?
+472 Konkrēti sasniegumi, {P}. Faktiska solidaritāte. Es to teicu 1950. gadā. Tu to paveici vienā praksē.
+473 Un direktīva par pulksteņa pārgriešanas atcelšanu? Tā tika nosūtīta atpakaļ… uz komiteju.
+474 Bet tas jau ir cits stāsts.
+475 Piedzīvojums turpinās! Jauni vilcieni kursē uz Romu, Māstrihtu un Lisabonu. Runā, ka tur guļ leģendāri Euromoni… Un kāds tevi gaida Briseles stacijā.
+476 Antīka statuja Kapitolija laukumā. 1957. gada 25. martā sešas valstis šeit parakstīja Romas līgumu. Kaut kas kustas…
+477 Šeit 1992. gada 7. februārī Māstrihtas līgums radīja Eiropas Savienību. Milzīga eiro monēta sāk mirdzēt…
+478 2007. gada 13. decembrī Lisabonas līgums tika parakstīts Žeronimu klosterī. Tuvojas caurspīdīgs stāvs…
+479 Tālumā bēg vēl viens Euromons: Constitutio. 2005. gadā noraidīts, tas nekad neļaujas noķerties.
+480 Pirmā prakses diena Eiropas Parlamentā! Profesors Šūmans tevi gaida Parlamenta vestibilā.
+481 Tavs dators rāda 437 nelasītus e-pastus. Visiem tēma ir “Koordinācijas sanāksme par sanāksmēm”.
+482 Leopolda parks. Uzmanību: dokumentu kaudzēs mīt savvaļas Euromoni. Nebarot Amendonus.
+483 Berlemons — Eiropas Komisija. Tikai pilnvarotām personām. 13. stāvs: priekšsēdētājas kabinets (un guļamistaba).
+484 “Eiropa netiks izveidota uzreiz vai pēc vienota plāna: tā tiks veidota ar konkrētiem sasniegumiem.” — Roberts Šūmans, 1950. gada 9. maijs.
+485 Lobists
+486 Labdien! Es nenodarbojos ar lobēšanu. Es nodarbojos ar “ekspertīzes apmaiņu”. Uzkodu? Ar lasi. Norvēģu.
+487 Tūrists
+488 Excuse me, kur ir Manneken Pis? Man teica, ka viņš ir lielāks… Šajā ceļojumā man daudz ir melots.
+489 Bērns
+490 Kad izaugšu, būšu tulks! 24 valodās. Vai ugunsdzēsējs, tas ir mierīgāk.
+491 Žurnālists
+492 Es atspoguļoju ES jau divdesmit gadus. Mans mīļākais virsraksts: “Brisele saka nē”. Tas strādā katru reizi.
+493 Igo
+494 Tu uzvarēji… Runā, ka vasaras laika direktīva ir iestrēgusi Padomē kopš 2019. gada. Veiksmi, ko.
+495 Apsargs
+496 Ardēnu ceļš? Ne bez Euromona! Savvaļas lietas šajā budžeta sezonā ir agresīvas.
+497 Stāt! Neviens neatstāj Briseli bez Euromona. Vispirms ej pie profesora Šūmana, uz Parlamentu.
+498 Sargs
+499 13. stāvs? Augšā drīkst iet tikai tie, kas pārliecinājuši Eiropadomi. Un vispirms vajag astoņas nozīmītes.

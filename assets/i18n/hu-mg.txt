@@ -1,0 +1,10 @@
+# minigame NPCs
+1919 Itt a mai ítéletek kupaca. Mindet le kell bélyegezni, mielőtt a Hivatal zár. Segítesz nekem?
+1920 Tizenöt ítélet, tizenöt bélyegző! A Bíróság köszöni. Vedd ezeket a minősített bélyegzőket, sokkal jobban működnek.
+1921 Hibátlan, mint mindig. Luxembourg szereti a módszeres embereket.
+1922 Néhány ítélet bélyegző nélkül ment el… Fellebbezésben visszatérnek. Próbáld meg újra, amikor akarod.
+1923 Nem baj. Lebélyegzem őket magam. Három eredeti példányban.
+1924 Fogadjunk, hogy nem tudod mindet elutasítani. Senkinek nem sikerül. Próbáljuk?
+1925 Lehetetlen… Mindent elutasítottál?! Jól van. Itt egy jogi állásfoglalás. Ingyen. Ne mondd el senkinek.
+1926 Már megint te! Az ablakainknak semmi esélyük.
+1927 Köszönjük, hogy elfogadtad a 437 partnerünket! Az adataid jó kezekben vannak. A mieinkben.

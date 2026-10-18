@@ -1,0 +1,487 @@
+# Svenska — ids 0-499
+0 LOB
+1 SKA
+2 FRY
+3 SOV
+4 BLO
+5 Nv.%d
+6 DEBATT
+7 VÄSKA
+8 FLY
+9 LAG
+10 PP %d/%d
+11 Ingen effekt
+12 Supereffektiv
+13 Föga effektiv
+14 Tillbaka
+15 Inga PP kvar för den attacken!
+16 Din tur, %s!
+17 %s skickar in %s!
+18 Men %s har redan ett problem…
+19 %s står redan på lobbyisternas sida!
+20 Man fryser inte en centralbankirs tillgångar!
+21 %s är under en lobbys inflytande!
+22 %s är indragen i en skandal!
+23 %s:s medel är frysta!
+24 %s somnar mitt under nattmötet!
+25 %s har fastnat i utskottet!
+26 Argumentation
+27 Motståndskraft
+28 Expertis
+29 Diplomati
+30 Reaktion
+31 Precision
+32 Undvikande
+33 %s: %s kan inte öka mer!
+34 %s: %s kan inte minska mer!
+35 %s: %s ökar kraftigt!
+36 %s: %s ökar!
+37 %s: %s minskar kraftigt!
+38 %s: %s minskar!
+39 %s använder %s!
+40 (trump)%s använder %s!
+41 %s förbereder en akt på 400 sidor…
+42 Men ingen går i soffällan två gånger!
+43 %s plagierar motståndaren!
+44 Men det finns inget att plagiera…
+45 %s åberopar artikel 50 och lämnar debatten!
+46 %s åberopar artikel 50 och går!
+47 %s åberopar artikel 50… men förhandlingarna kommer att ta år!
+48 %s skyddar sig med ett veto!
+49 ”VETO!” Motståndaren blockerar beslutet, enhällighet krävs.
+50 Men %s:s attack missar målet!
+51 %s är redan desinformerad!
+52 %s är desinformerad!
+53 Men %s har redan max HP!
+54 %s återfår HP!
+55 %s tar en återhämtande tupplur!
+56 Men vetot går inte igenom den här gången!
+57 %s viftar med sin vetorätt!
+58 Skyddsklausul! Alla förändringar upphävs.
+59 %s:s meddelanden har raderats… Inga spår kvar!
+60 Strukturfonder regnar över planen!
+61 %s hamnar i soffan!
+62 Men ingenting händer…
+63 Det påverkar inte %s…
+64 Kritisk träff!
+65 Träffade %d gånger!
+66 Det är supereffektivt!
+67 Det är inte särskilt effektivt…
+68 %s är fast i ett ändlöst förfarande!
+69 %s tappar medel!
+70 %s får ta smällen!
+71 Mynt sprids överallt!
+72 %s är för omskakad för att agera!
+73 %s sover djupt… (klockan är 4 på morgonen)
+74 %s vaknar! Toppmötet är över.
+75 %s kommer äntligen ut ur utskottet!
+76 %s:s medel är frysta! Kan inte agera.
+77 %s har kollat sina källor!
+78 %s är desinformerad…
+79 Den sprider en falsk uppgift och misskrediterar sig själv!
+80 Orbán har gått ut för att ta en kaffe! Hans Euromon väntar, villrådig.
+81 %s påverkas av lobbyisterna!
+82 Skandalen stänker på %s!
+83 %s har kört fast i förfarandet!
+84 %s är K.O.!
+85 %s lär sig %s!
+86 %s vill lära sig %s, men kan redan fyra attacker.
+87 Lär dig inte
+88 Vilken attack ska glömmas?
+89 1, 2, 3… Hopp! %s glömmer %s…
+90 … och lär sig %s!
+91 %s lär sig inte %s.
+92 %s får %d erfarenhetspoäng!
+93 %s når nivå %d!
+94 {P} kastar en %s!
+95 Klart! %s är registrerad i Europeiska unionens officiella tidning!
+96 Uppgifter om %s läggs till i Eurodexen.
+97 %s skickas till Arkivet.
+98 Åh nej! %s slet sig loss!
+99 Argh! Det var så nära!
+100 Attans! Det saknades bara en stämpel!
+101 Argh! Ett formfel!
+102 %s har förkastats i en folkomröstning! Den går inte att fånga.
+103 Man fångar inte en annan tränares Euromon! Det vore en skandal.
+104 {P} använder %s!
+105 På vilken Euromon?
+106 %s återfår HP.
+107 %s mår bättre.
+108 %s är tillbaka i tjänst!
+109 Det kommer inte ha någon effekt.
+110 Det är inte rätt tillfälle!
+111 Vem ska skickas till debatten?
+112 Vem ska skickas in?
+113 %s är inte i skick att debattera!
+114 %s är redan på planen!
+115 Kom tillbaka, %s!
+116 partner
+117 konkurrent
+118 systemrival
+119 Motståndarens Euromon presenterar sig nu som… %s! (typ %s)
+120 %s %s vill debattera!
+121 Oj! En kromatisk %s!
+122 En vild %s dyker upp!
+123 Vad ska {P} göra?
+124 Man lämnar inte en officiell debatt! Det vore att erkänna sig svag.
+125 Du flyr genom nödutgången!
+126 Du kan inte fly: sammanträdet är inte avslutat!
+127 %s framför sitt argument… Bordet är så långt att det tar en hel tur att nå fram!
+128 Förra turens argument når äntligen bordets andra ände!
+129 %s tänker skicka in %s.
+130 Fortsätt
+131 Byt Euromon
+132 Byta Euromon?
+133 {P} vinner %d € för debatten!
+134 {P} plockar upp %d € i strukturfonder.
+135 — MELLANSEKVENS —
+136 A: nästa    START: hoppa över
+137 Ja
+138 Nej
+139 Tryck eller tryck på A
+140 Tack för att du spelade!
+141 SLUT… nästan.
+143 Oläslig sparfil!
+144 Professor Schuman
+145 Hej, hej! Välkommen till Europeiska unionens underbara… och lätt byråkratiska… värld!
+146 Jag heter Robert Schuman. Du har kanske hört talas om mig: en historia om kol, stål och den 9 maj… Jag ska berätta den för dig.
+147 Sedan dess befolkas den här världen av märkliga varelser: EUROMONS!\fDirektiv, förordningar, ändringsförslag, cookie-banners… De bor i dokumenthögarna och i korridorernas heltäckningsmattor.
+148 Vissa samlar på dem, andra låter dem debattera. Jag studerar dem. Det kallas… kommittéförfarande!
+149 Men nu om dig. I morse väntas två praktikanter till Europaparlamentet…
+150 Till vänster Alex, den nya praktikanten (hon). Till höger Max, den nya praktikanten (han). Vem är du?
+151 Alex, en tjej
+152 Max, en kille
+153 Perfekt! Och vad ska jag kalla dig, officiellt? Det måste skrivas på alla 24 språken, så välj noga.
+154 Ditt förnamn (max 10 tecken):
+155 {P}! Utmärkt. Jag ska få det översatt till maltesiska genast.
+156 Det här är Oliver, din praktikantkollega, direkt från London. Han är… väldigt självsäker.
+157 Hello! Don't worry, {P}, jag blir hela unionens bästa praktikant. Easy.
+158 Ert uppdrag, för er båda, är enkelt: att få ETT direktiv antaget.\fDirektivet om slopad sommartid. Parlamentet röstade igenom det i mars 2019…
+159 … och sedan dess sover det i rådet. Som så mycket annat.
+160 För att lyckas behöver ni de 8 märkena från Europas stora städer, övertyga Europeiska rådet och kommissionens ordförande själv!\fSå där, {P}. Din praktik börjar nu. Den är oavlönad, men lärorik!
+161 Versaler
+162 Radera
+163 Visste du? Parlamentet flyttar till Strasbourg tolv gånger om året, koffertar och allt.
+164 EU har 24 officiella språk. Din praktikant talar ett och ett halvt.
+165 Tips: korkar fästa vid flaskan försvinner inte längre (direktiv 2019/904).
+166 Laddar… som slopandet av sommartiden: röstat 2019, fortfarande på väntelistan.
+167 EU-flaggan har 12 stjärnor. Det är inte antalet länder: det är en symbol för fulländning.
+168 Schumandeklarationen är från den 9 maj 1950. Den 9 maj är Europadagen!
+169 Euromynten hamnade i fickorna den 1 januari 2002.
+170 Sedan juni 2017 finns inga roamingavgifter i Europa. Ring mamma från Lissabon!
+171 Den universella USB-C-laddaren är obligatorisk sedan slutet av 2024. Hej då, kabellådan.
+172 Erasmus föddes 1987. Miljontals studenter har sedan dess lärt sig laga pasta.
+173 Schengenavtalet undertecknades 1985 på en båt, på Mosel, i Luxemburg.
+174 Europaparlamentet har 720 ledamöter sedan 2024.
+175 Tips: matsalen helar hela ditt lag. Kaffet helar däremot ingenting.
+176 Tips: spring genom att hålla in B. Berlaymonts korridorer är långa.
+177 Förordningen om bananers krökning (1994) finns… men den handlar mest om kvalitet.
+178 GDPR (2018) gav dig cookie-banners. Väldigt många cookie-banners.
+179 Nobels fredspris tilldelades Europeiska unionen 2012.
+180 Romfördraget (1957) skapade Europeiska ekonomiska gemenskapen.
+181 Maastrichtfördraget (1992) skapade Europeiska unionen och planerade euron.
+182 Lissabonfördraget (2007) innehåller artikel 50. Bara ett land har använt den.
+183 Storbritannien lämnade EU den 31 januari 2020. Oliver har fortfarande inte hämtat sig.
+184 Tips: officiella stämplar fångar försvagade Euromons bättre.
+185 Tips: en Euromon som somnat av ett nattmöte är lättare att fånga.
+186 Berlaymont asbestsanerades 1991–2004. Byggmötet var långt.
+187 EU-domstolen sitter i Luxemburg, på Kirchbergplatån.
+188 ECB ligger i Frankfurt. Tornet kostade mer än beräknat. Inflation, antagligen.
+189 Simone Veil var den första ordföranden för det direktvalda Europaparlamentet, 1979.
+190 Kommissionen har 27 kommissionärer: en per land. Även för Österrikes fiskepolitik.
+191 Tips: tryck på X för att öppna menyn.
+192 Donau flyter genom tio länder. Dina skor bara genom två.
+193 På Europadagen dyker en sällsynt Euromon upp. Prova den 9 maj!
+194 EU:s översättningar uppgår till miljontals sidor om året.
+195 Europahymnen är Beethovens Ode till glädjen, utan officiell text.
+196 Tips: attacker av typen Juridisk är supereffektiva mot Lobby.
+197 Tips: vetot blockerar en attack, men inte din beslutsamhet.
+198 Brexit pågick så länge att man uppfann ordet ”Brextension”.
+199 Parlamentet har ett kontaktkontor i varje medlemsstat.
+200 Tips: prata med alla. Även med duvan på Place Lux.
+201 Danmark har ett undantag från euron. Landet behåller sin krona, och sina vikingar.
+202 Laddar 27 nationella yttranden… 26 av 27… Vi väntar på Ungern.
+203 Visste du?
+204 Laddar…
+205 Lag
+206 Väska
+207 Karta
+208 Rapport
+209 Inställningar
+210 %lu h %02lu
+211 HP
+212 K.O.
+213 Nv.%d   nr %03d
+214 Erf.
+215 Nästa
+216 B: tillbaka
+217 Byt plats med… ?
+218 A: välj   B: tillbaka
+219 Översikt
+220 Flytta
+221 Vård
+222 Stämplar
+223 Strid
+224 Nycklar
+225 Vilda Euromons lämnar dig i fred ett tag.
+226 %s:s PP är återställda.
+227 Det har ingen effekt.
+228 Det är inte rätt tillfälle att använda det.
+229 ×%d
+230 (tom)
+231 Använd
+232 nr %03d  %s
+233 Fånga denna Euromon för att läsa dess kort.
+234 EURODEX   Sedda: %d   Fångade: %d
+235 Inget lagringsmedium hittades.\fPå DS (DS Pico, R4…), starta spelet från SD-kortet. I emulator, aktivera DLDI/SD-kortet eller använd sparlägen.
+236 Skriva en lägesrapport (plats %d)?
+237 Spara
+238 Annan plats…
+239 Avbryt
+240 Rapport skickad på 24 språk. Spelet sparat (plats %d)!
+241 Det gick inte att skriva till SD-kortet. Försök igen.
+242 Inställningar
+243 Källor till fakta
+244 Tillbaka till titeln
+245 Gå tillbaka till titelskärmen? Allt som inte är sparat går förlorat.
+246 ◀  × %d  ▶
+247 Totalt: %d €
+248 A: bekräfta   B: avbryt
+249 Köp
+250 Sälj
+251 Hej då
+252 Försäljare
+253 Välkommen till Parlamentariumbutiken! Allt är garanterat CE-märkt.
+254 Din budget: %lu €
+255 I din väska: %d
+256 Det verkar som om din budget är… under utgiftstaket.
+257 Tack! Och här är en Superstämpel på köpet, för storköpet!
+258 Tack för ditt köp! Faktura i tre exemplar.
+259 Det där? Det är inte till salu, det är ett föremål av strategisk betydelse!
+260 Affären är klar!
+261 Hej då! Glöm inte: USB-C-laddaren säljs separat.
+262 LAG → ARKIV (%d/%d)
+263 ARKIV → LAG (%d/%d)
+264 ◀▶ sida   A: flytta   B: avsluta
+265 {P} startar Arkivets terminal. ”Välkommen till dokumenthanteringssystemet.”
+266 Du måste behålla minst en Euromon i laget!
+267 Laget är fullt (högst 6 Euromons).
+268 Förhandsbesked
+269 Euro
+270 Plenarsal
+271 OXI
+272 Artikel 50
+273 Veto
+274 Böter
+275 Sorbonne
+276 Jean-Claude Juncker, Luxemburg
+277 Christine Lagarde, Frankfurt
+278 Roberta Metsola, Strasbourg
+279 Yanis Varoufakis, Aten
+280 Farage & Johnson, London
+281 Viktor Orbán, Budapest
+282 Margrethe Vestager, Bryssel
+283 Emmanuel Macron, Paris
+284 FÖRDRAGENS MÄRKESETUI
+285 erövrat
+286 att erövra
+287 Märke %s — utdelat av %s.
+288 Vad? %s utvecklas!
+289 Du sköt upp reformen. %s utvecklades inte.
+290 Grattis! %s utvecklades till %s!
+291 Tid: %d s
+292 Poäng: %d / %d
+293 Minispel
+294 Plenaromröstning
+295 Ledamöterna kommer in i plenarsalen! Tryck på varje plats som lyser gult innan den slocknar. 25 röster på 30 sekunder!
+296 Talman
+297 Tryck på de gula platserna!
+298 Antaget med bred majoritet! Applåder från alla bänkar.
+299 Beslutförhet uppnås inte. Sammanträdet ajourneras…
+300 Stämpeln
+301 Dokument glider förbi på skrivbordet. Tryck på varje dokument för att stämpla det innan det lämnar skärmen. 15 dokument!
+302 Tryck på dokumenten för att stämpla dem
+303 Alla dokument är stämplade! Förvaltningen är stolt över dig.
+304 Några dokument gick iväg utan stämpel. De får göra om hela rundan…
+305 Cookie-banners
+306 Cookie-banners invaderar skärmen! Tryck på ”Avvisa” på varje. Om sex banners samlas har du förlorat. Håll ut i 25 sekunder!
+307 (en webbplats, vilken som helst)
+308 Vi respekterar
+309 din integritet
+310 Acceptera
+311 Avvisa
+312 Avvisa allt! (klicka inte på Acceptera)
+313 Alla cookies avvisade! GDPR är stolt över dig.
+314 Översvämmad av banners… Du har accepterat 437 annonspartner.
+315 Nattmöte
+316 Klockan är 3 på natten och de 27 stats- och regeringscheferna somnar! Blås i mikrofonen (eller tryck på huvudet som sover) för att väcka dem. 27 väckningar före gryningen!
+317 %d:%02d
+318 Blås / tryck på det sovande huvudet!
+319 Alla vakna! Överenskommelse klockan 4.37. Som vanligt.
+320 Solen går upp över ett bord fullt av sovande ledare. Toppmötet skjuts upp.
+321 Koffertarna till Strasbourg
+322 Lasta ledamöternas koffertar på tåget, i ordning: 1, 2, 3… upp till 10. Du har 30 sekunder!
+323 Perrong — TGV Strasbourg ⇄ Bryssel
+324 Koffertarna
+325 Tryck på koffertarna i ordning!
+326 Alla koffertar är på tåget! Sessionen kan börja.
+327 Tåget gick utan koffertarna. Ledamöterna får sammanträda i pyjamas.
+328 Språk
+329 Texthastighet
+330 Textljud
+331 Musikvolym
+332 Stridsanimationer
+333 Långsam
+334 Normal
+335 Snabb
+336 ↑↓ / penna: rulla    B: tillbaka
+337 Medverkande
+338 SD-kort
+339 kassett
+340 inget
+341 {P} får %d × %s!
+342 {P} får: %s!
+343 — Tom plats —
+344 Eurodex: %d
+345 Fortsätt: välj ett spel
+346 Nytt spel: plats
+347 Spara på…
+348 Den här platsen innehåller redan ett spel. Skriva över det?
+349 Nytt spel
+350 Medverkande & källor
+351 Huvudmeny
+352 Inofficiell parodi · v2.0
+353 Ditt livs praktik
+354 TRYCK PÅ START
+355 {P} får %s!
+356 Laget är fullt: den skickas till Arkivet.
+357 {P} har ingen Euromon kvar som kan debattera…\f{P} springer tillbaka till matsalen med sänkt huvud.
+358 Matsalsbiträde
+359 Så där, en god kopp kaffe så är vi igång igen! Dina Euromons är i toppform.
+360 Förhandsbeskedsmärket
+361 Euromärket
+362 Plenarsalsmärket
+363 OXI-märket
+364 Artikel 50-märket
+365 Vetomärket
+366 Bötesmärket
+367 Sorbonnemärket
+368 {P} får %s!
+369 Din Eurodex har %d fångade Euromons av %d sedda.
+371 Det är en början! Små steg gör stora unioner.
+372 Inte illa! Du går fortare fram än sommartidsdirektivet.
+373 Imponerande! Inte ens kommissionen har så många akter.
+374 Extraordinärt! Du är en hel institution på egen hand.
+375 {P} hittar: %s!
+376 Värvningsförbudsklausulen har löpt ut.
+377 Bryssel
+378 Luxemburg
+379 Frankfurt
+380 Strasbourg
+381 Aten
+382 London
+383 Budapest
+384 Paris
+385 Antwerpen
+386 Warszawa
+387 Rom
+388 Maastricht
+389 Lissabon
+390 Biljettförsäljare
+391 Inga resmål tillgängliga just nu.
+392 Fler resmål…
+393 Ombordstigning! Tåget avgår… med bara några minuters försening.
+394 Diplomat
+395 Josep Borrell, den tidigare höga representanten, sa 2022: ”Europa är en trädgård, resten av världen är en djungel.” Det väckte… viss uppmärksamhet.
+397 Sexton år som förbundskansler. Hundratals toppmöten. 2015 sa jag: ”Wir schaffen das” — vi klarar det.
+398 Men du, klarar du det? Jag är rådets första medlem. Ingen kommer förbi utan en kompromiss.
+399 Wir haben es geschafft. Du får passera. Mario väntar på dig… med en rapport på 400 sidor.
+401 Juli 2012, London. Jag sa tre ord: ”Whatever it takes”. Euron räddades. Marknaderna lugnade sig.
+402 2024 krävde min rapport om konkurrenskraft upp till 800 miljarder i investeringar per år. Investera i den här debatten.
+403 Du gjorde allt som krävdes. Kaja Kallas väntar på dig. Hon är… väldigt rak.
+405 Hög representant för utrikesfrågor sedan december 2024. Tidigare Estlands premiärminister.
+406 Världen är farlig. Jag måste veta om du klarar dig mot stormakterna. Visa mig.
+407 Stabilt. Det kommer du att behöva. Ordförande Costa väntar på dig. Han hoppas bli klar före midnatt.
+409 Europeiska rådets ordförande sedan december 2024! Klockan är 23.54. Om vi blir klara före midnatt blir det en historisk premiär.
+410 Men först: alla stats- och regeringschefer har somnat runt bordet. Hjälp mig att väcka dem! Blås i mikrofonen… eller tryck på skärmen!
+411 Klockan är… 4.37. Nåja. Som vanligt. Vi debatterar ändå.
+412 Europeiska rådet godkänner din kandidatur enhälligt! Nja… enhälligt minus en konstruktiv nedlagd röst.
+413 Kommissionens ordförande väntar på dig på 13:e våningen i Berlaymont. Det är sista steget före direktivet.
+415 Åh, goddag. Jag är Charles Michel, tidigare ordförande för Europeiska rådet. Jag sitter bara… här. På den enda stolen.
+416 I Ankara, i april 2021, tog jag fåtöljen. Ursula hamnade i soffan. Det kallades ”Sofagate”. Jag har aldrig riktigt kommit över det.
+418 Välkommen till 13:e våningen. Ja, jag bor här: det finns ett litet rum bredvid mitt kontor. Praktiskt för brådskande ärenden.
+419 Kommissionens ordförande sedan 2019, omvald 2024. Den gröna given, covidkrisen, vaccinerna…
+420 Sms:en med Pfizers vd? I maj 2025 ogiltigförklarade EU-tribunalen vårt avslag på New York Times begäran om att få se dem. Nåväl. Vidare.
+421 Vill du ha sommartidsdirektivet? Besegra mig. Team Europe, i slutändan kan bara en finnas kvar.
+422 Extraordinärt. Du är den bästa praktikanten i kommissionens historia. Här är… direktivet om slopad sommartid.
+423 Nu återstår bara att få det undertecknat. En formalitet! Det räcker att…
+424 Stormakterna väntar! Antwerpen, Warszawa, Pireus… Ta tåget.
+425 Du har räddat Europa. Och direktivet är… i kommittén. Som alltid. Tack för allt, {P}.
+426 PIP PIP PIP! Tre brådskande meddelanden kommer samtidigt till alla telefoner i Berlaymont.
+428 HELLO EUROPE! Jag har en liten begäran. Pytteliten. Jag lägger tullar på allt. Och jag vill köpa Grönland. Det går väl att köpa?
+429 Andra meddelandet, från öst: ”Gaskranen är stängd. För ert eget bästa.” Undertecknat: V. P.
+430 Tredje meddelandet, mycket artigt: ”Vi stoppar vår export av sällsynta jordartsmetaller. Era telefoner kommer att fungera… sämre.” Undertecknat: X. J.
+431 {P}, direktivet får vänta. Stormakterna vill tvinga Europa på knä. Vi måste besöka dem. Alla tre.
+432 Hamnen i Antwerpen, Warszawa och hamnen i Pireus, i Aten. Stationerna är öppna för dig. Team Europe räknar med dig!
+434 Jag är Natos generalsekreterare. Vid toppmötet i Haag i juni 2025 lovade vi att gå mot 5 % av BNP till försvar till 2035.
+435 Och jag kallade Donald ”pappa”. Nåja. Det var en bild. Han älskade det. Gå, han är på greenen.
+437 I februari 2025, på säkerhetskonferensen i München, förklarade jag för européerna vad demokrati är. De blev… överraskade.
+438 DET HÄR ÄR VÄRLDENS VACKRASTE GOLFBANA. Jag har just köpt den. Tror jag. Hamnen också, kanske.
+439 Den 2 april 2025, Liberation Day! Jag viftade med en stor tabell med tullar för ALLA. Även för öar där det bara finns pingviner.
+440 I juli 2025, på min golfbana i Turnberry, gjorde Ursula och jag en deal: 15 %. Men jag kan ändra mig. Jag ändrar mig ofta. Det är en strategi.
+441 Och Grönland! Det är stort, det är vitt, det är magnifikt. Danmark vill inte sälja. MYCKET ORÄTTVIST. Vi debatterar, och om jag vinner köper jag det!
+442 Det var riggat. Totalt riggat. Nåja. Vi behåller 15 %. Och Grönland förblir danskt. Tills vidare. Jag postar något med versaler i kväll.
+444 Välkommen till Warszawa. Polens premiärminister, tidigare ordförande för Europeiska rådet. Här vet vi vad frihet är värd.
+445 Volodymyr Zelenskyj
+446 Sedan februari 2022 står mitt land emot den ryska invasionen. Tack, Europa, för ert stöd. Palatset ligger där uppe: var försiktig.
+447 Ta det här REPowerEU-paketet: Europa har lärt sig klara sig utan rysk gas. Du kommer att behöva det för att hålla värmen där uppe.
+448 Vladimir Putin
+449 Sätt dig. Nej… längre bort. Så. I februari 2022 tog jag emot presidenter på det här avståndet. Det är mer… bekvämt.
+450 Gasen? Jag stängde kranen. Valen? I december 2024 ogiltigförklarade Rumäniens författningsdomstol ett presidentval mot bakgrund av inblandning. Jag förstår inte vad vi pratar om.
+451 Här tar dina argument en hel tur att nå bordets andra ände. Vi börjar.
+452 …Ditt REPowerEU-paket är effektivt. Utpressningen fungerar inte längre. Gå, innan jag kortar bordet.
+453 Vakt
+454 De här två pandorna är utlånade av Kina till ett europeiskt zoo. Det kallas ”pandadiplomati”. De äter 40 kg bambu om dagen. Pandorna, alltså, inte diplomaterna.
+456 Välkommen. Europeiska unionen har sedan 2019 beskrivit oss som en partner, en konkurrent och en systemrival. Jag är också alla tre.
+457 Ni lägger tull på våra elbilar — upp till 35 % sedan oktober 2024. Vi lägger tull på er konjak. Och vi håller koll på våra sällsynta jordartsmetaller. Det är balanserat.
+458 I den här debatten byter min Euromon typ varje tur: partner, konkurrent, rival. Lycka till med att hänga med.
+459 Hmm. En partner värd respekt. De sällsynta jordartsmetallerna får resa igen. Pandorna stannar, de är väldigt populära.
+460 En gul liten björn går förbi bakom en container. En skylt visas: ”Innehållet är inte tillgängligt i din region.”
+461 Ett meddelande från ordföranden: ”De tre stormakterna kräver ett toppmöte. Genast. G-Allt-toppmötet. Jag skickar dig dit.”
+462 DET VAR JAG SOM KOM PÅ IDÉN MED DET HÄR TOPPMÖTET.
+463 Bordet är för kort.
+464 Vi är alla partner. Och rivaler.
+465 Ska vi börja? Jag först. Alla säger att jag är bäst på att börja.
+466 Vi föreslår att börja… efter moget övervägande. Om femtio år.
+467 Varför sitter Europa vid bordet? Det skulle sitta på extrastolen.
+468 EXTRASTOLEN ÄR TREMENDOUS. Jag säljer sådana.
+469 Alla pratar samtidigt. Tolkarna ger upp. Det finns bara en lösning kvar: debatten.
+470 Tystnad i salen. De tre stormakterna tittar på varandra… och sedan på Europa.
+471 Team Europe! Tillsammans är vi starkare än var för sig. Det är väl lite hela unionens historia?
+472 Konkreta resultat, {P}. En faktisk solidaritet. Jag sa det 1950. Du gjorde det under en praktik.
+473 Och direktivet om slopad sommartid? Det har skickats tillbaka… till kommittén.
+474 Men det är en annan historia.
+475 Äventyret fortsätter! Nya tåg går till Rom, Maastricht och Lissabon. Det sägs att legendariska Euromons sover där… Och någon väntar på dig på stationen i Bryssel.
+476 En antik staty på Kapitoliumtorget. Den 25 mars 1957 undertecknade sex länder Romfördraget här. Något rör sig…
+477 Här, den 7 februari 1992, gav Maastrichtfördraget upphov till Europeiska unionen. Ett jättelikt euromynt börjar lysa…
+478 Den 13 december 2007 undertecknades Lissabonfördraget i Jerónimosklostret. En genomskinlig gestalt närmar sig…
+479 I fjärran flyr en annan Euromon: Constitutio. Förkastad 2005 låter den sig aldrig fångas.
+480 Första praktikdagen på Europaparlamentet! Professor Schuman väntar på dig i parlamentets entréhall.
+481 Din dator visar 437 olästa mejl. Alla har ämnet ”Samordningsmöte om möten”.
+482 Parc Léopold. Varning: dokumenthögarna hyser vilda Euromons. Mata inte Amendonerna.
+483 Berlaymont — Europeiska kommissionen. Endast behörig personal. 13:e våningen: ordförandens kontor (och sovrum).
+484 ”Europa kommer inte att byggas på en gång, eller enligt en enda plan: det kommer att byggas genom konkreta resultat.” — Robert Schuman, 9 maj 1950.
+485 Lobbyist
+486 Hej! Jag lobbar inte. Jag håller på med ”expertisdelning”. En liten kanapé? Den är med lax. Norsk.
+487 Turist
+488 Excuse me, var är Manneken Pis? Jag fick höra att han var större… Jag har blivit lurad om mycket på den här resan.
+489 Barn
+490 När jag blir stor ska jag bli tolk! På 24 språk. Eller brandman, det är lugnare.
+491 Journalist
+492 Jag har bevakat EU i tjugo år. Min favoritrubrik: ”Bryssel säger nej”. Den funkar varje gång.
+494 Du vann… Det sägs att sommartidsdirektivet har legat fast i rådet sedan 2019. Lycka till, du.
+495 Säkerhetsvakt
+496 Vägen genom Ardennerna? Inte utan Euromon! De vilda akterna är aggressiva så här under budgetsäsongen.
+497 Stopp! Ingen lämnar Bryssel utan Euromon. Gå först till professor Schuman, i parlamentet.
+498 Vakt
+499 13:e våningen? Bara de som övertygat Europeiska rådet får gå upp. Och först behövs de åtta märkena.

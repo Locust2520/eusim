@@ -1,0 +1,468 @@
+# Dansk — ids 500-999
+500 I Europa-bygningen holder Det Europæiske Råd møde. Du skal have traktaternes otte mærker for at blive modtaget.
+501 Betjent
+502 Kommissæren er… meget optaget. Man siger, at Team Lobby blokerer alle hendes undersøgelser. Det foregår under baren på Place Lux.
+503 GD Konkurrence modtager kun erfarne praktikanter. Kom tilbage med mindst seks mærker.
+504 Parlamentsansat
+505 Velkommen til Europa-Parlamentet! Professor Schuman venter på dig for enden af forhallen.
+506 Trappen til højre fører op til etagerne… Man siger, at det spøger i en af fløjene. Jeg går der aldrig selv.
+507 Ah, {P}! Der er du endelig! Præcis… på en time nær. Forbandede tidsomstilling.
+508 Hi! Jeg kom for en time siden. Jeg kører på London-tid.
+509 Professorens laboratorium
+510 Godt. I skal arbejde med Euromons. Parlamentets sager er fulde af dem.
+511 Jeg har tre her, helt unge. De er født af store europæiske idéer. Vælg din, {P}.
+512 De kommer ud af… papmapper?
+513 I Bruxelles begynder alt, hvad der betyder noget, i en papmappe, Oliver. Selv Europa.
+514 VERDEAL, født af den grønne pagt. CHARBONNET, udsprunget af Kul- og Stålfællesskabet fra 1951. Eller ATOMINO, direkte fra Euratom.
+515 Verdeal (type Grøn)
+516 Charbonnet (type Industri)
+517 Atomino (type Energi)
+518 Fremragende valg! Pas godt på den. Én velbehandlet Euromon er bedre end ti dårligt ratificerede traktater.
+519 Så tager jeg den, der slår din. That's just smart negotiation.
+520 Oliver! Det er ikke særlig… fællesskabsorienteret.
+521 Kom så, {P}, en lille debat for at se, hvem der er den bedste praktikant?
+522 What?! Jeg tabte til en praktikant fra kontinentet?! Det var… en generalprøve.
+523 Ha! Som planlagt. Tag det ikke ilde op, {P}, det er kulturelt.
+524 Godt gået, begge to. Nu missionen: at få direktivet om afskaffelse af tidsomstilling vedtaget.
+525 Parlamentet vedtog det i marts 2019. Siden da sover det i Rådet. I skal have traktaternes otte mærker for at blive taget alvorligt.
+526 Det første mærke venter i Luxembourg, hos Jean-Claude Juncker. Tag vejen gennem Ardennerne, mod øst.
+527 Luxembourg? Easy. Jeg er der før dig. See you, loser… øh, kollega!
+528 Et øjeblik, {P}! Jeg er Jean Monnet. Jeg opfandt de små skridts metode. Her er et stort skridt: EURODEXEN.
+529 Den registrerer hver Euromon, du møder. Og her er noget at stemple dem officielt med.
+530 Svæk en vild Euromon, og kast så et officielt stempel fra TASKEN. Europa regner med dig!
+531 Mod på, {P}! Hvert mærke er en lille sten. Som med Europa: konkrete resultater.
+532 Otte mærker! Det Europæiske Råd venter på dig i Europa-bygningen. Jeg er så stolt.
+533 Vis mig din Eurodex…
+534 Tal først med professor Schuman, unge praktikant.
+535 Professoren er derovre. Skynd dig, jeg keder mig.
+536 Rute 1 — Ardennerskoven. Luxembourg: 3 timer til fods, 12 minutter med skattetilsagn.
+537 Vandrer
+538 Ardennerskoven strækker sig over tre lande. Vildsvinene har aldrig vist pas.
+540 En dag får vi løn. En dag…
+541 Hr. Dupont
+542 Glem ikke at udfylde tilfredshedsskemaet. Det er på 12 sider.
+544 Landbrugspolitikken er en tredjedel af EU's budget. Og min mejetærsker er en tredjedel af mit lån.
+545 Luxembourg-Kirchberg. EU-Domstolen, Revisionsretten, Den Europæiske Investeringsbank. Og masser af helt almindelige banker.
+546 Mod Schengen, landsbyen ved Mosel, hvor aftalen fra 1985 blev underskrevet. Følg stien mod syd.
+547 En lille sti går ned mod Mosel… og mod Schengen.
+548 Den offentlige transport er gratis her! Jeg har kørt rundt i byen med sporvogn 14 gange. For ingenting. Gratis.
+549 Bedstemor
+550 Min mand var EU-tjenestemand. Han arbejdede i Revisionsretten. Han talte endda får for at falde i søvn.
+551 Dommer
+552 Den Europæiske Unions Domstol har haft sæde her siden 1952. Vores domme gælder i alle 27 stater. Selv mandag morgen.
+553 Justitssekretær
+554 Jeg oversatte en dom til 24 sprog. I den maltesiske version er der en trykfejl. Ingen har set den i ti år.
+555 Luxembourgsk tolder
+556 Vejen langs Mosel er forbeholdt indehavere af Skattetilsagnsmærket. Gå til hr. Juncker, på Den Gyldne Arena.
+557 {P}! Stadig her? Jeg har allerede besøgt tre banker og åbnet to konti. For folklorens skyld.
+558 Debat!
+559 Okay, okay, du bliver bedre. Jeg smutter til Frankfurt og ECB. De har lovet at forklare mig renter.
+561 Her i Luxembourg er diskretion en dyd. Og en industri.
+562 Advokat Klein
+563 Skattetilsagnene var lovlige, ved du. Det var bare ikke meningen, at nogen skulle læse dem. LuxLeaks, 2014, sikke en ulykke.
+565 Ah, Schumans lille praktikant! Kom, kom. Jeg startede også i det små. Så premierminister i atten år.
+566 Jeg har været formand for Eurogruppen og så for Kommissionen. Jeg har set mange topmøder. Og klappet mange kinder.
+567 En gang, i 2011, sagde jeg: »Når det bliver alvorligt, må man lyve.« Så jeg vil ikke sige, at jeg lader dig vinde.
+568 Fantastisk! Du har vundet Skattetilsagnsmærket. Det her er officielt, ikke fortroligt!
+569 Vejen langs Mosel er åben for dig. Frankfurt venter, og Christine Lagarde laver ikke sjov med renter.
+570 Kigger du forbi igen? Kom her, så jeg kan klappe dig på kinden. Det er luxembourgsk tradition. Altså, min.
+571 Her, den 14. juni 1985, om bord på båden Princesse Marie-Astrid, underskrev fem lande Schengen-aftalen om afskaffelse af grænsekontrollen.
+572 Kaptajn
+573 Princesse Marie-Astrid! Det var på sådan en båd, man afskaffede grænserne. Ironisk, på en flod, der selv er en grænse.
+574 Man siger, at en sjælden Euromon, Schengeon, lusker rundt i landsbyens sager. Den stopper aldrig i tolden.
+575 Rute 2 — Moseldalen. Tre lande på tyve kilometer. Husk at skifte sprog.
+577 Gratis roaming er Unionens smukkeste gave. Jeg har lagt 4.000 billeder af Mosel op.
+579 Ifølge mine beregninger vinder du det næste mærke. Men mine beregninger passer sjældent.
+581 Luxembourgsk crémant har beskyttet oprindelsesbetegnelse! Ligesom min Fromajus.
+582 Den Europæiske Centralbank. Mission: prisstabilitet. Inflationsmål: 2 % på mellemlang sigt. Mellemlang sigt: ikke angivet.
+584 Markederne er nervøse. De er altid nervøse. Det er deres job.
+585 Sparer
+586 Jeg har stadig min madras fuld af D-mark. Man ved aldrig.
+587 Vejen til Rhinen er lukket for praktikanter uden Euromærket. Gå til fru Lagarde i ECB.
+589 Jeg spekulerede i dit nederlag. Jeg mistede skjorten. Og slipset.
+590 Dr. Sofia
+591 Chokket var eksogent. Fuldstændig eksogent.
+593 Velkommen til Den Europæiske Centralbank. Her flytter hvert ord, jeg siger, markederne. Så jeg vælger mine ord.
+594 En dag i marts 2020 sagde jeg, at vi »ikke er her for at mindske spreads«. De italienske markeder styrtdykkede. Man lærer.
+595 I min arena følger mine angrebs styrke den aktuelle styringsrente. Klar til lidt pengepolitik?
+596 Bemærkelsesværdigt. Din strategi var… forudsigelig, i god forstand. Her er Euromærket.
+597 Strasbourg ligger mod syd, efter vinmarkerne ved Rhinen. Roberta Metsola er formand for Parlamentet. Afbryd hende aldrig.
+598 Renterne er stabile i dag. Nyd det, det varer aldrig.
+599 ECB forklarede mig alt: inflationen, renterne, balancen… Jeg forstod ingenting. Kom så, en debat, så jeg kan slappe af!
+600 Hmm. Ved du hvad, derhjemme i London taler nogle om at forlade Unionen. Det ville være latterligt, ikke? …Ikke?
+602 Den grønne pagt blev præsenteret i december 2019. Siden da har vi kæmpet om hvert komma.
+604 Min næste artikel: »Kommissionen vil forbyde tabte debatter«. Det er ikke sandt, men det går viralt.
+606 Vinen fra Alsace og vinen fra Baden ser på hinanden hen over Rhinen. Før var det kanoner. Fremskridt!
+607 Strasbourg, Europa-Parlamentets officielle hjemsted. 12 plenarsessioner om året. 720 medlemmer. Tusindvis af kufferter.
+608 MEP'er
+609 Jeg har pendlet Bruxelles–Strasbourg tolv gange om året siden 2014. Det giver… 132 flytninger. Mine kufferter har flere bonuspoint end mig.
+610 Tjenestemand
+611 Hjælp! Sessionen begynder om 2 minutter, og medlemmernes kufferter er ikke læsset! Kan du hjælpe mig?
+612 Alle kufferter er om bord! Her, tag det her, det er logistikafdelingens officielle belønning.
+613 Mislykket… Nå, vi siger, at sessionen begynder for sent. Som sædvanlig. Prøv igen, når du vil!
+614 Nå… jeg går ud og græder i en kuffert igen.
+615 MEP Müller
+616 Mine 2.000 ændringsforslag… forkastet en bloc. Vi må begynde forfra i udvalget.
+617 MEP Rossi
+618 Til Lissabontraktaten havde jeg en hel kuffert med noter. Den blev i Bruxelles.
+619 Betjent
+620 Ro i salen! Formanden accepterer kun debatter efter en afstemning. Vil du prøve en afstemning i plenum?
+621 Vedtaget med flertal! Formanden vil modtage dig.
+622 Forkastet… Salen var ikke beslutningsdygtig. Prøv igen!
+623 Din stemme er registreret. Formanden venter på dig.
+625 Mødet er åbnet. Parlamentets formand siden 2022, genvalgt i 2024: jeg er vant til at håndhæve taletiden.
+626 Du har tredive sekunder. Åh, de er allerede gået. Nå, lad os debattere!
+627 Resultatet er klart: vedtaget! Plenarsalsmærket tilfalder dig.
+628 Og her er det europæiske Interrail-kort. Med det er alle stationer åbne for dig. Dit næste mærke er i Athen.
+629 Man siger, at Yanis Varoufakis giver undervisning der… på motorcykel. Tag toget fra stationen i Strasbourg.
+630 En debat? Ikke uden en afstemning i plenum. Tal med betjenten.
+631 Næste session er om en måned. Glem ikke jeres kufferter!
+632 Athen. Demokratiets, filosofiens… og folkeafstemningen den 5. juli 2015s vugge.
+633 Akropolis er 2.500 år gammel. Den har overlevet perserne, osmannerne og trojkaen.
+634 Græsk tolder
+635 Havnen i Piræus? Lukket for besøgende. Den tilhører… partnere. Meget partnere.
+636 Beklager, adgang til havnen er begrænset. Kom tilbage, når situationen er… mere diplomatisk.
+638 I 2015 stemte jeg OXI. Og bagefter… det er kompliceret.
+639 Trojka-agent (ECB)
+640 Vores rapport anbefaler endnu mere stramning. Selv for dine Euromons.
+641 Trojka-agent (IMF)
+642 Vi indrømmer nogle fejl i vores prognoser. Mellem os.
+644 Kommer du efter et mærke? Jeg kom her på motorcykel, i læderjakke, uden slips. Som til Eurogruppens møder i 2015.
+645 Finansminister i seks måneder. Jeg gik af efter folkeafstemningen: 61 % for OXI. Demokrati er smukt, og stædigt.
+646 Trojkaen ventede på mig. Du har slået dens agenter. Vis mig, om du er stærkere end sparepolitikken!
+647 NAI! Øh, jeg mener: bravo. Her er OXI-mærket, kammerat.
+648 Dit næste mærke er i London. Men skynd dig: derovre taler man mere og mere om en vis udgang.
+649 Jeg tager af sted og holder et foredrag. Om gæld. På motorcykel.
+650 Westminster. Her, den 23. juni 2016, stemte Storbritannien med 51,9 % for at forlade Den Europæiske Union.
+651 Kongelig garder
+652 (Han rører sig ikke. Ikke engang for brexit.)
+653 Chefredaktør
+654 I morgen kører vi en overskrift om for lige agurker. Det har virket i tyve år.
+656 I 1990'erne var jeg Daily Telegraphs korrespondent i Bruxelles. Jeg skrev ting… med fantasi. Get Brexit done!
+658 Velkommen til pubben! En pint? Jeg brugte tyve år i Europa-Parlamentet på at forklare, at vi ikke burde være der.
+659 Den 28. juni 2016 sagde jeg til medlemmerne: »Nu griner I ikke længere, hva'?«. De grinede ikke. Det kommer du heller ikke til.
+660 Nå. Du vandt. Tag dette Artikel 50-mærke. Vi har allerede brugt den.
+661 Er du her stadig? Vi har meldt os ud, ved du.
+662 Jeg må tage hjem. Jeg må ikke længere være praktikant i Parlamentet. Men først… en sidste debat. For æren.
+663 Tak, {P}. Hold øje med direktivet for mig. Og med sommertiden. Hos os ændrer vi den selvfølgelig aldrig.
+664 Goodbye. Eller rettere… see you later. Hvem ved?
+665 Oliver er rejst. Toget til London vises ikke længere i billetlugen. Næste etape: Budapest, ved Donau.
+666 Országház, Ungarns parlament, ved Donaus bred. Ungarns største bygning. Og det største veto.
+667 Ung ungarsk kvinde
+668 Man siger, at oppositionen vinder frem. En vis Péter Magyar fører valgkamp i hele landet.
+670 Ungarerne stemte den 12. april 2026. Mit parti, Tisza, fik to tredjedeles flertal. Et nyt kapitel begynder!
+672 Vi har bygget et hegn. Det bruges mest til at tage billeder.
+673 Særlig rådgiver
+674 Premierministeren går snart ud for at få en kop kaffe. Det er en forhandlingsteknik.
+676 Kommer du efter en aftale? Her kræves enstemmighed. Og jeg er aldrig enig.
+677 I 2024 var jeg formand for EU's Råd med sloganet »Make Europe Great Again«. Minder det dig om noget?
+678 I min arena kan jeg nedlægge VETO hver tur. Og nogle gange… går jeg ud og får en kop kaffe. Som i december 2023, under afstemningen om Ukraine.
+679 …Nå. Jeg undlader at stemme. Tag dette Vetomærke. Officielt var jeg ikke i lokalet.
+680 Nogle måneder senere, den 12. april 2026, stemmer ungarerne. Péter Magyars parti Tisza vinder med to tredjedeles flertal.
+681 Orbán anerkendte sit nederlag: »smertefuldt, men klart«. Tak, praktikant. Tag tilbage til Bruxelles: man siger, at GD Konkurrence har et problem… med lobbyen.
+682 Jeg er gået ud for at få en kop kaffe. Kom tilbage senere. Meget senere.
+683 Bartender
+684 På Place Lux torsdag aften kommer hele Bruxelles for at få en drink. Medlemmerne, assistenterne… og lobbyisterne. Især lobbyisterne.
+685 Kælderen? Kun for medlemmer. Er du optaget i åbenhedsregistret? Nej? Det er jeg heller ikke. Kom bare ind.
+686 Gå videre, praktikant. Her taler de voksne forretninger.
+687 Olielobbyist
+688 Den grønne omstilling? Den støtter vi. Fra 2080.
+689 Tech-lobbyist
+690 Vi respekterer GDPR. Vi har endda et cookie-banner på 47 sider.
+691 Kufferterne? Det er dokumentationskufferter. Meget veldokumenterede.
+693 I december 2022 fandt belgisk politi tasker med pengesedler i flere lejligheder i Bruxelles. Det blev kaldt »Qatargate«.
+694 Jeg var næstformand i Parlamentet. Jeg har altid bestridt anklagerne. På tidspunktet for dette spil er der ikke afsagt nogen endelig dom i sagen.
+695 Bemærk: enhver, der er mistænkt, anses for uskyldig, indtil vedkommende er dømt.
+696 Chef-lobbyisten
+697 Se, se. Praktikanten. Ved du, hvor mange vi er i Bruxelles? 25.000. Og du er én.
+698 Dit sommertidsdirektiv? Jeg har kunder, der sælger ure. Det forbliver blokeret. Medmindre…
+699 Godt spillet. Jeg melder officielt mit nederlag i åbenhedsregistret. Og smutter over i det private. Åh, der er jeg allerede.
+700 Team Lobby spredes. GD Konkurrences undersøgelser kan genoptages!
+701 Big Tech-advokat
+702 Vi anker. Og så anker vi anken.
+703 Konkurrencejurist
+704 Misbrug af dominerende stilling… »Misbrug« er et stærkt ord.
+706 Tak, fordi du befriede os for Team Lobby. Mine sager kommer endelig videre!
+707 Google: 2,4 milliarder euro i bøde i 2017, 4,3 milliarder i 2018. Apple: 13 milliarder i skattestøtte, der skal betales tilbage, bekræftet af Domstolen i 2024.
+708 Overholder dit hold konkurrencereglerne? Det vil jeg kontrollere. Personligt.
+709 Ingen overtrædelser konstateret. Bødemærket er dit. Og tag også dette: mærket fra OLAF, Kontoret for Bekæmpelse af Svig.
+710 Der meldes om… mærkelige tilstedeværelser i en fløj af Parlamentet. Assistenter, som ingen nogensinde ser. Med dette mærke vil du se dem.
+711 Ingen bøde til dig i dag. Nyd det.
+712 En kold gang… Man hører tastaturer, der skriver af sig selv. Men der er ingen. Man skulle bruge en måde at se det usynlige på.
+713 Det er bedst at gå ned igen for nu.
+714 Spøgelsesassistent
+715 Mit kontor? Jeg har aldrig fundet det…
+716 Jeg blev betalt for at assistere… et parti. Ikke et medlem.
+717 Uhh… Tidsomstillingen får mig til at dukke op to gange om året…
+718 Min kontrakt siger »lokal assistent«. Lokal for hvad? Et mysterium.
+719 Jeg forsvinder… endelig…
+720 Tak… fordi du befriede mig fra den kontrakt…
+722 Sagen om FN's parlamentariske assistenter: systemet aflønnede partiets ansatte med Europa-Parlamentets penge.
+723 Jeg blev dømt i første instans den 31. marts 2025 og derefter i appelretten den 7. juli 2026: tre år, heraf ét ubetinget med fodlænke, og femten måneders valgbarhedsforbud.
+724 Med denne dom i appelretten bliver hendes kandidatur til præsidentvalget i 2027 teoretisk muligt igen. En sidste kassationsanke er stadig mulig.
+726 Sagen om MoDem-assistenterne er noget andet. I februar 2024 blev jeg frifundet »på grund af tvivl«. Anklagemyndigheden ankede.
+727 Derefter var jeg premierminister… fra december 2024 til september 2025. Tiden går hurtigt i Matignon.
+728 Spøgelsesassistenterne laver ikke politik: de hjemsøger alle de partier, der har ansat dem forkert.
+729 Den Tomme Kontrakt
+730 JEG ER… ÅNDEN FRA ALLE KONTRAKTER UDEN KONTOR… FRA ALLE PARTIER… FRA ALLE VALGPERIODER…
+731 Den Tomme Kontrakt opløses i en sky af lønsedler. Spøgelsesfløjen er endelig rolig.
+732 En besked fra Roberta Metsola kommer: »Tak! Det sidste mærke venter på dig i Paris, på Sorbonne.«
+733 Sorbonne. Her holdt Emmanuel Macron to store taler om Europa, i 2017 og i 2024. Den anden varede næsten to timer.
+734 Jeg spurgte om vej på engelsk. Jeg fik svar på fransk. Med et smil. Et meget svagt.
+735 ENA-kandidat
+736 Jeg har skrevet et sammenfattende notat om mit nederlag. Det er på 80 sider.
+737 Viceminister
+738 Jeg er lige blevet skiftet ud midt i kampen. Det er rekord.
+740 Velkommen til Sorbonne! Her talte jeg om et suverænt Europa i 2017. Så om et Europa, der »kan dø«, i 2024.
+741 I 2019 sagde jeg, at NATO var »hjernedødt«. I 2024 opløste jeg Nationalforsamlingen. Jeg kan lide… overraskende beslutninger.
+742 Så lad os debattere og samtidig tænke. Strategisk autonomi!
+743 Storslået! Du har stof i dig til at blive en stor europæer. Og samtidig alt det andet. Sorbonnemærket er dit.
+744 Med otte mærker venter Det Europæiske Råd på dig i Europa-bygningen i Bruxelles. Held og lykke: deres topmøder slutter sjældent før kl. 5 om morgenen.
+745 Jeg ville gerne tale med dig om Europa i to timer, men du har et Råd at overbevise.
+746 Prolog — 9. maj 1950
+747 9. maj 1950
+748 Paris, Quai d'Orsay, kl. 18
+750 Mine herrer, tak fordi I kom. Jeg skal fatte mig i korthed. Altså… jeg skal prøve.
+751 (lavt) Det siger han hver gang.
+752 (lavt) Robert. Sætningen om kullet. Glem ikke sætningen om kullet.
+753 »Den franske regering foreslår, at hele den fransk-tyske kul- og stålproduktion underlægges en fælles høj myndighed.«
+754 Kul? Stål? Gik vi glip af aperitiffen for det?
+755 Fem år efter krigen er idéen enkel og vanvittig: at lægge det sammen, man laver kanoner af.
+756 Så krig bliver »ikke blot utænkelig, men materielt umulig«.
+757 Seks lande i 1951. Så ni, tolv, femten, femogtyve… Syvogtyve i dag.
+758 Og hver morgen, et sted i Bruxelles, vågner en praktikant for sent.
+759 Kapitel 1
+760 Mandag. Dit vækkeur viser 6.58. Din telefon 7.58. Den ene af dem har ikke fået besked om tidsomstillingen.
+762 FØRSTE PRAKTIKDAG!
+763 Rue de la Loi. En croissant, tre sager, nul værdighed.
+764 Cyklist
+765 Cykelsti! Selv praktikanter overholder forordning 2019/1242! Jeg tror i hvert fald, den findes.
+766 {P}! Første dag, og allerede en time forsinket. Jeg har været her siden 6.58. London-tid, selvfølgelig.
+767 Professor Schuman venter på os i Parlamentets forhal. Jeg sagde, du var syg. Du kan takke mig senere.
+768 Kapitel 2 — Luxembourg
+769 Kapitel 2
+770 Adolphe-broen spænder over Pétrusse-dalen. Nedenunder haver. Ovenover banker. I midten dit tog.
+771 Ah, den lille englænder! Kom her, så jeg kan kysse dig!
+772 Sir, I… we don't do that. I England giver vi hånd. På afstand. Med handsker.
+773 Det her er Luxembourg. Vi giver kindkys, klapper på kinden og taler fire sprog i samme sætning. Moien, bonjour, guten Tag, hello!
+775 Min Gyldne Arena ligger i Kirchberg, praktikant. Kom, når du vil. Jeg klapper kinder gratis. Det er den eneste gratis service i kvarteret.
+776 Schengen, tre grænser
+777 Schengen. Her mødes Frankrig, Tyskland og Luxembourg med spidsen af vinrankerne.
+778 Den 14. juni 1985 underskrev fem lande her, på en båd, aftalen, der afskaffer grænsekontrollen. På en flod, der ER en grænse. Vi elsker ironi ved Mosel.
+779 Tolder
+780 Tredive år har jeg stemplet pas. Og nu? Sommerfuglene flyver over uden visum.
+781 Jeg vil omskole mig. Postkortstempler. Det er et fremtidsmarked.
+782 Kapitel 3 — Frankfurt
+783 Kapitel 3
+784 Frankfurt am Main
+785 Frankfurt om natten. To glastårne, et eurosymbol stort som en bus. Den Europæiske Centralbank sover aldrig. Den holder øje med inflationen.
+786 Kan du se det her håndtag? Styringsrenten. Jeg hæver den, priserne falder til ro. Jeg sænker den, økonomien ånder.
+787 Jeg kommer til at røre den med albuen, og tre regeringer falder. Så jeg læner mig aldrig op ad skrivebordet.
+788 IT'S RAINING EUROS! Er det her kvantitative lempelser?!
+789 Nej, hr. Det er aircondition, der har blæst sedlerne væk fra udstillingen. Giv dem tilbage. Allesammen. Jeg tæller.
+790 Kapitel 4 — Strasbourg
+791 Kapitel 4
+792 En gang om måneden flytter Parlamentet fra Bruxelles til Strasbourg. Med sine medlemmer, sine assistenter… og tusindvis af kufferter.
+793 MEP'er
+794 Min kuffert har været med til flere plenarsessioner end mig. Den har endda en plads i transportudvalget.
+795 Mødet er åbnet! …Hvor er medlemmerne?
+796 Fru formand, de leder stadig efter deres kufferter på perronen.
+797 Så stemmer vi ved håndsoprækning. Har kufferterne stemmeret? Nej? Synd, de kommer i hvert fald til tiden.
+798 Kapitel 5 — Athen
+799 Kapitel 5
+800 Akropolis i solnedgangen. To og et halvt tusind års demokrati, filosofi… og møder, der slutter sent.
+801 Hr. Varoufakis, Deres plan stemmer ikke overens med vores regneark.
+802 Jeres regneark stemmer ikke overens med virkeligheden. Jeg foreslår en debat. På motorcykel, hvis I kan følge med.
+803 Vi kører ikke motorcykel. Vi giver anbefalinger.
+804 Så anbefal jer selv at flytte jer. Jeg har en arena, der venter.
+805 Kapitel 6 — London
+806 Kapitel 6
+807 London i regnvejr. Som sædvanlig. Men denne gang svæver noget tungere i luften.
+808 En pint til alle! Og en bus til kampagnen! Lige meget hvad vi skriver på den, folk læser bussen, ikke fodnoterne.
+809 Ingen panik! Jeg sidder fast på en svævebane, men det er en strategi. Get Brexit done! Og kan nogen skaffe en stige, tak.
+810 Folkeafstemningen
+811 23. juni 2016. 51,9 % af vælgerne vælger at forlade Den Europæiske Union.
+812 Den 31. januar 2020 ved midnat Bruxelles-tid — kl. 23 i London — er Storbritannien ikke længere medlem af Unionen.
+813 Ved du, hvad der er mærkeligt? Jeg ville ikke være her i starten. Jeg ville bare vinde.
+814 Og nu skal jeg rejse, og jeg har ikke lyst længere. Ironic, isn't it?
+815 Du kommer tilbage. Der er Erasmus, udvekslinger, studievisa…
+816 Erasmus? Det har vi også forladt. Men jeg finder en måde. Englænderne finder altid en måde at komme tilbage til Europa på. Det hedder ferie.
+817 Kapitel 7 — Budapest
+818 Kapitel 7
+819 Det ungarske parlament, gyldent ved Donau. Landets største bygning. Og Europas største samling af »VETO«-stempler.
+820 EU-budgettet? Veto. Hjælp til Ukraine? Veto. Ny farve på Rådets adgangskort? Veto. Af princip.
+821 Hr. premierminister, det var Deres frokostbestilling.
+822 …Veto alligevel. Jeg kan ikke lide, at andre bestemmer for mig.
+823 12. april 2026
+824 Ungarere! I aften har vi ikke vundet over Europa eller over vores naboer. Vi har vundet for os selv!
+825 Menneskemængde
+826 TISZA! TISZA! TISZA!
+827 Jeg surmuler ikke. Jeg tænker. Med ryggen til. Med en sky over hovedet. Det er noget helt andet.
+828 December 2022 — daggry
+829 Bruxelles, december 2022. Ved daggry foretager belgisk politi ransagninger omkring Place Lux.
+830 Betjent
+831 Chef, der er tasker. Med sedler i. Masser af sedler.
+832 Politichef
+833 Tæl dem. Og rør ikke fodbolden, den kan være et bevis.
+834 Ansvarlige i Parlamentet og personer i deres omgangskreds anholdes. Efterforskningen drejer sig om mulig korruption til fordel for fremmede stater.
+835 Alle mistænkte anses for uskyldige, indtil de er endeligt dømt.
+836 (i det fjerne) Vi har intet med det at gøre. Vi betaler med kanapéer. Det er mere diskret.
+837 GD Konkurrence
+838 Endnu en bøde. Jeg skriver under, smiler og strikker en elefant. Det er meget beroligende.
+839 Fru kommissær, de digitale giganter beder om en udsættelse.
+840 Bevilget. De har indtil… nu.
+842 Forordningen om digitale tjenester gælder for alle, hr. Musk. Selv netværk, der skifter navn hver sjette måned.
+844 Jeg svarer med et meme. Det er min officielle juridiske holdning.
+845 Jeg svarer med et brev på fire sider. Det er min.
+846 De trækker i hver sin ende af telefonen. Telefonen viser »lavt batteri«.
+847 Spøgelsesassistenternes tårn
+848 Takket være OLAF-mærket bliver det usynlige synligt. Gennemsigtige assistenter svæver i gangen med en lønseddel i hånden.
+849 Goddag… Jeg har arbejdet her siden 2009… Altså, min kontrakt arbejder her… Jeg er aldrig kommet her…
+850 Mine arbejdsgivere er helt deroppe. De siger, at de ikke kender mig. Det er krænkende, for et spøgelse.
+851 (bag døren) Jeg er her ikke. Og hvis jeg er, er det på grund af tvivl.
+852 Kapitel 9 — Paris
+853 Kapitel 9
+854 Paris i den gyldne time. Eiffeltårnet, Seinen og et sted en tale, der begynder og aldrig slutter.
+855 Europa skal være suverænt! Magtfuldt! Humanistisk! Og jeg vil endda tilføje, hvis I tillader, og det vil jeg tillade mig…
+856 Studerende
+857 Hvor længe har han talt?
+858 Studerende
+859 En time og fyrre minutter. Han er lige blevet færdig med indledningen.
+860 Jeg er for stramning OG for investering. For åbenhed OG for beskyttelse. Jeg er enig med Dem OG med Deres modstander.
+861 Hvad hedder det?
+862 »Samtidig«. Patenteret. Altså, samtidig er det fri afbenyttelse.
+863 April 2021 — Ankara
+864 April 2021, Ankara. Tre ledere træder ind i lokalet. Der er to lænestole.
+866 (sidder allerede) Åh. Åh nej. Nu forstår jeg det.
+867 Nej, nej, bliv bare siddende. Jeg har det fint i denne sofa. Den er lang. Den er beige. Den er langt væk.
+868 Episoden gik verden rundt under navnet »Sofagate«. Siden da tæller Charles Michel stolene, før han går ind nogen steder.
+869 Kapitel 10 — Det Europæiske Råd
+870 Kapitel 10
+871 Det Europæiske Råds nat
+872 Europa-bygningen. I dens glaslygte mødes stats- og regeringscheferne. Topmøderne begynder kl. 15. De slutter… senere.
+873 Kære kolleger, klokken er 4.12. Vi mangler at løse et komma i punkt 37.
+874 Jeg har været med til topmøder, hvor vi forhandlede om et komma til morgenmaden. Det var et meget smukt komma.
+875 Jeg foreslår et komma. Whatever it takes.
+876 Jeg foreslår, at vi bestiller flere pizzaer, før nogen foreslår et semikolon.
+877 AFTALE! Klokken er 5.03. Konklusionerne er vedtaget. Kan nogen vække premierministeren, der sover under bordet?
+878 13. etage
+879 Berlaymont i solnedgangen. Tretten etager. På den øverste venter Kommissionens formand.
+880 Charles, kan De holde op med at surmule? Det er fem år siden.
+881 Jeg surmuler ikke. Jeg kigger på væggen. Den er meget interessant, den væg. Den har ingen lænestol.
+882 {P}. Der er du endelig.
+883 Vil du have direktivet? Slå mig. Team Europe, til sidst kan der kun være én tilbage.
+884 Praktikanternes væg
+885 På 13. etage er der en lang gang med billeder af alle Kommissionens praktikanter. Ingen kigger nogensinde på dem.
+886 I dag er en ny guldramme lige blevet hængt op. Og for en gangs skyld stopper nogen op for at kigge.
+887 Kapitel 11 — Stormagterne
+888 Kapitel 11
+889 Stormagterne
+890 Havnen i Antwerpen. Et præsidentfly lander. Mågerne flyver forsigtigt væk mod Nederlandene.
+891 TV-vært
+892 Ekstraudsendelse! Washington, Moskva og Beijing sender samtidig beskeder til Europa. Markederne tøver mellem panik og en lur.
+893 Cafégæst
+894 Igen? Jeg har ikke engang spist min vaffel færdig.
+895 Tjener
+896 Det er en vaffel, hr. Ikke en krise. I modsætning til Kommissionens indbakke.
+897 Samtidig lægger et containerskib stort som en by til i Piræus. Ingen ved præcis, hvad det indeholder. Eller hvad det køber.
+898 Antwerpen — greenen
+899 Se lige denne green. Mellem to containere. Den smukkeste green i havnenes historie.
+900 Hr. præsident, golfbaggen er meget tung. Kan vi lægge told på den?
+901 Flot slag, far! Øh… hr. præsident!
+902 Hver bold, der forlader USA, betaler told. Også den der. Især den der. Den landede i Schelde? MEGET URETFÆRDIGT.
+903 Warszawa — sneen
+904 Paladset for enden af sletten? Der venter han på dig. Tag et halstørklæde med. Og en megafon, til bordet.
+905 Han vil sige, at Europa fryser uden ham. Vis ham, at Europa har lært at holde sig varm selv.
+906 Bordet
+907 Et hvidt bord. Meget hvidt. Meget langt. Så langt, at det har sin egen tidszone.
+908 (meget højt) GODDAG!
+909 Tre sekunder senere kommer ekkoet tilbage fra den anden ende af salen.
+910 Jeg hører Dem udmærket. Det er Dem, der sidder for tæt på.
+911 Piræus
+912 En gave. En plyspanda. Den symboliserer venskabet mellem vores folk.
+913 Den er meget sød. Tak. …Hvorfor har havnen lige skiftet flag?
+914 Strategisk partnerskab. I beholder pandaen. Vi beholder havnen. Alle er glade.
+915 Græsk havnearbejder
+916 Jeg ville hellere have haft en rigtig panda. Den spiser bambus, men den opkøber i det mindste ikke noget.
+917 G-Alt-topmødet
+918 G-Alt-topmødet. Tre stormagter. Ét bord. Og et Europa, man havde sat på klapsædet.
+919 Europa skal vælge: mig.
+920 Europa skal vælge: mig. Eller kulden.
+921 Europa kan vælge. Vi har allerede købt begge muligheder.
+922 Europa rejser sig
+923 Europa vælger ikke en herre. Det vælger at holde sammen. Syvogtyve lande, fireogtyve sprog, ét bord. Vores.
+924 Jeg går. Det er MIG, der har besluttet at gå. Ingen har slået mig.
+925 Jeg går også. Døren var alligevel for tæt på mig.
+926 Vi går. Men vi forbliver partnere. Og konkurrenter. Og rivaler. God aften.
+927 Tre døre smækkes. Tre stormagter surmuler. Og i salen klapper praktikanterne.
+928 Epilog
+929 Bruxelles, aftenen hvor praktikken slutter
+930 Grand-Place i Bruxelles. Blåt og gyldent fyrværkeri tegner tolv stjerner over rådhuset.
+931 {P}, på vegne af alle institutionerne er her dit praktikbevis. Det er underskrevet, kontrasigneret og oversat til fireogtyve sprog.
+932 Den maltesiske version har en trykfejl. Det er tradition.
+933 {P}! WAIT! Begynd ikke uden mig!
+934 Oliver?! Men… hvordan?
+935 Visum for unge professionelle, forsikring, to formularer, tre stempler. En ægte papirarbejds-Euromon. Jeg er tilbage. Som turist. Men tilbage!
+936 Gruppebillede! Alle tæt sammen! Kindklap bagefter.
+937 Jeg er kun med på billedet, hvis ingen fortæller, at jeg var med på billedet.
+938 (uden for billedet) Veto mod billedet.
+939 Han har ikke længere vetoret. Smil!
+940 »Vi forener ikke stater, vi forener mennesker.« Mænd, kvinder og praktikanter.
+941 Konkrete resultater. En faktisk solidaritet. Bravo, lille ven. Og nu… gå i seng. I morgen er der koordinationsmøde om møder.
+942 Rom, 25. marts 1957
+943 Kapitolpladsen. Den 25. marts 1957 underskrev seks lande Romtraktaterne her. Stenen husker det. Den begynder at lyse.
+944 Maastricht, 7. februar 1992
+945 Maas om natten. Her blev Den Europæiske Union født, og idéen om en fælles valuta. Lysende mønter stiger op til vandoverfladen.
+946 Lissabon, 13. december 2007
+947 Daggry over Tejo. Foran Jerónimos-klosteret begynder traktatsider at svæve og så at flyve.
+948 Velkommen til kantinen! En kaffe, en sandwich, og dine Euromons er friske igen… ligesom i 57.
+949 Skal jeg tage mig af dit hold?
+950 Sådan! Alle er i topform. Kaffen er til gengæld stadig lunken.
+951 Som du vil. Men kom ikke grædende ved næste debat!
+952 Goddag! Europæisk station, én fælles luge. Dit Interrail-kort, tak… Perfekt. Hvor skal vi hen?
+953 Beklager, de internationale tog er forbeholdt indehavere af Interrail-kort. Man siger, at man kan vinde et i Strasbourg.
+954 Jeg har spist her siden 1993. Menuen er kun ændret én gang: da euroen kom.
+955 Bankmand
+956 Her er selv kaffen skattemæssigt hjemmehørende et andet sted.
+957 Økonom
+958 Sandwichens pris er steget 12 % siden 2021. Min model forudsagde 2 %. Min model er sulten.
+959 Parlamentarisk assistent
+960 Fire dage om måneden her, resten i Bruxelles. Mine planter kan ikke genkende mig længere.
+961 Servitrice
+962 En frappé? Det er det eneste, trojkaen aldrig fik reformeret.
+964 Før klagede vi over Bruxelles. Nu klager vi over ikke længere at kunne klage over Bruxelles.
+965 Her spiser man gullasch. Og debatterer, diskret.
+966 Filosof
+967 Jeg tænker, altså spiser jeg frokost. Og jeg spiser længe: det er Paris.
+968 Kunde
+969 Jeg leder efter en oplader… Nå nej, det er rigtigt, det er USB-C overalt nu. Hvilken lykke.
+970 Priserne er ekskl. moms. Selvfølgelig.
+971 Kunde
+972 Jeg betaler alt kontant. Tyskerne elsker kontanter.
+973 Jeg skal købe stempler. Min chef vil stemple tidsomstillingens Euromon.
+974 Alt til halv pris! Nå nej, det er momsen, der er fordoblet.
+975 Er prisen i pund, i euro eller i valgløfter?
+976 Sælgeren spurgte, hvad jeg mente om regeringen. Jeg sagde: »veto«.
+977 En baguette, et stempel og en demonstration, tak.
+978 Rejsende
+979 Mit tog til Strasbourg er fire timer forsinket. Det er Parlamentet i øvrigt også.
+980 {P}! Overraskelse! Jeg tog Eurostar. Med pas, en formular og to timer i kø. Jeg er kommet for at bede om… at komme tilbage. Rejoin?
+981 Men først en debat. Ligesom i gamle dage!
+982 Sikken en praktik! Nå, man siger, at man skal forhandle 35 kapitler for at melde sig ind igen. Jeg begynder i morgen. Cheers, {P}!
+983 Kapitel 1 af 35: »fri bevægelighed for varer«. Det går fremad!
+984 Rejsende
+985 I Luxembourg har den offentlige transport været gratis siden 2020. Selv for praktikanter!
+986 Jeg pendler Frankfurt–Bruxelles. Jeg kender hver ko langs strækningen ved navn.
+987 Alle disse jernkufferter tilhører MEP'er. De rejser mere end mig.
+988 Toget til Piræus? Aflyst. Man siger, at nogen har opkøbt havnen.
+989 Eurostar kræver pas nu. Vi tog kontrollen tilbage. Over køerne.
+990 Donau løber gennem ti lande. Jeg prøver bare at komme gennem ét uden kontrol.
+991 Strejke på jernbanen. Nå nej, det er bare tirsdag.
+992 Havnearbejder
+993 Antwerpen, Europas næststørste havn. Alt kommer forbi her. Selv told.
+994 Det er så koldt uden gas, at pingvinerne søger asyl.
+995 Alle veje fører til Rom. Togene også, med forsinkelse.
+996 Det var her, vi underskrev traktaten i 1992. Solen skinnede. Det var den eneste gang.
+997 Lissabon, 2007: vi underskrev en traktat, der lignede en forfatning meget. Tys.
+998 I dag er det den 9. maj: Europadag! Der vajer flag overalt i EU-kvarteret.
+999 En sjælden Euromon, lokket af festlighederne, springer frem fra en bunke sager!

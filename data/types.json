@@ -1,0 +1,164 @@
+{
+ "types": [
+  "TECHNO",
+  "FEDERAL",
+  "SOUVERAIN",
+  "LIBERAL",
+  "SOCIAL",
+  "VERT",
+  "INDUSTRIE",
+  "ENERGIE",
+  "JURIDIQUE",
+  "MONETAIRE",
+  "AGRICOLE",
+  "NUMERIQUE",
+  "DIPLO",
+  "LOBBY",
+  "POPULISTE",
+  "FANTOME"
+ ],
+ "names": [
+  "Techno",
+  "Fédéral",
+  "Souverain",
+  "Libéral",
+  "Social",
+  "Vert",
+  "Industrie",
+  "Énergie",
+  "Juridique",
+  "Monétaire",
+  "Agricole",
+  "Numérique",
+  "Diplo",
+  "Lobby",
+  "Populiste",
+  "Fantôme"
+ ],
+ "chart": {
+  "TECHNO": {
+   "POPULISTE": 2.0,
+   "LOBBY": 0.5,
+   "SOUVERAIN": 0.5,
+   "FANTOME": 0
+  },
+  "FEDERAL": {
+   "SOUVERAIN": 2.0,
+   "INDUSTRIE": 2.0,
+   "POPULISTE": 0.5,
+   "FEDERAL": 0.5,
+   "TECHNO": 0.5,
+   "FANTOME": 0
+  },
+  "SOUVERAIN": {
+   "JURIDIQUE": 2.0,
+   "DIPLO": 2.0,
+   "FEDERAL": 0.5,
+   "SOUVERAIN": 0.5,
+   "MONETAIRE": 0.5,
+   "FANTOME": 0
+  },
+  "LIBERAL": {
+   "INDUSTRIE": 2.0,
+   "MONETAIRE": 2.0,
+   "SOCIAL": 0.5,
+   "VERT": 0.5,
+   "LIBERAL": 0.5,
+   "FANTOME": 0
+  },
+  "SOCIAL": {
+   "LIBERAL": 2.0,
+   "MONETAIRE": 2.0,
+   "LOBBY": 2.0,
+   "SOUVERAIN": 0.5,
+   "POPULISTE": 0.5,
+   "SOCIAL": 0.5,
+   "FANTOME": 0
+  },
+  "VERT": {
+   "ENERGIE": 2.0,
+   "AGRICOLE": 2.0,
+   "INDUSTRIE": 0.5,
+   "LOBBY": 0.5,
+   "VERT": 0.5,
+   "FANTOME": 0
+  },
+  "INDUSTRIE": {
+   "VERT": 2.0,
+   "NUMERIQUE": 2.0,
+   "ENERGIE": 0.5,
+   "INDUSTRIE": 0.5,
+   "SOCIAL": 0.5,
+   "FANTOME": 0
+  },
+  "ENERGIE": {
+   "INDUSTRIE": 2.0,
+   "NUMERIQUE": 2.0,
+   "VERT": 0.5,
+   "ENERGIE": 0.5,
+   "SOUVERAIN": 0.5,
+   "FANTOME": 0
+  },
+  "JURIDIQUE": {
+   "LOBBY": 2.0,
+   "NUMERIQUE": 2.0,
+   "FANTOME": 2.0,
+   "SOUVERAIN": 0.5,
+   "POPULISTE": 0.5,
+   "JURIDIQUE": 0.5
+  },
+  "MONETAIRE": {
+   "SOUVERAIN": 2.0,
+   "AGRICOLE": 2.0,
+   "LIBERAL": 0.5,
+   "MONETAIRE": 0.5,
+   "SOCIAL": 0.5,
+   "FANTOME": 0
+  },
+  "AGRICOLE": {
+   "FEDERAL": 2.0,
+   "MONETAIRE": 2.0,
+   "VERT": 0.5,
+   "LIBERAL": 0.5,
+   "AGRICOLE": 0.5,
+   "FANTOME": 0
+  },
+  "NUMERIQUE": {
+   "TECHNO": 2.0,
+   "DIPLO": 2.0,
+   "JURIDIQUE": 0.5,
+   "NUMERIQUE": 0.5,
+   "INDUSTRIE": 0.5,
+   "FANTOME": 0
+  },
+  "DIPLO": {
+   "POPULISTE": 2.0,
+   "SOCIAL": 2.0,
+   "SOUVERAIN": 0.5,
+   "NUMERIQUE": 0.5,
+   "DIPLO": 0.5,
+   "FANTOME": 0
+  },
+  "LOBBY": {
+   "TECHNO": 2.0,
+   "FEDERAL": 2.0,
+   "VERT": 2.0,
+   "JURIDIQUE": 0.5,
+   "SOCIAL": 0.5,
+   "LOBBY": 0.5,
+   "FANTOME": 0
+  },
+  "POPULISTE": {
+   "FEDERAL": 2.0,
+   "JURIDIQUE": 2.0,
+   "DIPLO": 2.0,
+   "TECHNO": 0.5,
+   "POPULISTE": 0.5,
+   "FANTOME": 0
+  },
+  "FANTOME": {
+   "TECHNO": 2.0,
+   "JURIDIQUE": 0.5
+  }
+ }
+}

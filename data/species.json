@@ -1,0 +1,7516 @@
+[
+ {
+  "id": "verdeal",
+  "num": 1,
+  "name": "Verdeal",
+  "types": [
+   "VERT"
+  ],
+  "base": [
+   51,
+   31,
+   46,
+   72,
+   57,
+   52
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 61,
+  "evo": {
+   "level": 16,
+   "into": "fit55"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "velo"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "reboisement"
+   ],
+   [
+    11,
+    "compost"
+   ],
+   [
+    16,
+    "bouchon_attache"
+   ],
+   [
+    22,
+    "pacte_vert"
+   ],
+   [
+    28,
+    "taxe_carbone"
+   ],
+   [
+    34,
+    "fit_for_55"
+   ],
+   [
+    39,
+    "neutralite"
+   ]
+  ],
+  "dex": "Né avec le Pacte vert de 2019. Une pousse jaillit chaque fois qu'une norme d'émission est votée.",
+  "category": "Pacte vert",
+  "color": "green",
+  "shape": "quadruped"
+ },
+ {
+  "id": "fit55",
+  "num": 2,
+  "name": "Fit55",
+  "types": [
+   "VERT"
+  ],
+  "base": [
+   68,
+   40,
+   61,
+   94,
+   74,
+   68
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 81,
+  "evo": {
+   "level": 36,
+   "into": "neutralis"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "velo"
+   ],
+   [
+    8,
+    "reboisement"
+   ],
+   [
+    10,
+    "fit_for_55"
+   ],
+   [
+    11,
+    "compost"
+   ],
+   [
+    16,
+    "bouchon_attache"
+   ],
+   [
+    22,
+    "pacte_vert"
+   ],
+   [
+    28,
+    "taxe_carbone"
+   ],
+   [
+    39,
+    "neutralite"
+   ]
+  ],
+  "dex": "Il s'entraîne pour réduire ses émissions de 55 % d'ici 2030. Il compte chaque calorie.",
+  "category": "Objectif climat",
+  "color": "green",
+  "shape": "quadruped"
+ },
+ {
+  "id": "neutralis",
+  "num": 3,
+  "name": "Neutralis",
+  "types": [
+   "VERT",
+   "FEDERAL"
+  ],
+  "base": [
+   88,
+   52,
+   79,
+   122,
+   96,
+   88
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 131,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "integration"
+   ],
+   [
+    8,
+    "reboisement"
+   ],
+   [
+    9,
+    "velo"
+   ],
+   [
+    10,
+    "neutralite"
+   ],
+   [
+    13,
+    "compost"
+   ],
+   [
+    18,
+    "bouchon_attache"
+   ],
+   [
+    22,
+    "drapeau_etoile"
+   ],
+   [
+    22,
+    "subsidiarite"
+   ],
+   [
+    26,
+    "pacte_vert"
+   ],
+   [
+    30,
+    "team_europe"
+   ],
+   [
+    35,
+    "marche_unique"
+   ],
+   [
+    39,
+    "taxe_carbone"
+   ],
+   [
+    43,
+    "fit_for_55"
+   ]
+  ],
+  "dex": "Il vise la neutralité carbone en 2050. D'ici là, il plante un arbre à chaque pas.",
+  "category": "Neutralité",
+  "color": "green",
+  "shape": "quadruped"
+ },
+ {
+  "id": "charbonnet",
+  "num": 4,
+  "name": "Charbonnet",
+  "types": [
+   "INDUSTRIE"
+  ],
+  "base": [
+   51,
+   72,
+   52,
+   31,
+   46,
+   57
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 61,
+  "evo": {
+   "level": 16,
+   "into": "hautfourno"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "chaine_montage"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "plan_industriel"
+   ],
+   [
+    12,
+    "charbon"
+   ],
+   [
+    18,
+    "delocalisation"
+   ],
+   [
+    25,
+    "acier"
+   ],
+   [
+    32,
+    "haut_fourneau"
+   ],
+   [
+    38,
+    "airbus"
+   ]
+  ],
+  "dex": "Petit tas de charbon de la CECA de 1951. Il noircit tout ce qu'il touche, avec enthousiasme.",
+  "category": "Charbon",
+  "color": "black",
+  "shape": "biped"
+ },
+ {
+  "id": "hautfourno",
+  "num": 5,
+  "name": "Hautfourno",
+  "types": [
+   "INDUSTRIE"
+  ],
+  "base": [
+   68,
+   94,
+   68,
+   40,
+   61,
+   74
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 81,
+  "evo": {
+   "level": 36,
+   "into": "cecagon"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "chaine_montage"
+   ],
+   [
+    8,
+    "plan_industriel"
+   ],
+   [
+    12,
+    "charbon"
+   ],
+   [
+    18,
+    "delocalisation"
+   ],
+   [
+    25,
+    "acier"
+   ],
+   [
+    32,
+    "haut_fourneau"
+   ],
+   [
+    38,
+    "airbus"
+   ]
+  ],
+  "dex": "Sa cheminée crache des étincelles quand il s'énerve. Il rêve de plein emploi.",
+  "category": "Haut-fourneau",
+  "color": "orange",
+  "shape": "biped"
+ },
+ {
+  "id": "cecagon",
+  "num": 6,
+  "name": "CECAgon",
+  "types": [
+   "INDUSTRIE",
+   "FEDERAL"
+  ],
+  "base": [
+   88,
+   122,
+   88,
+   52,
+   79,
+   96
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 131,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "chaine_montage"
+   ],
+   [
+    8,
+    "plan_industriel"
+   ],
+   [
+    10,
+    "airbus"
+   ],
+   [
+    10,
+    "integration"
+   ],
+   [
+    14,
+    "charbon"
+   ],
+   [
+    19,
+    "delocalisation"
+   ],
+   [
+    22,
+    "subsidiarite"
+   ],
+   [
+    23,
+    "drapeau_etoile"
+   ],
+   [
+    28,
+    "acier"
+   ],
+   [
+    33,
+    "team_europe"
+   ],
+   [
+    37,
+    "marche_unique"
+   ],
+   [
+    42,
+    "haut_fourneau"
+   ],
+   [
+    46,
+    "spitzen"
+   ]
+  ],
+  "dex": "Forgé dans le charbon et l'acier mis en commun. Il est la preuve que la paix se fabrique.",
+  "category": "Acier commun",
+  "color": "grey",
+  "shape": "biped"
+ },
+ {
+  "id": "atomino",
+  "num": 7,
+  "name": "Atomino",
+  "types": [
+   "ENERGIE"
+  ],
+  "base": [
+   46,
+   57,
+   36,
+   57,
+   41,
+   72
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 61,
+  "evo": {
+   "level": 16,
+   "into": "euratome"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "etincelle"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "robinet_gaz"
+   ],
+   [
+    13,
+    "eolienne"
+   ],
+   [
+    21,
+    "surtension"
+   ],
+   [
+    22,
+    "repowereu"
+   ],
+   [
+    29,
+    "fission"
+   ],
+   [
+    37,
+    "fusion"
+   ]
+  ],
+  "dex": "Un petit atome curieux, né du traité Euratom de 1957. Il ne tient pas en place.",
+  "category": "Atome",
+  "color": "yellow",
+  "shape": "blob"
+ },
+ {
+  "id": "euratome",
+  "num": 8,
+  "name": "Euratome",
+  "types": [
+   "ENERGIE"
+  ],
+  "base": [
+   62,
+   74,
+   47,
+   74,
+   54,
+   94
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 81,
+  "evo": {
+   "level": 36,
+   "into": "fissionix"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "etincelle"
+   ],
+   [
+    8,
+    "robinet_gaz"
+   ],
+   [
+    13,
+    "eolienne"
+   ],
+   [
+    21,
+    "surtension"
+   ],
+   [
+    22,
+    "repowereu"
+   ],
+   [
+    29,
+    "fission"
+   ],
+   [
+    37,
+    "fusion"
+   ]
+  ],
+  "dex": "Ses électrons tournent si vite qu'il éclaire une pièce entière. Sobriété en option.",
+  "category": "Réacteur",
+  "color": "yellow",
+  "shape": "blob"
+ },
+ {
+  "id": "fissionix",
+  "num": 9,
+  "name": "Fissionix",
+  "types": [
+   "ENERGIE",
+   "TECHNO"
+  ],
+  "base": [
+   80,
+   96,
+   61,
+   96,
+   70,
+   122
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 131,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    8,
+    "robinet_gaz"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    10,
+    "fusion"
+   ],
+   [
+    13,
+    "etincelle"
+   ],
+   [
+    17,
+    "procedure_urgence"
+   ],
+   [
+    22,
+    "repowereu"
+   ],
+   [
+    25,
+    "eolienne"
+   ],
+   [
+    29,
+    "note_de_service"
+   ],
+   [
+    33,
+    "tampon_sec"
+   ],
+   [
+    36,
+    "surtension"
+   ],
+   [
+    40,
+    "directive"
+   ],
+   [
+    44,
+    "fission"
+   ]
+  ],
+  "dex": "Il se divise en deux quand il est contrarié. Les Verts et lui ne s'adressent plus la parole.",
+  "category": "Fission",
+  "color": "cyan",
+  "shape": "blob"
+ },
+ {
+  "id": "tampono",
+  "num": 10,
+  "name": "Tampono",
+  "types": [
+   "JURIDIQUE"
+  ],
+  "base": [
+   61,
+   42,
+   65,
+   33,
+   56,
+   23
+  ],
+  "growth": "medium",
+  "catch": 255,
+  "exp": 56,
+  "evo": {
+   "level": 14,
+   "into": "paraphor"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "mise_en_demeure"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "rgpd"
+   ],
+   [
+    12,
+    "infraction"
+   ],
+   [
+    18,
+    "enquete_olaf"
+   ],
+   [
+    22,
+    "jurisprudence"
+   ],
+   [
+    25,
+    "dsa"
+   ],
+   [
+    32,
+    "amende"
+   ],
+   [
+    38,
+    "arret_cjue"
+   ]
+  ],
+  "dex": "Un tampon vivant qui valide tout ce qu'il croise. Il a déjà tamponné son propre dresseur.",
+  "category": "Tampon",
+  "color": "brown",
+  "shape": "object"
+ },
+ {
+  "id": "paraphor",
+  "num": 11,
+  "name": "Paraphor",
+  "types": [
+   "JURIDIQUE"
+  ],
+  "base": [
+   85,
+   58,
+   91,
+   46,
+   78,
+   32
+  ],
+  "growth": "medium",
+  "catch": 120,
+  "exp": 78,
+  "evo": {
+   "level": 32,
+   "into": "ratifix"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "mise_en_demeure"
+   ],
+   [
+    8,
+    "rgpd"
+   ],
+   [
+    12,
+    "infraction"
+   ],
+   [
+    18,
+    "enquete_olaf"
+   ],
+   [
+    22,
+    "jurisprudence"
+   ],
+   [
+    25,
+    "dsa"
+   ],
+   [
+    32,
+    "amende"
+   ],
+   [
+    38,
+    "arret_cjue"
+   ]
+  ],
+  "dex": "Il paraphe chaque page en bas à droite. Il lui faut quatre heures par traité.",
+  "category": "Parapheur",
+  "color": "red",
+  "shape": "object"
+ },
+ {
+  "id": "ratifix",
+  "num": 12,
+  "name": "Ratifix",
+  "types": [
+   "JURIDIQUE",
+   "FEDERAL"
+  ],
+  "base": [
+   107,
+   74,
+   116,
+   58,
+   99,
+   41
+  ],
+  "growth": "medium",
+  "catch": 45,
+  "exp": 123,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "integration"
+   ],
+   [
+    8,
+    "rgpd"
+   ],
+   [
+    10,
+    "arret_cjue"
+   ],
+   [
+    10,
+    "mise_en_demeure"
+   ],
+   [
+    14,
+    "drapeau_etoile"
+   ],
+   [
+    19,
+    "infraction"
+   ],
+   [
+    22,
+    "jurisprudence"
+   ],
+   [
+    23,
+    "enquete_olaf"
+   ],
+   [
+    28,
+    "team_europe"
+   ],
+   [
+    33,
+    "dsa"
+   ],
+   [
+    37,
+    "marche_unique"
+   ],
+   [
+    42,
+    "amende"
+   ],
+   [
+    46,
+    "spitzen"
+   ]
+  ],
+  "dex": "Il ne bouge que lorsque 27 parlements nationaux ont dit oui. Il dort donc beaucoup.",
+  "category": "Ratification",
+  "color": "red",
+  "shape": "object"
+ },
+ {
+  "id": "amendon",
+  "num": 13,
+  "name": "Amendon",
+  "types": [
+   "TECHNO"
+  ],
+  "base": [
+   45,
+   43,
+   43,
+   43,
+   43,
+   43
+  ],
+  "growth": "fast",
+  "catch": 255,
+  "exp": 52,
+  "evo": {
+   "level": 20,
+   "into": "amendomax"
+  },
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    14,
+    "procedure_urgence"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    23,
+    "note_de_service"
+   ],
+   [
+    27,
+    "tampon_sec"
+   ],
+   [
+    32,
+    "directive"
+   ],
+   [
+    36,
+    "rapport_annuel"
+   ],
+   [
+    41,
+    "reglement"
+   ]
+  ],
+  "dex": "Il se reproduit par milliers à chaque texte de loi. Le Parlement en reçoit parfois 2000 par rapport.",
+  "category": "Amendement",
+  "color": "white",
+  "shape": "insect"
+ },
+ {
+  "id": "amendomax",
+  "num": 14,
+  "name": "Amendomax",
+  "types": [
+   "TECHNO",
+   "POPULISTE"
+  ],
+  "base": [
+   70,
+   70,
+   70,
+   70,
+   70,
+   70
+  ],
+  "growth": "fast",
+  "catch": 90,
+  "exp": 105,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    8,
+    "amendement"
+   ],
+   [
+    8,
+    "reunion"
+   ],
+   [
+    10,
+    "procedure_urgence"
+   ],
+   [
+    16,
+    "slogan"
+   ],
+   [
+    18,
+    "note_de_service"
+   ],
+   [
+    21,
+    "laughing"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    24,
+    "tampon_sec"
+   ],
+   [
+    26,
+    "megaphone"
+   ],
+   [
+    29,
+    "droits_douane"
+   ],
+   [
+    32,
+    "bus_rouge"
+   ],
+   [
+    34,
+    "directive"
+   ]
+  ],
+  "dex": "Il dépose tant d'amendements qu'il bloque toute la séance. Une technique bien rodée.",
+  "category": "Obstruction",
+  "color": "white",
+  "shape": "insect"
+ },
+ {
+  "id": "cookiz",
+  "num": 15,
+  "name": "Cookiz",
+  "types": [
+   "NUMERIQUE"
+  ],
+  "base": [
+   39,
+   50,
+   32,
+   50,
+   36,
+   63
+  ],
+  "growth": "medium",
+  "catch": 200,
+  "exp": 54,
+  "evo": {
+   "level": 22,
+   "into": "consentor"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    12,
+    "troll"
+   ],
+   [
+    18,
+    "bug"
+   ],
+   [
+    22,
+    "fake_news"
+   ],
+   [
+    25,
+    "usb_c"
+   ],
+   [
+    32,
+    "algorithme"
+   ],
+   [
+    38,
+    "ia_act"
+   ]
+  ],
+  "dex": "Il apparaît devant chaque porte depuis le RGPD de 2018. Le refuser ne suffit jamais.",
+  "category": "Bandeau cookie",
+  "color": "tan",
+  "shape": "blob"
+ },
+ {
+  "id": "consentor",
+  "num": 16,
+  "name": "Consentor",
+  "types": [
+   "NUMERIQUE",
+   "JURIDIQUE"
+  ],
+  "base": [
+   74,
+   45,
+   68,
+   105,
+   83,
+   75
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 112,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    10,
+    "troll"
+   ],
+   [
+    14,
+    "bug"
+   ],
+   [
+    19,
+    "mise_en_demeure"
+   ],
+   [
+    22,
+    "fake_news"
+   ],
+   [
+    23,
+    "usb_c"
+   ],
+   [
+    28,
+    "infraction"
+   ],
+   [
+    33,
+    "enquete_olaf"
+   ],
+   [
+    37,
+    "algorithme"
+   ],
+   [
+    42,
+    "dsa"
+   ],
+   [
+    46,
+    "amende"
+   ],
+   [
+    51,
+    "arret_cjue"
+   ]
+  ],
+  "dex": "Il demande votre accord pour tout, puis pour l'accord lui-même. Il est très poli.",
+  "category": "Consentement",
+  "color": "tan",
+  "shape": "blob"
+ },
+ {
+  "id": "usbece",
+  "num": 17,
+  "name": "Usbécé",
+  "types": [
+   "NUMERIQUE"
+  ],
+  "base": [
+   61,
+   73,
+   47,
+   73,
+   53,
+   93
+  ],
+  "growth": "medium",
+  "catch": 90,
+  "exp": 100,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    10,
+    "usb_c"
+   ],
+   [
+    12,
+    "troll"
+   ],
+   [
+    18,
+    "bug"
+   ],
+   [
+    22,
+    "fake_news"
+   ],
+   [
+    32,
+    "algorithme"
+   ],
+   [
+    38,
+    "ia_act"
+   ]
+  ],
+  "dex": "Obligatoire sur tous les appareils depuis fin 2024. Il a mis au chômage un tiroir entier de câbles.",
+  "category": "Chargeur",
+  "color": "grey",
+  "shape": "serpent"
+ },
+ {
+  "id": "bouchatach",
+  "num": 18,
+  "name": "Bouchatach",
+  "types": [
+   "VERT"
+  ],
+  "base": [
+   71,
+   50,
+   77,
+   38,
+   66,
+   28
+  ],
+  "growth": "fast",
+  "catch": 190,
+  "exp": 82,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "velo"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "reboisement"
+   ],
+   [
+    10,
+    "bouchon_attache"
+   ],
+   [
+    11,
+    "compost"
+   ],
+   [
+    22,
+    "pacte_vert"
+   ],
+   [
+    28,
+    "taxe_carbone"
+   ],
+   [
+    34,
+    "fit_for_55"
+   ],
+   [
+    39,
+    "neutralite"
+   ]
+  ],
+  "dex": "Il ne quitte plus sa bouteille depuis juillet 2024. Il vous frappe le nez quand vous buvez.",
+  "category": "Bouchon",
+  "color": "blue",
+  "shape": "object"
+ },
+ {
+  "id": "pailleplast",
+  "num": 19,
+  "name": "Pailleplast",
+  "types": [
+   "VERT",
+   "FANTOME"
+  ],
+  "base": [
+   51,
+   82,
+   38,
+   82,
+   38,
+   89
+  ],
+  "growth": "slow",
+  "catch": 25,
+  "exp": 95,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "velo"
+   ],
+   [
+    8,
+    "reboisement"
+   ],
+   [
+    9,
+    "compost"
+   ],
+   [
+    10,
+    "hantise"
+   ],
+   [
+    12,
+    "bouchon_attache"
+   ],
+   [
+    16,
+    "emploi_fictif"
+   ],
+   [
+    20,
+    "pacte_vert"
+   ],
+   [
+    22,
+    "disparition"
+   ],
+   [
+    23,
+    "fantome_payroll"
+   ],
+   [
+    30,
+    "taxe_carbone"
+   ],
+   [
+    34,
+    "fit_for_55"
+   ],
+   [
+    38,
+    "ectoplasme"
+   ],
+   [
+    41,
+    "neutralite"
+   ]
+  ],
+  "dex": "Interdit depuis 2021, on le croyait disparu. Il hante les fast-foods la nuit.",
+  "category": "Paille disparue",
+  "color": "pink",
+  "shape": "serpent"
+ },
+ {
+  "id": "courbana",
+  "num": 20,
+  "name": "Courbana",
+  "types": [
+   "AGRICOLE"
+  ],
+  "base": [
+   50,
+   70,
+   50,
+   30,
+   45,
+   55
+  ],
+  "growth": "fast",
+  "catch": 190,
+  "exp": 75,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "lisier"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "aop"
+   ],
+   [
+    10,
+    "banane_courbe"
+   ],
+   [
+    18,
+    "tracteur"
+   ],
+   [
+    25,
+    "glyphosate"
+   ],
+   [
+    32,
+    "pac"
+   ],
+   [
+    38,
+    "moisson"
+   ]
+  ],
+  "dex": "Un règlement de 1994 fixe sa qualité. Il passe sa vie à mesurer sa propre courbure.",
+  "category": "Banane",
+  "color": "yellow",
+  "shape": "serpent"
+ },
+ {
+  "id": "roamy",
+  "num": 21,
+  "name": "Roamy",
+  "types": [
+   "NUMERIQUE"
+  ],
+  "base": [
+   43,
+   53,
+   34,
+   53,
+   39,
+   68
+  ],
+  "growth": "fast",
+  "catch": 190,
+  "exp": 58,
+  "evo": {
+   "level": 24,
+   "into": "roamfree"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    12,
+    "troll"
+   ],
+   [
+    18,
+    "bug"
+   ],
+   [
+    22,
+    "fake_news"
+   ],
+   [
+    25,
+    "usb_c"
+   ],
+   [
+    32,
+    "algorithme"
+   ],
+   [
+    38,
+    "ia_act"
+   ]
+  ],
+  "dex": "Il voyage partout sans frais depuis juin 2017. Il appelle sa mère depuis chaque frontière.",
+  "category": "Itinérance",
+  "color": "cyan",
+  "shape": "flyer"
+ },
+ {
+  "id": "roamfree",
+  "num": 22,
+  "name": "Roamfree",
+  "types": [
+   "NUMERIQUE",
+   "DIPLO"
+  ],
+  "base": [
+   69,
+   83,
+   53,
+   83,
+   61,
+   106
+  ],
+  "growth": "fast",
+  "catch": 75,
+  "exp": 113,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    10,
+    "troll"
+   ],
+   [
+    15,
+    "bug"
+   ],
+   [
+    20,
+    "poignee_main"
+   ],
+   [
+    22,
+    "fake_news"
+   ],
+   [
+    25,
+    "interprete"
+   ],
+   [
+    30,
+    "usb_c"
+   ],
+   [
+    35,
+    "compromis"
+   ],
+   [
+    40,
+    "algorithme"
+   ],
+   [
+    45,
+    "sanctions"
+   ],
+   [
+    50,
+    "accord"
+   ],
+   [
+    55,
+    "ia_act"
+   ]
+  ],
+  "dex": "Il a visité les 27 pays en un week-end et a tout posté en direct. Sans surcoût.",
+  "category": "Sans frontières",
+  "color": "cyan",
+  "shape": "flyer"
+ },
+ {
+  "id": "erasmouse",
+  "num": 23,
+  "name": "Erasmouse",
+  "types": [
+   "SOCIAL"
+  ],
+  "base": [
+   44,
+   52,
+   33,
+   52,
+   38,
+   66
+  ],
+  "growth": "medium",
+  "catch": 190,
+  "exp": 57,
+  "evo": {
+   "level": 20,
+   "into": "erasmusplus"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "erasmus"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "greve"
+   ],
+   [
+    13,
+    "pilier_social"
+   ],
+   [
+    21,
+    "salaire_minimum"
+   ],
+   [
+    22,
+    "solidarite"
+   ],
+   [
+    29,
+    "manif"
+   ],
+   [
+    37,
+    "oxi"
+   ]
+  ],
+  "dex": "Ce petit rongeur part un semestre à l'étranger et revient bilingue. Né en 1987.",
+  "category": "Étudiant",
+  "color": "beige",
+  "shape": "quadruped"
+ },
+ {
+  "id": "erasmusplus",
+  "num": 24,
+  "name": "Erasmus+",
+  "types": [
+   "SOCIAL",
+   "LIBERAL"
+  ],
+  "base": [
+   70,
+   84,
+   54,
+   84,
+   61,
+   107
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 115,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "start_up"
+   ],
+   [
+    8,
+    "greve"
+   ],
+   [
+    10,
+    "en_meme_temps"
+   ],
+   [
+    15,
+    "erasmus"
+   ],
+   [
+    20,
+    "concurrence"
+   ],
+   [
+    22,
+    "solidarite"
+   ],
+   [
+    25,
+    "pilier_social"
+   ],
+   [
+    30,
+    "libre_echange"
+   ],
+   [
+    35,
+    "salaire_minimum"
+   ],
+   [
+    40,
+    "main_invisible"
+   ],
+   [
+    45,
+    "manif"
+   ],
+   [
+    50,
+    "macronomie"
+   ],
+   [
+    55,
+    "oxi"
+   ]
+  ],
+  "dex": "Il a habité dans 12 colocations et cuisine des pâtes dans 9 langues.",
+  "category": "Échange",
+  "color": "beige",
+  "shape": "quadruped"
+ },
+ {
+  "id": "eurolo",
+  "num": 25,
+  "name": "Eurolo",
+  "types": [
+   "MONETAIRE"
+  ],
+  "base": [
+   50,
+   48,
+   48,
+   48,
+   48,
+   48
+  ],
+  "growth": "medium",
+  "catch": 190,
+  "exp": 58,
+  "evo": {
+   "level": 25,
+   "into": "eurozone"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "piece_euro"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    13,
+    "inflation"
+   ],
+   [
+    21,
+    "taux_directeur"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    29,
+    "spread"
+   ],
+   [
+    37,
+    "quantitative"
+   ]
+  ],
+  "dex": "Une pièce de 2 € qui roule partout depuis 2002. Elle a 27 faces nationales possibles.",
+  "category": "Pièce",
+  "color": "gold",
+  "shape": "object"
+ },
+ {
+  "id": "eurozone",
+  "num": 26,
+  "name": "Eurozone",
+  "types": [
+   "MONETAIRE",
+   "FEDERAL"
+  ],
+  "base": [
+   80,
+   78,
+   78,
+   78,
+   78,
+   78
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 117,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "integration"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    10,
+    "piece_euro"
+   ],
+   [
+    10,
+    "quantitative"
+   ],
+   [
+    15,
+    "drapeau_etoile"
+   ],
+   [
+    20,
+    "inflation"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    25,
+    "taux_directeur"
+   ],
+   [
+    30,
+    "spread"
+   ],
+   [
+    35,
+    "team_europe"
+   ],
+   [
+    40,
+    "marche_unique"
+   ],
+   [
+    50,
+    "spitzen"
+   ],
+   [
+    55,
+    "etats_unis_europe"
+   ]
+  ],
+  "dex": "Vingt pays partagent sa force. Quand l'un tousse, les autres ont la fièvre.",
+  "category": "Monnaie unique",
+  "color": "gold",
+  "shape": "object"
+ },
+ {
+  "id": "schengeon",
+  "num": 27,
+  "name": "Schengéon",
+  "types": [
+   "DIPLO"
+  ],
+  "base": [
+   63,
+   77,
+   49,
+   77,
+   56,
+   98
+  ],
+  "growth": "medium",
+  "catch": 90,
+  "exp": 105,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "poignee_main"
+   ],
+   [
+    8,
+    "sommet_nocturne"
+   ],
+   [
+    10,
+    "marche_unique"
+   ],
+   [
+    13,
+    "interprete"
+   ],
+   [
+    21,
+    "compromis"
+   ],
+   [
+    22,
+    "canape"
+   ],
+   [
+    29,
+    "sanctions"
+   ],
+   [
+    37,
+    "accord"
+   ]
+  ],
+  "dex": "Né sur un bateau sur la Moselle en 1985. Aucune frontière ne le retient.",
+  "category": "Libre circulation",
+  "color": "blue",
+  "shape": "flyer"
+ },
+ {
+  "id": "glyphosaure",
+  "num": 28,
+  "name": "Glyphosaure",
+  "types": [
+   "AGRICOLE",
+   "LOBBY"
+  ],
+  "base": [
+   73,
+   103,
+   73,
+   44,
+   66,
+   81
+  ],
+  "growth": "slow",
+  "catch": 75,
+  "exp": 110,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "lisier"
+   ],
+   [
+    8,
+    "aop"
+   ],
+   [
+    9,
+    "banane_courbe"
+   ],
+   [
+    10,
+    "glyphosate"
+   ],
+   [
+    12,
+    "influence"
+   ],
+   [
+    16,
+    "valise"
+   ],
+   [
+    20,
+    "tracteur"
+   ],
+   [
+    22,
+    "petits_fours"
+   ],
+   [
+    27,
+    "note_position"
+   ],
+   [
+    30,
+    "pac"
+   ],
+   [
+    34,
+    "porte_tournante"
+   ],
+   [
+    38,
+    "moisson"
+   ],
+   [
+    41,
+    "sac_billets"
+   ]
+  ],
+  "dex": "Réautorisé pour dix ans en 2023. Les herbes folles tremblent à son passage.",
+  "category": "Herbicide",
+  "color": "olive",
+  "shape": "quadruped"
+ },
+ {
+  "id": "lobbyrax",
+  "num": 29,
+  "name": "Lobbyrax",
+  "types": [
+   "LOBBY"
+  ],
+  "base": [
+   47,
+   57,
+   43,
+   57,
+   43,
+   43
+  ],
+  "growth": "medium",
+  "catch": 190,
+  "exp": 58,
+  "evo": {
+   "level": 18,
+   "into": "lobbyron"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "influence"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "petits_fours"
+   ],
+   [
+    13,
+    "valise"
+   ],
+   [
+    21,
+    "note_position"
+   ],
+   [
+    22,
+    "pantouflage"
+   ],
+   [
+    29,
+    "porte_tournante"
+   ],
+   [
+    37,
+    "sac_billets"
+   ]
+  ],
+  "dex": "Il traîne dans les couloirs avec une mallette plus grande que lui. Il ne fait pas de lobbying, il « informe ».",
+  "category": "Démarcheur",
+  "color": "black",
+  "shape": "humanoid"
+ },
+ {
+  "id": "lobbyron",
+  "num": 30,
+  "name": "Lobbyron",
+  "types": [
+   "LOBBY"
+  ],
+  "base": [
+   65,
+   80,
+   60,
+   80,
+   60,
+   60
+  ],
+  "growth": "medium",
+  "catch": 90,
+  "exp": 81,
+  "evo": {
+   "level": 38,
+   "into": "lobbyzilla"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "influence"
+   ],
+   [
+    8,
+    "petits_fours"
+   ],
+   [
+    13,
+    "valise"
+   ],
+   [
+    21,
+    "note_position"
+   ],
+   [
+    22,
+    "pantouflage"
+   ],
+   [
+    29,
+    "porte_tournante"
+   ],
+   [
+    37,
+    "sac_billets"
+   ]
+  ],
+  "dex": "Il connaît le numéro de chaque assistant parlementaire. Et leurs allergies.",
+  "category": "Influenceur",
+  "color": "black",
+  "shape": "humanoid"
+ },
+ {
+  "id": "lobbyzilla",
+  "num": 31,
+  "name": "Lobbyzilla",
+  "types": [
+   "LOBBY",
+   "SOUVERAIN"
+  ],
+  "base": [
+   88,
+   104,
+   78,
+   104,
+   78,
+   78
+  ],
+  "growth": "medium",
+  "catch": 45,
+  "exp": 132,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "influence"
+   ],
+   [
+    8,
+    "petits_fours"
+   ],
+   [
+    11,
+    "frontiere"
+   ],
+   [
+    16,
+    "valise"
+   ],
+   [
+    21,
+    "article_7"
+   ],
+   [
+    22,
+    "pantouflage"
+   ],
+   [
+    27,
+    "note_position"
+   ],
+   [
+    33,
+    "rabais"
+   ],
+   [
+    38,
+    "porte_tournante"
+   ],
+   [
+    43,
+    "referendum"
+   ],
+   [
+    49,
+    "sac_billets"
+   ],
+   [
+    55,
+    "souverainete"
+   ]
+  ],
+  "dex": "Un des 25 000 lobbyistes de Bruxelles, en version géante. Il réécrit les lois en dormant.",
+  "category": "Méga-lobby",
+  "color": "black",
+  "shape": "humanoid"
+ },
+ {
+  "id": "transhumon",
+  "num": 32,
+  "name": "Transhumon",
+  "types": [
+   "TECHNO"
+  ],
+  "base": [
+   65,
+   45,
+   70,
+   35,
+   60,
+   25
+  ],
+  "growth": "medium",
+  "catch": 190,
+  "exp": 60,
+  "evo": {
+   "level": 30,
+   "into": "transhumax"
+  },
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    14,
+    "procedure_urgence"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    23,
+    "note_de_service"
+   ],
+   [
+    27,
+    "tampon_sec"
+   ],
+   [
+    32,
+    "directive"
+   ],
+   [
+    36,
+    "rapport_annuel"
+   ],
+   [
+    41,
+    "reglement"
+   ]
+  ],
+  "dex": "Une malle en fer qui fait Bruxelles–Strasbourg douze fois par an. Elle a le mal des transports.",
+  "category": "Malle en fer",
+  "color": "grey",
+  "shape": "object"
+ },
+ {
+  "id": "transhumax",
+  "num": 33,
+  "name": "Transhumax",
+  "types": [
+   "TECHNO",
+   "DIPLO"
+  ],
+  "base": [
+   102,
+   70,
+   110,
+   55,
+   94,
+   39
+  ],
+  "growth": "medium",
+  "catch": 75,
+  "exp": 117,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    8,
+    "reunion"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    13,
+    "procedure_urgence"
+   ],
+   [
+    21,
+    "poignee_main"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    25,
+    "interprete"
+   ],
+   [
+    29,
+    "note_de_service"
+   ],
+   [
+    33,
+    "compromis"
+   ],
+   [
+    36,
+    "tampon_sec"
+   ],
+   [
+    40,
+    "sanctions"
+   ],
+   [
+    44,
+    "directive"
+   ],
+   [
+    48,
+    "accord"
+   ]
+  ],
+  "dex": "Il transporte un parlement entier dans son ventre. Coût du voyage : à ne pas demander.",
+  "category": "Déménagement",
+  "color": "grey",
+  "shape": "object"
+ },
+ {
+  "id": "changheure",
+  "num": 34,
+  "name": "Changheure",
+  "types": [
+   "TECHNO",
+   "FANTOME"
+  ],
+  "base": [
+   74,
+   45,
+   68,
+   105,
+   83,
+   75
+  ],
+  "growth": "slow",
+  "catch": 45,
+  "exp": 112,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    8,
+    "reunion"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    13,
+    "procedure_urgence"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    22,
+    "disparition"
+   ],
+   [
+    22,
+    "emploi_fictif"
+   ],
+   [
+    26,
+    "note_de_service"
+   ],
+   [
+    30,
+    "fantome_payroll"
+   ],
+   [
+    35,
+    "tampon_sec"
+   ],
+   [
+    39,
+    "hantise"
+   ],
+   [
+    43,
+    "directive"
+   ],
+   [
+    47,
+    "ectoplasme"
+   ]
+  ],
+  "dex": "Le Parlement a voté sa disparition en 2019. Il revient pourtant deux fois par an.",
+  "category": "Changement d'heure",
+  "color": "purple",
+  "shape": "object"
+ },
+ {
+  "id": "diesgate",
+  "num": 35,
+  "name": "Diesgate",
+  "types": [
+   "INDUSTRIE",
+   "LOBBY"
+  ],
+  "base": [
+   72,
+   100,
+   72,
+   43,
+   64,
+   79
+  ],
+  "growth": "medium",
+  "catch": 75,
+  "exp": 107,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "chaine_montage"
+   ],
+   [
+    8,
+    "plan_industriel"
+   ],
+   [
+    9,
+    "charbon"
+   ],
+   [
+    12,
+    "influence"
+   ],
+   [
+    16,
+    "delocalisation"
+   ],
+   [
+    20,
+    "valise"
+   ],
+   [
+    22,
+    "petits_fours"
+   ],
+   [
+    23,
+    "acier"
+   ],
+   [
+    27,
+    "note_position"
+   ],
+   [
+    30,
+    "porte_tournante"
+   ],
+   [
+    34,
+    "haut_fourneau"
+   ],
+   [
+    38,
+    "sac_billets"
+   ],
+   [
+    41,
+    "airbus"
+   ]
+  ],
+  "dex": "Il triche aux contrôles depuis 2015 : propre au banc d'essai, enfumé sur la route.",
+  "category": "Fraude",
+  "color": "grey",
+  "shape": "object"
+ },
+ {
+  "id": "spitzen",
+  "num": 36,
+  "name": "Spitzen",
+  "types": [
+   "FEDERAL"
+  ],
+  "base": [
+   77,
+   107,
+   77,
+   46,
+   69,
+   84
+  ],
+  "growth": "slow",
+  "catch": 45,
+  "exp": 115,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "integration"
+   ],
+   [
+    8,
+    "subsidiarite"
+   ],
+   [
+    10,
+    "spitzen"
+   ],
+   [
+    14,
+    "drapeau_etoile"
+   ],
+   [
+    22,
+    "elargissement"
+   ],
+   [
+    23,
+    "team_europe"
+   ],
+   [
+    33,
+    "marche_unique"
+   ],
+   [
+    51,
+    "etats_unis_europe"
+   ]
+  ],
+  "dex": "Il fait campagne pour la présidence… puis un autre est nommé à sa place.",
+  "category": "Tête de liste",
+  "color": "blue",
+  "shape": "humanoid"
+ },
+ {
+  "id": "interpreton",
+  "num": 37,
+  "name": "Interpréton",
+  "types": [
+   "DIPLO"
+  ],
+  "base": [
+   50,
+   30,
+   45,
+   70,
+   55,
+   50
+  ],
+  "growth": "fast",
+  "catch": 150,
+  "exp": 75,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "poignee_main"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "sommet_nocturne"
+   ],
+   [
+    10,
+    "interprete"
+   ],
+   [
+    21,
+    "compromis"
+   ],
+   [
+    22,
+    "canape"
+   ],
+   [
+    29,
+    "sanctions"
+   ],
+   [
+    37,
+    "accord"
+   ]
+  ],
+  "dex": "Il parle 24 langues et toujours avec deux secondes de retard.",
+  "category": "Interprète",
+  "color": "teal",
+  "shape": "humanoid"
+ },
+ {
+  "id": "trilogon",
+  "num": 38,
+  "name": "Trilogon",
+  "types": [
+   "JURIDIQUE",
+   "DIPLO"
+  ],
+  "base": [
+   79,
+   47,
+   70,
+   110,
+   86,
+   78
+  ],
+  "growth": "slow",
+  "catch": 45,
+  "exp": 117,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "mise_en_demeure"
+   ],
+   [
+    8,
+    "rgpd"
+   ],
+   [
+    10,
+    "poignee_main"
+   ],
+   [
+    10,
+    "trilogue"
+   ],
+   [
+    15,
+    "interprete"
+   ],
+   [
+    20,
+    "compromis"
+   ],
+   [
+    22,
+    "jurisprudence"
+   ],
+   [
+    25,
+    "infraction"
+   ],
+   [
+    30,
+    "enquete_olaf"
+   ],
+   [
+    35,
+    "dsa"
+   ],
+   [
+    40,
+    "amende"
+   ],
+   [
+    45,
+    "sanctions"
+   ],
+   [
+    50,
+    "accord"
+   ]
+  ],
+  "dex": "Trois têtes : Parlement, Conseil, Commission. Elles se mettent d'accord vers 4 h du matin.",
+  "category": "Trilogue",
+  "color": "purple",
+  "shape": "blob"
+ },
+ {
+  "id": "comitologue",
+  "num": 39,
+  "name": "Comitologue",
+  "types": [
+   "TECHNO"
+  ],
+  "base": [
+   105,
+   42,
+   77,
+   49,
+   98,
+   49
+  ],
+  "growth": "slow",
+  "catch": 75,
+  "exp": 105,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    8,
+    "reunion"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    14,
+    "procedure_urgence"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    23,
+    "note_de_service"
+   ],
+   [
+    27,
+    "tampon_sec"
+   ],
+   [
+    32,
+    "directive"
+   ],
+   [
+    36,
+    "rapport_annuel"
+   ],
+   [
+    41,
+    "reglement"
+   ]
+  ],
+  "dex": "Personne ne sait exactement ce qu'il fait. Il siège pourtant dans 300 comités.",
+  "category": "Comitologie",
+  "color": "grey",
+  "shape": "humanoid"
+ },
+ {
+  "id": "paperasse_mon",
+  "num": 40,
+  "name": "Paperassor",
+  "types": [
+   "TECHNO"
+  ],
+  "base": [
+   56,
+   39,
+   61,
+   30,
+   52,
+   22
+  ],
+  "growth": "fast",
+  "catch": 255,
+  "exp": 52,
+  "evo": {
+   "level": 18,
+   "into": "archivor"
+  },
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    14,
+    "procedure_urgence"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    23,
+    "note_de_service"
+   ],
+   [
+    27,
+    "tampon_sec"
+   ],
+   [
+    32,
+    "directive"
+   ],
+   [
+    36,
+    "rapport_annuel"
+   ],
+   [
+    41,
+    "reglement"
+   ]
+  ],
+  "dex": "Une pile de formulaires en triple exemplaire. Il manque toujours une page.",
+  "category": "Formulaire",
+  "color": "white",
+  "shape": "object"
+ },
+ {
+  "id": "archivor",
+  "num": 41,
+  "name": "Archivor",
+  "types": [
+   "TECHNO",
+   "JURIDIQUE"
+  ],
+  "base": [
+   94,
+   64,
+   100,
+   50,
+   86,
+   36
+  ],
+  "growth": "fast",
+  "catch": 90,
+  "exp": 107,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    8,
+    "amendement"
+   ],
+   [
+    8,
+    "reunion"
+   ],
+   [
+    10,
+    "procedure_urgence"
+   ],
+   [
+    13,
+    "mise_en_demeure"
+   ],
+   [
+    18,
+    "note_de_service"
+   ],
+   [
+    21,
+    "infraction"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    24,
+    "tampon_sec"
+   ],
+   [
+    26,
+    "enquete_olaf"
+   ],
+   [
+    29,
+    "dsa"
+   ],
+   [
+    32,
+    "amende"
+   ],
+   [
+    34,
+    "directive"
+   ]
+  ],
+  "dex": "Il garde tout, même les post-it de 1958. Classement : alphabétique et émotionnel.",
+  "category": "Archives",
+  "color": "brown",
+  "shape": "object"
+ },
+ {
+  "id": "agrikolo",
+  "num": 42,
+  "name": "Agrikolo",
+  "types": [
+   "AGRICOLE"
+  ],
+  "base": [
+   62,
+   44,
+   68,
+   34,
+   58,
+   24
+  ],
+  "growth": "medium",
+  "catch": 190,
+  "exp": 58,
+  "evo": {
+   "level": 18,
+   "into": "pactor"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "lisier"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "aop"
+   ],
+   [
+    12,
+    "banane_courbe"
+   ],
+   [
+    18,
+    "tracteur"
+   ],
+   [
+    25,
+    "glyphosate"
+   ],
+   [
+    32,
+    "pac"
+   ],
+   [
+    38,
+    "moisson"
+   ]
+  ],
+  "dex": "Il touche une aide de la PAC pour chaque hectare. Il compte ses hectares tous les matins.",
+  "category": "Petit fermier",
+  "color": "green",
+  "shape": "biped"
+ },
+ {
+  "id": "pactor",
+  "num": 43,
+  "name": "PACtor",
+  "types": [
+   "AGRICOLE"
+  ],
+  "base": [
+   88,
+   62,
+   96,
+   48,
+   82,
+   34
+  ],
+  "growth": "medium",
+  "catch": 90,
+  "exp": 82,
+  "evo": {
+   "level": 36,
+   "into": "megapac"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "lisier"
+   ],
+   [
+    8,
+    "aop"
+   ],
+   [
+    10,
+    "pac"
+   ],
+   [
+    12,
+    "banane_courbe"
+   ],
+   [
+    18,
+    "tracteur"
+   ],
+   [
+    25,
+    "glyphosate"
+   ],
+   [
+    38,
+    "moisson"
+   ]
+  ],
+  "dex": "Il absorbe un tiers du budget européen sans broncher. Il a toujours faim.",
+  "category": "PAC",
+  "color": "green",
+  "shape": "biped"
+ },
+ {
+  "id": "megapac",
+  "num": 44,
+  "name": "MégaPAC",
+  "types": [
+   "AGRICOLE",
+   "SOUVERAIN"
+  ],
+  "base": [
+   114,
+   79,
+   122,
+   61,
+   105,
+   44
+  ],
+  "growth": "medium",
+  "catch": 45,
+  "exp": 131,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "lisier"
+   ],
+   [
+    8,
+    "aop"
+   ],
+   [
+    10,
+    "banane_courbe"
+   ],
+   [
+    10,
+    "pac"
+   ],
+   [
+    15,
+    "frontiere"
+   ],
+   [
+    20,
+    "tracteur"
+   ],
+   [
+    22,
+    "moisson"
+   ],
+   [
+    22,
+    "veto"
+   ],
+   [
+    25,
+    "article_7"
+   ],
+   [
+    30,
+    "glyphosate"
+   ],
+   [
+    40,
+    "rabais"
+   ],
+   [
+    45,
+    "referendum"
+   ],
+   [
+    55,
+    "souverainete"
+   ]
+  ],
+  "dex": "Quand il bloque l'autoroute avec ses tracteurs, même le Conseil négocie.",
+  "category": "Politique agricole",
+  "color": "green",
+  "shape": "biped"
+ },
+ {
+  "id": "tracteuron",
+  "num": 45,
+  "name": "Tracteuron",
+  "types": [
+   "AGRICOLE",
+   "INDUSTRIE"
+  ],
+  "base": [
+   95,
+   66,
+   103,
+   51,
+   88,
+   37
+  ],
+  "growth": "medium",
+  "catch": 75,
+  "exp": 110,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "chaine_montage"
+   ],
+   [
+    8,
+    "aop"
+   ],
+   [
+    8,
+    "charbon"
+   ],
+   [
+    10,
+    "tracteur"
+   ],
+   [
+    12,
+    "lisier"
+   ],
+   [
+    15,
+    "banane_courbe"
+   ],
+   [
+    18,
+    "delocalisation"
+   ],
+   [
+    22,
+    "plan_industriel"
+   ],
+   [
+    25,
+    "acier"
+   ],
+   [
+    28,
+    "glyphosate"
+   ],
+   [
+    32,
+    "pac"
+   ],
+   [
+    35,
+    "haut_fourneau"
+   ],
+   [
+    38,
+    "moisson"
+   ]
+  ],
+  "dex": "Il se gare devant le Parlement à chaque réforme. Klaxon garanti.",
+  "category": "Manifestation",
+  "color": "red",
+  "shape": "object"
+ },
+ {
+  "id": "fromajus",
+  "num": 46,
+  "name": "Fromajus",
+  "types": [
+   "AGRICOLE"
+  ],
+  "base": [
+   65,
+   45,
+   70,
+   35,
+   60,
+   25
+  ],
+  "growth": "fast",
+  "catch": 190,
+  "exp": 60,
+  "evo": {
+   "level": 26,
+   "into": "appellatio"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "lisier"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "aop"
+   ],
+   [
+    12,
+    "banane_courbe"
+   ],
+   [
+    18,
+    "tracteur"
+   ],
+   [
+    25,
+    "glyphosate"
+   ],
+   [
+    32,
+    "pac"
+   ],
+   [
+    38,
+    "moisson"
+   ]
+  ],
+  "dex": "Un petit fromage au lait cru qui sent très fort. Il est fier de son terroir.",
+  "category": "Fromage",
+  "color": "yellow",
+  "shape": "blob"
+ },
+ {
+  "id": "appellatio",
+  "num": 47,
+  "name": "Appellatio",
+  "types": [
+   "AGRICOLE",
+   "JURIDIQUE"
+  ],
+  "base": [
+   100,
+   69,
+   107,
+   54,
+   92,
+   38
+  ],
+  "growth": "fast",
+  "catch": 75,
+  "exp": 115,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "lisier"
+   ],
+   [
+    8,
+    "aop"
+   ],
+   [
+    10,
+    "mise_en_demeure"
+   ],
+   [
+    14,
+    "banane_courbe"
+   ],
+   [
+    19,
+    "tracteur"
+   ],
+   [
+    22,
+    "rgpd"
+   ],
+   [
+    23,
+    "glyphosate"
+   ],
+   [
+    28,
+    "infraction"
+   ],
+   [
+    33,
+    "enquete_olaf"
+   ],
+   [
+    37,
+    "pac"
+   ],
+   [
+    42,
+    "dsa"
+   ],
+   [
+    46,
+    "amende"
+   ],
+   [
+    51,
+    "moisson"
+   ]
+  ],
+  "dex": "Protégé par une appellation d'origine. Toute imitation est poursuivie en justice.",
+  "category": "AOP",
+  "color": "yellow",
+  "shape": "blob"
+ },
+ {
+  "id": "pralinou",
+  "num": 48,
+  "name": "Pralinou",
+  "types": [
+   "SOCIAL"
+  ],
+  "base": [
+   50,
+   52,
+   52,
+   52,
+   52,
+   52
+  ],
+  "growth": "fast",
+  "catch": 190,
+  "exp": 77,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "erasmus"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "greve"
+   ],
+   [
+    13,
+    "pilier_social"
+   ],
+   [
+    21,
+    "salaire_minimum"
+   ],
+   [
+    22,
+    "solidarite"
+   ],
+   [
+    29,
+    "manif"
+   ],
+   [
+    37,
+    "oxi"
+   ]
+  ],
+  "dex": "Un chocolat belge très gentil. Il fond quand on lui fait un compliment.",
+  "category": "Praline",
+  "color": "brown",
+  "shape": "blob"
+ },
+ {
+  "id": "frituron",
+  "num": 49,
+  "name": "Frituron",
+  "types": [
+   "SOCIAL",
+   "INDUSTRIE"
+  ],
+  "base": [
+   60,
+   84,
+   60,
+   36,
+   54,
+   66
+  ],
+  "growth": "fast",
+  "catch": 150,
+  "exp": 90,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "chaine_montage"
+   ],
+   [
+    8,
+    "greve"
+   ],
+   [
+    9,
+    "charbon"
+   ],
+   [
+    12,
+    "erasmus"
+   ],
+   [
+    16,
+    "delocalisation"
+   ],
+   [
+    20,
+    "pilier_social"
+   ],
+   [
+    22,
+    "solidarite"
+   ],
+   [
+    23,
+    "acier"
+   ],
+   [
+    27,
+    "salaire_minimum"
+   ],
+   [
+    30,
+    "haut_fourneau"
+   ],
+   [
+    34,
+    "manif"
+   ],
+   [
+    38,
+    "oxi"
+   ],
+   [
+    41,
+    "airbus"
+   ]
+  ],
+  "dex": "Cuit deux fois, comme il se doit. Il refuse catégoriquement d'être appelé « French ».",
+  "category": "Frite belge",
+  "color": "yellow",
+  "shape": "insect"
+ },
+ {
+  "id": "pigeonix",
+  "num": 50,
+  "name": "Pigeonix",
+  "types": [
+   "POPULISTE"
+  ],
+  "base": [
+   38,
+   46,
+   29,
+   46,
+   33,
+   58
+  ],
+  "growth": "fast",
+  "catch": 255,
+  "exp": 62,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "slogan"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "euromythe"
+   ],
+   [
+    12,
+    "laughing"
+   ],
+   [
+    18,
+    "megaphone"
+   ],
+   [
+    22,
+    "tremendous"
+   ],
+   [
+    25,
+    "droits_douane"
+   ],
+   [
+    32,
+    "bus_rouge"
+   ],
+   [
+    38,
+    "tweet_majuscules"
+   ]
+  ],
+  "dex": "Il vit place du Luxembourg et vole les frites des lobbyistes. Il connaît tous les ragots.",
+  "category": "Pigeon",
+  "color": "grey",
+  "shape": "flyer"
+ },
+ {
+  "id": "manneken",
+  "num": 51,
+  "name": "Manneken",
+  "types": [
+   "SOCIAL",
+   "FANTOME"
+  ],
+  "base": [
+   67,
+   40,
+   60,
+   93,
+   73,
+   67
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 100,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "erasmus"
+   ],
+   [
+    8,
+    "greve"
+   ],
+   [
+    9,
+    "emploi_fictif"
+   ],
+   [
+    10,
+    "hantise"
+   ],
+   [
+    14,
+    "pilier_social"
+   ],
+   [
+    18,
+    "fantome_payroll"
+   ],
+   [
+    22,
+    "solidarite"
+   ],
+   [
+    23,
+    "salaire_minimum"
+   ],
+   [
+    32,
+    "manif"
+   ],
+   [
+    36,
+    "ectoplasme"
+   ],
+   [
+    41,
+    "oxi"
+   ]
+  ],
+  "dex": "Une petite statue de 55 cm qui a plus de costumes que tout le Parlement.",
+  "category": "Petit bonhomme",
+  "color": "bronze",
+  "shape": "humanoid"
+ },
+ {
+  "id": "atomiom",
+  "num": 52,
+  "name": "Atomiom",
+  "types": [
+   "ENERGIE",
+   "TECHNO"
+  ],
+  "base": [
+   80,
+   48,
+   72,
+   112,
+   88,
+   80
+  ],
+  "growth": "slow",
+  "catch": 45,
+  "exp": 120,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    8,
+    "robinet_gaz"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    10,
+    "fission"
+   ],
+   [
+    13,
+    "etincelle"
+   ],
+   [
+    17,
+    "procedure_urgence"
+   ],
+   [
+    22,
+    "repowereu"
+   ],
+   [
+    25,
+    "eolienne"
+   ],
+   [
+    29,
+    "note_de_service"
+   ],
+   [
+    33,
+    "tampon_sec"
+   ],
+   [
+    36,
+    "surtension"
+   ],
+   [
+    40,
+    "directive"
+   ],
+   [
+    48,
+    "rapport_annuel"
+   ]
+  ],
+  "dex": "Neuf sphères d'acier reliées en cristal, depuis l'Expo 58. Il brille la nuit sur Bruxelles.",
+  "category": "Atomium",
+  "color": "silver",
+  "shape": "blob"
+ },
+ {
+  "id": "stagion",
+  "num": 53,
+  "name": "Stagion",
+  "types": [
+   "SOCIAL"
+  ],
+  "base": [
+   38,
+   46,
+   29,
+   46,
+   33,
+   58
+  ],
+  "growth": "parabolic",
+  "catch": 255,
+  "exp": 50,
+  "evo": {
+   "level": 16,
+   "into": "contractuel"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "erasmus"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "greve"
+   ],
+   [
+    13,
+    "pilier_social"
+   ],
+   [
+    21,
+    "salaire_minimum"
+   ],
+   [
+    22,
+    "solidarite"
+   ],
+   [
+    29,
+    "manif"
+   ],
+   [
+    37,
+    "oxi"
+   ]
+  ],
+  "dex": "Il travaille beaucoup et n'est pas payé. Il dit que c'est « une expérience formatrice ».",
+  "category": "Stagiaire",
+  "color": "blue",
+  "shape": "humanoid"
+ },
+ {
+  "id": "contractuel",
+  "num": 54,
+  "name": "Contractuel",
+  "types": [
+   "SOCIAL",
+   "TECHNO"
+  ],
+  "base": [
+   65,
+   63,
+   63,
+   63,
+   63,
+   63
+  ],
+  "growth": "parabolic",
+  "catch": 120,
+  "exp": 76,
+  "evo": {
+   "level": 34,
+   "into": "titularis"
+  },
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    8,
+    "amendement"
+   ],
+   [
+    8,
+    "greve"
+   ],
+   [
+    11,
+    "procedure_urgence"
+   ],
+   [
+    14,
+    "erasmus"
+   ],
+   [
+    19,
+    "note_de_service"
+   ],
+   [
+    22,
+    "pilier_social"
+   ],
+   [
+    22,
+    "solidarite"
+   ],
+   [
+    25,
+    "tampon_sec"
+   ],
+   [
+    28,
+    "salaire_minimum"
+   ],
+   [
+    31,
+    "directive"
+   ],
+   [
+    34,
+    "manif"
+   ],
+   [
+    36,
+    "oxi"
+   ]
+  ],
+  "dex": "Son contrat finit dans trois mois. Il le renouvelle depuis six ans.",
+  "category": "Agent temporaire",
+  "color": "blue",
+  "shape": "humanoid"
+ },
+ {
+  "id": "titularis",
+  "num": 55,
+  "name": "Titularis",
+  "types": [
+   "TECHNO",
+   "FEDERAL"
+  ],
+  "base": [
+   125,
+   50,
+   92,
+   58,
+   117,
+   58
+  ],
+  "growth": "parabolic",
+  "catch": 45,
+  "exp": 125,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    8,
+    "reunion"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    12,
+    "integration"
+   ],
+   [
+    16,
+    "procedure_urgence"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    23,
+    "drapeau_etoile"
+   ],
+   [
+    27,
+    "note_de_service"
+   ],
+   [
+    31,
+    "tampon_sec"
+   ],
+   [
+    34,
+    "team_europe"
+   ],
+   [
+    38,
+    "marche_unique"
+   ],
+   [
+    42,
+    "directive"
+   ],
+   [
+    45,
+    "spitzen"
+   ]
+  ],
+  "dex": "Il a réussi le concours EPSO. Il ne craint plus rien, sauf la réforme des retraites.",
+  "category": "Fonctionnaire",
+  "color": "navy",
+  "shape": "humanoid"
+ },
+ {
+  "id": "populo",
+  "num": 56,
+  "name": "Populo",
+  "types": [
+   "POPULISTE"
+  ],
+  "base": [
+   45,
+   63,
+   45,
+   27,
+   40,
+   50
+  ],
+  "growth": "medium",
+  "catch": 200,
+  "exp": 54,
+  "evo": {
+   "level": 20,
+   "into": "tribun"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "slogan"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "euromythe"
+   ],
+   [
+    12,
+    "laughing"
+   ],
+   [
+    18,
+    "megaphone"
+   ],
+   [
+    22,
+    "tremendous"
+   ],
+   [
+    25,
+    "droits_douane"
+   ],
+   [
+    32,
+    "bus_rouge"
+   ],
+   [
+    38,
+    "tweet_majuscules"
+   ]
+  ],
+  "dex": "Il est contre. Peu importe quoi, il est contre.",
+  "category": "Râleur",
+  "color": "red",
+  "shape": "biped"
+ },
+ {
+  "id": "tribun",
+  "num": 57,
+  "name": "Tribun",
+  "types": [
+   "POPULISTE"
+  ],
+  "base": [
+   67,
+   93,
+   67,
+   40,
+   60,
+   73
+  ],
+  "growth": "medium",
+  "catch": 90,
+  "exp": 80,
+  "evo": {
+   "level": 36,
+   "into": "demagogor"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "slogan"
+   ],
+   [
+    8,
+    "euromythe"
+   ],
+   [
+    10,
+    "megaphone"
+   ],
+   [
+    12,
+    "laughing"
+   ],
+   [
+    22,
+    "tremendous"
+   ],
+   [
+    25,
+    "droits_douane"
+   ],
+   [
+    32,
+    "bus_rouge"
+   ],
+   [
+    38,
+    "tweet_majuscules"
+   ]
+  ],
+  "dex": "Il monte sur toutes les tables pour haranguer la foule. Même à la cantine.",
+  "category": "Orateur",
+  "color": "red",
+  "shape": "biped"
+ },
+ {
+  "id": "demagogor",
+  "num": 58,
+  "name": "Démagogor",
+  "types": [
+   "POPULISTE",
+   "SOUVERAIN"
+  ],
+  "base": [
+   87,
+   121,
+   87,
+   52,
+   78,
+   95
+  ],
+  "growth": "medium",
+  "catch": 45,
+  "exp": 130,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "slogan"
+   ],
+   [
+    8,
+    "euromythe"
+   ],
+   [
+    10,
+    "frontiere"
+   ],
+   [
+    10,
+    "tweet_majuscules"
+   ],
+   [
+    15,
+    "laughing"
+   ],
+   [
+    20,
+    "article_7"
+   ],
+   [
+    22,
+    "tremendous"
+   ],
+   [
+    25,
+    "megaphone"
+   ],
+   [
+    30,
+    "rabais"
+   ],
+   [
+    35,
+    "droits_douane"
+   ],
+   [
+    40,
+    "bus_rouge"
+   ],
+   [
+    45,
+    "referendum"
+   ],
+   [
+    55,
+    "souverainete"
+   ]
+  ],
+  "dex": "Il promet tout à tout le monde. Ses promesses s'évaporent à l'aube.",
+  "category": "Démagogue",
+  "color": "red",
+  "shape": "biped"
+ },
+ {
+  "id": "fakeon",
+  "num": 59,
+  "name": "Fakeon",
+  "types": [
+   "NUMERIQUE",
+   "POPULISTE"
+  ],
+  "base": [
+   68,
+   41,
+   62,
+   96,
+   75,
+   68
+  ],
+  "growth": "fast",
+  "catch": 75,
+  "exp": 102,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    8,
+    "troll"
+   ],
+   [
+    10,
+    "fake_news"
+   ],
+   [
+    12,
+    "bug"
+   ],
+   [
+    15,
+    "slogan"
+   ],
+   [
+    18,
+    "usb_c"
+   ],
+   [
+    22,
+    "laughing"
+   ],
+   [
+    25,
+    "megaphone"
+   ],
+   [
+    28,
+    "algorithme"
+   ],
+   [
+    32,
+    "droits_douane"
+   ],
+   [
+    35,
+    "bus_rouge"
+   ],
+   [
+    38,
+    "tweet_majuscules"
+   ]
+  ],
+  "dex": "Il change de forme selon la personne qui le regarde. Il est très partagé.",
+  "category": "Fausse info",
+  "color": "orange",
+  "shape": "flyer"
+ },
+ {
+  "id": "trollbot",
+  "num": 60,
+  "name": "Trollbot",
+  "types": [
+   "NUMERIQUE"
+  ],
+  "base": [
+   37,
+   61,
+   28,
+   61,
+   28,
+   65
+  ],
+  "growth": "fast",
+  "catch": 190,
+  "exp": 56,
+  "evo": {
+   "level": 24,
+   "into": "botfarm"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    10,
+    "troll"
+   ],
+   [
+    18,
+    "bug"
+   ],
+   [
+    22,
+    "fake_news"
+   ],
+   [
+    25,
+    "usb_c"
+   ],
+   [
+    32,
+    "algorithme"
+   ],
+   [
+    38,
+    "ia_act"
+   ]
+  ],
+  "dex": "Un petit robot qui commente tout en majuscules. Il n'a jamais dormi.",
+  "category": "Faux compte",
+  "color": "grey",
+  "shape": "object"
+ },
+ {
+  "id": "botfarm",
+  "num": 61,
+  "name": "Botfarm",
+  "types": [
+   "NUMERIQUE",
+   "LOBBY"
+  ],
+  "base": [
+   59,
+   98,
+   45,
+   98,
+   45,
+   105
+  ],
+  "growth": "fast",
+  "catch": 60,
+  "exp": 112,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    10,
+    "troll"
+   ],
+   [
+    15,
+    "bug"
+   ],
+   [
+    20,
+    "influence"
+   ],
+   [
+    22,
+    "fake_news"
+   ],
+   [
+    25,
+    "usb_c"
+   ],
+   [
+    30,
+    "valise"
+   ],
+   [
+    35,
+    "note_position"
+   ],
+   [
+    40,
+    "algorithme"
+   ],
+   [
+    45,
+    "porte_tournante"
+   ],
+   [
+    50,
+    "sac_billets"
+   ],
+   [
+    55,
+    "ia_act"
+   ]
+  ],
+  "dex": "Dix mille comptes dans une seule boîte. Les élections le connaissent bien.",
+  "category": "Usine à trolls",
+  "color": "grey",
+  "shape": "object"
+ },
+ {
+  "id": "algoritmo",
+  "num": 62,
+  "name": "Algoritmo",
+  "types": [
+   "NUMERIQUE"
+  ],
+  "base": [
+   50,
+   30,
+   45,
+   70,
+   55,
+   50
+  ],
+  "growth": "medium",
+  "catch": 150,
+  "exp": 60,
+  "evo": {
+   "level": 30,
+   "into": "iact"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    12,
+    "troll"
+   ],
+   [
+    18,
+    "bug"
+   ],
+   [
+    22,
+    "fake_news"
+   ],
+   [
+    25,
+    "usb_c"
+   ],
+   [
+    32,
+    "algorithme"
+   ],
+   [
+    38,
+    "ia_act"
+   ]
+  ],
+  "dex": "Il apprend de tout ce que vous faites. Il sait déjà ce que vous allez capturer.",
+  "category": "Algorithme",
+  "color": "cyan",
+  "shape": "serpent"
+ },
+ {
+  "id": "iact",
+  "num": 63,
+  "name": "IAct",
+  "types": [
+   "NUMERIQUE",
+   "JURIDIQUE"
+  ],
+  "base": [
+   80,
+   48,
+   72,
+   112,
+   88,
+   80
+  ],
+  "growth": "medium",
+  "catch": 45,
+  "exp": 120,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "roaming"
+   ],
+   [
+    8,
+    "cookie"
+   ],
+   [
+    10,
+    "ia_act"
+   ],
+   [
+    10,
+    "troll"
+   ],
+   [
+    14,
+    "bug"
+   ],
+   [
+    19,
+    "mise_en_demeure"
+   ],
+   [
+    22,
+    "fake_news"
+   ],
+   [
+    23,
+    "usb_c"
+   ],
+   [
+    28,
+    "infraction"
+   ],
+   [
+    33,
+    "enquete_olaf"
+   ],
+   [
+    37,
+    "algorithme"
+   ],
+   [
+    42,
+    "dsa"
+   ],
+   [
+    46,
+    "amende"
+   ]
+  ],
+  "dex": "Le premier règlement mondial sur l'intelligence artificielle (2024) l'a mis en règle.",
+  "category": "IA régulée",
+  "color": "cyan",
+  "shape": "serpent"
+ },
+ {
+  "id": "inflaton",
+  "num": 64,
+  "name": "Inflaton",
+  "types": [
+   "MONETAIRE"
+  ],
+  "base": [
+   62,
+   44,
+   68,
+   34,
+   58,
+   24
+  ],
+  "growth": "medium",
+  "catch": 190,
+  "exp": 58,
+  "evo": {
+   "level": 28,
+   "into": "hyperflaton"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "piece_euro"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    13,
+    "inflation"
+   ],
+   [
+    21,
+    "taux_directeur"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    29,
+    "spread"
+   ],
+   [
+    37,
+    "quantitative"
+   ]
+  ],
+  "dex": "Il gonfle un peu chaque mois. Les ménages le surveillent de près.",
+  "category": "Inflation",
+  "color": "pink",
+  "shape": "blob"
+ },
+ {
+  "id": "hyperflaton",
+  "num": 65,
+  "name": "Hyperflaton",
+  "types": [
+   "MONETAIRE"
+  ],
+  "base": [
+   100,
+   69,
+   107,
+   54,
+   92,
+   38
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 115,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "piece_euro"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    16,
+    "inflation"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    27,
+    "taux_directeur"
+   ],
+   [
+    38,
+    "spread"
+   ],
+   [
+    49,
+    "quantitative"
+   ]
+  ],
+  "dex": "Si gros qu'il bouche les rues. La BCE monte les taux pour le faire maigrir.",
+  "category": "Hyperinflation",
+  "color": "pink",
+  "shape": "blob"
+ },
+ {
+  "id": "spreadon",
+  "num": 66,
+  "name": "Spreadon",
+  "types": [
+   "MONETAIRE",
+   "POPULISTE"
+  ],
+  "base": [
+   56,
+   91,
+   42,
+   91,
+   42,
+   98
+  ],
+  "growth": "medium",
+  "catch": 90,
+  "exp": 105,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "piece_euro"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    9,
+    "slogan"
+   ],
+   [
+    12,
+    "inflation"
+   ],
+   [
+    16,
+    "laughing"
+   ],
+   [
+    20,
+    "taux_directeur"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    23,
+    "megaphone"
+   ],
+   [
+    27,
+    "spread"
+   ],
+   [
+    30,
+    "droits_douane"
+   ],
+   [
+    34,
+    "bus_rouge"
+   ],
+   [
+    38,
+    "quantitative"
+   ],
+   [
+    41,
+    "tweet_majuscules"
+   ]
+  ],
+  "dex": "Il s'étire à chaque déclaration maladroite d'un banquier central.",
+  "category": "Écart de taux",
+  "color": "red",
+  "shape": "serpent"
+ },
+ {
+  "id": "cryptou",
+  "num": 67,
+  "name": "Cryptou",
+  "types": [
+   "MONETAIRE",
+   "NUMERIQUE"
+  ],
+  "base": [
+   38,
+   63,
+   29,
+   63,
+   29,
+   68
+  ],
+  "growth": "fast",
+  "catch": 190,
+  "exp": 58,
+  "evo": {
+   "level": 30,
+   "into": "mica"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "piece_euro"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    9,
+    "roaming"
+   ],
+   [
+    12,
+    "troll"
+   ],
+   [
+    16,
+    "bug"
+   ],
+   [
+    20,
+    "inflation"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    23,
+    "usb_c"
+   ],
+   [
+    27,
+    "taux_directeur"
+   ],
+   [
+    30,
+    "spread"
+   ],
+   [
+    34,
+    "algorithme"
+   ],
+   [
+    38,
+    "quantitative"
+   ]
+  ],
+  "dex": "Il vaut une fortune le matin et rien le soir. Il adore les montagnes russes.",
+  "category": "Cryptomonnaie",
+  "color": "orange",
+  "shape": "object"
+ },
+ {
+  "id": "mica",
+  "num": 68,
+  "name": "MiCA",
+  "types": [
+   "MONETAIRE",
+   "JURIDIQUE"
+  ],
+  "base": [
+   75,
+   77,
+   77,
+   77,
+   77,
+   77
+  ],
+  "growth": "fast",
+  "catch": 60,
+  "exp": 115,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "piece_euro"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    10,
+    "mise_en_demeure"
+   ],
+   [
+    10,
+    "rgpd"
+   ],
+   [
+    15,
+    "inflation"
+   ],
+   [
+    20,
+    "infraction"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    25,
+    "taux_directeur"
+   ],
+   [
+    30,
+    "enquete_olaf"
+   ],
+   [
+    35,
+    "spread"
+   ],
+   [
+    40,
+    "dsa"
+   ],
+   [
+    45,
+    "amende"
+   ],
+   [
+    50,
+    "quantitative"
+   ]
+  ],
+  "dex": "Le règlement MiCA l'a obligé à porter une cravate. Il est plus calme, maintenant.",
+  "category": "Crypto régulée",
+  "color": "orange",
+  "shape": "object"
+ },
+ {
+  "id": "austerix",
+  "num": 69,
+  "name": "Austérix",
+  "types": [
+   "MONETAIRE",
+   "SOUVERAIN"
+  ],
+  "base": [
+   110,
+   44,
+   81,
+   51,
+   103,
+   51
+  ],
+  "growth": "slow",
+  "catch": 75,
+  "exp": 110,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "piece_euro"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    9,
+    "frontiere"
+   ],
+   [
+    13,
+    "inflation"
+   ],
+   [
+    17,
+    "article_7"
+   ],
+   [
+    21,
+    "taux_directeur"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    25,
+    "rabais"
+   ],
+   [
+    29,
+    "spread"
+   ],
+   [
+    33,
+    "referendum"
+   ],
+   [
+    37,
+    "quantitative"
+   ],
+   [
+    41,
+    "souverainete"
+   ]
+  ],
+  "dex": "Il ne dépense jamais rien, pas même son énergie. Son cri : « Schwarze Null ! »",
+  "category": "Équilibre budgétaire",
+  "color": "black",
+  "shape": "biped"
+ },
+ {
+  "id": "troikat",
+  "num": 70,
+  "name": "Troïkat",
+  "types": [
+   "MONETAIRE",
+   "DIPLO"
+  ],
+  "base": [
+   79,
+   92,
+   69,
+   92,
+   69,
+   69
+  ],
+  "growth": "slow",
+  "catch": 45,
+  "exp": 117,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "piece_euro"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    11,
+    "poignee_main"
+   ],
+   [
+    16,
+    "inflation"
+   ],
+   [
+    21,
+    "interprete"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    27,
+    "compromis"
+   ],
+   [
+    33,
+    "taux_directeur"
+   ],
+   [
+    38,
+    "spread"
+   ],
+   [
+    43,
+    "sanctions"
+   ],
+   [
+    49,
+    "quantitative"
+   ],
+   [
+    55,
+    "accord"
+   ]
+  ],
+  "dex": "Trois chats : BCE, Commission, FMI. Ils inspectent ensemble les comptes des autres.",
+  "category": "Troïka",
+  "color": "grey",
+  "shape": "quadruped"
+ },
+ {
+  "id": "vetoad",
+  "num": 71,
+  "name": "Vetoad",
+  "types": [
+   "SOUVERAIN"
+  ],
+  "base": [
+   65,
+   45,
+   70,
+   35,
+   60,
+   25
+  ],
+  "growth": "medium",
+  "catch": 190,
+  "exp": 60,
+  "evo": {
+   "level": 30,
+   "into": "vetoadmax"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "frontiere"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "veto"
+   ],
+   [
+    13,
+    "article_7"
+   ],
+   [
+    21,
+    "rabais"
+   ],
+   [
+    22,
+    "opt_out"
+   ],
+   [
+    29,
+    "referendum"
+   ],
+   [
+    37,
+    "souverainete"
+   ]
+  ],
+  "dex": "Un crapaud qui croasse « non ! » à chaque proposition. Il suffit de lui pour tout bloquer.",
+  "category": "Veto",
+  "color": "green",
+  "shape": "quadruped"
+ },
+ {
+  "id": "vetoadmax",
+  "num": 72,
+  "name": "Vetoadmax",
+  "types": [
+   "SOUVERAIN",
+   "POPULISTE"
+  ],
+  "base": [
+   104,
+   72,
+   112,
+   56,
+   96,
+   40
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 120,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "slogan"
+   ],
+   [
+    8,
+    "veto"
+   ],
+   [
+    10,
+    "frontiere"
+   ],
+   [
+    15,
+    "laughing"
+   ],
+   [
+    20,
+    "article_7"
+   ],
+   [
+    22,
+    "opt_out"
+   ],
+   [
+    25,
+    "megaphone"
+   ],
+   [
+    30,
+    "rabais"
+   ],
+   [
+    35,
+    "droits_douane"
+   ],
+   [
+    40,
+    "bus_rouge"
+   ],
+   [
+    45,
+    "referendum"
+   ],
+   [
+    50,
+    "tweet_majuscules"
+   ],
+   [
+    55,
+    "souverainete"
+   ]
+  ],
+  "dex": "Il exige l'unanimité pour chaque décision, puis la refuse lui-même.",
+  "category": "Unanimité",
+  "color": "green",
+  "shape": "quadruped"
+ },
+ {
+  "id": "frontierex",
+  "num": 73,
+  "name": "Frontièrex",
+  "types": [
+   "SOUVERAIN"
+  ],
+  "base": [
+   87,
+   60,
+   93,
+   47,
+   80,
+   33
+  ],
+  "growth": "medium",
+  "catch": 90,
+  "exp": 100,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "frontiere"
+   ],
+   [
+    8,
+    "veto"
+   ],
+   [
+    13,
+    "article_7"
+   ],
+   [
+    21,
+    "rabais"
+   ],
+   [
+    22,
+    "opt_out"
+   ],
+   [
+    29,
+    "referendum"
+   ],
+   [
+    37,
+    "souverainete"
+   ]
+  ],
+  "dex": "Il réapparaît dès qu'on parle de contrôles aux frontières. Il a sa guérite personnelle.",
+  "category": "Barrière",
+  "color": "brown",
+  "shape": "object"
+ },
+ {
+  "id": "brexitt",
+  "num": 74,
+  "name": "Brexitt",
+  "types": [
+   "SOUVERAIN",
+   "POPULISTE"
+  ],
+  "base": [
+   63,
+   77,
+   49,
+   77,
+   56,
+   98
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 105,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "slogan"
+   ],
+   [
+    8,
+    "veto"
+   ],
+   [
+    9,
+    "frontiere"
+   ],
+   [
+    10,
+    "article_50"
+   ],
+   [
+    12,
+    "laughing"
+   ],
+   [
+    16,
+    "article_7"
+   ],
+   [
+    20,
+    "megaphone"
+   ],
+   [
+    22,
+    "bus_rouge"
+   ],
+   [
+    22,
+    "opt_out"
+   ],
+   [
+    23,
+    "rabais"
+   ],
+   [
+    27,
+    "droits_douane"
+   ],
+   [
+    34,
+    "referendum"
+   ],
+   [
+    38,
+    "tweet_majuscules"
+   ]
+  ],
+  "dex": "Il a voulu partir en 2016, est parti en 2020, et regrette parfois. Il quitte souvent les combats.",
+  "category": "Sortie",
+  "color": "navy",
+  "shape": "flyer"
+ },
+ {
+  "id": "referendo",
+  "num": 75,
+  "name": "Référendo",
+  "types": [
+   "POPULISTE",
+   "SOUVERAIN"
+  ],
+  "base": [
+   68,
+   41,
+   62,
+   96,
+   75,
+   68
+  ],
+  "growth": "medium",
+  "catch": 75,
+  "exp": 102,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "slogan"
+   ],
+   [
+    8,
+    "euromythe"
+   ],
+   [
+    9,
+    "frontiere"
+   ],
+   [
+    12,
+    "laughing"
+   ],
+   [
+    16,
+    "article_7"
+   ],
+   [
+    20,
+    "megaphone"
+   ],
+   [
+    22,
+    "tremendous"
+   ],
+   [
+    23,
+    "rabais"
+   ],
+   [
+    27,
+    "droits_douane"
+   ],
+   [
+    30,
+    "bus_rouge"
+   ],
+   [
+    34,
+    "referendum"
+   ],
+   [
+    38,
+    "tweet_majuscules"
+   ],
+   [
+    41,
+    "souverainete"
+   ]
+  ],
+  "dex": "Une urne qui pose des questions simples aux problèmes compliqués.",
+  "category": "Consultation",
+  "color": "white",
+  "shape": "object"
+ },
+ {
+  "id": "assistome",
+  "num": 76,
+  "name": "Assistome",
+  "types": [
+   "FANTOME"
+  ],
+  "base": [
+   50,
+   30,
+   45,
+   70,
+   55,
+   50
+  ],
+  "growth": "medium",
+  "catch": 150,
+  "exp": 60,
+  "evo": {
+   "level": 30,
+   "into": "emploifictif"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "emploi_fictif"
+   ],
+   [
+    4,
+    "disparition"
+   ],
+   [
+    15,
+    "fantome_payroll"
+   ],
+   [
+    22,
+    "sms_efface"
+   ],
+   [
+    25,
+    "hantise"
+   ],
+   [
+    35,
+    "ectoplasme"
+   ]
+  ],
+  "dex": "Payé par le Parlement, il n'y a jamais mis les pieds. Personne ne l'a jamais vu travailler.",
+  "category": "Assistant fantôme",
+  "color": "lavender",
+  "shape": "humanoid"
+ },
+ {
+  "id": "emploifictif",
+  "num": 77,
+  "name": "Emploifictif",
+  "types": [
+   "FANTOME",
+   "LOBBY"
+  ],
+  "base": [
+   79,
+   47,
+   70,
+   110,
+   86,
+   78
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 117,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "influence"
+   ],
+   [
+    8,
+    "disparition"
+   ],
+   [
+    10,
+    "fantome_payroll"
+   ],
+   [
+    11,
+    "emploi_fictif"
+   ],
+   [
+    17,
+    "valise"
+   ],
+   [
+    22,
+    "sms_efface"
+   ],
+   [
+    29,
+    "note_position"
+   ],
+   [
+    36,
+    "hantise"
+   ],
+   [
+    42,
+    "porte_tournante"
+   ],
+   [
+    48,
+    "sac_billets"
+   ],
+   [
+    54,
+    "ectoplasme"
+   ]
+  ],
+  "dex": "Il porte un badge, un contrat et une fiche de paie. Mais aucun bureau.",
+  "category": "Emploi fictif",
+  "color": "lavender",
+  "shape": "humanoid"
+ },
+ {
+  "id": "sacabillet",
+  "num": 78,
+  "name": "Sacabillet",
+  "types": [
+   "LOBBY",
+   "FANTOME"
+  ],
+  "base": [
+   74,
+   105,
+   75,
+   45,
+   68,
+   83
+  ],
+  "growth": "slow",
+  "catch": 30,
+  "exp": 112,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "influence"
+   ],
+   [
+    8,
+    "petits_fours"
+   ],
+   [
+    10,
+    "sac_billets"
+   ],
+   [
+    11,
+    "emploi_fictif"
+   ],
+   [
+    17,
+    "valise"
+   ],
+   [
+    22,
+    "pantouflage"
+   ],
+   [
+    23,
+    "fantome_payroll"
+   ],
+   [
+    29,
+    "note_position"
+   ],
+   [
+    36,
+    "hantise"
+   ],
+   [
+    42,
+    "porte_tournante"
+   ],
+   [
+    54,
+    "ectoplasme"
+   ]
+  ],
+  "dex": "Retrouvé plein de billets dans un appartement bruxellois en décembre 2022.",
+  "category": "Sac de billets",
+  "color": "green",
+  "shape": "object"
+ },
+ {
+  "id": "valisette",
+  "num": 79,
+  "name": "Valisette",
+  "types": [
+   "LOBBY"
+  ],
+  "base": [
+   65,
+   45,
+   70,
+   35,
+   60,
+   25
+  ],
+  "growth": "fast",
+  "catch": 190,
+  "exp": 75,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "influence"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "petits_fours"
+   ],
+   [
+    13,
+    "valise"
+   ],
+   [
+    21,
+    "note_position"
+   ],
+   [
+    22,
+    "pantouflage"
+   ],
+   [
+    29,
+    "porte_tournante"
+   ],
+   [
+    37,
+    "sac_billets"
+   ]
+  ],
+  "dex": "Une petite valise qui passe de main en main au pied du Parlement.",
+  "category": "Mallette",
+  "color": "brown",
+  "shape": "object"
+ },
+ {
+  "id": "gazoduc",
+  "num": 80,
+  "name": "Gazoduc",
+  "types": [
+   "ENERGIE",
+   "SOUVERAIN"
+  ],
+  "base": [
+   95,
+   66,
+   103,
+   51,
+   88,
+   37
+  ],
+  "growth": "slow",
+  "catch": 60,
+  "exp": 110,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "etincelle"
+   ],
+   [
+    8,
+    "robinet_gaz"
+   ],
+   [
+    9,
+    "eolienne"
+   ],
+   [
+    13,
+    "frontiere"
+   ],
+   [
+    17,
+    "article_7"
+   ],
+   [
+    21,
+    "rabais"
+   ],
+   [
+    22,
+    "longue_table"
+   ],
+   [
+    22,
+    "repowereu"
+   ],
+   [
+    25,
+    "surtension"
+   ],
+   [
+    29,
+    "referendum"
+   ],
+   [
+    33,
+    "fission"
+   ],
+   [
+    37,
+    "souverainete"
+   ],
+   [
+    41,
+    "fusion"
+   ]
+  ],
+  "dex": "Long de 1200 km sous la mer. Son robinet est contrôlé par quelqu'un d'autre.",
+  "category": "Pipeline",
+  "color": "grey",
+  "shape": "serpent"
+ },
+ {
+  "id": "eolion",
+  "num": 81,
+  "name": "Éolion",
+  "types": [
+   "ENERGIE",
+   "VERT"
+  ],
+  "base": [
+   49,
+   61,
+   38,
+   61,
+   44,
+   77
+  ],
+  "growth": "medium",
+  "catch": 150,
+  "exp": 66,
+  "evo": {
+   "level": 32,
+   "into": "offshorion"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "etincelle"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "robinet_gaz"
+   ],
+   [
+    8,
+    "velo"
+   ],
+   [
+    12,
+    "compost"
+   ],
+   [
+    15,
+    "bouchon_attache"
+   ],
+   [
+    18,
+    "eolienne"
+   ],
+   [
+    22,
+    "pacte_vert"
+   ],
+   [
+    22,
+    "repowereu"
+   ],
+   [
+    25,
+    "surtension"
+   ],
+   [
+    28,
+    "taxe_carbone"
+   ],
+   [
+    32,
+    "fit_for_55"
+   ],
+   [
+    35,
+    "fission"
+   ]
+  ],
+  "dex": "Ses pales tournent dès qu'on souffle sur lui. Il déteste les jours sans vent.",
+  "category": "Éolienne",
+  "color": "white",
+  "shape": "flyer"
+ },
+ {
+  "id": "offshorion",
+  "num": 82,
+  "name": "Offshorion",
+  "types": [
+   "ENERGIE",
+   "VERT"
+  ],
+  "base": [
+   72,
+   88,
+   56,
+   88,
+   64,
+   112
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 120,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "etincelle"
+   ],
+   [
+    8,
+    "robinet_gaz"
+   ],
+   [
+    10,
+    "velo"
+   ],
+   [
+    14,
+    "compost"
+   ],
+   [
+    19,
+    "bouchon_attache"
+   ],
+   [
+    22,
+    "repowereu"
+   ],
+   [
+    23,
+    "eolienne"
+   ],
+   [
+    28,
+    "pacte_vert"
+   ],
+   [
+    33,
+    "surtension"
+   ],
+   [
+    37,
+    "taxe_carbone"
+   ],
+   [
+    42,
+    "fit_for_55"
+   ],
+   [
+    46,
+    "fission"
+   ],
+   [
+    51,
+    "neutralite"
+   ]
+  ],
+  "dex": "Il vit au large de la mer du Nord et alimente des villes entières.",
+  "category": "Éolien en mer",
+  "color": "white",
+  "shape": "flyer"
+ },
+ {
+  "id": "solario",
+  "num": 83,
+  "name": "Solario",
+  "types": [
+   "ENERGIE",
+   "VERT"
+  ],
+  "base": [
+   68,
+   41,
+   62,
+   96,
+   75,
+   68
+  ],
+  "growth": "medium",
+  "catch": 90,
+  "exp": 102,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "etincelle"
+   ],
+   [
+    8,
+    "robinet_gaz"
+   ],
+   [
+    8,
+    "velo"
+   ],
+   [
+    12,
+    "compost"
+   ],
+   [
+    15,
+    "bouchon_attache"
+   ],
+   [
+    18,
+    "eolienne"
+   ],
+   [
+    22,
+    "pacte_vert"
+   ],
+   [
+    22,
+    "repowereu"
+   ],
+   [
+    25,
+    "surtension"
+   ],
+   [
+    28,
+    "taxe_carbone"
+   ],
+   [
+    32,
+    "fit_for_55"
+   ],
+   [
+    35,
+    "fission"
+   ],
+   [
+    38,
+    "neutralite"
+   ]
+  ],
+  "dex": "Il dort la nuit et travaille dur le jour, surtout en Espagne.",
+  "category": "Panneau solaire",
+  "color": "blue",
+  "shape": "object"
+ },
+ {
+  "id": "plafonnor",
+  "num": 84,
+  "name": "Plafonnor",
+  "types": [
+   "ENERGIE",
+   "MONETAIRE"
+  ],
+  "base": [
+   105,
+   42,
+   77,
+   49,
+   98,
+   49
+  ],
+  "growth": "medium",
+  "catch": 75,
+  "exp": 105,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "etincelle"
+   ],
+   [
+    8,
+    "robinet_gaz"
+   ],
+   [
+    9,
+    "piece_euro"
+   ],
+   [
+    13,
+    "eolienne"
+   ],
+   [
+    17,
+    "inflation"
+   ],
+   [
+    21,
+    "taux_directeur"
+   ],
+   [
+    22,
+    "repowereu"
+   ],
+   [
+    25,
+    "spread"
+   ],
+   [
+    29,
+    "surtension"
+   ],
+   [
+    33,
+    "fission"
+   ],
+   [
+    37,
+    "quantitative"
+   ],
+   [
+    41,
+    "fusion"
+   ]
+  ],
+  "dex": "Il empêche les prix de monter trop haut. Il a mal au cou à force de pousser.",
+  "category": "Plafond de prix",
+  "color": "red",
+  "shape": "object"
+ },
+ {
+  "id": "tarifaux",
+  "num": 85,
+  "name": "Tarifaux",
+  "types": [
+   "POPULISTE"
+  ],
+  "base": [
+   50,
+   70,
+   50,
+   30,
+   45,
+   55
+  ],
+  "growth": "medium",
+  "catch": 190,
+  "exp": 60,
+  "evo": {
+   "level": 30,
+   "into": "tarifator"
+  },
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "slogan"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "euromythe"
+   ],
+   [
+    10,
+    "droits_douane"
+   ],
+   [
+    12,
+    "laughing"
+   ],
+   [
+    18,
+    "megaphone"
+   ],
+   [
+    22,
+    "tremendous"
+   ],
+   [
+    32,
+    "bus_rouge"
+   ],
+   [
+    38,
+    "tweet_majuscules"
+   ]
+  ],
+  "dex": "Il taxe tout ce qui passe devant lui. Même les feuilles mortes.",
+  "category": "Droit de douane",
+  "color": "orange",
+  "shape": "quadruped"
+ },
+ {
+  "id": "tarifator",
+  "num": 86,
+  "name": "Tarifator",
+  "types": [
+   "POPULISTE",
+   "MONETAIRE"
+  ],
+  "base": [
+   80,
+   112,
+   80,
+   48,
+   72,
+   88
+  ],
+  "growth": "medium",
+  "catch": 60,
+  "exp": 120,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "piece_euro"
+   ],
+   [
+    8,
+    "euromythe"
+   ],
+   [
+    10,
+    "droits_douane"
+   ],
+   [
+    10,
+    "slogan"
+   ],
+   [
+    15,
+    "inflation"
+   ],
+   [
+    20,
+    "laughing"
+   ],
+   [
+    22,
+    "tremendous"
+   ],
+   [
+    25,
+    "taux_directeur"
+   ],
+   [
+    30,
+    "megaphone"
+   ],
+   [
+    35,
+    "spread"
+   ],
+   [
+    45,
+    "bus_rouge"
+   ],
+   [
+    50,
+    "quantitative"
+   ],
+   [
+    55,
+    "tweet_majuscules"
+   ]
+  ],
+  "dex": "Il brandit un tableau de taxes géant. Les chiffres changent chaque matin.",
+  "category": "Guerre commerciale",
+  "color": "orange",
+  "shape": "quadruped"
+ },
+ {
+  "id": "terrara",
+  "num": 87,
+  "name": "Terrara",
+  "types": [
+   "INDUSTRIE",
+   "NUMERIQUE"
+  ],
+  "base": [
+   97,
+   68,
+   105,
+   52,
+   90,
+   38
+  ],
+  "growth": "slow",
+  "catch": 45,
+  "exp": 112,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "chaine_montage"
+   ],
+   [
+    8,
+    "plan_industriel"
+   ],
+   [
+    10,
+    "roaming"
+   ],
+   [
+    10,
+    "terres_rares"
+   ],
+   [
+    14,
+    "charbon"
+   ],
+   [
+    19,
+    "troll"
+   ],
+   [
+    22,
+    "cookie"
+   ],
+   [
+    23,
+    "bug"
+   ],
+   [
+    28,
+    "delocalisation"
+   ],
+   [
+    33,
+    "usb_c"
+   ],
+   [
+    37,
+    "acier"
+   ],
+   [
+    42,
+    "algorithme"
+   ],
+   [
+    46,
+    "haut_fourneau"
+   ]
+  ],
+  "dex": "Un petit caillou dont dépendent tous les téléphones. Ses exportations sont surveillées.",
+  "category": "Terres rares",
+  "color": "purple",
+  "shape": "object"
+ },
+ {
+  "id": "pandiplo",
+  "num": 88,
+  "name": "Pandiplo",
+  "types": [
+   "DIPLO"
+  ],
+  "base": [
+   102,
+   41,
+   75,
+   48,
+   96,
+   48
+  ],
+  "growth": "slow",
+  "catch": 45,
+  "exp": 102,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "poignee_main"
+   ],
+   [
+    8,
+    "sommet_nocturne"
+   ],
+   [
+    10,
+    "rival_systemique"
+   ],
+   [
+    13,
+    "interprete"
+   ],
+   [
+    21,
+    "compromis"
+   ],
+   [
+    22,
+    "canape"
+   ],
+   [
+    22,
+    "soft_power"
+   ],
+   [
+    29,
+    "sanctions"
+   ],
+   [
+    37,
+    "accord"
+   ]
+  ],
+  "dex": "Prêté pour quelques années à un zoo européen. Il mange du bambou et des accords commerciaux.",
+  "category": "Panda diplomate",
+  "color": "white",
+  "shape": "quadruped"
+ },
+ {
+  "id": "censourson",
+  "num": 89,
+  "name": "Censourson",
+  "types": [
+   "FANTOME",
+   "POPULISTE"
+  ],
+  "base": [
+   70,
+   42,
+   63,
+   98,
+   77,
+   70
+  ],
+  "growth": "slow",
+  "catch": 30,
+  "exp": 105,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "slogan"
+   ],
+   [
+    8,
+    "disparition"
+   ],
+   [
+    9,
+    "emploi_fictif"
+   ],
+   [
+    10,
+    "hantise"
+   ],
+   [
+    13,
+    "laughing"
+   ],
+   [
+    17,
+    "fantome_payroll"
+   ],
+   [
+    21,
+    "megaphone"
+   ],
+   [
+    22,
+    "sms_efface"
+   ],
+   [
+    25,
+    "droits_douane"
+   ],
+   [
+    33,
+    "bus_rouge"
+   ],
+   [
+    37,
+    "tweet_majuscules"
+   ],
+   [
+    41,
+    "ectoplasme"
+   ]
+  ],
+  "dex": "Cet ourson jaune n'est visible dans aucune région. Sa fiche a été retirée.",
+  "category": "Contenu indisponible",
+  "color": "yellow",
+  "shape": "quadruped"
+ },
+ {
+  "id": "pigeon_lux",
+  "num": 90,
+  "name": "Kirchbergeon",
+  "types": [
+   "JURIDIQUE",
+   "DIPLO"
+  ],
+  "base": [
+   56,
+   70,
+   44,
+   70,
+   51,
+   89
+  ],
+  "growth": "medium",
+  "catch": 150,
+  "exp": 95,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "mise_en_demeure"
+   ],
+   [
+    8,
+    "rgpd"
+   ],
+   [
+    9,
+    "poignee_main"
+   ],
+   [
+    12,
+    "interprete"
+   ],
+   [
+    16,
+    "compromis"
+   ],
+   [
+    20,
+    "infraction"
+   ],
+   [
+    22,
+    "jurisprudence"
+   ],
+   [
+    23,
+    "enquete_olaf"
+   ],
+   [
+    27,
+    "dsa"
+   ],
+   [
+    30,
+    "amende"
+   ],
+   [
+    34,
+    "sanctions"
+   ],
+   [
+    38,
+    "accord"
+   ],
+   [
+    41,
+    "arret_cjue"
+   ]
+  ],
+  "dex": "Il niche sur les tours de la Cour de justice au Kirchberg et roucoule en latin.",
+  "category": "Pigeon juriste",
+  "color": "grey",
+  "shape": "flyer"
+ },
+ {
+  "id": "schumark",
+  "num": 91,
+  "name": "Schumark",
+  "types": [
+   "FEDERAL",
+   "DIPLO"
+  ],
+  "base": [
+   70,
+   72,
+   72,
+   72,
+   72,
+   72
+  ],
+  "growth": "slow",
+  "catch": 45,
+  "exp": 107,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "integration"
+   ],
+   [
+    8,
+    "subsidiarite"
+   ],
+   [
+    9,
+    "poignee_main"
+   ],
+   [
+    10,
+    "drapeau_etoile"
+   ],
+   [
+    16,
+    "interprete"
+   ],
+   [
+    20,
+    "compromis"
+   ],
+   [
+    22,
+    "elargissement"
+   ],
+   [
+    23,
+    "team_europe"
+   ],
+   [
+    27,
+    "marche_unique"
+   ],
+   [
+    30,
+    "sanctions"
+   ],
+   [
+    34,
+    "spitzen"
+   ],
+   [
+    38,
+    "accord"
+   ],
+   [
+    41,
+    "etats_unis_europe"
+   ]
+  ],
+  "dex": "Il récite la déclaration du 9 mai 1950 à qui veut l'entendre. Il apparaît à la Fête de l'Europe.",
+  "category": "Déclaration",
+  "color": "blue",
+  "shape": "humanoid"
+ },
+ {
+  "id": "nobelix",
+  "num": 92,
+  "name": "Nobelix",
+  "types": [
+   "DIPLO",
+   "FEDERAL"
+  ],
+  "base": [
+   117,
+   47,
+   86,
+   55,
+   110,
+   55
+  ],
+  "growth": "slow",
+  "catch": 30,
+  "exp": 117,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "integration"
+   ],
+   [
+    8,
+    "sommet_nocturne"
+   ],
+   [
+    10,
+    "accord"
+   ],
+   [
+    10,
+    "poignee_main"
+   ],
+   [
+    15,
+    "drapeau_etoile"
+   ],
+   [
+    20,
+    "interprete"
+   ],
+   [
+    22,
+    "canape"
+   ],
+   [
+    22,
+    "soft_power"
+   ],
+   [
+    25,
+    "compromis"
+   ],
+   [
+    30,
+    "team_europe"
+   ],
+   [
+    35,
+    "marche_unique"
+   ],
+   [
+    40,
+    "sanctions"
+   ],
+   [
+    45,
+    "spitzen"
+   ]
+  ],
+  "dex": "Une médaille remise à l'Union européenne en 2012. Elle brille de fierté.",
+  "category": "Prix Nobel",
+  "color": "gold",
+  "shape": "object"
+ },
+ {
+  "id": "bruxellair",
+  "num": 93,
+  "name": "Brumelle",
+  "types": [
+   "TECHNO",
+   "VERT"
+  ],
+  "base": [
+   53,
+   32,
+   48,
+   75,
+   59,
+   53
+  ],
+  "growth": "fast",
+  "catch": 190,
+  "exp": 80,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    7,
+    "amendement"
+   ],
+   [
+    10,
+    "procedure_urgence"
+   ],
+   [
+    13,
+    "velo"
+   ],
+   [
+    15,
+    "compost"
+   ],
+   [
+    20,
+    "bouchon_attache"
+   ],
+   [
+    22,
+    "comitologie"
+   ],
+   [
+    23,
+    "note_de_service"
+   ],
+   [
+    25,
+    "pacte_vert"
+   ],
+   [
+    27,
+    "tampon_sec"
+   ],
+   [
+    30,
+    "taxe_carbone"
+   ],
+   [
+    33,
+    "fit_for_55"
+   ]
+  ],
+  "dex": "Un petit nuage bruxellois. Il pleut sur vous 200 jours par an.",
+  "category": "Crachin",
+  "color": "grey",
+  "shape": "flyer"
+ },
+ {
+  "id": "dejeunix",
+  "num": 94,
+  "name": "Lunchix",
+  "types": [
+   "SOCIAL",
+   "LOBBY"
+  ],
+  "base": [
+   55,
+   57,
+   57,
+   57,
+   57,
+   57
+  ],
+  "growth": "fast",
+  "catch": 150,
+  "exp": 85,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "erasmus"
+   ],
+   [
+    4,
+    "reunion"
+   ],
+   [
+    8,
+    "greve"
+   ],
+   [
+    9,
+    "influence"
+   ],
+   [
+    13,
+    "valise"
+   ],
+   [
+    17,
+    "pilier_social"
+   ],
+   [
+    21,
+    "note_position"
+   ],
+   [
+    22,
+    "solidarite"
+   ],
+   [
+    25,
+    "salaire_minimum"
+   ],
+   [
+    29,
+    "porte_tournante"
+   ],
+   [
+    33,
+    "manif"
+   ],
+   [
+    37,
+    "sac_billets"
+   ],
+   [
+    41,
+    "oxi"
+   ]
+  ],
+  "dex": "Un déjeuner de travail qui dure trois heures. On y décide plus qu'en séance.",
+  "category": "Déjeuner d'affaires",
+  "color": "red",
+  "shape": "blob"
+ },
+ {
+  "id": "mercosaur",
+  "num": 95,
+  "name": "Mercosaur",
+  "types": [
+   "AGRICOLE",
+   "DIPLO"
+  ],
+  "base": [
+   104,
+   72,
+   112,
+   56,
+   96,
+   40
+  ],
+  "growth": "slow",
+  "catch": 45,
+  "exp": 120,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "lisier"
+   ],
+   [
+    8,
+    "aop"
+   ],
+   [
+    10,
+    "accord"
+   ],
+   [
+    10,
+    "poignee_main"
+   ],
+   [
+    15,
+    "banane_courbe"
+   ],
+   [
+    20,
+    "interprete"
+   ],
+   [
+    22,
+    "sommet_nocturne"
+   ],
+   [
+    22,
+    "tracteur"
+   ],
+   [
+    30,
+    "compromis"
+   ],
+   [
+    35,
+    "glyphosate"
+   ],
+   [
+    40,
+    "pac"
+   ],
+   [
+    45,
+    "sanctions"
+   ],
+   [
+    50,
+    "moisson"
+   ]
+  ],
+  "dex": "Il est en négociation depuis 1999. Quand il avance d'un pas, les tracteurs le repoussent.",
+  "category": "Accord commercial",
+  "color": "green",
+  "shape": "quadruped"
+ },
+ {
+  "id": "romulus",
+  "num": 96,
+  "name": "Romulus",
+  "types": [
+   "JURIDIQUE",
+   "FEDERAL"
+  ],
+  "base": [
+   100,
+   100,
+   100,
+   100,
+   100,
+   100
+  ],
+  "growth": "slow",
+  "catch": 3,
+  "exp": 150,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "integration"
+   ],
+   [
+    1,
+    "traite_rome"
+   ],
+   [
+    8,
+    "rgpd"
+   ],
+   [
+    10,
+    "mise_en_demeure"
+   ],
+   [
+    14,
+    "drapeau_etoile"
+   ],
+   [
+    19,
+    "infraction"
+   ],
+   [
+    22,
+    "jurisprudence"
+   ],
+   [
+    23,
+    "enquete_olaf"
+   ],
+   [
+    28,
+    "team_europe"
+   ],
+   [
+    33,
+    "dsa"
+   ],
+   [
+    37,
+    "marche_unique"
+   ],
+   [
+    42,
+    "amende"
+   ],
+   [
+    46,
+    "spitzen"
+   ]
+  ],
+  "dex": "Né le 25 mars 1957 au Capitole. Il a fondé la Communauté économique européenne.",
+  "category": "Traité de Rome",
+  "color": "marble",
+  "shape": "humanoid"
+ },
+ {
+  "id": "maastrichtor",
+  "num": 97,
+  "name": "Maastrichtor",
+  "types": [
+   "MONETAIRE",
+   "FEDERAL"
+  ],
+  "base": [
+   97,
+   118,
+   89,
+   118,
+   89,
+   89
+  ],
+  "growth": "slow",
+  "catch": 3,
+  "exp": 150,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "integration"
+   ],
+   [
+    1,
+    "traite_maastricht"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    10,
+    "piece_euro"
+   ],
+   [
+    15,
+    "drapeau_etoile"
+   ],
+   [
+    20,
+    "inflation"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    25,
+    "taux_directeur"
+   ],
+   [
+    30,
+    "spread"
+   ],
+   [
+    35,
+    "team_europe"
+   ],
+   [
+    40,
+    "marche_unique"
+   ],
+   [
+    45,
+    "quantitative"
+   ],
+   [
+    50,
+    "spitzen"
+   ]
+  ],
+  "dex": "Né aux Pays-Bas en 1992. Il a créé l'Union et rêvé l'euro.",
+  "category": "Traité de Maastricht",
+  "color": "gold",
+  "shape": "serpent"
+ },
+ {
+  "id": "lisbonia",
+  "num": 98,
+  "name": "Lisbonia",
+  "types": [
+   "JURIDIQUE",
+   "DIPLO"
+  ],
+  "base": [
+   100,
+   60,
+   90,
+   140,
+   110,
+   100
+  ],
+  "growth": "slow",
+  "catch": 3,
+  "exp": 150,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "mise_en_demeure"
+   ],
+   [
+    1,
+    "traite_lisbonne"
+   ],
+   [
+    8,
+    "rgpd"
+   ],
+   [
+    10,
+    "poignee_main"
+   ],
+   [
+    15,
+    "interprete"
+   ],
+   [
+    20,
+    "compromis"
+   ],
+   [
+    22,
+    "jurisprudence"
+   ],
+   [
+    25,
+    "infraction"
+   ],
+   [
+    30,
+    "enquete_olaf"
+   ],
+   [
+    35,
+    "dsa"
+   ],
+   [
+    40,
+    "amende"
+   ],
+   [
+    45,
+    "sanctions"
+   ],
+   [
+    50,
+    "accord"
+   ]
+  ],
+  "dex": "Signé en 2007, il a repris l'essentiel d'une constitution qui n'a jamais vu le jour.",
+  "category": "Traité de Lisbonne",
+  "color": "blue",
+  "shape": "flyer"
+ },
+ {
+  "id": "constitutio",
+  "num": 99,
+  "name": "Constitutio",
+  "types": [
+   "FEDERAL",
+   "FANTOME"
+  ],
+  "base": [
+   107,
+   64,
+   96,
+   149,
+   117,
+   107
+  ],
+  "growth": "slow",
+  "catch": 1,
+  "exp": 160,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "amendement"
+   ],
+   [
+    1,
+    "constitution"
+   ],
+   [
+    1,
+    "disparition"
+   ],
+   [
+    1,
+    "integration"
+   ],
+   [
+    8,
+    "subsidiarite"
+   ],
+   [
+    11,
+    "drapeau_etoile"
+   ],
+   [
+    16,
+    "emploi_fictif"
+   ],
+   [
+    21,
+    "fantome_payroll"
+   ],
+   [
+    22,
+    "elargissement"
+   ],
+   [
+    27,
+    "team_europe"
+   ],
+   [
+    33,
+    "hantise"
+   ],
+   [
+    38,
+    "marche_unique"
+   ],
+   [
+    43,
+    "spitzen"
+   ],
+   [
+    49,
+    "ectoplasme"
+   ]
+  ],
+  "dex": "Rejeté par référendum en France et aux Pays-Bas en 2005. Il fuit dès qu'on l'approche.",
+  "category": "Constitution",
+  "color": "white",
+  "shape": "flyer"
+ },
+ {
+  "id": "draghizord",
+  "num": 100,
+  "name": "Draghizord",
+  "types": [
+   "MONETAIRE",
+   "TECHNO"
+  ],
+  "base": [
+   103,
+   62,
+   93,
+   145,
+   114,
+   103
+  ],
+  "growth": "slow",
+  "catch": 3,
+  "exp": 155,
+  "evo": null,
+  "moves": [
+   [
+    1,
+    "paperasse"
+   ],
+   [
+    1,
+    "trilogue"
+   ],
+   [
+    1,
+    "whatever"
+   ],
+   [
+    8,
+    "austerite"
+   ],
+   [
+    9,
+    "amendement"
+   ],
+   [
+    13,
+    "piece_euro"
+   ],
+   [
+    17,
+    "procedure_urgence"
+   ],
+   [
+    22,
+    "plan_relance"
+   ],
+   [
+    25,
+    "inflation"
+   ],
+   [
+    29,
+    "note_de_service"
+   ],
+   [
+    33,
+    "tampon_sec"
+   ],
+   [
+    36,
+    "taux_directeur"
+   ],
+   [
+    40,
+    "spread"
+   ],
+   [
+    44,
+    "directive"
+   ]
+  ],
+  "dex": "Il ne connaît qu'une attaque, et elle réussit toujours. Il a sauvé l'euro en une phrase.",
+  "category": "Whatever it takes",
+  "color": "navy",
+  "shape": "humanoid"
+ }
+]

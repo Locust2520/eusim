@@ -1,0 +1,296 @@
+# Nederlands — ids 1500-1751
+1500 Toegangsbadge
+1501 Opent de deuren van het Parlement. Kleur: stagiair.
+1502 OLAF-badge
+1503 Maakt de spookassistenten zichtbaar.
+1504 Europees paspoort
+1505 Bordeauxrood, 32 pagina's, alle grenzen gaan open.
+1506 Interrail-pas
+1507 Reis per trein door heel Europa.
+1508 REPowerEU-kit
+1509 Om de verwarming weer aan te zetten als het gas is afgesloten.
+1511 Een kostbare fles. Sinds 2024 extra belast…
+1512 Kantinekaart
+1513 Tegoed: € 3,40. Genoeg voor een koffie.
+1514 Klokrichtlijn
+1515 De richtlijn over het einde van de klokwissel (2019).
+1516 Een koffer van de verhuizing Brussel–Straatsburg.
+1517 Badgekoker
+1518 Bevat de verdragsbadges.
+1519 Hé, nieuweling! Hier regelen we alles met een debat. Laat zien wat je kunt!
+1520 Argh… Ik had mijn synthesenota's moeten herlezen.
+1521 Ha! Terug naar het kopieerapparaat!
+1522 Rivaal
+1523 Zo, {P}, testen we onze Euromons? Mine is obviously better.
+1524 What?! Dat was geluk!
+1525 Easy. Zoals verwacht.
+1526 {P}! Heb je al een badge? Geeft niks, ik zal je spijt laten krijgen.
+1527 Not again… Goed, in Frankfurt zul je zien.
+1528 Ha! Luxemburg doet me goed.
+1529 Ik heb net de ECB bezocht. Ik heb alles van het monetair beleid begrepen. Bijna alles.
+1530 Bloody hell… Je gaat echt snel vooruit, {P}.
+1531 Zoals ze in de City zeggen: time is money.
+1532 {P}… dit is ons laatste debat. Daarna ga ik terug naar Londen. Voorgoed. Kom op, one last time!
+1533 Good game, {P}. Ik vertrek tenminste met stijl.
+1534 Ik vertrek met een overwinning. Dat is al iets.
+1535 {P}! I'm back. Nou ja… ik vraag om terug te komen. Rejoin? Maar eerst een debat voor de eer!
+1536 Goed. Ik vul het toetredingsverzoek in. Het telt 35 hoofdstukken…
+1537 Ha! Uittreden maakt je sterker, blijkt. Of niet.
+1538 Ik ben ook stagiaire! Onbetaald, net als jij. Laten we debatteren, dat troost.
+1539 Nou ja… terug naar de fotokopieën.
+1540 Halt! Is uw wandelformulier A-38 geviseerd?
+1541 Goed, ik viseer het. Maar in drievoud.
+1542 Boer
+1543 Het GLB is mijn leven! En mijn tractor is mijn familie. Kom, we debatteren!
+1544 Dat moet ik aan de vakbond melden…
+1545 Privébankier
+1546 Welkom in Luxemburg. Absolute discretie. Dit debat heeft nooit plaatsgevonden.
+1547 Dit debat heeft definitief nooit plaatsgevonden.
+1548 Belastingadviseur
+1549 Een fiscale ruling? Die schrijf ik in vijf minuten voor u. Maar eerst een debat.
+1550 Mijn constructies… ingestort!
+1551 Arenakampioen
+1552 Ah, een jonge stagiair! Kom, kom, dan aai ik je over je wang. Daarna debatteren we, zoals in de goeie ouwe Eurogroep-tijd.
+1553 Bravo! Je verdient de Rulingbadge. En dat is niet vertrouwelijk!
+1554 Kom, trek niet zo'n gezicht, ik maak een grapje… half.
+1555 Ik fiets langs de Moezel! En ik debatteer in roaming, gratis!
+1556 Zelfs zonder roamingkosten ben ik alles kwijt.
+1557 Analist
+1558 De markten prijzen mijn overwinning in voor 87 %.
+1559 De markten hebben zich vergist. Zoals altijd.
+1560 Wijnboer
+1561 Mijn crémant heeft een BOB. Mijn Euromons ook. Bijna.
+1562 Goed, ik trakteer u toch op een glas.
+1563 Laag kopen, hoog verkopen, hard debatteren!
+1564 Krach! Ik sta rood!
+1565 Volgens mijn model verliest u. Mijn model vergist zich nooit. Behalve in 2008.
+1566 Ik moet mijn prognoses bijstellen.
+1567 Arenakampioene
+1568 Welkom bij de Europese Centrale Bank. Hier bepaal ik de rente… en het tempo van het debat. Mijn aanvallen hangen af van de beleidsrente van vandaag!
+1569 Geweldig. U verdient de Eurobadge. En wees gerust: ik ben er niet om uw spread te verkleinen.
+1570 Prijsstabiliteit is ook stabiliteit van overwinningen.
+1571 Klimaatactiviste
+1572 Elk verloren debat is een graad meer! Kom op!
+1573 Nou ja, het was tenminste klimaatneutraal.
+1574 Exclusief! 'Stagiair verliest jammerlijk'!
+1575 Ik verander de kop: 'Stagiair wint jammerlijk goed'.
+1576 Wijnbouwer
+1577 Is de Rijn de grens? Nee, het is wijn aan beide kanten! We klinken na het debat.
+1578 Toch proost!
+1579 Ik heb vanochtend 2000 amendementen ingediend. Het eerste gaat over u.
+1580 Mijn amendementen en bloc verworpen…
+1581 De zitting is in Straatsburg, onze koffers zijn er, laten we debatteren!
+1582 Ik ga terug naar Brussel. Met mijn koffers.
+1583 Stilte in het halfrond! De vergadering is geopend. Ik geef het woord aan… u. En daarna neem ik het terug.
+1584 Aangenomen! De Halfrondbadge wordt u met volstrekte meerderheid toegekend.
+1585 De vergadering is gesloten. Kom terug voor de volgende zitting.
+1586 Schulden zijn als moussaka: zwaar op de maag.
+1587 OXI tegen deze nederlaag!
+1588 Controle van de rekeningen! Uw Euromons geven te veel uit.
+1589 Controleverslag: ongunstig.
+1590 Het Internationaal Monetair Fonds adviseert… uw nederlaag.
+1591 Herziening van onze prognoses: neerwaarts.
+1592 Ik kwam op de motor, zonder das. Zoals in 2015 tegenover de Eurogroep. We debatteren, en we stemmen: OXI of NAI?
+1593 OXI… pardon, NAI: je hebt gewonnen. Neem de OXI-badge, kameraad.
+1594 Het volk heeft gesproken. En het volk, dat ben ik.
+1595 Roddelblad
+1596 VOORPAGINA: 'Brussel wil kromme bananen verbieden'! Klopt niet? Maakt niet uit, het verkoopt.
+1597 Morgen op de voorpagina: 'Historische nederlaag'.
+1598 Ex-premier
+1599 Hello! Ik was correspondent in Brussel, weet u. Ik heb dingen geschreven… min of meer waar. Get debate done!
+1600 Crikey. Nou ja, ik had toch nog een artikel over rechte komkommers.
+1601 Nu lacht u niet meer, hè? Welkom in de pub. Een debat, een pint en artikel 50.
+1602 Goed. Neem de Artikel 50-badge. Wij hebben hem niet meer nodig.
+1603 Take back control! Over het debat in elk geval.
+1604 Grenswachter
+1605 Controle! Heeft uw Euromon een visum?
+1606 Ga maar door. Maar ik schrijf het op.
+1607 Adviseur
+1608 De premier ontvangt niemand. Behalve wie mij verslaat. En dat gebeurt nooit.
+1609 Het is net gebeurd.
+1610 Wilt u mijn instemming? Unanimiteit is vereist. En ik ben het nooit eens. Pas op: ik kan elke beurt mijn VETO uitspreken.
+1611 Goed… Ik ga koffie halen. Neem intussen deze Vetobadge. Officieel heb ik me onthouden.
+1612 Veto! Veto! En nog eens veto!
+1614 U hebt geen toegangsbadge? Goed zo, wij ook niet.
+1615 Ik zal deze ontmoeting moeten melden in het transparantieregister…
+1616 Ons algoritme heeft uw nederlaag voorspeld. Cookies accepteren?
+1617 Fout 403: nederlaag.
+1618 Een koffertje voor uw stem? Nee? Dan een debat.
+1619 Ik heb nooit iemand iets gegeven. Schrijf dat op.
+1620 Baas van Team Lobby
+1621 Welkom in het hart van de macht, stagiair. Hier schrijven we geen wetten: we 'suggereren' ze. En jij gaat mijn suggestie ondertekenen.
+1622 Onmogelijk… Een simpele, onbetaalde stagiair… heeft de lobby verslagen. Ik trek me terug. In de privésector. O, daar zit ik al.
+1623 Bedankt voor deze bijdrage aan onze openbare raadpleging.
+1624 Advocaat
+1625 Mijn cliënt betwist de boete van 4,34 miljard. En dit debat.
+1626 We gaan in beroep.
+1627 Jurist
+1628 Misbruik van een machtspositie? Ik? Ik ben gewoon dominant.
+1629 Boete aanvaard…
+1630 Google, Apple… ik heb miljarden aan boetes opgelegd. Respecteert uw team de mededingingsregels? Laten we het nagaan.
+1631 Geen misbruik van een machtspositie vastgesteld. De Boetebadge is voor u.
+1632 Boete! 4 % van uw omzet.
+1633 Hoeoe… Ik werk hier… sinds 2009… nou ja, op papier…
+1634 Ik keer terug… naar mijn fictieve… contract…
+1635 Geest van de schijnbanen
+1636 IK BEN… DE SOM VAN ALLE CONTRACTEN DIE NOOIT EEN KANTOOR HADDEN…
+1637 Mijn… loonstrookjes… vervagen…
+1638 Hoge ambtenaar
+1639 Ik heb de ENA gedaan. Nou ja, het INSP. Kortom, ik weet alles.
+1640 Ik schrijf een nota over deze mislukking.
+1641 Minister
+1642 Ik ben minister sinds… vanochtend. Laten we debatteren voor de volgende herschikking.
+1643 Herschikt!
+1644 Welkom aan de Sorbonne! Hier sprak ik over een soeverein Europa in 2017… en in 2024. Ik ga twee uur tegen u praten. En tegelijkertijd debatteren.
+1645 Geweldig! U belichaamt de strategische autonomie. Neem de Sorbonnebadge… en tegelijkertijd mijn felicitaties.
+1646 Ik ontbind… uw team!
+1647 Europese Raad
+1648 Wir schaffen das. Samen gaan we het redden. Maar eerst moet u mij verslaan. Neem uw tijd: ik heb zestien jaar ervaring.
+1649 Het is u gelukt. Wir haben es geschafft.
+1650 Ik doe alles wat nodig is om dit debat te winnen. Whatever it takes. En geloof me: het zal volstaan.
+1651 Mijn rapport adviseerde 800 miljard investeringen per jaar. Investeer ze in uw team.
+1652 Hoge vertegenwoordiger voor buitenlandse zaken. Mijn diplomatie is vastberaden. Mijn Baltische schild ook.
+1653 Een duidelijke overwinning. Europa zal mensen als u nodig hebben tegenover de rest van de wereld.
+1654 Voorzitter van de Europese Raad
+1655 Het is 23.59 uur. Mijn doel: deze top voor middernacht afronden. Voor het eerst in de geschiedenis!
+1656 Het is… 4.37 uur 's ochtends. Zoals altijd. Bravo, u mag naar boven in het Berlaymont.
+1657 Voorzitter van de Commissie
+1658 Welkom op de dertiende verdieping van het Berlaymont. Ik woon hier, weet u: ik heb een slaapkamer naast mijn kantoor. Laten we eens kijken of u de richtlijn verdient.
+1659 Team Europe… U bent de beste stagiair die de Commissie ooit heeft gehad. De klokrichtlijn is voor u!
+1660 Ik stuur u een sms. Of misschien niet.
+1661 Vicepresident
+1662 Ik kwam naar München om jullie democratie uit te leggen. Nu kom ik naar Antwerpen om jullie debatteren uit te leggen.
+1663 Goed. Ik ga terug een toespraak schrijven.
+1664 Amerikaanse president
+1665 TREMENDOUS! Het mooiste debat aller tijden, iedereen zegt het. Ik leg 200 % invoerheffing op uw Euromons. Misschien 15. We zien wel.
+1666 HET WAS DOORGESTOKEN KAART! Goed… laten we een deal sluiten. 15 %. Mijn laatste woord. Voor vandaag.
+1667 Ik heb gewonnen! Zoals altijd! Niemand wint beter dan ik.
+1668 Russische president
+1669 Gaat u zitten. Nee, verder weg. Nog verder. Zo. Op zes meter is het gesprek… strategischer. Uw aanvallen hebben een beurt nodig om aan te komen.
+1670 Het gas… is afgesloten… aan mijn kant. Interessant.
+1671 De winter komt eraan. Voor u.
+1672 Chinese president
+1673 Welkom. We zijn partners. En concurrenten. En systeemrivalen. Het hangt van de beurt af.
+1674 Hmm. Een partner om te respecteren. Ik hef de controles op zeldzame aarden op… voorlopig.
+1675 Inhoud niet beschikbaar in jouw regio.
+1676 G-Alles-top
+1677 IK EERST. De top was mijn idee. Denk ik.
+1678 Sad!
+1679 Ik had liever de lange tafel.
+1680 Het laatste woord wordt… systemisch.
+1681 We spreken elkaar over vijftig jaar weer.
+1682 Haven van Antwerpen – Vrijheidsgolfbaan
+1683 Athene – Plaka
+1684 Berlaymont – 13e verdieping
+1685 Winkel – Athene
+1686 Winkel – Boedapest
+1687 Winkel – Brussel
+1688 Winkel – Frankfurt
+1689 Winkel – Londen
+1690 Winkel – Luxemburg
+1691 Winkel – Parijs
+1692 Winkel – Straatsburg
+1693 Brussel – Europese wijk
+1694 Boedapest – Donauoevers
+1695 Kantine – Athene
+1696 Kantine – Boedapest
+1697 Kantine – Brussel
+1698 Kantine – Frankfurt
+1699 Kantine – Londen
+1700 Kantine – Luxemburg
+1701 Kantine – Parijs
+1702 Kantine – Straatsburg
+1703 Hof van Justitie van de EU
+1704 Europagebouw – Europese Raad
+1705 Frankfurt – Bankenwijk
+1706 Station – Antwerpen
+1707 Station – Athene
+1708 Station – Boedapest
+1709 Station – Brussel-Luxemburg
+1710 Station – Frankfurt
+1711 Station – Lissabon
+1712 Station – Londen
+1713 Station – Luxemburg
+1714 Station – Maastricht
+1715 Station – Parijs
+1716 Station – Rome
+1717 Station – Straatsburg
+1718 Station – Warschau
+1719 Arena van Athene – Amfitheater
+1720 ECB-toren – Handelszaal
+1721 Országház – Vetozaal
+1722 DG Concurrentie – Arena
+1723 Halfrond – Plenaire zitting
+1724 The Brexit Arms – Pubarena
+1725 Arena van Luxemburg – Rulingzaal
+1726 Groot amfitheater van de Sorbonne
+1727 Lissabon – Jerónimosklooster
+1728 Hoofdkwartier Team Lobby – Kelder
+1729 Londen – Westminster
+1730 Luxemburg – Kirchbergplateau
+1731 Maastricht – Maasoevers
+1732 Huis – Frankfurt
+1733 Huis – Luxemburg
+1734 Huis – Straatsburg
+1735 Parijs – Quartier Latin
+1736 Europees Parlement – Hal
+1737 Haven van Piraeus – Containerterminal
+1738 Luxemburgplein – De Receptie
+1739 Rome – Capitool
+1740 Route 1 – Ardennenwoud
+1741 Route 2 – Moezeldal
+1742 Route 3 – Rijnwijngaarden
+1743 Paleis – De lange tafel
+1744 Schengen – Moezeloevers
+1745 'G-Alles'-top – Plenaire zaal
+1746 Straatsburg – Europese wijk
+1747 Je studio (Elsene)
+1748 Parlement – Spookvleugel, 1e verdieping
+1749 Parlement – Spookvleugel, 2e verdieping
+1750 Parlement – Spookvleugel, 3e verdieping
+1751 Warschau – Oostelijke vlakte
+1052 Allemaal samen! Een solidaire aanval.
+826 TISZA! TISZA! TISZA!
+383 Boedapest
+281 Viktor Orbán, Boedapest
+283 Emmanuel Macron, Parijs
+1752 Huis – Maastricht
+# jukebox
+1754 Titelscherm
+1755 Professor Schuman
+1756 Het laboratorium
+1758 Je studio
+1761 De kantine
+1763 De winkel
+1764 Het station
+1766 Onderweg
+1767 Gevecht: wilde Euromon
+1768 Oogcontact
+1769 Gevecht: trainer
+1771 Gevecht: Oliver
+1773 Overwinning
+1774 Overwinning (wild)
+1775 Overwinning (trainer)
+1776 Evolutie
+1778 De arena
+1780 Gevecht: arena
+1782 Gevecht: arenaleider
+1784 Schengen
+1789 Vaarwel, Oliver
+1791 Team Lobby
+1792 Gevecht: baas
+1794 De spookvleugel
+1797 De Europese Raad
+1799 Gevecht: Raad
+1802 Gevecht: de voorzitster
+1804 Gevecht: grootmachten
+1807 Eindgevecht
+1809 Legendarische plaatsen
+1810 Gevecht: legendarisch
+1812 Eindgevecht (variant)
+1813 Jukebox
+1814 %d van %d nummers
+1815 Kies een nummer.
+1816 JUKEBOX
+1817 A: luisteren    B: terug
+1818 Een oude jukebox, uitgeschakeld. Een etiket: ‘Na uw eerste badge weer inpluggen. — De technische dienst’

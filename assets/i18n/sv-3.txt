@@ -1,0 +1,501 @@
+# Svenska — ids 1000-1499
+1000 Glad Europadag! Vi ses nästa år.
+1001 Tekno
+1002 Federal
+1003 Suverän
+1004 Liberal
+1005 Social
+1006 Grön
+1007 Industri
+1008 Energi
+1009 Juridisk
+1010 Monetär
+1011 Jordbruk
+1012 Digital
+1013 Diplo
+1014 Lobby
+1015 Populist
+1016 Spöke
+1017 Ändringsförslag
+1018 Ändrar motståndarens text, ett stycke i taget.
+1019 Pappersarbete
+1020 Begraver målet under blanketter.
+1021 PM
+1022 En intern promemoria, mycket bestämd.
+1023 Möte
+1024 Ett samordningsmöte som söver alla.
+1025 Torr stämpel
+1026 Ett rent och officiellt stämpelslag.
+1027 Kommittéförfarande
+1028 Ingen förstår förfarandet. Inte ens målet.
+1029 Korrläsning
+1030 Läser igenom sin akt. Höjer Motståndskraft kraftigt.
+1031 Direktiv
+1032 En bindande text som måste införlivas omedelbart.
+1033 Förordning
+1034 Direkt tillämplig i alla medlemsstater.
+1035 Trilog
+1036 Parlament, råd, kommission: träffar 2 till 5 gånger.
+1037 Brådska
+1038 Brådskande förfarande: agerar först.
+1039 Kaffepaus
+1040 En kaffe i matsalen. Återställer halva HP.
+1041 Plagiat
+1042 Kopierar motståndarens senaste attack.
+1043 Årsrapport
+1044 Laddar en tur och slår sedan till med 400 sidor.
+1045 Integration
+1046 Ett litet steg mot en allt fastare union.
+1047 Subsidiaritet
+1048 Agerar på rätt nivå. Höjer Diplomati.
+1049 Europas förenta stater
+1050 Den stora federala drömmen, med full kraft.
+1051 Team Europe
+1052 Alla tillsammans! En solidarisk stormning.
+1053 Inre marknaden
+1054 Avskaffar gränserna… och motståndarens Diplomati.
+1055 Tolv stjärnor
+1056 Tolv guldstjärnor som aldrig missar.
+1057 Toppkandidat
+1058 En Spitzenkandidat-kampanj. Ofta kritiska träffar.
+1059 Utvidgning
+1060 Välkomnar nya medlemmar. Argumentation +2.
+1061 Blockerar alla attacker denna tur. Enhällighet är heligt.
+1062 Gräns
+1063 Återinför kontroller. Kan sänka Reaktion.
+1064 Opt-out
+1065 Undantar sig de gemensamma reglerna. Motståndskraft +2.
+1066 Folkomröstning
+1067 En enkel fråga, komplicerade följder.
+1068 Artikel 7
+1069 Upphäver rättigheter. Motståndarens Argumentation -2.
+1070 Lämnar striden… om förhandlingarna lyckas.
+1071 Rabatt
+1072 ”I want my money back!” Återfår HP.
+1073 Suveränitet
+1074 Tar tillbaka kontrollen med buller och bång.
+1075 Konkurrens
+1076 Fri och osnedvriden, men det gör ont.
+1077 Frihandel
+1078 Ett handelsavtal med nolltullar.
+1079 Avreglering
+1080 Tar bort skydden. Motståndarens Motståndskraft -2.
+1081 Start-up
+1082 Disruptiv och snabb. Agerar först.
+1083 Osynliga handen
+1084 Man ser den inte komma. Missar aldrig.
+1085 Samtidigt
+1086 Från höger och vänster, träffar 2 till 5 gånger.
+1087 Trickle-down
+1088 Låter euro sippra ner över planen.
+1089 Strejk
+1090 Allt stannar. Fryser målets medel.
+1091 Social pelare
+1092 En stabil europeisk pelare för sociala rättigheter.
+1093 Minimilön
+1094 Direktiv från 2022 om tillräckliga minimilöner.
+1095 Demonstration
+1096 Ett hav av plakat. Kan skrämma.
+1097 Solidaritet
+1098 Delar på bördan. Återställer halva HP.
+1099 Det grekiska ”nej” från juli 2015. Rekyl garanterad.
+1100 Erasmus
+1101 Ett utbyte som öppnar sinnet. Kan höja Expertis.
+1102 Gröna given
+1103 Green Deal från 2019 rakt i ansiktet.
+1104 Återbeskogning
+1105 Planterar om. Återställer halva HP.
+1106 Koldioxidskatt
+1107 Gränsjusteringsmekanism för koldioxid. Kan sänka Expertis.
+1108 Neutralitet 2050
+1109 Nettonollutsläpp, i ett enda slag.
+1110 Kompost
+1111 Det luktar starkt. Kan utsätta för påverkan.
+1112 Fäst kork
+1113 Direktiv 2019/904: korken släpper inte målet.
+1114 Fit for 55
+1115 -55 % utsläpp till 2030, och det smäller.
+1116 Cykel
+1117 En expresscykelbana. Agerar först.
+1118 Kol
+1119 Kol- och stålgemenskapen 1951 som kanonkula. Kan skapa skandal.
+1120 Stål
+1121 En näve av europeiskt stål.
+1122 Masugn
+1123 Extrem hetta. Kan utlösa en skandal.
+1124 Utflyttning
+1125 Flyttar någon annanstans. Kan sänka motståndarens Reaktion.
+1126 Airbus
+1127 En europeisk mästare i störtdykning.
+1128 Löpande band
+1129 Löpande band: träffar 2 till 5 gånger.
+1130 Industriplan
+1131 Får fart på produktionen. Argumentation +2.
+1132 Gnista
+1133 En liten kortslutning. Kan frysa medlen.
+1134 Fission
+1135 Euratom, 1957. Atomens energi.
+1136 Vindkraftverk
+1137 Blad som snurrar… och huvudet också.
+1138 Gaskran
+1139 Stryper leveranserna. Fryser medlen.
+1140 REPowerEU
+1141 Plan från 2022 för att bli oberoende. Expertis +2.
+1142 Överspänning
+1143 En brutal urladdning, med rekyl.
+1144 Fusion
+1145 ITER-reaktorn på full effekt.
+1146 Pristak
+1147 Sätter tak för motståndaren. Expertis -2.
+1148 Formell underrättelse
+1149 Första officiella varning.
+1150 Överträdelse
+1151 Ett välriktat överträdelseförfarande.
+1152 EU-domstolens dom
+1153 Luxemburg har avgjort. Ingen överklagan möjlig.
+1154 Miljardböter. Mynt flyger överallt.
+1155 OLAF-utredning
+1156 Bedrägeribekämpningsbyrån utreder. Kan blockera målet.
+1157 GDPR
+1158 Skyddar data. Motståndarens Undvikande -2.
+1159 Rättspraxis
+1160 Stöder sig på prejudikat. Expertis +2.
+1161 DSA
+1162 Förordningen om digitala tjänster. Kan sänka Expertis.
+1163 Euromynt
+1164 Ett kast med ett 2-euromynt. Krona eller klave?
+1165 Styrränta
+1166 Höjer räntan. Kan bromsa målet.
+1167 Sedelpress
+1168 Kvantitativa lättnader efter behag.
+1169 Åtstramning
+1170 Dra åt svångremmen. Motståndarens Argumentation -2.
+1171 Whatever it takes
+1172 ”Vad som än krävs” (Draghi, juli 2012). Lyckas alltid.
+1173 Inflation
+1174 Äter upp köpkraften, tur efter tur.
+1175 Spread
+1176 Ränteskillnaden skjuter i höjden. Ofta kritiska träffar.
+1177 Återhämtningsplan
+1178 NextGenerationEU, 750 mdr €. Återställer halva HP.
+1179 Traktor
+1180 Blockerar vägen. Kan bromsa målet.
+1181 GJP
+1182 Gemensamma jordbrukspolitiken: återfår HP.
+1183 Flytgödsel
+1184 Utspridd framför prefekturen. Kan smitta.
+1185 SUB
+1186 Skyddad ursprungsbeteckning. Motståndskraft +2.
+1187 Skörd
+1188 En rekordskörd, rakt i huvudet.
+1189 Glyfosat
+1190 Godkänd igen i tio år 2023. Kan förgifta med påverkan.
+1191 Krokig banan
+1192 Förordningen från 1994 om bananers kvalitet. Förvirrande.
+1193 Cookie
+1194 En banner som inte går att stänga. Fryser målet.
+1195 Bugg
+1196 Fel 404. Kan desinformera.
+1197 Algoritm
+1198 En personlig rekommendation, mycket personlig.
+1199 USB-C
+1200 Den universella laddaren, obligatorisk sedan 2024.
+1201 Fake news
+1202 Ett viralt rykte. Desinformerar målet.
+1203 Roaming
+1204 Inga roamingavgifter! Agerar först.
+1205 AI-förordningen
+1206 Världens första förordning om AI (2024).
+1207 Trollande
+1208 En otrevlig kommentar. Kan bringa ur fattningen.
+1209 Handslag
+1210 Fast och långt, framför fotograferna.
+1211 Förhandlingar till 5 på morgonen. Söver målet.
+1212 Kompromiss
+1213 Alla förlorar lite, du vinner HP.
+1214 Sanktioner
+1215 Ett nytt sanktionspaket. Kan sänka Diplomati.
+1216 Soffa
+1217 Sofagate (Ankara, 2021): målet förlorar sin tur. Endast första turen.
+1218 Tolkning
+1219 Översatt till 24 språk. Något går förlorat.
+1220 Avtal
+1221 Ett historiskt avtal, undertecknat i sista stund.
+1222 Mjuk makt
+1223 Den europeiska charmen. Diplomati +2.
+1224 Kanapéer
+1225 En cocktail på Place Lux. Målet hamnar under påverkan.
+1226 Resväska
+1227 En välfylld resväska, kastad med fart.
+1228 Sedelpåse
+1229 Sedlar överallt. Planen är täckt av dem.
+1230 Ståndpunkts-PM
+1231 Ett nyckelfärdigt ändringsförslag, redan skrivet.
+1232 Näringslivshopp
+1233 Går över till privata sektorn. Reaktion +2.
+1234 Påverkan
+1235 Ett ord viskat i rätt öra.
+1236 Roterande dörr
+1237 Man vet inte längre vem som jobbar för vem.
+1238 Slogan
+1239 Tre ord, noll nyanser.
+1240 Röd buss
+1241 ”350 miljoner i veckan!” Kan desinformera.
+1242 Megafon
+1243 Skriker högre än alla andra.
+1244 Euromyt
+1245 En legend om Bryssel, mycket övertygande.
+1246 TREMENDOUS
+1247 Det bästa slaget genom tiderna. Argumentation +3.
+1248 Tullar
+1249 Liberation Day (2 april 2025). Kan sänka Motståndskraft.
+1250 Versalinlägg
+1251 ETT MEDDELANDE SKRIVET HELT MED VERSALER.
+1252 Not laughing
+1253 ”You're not laughing now!” (2016). Kan sänka Diplomati.
+1254 Fejkjobb
+1255 Ett jobb som inte finns, men som kostar.
+1256 Försvinnande
+1257 Går inte att hitta på kontoret. Undvikande +2.
+1258 Raderat sms
+1259 Inga meddelanden finns kvar. Upphäver motståndarens bonusar.
+1260 Hemsökelse
+1261 En akt som kommer tillbaka och hemsöker sin upphovsman.
+1262 Lönebesked
+1263 En lön utbetald för ingenting. Återfår HP.
+1264 Ektoplasma
+1265 En spektakulär uppenbarelse i parlamentet.
+1266 Konstitution
+1267 Förkastad 2005… men med vansinnig kraft.
+1268 Romfördraget
+1269 1957: grundandet av EEG.
+1270 1992: unionen och den gemensamma valutan.
+1271 2007: fördraget som ersatte konstitutionen.
+1272 Sällsynta jordartsmetaller
+1273 Begränsar exporten. Kan frysa medlen.
+1274 Långt bord
+1275 Tar emot vid änden av ett sex meter långt bord. Undvikande +2.
+1276 Systemrival
+1277 Partner, konkurrent, rival. Kan sänka Diplomati.
+1278 Grönland
+1279 Försöker köpa en hel ö. Stor skada.
+1280 Född med den gröna given 2019. Ett skott spirar varje gång en utsläppsnorm röstas igenom.
+1281 Klimatmål
+1282 Den tränar för att minska sina utsläpp med 55 % till 2030. Den räknar varje kalori.
+1283 Neutralitet
+1284 Den siktar på klimatneutralitet 2050. Till dess planterar den ett träd för varje steg.
+1285 En liten kolhög från Kol- och stålgemenskapen 1951. Den svärtar ner allt den rör, med entusiasm.
+1286 Dess skorsten sprutar gnistor när den blir arg. Den drömmer om full sysselsättning.
+1287 Gemensamt stål
+1288 Smidd ur det sammanslagna kolet och stålet. Den är beviset för att fred kan tillverkas.
+1289 Atom
+1290 En liten nyfiken atom, född ur Euratomfördraget 1957. Den kan inte sitta still.
+1291 Reaktor
+1292 Dess elektroner snurrar så fort att den lyser upp ett helt rum. Energisnålhet valfritt.
+1293 Den delar sig i två när den blir förargad. Den och de gröna pratar inte längre med varandra.
+1294 Stämpel
+1295 En levande stämpel som godkänner allt den möter. Den har redan stämplat sin egen tränare.
+1296 Signaturmapp
+1297 Den paraferar varje sida nere till höger. Det tar fyra timmar per fördrag.
+1298 Ratificering
+1299 Den rör sig bara när 27 nationella parlament har sagt ja. Därför sover den mycket.
+1300 Den förökar sig i tusental vid varje lagtext. Parlamentet får ibland 2 000 per betänkande.
+1301 Obstruktion
+1302 Den lägger fram så många ändringsförslag att hela sammanträdet blockeras. En väl inövad teknik.
+1303 Cookie-banner
+1304 Den dyker upp framför varje dörr sedan GDPR 2018. Att avvisa den räcker aldrig.
+1305 Samtycke
+1306 Den ber om ditt samtycke till allt, och sedan till själva samtycket. Den är väldigt artig.
+1307 Laddare
+1308 Obligatorisk på alla apparater sedan slutet av 2024. Den har gjort en hel kabellåda arbetslös.
+1309 Kork
+1310 Den lämnar inte längre sin flaska sedan juli 2024. Den slår dig på näsan när du dricker.
+1311 Försvunnet sugrör
+1312 Förbjudet sedan 2021, man trodde att det var utdött. Det hemsöker snabbmatsställen om natten.
+1313 Banan
+1314 En förordning från 1994 fastställer dess kvalitet. Den ägnar livet åt att mäta sin egen krökning.
+1315 Roaming
+1316 Den reser överallt utan avgifter sedan juni 2017. Den ringer sin mamma från varje gräns.
+1317 Utan gränser
+1318 Den besökte alla 27 länder på en helg och livesände allt. Utan extra kostnad.
+1319 Den här lilla gnagaren åker utomlands en termin och kommer hem tvåspråkig. Född 1987.
+1320 Utbyte
+1321 Den har bott i 12 kollektiv och lagar pasta på 9 språk.
+1322 Mynt
+1323 Ett 2-euromynt som rullar överallt sedan 2002. Det har 27 möjliga nationella sidor.
+1324 Gemensam valuta
+1325 Tjugo länder delar dess styrka. När ett hostar får de andra feber.
+1326 Fri rörlighet
+1327 Född på en båt på Mosel 1985. Ingen gräns kan hålla kvar den.
+1328 Herbicid
+1329 Godkänd igen i tio år 2023. Ogräset darrar när den går förbi.
+1330 Dörrknackare
+1331 Den driver omkring i korridorerna med en portfölj större än den själv. Den lobbar inte, den ”informerar”.
+1332 Influencer
+1333 Den kan numret till varje parlamentarisk assistent. Och deras allergier.
+1334 Megalobby
+1335 En av Bryssels 25 000 lobbyister, i jätteformat. Den skriver om lagar i sömnen.
+1336 Järnkoffert
+1337 En järnkoffert som åker Bryssel–Strasbourg tolv gånger om året. Den blir åksjuk.
+1338 Flytt
+1339 Den bär ett helt parlament i magen. Resekostnad: fråga inte.
+1340 Tidsomställning
+1341 Parlamentet röstade för dess avskaffande 2019. Ändå kommer den tillbaka två gånger om året.
+1342 Fusk
+1343 Den har fuskat vid kontroller sedan 2015: ren i testbänken, rykande på vägen.
+1344 Den kampanjar för ordförandeposten… sedan utses någon annan i dess ställe.
+1345 Tolk
+1346 Den talar 24 språk och alltid med två sekunders fördröjning.
+1347 Tre huvuden: parlament, råd, kommission. De kommer överens runt 4 på morgonen.
+1348 Ingen vet exakt vad den gör. Ändå sitter den i 300 kommittéer.
+1349 Blankett
+1350 En hög blanketter i tre exemplar. Det saknas alltid en sida.
+1351 Arkiv
+1352 Den sparar allt, även post-it-lappar från 1958. Ordning: alfabetisk och känslomässig.
+1353 Småbonde
+1354 Den får jordbruksstöd för varje hektar. Den räknar sina hektar varje morgon.
+1355 Den slukar en tredjedel av EU:s budget utan att blinka. Den är alltid hungrig.
+1356 Jordbrukspolitik
+1357 När den blockerar motorvägen med sina traktorer förhandlar till och med rådet.
+1358 Den parkerar framför parlamentet vid varje reform. Tutande garanterat.
+1359 Ost
+1360 En liten ost av opastöriserad mjölk som luktar väldigt starkt. Den är stolt över sin bygd.
+1361 Skyddad av en ursprungsbeteckning. Varje imitation lagförs.
+1362 Pralin
+1363 En väldigt snäll belgisk choklad. Den smälter när man ger den en komplimang.
+1364 Belgisk pommes
+1365 Friterad två gånger, som sig bör. Den vägrar blankt att kallas ”French”.
+1366 Duva
+1367 Den bor på Place Lux och stjäl lobbyisternas pommes. Den kan allt skvaller.
+1368 Lille gubben
+1369 En liten staty på 55 cm som har fler kostymer än hela parlamentet.
+1370 Atomium
+1371 Nio stålklot sammanlänkade till en kristall, sedan Expo 58. Den lyser om natten över Bryssel.
+1372 Praktikant
+1373 Den arbetar mycket och får ingen lön. Den säger att det är ”en lärorik erfarenhet”.
+1374 Tillfälligt anställd
+1375 Dess kontrakt går ut om tre månader. Den har förnyat det i sex år.
+1376 Den klarade EPSO-uttagningen. Den fruktar ingenting längre, utom pensionsreformen.
+1377 Gnällspik
+1378 Den är emot. Spelar ingen roll vad, den är emot.
+1379 Talare
+1380 Den klättrar upp på alla bord för att hålla tal för folkmassan. Till och med i matsalen.
+1381 Demagog
+1382 Den lovar allt åt alla. Löftena dunstar i gryningen.
+1383 Falsk uppgift
+1384 Den ändrar form beroende på vem som tittar. Den delas väldigt mycket.
+1385 Fejkkonto
+1386 En liten robot som kommenterar allt med versaler. Den har aldrig sovit.
+1387 Trollfabrik
+1388 Tiotusen konton i en enda låda. Valen känner den väl.
+1389 Den lär sig av allt du gör. Den vet redan vad du kommer att fånga.
+1390 Reglerad AI
+1391 Världens första förordning om artificiell intelligens (2024) fick den att följa reglerna.
+1392 Den sväller lite varje månad. Hushållen håller noga koll på den.
+1393 Hyperinflation
+1394 Så tjock att den täpper till gatorna. ECB höjer räntan för att den ska magra.
+1395 Ränteskillnad
+1396 Den sträcker på sig vid varje klumpigt uttalande av en centralbankschef.
+1397 Kryptovaluta
+1398 Den är värd en förmögenhet på morgonen och ingenting på kvällen. Den älskar berg-och-dalbanor.
+1399 Reglerad krypto
+1400 MiCA-förordningen tvingade den att bära slips. Den är lugnare nu.
+1401 Budgetbalans
+1402 Den spenderar aldrig något, inte ens sin energi. Dess rop: ”Schwarze Null!”
+1403 Trojka
+1404 Tre katter: ECB, kommissionen, IMF. De granskar tillsammans andras räkenskaper.
+1405 En padda som kväker ”nej!” vid varje förslag. Det räcker med den för att blockera allt.
+1406 Enhällighet
+1407 Den kräver enhällighet för varje beslut, och vägrar den sedan själv.
+1408 Bom
+1409 Den dyker upp så fort någon pratar om gränskontroller. Den har en egen kur.
+1410 Utträde
+1411 Den ville gå 2016, gick 2020, och ångrar sig ibland. Den lämnar ofta striderna.
+1412 Samråd
+1413 En valurna som ställer enkla frågor om komplicerade problem.
+1414 Avlönad av parlamentet, men den har aldrig satt sin fot där. Ingen har någonsin sett den arbeta.
+1415 Den har ett passerkort, ett kontrakt och ett lönebesked. Men inget kontor.
+1416 Hittades full av sedlar i en lägenhet i Bryssel i december 2022.
+1417 Portfölj
+1418 En liten väska som går från hand till hand vid parlamentets fot.
+1419 Rörledning
+1420 1 200 km lång under havet. Dess kran kontrolleras av någon annan.
+1421 Dess blad snurrar så fort man blåser på den. Den hatar vindstilla dagar.
+1422 Havsvindkraft
+1423 Den bor ute i Nordsjön och försörjer hela städer.
+1424 Solpanel
+1425 Den sover på natten och arbetar hårt på dagen, särskilt i Spanien.
+1426 Den hindrar priserna från att stiga för högt. Den har ont i nacken av allt knuffande.
+1427 Tull
+1428 Den beskattar allt som passerar framför den. Även vissna löv.
+1429 Handelskrig
+1430 Den viftar med en gigantisk tulltabell. Siffrorna ändras varje morgon.
+1431 En liten sten som alla telefoner är beroende av. Dess export övervakas.
+1432 Diplomatpanda
+1433 Utlånad i några år till ett europeiskt zoo. Den äter bambu och handelsavtal.
+1434 Innehåll otillgängligt
+1435 Den här gula lilla björnen syns inte i någon region. Dess kort har dragits tillbaka.
+1436 Juristduva
+1437 Den häckar på domstolens torn på Kirchberg och kuttrar på latin.
+1438 Deklaration
+1439 Den reciterar deklarationen från 9 maj 1950 för den som vill lyssna. Den dyker upp på Europadagen.
+1440 Nobelpris
+1441 En medalj som tilldelades Europeiska unionen 2012. Den lyser av stolthet.
+1442 Duggregn
+1443 Ett litet brysselmoln. Det regnar på dig 200 dagar om året.
+1444 Affärslunch
+1445 En arbetslunch som varar tre timmar. Där beslutas mer än i plenum.
+1446 Handelsavtal
+1447 Det har förhandlats sedan 1999. När det tar ett steg framåt trycker traktorerna tillbaka det.
+1448 Född den 25 mars 1957 på Kapitolium. Den grundade Europeiska ekonomiska gemenskapen.
+1449 Maastrichtfördraget
+1450 Född i Nederländerna 1992. Den skapade unionen och drömde fram euron.
+1451 Lissabonfördraget
+1452 Undertecknat 2007, det tog över det mesta av en konstitution som aldrig blev av.
+1453 Förkastad i folkomröstningar i Frankrike och Nederländerna 2005. Den flyr så fort man närmar sig.
+1454 Den kan bara en attack, och den lyckas alltid. Den räddade euron med en enda mening.
+1455 Officiell stämpel
+1456 Stämplar en försvagad Euromon för att registrera den.
+1457 Superstämpel
+1458 Förstärkt bläck. Effektivare än en vanlig stämpel.
+1459 Kvalificerad stämpel
+1460 Kvalificerad majoritet: mycket god chans att fånga.
+1461 Enhällig stämpel
+1462 Enhällighet! Fångst garanterad. Extremt sällsynt.
+1463 Matsalskaffe
+1464 Återställer 20 HP. Ljummet, men effektivt.
+1465 Clubsandwich
+1466 Återställer 50 HP. Praktikanternas favorit.
+1467 Brysselvåffla
+1468 Återställer 120 HP. Florsocker ingår.
+1469 Kniddelen
+1470 Luxemburgsk specialitet. Återställer 200 HP.
+1471 Hel meny
+1472 Förrätt, varmrätt, efterrätt: återställer all HP.
+1473 Juridiskt yttrande
+1474 Botar alla statusproblem.
+1475 Väckarklocka
+1476 Väcker en Euromon som sövts av ett toppmöte.
+1477 Återupplivningsmotion
+1478 Gör en K.O.-slagen Euromon redo att debattera.
+1479 Enhällig återstart
+1480 Återupplivar en K.O.-slagen Euromon med all HP.
+1481 Facklig paus
+1482 Återställer alla PP för en Euromon.
+1483 Argumentsamling
+1484 I strid: höjer Argumentation.
+1485 Skottsäker väst
+1486 I strid: höjer Motståndskraft.
+1487 Expertrapport
+1488 I strid: höjer Expertis.
+1489 Adressbok
+1490 I strid: höjer Diplomati.
+1491 Dubbel espresso
+1492 I strid: höjer Reaktion.
+1493 Värvningsförbud
+1494 Värvningsförbudsklausul: håller Euromons borta i 100 steg.
+1495 Får vissa Euromons att utvecklas. Det krävs 27 underskrifter.
+1496 Får vissa energi-Euromons att utvecklas.
+1497 USB-C-minne
+1498 Får vissa digitala Euromons att utvecklas.
+1499 Euromonuppslagsverk, en gåva från Jean Monnet.

@@ -1,0 +1,157 @@
+# Slovenian — computer mini-games
+1928 Prince Mbeki III
+1929 Dediščina 4 mio € za razdelitev
+1930 Dizelski lobi
+1931 Vabilo: večerja z jastogom
+1932 Kadrovska služba
+1933 Usklajevalni sestanek o sestankih
+1934 SuperPromo
+1935 Vaš brezplačni telefon vas čaka
+1936 Qatar Events
+1937 Kovčeček za vas?
+1938 Banka Varnost
+1939 Tukaj potrdite svoje geslo
+1940 Newsletter
+1941 47 vznemirljivih novosti GDPR
+1942 Dnevni red plenarnega zasedanja
+1943 Mami
+1944 A v Bruslju dobro ješ?
+1945 Menza
+1946 Današnji meni: waterzooi
+1947 Sodno tajništvo
+1948 Sodbo vročiti do poldneva
+1949 Komisija
+1950 Jutri glasovanje o proračunu
+1951 Tvoj Eurodex je posodobljen
+1952 Debata nocoj? Zmagal bom.
+1953 Prejeto
+1954 437 neprebranih e-sporočil! Tapni pravo sporočilo, da ga prebereš, in rdeči križec, da vržeš stran neželeno pošto. Obdelaj 20 sporočil, preden se nabiralnik prelije!
+1955 Beri: tapni · Spam: križec
+1956 Napake: %d / 3
+1957 Prazen nabiralnik! Prvič od leta 2019. Uživaj, ne bo trajalo.
+1958 Nabiralnik se je prelil! Strežnik Komisije se je pravkar sesul. Spet.
+1959 Vrgel si stran sporočilo predsednice in odgovoril princu. Zgodi se tudi najboljšim.
+1960 Od leta 2024 morajo imeti novi telefoni, prodani v EU, priključek USB-C.
+1961 Res: direktiva o univerzalnem polnilniku velja od konca leta 2024.
+1962 EU prepoveduje prodajo preveč ukrivljenih banan.
+1963 Laž: uredba iz leta 1994 je banane razvrščala po kakovosti. Ukrivljene so še vedno naprodaj.
+1964 Evropska zastava ima 12 zvezd, ker je bilo 12 držav članic.
+1965 Laž: 12 je simbol popolnosti. Zastava je iz leta 1955, precej pred 12 državami.
+1966 Evropski parlament zaseda en teden na mesec v Strasbourgu.
+1967 Res: 12 zasedanj na leto v Strasbourgu, s pripadajočimi kovčki vred.
+1968 Evropske komisarje neposredno volijo državljani.
+1969 Laž: predlagajo jih vlade, potrdi pa jih Parlament.
+1970 Evropska unija ima 24 uradnih jezikov.
+1971 Res: od irščine do malteščine, vsa besedila se prevajajo v vseh 24.
+1972 Vse države EU uporabljajo evro.
+1973 Laž: leta 2026 ga uporablja 21 od 27 držav. Zadnja se je pridružila Bolgarija.
+1974 Stroški gostovanja v mobilnih omrežjih so bili v EU odpravljeni leta 2017.
+1975 Res: od junija 2017 povsod kličeš »kot doma«.
+1976 Evropska himna je Beethovnova Oda radosti.
+1977 Res: brez uradnega besedila, da ne bi užalila nobenega jezika.
+1978 Luksemburg je najmanjša država EU.
+1979 Laž: to je Malta, približno 316 km².
+1980 Evropska unija je prejela Nobelovo nagrado za mir.
+1981 Res: leta 2012, za 60 let miru in sprave.
+1982 GDPR ščiti osebne podatke od leta 2018.
+1983 Res: velja od 25. maja 2018. Od tod vse tiste pasice s piškotki…
+1984 Krivih kumar v EU ni dovoljeno prodajati.
+1985 Laž: standard o njihovi ukrivljenosti je bil odpravljen leta 2009.
+1986 Zamaški morajo ostati pritrjeni na plastenke.
+1987 Res: obvezno od julija 2024, da ne končajo več v naravi.
+1988 Švica je članica Evropske unije.
+1989 Laž: je v schengenskem območju, ne pa v EU.
+1990 Evropska centralna banka ima sedež v Bruslju.
+1991 Laž: sedež ima v Frankfurtu v Nemčiji.
+1992 Lažolovec
+1993 Govorice o Evropi se širijo hitreje kot direktive! Pri vsaki trditvi tapni RES ali LAŽ. Potrebuješ 7 pravilnih odgovorov od 10.
+1994 RES
+1995 LAŽ
+1996 Res ali laž?
+1997 Vprašanje %d / 10
+1998 Pravilno!
+1999 Prepozno!
+2000 Zgrešeno!
+2001 Tapni za nadaljevanje
+2002 Bravo! Vse te lažne novice so razkrinkane. Preverjevalci dejstev bi te radi zaposlili.
+2003 Preveč lažnih novic je ušlo… Račun »PravaEvropa2027« je dobil 10 000 sledilcev.
+2004 Bolgarščina
+2005 Češčina
+2006 Danščina
+2007 Nemščina
+2008 Grščina
+2009 Angleščina
+2010 Španščina
+2011 Estonščina
+2012 Finščina
+2013 Francoščina
+2014 Irščina
+2015 Hrvaščina
+2016 Madžarščina
+2017 Italijanščina
+2018 Litovščina
+2019 Latvijščina
+2020 Malteščina
+2021 Nizozemščina
+2022 Poljščina
+2023 Portugalščina
+2024 Romunščina
+2025 Slovaščina
+2026 Slovenščina
+2027 Švedščina
+2028 Prevajalska služba
+2029 Sporočila prihajajo z vseh koncev Evrope! Preberi vsako in ga pošlji v pravo prevajalsko kabino. 12 sporočil v 45 sekundah. Napaka stane 3 sekunde!
+2030 Prevajalske kabine
+2031 Pošlji sporočilo v pravo kabino
+2032 Vsa sporočila so prispela na cilj! GD za prevajanje ti ponuja službo. V 24 jezikih.
+2033 Slovaško sporočilo je pristalo pri Slovencih… Diplomatski incident se ravno prevaja.
+2034 Energetska kriza! Cene letijo v nebo.
+2035 Zaprtje: nihče ne kupuje ničesar več.
+2036 Ponoči izglasovan velikanski načrt za okrevanje!
+2037 Borzni zlom v Frankfurtu!
+2038 Pomanjkanje čipov!
+2039 Gospodinjstva varčujejo vsak cent.
+2040 Vodiš ECB! Inflacija raste? Dvigni obrestno mero. Pada? Znižaj jo. Drži jo v zelenem območju (okoli 2 %) vsaj polovico časa. 40 sekund!
+2041 Inflacija: %s
+2042 Mera: %s
+2043 Znižaj
+2044 Dvigni
+2046 Inflacija ukročena! Trgi ploskajo, varčevalci mirno spijo.
+2047 Inflacija ti je ušla… Kava v menzi se je pravkar podražila za dvakrat.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Univerzalni polnilnik
+2053 Od leta 2024 je USB-C obvezen! Tapni naprave, ki imajo še star priključek, da jih uskladiš. Samo ne tistih z USB-C! 20 naprav v 30 sekundah.
+2054 Tapni stare priključke, ne USB-C!
+2055 Vse usklajeno! En polnilnik za vse. Evropski predali s kabli si končno oddahnejo.
+2056 »Uskladil« si napravo, ki je že imela USB-C. Zdaj ima tri adapterje.
+2057 Preveč starih kablov je ušlo direktivi… Predal s kabli poka po šivih.
+2058 Tvoj računalnik. V kotu zaslona utripa 437 neprebranih e-sporočil.
+2059 E-pošta
+2060 Izklopi
+2061 Prikaže se obvestilo: »Čestitamo za vašo produktivnost!« Pod mizo te je čakal paket.
+2062 Prazen nabiralnik. Tri sekunde pozneje: »Re: Usklajevalni sestanek o sestankih«.
+2063 Poštni strežnik kaže peščeno uro. Kazal jo bo verjetno do jutri.
+2064 Računalnik službe za odnose z mediji. Na zaslonu piše: »Enota Lažolovec – govorice za preverjanje: 2 384«.
+2065 Odlično preverjanje! Služba za medije ti podari ta strokovna poročila. Ta imajo vsaj vire.
+2066 Vse današnje govorice so preverjene. Do kosila jih bo prišlo še nekaj.
+2067 Lažna novica je bila pravkar deljena 40 000-krat. Demanti pa 12-krat.
+2068 Terminal GD za prevajanje. Utripa rdeča lučka: »Sporočila čakajo na usmeritev«.
+2069 Tolmači so zasuti z delom! Lahko razvrstiš sporočila in jih pošlješ v pravo kabino?
+2070 Štiriindvajset jezikov, nobene napake! Vzemi ta adresar, v njem so vsi tolmači Sodišča.
+2071 Slovenščino od slovaščine ločiš bolje kot pol Sveta.
+2072 Malteško sporočilo je prispelo v irsko kabino. Še vedno razpravljajo o njem. Poskusi znova, kadar želiš.
+2073 Terminal Bloomberg, še topel. Na listku: »Cilj: 2 %. Ne 1,9. Ne 2,1. 2.«
+2074 Prevzameš vodenje denarne politike evrskega območja?
+2075 Trgi pozdravljajo tvojo previdnost. Na račun ti je kapnil bonus za stabilnost!
+2076 Inflacija pri 2 %. Nekje v Frankfurtu ekonomist potoči solzo sreče.
+2077 Terminal kaže graf v obliki vlakca smrti. Nihče ni nič videl. Hitro poskusi znova.
+2078 Računalnik evropske poslanke. Na mizi je klobčič 14 različnih polnilnikov.
+2079 Glasovala sem za direktivo o USB-C! A moji kolegi imajo še stare naprave… Mi pomagaš, da jih uskladimo?
+2080 En polnilnik za vse! Na, vzemi ta ključ USB-C. Menda razvije nekatere digitalne Euromone.
+2081 Predal s kabli je končno prazen. Ne vem več, kaj naj dam vanj.
+2082 Povsod je še polno kablov Lightning… Poskusiva znova, kadar želiš.
+2083 Zeleno območje: %d %%
+2084 Cilj: pol časa v zelenem
+2085 Dock 30

@@ -1,0 +1,486 @@
+# Lietuvių — ids 0-499
+0 LOB
+1 SKA
+2 ŠAL
+3 MIE
+4 BLK
+5 Lyg.%d
+6 DEBATAI
+7 KREPŠYS
+8 BĖGTI
+9 KOMANDA
+10 PP %d/%d
+11 Nėra poveikio
+12 Labai veiksminga
+13 Mažai veiksminga
+14 Atgal
+15 Šiam ėjimui PP nebeliko!
+16 Tavo eilė, %s!
+17 %s išleidžia %s!
+18 Bet %s jau turi problemų…
+19 %s jau yra lobistų pusėje!
+20 Centrinio banko valdytojo lėšų nešaldiname!
+21 %s patenka į lobistų įtaką!
+22 %s įsitraukė į skandalą!
+23 %s: lėšos užšaldytos!
+24 %s įmiega vidury naktinio viršūnių susitikimo!
+25 %s įstrigo komitete!
+26 Argumentacija
+27 Atsparumas
+28 Ekspertizė
+29 Diplomatija
+30 Reaktyvumas
+31 Tikslumas
+32 Išsisukimas
+33 %s: %s jau nebegali kilti!
+34 %s: %s jau nebegali kristi!
+35 %s: %s smarkiai pakyla!
+36 %s: %s pakyla!
+37 %s: %s smarkiai krenta!
+38 %s: %s krenta!
+39 %s naudoja %s!
+40 (trump)%s naudoja %s!
+41 %s ruošia 400 puslapių bylą…
+42 Bet niekas du kartus nepakliūna į sofos spąstus!
+43 %s nusirašo nuo priešininko!
+44 Bet nėra nuo ko nusirašyti…
+45 %s pasišaukia 50 straipsnį ir palieka debatus!
+46 %s pasišaukia 50 straipsnį ir išvyksta!
+47 %s pasišaukia 50 straipsnį… bet derybos truks dar daug metų!
+48 %s apsiginia veto!
+49 „VETO!“ Priešininkas blokuoja sprendimą – reikalingas vienbalsiškumas.
+50 Bet %s ataka nepasiekia tikslo!
+51 %s jau yra dezinformuotas!
+52 %s yra dezinformuotas!
+53 Bet %s HP jau yra maksimalūs!
+54 %s atgauna HP!
+55 %s snaudžia atsigaivindamas!
+56 Bet šįkart veto nepraeina!
+57 %s pakelia savo veto teisę!
+58 Apsaugos sąlyga! Visi pakeitimai anuliuojami.
+59 %s žinutės buvo ištrintos… Nė pėdsako!
+60 Struktūriniai fondai lyja ant lauko!
+61 %s atsiduria sėdintis ant sofos!
+62 Bet nieko neįvyksta…
+63 Tai neveikia %s…
+64 Kritinis smūgis!
+65 Pataikyta %d kartus!
+66 Tai labai veiksminga!
+67 Tai nelabai veiksminga…
+68 %s įkliuvo į begalinę procedūrą!
+69 %s nusavina lėšas!
+70 %s patiria atatranką!
+71 Monetos skraido į visas puses!
+72 %s per daug sutrikęs, kad galėtų veikti!
+73 %s giliai miega… (dabar 4 valanda ryto)
+74 %s pabunda! Viršūnių susitikimas pasibaigė.
+75 %s pagaliau išeina iš komiteto!
+76 %s lėšos užšaldytos! Negalima veikti.
+77 %s patikrino savo šaltinius!
+78 %s yra dezinformuotas…
+79 Jis paskleidžia klaidingą informaciją ir pats save sukompromituoja!
+80 Orbánas išėjo kavos! Jo Euromonas laukia, sutrikęs.
+81 %s patenka į lobistų įtaką!
+82 Skandalas apšlaksto %s!
+83 %s įklimpęs procedūroje!
+84 %s yra nugalėtas!
+85 %s išmoksta %s!
+86 %s nori išmokti %s, bet jau žino keturis ėjimus.
+87 Nemokyti
+88 Kurį ėjimą pamiršti?
+89 1, 2, 3… Op! %s pamiršta %s…
+90 … ir išmoksta %s!
+91 %s neišmoksta %s.
+92 %s gauna %d patirties taškų!
+93 %s pasiekia %d lygį!
+94 {P} paleidžia %s!
+95 Ir štai! %s įregistruotas Oficialiajame leidinyje!
+96 %s duomenys įtraukti į Eurodex.
+97 %s išsiunčiamas į Archyvus.
+98 O ne! %s išsilaisvino!
+99 Oh! Vos vos nepavyko!
+100 Oi! Trūko tik vieno antspaudo!
+101 Argh! Procedūrinis pažeidimas!
+102 %s buvo atmestas referendumu! Nepavyks jo pagauti.
+103 Kito treinerio Euromono negalima gaudyti! Tai būtų skandalas.
+104 {P} naudoja %s!
+105 Kuriam Euromonui?
+106 %s atgauna HP.
+107 %s jaučiasi geriau.
+108 %s vėl tarnyboje!
+109 Tai neturės jokio poveikio.
+110 Dabar ne laikas!
+111 Ką siųsti į debatus?
+112 Ką siųsti?
+113 %s nebegali debatuoti!
+114 %s jau yra lauke!
+115 Grįžk, %s!
+116 partneris
+117 konkurentas
+118 sisteminis varžovas
+119 Priešininko Euromonas dabar prisistato kaip… %s! (tipas %s)
+120 %s %s nori debatuoti!
+121 Oho! Chromatinis %s!
+122 Pasirodo laukinis %s!
+123 Ką turėtų daryti {P}?
+124 Iš oficialių debatų neišeinama! Tai būtų silpnumo prisipažinimas.
+125 Jūs pabėgate pro avarinį išėjimą!
+126 Pabėgti neįmanoma: posėdis nebaigtas!
+127 %s paleidžia savo argumentą… Stalas toks ilgas, kad jis nukeliaus iki galo per visą ėjimą!
+128 Praėjusio ėjimo argumentas pagaliau pasiekia kitą stalo galą!
+129 %s tuoj siųs %s.
+130 Tęsti
+131 Keisti Euromoną
+132 Keisti Euromoną?
+133 {P} laimi %d € už šį debatą!
+134 {P} susirenka %d € struktūrinių fondų.
+135 — FILMUKAS —
+136 A: toliau    START: praleisti
+137 Taip
+138 Ne
+139 Palieskite arba paspauskite A
+140 Dėkojame, kad žaidėte!
+141 PABAIGA… arba beveik.
+143 Išsaugojimas neperskaitomas!
+144 Profesorius Schumanas
+145 Sveiki, sveiki! Sveiki atvykę į nuostabų… ir kiek biurokratišką… Europos Sąjungos pasaulį!
+146 Mano vardas Robertas Schumanas. Galbūt girdėjote apie mane: istorija apie anglį, plieną ir gegužės 9-ąją… Ją papasakosiu.
+147 Nuo to laiko šį pasaulį apgyveno keistos būtybės: EUROMONAI!\fDirektyvos, reglamentai, pataisos, slapukų juostos… Jie gyvena bylų krūvose ir koridorių kilimuose.
+148 Kai kurie juos renka, kiti verčia debatuoti. Aš juos tyrinėju. Tai vadinama… komitologija!
+149 Bet pakalbėkime apie tave. Šį rytą Europos Parlamente laukiami du stažuotojai…
+150 Kairėje – Alex, nauja stažuotoja. Dešinėje – Max, naujas stažuotojas. Kas tu esi?
+151 Alex, mergaitė
+152 Max, berniukas
+153 Puiku! Ir kaip turėčiau tave kreipti, oficialiai? Tai turės būti parašyta 24 kalbomis, taigi rinkis atsargiai.
+154 Tavo vardas (ne daugiau 10 raidžių):
+155 {P}! Nuostabu. Tuoj pat liepsiu tai išversti į maltiečių kalbą.
+156 Čia Oliveris, tavo kolega stažuotojas, atvykęs tiesiai iš Londono. Jis… labai savimi pasitikintis.
+157 Hello! Don't worry, {P}, būsiu geriausias stažuotojas visoje Sąjungoje. Easy.
+158 Jūsų abiejų užduotis paprasta: pasiekti, kad būtų priimta VIENA direktyva.\fDirektyva dėl laiko keitimo atšaukimo. Parlamentas ją priėmė 2019 m. kovą…
+159 … ir nuo to laiko ji snaudžia Taryboje. Kaip ir daugelis dalykų.
+160 Kad tai pasiektumėte, jums reikės aštuonių didžiųjų Europos miestų ženklelių, reikės įtikinti Europos Vadovų Tarybą, ir pačią Komisijos pirmininkę!\fPirmyn, {P}. Tavo stažuotė prasideda dabar. Ji neapmokama, bet mokomoji!
+161 Didž./maž.
+162 Trinti
+163 Ar žinojai? Parlamentas kraustosi į Strasbūrą dvylika kartų per metus, su visais lagaminais.
+164 ES yra 24 oficialios kalbos. Jūsų stažuotojas moka vieną su puse.
+165 Patarimas: prie butelio pritvirtinti kamšteliai nebesimeta (direktyva 2019/904).
+166 Kraunama… kaip ir laiko keitimo atšaukimas: priimta 2019 m., vis dar laukiama.
+167 Europos vėliavoje yra 12 žvaigždučių. Tai nereiškia šalių skaičiaus: tai tobulumo simbolis.
+168 Schumano deklaracija pasirašyta 1950 m. gegužės 9 d. Gegužės 9-oji – Europos diena!
+169 Euro monetos pasirodė kišenėse 2002 m. sausio 1 d.
+170 Nuo 2017 m. birželio Europoje nebėra tarptinklinio ryšio mokesčių. Paskambinkite mamai iš Lisabonos!
+171 Universalus USB-C įkroviklis privalomas nuo 2024 m. pabaigos. Sudie, laidų stalčiau.
+172 Erasmus programa gimė 1987 m. Nuo tada milijonai studentų išmoko virti makaronus.
+173 Šengeno sutartis pasirašyta 1985 m. ant laivo, ant Mozelio upės, Liuksemburge.
+174 Europos Parlamente nuo 2024 m. yra 720 europarlamentarų.
+175 Patarimas: valgykla gydo visą jūsų komandą. Kava – nieko negydo.
+176 Patarimas: bėkite laikydami B. Berlaymont koridoriai yra ilgi.
+177 Reglamentas dėl bananų lenkumo (1994 m.) egzistuoja… bet jame iš tikrųjų kalbama apie kokybę.
+178 BDAR (2018 m.) jums padovanojo slapukų juostas. Daug slapukų juostų.
+179 Nobelio taikos premija Europos Sąjungai skirta 2012 m.
+180 Romos sutartis (1957 m.) įkūrė Europos ekonominę bendriją.
+181 Mastrichto sutartis (1992 m.) įkūrė Europos Sąjungą ir numatė eurą.
+182 Lisabonos sutartyje (2007 m.) yra 50 straipsnis. Tik viena šalis juo pasinaudojo.
+183 Jungtinė Karalystė išstojo iš ES 2020 m. sausio 31 d. Oliveris iki šiol to neatsigavo.
+184 Patarimas: oficialūs antspaudai geriau gaudo nusilpusius Euromonus.
+185 Patarimas: naktinio viršūnių susitikimo užmigdytą Euromoną lengviau pagauti.
+186 Berlaymont pastatas buvo valomas nuo asbesto 1991–2004 m. Statybos susitikimas truko ilgai.
+187 ES Teisingumo Teismas posėdžiauja Liuksemburge, Kirchbergo plynaukštėje.
+188 ECB yra Frankfurte. Jo bokštas kainavo daugiau, nei planuota. Tikriausiai, infliacija.
+189 Simone Veil buvo pirmoji tiesiogiai rinktų Europos Parlamento rinkimų pirmininkė, 1979 m.
+190 Komisijoje yra 27 komisarai: vienas iš kiekvienos šalies. Net Austrijos žuvininkystės politikai.
+191 Patarimas: spauskite X, kad atidarytumėte meniu.
+192 Dunojus teka per dešimt šalių. Tavo batai – tik per dvi.
+193 Europos dieną pasirodo retas Euromonas. Pabandykite gegužės 9-ąją!
+194 ES vertimai per metus sudaro milijonus puslapių.
+195 Europos himnas – Beethoveno Odė džiaugsmui, be oficialių žodžių.
+196 Patarimas: Juridinio tipo atakos labai veiksmingos prieš Lobby tipą.
+197 Patarimas: Veto blokuoja ataką, bet ne tavo užsispyrimą.
+198 Brexitas tęsėsi taip ilgai, kad buvo sugalvotas žodis „Brextension“.
+199 Kiekvienoje valstybėje narėje yra Parlamento ryšių biuras.
+200 Patarimas: kalbėkitės su visais. Net su balandžiu Lux aikštėje.
+201 Danija turi euro išimtį. Ji išlieka su savo krona ir vikingais.
+202 Kraunamos 27 nacionalinės nuomonės… 26 iš 27… Laukiama Vengrijos.
+203 Ar žinojai?
+204 Kraunama…
+205 Komanda
+206 Krepšys
+207 Žemėlapis
+208 Ataskaita
+209 Nustatymai
+210 %lu val. %02lu
+211 HP
+212 K.O.
+213 Lyg.%d   Nr.%03d
+214 Pat.
+215 Toliau
+216 B: atgal
+217 Mainyti su… ?
+218 A: rinktis   B: atgal
+219 Santrauka
+220 Perkelti
+221 Gydymas
+222 Antspaudai
+223 Kovai
+224 Raktai
+225 Laukiniai Euromonai jus kol kas paliks ramybėje.
+226 %s PP atstatyti.
+227 Tai neturi jokio poveikio.
+228 Dabar ne laikas tai naudoti.
+229 ×%d
+230 (tuščia)
+231 Naudoti
+232 Nr.%03d  %s
+233 Pagauk šį Euromoną, kad perskaitytum jo kortelę.
+234 EURODEX   Matyta: %d   Pagauta: %d
+235 Neaptikta išsaugojimo laikmena.\fDS (DS Pico, R4…): paleiskite žaidimą iš SD kortelės. Emuliatoriuje: įjunkite DLDI / SD kortelę, arba naudokite būsenos išsaugojimus.
+236 Rašyti pažangos ataskaitą (vieta %d)?
+237 Išsaugoti
+238 Kita vieta…
+239 Atšaukti
+240 Ataskaita perduota 24 kalbomis. Žaidimas išsaugotas (vieta %d)!
+241 Nepavyko rašyti į SD kortelę. Bandykite vėl.
+242 Nustatymai
+243 Faktų šaltiniai
+244 Atgal į titulinį
+245 Grįžti į titulinį ekraną? Neišsaugoti pakeitimai bus pamesti.
+246 ◀  × %d  ▶
+247 Iš viso: %d €
+248 A: patvirtinti   B: atšaukti
+249 Pirkti
+250 Parduoti
+251 Viso gero
+252 Pardavėjas
+253 Sveiki atvykę į Parlamentariumo parduotuvę! Visos prekės atitinka CE standartus.
+254 Jūsų biudžetas: %lu €
+255 Jūsų krepšyje: %d
+256 Panašu, kad jūsų biudžetas yra… žemiau išlaidų ribos.
+257 Dėkojame! Ir štai dovanų Super antspaudas – už pirkimą dideliu kiekiu!
+258 Dėkojame už pirkinį! Sąskaita trimis egzemplioriais.
+259 Tai? Tai nepardavimui, tai strategiškai svarbus daiktas!
+260 Sandėris sudarytas!
+261 Viso gero! Neužmirškite: USB-C įkroviklis parduodamas atskirai.
+262 KOMANDA → ARCHYVAI (%d/%d)
+263 ARCHYVAI → KOMANDA (%d/%d)
+264 ◀▶ pusė   A: perkelti   B: išeiti
+265 {P} įjungia Archyvų terminalą. „Sveiki atvykę į dokumentų valdymo sistemą.“
+266 Komandoje turi likti bent vienas Euromonas!
+267 Komanda pilna (daugiausia 6 Euromonai).
+268 Reskriptas
+269 Euras
+270 Hemiciklas
+271 OXI
+272 50 straipsnis
+273 Veto
+274 Bauda
+275 Sorbona
+276 Jean-Claude Juncker, Liuksemburgas
+277 Christine Lagarde, Frankfurtas
+278 Roberta Metsola, Strasbūras
+279 Yanis Varoufakis, Atėnai
+280 Farage ir Johnson, Londonas
+281 Viktor Orbán, Budapeštas
+282 Margrethe Vestager, Briuselis
+283 Emmanuel Macron, Paryžius
+284 SUTARČIŲ ŽENKLELIŲ DĖKLAS
+285 gauta
+286 reikia iškovoti
+287 %s ženklelis — suteikė %s.
+288 Kas? %s evoliucionuoja!
+289 Jūs atidėjote reformą. %s neevoliucionavo.
+290 Sveikiname! %s evoliucionavo į %s!
+291 Laikas: %d s
+292 Rezultatas: %d / %d
+293 Mini žaidimas
+294 Balsavimas plenariniame posėdyje
+295 Į hemiciklą atvyksta europarlamentarai! Palieskite kiekvieną geltonai užsidegančią vietą, kol ji neužgeso. 25 balsavimai per 30 sekundžių!
+296 Pirmininkavimas
+297 Palieskite geltonas vietas!
+298 Priimta didele balsų dauguma! Plojimai visuose suoluose.
+299 Kvorumas nesusirinko. Posėdis sustabdytas…
+300 Antspaudas
+301 Dokumentai slenka per stalą. Palieskite kiekvieną, kad jį antspauduotumėte, kol jis neišslinko iš ekrano. 15 dokumentų!
+302 Palieskite dokumentus, kad juos antspauduotumėte
+303 Visi dokumentai antspauduoti! Administracija jumis didžiuojasi.
+304 Kai kurie dokumentai nuslydo neantspauduoti. Jiems reikės vėl pereiti visą ratą…
+305 Slapukų juostos
+306 Slapukų juostos užplūsta ekraną! Kiekvienoje palieskite „Atmesti“. Jei susikaupia šešios juostos, pralaimėjote. Išlaikykite 25 sekundes!
+307 (kažkokia interneto svetainė)
+308 Mes gerbiame
+309 jūsų privatumą
+310 Priimti
+311 Atmesti
+312 Atmeskite visas! (nespauskite „Priimti“)
+313 Visi slapukai atmesti! BDAR jumis didžiuojasi.
+314 Juostos jus užgriuvo… Sutikote su 437 reklamos partneriais.
+315 Naktinis viršūnių susitikimas
+316 3 valanda nakties, 27 valstybių vadovai užmiega! Pūskite į mikrofoną (arba palieskite miegančią galvą), kad juos pažadintumėte. 27 pažadinimai iki aušros!
+317 %d val. %02d
+318 Pūskite / palieskite miegančią galvą!
+319 Visi pažadinti! Susitarimas pasiektas 4:37. Kaip visada.
+320 Saulė teka virš stalo su įmigusiais vadovais. Viršūnių susitikimas atidedamas.
+321 Strasbūro lagaminai
+322 Sukraukite europarlamentarų lagaminus į traukinį, tvarka: 1, 2, 3… iki 10. Turite 30 sekundžių!
+323 Platforma — TGV Strasbūras ⇄ Briuselis
+324 Lagaminai
+325 Palieskite lagaminus tvarka!
+326 Visi lagaminai traukinyje! Sesija gali prasidėti.
+327 Traukinys išvyko be lagaminų. Deputatai posėdžiuos su pižamomis.
+328 Kalba
+329 Teksto greitis
+330 Teksto garsas
+331 Muzikos garsumas
+332 Kovos animacijos
+333 Lėtas
+334 Normalus
+335 Greitas
+336 ↑↓ / jutiklis: slinkti    B: atgal
+337 Kūrėjai
+338 SD kortelė
+339 kasetė
+340 nėra
+341 {P} gauna %d × %s!
+342 {P} gauna: %s!
+343 — Tuščia vieta —
+344 Eurodex: %d
+345 Tęsti: pasirinkti žaidimą
+346 Naujas žaidimas: vieta
+347 Išsaugoti į…
+348 Šioje vietoje jau yra žaidimas. Perrašyti?
+349 Naujas žaidimas
+350 Kūrėjai ir šaltiniai
+351 Pagrindinis meniu
+352 Neoficiali parodija · v2.0
+353 Tavo gyvenimo stažuotė
+354 SPAUSKITE START
+355 {P} gauna %s!
+356 Komanda pilna: jis keliauja į Archyvus.
+357 {P} neturi daugiau debatuoti galinčio Euromono…\f{P} bėga atgal į valgyklą, nuleidęs galvą.
+358 Valgyklos darbuotoja
+359 Nagi, gera kava ir vėl galėsite! Jūsų Euromonai pilnos formos.
+360 Reskripto ženklelis
+361 Euro ženklelis
+362 Hemiciklo ženklelis
+363 OXI ženklelis
+364 50 straipsnio ženklelis
+365 Veto ženklelis
+366 Baudos ženklelis
+367 Sorbonos ženklelis
+368 {P} gauna %s!
+369 Tavo Eurodex turi %d pagautus Euromonus iš %d matytų.
+371 Tai pradžia! Maži žingsneliai sukuria dideles sąjungas.
+372 Neblogai! Tu žengi greičiau nei direktyva dėl vasaros laiko.
+373 Įspūdinga! Net Komisija neturi tiek bylų.
+374 Nepaprasta! Tu pats esi tikra institucija.
+375 {P} randa: %s!
+376 Nekvietimo sąlygos galiojimas baigėsi.
+377 Briuselis
+378 Liuksemburgas
+379 Frankfurtas
+380 Strasbūras
+381 Atėnai
+382 Londonas
+383 Budapeštas
+384 Paryžius
+385 Antverpenas
+386 Varšuva
+387 Roma
+388 Mastrichtas
+389 Lisabona
+390 Kasininkas
+391 Šiuo metu nėra galimų krypčių.
+392 Kitos kryptys…
+393 Į vagonus! Traukinys išvyksta… tik su kelių minučių vėlavimu.
+394 Diplomatas
+395 Josep Borrell, buvęs Vyriausiasis įgaliotinis, 2022 m. sakė: „Europa yra sodas, o likęs pasaulis – džiunglės.“ Tai sukėlė… nemažai triukšmo.
+397 Šešiolika metų kanclerė. Šimtai viršūnių susitikimų. 2015 m. pasakiau: „Wir schaffen das“ — mes susitvarkysime.
+398 Bet ar jūs susitvarkysite? Esu pirmoji Tarybos narė. Niekas nepraeina be kompromiso.
+399 Wir haben es geschafft. Galite praeiti. Mario jūsų laukia… su 400 puslapių ataskaita.
+401 2012 m. liepa, Londonas. Pasakiau tris žodžius: „Whatever it takes“. Euras buvo išgelbėtas. Rinkos nurimo.
+402 2024 m. mano ataskaita apie konkurencingumą siūlė iki 800 milijardų investicijų per metus. Investuokite į šį debatą.
+403 Padarėte visa, kas būtina. Jūsų laukia Kaja Kallas. Ji… labai tiesmuka.
+405 Vyriausioji įgaliotinė užsienio reikalams nuo 2024 m. gruodžio. Buvusi Estijos ministrė pirmininkė.
+406 Pasaulis pavojingas. Turiu žinoti, ar atlaikysite didžiąsias galias. Parodykite man.
+407 Tvirta. Jums to reikės. Jūsų laukia pirmininkas Costa. Jis tikisi baigti prieš vidurnaktį.
+409 Europos Vadovų Tarybos pirmininkas nuo 2024 m. gruodžio! Dabar 23:54. Jei baigsime prieš vidurnaktį, tai bus istorinė premjera.
+410 Bet pirmiausia: visi valstybių vadovai užmigo prie stalo. Padėkite man juos pažadinti! Pūskite į mikrofoną… arba bakstelėkite ekraną!
+411 Dabar… 4:37. Gerai. Kaip visada. Vis tiek debatuokime.
+412 Europos Vadovų Taryba vienbalsiai patvirtina jūsų kandidatūrą! Na… vienbalsiai, minus vienas konstruktyvus susilaikymas.
+413 Komisijos pirmininkė jūsų laukia Berlaymont pastato 13-ame aukšte. Tai paskutinis žingsnis prieš direktyvą.
+415 Ak, labas. Esu Charles Michel, buvęs Europos Vadovų Tarybos pirmininkas. Aš tiesiog… sėdžiu. Vienintelėje kėdėje.
+416 Ankaroje, 2021 m. balandį, aš atsisėdau į fotelį. Ursula atsidūrė ant sofos. Tai pavadinome „Sofagate“. Niekada tikrai neatsigavau.
+418 Sveiki atvykę į 13-ą aukštą. Taip, aš čia gyvenu: prie mano kabineto yra mažas kambarelis. Patogu skubiems dokumentams.
+419 Komisijos pirmininkė nuo 2019 m., perrinkta 2024 m. Žaliasis kursas, Covid krizė, vakcinos…
+420 SMS žinutės su Pfizer vadovu? 2025 m. gegužę ES Bendrasis Teismas atšaukė mūsų atsisakymą jas perduoti „The New York Times“. Žodžiu, pereikime toliau.
+421 Norite direktyvos dėl vasaros laiko? Nugalėkite mane. Team Europe, pabaigoje išliks tik vienas.
+422 Nepaprasta. Jūs – geriausias stažuotojas Komisijos istorijoje. Štai… direktyva dėl laiko keitimo atšaukimo.
+423 Dabar tik belieka ją pasirašyti. Formalumas! Tereikia, kad…
+424 Didžiosios galios laukia! Antverpenas, Varšuva, Pirėjas… Sėskite į traukinį.
+425 Jūs išgelbėjote Europą. O direktyva yra… komitete. Kaip visada. Dėkoju už viską, {P}.
+426 PYP PYP PYP! Trys skubūs pranešimai vienu metu pasiekia visus Berlaymont telefonus.
+428 HELLO EUROPE! Turiu mažą prašymą. Visai mažą. Uždedu muitus viskam. Ir norėčiau nusipirkti Grenlandiją. Ji parduodama, ar ne?
+429 Antras pranešimas, atkeliavęs iš Rytų: „Dujų čiaupas užsuktas. Jūsų pačių gerovei.“ Pasirašyta: V. P.
+430 Trečias pranešimas, labai mandagus: „Sustabdome retųjų žemių eksportą. Jūsų telefonai veiks… mažiau.“ Pasirašyta: X. J.
+431 {P}, direktyva palauks. Didžiosios galios nori Europą sutramdyti. Reikia jas aplankyti. Visas tris.
+432 Antverpeno uostas, Varšuva ir Pirėjo uostas Atėnuose. Stotys jums atviros. Team Europe jumis tiki!
+434 Esu NATO generalinis sekretorius. Hagos viršūnių susitikime, 2025 m. birželį, pasižadėjome iki 2035 m. gynybai skirti 5 % BVP.
+435 Ir pavadinau Donaldą „tėveliu“. Gerai, tai buvo vaizdingas palyginimas. Jam patiko. Eikite, jis ten, golfo aikštelėje.
+437 2025 m. vasarį, Miuncheno konferencijoje, aiškinau europiečiams, kas yra demokratija. Jie buvo… nustebę.
+438 TAI GRAŽIAUSIAS GOLFO LAUKAS PASAULYJE. Ką tik jį nupirkau. Bent man taip atrodo. Galbūt ir uostą taip pat.
+439 2025 m. balandžio 2 d., Laisvės diena! Iškėliau didžiulę lentą su muitais VISIEMS. Net salos, kuriose gyvena tik pingvinai.
+440 2025 m. liepą, mano Turnberry golfo aikštelėje, susitarėme su Ursula: 15 %. Bet galiu persigalvoti. Dažnai persigalvoju. Tai strategija.
+441 Ir Grenlandija! Ji didelė, balta, nuostabi. Danija nenori parduoti. VISIŠKAI NETEISINGA. Debatuojame, ir jei laimėsiu, ją nupirksiu!
+442 Tai buvo sufalsifikuota. Visiškai sufalsifikuota. Gerai. Paliekame 15 %. Ir Grenlandija lieka danų. Kol kas. Šįvakar kai ką parašysiu didžiosiomis raidėmis.
+444 Sveiki atvykę į Varšuvą. Lenkijos ministras pirmininkas, buvęs Europos Vadovų Tarybos pirmininkas. Čia žinome, kiek kainuoja laisvė.
+446 Nuo 2022 m. vasario mano šalis priešinasi Rusijos invazijai. Dėkoju Europai už paramą. Rūmai yra aukščiau: būkite atsargūs.
+447 Paimkite šį REPowerEU rinkinį: Europa išmoko gyventi be Rusijos dujų. Jo reikės, kad ten jaustumėtės šilčiau.
+448 Vladimiras Putinas
+449 Sėskitės. Ne… toliau. Taip. 2022 m. vasarį prezidentus priiminėjau tokiu atstumu. Taip… patogiau.
+450 Dujos? Užsukau čiaupą. Rinkimai? 2024 m. gruodį Rumunijos Konstitucinis Teismas panaikino prezidento rinkimus dėl įtariamo kišimosi. Nežinau, apie ką jūs čia.
+451 Čia jūsų argumentams reikės visos eilės, kol jie pasieks kitą stalo galą. Pradėkime.
+452 …Jūsų REPowerEU rinkinys veiksmingas. Šantažas nebeveikia. Eikite, kol neapkarpiau stalo.
+453 Sargas
+454 Šiuos du pandas Kinija paskolino Europos zoologijos sodui. Tai vadinama „pandų diplomatija“. Jie suėda 40 kg bambuko per dieną. Pandos, ne diplomatai.
+456 Sveiki atvykę. Europos Sąjunga nuo 2019 m. mus vadina partneriu, konkurentu ir sisteminiu varžovu. Aš taip pat esu visi trys.
+457 Jūs apmuitinate mūsų elektromobilius — iki 35 % nuo 2024 m. spalio. Mes apmuitinam jūsų konjaką. Ir saugome savo retąsias žemes. Tai subalansuota.
+458 Šiame debate mano Euromonas keis tipą kiekvieną eilę: partneris, konkurentas, varžovas. Sėkmės sekant.
+459 Hmm. Partneris, vertas pagarbos. Retosios žemės vėl keliaus. Pandos pasilieka, jos labai populiarios.
+460 Geltonas meškiukas praslenka pro konteinerį. Pasirodo lentelė: „Turinys neprieinamas jūsų regione.“
+461 Pirmininkės pranešimas: „Trys Didžiosios galios reikalauja viršūnių susitikimo. Nedelsiant. Sommet G-Viskas. Siunčiu jus tenai.“
+462 TAI AŠ SUGALVOJAU ŠĮ VIRŠŪNIŲ SUSITIKIMĄ.
+463 Stalas per trumpas.
+464 Mes visi esame partneriai. Ir varžovai.
+465 Gerai, pradedame? Pirmas aš. Visi sako, kad man geriausiai sekasi pradėti.
+466 Mes siūlome pradėti… po rimto apsvarstymo. Po penkiasdešimt metų.
+467 Kodėl Europa sėdi prie stalo? Ji turėjo sėdėti ant sulankstomos kėdutės.
+468 SULANKSTOMA KĖDUTĖ – TAI TREMENDOUS. Aš jų parduodu.
+469 Visi kalba vienu metu. Vertėjai pasiduoda. Belieka vienas sprendimas: debatai.
+470 Salėje tylu. Trys Didžiosios galios žiūri vienos į kitą… tada pažvelgia į Europą.
+471 Team Europe! Kartu esame stipresni nei atskirai. Tai, galima sakyti, visa Sąjungos istorija, ar ne?
+472 Konkretūs pasiekimai, {P}. Faktinis solidarumas. Tai sakiau 1950 m. Tu tai padarei per vieną stažuotę.
+473 O direktyva dėl laiko keitimo atšaukimo? Ji buvo perduota… komitetui.
+474 Bet tai – jau kita istorija.
+475 Nuotykis tęsiasi! Nauji traukiniai važiuoja į Romą, Mastrichtą ir Lisaboną. Sakoma, kad ten snaudžia legendiniai Euromonai… Ir kažkas jūsų laukia Briuselio stotyje.
+476 Antikinė statula Kapitolijaus aikštėje. 1957 m. kovo 25 d. šešios šalys čia pasirašė Romos sutartį. Kažkas pajudėjo…
+477 Čia, 1992 m. vasario 7 d., Mastrichto sutartis davė pradžią Europos Sąjungai. Pradeda švytėti gigantiška euro moneta…
+478 2007 m. gruodžio 13 d. Lisabonos sutartis buvo pasirašyta Jeronimitų vienuolyne. Artinasi permatomas siluetas…
+479 Toliau sprunka kitas Euromonas: Constitutio. Atmestas 2005 m., jis niekada neduoda pasigauti.
+480 Pirma stažuotės diena Europos Parlamente! Profesorius Schumanas tavęs laukia Parlamento fojė.
+481 Tavo kompiuteryje – 437 neperskaityti laiškai. Visų tema: „Koordinacinis susitikimas dėl susitikimų“.
+482 Leopoldo parkas. Atsargiai: bylų krūvose slepiasi laukiniai Euromonai. Nemaitinkite Amendonų.
+483 Berlaymont — Europos Komisija. Priėjimas ribotas. 13-as aukštas: pirmininkės kabinetas (ir kambarys).
+484 „Europa nebus sukurta iš karto ar pagal vieną bendrą planą: ji bus kuriama konkrečiais pasiekimais.“ — Robert Schuman, 1950 m. gegužės 9 d.
+485 Lobistas
+486 Labas! Aš ne lobistas. Aš „dalijuosi ekspertinėmis žiniomis“. Užkandžio? Su lašiša. Norvegų.
+487 Turistas
+488 Excuse me, kur yra Manneken-Pis? Man sakė, kad jis didesnis… Šioje kelionėje man daug melavo.
+489 Vaikas
+490 Kai užaugsiu, būsiu vertėjas! Kalbėsiu 24 kalbomis. Arba ugniagesiu, ramiau.
+491 Žurnalistas
+492 Rašau apie Europos Sąjungą jau dvidešimt metų. Mano mėgstamiausia antraštė: „Briuselis sako ne“. Veikia kiekvieną kartą.
+494 Laimėjai… Sako, kad direktyva dėl vasaros laiko Taryboje užblokuota nuo 2019 m. Sėkmės, nu.
+495 Apsaugos darbuotojas
+496 Ardėnų kelias? Ne be Euromono! Laukinės bylos šį biudžeto sezoną agresyvios.
+497 Stop! Niekas neišvyksta iš Briuselio be Euromono. Pirmiausia nueikite pas profesorių Schumaną, į Parlamentą.
+498 Sargybinis
+499 13-as aukštas? Tik tie, kurie įtikino Europos Vadovų Tarybą, gali pakilti. O pirmiausia reikia aštuonių ženklelių.

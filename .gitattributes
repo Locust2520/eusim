@@ -1,0 +1,16 @@
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+Makefile text eol=lf
+*.evs text eol=lf
+*.map text eol=lf
+*.mml text eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
+*.ttf binary
+*.woff2 binary
+*.ogg binary
+*.mid binary

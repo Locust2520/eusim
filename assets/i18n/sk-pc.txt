@@ -1,0 +1,157 @@
+# Slovak — computer mini-games
+1928 Prince Mbeki III
+1929 Dedičstvo 4 mil. € na rozdelenie
+1930 Dieselová loby
+1931 Pozvánka: večera s homárom
+1932 Personálne oddelenie
+1933 Koordinačná porada o poradách
+1934 SuperPromo
+1935 Váš telefón zadarmo na vás čaká
+1936 Qatar Events
+1937 Kufrík pre vás?
+1938 Banka Bezpečnosť
+1939 Potvrďte tu svoje heslo
+1940 Newsletter
+1941 47 vzrušujúcich noviniek GDPR
+1942 Program plenárnej schôdze
+1943 Mama
+1944 Ješ v Bruseli poriadne?
+1945 Kantína
+1946 Dnešné menu: waterzooi
+1947 Kancelária Súdneho dvora
+1948 Rozsudok doručiť do obeda
+1949 Komisia
+1950 Zajtra sa hlasuje o rozpočte
+1951 Tvoj Eurodex bol aktualizovaný
+1952 Debata dnes večer? Vyhrám.
+1953 Doručená pošta
+1954 437 neprečítaných e-mailov! Ťukni na skutočný e-mail, aby si ho prečítal, a na červený krížik, aby si vyhodil spam. Vybav ich 20, kým schránka pretečie!
+1955 Čítať: ťukni · Spam: krížik
+1956 Chyby: %d / 3
+1957 Prázdna schránka! Prvýkrát od roku 2019. Vychutnaj si to, dlho to nevydrží.
+1958 Schránka pretiekla! Server Komisie práve spadol. Zase.
+1959 Vyhodil si e-mail od predsedníčky a odpísal princovi. Stáva sa to aj najlepším.
+1960 Od roku 2024 musia mať nové telefóny predávané v EÚ port USB-C.
+1961 Pravda: smernica o univerzálnej nabíjačke platí od konca roka 2024.
+1962 EÚ zakazuje predávať príliš zakrivené banány.
+1963 Lož: nariadenie z roku 1994 triedilo banány podľa kvality. Zakrivené sa naďalej predávajú.
+1964 Európska vlajka má 12 hviezd, lebo bolo 12 členských štátov.
+1965 Lož: 12 je symbol dokonalosti. Vlajka pochádza z roku 1955, dávno pred 12 štátmi.
+1966 Európsky parlament zasadá jeden týždeň v mesiaci v Štrasburgu.
+1967 Pravda: 12 zasadnutí ročne v Štrasburgu, aj s kuframi, ktoré k tomu patria.
+1968 Európskych komisárov volia priamo občania.
+1969 Lož: navrhujú ich vlády a potom ich schvaľuje Parlament.
+1970 Európska únia má 24 úradných jazykov.
+1971 Pravda: od írčiny po maltčinu, všetky texty sa prekladajú do všetkých 24.
+1972 Všetky krajiny EÚ používajú euro.
+1973 Lož: v roku 2026 ho používa 21 krajín z 27. Najnovšie pribudlo Bulharsko.
+1974 Poplatky za mobilný roaming boli v EÚ zrušené v roku 2017.
+1975 Pravda: od júna 2017 voláš všade „ako doma“.
+1976 Európskou hymnou je Beethovenova Óda na radosť.
+1977 Pravda: bez oficiálneho textu, aby sa neurazil žiadny jazyk.
+1978 Luxembursko je najmenšia krajina EÚ.
+1979 Lož: je to Malta, približne 316 km².
+1980 Európska únia získala Nobelovu cenu mieru.
+1981 Pravda: v roku 2012, za 60 rokov mieru a zmierenia.
+1982 GDPR chráni osobné údaje od roku 2018.
+1983 Pravda: platí od 25. mája 2018. Odtiaľ všetky tie lišty s cookies…
+1984 Krivé uhorky sa v EÚ nesmú predávať.
+1985 Lož: norma o ich zakrivení bola zrušená v roku 2009.
+1986 Viečka musia zostať pripevnené k plastovým fľašiam.
+1987 Pravda: povinne od júla 2024, aby už nekončili v prírode.
+1988 Švajčiarsko je členom Európskej únie.
+1989 Lož: je v schengenskom priestore, ale nie v EÚ.
+1990 Európska centrálna banka sídli v Bruseli.
+1991 Lož: sídli vo Frankfurte v Nemecku.
+1992 Overovňa
+1993 Fámy o Európe sa šíria rýchlejšie ako smernice! Pri každom tvrdení ťukni na PRAVDA alebo LOŽ. Potrebuješ 7 správnych odpovedí z 10.
+1994 PRAVDA
+1995 LOŽ
+1996 Pravda alebo lož?
+1997 Otázka %d / 10
+1998 Správne!
+1999 Neskoro!
+2000 Vedľa!
+2001 Ťukni a pokračuj
+2002 Bravo! Všetky hoaxy sú vyvrátené. Fact-checkeri ťa chcú zamestnať.
+2003 Prekĺzlo príliš veľa hoaxov… Účet „PravaEuropa2027“ získal 10 000 sledovateľov.
+2004 Bulharčina
+2005 Čeština
+2006 Dánčina
+2007 Nemčina
+2008 Gréčtina
+2009 Angličtina
+2010 Španielčina
+2011 Estónčina
+2012 Fínčina
+2013 Francúzština
+2014 Írčina
+2015 Chorvátčina
+2016 Maďarčina
+2017 Taliančina
+2018 Litovčina
+2019 Lotyština
+2020 Maltčina
+2021 Holandčina
+2022 Poľština
+2023 Portugalčina
+2024 Rumunčina
+2025 Slovenčina
+2026 Slovinčina
+2027 Švédčina
+2028 Prekladateľská služba
+2029 Zo všetkých kútov Európy prichádzajú správy! Prečítaj každú a pošli ju do správnej prekladateľskej kabíny. 12 správ za 45 sekúnd. Chyba stojí 3 sekundy!
+2030 Prekladateľské kabíny
+2031 Pošli správu do správnej kabíny
+2032 Všetky správy dorazili, kam mali! GR pre preklad ti ponúka miesto. V 24 jazykoch.
+2033 Slovenská správa skončila u Slovincov… Diplomatický incident sa práve prekladá.
+2034 Energetická kríza! Ceny letia nahor.
+2035 Lockdown: nikto už nič nekupuje.
+2036 V noci schválili obrovský plán obnovy!
+2037 Krach na burze vo Frankfurte!
+2038 Nedostatok čipov!
+2039 Domácnosti šetria každý cent.
+2040 Riadiš ECB! Inflácia rastie? Zvýš sadzbu. Klesá? Zníž ju. Drž ju v zelenej zóne (okolo 2 %) aspoň polovicu času. 40 sekúnd!
+2041 Inflácia: %s
+2042 Sadzba: %s
+2043 Znížiť
+2044 Zvýšiť
+2046 Inflácia skrotená! Trhy tlieskajú, sporitelia spia pokojne.
+2047 Inflácia ti ušla… Káva v kantíne práve zdražela na dvojnásobok.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Univerzálna nabíjačka
+2053 Od roku 2024 je USB-C povinné! Ťukaj na zariadenia, ktoré majú ešte starý port, a uveď ich do súladu. Len nie tie s USB-C! 20 zariadení za 30 sekúnd.
+2054 Ťukaj na staré porty, nie USB-C!
+2055 Všetko v súlade! Jedna nabíjačka pre všetkých. Európske šuplíky s káblami si konečne vydýchli.
+2056 „Uviedol si do súladu“ zariadenie, ktoré už malo USB-C. Teraz má tri adaptéry.
+2057 Smernici ušlo priveľa starých káblov… Šuplík s káblami preteká.
+2058 Tvoj počítač. V rohu obrazovky bliká 437 neprečítaných e-mailov.
+2059 Pošta
+2060 Vypnúť
+2061 Vyskočí upozornenie: „Blahoželáme k vašej produktivite!“ Pod stolom na teba čakal balík.
+2062 Prázdna schránka. O tri sekundy neskôr: „Re: Koordinačná porada o poradách“.
+2063 Poštový server ukazuje presýpacie hodiny. Pravdepodobne ich bude ukazovať až do zajtra.
+2064 Počítač tlačového oddelenia. Na obrazovke svieti: „Overovňa – fámy na overenie: 2 384“.
+2065 Výborná overovacia práca! Tlačové oddelenie ti dáva tieto expertné správy. Tieto aspoň majú zdroje.
+2066 Všetky dnešné fámy sú overené. Do obeda prídu ďalšie.
+2067 Jeden hoax práve zdieľali 40 000-krát. Jeho vyvrátenie 12-krát.
+2068 Terminál GR pre preklad. Bliká červená kontrolka: „Správy čakajú na presmerovanie“.
+2069 Tlmočníci nestíhajú! Roztriedíš správy a pošleš ich do správnej kabíny?
+2070 Dvadsaťštyri jazykov a ani jedna chyba! Vezmi si tento adresár, sú v ňom všetci tlmočníci Súdneho dvora.
+2071 Rozoznáš slovinčinu od slovenčiny lepšie ako polovica Rady.
+2072 Maltská správa skončila v írskej kabíne. Ešte stále to tam riešia. Skús to znova, kedy chceš.
+2073 Terminál Bloomberg, ešte teplý. Na lístočku: „Cieľ: 2 %. Nie 1,9. Nie 2,1. 2.“
+2074 Prevziať riadenie menovej politiky eurozóny?
+2075 Trhy oceňujú tvoju opatrnosť. Na účet ti pristála prémia za stabilitu!
+2076 Inflácia na 2 %. Niekde vo Frankfurte ekonóm vyronil slzu šťastia.
+2077 Terminál ukazuje graf ako horskú dráhu. Nikto nič nevidel. Rýchlo to skús znova.
+2078 Počítač europoslankyne. Na stole spleť 14 rôznych nabíjačiek.
+2079 Hlasovala som za smernicu o USB-C! Lenže kolegovia majú stále staré zariadenia… Pomôžeš mi ich uviesť do súladu?
+2080 Jedna nabíjačka pre všetkých! Na, vezmi si tento kľúč USB-C. Vraj dokáže vyvinúť niektoré digitálne Euromony.
+2081 Šuplík s káblami je konečne prázdny. Neviem, čo doň teraz dávať.
+2082 Všade ešte zostali káble Lightning… Skúsime to znova, kedy budeš chcieť.
+2083 Zelená zóna: %d %%
+2084 Cieľ: polovicu času v zelenej
+2085 Dock 30

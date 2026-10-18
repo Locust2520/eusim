@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Debate multijogador
+2148	Criar sala
+2149	Entrar numa sala
+2150	Jogar com qualquer pessoa
+2151	Nome da sala
+2153	PIN (6 dígitos)
+2145	À espera de jogadores…
+2146	Pesquisa a cada 10 segundos.
+2147	PIN: %s
+2118	Cancelar (B)
+2117	Confirmar (A)
+2116	←→: posição    ↑↓: dígito
+2152	Introduz um nome de sala.
+2113	Resposta do servidor inválida.
+2135	Pedido de sala inválido.
+2136	Esse nome de sala já está em uso.
+2137	Sala não encontrada.
+2138	PIN incorreto.
+2139	Esta sala está cheia.
+2140	As versões do jogo são diferentes.
+2141	O servidor está cheio.
+2142	A sala expirou.
+2143	Troca de dados do debate inválida.
+2144	O servidor foi parado.
+2108	Debate cancelado.
+2109	O servidor não responde.
+2110	Ligação ao servidor interrompida.
+2111	O outro jogador saiu do debate.
+2115	Os debates não estão sincronizados.
+2114	À espera do outro jogador… B: cancelar
+2123	A ligar ao Wi-Fi… B: cancelar
+2124	Não foi possível iniciar o Wi-Fi.
+2125	Verifica as definições Wi-Fi da consola.
+2126	Não foi possível criar a ligação.
+2127	Não foi possível configurar a ligação.
+2128	Servidor inacessível.
+2129	Precisas de uma equipa para debater.

@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Mitmikmängu debatt
+2148	Loo tuba
+2149	Liitu toaga
+2150	Mängi ükskõik kellega
+2151	Toa nimi
+2153	PIN (6 numbrit)
+2145	Mängijate ootel…
+2146	Otsing iga 10 sekundi järel.
+2147	PIN: %s
+2118	Loobu (B)
+2117	Kinnita (A)
+2116	←→: asukoht    ↑↓: number
+2152	Sisesta toa nimi.
+2113	Vigane serveri vastus.
+2135	Vigane toapäring.
+2136	See toa nimi on juba kasutusel.
+2137	Tuba ei leitud.
+2138	Vale PIN.
+2139	See tuba on täis.
+2140	Mänguversioonid erinevad.
+2141	Server on täis.
+2142	Tuba on aegunud.
+2143	Vigane debati andmevahetus.
+2144	Server on peatatud.
+2108	Debatt tühistatud.
+2109	Server ei vasta.
+2110	Ühendus serveriga katkes.
+2111	Teine mängija lahkus debatist.
+2115	Debatid pole sünkroonis.
+2114	Teise mängija ootel… B: loobu
+2123	Wi-Fi ühendamine… B: loobu
+2124	Wi-Fi käivitamine ebaõnnestus.
+2125	Kontrolli konsooli Wi-Fi seadeid.
+2126	Ühenduse loomine ebaõnnestus.
+2127	Ühenduse seadistamine ebaõnnestus.
+2128	Server pole kättesaadav.
+2129	Debatiks on vaja meeskonda.

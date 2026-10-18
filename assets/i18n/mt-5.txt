@@ -1,0 +1,295 @@
+# Malti — completion
+541 Sur Dupont
+549 Nanna
+615 Membru Parlamentari Muller
+617 Membru Parlamentari Rossi
+1500 Badge ta' Aċċess
+1501 Jiftaħ il-bibien tal-Parlament. Kulur: trainee.
+1502 Badge OLAF
+1503 Iħallik tara l-assistenti fantażma.
+1504 Passaport Ewropew
+1505 Kulur Bordeaux, 32 paġna, il-fruntieri kollha jinfetħu.
+1506 Pass Interrail
+1507 Ivvjaġġa bil-ferrovija mal-Ewropa kollha.
+1508 Kit REPowerEU
+1509 Biex terġa' tixgħel it-tisħin meta jinqata' l-gass.
+1511 Flixkun prezzjuż. Ġie intaxxat żejjed minn 2024…
+1512 Karta tal-Kantina
+1513 Kreditu: €3.40. Biżżejjed għal kafè.
+1514 Direttiva tal-Ħin
+1515 Id-direttiva dwar it-tmiem tal-bidla fil-ħin (2019).
+1516 Bagalja mit-trasferiment Brussell–Strasburgu.
+1517 Kaxxa tal-Badges
+1518 Fiha l-badges tat-trattati.
+1519 Ej, il-ġdid! Hawn, kollox jiġi solvut b'dibattitu. Urini x'int tiswa!
+1520 Argh… Kelli nerġa' naqra n-noti tiegħi ta' sinteżi.
+1521 Ha! Erġa' lura għall-fotokopjatriċi!
+1522 Rival
+1523 Allura, {P}, nittestjaw l-Euromons tagħna? Mine is obviously better.
+1524 What?! Dik kienet xorti tajba!
+1525 Easy. Kif mistenni.
+1526 {P}! Diġà għandek badge? Ma jimpurtax, se nagħmlek tiddispjaċik.
+1527 Not again… Tajjeb, f'Frankfurt, int se tara.
+1528 Ha! Il-Lussemburgu jirnexxieli.
+1529 Għadni kemm żort il-BĊE. Fhimt kollox dwar il-politika monetarja. Kważi kollox.
+1530 Bloody hell… Tassew qed titjieb malajr, {P}.
+1531 Kif jgħidu fil-City: time is money.
+1532 {P}… dan huwa l-aħħar dibattitu tagħna. Wara, nirritorna Londra. Għal kollox. Ejja, one last time!
+1533 Good game, {P}. Mill-inqas, nitlaq bl-istil.
+1534 Qed nitlaq b'rebħa. Dik diġà xi ħaġa.
+1535 {P}! I'm back. Jiġifieri… qed nitlob biex nerġa' lura. Rejoin? Imma l-ewwel, dibattitu għall-unur!
+1536 Tajjeb. Qed nimla l-formola tas-sħubija. Fiha 35 kapitlu…
+1537 Ha! Mela toħroġ tagħmlek aqwa. Jew mhux.
+1538 Jien ukoll trainee! Mhux imħallsa, bħalek. Niddibattu, dak jikkonsla.
+1539 Tajjeb… nerġa' lura nagħmel il-fotokopji.
+1540 Halt! Il-formola tiegħek tal-mixi A-38 hija vvistata?
+1541 Tajjeb, se nivvistaha. Imma fi tliet kopji.
+1542 Bidwi
+1543 Il-PAK hija ħajti! U t-trattur tiegħi, hija l-familja tiegħi. Ejja, niddibattu!
+1544 Ikun hemm bżonn ngħid dan lis-sindikat…
+1545 Bankier Privat
+1546 Merħba fil-Lussemburgu. Diskrezzjoni assoluta. Dan id-dibattitu qatt ma seħħ.
+1547 Dan id-dibattitu definittivament qatt ma seħħ.
+1548 Espert Fiskali
+1549 Deċiżjoni fiskali? Nikteblek waħda f'ħames minuti. Imma l-ewwel, dibattitu.
+1550 L-arranġamenti fiskali tiegħi… waqgħu!
+1551 Champion tal-Arena
+1552 Ah, trainee żagħżugħ! Ejja, ejja, ħa nabbtlek il-ħadd. Imbagħad niddibattu, bħal fiż-żminijiet it-tajba tal-Eurogrupp.
+1553 Bravu! Tiddeserva l-Badge Deċiżjoni Fiskali. U dan, mhux kunfidenzjali!
+1554 Ejja, tagħmilx dik il-wiċċ, qed niċċajta… nofs.
+1555 Qed nagħmel il-Mosella bir-rota! U niddibatti bir-roaming, b'xejn!
+1556 Anke mingħajr spejjeż ta' roaming, tlift kollox.
+1557 Analista
+1558 Is-swieq qed jantiċipaw ir-rebħa tiegħi b'87%.
+1559 Is-swieq żbaljaw. Bħas-soltu.
+1560 Inbidar
+1561 Il-crémant tiegħi huwa AOP. L-Euromons tiegħi wkoll. Jew kważi.
+1562 Tajjeb, xorta noffrilek tazza.
+1563 Ixtri baxx, biegħ għoli, iddibatti qawwi!
+1564 Krach! Qbadt l-overdraft!
+1565 Skont il-mudell tiegħi, intom titilfu. Il-mudell tiegħi qatt ma jiżbalja. Ħlief fl-2008.
+1566 Ikolli nirrevedi t-tbassiriet tiegħi.
+1567 Champion tal-Arena
+1568 Merħba fil-Bank Ċentrali Ewropew. Hawn, niffissa r-rati… u r-ritmu tad-dibattitu. L-attakki tiegħi jiddependu fuq ir-rata ta' referenza tal-jum!
+1569 Formidabbli. Tiddeservu l-Badge Euro. U ma tinkwetawx: mhux hawn biex inbaxxi l-spread tagħkom.
+1570 L-istabbiltà tal-prezzijiet, hija wkoll l-istabbiltà tar-rebħiet.
+1571 Attivista tal-Klima
+1572 Kull dibattitu mitluf, huwa grad ieħor! Ejja!
+1573 Tajjeb, mill-inqas kien newtrali fil-karbonju.
+1574 Esklussiva! «Trainee jitlef b'mod tal-mistħija»!
+1575 Qed nibdel it-titlu: «Trainee jirbaħ tajjeb b'mod tal-mistħija».
+1576 Bidwi tad-Dwieli
+1577 Ir-Rhein huwa l-fruntiera? Le, hu l-inbid fuq iż-żewġ naħat! Nerfgħu t-tazzi wara d-dibattitu.
+1578 Saħħa b'danakollu!
+1579 Iddepożitajt 2,000 emenda din il-għodwa. L-ewwel waħda tikkonċernak.
+1580 L-emendi tiegħi ġew rrifjutati f'daqqa…
+1581 Is-sessjoni ssir fi Strasburgu, il-bagalji tagħna waslu, niddibattu!
+1582 Qed nerġa' lura Brussell. Bil-bagalji tiegħi.
+1583 Silenzju fil-kamra plenarja! Is-seduta hija miftuħa. Nagħti l-kelma lil… intom. Imbagħad nerġa' nieħu lura.
+1584 Adottat! Il-Badge Kamra Plenarja jingħatalkom b'maġġoranza assoluta.
+1585 Is-seduta hija magħluqa. Erġgħu lura għas-sessjoni li jmiss.
+1586 Id-dejn, huwa bħall-moussaka: jiddiġerixxi ħażin.
+1587 OXI għal din it-telfa!
+1588 Spezzjoni tal-kontijiet! L-Euromons tiegħek jonfqu wisq.
+1589 Rapport ta' spezzjoni: mhux favorevoli.
+1590 Il-Fond Monetarju Internazzjonali jirrikkmanda… it-telfa tiegħek.
+1591 Reviżjoni tat-tbassiriet tagħna: 'l isfel.
+1592 Wasalt bil-mutur, bla ratà. Bħal fl-2015 kontra l-Eurogrupp. Niddibattu, u nivvotaw: OXI jew NAI?
+1593 OXI… skużi, NAI: int rbaħt. Ħu l-Badge OXI, kumpanju.
+1594 Il-poplu kellem. U l-poplu, huwa jien.
+1595 Tabloid
+1596 L-EWWEL PAĠNA: «Brussell trid tipprojbixxi l-banana mgħawġa»! Huwa falz? Ma jimpurtax, ibigħ.
+1597 Għada fl-ewwel paġna: «Telfa storika».
+1598 Eks-Prim Ministru
+1599 Hello! Kont korrispondent f'Brussell, taf. Ktibt affarijiet… aktar jew inqas veri. Get debate done!
+1600 Crikey. Tajjeb, kelli artiklu ieħor dwar il-ħjar dritt, xorta waħda.
+1601 Mhux qed tidħqu aktar issa, hux? Merħba fil-pub. Dibattitu, pinta, u l-Artikolu 50.
+1602 Tajjeb. Ħu l-Badge Artikolu 50. Aħna, m'għandniex bżonnu aktar.
+1603 Take back control! Tad-dibattitu, tal-anqas.
+1604 Gwardjan tal-Fruntiera
+1605 Kontroll! L-Euromon tiegħek għandu viża?
+1606 Għaddi. Imma qed ninnutah.
+1607 Konsulent
+1608 Il-Prim Ministru ma jilqa' lil ħadd. Ħlief lil dawk li jegħlbuni. U dan qatt ma jiġri.
+1609 Dan għadu kemm ġara.
+1610 Trid il-qbil tiegħi? L-unanimità hija meħtieġa. U jien qatt ma naqbel. Attenzjoni: nista' nagħmel il-VETO tiegħi f'kull daqqa.
+1611 Tajjeb… Sejjer nieħu kafè. Sadanittant, ħu dan il-Badge Veto. Uffiċjalment, jien astjenejt.
+1612 Veto! Veto! U veto mill-ġdid!
+1613 Team Lobby
+1614 M'għandekx il-badge tal-aċċess tiegħek? Jaqbel, lanqas aħna.
+1615 Ikolli niddikjara din il-laqgħa fir-reġistru tat-trasparenza…
+1616 L-algoritmu tagħna bassar it-telfa tiegħek. Taċċetta l-cookies?
+1617 Żball 403: telfa.
+1618 Valiġġa żgħira għall-vot tiegħek? Le? Mela dibattitu.
+1619 Qatt ma tajt xejn lil ħadd. Innutaha.
+1620 Kap tat-Team Lobby
+1621 Merħba fil-qalb tal-poter, trainee. Hawn, ma niktbux il-liġijiet: aħna «nissuġġerixxuhom». U int, se tiffirma s-suġġestjoni tiegħi.
+1622 Impossibbli… Trainee sempliċi, mhux imħallas… għeleb il-lobby. Qed nirtira. Fis-settur privat. Ah, diġà hemm jien.
+1623 Grazzi għal din il-kontribuzzjoni lill-konsultazzjoni pubblika tagħna.
+1624 Avukat
+1625 Il-klijent tiegħi qed jikkontesta l-multa ta' 4.34 biljun. U dan id-dibattitu.
+1626 Se nagħmlu appell.
+1627 Ġurist
+1628 Abbuż ta' pożizzjoni dominanti? Jien? Jien biss dominanti.
+1629 Multa aċċettata…
+1630 Google, Apple… inżilt biljuni ta' multi. It-timm tiegħek jirrispetta r-regoli tal-kompetizzjoni? Ħa niċċekkjaw.
+1631 L-ebda abbuż ta' pożizzjoni dominanti ma nstab. Il-Badge Multa huwa tiegħek.
+1632 Multa! 4% tal-fatturat tiegħek.
+1633 Bouh… Naħdem hawn… minn 2009… jiġifieri, fuq il-karta…
+1634 Qed nerġa' lura… għall-kuntratt tiegħi… fittizju…
+1635 L-Ispirtu tal-Impjiegi Fittizji
+1636 JIEN… IS-SOMMA TA' KULL KUNTRATT LI QATT MA KELLU UFFIĊĊJU…
+1637 Is-slips tal-paga tiegħi… qed jisparixxu…
+1638 Gradwat tal-ENA
+1639 Mort l-ENA. Pardon, l-INSP. Fil-qosor, naf kollox.
+1640 Se nikteb nota dwar dan il-fjask.
+1641 Ministru
+1642 Jien ministru minn… dalgħodu. Niddibattu qabel il-bdil fil-kabinett li jmiss.
+1643 Bdul!
+1644 Merħba fis-Sorbonne! Hawn, tkellimt dwar Ewropa sovrana fl-2017… u fl-2024. Se nitkellem magħkom għal sagħtejn. U fl-istess ħin, niddibatti.
+1645 Formidabbli! Intom tinkarnaw l-awtonomija strateġika. Ħu l-Badge Sorbonne… u fl-istess ħin, il-kumplimenti tiegħi.
+1646 Qed nixxolja… it-timm tiegħek!
+1647 Kunsill Ewropew
+1648 Wir schaffen das. Flimkien, se naslu. Imma l-ewwel, trid tegħlibni. Ħu l-ħin tiegħek: għandi sittax-il sena esperjenza.
+1649 Irnexxilek. Wir haben es geschafft.
+1650 Nagħmel dak kollu li hemm bżonn biex nirbaħ dan id-dibattitu. Whatever it takes. U emmnuni: ikun biżżejjed.
+1651 Ir-rapport tiegħi rrakkomanda 800 biljun ta' investimenti fis-sena. Investihom fit-timm tiegħek.
+1652 Rappreżentant Għoli għall-Affarijiet Barranin. Id-diplomazija tiegħi hija soda. It-tarka Baltika tiegħi, ukoll.
+1653 Rebħa ċara. L-Ewropa se jkollha bżonn ta' nies bħalek quddiem il-bqija tad-dinja.
+1654 President tal-Kunsill Ewropew
+1655 Huma s-23:59. L-għan tiegħi: intemm dan is-summit qabel nofsillejl. Għall-ewwel darba fl-istorja!
+1656 Huma… l-4:37 ta' filgħodu. Bħas-soltu. Bravu, tistgħu titilgħu l-Berlaymont.
+1657 President tal-Kummissjoni
+1658 Merħba fit-tlettax-il sular tal-Berlaymont. Ngħix hawn, tafu: għandi kamra ħdejn l-uffiċċju tiegħi. Mela, ħa naraw jekk tiddeservux id-direttiva.
+1659 Team Europe… Intom l-aħjar trainee li l-Kummissjoni qatt kellha. Id-direttiva fuq il-ħin hija tagħkom!
+1660 Nibgħatlek SMS. Jew forsi le.
+1661 Viċi President
+1662 Ġejt Munich nispjegalek id-demokrazija. Issa, ġejt Antwerpen nispjegalek id-dibattitu.
+1663 Tajjeb. Nerġa' lura nikteb diskors.
+1664 President Amerikan
+1665 TREMENDOUS! L-isbaħ dibattitu ta' dejjem, kulħadd jgħidu. Qed inpoġġi 200% dazju fuq l-Euromons tiegħek. Forsi 15. Naraw.
+1666 KIEN IFFALSIFIKAT! Tajjeb… nagħmlu deal. 15%. Dan huwa l-aħħar kelma tiegħi. Għal-lum.
+1667 Rbaħt! Bħal dejjem! Ħadd ma jirbaħ aħjar minni.
+1668 President Russu
+1669 Oqgħod bilqiegħda. Le, aktar 'il bogħod. Saħansitra aktar 'il bogħod. Hemm. Fuq sitt metri, il-konversazzjoni hija aktar… strateġika. L-attakki tiegħek jieħdu daqqa oħra biex jaslu.
+1670 Il-gass… inqata'… min-naħa tiegħi. Interessanti.
+1671 Ix-xitwa ġejja. Għalik.
+1672 President Ċiniż
+1673 Merħba. Aħna sħab. U kompetituri. U rivali sistemiċi. Kollox jiddependi mid-daqqa.
+1674 Hmm. Sieħeb li jrid jiġi rispettat. Qed nirtira l-kontrolli fuq l-artijiet rari… għalissa.
+1675 Kontenut mhux disponibbli fir-reġjun tiegħek.
+1676 Summit G-Kollox
+1677 JIEN L-EWWEL. Is-summit, hija l-idea tiegħi. Jiġifieri, naħseb.
+1678 Sad!
+1679 Ippreferejt il-mejda t-twila.
+1680 L-aħħar kelma se tkun… sistemika.
+1681 Nerġgħu nitkellmu f'ħamsin sena.
+1682 Port ta' Antwerpen – Il-Green tal-Libertà
+1683 Ateni – Plaka
+1684 Berlaymont – it-13-il Sular
+1685 Ħanut – Ateni
+1686 Ħanut – Budapest
+1687 Ħanut – Brussell
+1688 Ħanut – Frankfurt
+1689 Ħanut – Londra
+1690 Ħanut – Lussemburgu
+1691 Ħanut – Pariġi
+1692 Ħanut – Strasburgu
+1693 Brussell – Il-Kwartier Ewropew
+1694 Budapest – Xtut tad-Danubju
+1695 Kantina – Ateni
+1696 Kantina – Budapest
+1697 Kantina – Brussell
+1698 Kantina – Frankfurt
+1699 Kantina – Londra
+1700 Kantina – Lussemburgu
+1701 Kantina – Pariġi
+1702 Kantina – Strasburgu
+1703 Qorti tal-Ġustizzja tal-UE
+1704 Bini Europa – Kunsill Ewropew
+1705 Frankfurt – Il-Kwartier tal-Banek
+1706 Stazzjon – Antwerpen
+1707 Stazzjon – Ateni
+1708 Stazzjon – Budapest
+1709 Stazzjon – Brussell-Lussemburgu
+1710 Stazzjon – Frankfurt
+1711 Stazzjon – Liżbona
+1712 Stazzjon – Londra
+1713 Stazzjon – Lussemburgu
+1714 Stazzjon – Maastricht
+1715 Stazzjon – Pariġi
+1716 Stazzjon – Ruma
+1717 Stazzjon – Strasburgu
+1718 Stazzjon – Varsavja
+1719 Arena ta' Ateni – Amfiteatru
+1720 Torri tal-BĊE – Sala tas-Swieq
+1721 Országház – Sala tal-Veto
+1722 DĠ Kompetizzjoni – Arena
+1723 Kamra Plenarja – Sessjoni Plenarja
+1724 The Brexit Arms – Pub-Arena
+1725 Arena tal-Lussemburgu – Sala tad-Deċiżjonijiet Fiskali
+1726 L-Amfiteatru Kbir tas-Sorbonne
+1727 Liżbona – Monasteru tal-Ġerolmini
+1728 Kwartieri Ġenerali tat-Team Lobby – Sotterran
+1729 Londra – Westminster
+1730 Lussemburgu – Kirchberg
+1731 Maastricht – Xtut tal-Meuse
+1732 Dar – Frankfurt
+1733 Dar – Lussemburgu
+1734 Dar – Strasburgu
+1735 Pariġi – Il-Kwartier Latin
+1736 Il-Parlament Ewropew – Hall
+1737 Port tal-Pireu – Terminal tal-Kontejners
+1738 Pjazza Lux – Il-Cocktail
+1739 Ruma – Il-Kapitolju
+1740 Triq 1 – Foresta tal-Ardennes
+1741 Triq 2 – Wied il-Mosella
+1742 Triq 3 – Dwieli tar-Rhein
+1743 Il-Palazz – Il-Mejda t-Twila
+1744 Schengen – Xtut tal-Mosella
+1745 Is-Summit «G-Kollox» – Sala Plenarja
+1746 Strasburgu – Il-Kwartier Ewropew
+1747 L-Istudio Tiegħek (Ixelles)
+1748 Il-Parlament – Il-Ġewnaħ Fantażma, l-Ewwel Sular
+1749 Il-Parlament – Il-Ġewnaħ Fantażma, it-Tieni Sular
+1750 Il-Parlament – Il-Ġewnaħ Fantażma, it-Tielet Sular
+1751 Varsavja – Il-Pjanura tal-Lvant
+1752 Dar – Maastricht
+1754 Skrin tat-Titlu
+1755 Il-Professur Schuman
+1756 Il-Laboratorju
+1758 L-Istudio Tiegħek
+1761 Il-Kantina
+1763 Il-Ħanut
+1764 L-Istazzjon
+1766 Fit-Triq
+1767 Taqbida: Euromon Selvaġġ
+1768 Ħarsa li Tiltaqa'
+1769 Taqbida: Trainer
+1771 Taqbida: Oliver
+1773 Rebħa
+1774 Rebħa (Selvaġġ)
+1775 Rebħa (Trainer)
+1776 Evoluzzjoni
+1778 L-Arena
+1780 Taqbida: Arena
+1782 Taqbida: Champion tal-Arena
+1784 Schengen
+1789 Saħħa, Oliver
+1791 It-Team Lobby
+1792 Taqbida: Boss
+1794 Il-Ġewnaħ Fantażma
+1797 Il-Kunsill Ewropew
+1799 Taqbida: Kunsill
+1802 Taqbida: il-President
+1804 Taqbida: il-Potenzi l-Kbar
+1807 Taqbida Finali
+1809 Postijiet Leġġendarji
+1810 Taqbida: Leġġendarju
+1812 Taqbida Finali (Varjant)
+1813 Juke-Box
+1814 %d mużika minn %d
+1815 Agħżel biċċa mużika.
+1816 JUKE-BOX
+1817 A: isma'    B: lura
+1818 Juke-box antik, skonnettjat. Tikketta: «Erġa' kkonnettjah wara l-ewwel badge tiegħek. — Is-servizz tekniku»

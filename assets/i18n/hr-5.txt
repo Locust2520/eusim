@@ -1,0 +1,39 @@
+# Croatian — completion
+1754 Naslovni zaslon
+1755 Profesor Schuman
+1756 Laboratorij
+1758 Tvoj studio
+1761 Kantina
+1763 Trgovina
+1764 Kolodvor
+1766 Na putu
+1767 Debata: divlji Euromon
+1768 Očni kontakt
+1769 Debata: trener
+1771 Debata: Oliver
+1773 Pobjeda
+1774 Pobjeda (divlji)
+1775 Pobjeda (trener)
+1776 Evolucija
+1778 Arena
+1780 Debata: arena
+1782 Debata: vođa arene
+1784 Schengen
+1789 Doviđenja, Oliver
+1791 Team Lobby
+1792 Debata: boss
+1794 Fantomsko krilo
+1797 Europsko vijeće
+1799 Debata: Vijeće
+1802 Debata: Predsjednica
+1804 Debata: Velike sile
+1807 Završna debata
+1809 Legendarna mjesta
+1810 Debata: legendarni
+1812 Završna debata (varijanta)
+1813 Jukebox
+1814 %d od %d pjesama
+1815 Odaberi pjesmu.
+1816 JUKEBOX
+1817 A: slušaj   B: natrag
+1818 Stari jukebox, iskopčan iz struje. Naljepnica: „Priključiti nakon prve značke. — Tehnička služba”

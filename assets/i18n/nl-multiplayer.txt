@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Multiplayerdebat
+2148	Kamer maken
+2149	Kamer binnengaan
+2150	Met iedereen spelen
+2151	Kamernaam
+2153	PIN (6 cijfers)
+2145	Wachten op spelers…
+2146	Elke 10 seconden zoeken.
+2147	PIN: %s
+2118	Annuleren (B)
+2117	Bevestigen (A)
+2116	←→: positie    ↑↓: cijfer
+2152	Voer een kamernaam in.
+2113	Ongeldig serverantwoord.
+2135	Ongeldig kamerverzoek.
+2136	Die kamernaam is al in gebruik.
+2137	Kamer niet gevonden.
+2138	Onjuiste PIN.
+2139	Deze kamer is vol.
+2140	De spelversies verschillen.
+2141	De server is vol.
+2142	De kamer is verlopen.
+2143	Ongeldige debatuitwisseling.
+2144	De server is gestopt.
+2108	Debat geannuleerd.
+2109	De server reageert niet.
+2110	Verbinding met de server verbroken.
+2111	De andere speler heeft het debat verlaten.
+2115	De debatten zijn niet gesynchroniseerd.
+2114	Wachten op de andere speler… B: annuleren
+2123	Verbinden met wifi… B: annuleren
+2124	Wifi kon niet worden gestart.
+2125	Controleer de wifi-instellingen van de console.
+2126	Verbinding kon niet worden gemaakt.
+2127	Verbinding kon niet worden ingesteld.
+2128	Server onbereikbaar.
+2129	Je hebt een team nodig voor een debat.

@@ -1,0 +1,157 @@
+# English — computer mini-games
+1928 Prince Mbeki III
+1929 4M€ Inheritance to Share
+1930 Diesel Lobby
+1931 Invitation: Lobster Dinner
+1932 HR Department
+1933 Coordination Meeting About Meetings
+1934 SuperPromo
+1935 Your Free Phone Is Waiting
+1936 Qatar Events
+1937 A Little Suitcase For You?
+1938 SecureBank
+1939 Confirm Your Password Here
+1940 Newsletter
+1941 47 Exciting GDPR Updates
+1942 Plenary Agenda
+1943 Mum
+1944 Are You Eating Well in Brussels?
+1945 Canteen
+1946 Today's Menu: Waterzooi
+1947 Court Registry
+1948 Ruling Must Be Notified by Noon
+1949 Commission
+1950 Budget Vote Tomorrow
+1951 Your Eurodex Has Been Updated
+1952 Debate Tonight? I'm Going to Win.
+1953 Inbox
+1954 437 unread emails! Tap a real email to read it, and the red cross to bin spam. Clear 20 before the inbox overflows!
+1955 Read: tap · Spam: red cross
+1956 Mistakes: %d / 3
+1957 Empty inbox! First time since 2019. Enjoy it, it won't last.
+1958 Inbox overflowing! The Commission's server just crashed. Again.
+1959 You binned the President's email and replied to the prince. Happens to the best of us.
+1960 Since 2024, new phones sold in the EU must have a USB-C port.
+1961 True: the universal charger directive has applied since late 2024.
+1962 The EU bans selling bananas that are too curved.
+1963 False: a 1994 regulation classified bananas by quality. Curved ones are still sold.
+1964 The European flag has 12 stars because there were 12 member states.
+1965 False: 12 is a symbol of perfection. The flag dates from 1955, long before there were 12 members.
+1966 The European Parliament sits one week a month in Strasbourg.
+1967 True: 12 sessions a year in Strasbourg, trunks included.
+1968 European commissioners are elected directly by citizens.
+1969 False: they're nominated by governments, then approved by Parliament.
+1970 The European Union has 24 official languages.
+1971 True: from Irish to Maltese, every text is translated into all 24.
+1972 All EU countries use the euro.
+1973 False: in 2026, 21 out of 27 countries use it. Bulgaria is the latest to join.
+1974 Mobile roaming charges were abolished in the EU in 2017.
+1975 True: since June 2017, it's "roam like at home" everywhere.
+1976 The European anthem is Beethoven's Ode to Joy.
+1977 True: with no official lyrics, so as not to upset any language.
+1978 Luxembourg is the smallest EU country.
+1979 False: that's Malta, about 316 km².
+1980 The European Union received the Nobel Peace Prize.
+1981 True: in 2012, for 60 years of peace and reconciliation.
+1982 GDPR has protected personal data since 2018.
+1983 True: it's applied since 25 May 2018. Hence the cookie banners…
+1984 Crooked cucumbers are banned from sale in the EU.
+1985 False: the standard on their curvature was scrapped in 2009.
+1986 Caps must stay attached to plastic bottles.
+1987 True: mandatory since July 2024, so they stop ending up in nature.
+1988 Switzerland is a member of the European Union.
+1989 False: it's in the Schengen Area, but not in the EU.
+1990 The European Central Bank is headquartered in Brussels.
+1991 False: it's in Frankfurt, Germany.
+1992 Fact Check
+1993 Rumours about Europe spread faster than directives! For each statement, tap TRUE or FALSE. You need 7 correct answers out of 10.
+1994 TRUE
+1995 FALSE
+1996 True or false?
+1997 Question %d / 10
+1998 Correct!
+1999 Too late!
+2000 Wrong!
+2001 Tap to continue
+2002 Well done! Every piece of fake news is debunked. The fact-checkers want to hire you.
+2003 Too much fake news got through… The account "RealEurope2027" gains 10,000 followers.
+2004 Bulgarian
+2005 Czech
+2006 Danish
+2007 German
+2008 Greek
+2009 English
+2010 Spanish
+2011 Estonian
+2012 Finnish
+2013 French
+2014 Irish
+2015 Croatian
+2016 Hungarian
+2017 Italian
+2018 Lithuanian
+2019 Latvian
+2020 Maltese
+2021 Dutch
+2022 Polish
+2023 Portuguese
+2024 Romanian
+2025 Slovak
+2026 Slovenian
+2027 Swedish
+2028 Translation Service
+2029 Messages are arriving from all over Europe! Read each one and send it to the right translation booth. 12 messages in 45 seconds. A mistake costs 3 seconds!
+2030 Translation Booths
+2031 Send the message to the right booth
+2032 Every message got where it belonged! DG Translation offers you a job. In 24 languages.
+2033 A Slovak message went to the Slovenian booth… The diplomatic incident is being translated.
+2034 Energy crisis! Prices are soaring.
+2035 Lockdown: nobody's buying anything anymore.
+2036 Giant recovery plan passed overnight!
+2037 Stock market crash in Frankfurt!
+2038 Computer chip shortage!
+2039 Households are saving every penny.
+2040 You're running the ECB! Inflation rising? Raise the rate. Falling? Lower it. Keep it in the green zone (around 2%) at least half the time. 40 seconds!
+2041 Inflation: %s
+2042 Rate: %s
+2043 Lower
+2044 Raise
+2046 Inflation under control! Markets applaud, savers sleep soundly.
+2047 Inflation got away from you… The canteen coffee just doubled in price.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Universal Charger
+2053 Since 2024, USB-C is mandatory! Tap the devices that still have an old port to bring them up to code. Not the USB-C ones! 20 devices in 30 seconds.
+2054 Tap old ports, not USB-C!
+2055 All compliant! One charger for everyone. Europe's cable drawers can breathe again.
+2056 You "brought into compliance" a device that was already USB-C. It now has three adapters.
+2057 Too many old cables escaped the directive… The cable drawer is overflowing.
+2058 Your computer. 437 unread emails blink in the corner of the screen.
+2059 Mailbox
+2060 Shut Down
+2061 A notification pops up: "Congratulations on your productivity!" A parcel was waiting under the desk.
+2062 Empty inbox. Three seconds later: "Re: Coordination Meeting About Meetings".
+2063 The mail server shows a loading icon. It'll probably still be showing it tomorrow.
+2064 A press office computer. The screen reads: "Fact Check Unit – rumours to verify: 2,384".
+2065 Great fact-checking work! The press office gives you these expert reports. Sourced, for once.
+2066 All today's rumours are checked. More will arrive by lunchtime.
+2067 A piece of fake news was just shared 40,000 times. The correction, 12 times.
+2068 The DG Translation terminal. A red light is blinking: "Messages awaiting routing".
+2069 The interpreters are swamped! Can you sort the messages and send them to the right booth?
+2070 Twenty-four languages, no routing errors! Take this address book, every interpreter at the Court is in it.
+2071 You can tell Slovenian from Slovak better than half the Council.
+2072 A Maltese message arrived in the Irish booth. They're still discussing it. Try again whenever you like.
+2073 A Bloomberg terminal, still warm. On a sticky note: "Target: 2%. Not 1.9. Not 2.1. 2."
+2074 Take charge of the eurozone's monetary policy?
+2075 The markets applaud your caution. A stability bonus lands in your account!
+2076 Inflation at 2%. Somewhere in Frankfurt, an economist sheds a tear of joy.
+2077 The terminal shows a rollercoaster-shaped graph. Nobody saw anything. Start again quickly.
+2078 The MEP's computer. On the desk, a tangle of 14 different chargers.
+2079 I voted for the USB-C directive! But my colleagues still have old devices… Can you help me bring them up to code?
+2080 One charger for everyone! Here, take this USB-C stick. Apparently it evolves certain digital Euromon.
+2081 The cable drawer is finally empty. I don't know what to put in it anymore.
+2082 There are still Lightning cables everywhere… Try again whenever you like.
+2083 Green zone: %d %%
+2084 Goal: stay in the green half the time
+2085 Dock 30

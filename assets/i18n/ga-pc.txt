@@ -1,0 +1,157 @@
+# Irish — computer mini-games
+1928 Prince Mbeki III
+1929 Oidhreacht 4 M€ le roinnt
+1930 Stocaireacht an díosail
+1931 Cuireadh: dinnéar gliomach
+1932 Acmhainní Daonna
+1933 Cruinniú comhordaithe faoi chruinnithe
+1934 SuperPromo
+1935 Tá do ghuthán saor in aisce ag fanacht leat
+1936 Qatar Events
+1937 Mála beag duit?
+1938 Banc Slándála
+1939 Deimhnigh do phasfhocal anseo
+1940 Newsletter
+1941 47 nuacht spreagúla faoin RGCS
+1942 Clár oibre an tseisiúin iomlánaigh
+1943 Mam
+1944 An bhfuil tú ag ithe go maith sa Bhruiséil?
+1945 Ceaintín
+1946 Biachlár an lae: waterzooi
+1947 Clárlann na Cúirte
+1948 Breithiúnas le fógairt roimh mheán lae
+1949 Coimisiún
+1950 Vóta ar an mbuiséad amárach
+1951 Nuashonraíodh d'Eurodex
+1952 Díospóireacht anocht? Buafaidh mise.
+1953 Bosca isteach
+1954 437 ríomhphost gan léamh! Tapáil ríomhphost fíor chun é a léamh, agus an chros dhearg chun turscar a chaitheamh amach. Láimhseáil 20 sula gcuirfidh an bosca thar maoil!
+1955 Léigh: tapáil · Turscar: cros
+1956 Earráidí: %d / 3
+1957 Bosca folamh! Den chéad uair ó 2019. Bain sult as, ní mhairfidh sé.
+1958 Tá an bosca ag cur thar maoil! Thit freastalaí an Choimisiúin as a chéile. Arís.
+1959 Chaith tú ríomhphost na hUachtaráine amach agus d'fhreagair tú an prionsa. Tarlaíonn sé do na daoine is fearr.
+1960 Ó 2024, caithfidh port USB-C a bheith ar gach guthán nua a dhíoltar san AE.
+1961 Fíor: tá an treoir maidir le luchtaire uilíoch i bhfeidhm ó dheireadh 2024.
+1962 Cuireann an AE cosc ar bhananaí rócham a dhíol.
+1963 Bréagach: rinne rialachán ó 1994 bananaí a ghrádú de réir cáilíochta. Tá na cinn cham fós ar díol.
+1964 Tá 12 réalta ar bhratach na hEorpa mar go raibh 12 bhallstát ann.
+1965 Bréagach: is siombail na foirfeachta é 12. Is ó 1955 an bhratach, i bhfad roimh na 12 thír.
+1966 Suíonn Parlaimint na hEorpa i Strasbourg seachtain amháin sa mhí.
+1967 Fíor: 12 sheisiún sa bhliain i Strasbourg, agus na trunciaí ar fad in éineacht leo.
+1968 Toghann na saoránaigh Coimisinéirí na hEorpa go díreach.
+1969 Bréagach: molann na rialtais iad agus ansin faomhann an Pharlaimint iad.
+1970 Tá 24 theanga oifigiúla ag an Aontas Eorpach.
+1971 Fíor: ón nGaeilge go dtí an Mháltais, aistrítear gach téacs go dtí na 24 ar fad.
+1972 Úsáideann gach tír san AE an euro.
+1973 Bréagach: in 2026, úsáideann 21 thír as 27 é. Is í an Bhulgáir an ceann is déanaí.
+1974 Cuireadh deireadh le táillí fánaíochta móibílí san AE in 2017.
+1975 Fíor: ó Mheitheamh 2017, glaonn tú i ngach áit "mar a bheifeá sa bhaile".
+1976 Is é "Óid don Áthas" le Beethoven an t-amhrán Eorpach.
+1977 Fíor: gan focail oifigiúla, ionas nach gcuirfí olc ar aon teanga.
+1978 Is é Lucsamburg an tír is lú san AE.
+1979 Bréagach: is í Málta í, timpeall 316 km².
+1980 Bhuaigh an tAontas Eorpach Duais Nobel na Síochána.
+1981 Fíor: in 2012, as 60 bliain de shíocháin agus d'athmhuintearas.
+1982 Cosnaíonn an RGCS sonraí pearsanta ó 2018.
+1983 Fíor: tá sé i bhfeidhm ón 25 Bealtaine 2018. Sin é an fáth leis na bratacha fianán…
+1984 Tá cosc ar chúcamair cham a dhíol san AE.
+1985 Bréagach: cuireadh deireadh leis an gcaighdeán maidir lena gcuar in 2009.
+1986 Caithfidh na caipíní fanacht ceangailte de na buidéil phlaisteacha.
+1987 Fíor: éigeantach ó Iúil 2024, ionas nach gcríochnóidh siad sa nádúr níos mó.
+1988 Tá an Eilvéis ina ball den Aontas Eorpach.
+1989 Bréagach: tá sí i limistéar Schengen, ach ní san AE.
+1990 Tá ceanncheathrú an Bhainc Ceannais Eorpaigh sa Bhruiséil.
+1991 Bréagach: tá sé i Frankfurt, sa Ghearmáin.
+1992 Bréagnuacht
+1993 Scaipeann ráflaí faoin Eoraip níos tapúla ná treoracha! Do gach ráiteas, tapáil FÍOR nó BRÉAGACH. Teastaíonn 7 bhfreagra cheart as 10.
+1994 FÍOR
+1995 BRÉAGACH
+1996 Fíor nó bréagach?
+1997 Ceist %d / 10
+1998 Freagra ceart!
+1999 Ró-dhéanach!
+2000 Mícheart!
+2001 Tapáil chun leanúint ar aghaidh
+2002 Maith thú! Bréagnaíodh na bréaga sin go léir. Ba mhaith leis na seiceálaithe fíricí tú a earcú.
+2003 Scaipeadh an iomarca bréagnuachta… Faigheann an cuntas "FíorEoraip2027" 10 000 leantóir.
+2004 Bulgáiris
+2005 Seicis
+2006 Danmhairgis
+2007 Gearmáinis
+2008 Gréigis
+2009 Béarla
+2010 Spáinnis
+2011 Eastóinis
+2012 Fionlainnis
+2013 Fraincis
+2014 Gaeilge
+2015 Cróitis
+2016 Ungáiris
+2017 Iodáilis
+2018 Liotuáinis
+2019 Laitvis
+2020 Máltais
+2021 Ollainnis
+2022 Polainnis
+2023 Portaingéilis
+2024 Rómáinis
+2025 Slóvaicis
+2026 Slóivéinis
+2027 Sualainnis
+2028 Seirbhís aistriúcháin
+2029 Tá teachtaireachtaí ag teacht ó gach cearn den Eoraip! Léigh gach ceann agus seol é chuig an mboth aistriúcháin cheart. 12 theachtaireacht in 45 soicind. Cosnaíonn botún 3 shoicind!
+2030 Bothanna aistriúcháin
+2031 Seol chuig an mboth cheart
+2032 Shroich gach teachtaireacht a ceann scríbe! Tá post á thairiscint ag an AS Aistriúcháin duit. I 24 theanga.
+2033 Chuaigh teachtaireacht Shlóvaicise chuig na Slóivéinigh… Tá an eachtra taidhleoireachta á haistriú faoi láthair.
+2034 Géarchéim fuinnimh! Tá na praghsanna ag dul sa spéir.
+2035 Dianghlasáil: níl aon duine ag ceannach faic.
+2036 Plean téarnaimh ollmhór vótáilte aréir!
+2037 Tuairteáil stocmhargaidh i Frankfurt!
+2038 Ganntanas sliseanna!
+2039 Tá teaghlaigh ag sábháil a gcuid airgid ar fad.
+2040 Is tú Uachtarán an BCE! Boilsciú ag ardú? Ardaigh an ráta. Ag titim? Ísligh é. Coinnigh sa chrios glas é (thart ar 2 %) leath an ama ar a laghad. 40 soicind!
+2041 Boilsciú: %s
+2042 Ráta: %s
+2043 Ísligh
+2044 Ardaigh
+2046 Boilsciú faoi smacht! Tá na margaí ag bualadh bos, tá na coigilteoirí ina gcodladh go sámh.
+2047 D'éalaigh an boilsciú uait… Tá praghas an chaife sa cheaintín díreach dúbailte.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Luchtaire uilíoch
+2053 Ó 2024, tá USB-C éigeantach! Tapáil na gléasanna a bhfuil seanphort fós orthu chun iad a chur i gcomhréir. Ná déan é leo siúd le USB-C! 20 gléas in 30 soicind.
+2054 Seanphoirt amháin, ní USB-C!
+2055 Gach rud i gcomhréir! Luchtaire amháin do chách. Tá tarraiceáin chábla na hEorpa ag análú arís.
+2056 "Chuir tú i gcomhréir" gléas a raibh USB-C air cheana. Tá trí chuibheoir air anois.
+2057 D'éalaigh an iomarca seanchábla ón treoir… Tá an tarraiceán cábla ag cur thar maoil.
+2058 Do ríomhaire. Tá 437 ríomhphost gan léamh ag preabadh i gcúinne an scáileáin.
+2059 Ríomhphost
+2060 Múch
+2061 Tagann fógra aníos: "Comhghairdeas as do tháirgiúlacht!" Bhí beart ag fanacht leat faoin deasc.
+2062 Bosca folamh. Trí shoicind ina dhiaidh sin: "Fr: Cruinniú comhordaithe faoi chruinnithe".
+2063 Taispeánann an freastalaí ríomhphoist orláiste gainimh. Is dócha go dtaispeánfaidh go dtí amárach.
+2064 Ríomhaire na seirbhíse preasa. Ar an scáileán: "Aonad Bréagnuachta – ráflaí le seiceáil: 2 384".
+2065 Obair sheiceála den scoth! Tugann an tseirbhís preasa na tuarascálacha saineolaithe seo duit. Le foinsí, ar a laghad.
+2066 Tá ráflaí uile an lae seiceáilte. Beidh tuilleadh ann roimh am lóin.
+2067 Roinneadh bréag 40 000 uair díreach anois. An bréagnú? 12 uair.
+2068 Teirminéal an AS Aistriúcháin. Solas dearg ag preabadh: "Teachtaireachtaí ag fanacht le ródú".
+2069 Tá na hateangairí báite le hobair! An féidir leat na teachtaireachtaí a shórtáil agus iad a sheoladh chuig an mboth cheart?
+2070 Ceithre theanga is fiche, gan botún ródaithe ar bith! Tóg an leabhar seoltaí seo, tá ateangairí uile na Cúirte ann.
+2071 Aithníonn tú an tSlóivéinis ón tSlóvaicis níos fearr ná leath na Comhairle.
+2072 Shroich teachtaireacht Mháltaise an bhoth Ghaeilge. Tá siad fós á plé. Bain triail eile as uair ar bith.
+2073 Teirminéal Bloomberg, fós te. Ar nóta greamaitheach: "Sprioc: 2 %. Ní 1,9. Ní 2,1. 2."
+2074 Smacht a ghlacadh ar bheartas airgeadaíochta limistéar an euro?
+2075 Molann na margaí do stuamacht. Tá bónas cobhsaíochta ag teacht isteach i do chuntas!
+2076 Boilsciú ag 2 %. Áit éigin i Frankfurt, tá eacnamaí ag sileadh deoir áthais.
+2077 Taispeánann an teirminéal graf cosúil le rollchóstóir. Ní fhaca aon duine faic. Bain triail eile as go tapa.
+2078 Ríomhaire an FPE. Ar an deasc, mearbhall de 14 luchtaire éagsúla.
+2079 Vótáil mé ar son na treorach USB-C! Ach tá seanghléasanna fós ag mo chomhghleacaithe… An gcabhróidh tú liom iad a chur i gcomhréir?
+2080 Luchtaire amháin do chách! Seo, tóg an eochair USB-C seo. Deirtear go gcuireann sí roinnt Euromonnaí digiteacha ag éabhlóidiú.
+2081 Tá an tarraiceán cábla folamh faoi dheireadh. Níl a fhios agam cad a chuirfidh mé ann anois.
+2082 Tá cáblaí Lightning i ngach áit fós… Bainfimid triail eile as uair ar bith.
+2083 Crios glas: %d %%
+2084 Sprioc: leath an ama sa ghlas
+2085 Dock 30

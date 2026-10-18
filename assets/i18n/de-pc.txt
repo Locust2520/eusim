@@ -1,0 +1,157 @@
+# Deutsch — computer mini-games
+1928 Prince Mbeki III
+1929 Erbschaft von 4 Mio. € zu teilen
+1930 Diesel-Lobby
+1931 Einladung: Hummer-Dinner
+1932 Personalabteilung
+1933 Koordinierungssitzung zu den Sitzungen
+1934 SuperPromo
+1935 Dein Gratis-Handy wartet
+1936 Qatar Events
+1937 Ein kleiner Koffer für dich?
+1938 SicherBank
+1939 Bestätige hier dein Passwort
+1940 Newsletter
+1941 47 spannende DSGVO-Neuigkeiten
+1942 Tagesordnung der Plenarsitzung
+1943 Mama
+1944 Isst du gut in Brüssel?
+1945 Kantine
+1946 Tagesmenü: Waterzooi
+1947 Kanzlei des Gerichtshofs
+1948 Urteil bis Mittag zuzustellen
+1949 Kommission
+1950 Haushaltsabstimmung morgen
+1951 Dein Eurodex wurde aktualisiert
+1952 Debatte heute Abend? Ich gewinne.
+1953 Posteingang
+1954 437 ungelesene E-Mails! Tippe eine echte E-Mail an, um sie zu lesen, und das rote Kreuz, um Spam zu löschen. Erledige 20, bevor der Posteingang überläuft!
+1955 Lesen: tippen · Spam: rotes Kreuz
+1956 Fehler: %d / 3
+1957 Leerer Posteingang! Zum ersten Mal seit 2019. Genieß es, es hält nicht an.
+1958 Der Posteingang läuft über! Der Server der Kommission ist gerade abgestürzt. Schon wieder.
+1959 Du hast die E-Mail der Präsidentin gelöscht und dem Prinzen geantwortet. Passiert den Besten.
+1960 Seit 2024 müssen neue, in der EU verkaufte Handys einen USB-C-Anschluss haben.
+1961 Wahr: Die Richtlinie zum einheitlichen Ladegerät gilt seit Ende 2024.
+1962 Die EU verbietet den Verkauf von zu stark gekrümmten Bananen.
+1963 Falsch: Eine Verordnung von 1994 teilte Bananen in Qualitätsklassen ein. Gekrümmte werden weiterhin verkauft.
+1964 Die Europafahne hat 12 Sterne, weil es 12 Mitgliedstaaten gab.
+1965 Falsch: 12 ist ein Symbol der Vollkommenheit. Die Flagge stammt von 1955, lange vor den 12 Mitgliedstaaten.
+1966 Das Europäische Parlament tagt eine Woche im Monat in Straßburg.
+1967 Wahr: 12 Sitzungen pro Jahr in Straßburg, samt Koffern.
+1968 Die EU-Kommissare werden direkt von den Bürgern gewählt.
+1969 Falsch: Sie werden von den Regierungen vorgeschlagen und dann vom Parlament bestätigt.
+1970 Die Europäische Union hat 24 Amtssprachen.
+1971 Wahr: Vom Irischen bis zum Maltesischen werden alle Texte in alle 24 übersetzt.
+1972 Alle EU-Länder nutzen den Euro.
+1973 Falsch: 2026 nutzen ihn 21 von 27 Ländern. Bulgarien ist zuletzt dazugekommen.
+1974 Die Roaming-Gebühren wurden 2017 in der EU abgeschafft.
+1975 Wahr: Seit Juni 2017 telefoniert man überall "wie zu Hause".
+1976 Die Europahymne ist die Ode an die Freude von Beethoven.
+1977 Wahr: Ohne offiziellen Text, damit keine Sprache verärgert wird.
+1978 Luxemburg ist das kleinste Land der EU.
+1979 Falsch: Das ist Malta, etwa 316 km².
+1980 Die Europäische Union hat den Friedensnobelpreis erhalten.
+1981 Wahr: 2012, für 60 Jahre Frieden und Versöhnung.
+1982 Die DSGVO schützt personenbezogene Daten seit 2018.
+1983 Wahr: Sie gilt seit dem 25. Mai 2018. Daher die Cookie-Banner…
+1984 Krumme Gurken sind in der EU vom Verkauf ausgeschlossen.
+1985 Falsch: Die Norm zu ihrer Krümmung wurde 2009 abgeschafft.
+1986 Verschlüsse müssen an Plastikflaschen befestigt bleiben.
+1987 Wahr: Seit Juli 2024 vorgeschrieben, damit sie nicht mehr in der Natur landen.
+1988 Die Schweiz ist Mitglied der Europäischen Union.
+1989 Falsch: Sie ist im Schengen-Raum, aber nicht in der EU.
+1990 Die Europäische Zentralbank hat ihren Sitz in Brüssel.
+1991 Falsch: Sie sitzt in Frankfurt, Deutschland.
+1992 Faktencheck
+1993 Gerüchte über Europa verbreiten sich schneller als Richtlinien! Tippe bei jeder Aussage auf WAHR oder FALSCH. Du brauchst 7 richtige Antworten von 10.
+1994 WAHR
+1995 FALSCH
+1996 Wahr oder falsch?
+1997 Frage %d / 10
+1998 Richtig!
+1999 Zu spät!
+2000 Falsch!
+2001 Tippen, um weiterzumachen
+2002 Bravo! Alle Falschmeldungen sind entlarvt. Die Faktenchecker wollen dich einstellen.
+2003 Zu viele Falschmeldungen sind durchgekommen… Das Konto "WahresEuropa2027" gewinnt 10.000 Follower.
+2004 Bulgarisch
+2005 Tschechisch
+2006 Dänisch
+2007 Deutsch
+2008 Griechisch
+2009 Englisch
+2010 Spanisch
+2011 Estnisch
+2012 Finnisch
+2013 Französisch
+2014 Irisch
+2015 Kroatisch
+2016 Ungarisch
+2017 Italienisch
+2018 Litauisch
+2019 Lettisch
+2020 Maltesisch
+2021 Niederländisch
+2022 Polnisch
+2023 Portugiesisch
+2024 Rumänisch
+2025 Slowakisch
+2026 Slowenisch
+2027 Schwedisch
+2028 Übersetzungsdienst
+2029 Nachrichten kommen aus ganz Europa! Lies jede und schick sie an die richtige Dolmetschkabine. 12 Nachrichten in 45 Sekunden. Ein Fehler kostet 3 Sekunden!
+2030 Dolmetschkabinen
+2031 Schick die Nachricht in die richtige Kabine
+2032 Alle Nachrichten sind richtig angekommen! Die GD Übersetzung bietet dir eine Stelle an. In 24 Sprachen.
+2033 Eine slowakische Nachricht ging an die slowenische Kabine… Der diplomatische Zwischenfall wird gerade übersetzt.
+2034 Energiekrise! Die Preise explodieren.
+2035 Lockdown: Niemand kauft mehr irgendetwas.
+2036 Riesiges Konjunkturpaket über Nacht verabschiedet!
+2037 Börsencrash in Frankfurt!
+2038 Chipmangel!
+2039 Die Haushalte sparen ihr ganzes Geld.
+2040 Du leitest die EZB! Steigt die Inflation? Erhöhe den Leitzins. Fällt sie? Senke ihn. Halte sie mindestens die Hälfte der Zeit in der grünen Zone (um die 2 %). 40 Sekunden!
+2041 Inflation: %s
+2042 Leitzins: %s
+2043 Senken
+2044 Erhöhen
+2046 Inflation unter Kontrolle! Die Märkte applaudieren, die Sparer schlafen ruhig.
+2047 Die Inflation ist dir entglitten… Der Kaffee in der Kantine hat sich gerade verdoppelt.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Einheitsladegerät
+2053 Seit 2024 ist USB-C Pflicht! Tippe die Geräte an, die noch einen alten Anschluss haben, um sie konform zu machen. Bloß nicht die mit USB-C! 20 Geräte in 30 Sekunden.
+2054 Tippe alte Anschlüsse an, nicht USB-C!
+2055 Alle konform! Ein Ladegerät für alle. Europas Kabelschubladen können aufatmen.
+2056 Du hast ein Gerät "konform gemacht", das schon USB-C hatte. Es hat jetzt drei Adapter.
+2057 Zu viele alte Kabel sind der Richtlinie entwischt… Die Kabelschublade läuft über.
+2058 Dein Computer. 437 ungelesene E-Mails blinken in der Ecke des Bildschirms.
+2059 Posteingang
+2060 Ausschalten
+2061 Eine Benachrichtigung erscheint: "Glückwunsch zu deiner Produktivität!" Ein Paket wartete unter dem Schreibtisch.
+2062 Leerer Posteingang. Drei Sekunden später: "Re: Koordinierungssitzung zu den Sitzungen".
+2063 Der Mailserver zeigt eine Sanduhr. Die wird vermutlich bis morgen zu sehen sein.
+2064 Ein Computer der Pressestelle. Auf dem Bildschirm steht: "Faktencheck-Einheit – zu prüfende Gerüchte: 2.384".
+2065 Gute Überprüfungsarbeit! Die Pressestelle schenkt dir diese Expertenberichte. Diesmal mit Quellen.
+2066 Alle Gerüchte des Tages sind geprüft. Bis zum Mittagessen kommen neue.
+2067 Eine Falschmeldung wurde gerade 40.000-mal geteilt. Die Richtigstellung 12-mal.
+2068 Das Terminal der GD Übersetzung. Ein rotes Licht blinkt: "Nachrichten warten auf Weiterleitung".
+2069 Die Dolmetscher sind überlastet! Kannst du die Nachrichten sortieren und an die richtige Kabine schicken?
+2070 Vierundzwanzig Sprachen, keine Weiterleitungsfehler! Nimm dieses Adressbuch, alle Dolmetscher des Gerichtshofs stehen drin.
+2071 Du erkennst Slowenisch besser von Slowakisch als die Hälfte des Rates.
+2072 Eine maltesische Nachricht ist in der irischen Kabine gelandet. Sie diskutieren noch darüber. Versuch's, wann du willst.
+2073 Ein Bloomberg-Terminal, noch warm. Auf einem Klebezettel: "Ziel: 2 %. Nicht 1,9. Nicht 2,1. 2."
+2074 Die Geldpolitik der Eurozone übernehmen?
+2075 Die Märkte loben deine Vorsicht. Ein Stabilitätsbonus landet auf deinem Konto!
+2076 Inflation bei 2 %. Irgendwo in Frankfurt vergießt ein Ökonom eine Freudenträne.
+2077 Das Terminal zeigt eine Achterbahn-Grafik. Niemand hat irgendetwas gesehen. Versuch's schnell noch mal.
+2078 Der Computer der Europaabgeordneten. Auf dem Schreibtisch ein Gewirr aus 14 verschiedenen Ladegeräten.
+2079 Ich habe für die USB-C-Richtlinie gestimmt! Aber meine Kollegen haben noch alte Geräte… Hilfst du mir, sie konform zu machen?
+2080 Ein Ladegerät für alle! Hier, nimm diesen USB-C-Stick. Er soll angeblich manche digitalen Euromon entwickeln lassen.
+2081 Die Kabelschublade ist endlich leer. Ich weiß nicht mehr, was ich reinlegen soll.
+2082 Überall liegen noch Lightning-Kabel… Versuch's, wann du willst.
+2083 Grüne Zone: %d %%
+2084 Ziel: die Hälfte der Zeit im Grünen
+2085 Dock 30

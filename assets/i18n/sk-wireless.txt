@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Online
+2165	Bez internetu
+2166	Vytvoriť miestnu hru
+2167	Pripojiť k miestnej hre
+2156	Hry v okolí
+2158	Bez smerovača a servera.
+2159	Na zmenu režimu Wi-Fi reštartujte hru.
+2163	Režim DS: otvorená/WEP sieť. Pre WPA2 spustite hru v režime DSi.
+2162	DSi Wi-Fi: skontrolujte sieť WPA2 a nastavenia konzoly.
+2160	Pripájanie k DSi Wi-Fi… B: zrušiť
+2161	Pripájanie k DS Wi-Fi… B: zrušiť
+2154	Konzola neodpovedá.

@@ -1,0 +1,210 @@
+# Română — completion (ids 144-1199)
+144 Profesorul Schuman
+377 Bruxelles
+380 Strasbourg
+384 Paris
+385 Anvers
+388 Maastricht
+448 Vladimir Putin
+541 Dl. Dupont
+590 Dr. Sofia
+1000 La mulți ani de Ziua Europei! Pe anul viitor.
+1001 Techno
+1002 Federal
+1003 Suveran
+1004 Liberal
+1005 Social
+1006 Verde
+1007 Industrie
+1008 Energie
+1009 Juridic
+1010 Monetar
+1011 Agricol
+1012 Digital
+1013 Diplo
+1014 Lobby
+1015 Populist
+1016 Fantomă
+1017 Amendament
+1018 Modifică textul adversarului, un alineat pe rând.
+1019 Birocrație
+1020 Îngroapă ținta sub formulare.
+1021 Notă de serviciu
+1022 O notă internă, foarte fermă.
+1023 Ședință
+1024 O ședință de coordonare care adoarme pe toată lumea.
+1025 Ștampilă uscată
+1026 O ștampilare clară și oficială.
+1027 Comitologie
+1028 Nimeni nu înțelege procedura. Nici ținta.
+1029 Recitire
+1030 Își recitește dosarul. Crește mult Reziliența.
+1031 Directivă
+1032 Un text obligatoriu, de transpus urgent.
+1033 Regulament
+1034 Direct aplicabil în toate statele membre.
+1035 Trilog
+1036 Parlament, Consiliu, Comisie: lovește de 2 până la 5 ori.
+1037 Urgență
+1038 Procedură de urgență: acționează prima.
+1039 Pauză de cafea
+1040 O cafea la cantină. Refă jumătate din PV.
+1041 Plagiat
+1042 Copiază ultimul atac al adversarului.
+1043 Raport anual
+1044 Se încarcă un tur, apoi lovește cu 400 de pagini.
+1045 Integrare
+1046 Un mic pas spre o uniune tot mai strânsă.
+1047 Subsidiaritate
+1048 Acționează la nivelul potrivit. Crește Diplomația.
+1049 Statele Unite ale UE
+1050 Marele vis federal, lansat în toată puterea.
+1051 Team Europe
+1052 Toți împreună! O lovitură solidară.
+1053 Piață unică
+1054 Elimină frontierele… și Diplomația adversarului.
+1055 Douăsprezece stele
+1056 Douăsprezece stele de aur care nu ratează niciodată.
+1057 Cap de listă
+1058 O campanie de Spitzenkandidat. Lovituri critice frecvente.
+1059 Extindere
+1060 Primește noi membri. Argumentare +2.
+1061 Blochează orice atac în acest tur. Unanimitatea e sacră.
+1062 Frontieră
+1063 Restabilește un control. Poate reduce Reactivitatea.
+1064 Opt-out
+1065 Se exceptează de la regulile comune. Reziliență +2.
+1066 Referendum
+1067 O întrebare simplă, consecințe complicate.
+1068 Articolul 7
+1069 Suspendă drepturi. Argumentarea adversarului -2.
+1070 Părăsește lupta… dacă negocierile reușesc.
+1071 Rabat
+1072 « I want my money back! » Recuperează PV.
+1073 Suveranitate
+1074 Reia controlul cu mare tam-tam.
+1075 Concurență
+1076 Liberă și nedistorsionată, dar dureroasă.
+1077 Liber schimb
+1078 Un acord comercial cu taxe vamale zero.
+1079 Dereglementare
+1080 Elimină protecțiile. Reziliența adversarului -2.
+1081 Start-up
+1082 Disruptivă și rapidă. Acționează prima.
+1083 Mâna invizibilă
+1084 Nu o vezi venind. Nu ratează niciodată.
+1085 În același timp
+1086 De dreapta și de stânga, lovește de 2 până la 5 ori.
+1087 Picurare
+1088 Face să picure euro pe teren.
+1089 Grevă
+1090 Totul se oprește. Îngheață fondurile țintei.
+1091 Pilon social
+1092 Un pilon european solid al drepturilor sociale.
+1093 Salariu minim
+1094 Directiva din 2022 privind salarii adecvate.
+1095 Manifestație
+1096 Un val de pancarte. Poate intimida.
+1097 Solidaritate
+1098 Pune în comun efortul. Refă jumătate din PV.
+1099 „Nu”-ul grecesc din iulie 2015. Recul garantat.
+1100 Erasmus
+1101 Un schimb care deschide mintea. Poate crește Expertiza.
+1102 Pactul verde
+1103 Green Deal-ul din 2019, direct în plin.
+1104 Reîmpădurire
+1105 Replantează. Refă jumătate din PV.
+1106 Taxă pe carbon
+1107 Mecanism de ajustare la frontieră. Poate reduce Expertiza.
+1108 Neutralitate 2050
+1109 Zero emisii nete, dintr-o singură lovitură.
+1110 Compost
+1111 Miroase puternic. Poate expune la influență.
+1112 Capac atașat
+1113 Directiva 2019/904: capacul nu mai dă drumul țintei.
+1114 Fit for 55
+1115 -55% emisii până în 2030, și doare.
+1116 Bicicletă
+1117 O pistă pentru biciclete expres. Acționează prima.
+1118 Cărbune
+1119 CECO din 1951, ca o ghiulea. Poate crea un scandal.
+1120 Oțel
+1121 Un pumn de oțel european.
+1122 Furnal
+1123 Căldură extremă. Poate declanșa un scandal.
+1124 Delocalizare
+1125 Se mută în altă parte. Poate reduce Reactivitatea adversarului.
+1126 Airbus
+1127 Un campion european în picaj.
+1128 Lanț
+1129 Lanț de montaj: lovește de 2 până la 5 ori.
+1130 Plan industrial
+1131 Relansează aparatul de producție. Argumentare +2.
+1132 Scânteie
+1133 Un mic scurtcircuit. Poate îngheța fondurile.
+1134 Fisiune
+1135 Euratom, 1957. Energia atomului.
+1136 Eoliană
+1137 Pale care se-nvârt… și capul la fel.
+1138 Robinetul de gaz
+1139 Taie aprovizionarea. Îngheață fondurile.
+1140 REPowerEU
+1141 Plan din 2022 pentru a scăpa de dependență. Expertiză +2.
+1142 Supratensiune
+1143 O descărcare brutală, cu recul.
+1144 Fuziune
+1145 Reactorul ITER la putere maximă.
+1146 Plafon de preț
+1147 Plafonează adversarul. Expertiză -2.
+1148 Punere în întârziere
+1149 Primul avertisment oficial.
+1150 Infringement
+1151 O procedură de infringement usturătoare.
+1152 Hotărâre a CJUE
+1153 Luxemburgul a decis. Nu există recurs.
+1154 O amendă de miliarde. Monede zboară în toate direcțiile.
+1155 Anchetă OLAF
+1156 Oficiul antifraudă anchetează. Poate bloca ținta.
+1157 RGPD
+1158 Protejează datele. Eschivarea adversarului -2.
+1159 Jurisprudență
+1160 Se bazează pe precedente. Expertiză +2.
+1161 DSA
+1162 Regulament privind serviciile digitale. Poate reduce Expertiza.
+1163 Monedă de euro
+1164 O aruncare de monedă de 2 €. Cap sau pajură?
+1165 Rata de referință
+1166 Crește ratele. Poate încetini ținta.
+1167 Tiparul de bani
+1168 Relaxare cantitativă după voie.
+1169 Austeritate
+1170 Strângeți cureaua. Argumentarea adversarului -2.
+1171 Whatever it takes
+1172 « Quoi qu'il en coûte » (Draghi, iulie 2012). Reușește mereu.
+1173 Inflație
+1174 Erodează puterea de cumpărare, tur după tur.
+1175 Spread
+1176 Diferența de randament explodează. Lovituri critice frecvente.
+1177 Plan de relansare
+1178 NextGenerationEU, 750 Mld€. Refă jumătate din PV.
+1179 Tractor
+1180 Blochează drumul. Poate încetini ținta.
+1181 PAC
+1182 Politica agricolă comună: recuperează PV.
+1183 Must de grajd
+1184 Împrăștiat în fața prefecturii. Poate contamina.
+1185 DOP
+1186 Denumire de origine protejată. Reziliență +2.
+1187 Recoltă
+1188 O recoltă record, direct în cap.
+1189 Glifosat
+1190 Reautorizat pentru zece ani în 2023. Poate pune ținta sub influență.
+1191 Banana curbată
+1192 Regulamentul din 1994 despre calitatea bananelor. Derutant.
+1193 Cookie
+1194 Un banner imposibil de închis. Îngheață ținta.
+1195 Bug
+1196 Eroare 404. Poate dezinforma.
+1197 Algoritm
+1198 O recomandare personalizată, foarte personalizată.
+1199 USB-C

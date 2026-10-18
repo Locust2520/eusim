@@ -1,0 +1,293 @@
+# ---------------------------------------------------------------- Route 1
+script r1_sign
+  say - "Route 1 — Forêt des Ardennes. Luxembourg : 3 heures à pied, 12 minutes en rescrit fiscal."
+end
+script r1_rando
+  say "Randonneur" "La forêt des Ardennes s'étend sur trois pays. Les sangliers, eux, n'ont jamais montré leur passeport."
+end
+script r1_t1
+  say "Léa" "Un jour, on sera payées. Un jour…"
+end
+script r1_t2
+  say "M. Dupont" "N'oubliez pas de remplir le formulaire de satisfaction. Il fait 12 pages."
+end
+script r1_t3
+  say "Gérard" "La PAC, c'est un tiers du budget européen. Et ma moissonneuse, c'est un tiers de mon crédit."
+end
+
+# ---------------------------------------------------------------- Luxembourg
+script lux_sign
+  say - "Luxembourg-Kirchberg. Cour de justice de l'UE, Cour des comptes, Banque européenne d'investissement. Et beaucoup de banques tout court."
+end
+script lux_sign_schengen
+  say - "Vers Schengen, village de la Moselle où fut signé l'accord de 1985. Suivez le chemin au sud."
+end
+script lux_schengen
+  if flag SCHENGEN_SEEN goto fin
+  setflag SCHENGEN_SEEN
+  say - "Un petit chemin descend vers la Moselle… et vers Schengen."
+:fin
+  warp schengen 11 1 down
+end
+script lux_touriste
+  say "Touriste" "Les transports en commun sont gratuits ici ! J'ai fait 14 fois le tour de la ville en tram. Pour rien. Gratuitement."
+end
+script lux_mamie
+  say "Mamie" "Mon mari était fonctionnaire européen. Il travaillait à la Cour des comptes. Il comptait même les moutons pour s'endormir."
+end
+script cjue_juge
+  say "Juge" "La Cour de justice de l'Union européenne siège ici depuis 1952. Nos arrêts s'imposent aux 27 États. Même le lundi matin."
+end
+script cjue_greffier
+  say "Greffier" "J'ai traduit un arrêt en 24 langues. Dans la version maltaise, il y a une coquille. Personne ne l'a vue en dix ans."
+  ask "Greffier" "Et voilà la pile du jour. Il faut tamponner quinze arrêts valides avant la fermeture du greffe. Attention, de mauvais documents s'y sont glissés ! Tu me donnes un coup de main ?"
+  yesno -> TMP
+  if var TMP == 0 goto refus
+  close
+  minigame tampon
+  if var RESULT == 0 goto rate
+  if flag STAMP_DONE goto deja
+  setflag STAMP_DONE
+  say "Greffier" "Quinze arrêts, quinze tampons ! La Cour te remercie. Prends ces tampons qualifiés, ils sont bien plus efficaces."
+  giveitem tampon_qualifie 3
+  goto fin
+:deja
+  call stamp_repeat_reward
+  goto fin
+:rate
+  say "Greffier" "Le greffe ne peut pas valider cette pile. Il faut quinze bons arrêts et aucun mauvais document tamponné. Réessaie quand tu veux."
+  goto fin
+:refus
+  say "Greffier" "Tant pis. Je les tamponnerai moi-même. En trois exemplaires."
+:fin
+end
+script lux_exit_block
+  say "Douanier luxembourgeois" "La route de la Moselle est réservée aux titulaires du Badge Rescrit. Voyez M. Juncker, à l'Arène dorée."
+  move player "L"
+end
+script oliver_lux
+  show R oliver neutral
+  say "Oliver" "{P} ! Toujours là ? Moi, j'ai déjà visité trois banques et ouvert deux comptes. Pour le folklore."
+  say "Oliver" "Débat !"
+  close
+  hide all
+  if var STARTER == 1 goto c
+  if var STARTER == 2 goto a
+  battle oliver2_v
+  goto fin
+:c
+  battle oliver2_c
+  goto fin
+:a
+  battle oliver2_a
+:fin
+  setflag OLIVER_LUX_DONE
+  show R oliver worried
+  say "Oliver" "Bon, OK, tu progresses. Je file à Francfort voir la BCE. Ils ont promis de m'expliquer les taux d'intérêt."
+  hidenpc lux_oliver
+end
+script gym1_t1
+  say "Pierre-Henri" "Ici, au Luxembourg, la discrétion est une vertu. Et une industrie."
+end
+script gym1_t2
+  say "Maître Klein" "Les rescrits fiscaux étaient légaux, vous savez. C'est juste que personne ne devait les lire. LuxLeaks, 2014, quel malheur."
+end
+script gym1_leader
+  if flag BADGE_1 goto apres
+  show R juncker happy
+  say "Jean-Claude Juncker" "Ah, le petit stagiaire de Schuman ! Viens, viens. Moi aussi j'ai commencé petit. Puis Premier ministre pendant dix-huit ans."
+  expr R neutral
+  say "Jean-Claude Juncker" "J'ai présidé l'Eurogroupe, puis la Commission. J'en ai vu, des sommets. Et j'ai tapoté beaucoup de joues."
+  expr R happy
+  say "Jean-Claude Juncker" "Une fois, en 2011, j'ai dit : « Quand ça devient sérieux, il faut mentir. » Alors je ne vais pas te dire que je vais te laisser gagner."
+  close
+  hide all
+  battle juncker
+  show R juncker happy
+  say "Jean-Claude Juncker" "Formidable ! Tu as gagné le Badge Rescrit. Il est officiel, celui-là, pas confidentiel !"
+  badge 1
+  setflag TRAIN_LUXEMBOURG
+  chapter 2
+  say "Jean-Claude Juncker" "La route de la Moselle t'est ouverte. Francfort t'attend, et Christine Lagarde ne plaisante pas avec les taux."
+  goto fin
+:apres
+  show R juncker happy
+  say "Jean-Claude Juncker" "Tu repasses me voir ? Viens ici que je te tapote la joue. C'est la tradition luxembourgeoise. Enfin, la mienne."
+:fin
+end
+
+# ---------------------------------------------------------------- Schengen
+script schengen_monument
+  say - "Ici, le 14 juin 1985, à bord du bateau Princesse Marie-Astrid, cinq pays ont signé l'accord de Schengen sur la suppression des contrôles aux frontières."
+end
+script schengen_capitaine
+  say "Capitaine" "Le Princesse Marie-Astrid ! C'est sur ce genre de bateau qu'on a aboli les frontières. Ironique, sur une rivière qui en est une."
+  say "Capitaine" "On dit qu'un Euromon rare, Schengéon, rôde dans les dossiers du village. Il ne s'arrête jamais à la douane."
+end
+
+# ---------------------------------------------------------------- Route 2 / Francfort
+script r2_sign
+  say - "Route 2 — Vallée de la Moselle. Trois pays en vingt kilomètres. Pensez à changer de langue."
+end
+script r2_t1
+  say "Kevin" "Le roaming gratuit, c'est le plus beau cadeau de l'Union. J'ai posté 4 000 photos de la Moselle."
+end
+script r2_t2
+  say "Hans" "Selon mes calculs, vous allez gagner le prochain badge. Mais mes calculs sont rarement justes."
+end
+script r2_t3
+  say "Jean-Marc" "Le crémant de Luxembourg, c'est AOP ! Comme mon Fromajus."
+end
+script ffm_sign_bce
+  say - "Banque centrale européenne. Mission : la stabilité des prix. Objectif d'inflation : 2 % à moyen terme. Moyen terme : non précisé."
+end
+script ffm_npc1
+  say "Trader" "Les marchés sont nerveux. Ils sont toujours nerveux. C'est leur métier."
+end
+script ffm_epargnant
+  say "Épargnant" "J'ai toujours mon matelas de deutschemarks. On ne sait jamais."
+end
+script ffm_exit_block
+  say "Garde" "La route du Rhin est fermée aux stagiaires sans Badge Euro. Allez voir Mme Lagarde à la BCE."
+  move player "U"
+end
+script gym2_t1
+  say "Karl" "Je spéculais sur ta défaite. J'ai perdu ma chemise. Et ma cravate."
+end
+script gym2_t2
+  say "Dr. Sofia" "Le choc était exogène. Totalement exogène."
+end
+script gym2_leader
+  if flag BADGE_2 goto apres
+  show R lagarde neutral
+  say "Christine Lagarde" "Bienvenue à la Banque centrale européenne. Ici, chaque mot que je prononce fait bouger les marchés. Alors je choisis mes mots."
+  expr R happy
+  say "Christine Lagarde" "Un jour de mars 2020, j'ai dit que nous n'étions « pas là pour réduire les spreads ». Les marchés italiens ont plongé. On apprend."
+  expr R neutral
+  say "Christine Lagarde" "Dans mon arène, la puissance de mes attaques suit le taux directeur du moment. Prêt pour un peu de politique monétaire ?"
+  close
+  hide all
+  battle lagarde
+  show R lagarde happy
+  say "Christine Lagarde" "Remarquable. Votre stratégie était… prévisible, au bon sens du terme. Voici le Badge Euro."
+  badge 2
+  setflag TRAIN_FRANCFORT
+  chapter 3
+  say "Christine Lagarde" "Strasbourg est au sud, après les vignobles du Rhin. Roberta Metsola préside le Parlement. Ne lui coupez jamais la parole."
+  goto fin
+:apres
+  show R lagarde happy
+  say "Christine Lagarde" "Les taux sont stables aujourd'hui. Profitez-en, ça ne dure jamais."
+:fin
+end
+script oliver_ffm
+  show R oliver neutral
+  say "Oliver" "La BCE m'a tout expliqué : l'inflation, les taux, le bilan… Je n'ai rien compris. Allez, débat, pour me détendre !"
+  close
+  hide all
+  if var STARTER == 1 goto c
+  if var STARTER == 2 goto a
+  battle oliver3_v
+  goto fin
+:c
+  battle oliver3_c
+  goto fin
+:a
+  battle oliver3_a
+:fin
+  setflag OLIVER_FFM_DONE
+  show R oliver worried
+  say "Oliver" "Hmm. Tu sais, chez moi, à Londres, certains parlent de quitter l'Union. Ce serait ridicule, non ? …Non ?"
+  hidenpc ffm_oliver
+end
+
+# ---------------------------------------------------------------- Route 3 / Strasbourg
+script r3_t1
+  say "Inès" "Le Pacte vert a été présenté en décembre 2019. Depuis, on se bat pour chaque virgule."
+end
+script r3_t2
+  say "Tom" "Mon prochain article : « La Commission veut interdire les débats perdus ». C'est faux, mais ça buzzera."
+end
+script r3_t3
+  say "Albert" "Le vin d'Alsace et le vin du Bade se regardent par-dessus le Rhin. Avant, c'était les canons. Le progrès !"
+end
+script stras_sign
+  say - "Strasbourg, siège officiel du Parlement européen. 12 sessions plénières par an. 720 députés. Des milliers de malles."
+end
+script stras_depute
+  say "Eurodéputée" "Je fais Bruxelles–Strasbourg douze fois par an depuis 2014. Ça me fait… 132 déménagements. Mes malles ont plus de points de fidélité que moi."
+end
+script stras_malles
+  if flag MALLES_DONE goto fin
+  say "Fonctionnaire" "Au secours ! La session commence dans 2 minutes et les malles des députés ne sont pas chargées ! Tu peux m'aider ?"
+  yesno -> TMP
+  if var TMP == 0 goto refus
+  close
+  minigame malles
+  if var RESULT == 0 goto rate
+  setflag MALLES_DONE
+  say "Fonctionnaire" "Toutes les malles sont à bord ! Tiens, prends ça, c'est la récompense officielle du service logistique."
+  giveitem super_tampon 5
+  goto fin
+:rate
+  say "Fonctionnaire" "Raté… Bon, on dira que la session commence en retard. Comme d'habitude. Réessaie quand tu veux !"
+  goto fin
+:refus
+  say "Fonctionnaire" "Bon… je vais encore pleurer dans une malle."
+:fin
+end
+script gym3_t1
+  say "Député Muller" "Mes 2 000 amendements… rejetés en bloc. Il faudra recommencer en commission."
+end
+script gym3_t2
+  say "Députée Rossi" "Pour le traité de Lisbonne, j'avais une malle entière de notes. Elle est restée à Bruxelles."
+end
+script gym3_huissier
+  say "Huissier" "Silence dans l'hémicycle ! Mme la Présidente n'accepte les débats qu'après un vote. Voulez-vous tenter un vote en plénière ?"
+  if flag VOTE_DONE goto deja
+  yesno -> TMP
+  if var TMP == 0 goto fin
+  close
+  minigame vote
+  if var RESULT == 0 goto rate
+  setflag VOTE_DONE
+  say "Huissier" "Adopté à la majorité ! La Présidente vous recevra."
+  goto fin
+:rate
+  say "Huissier" "Rejeté… Le quorum n'était pas atteint. Recommencez !"
+  goto fin
+:deja
+  say "Huissier" "Votre vote a été enregistré. La Présidente vous attend."
+:fin
+end
+script gym3_leader
+  if flag BADGE_3 goto apres
+  if !flag VOTE_DONE goto vote
+  show R metsola neutral
+  say "Roberta Metsola" "La séance est ouverte. Présidente du Parlement depuis 2022, réélue en 2024 : j'ai l'habitude de faire respecter le temps de parole."
+  expr R happy
+  say "Roberta Metsola" "Vous avez trente secondes. Ah, c'est déjà fini. Bon, débattons !"
+  close
+  hide all
+  battle metsola
+  show R metsola happy
+  say "Roberta Metsola" "Le résultat est clair : adopté ! Le Badge Hémicycle vous revient."
+  badge 3
+  setflag TRAIN_STRASBOURG
+  setflag TRAIN_UNLOCKED
+  setflag TRAIN_ATHENES
+  chapter 4
+  say "Roberta Metsola" "Et voici le Pass Interrail européen. Avec lui, toutes les gares vous sont ouvertes. Votre prochain badge est à Athènes."
+  giveitem pass_interrail
+  expr R worried
+  say "Roberta Metsola" "On dit que Yanis Varoufakis y donne des cours… à moto. Prenez le train à la gare de Strasbourg."
+  goto fin
+:vote
+  show R metsola neutral
+  say "Roberta Metsola" "Un débat ? Pas sans un vote de la plénière. Voyez l'huissier."
+  goto fin
+:apres
+  show R metsola happy
+  say "Roberta Metsola" "La prochaine session est dans un mois. N'oubliez pas vos malles !"
+:fin
+end

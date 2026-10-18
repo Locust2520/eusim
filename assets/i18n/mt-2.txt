@@ -1,0 +1,464 @@
+# Malti — ids 500-999
+500 Il-bini Europa jospita l-Kunsill Ewropew. Trid it-tmien badges tat-trattati biex tiġi milqugħ.
+501 Użiera
+502 Il-Kummissarja hija… okkupata ħafna. Jgħidu li t-Team Lobby timblokka l-inkjesti kollha tagħha. Dan jiġri taħt il-bar tal-Pjazza Lux.
+503 Id-DĠ Kompetizzjoni tilqa' biss trainees esperjenzati. Erġa' lura b'mill-inqas sitt badges.
+504 Uffiċjal tal-Parlament
+505 Merħba fil-Parlament Ewropew! Il-Professur Schuman qed jistenniek fit-tarf tal-hall.
+506 It-tarġa fuq il-lemin twassal għas-sulari… Jgħidu li ġewnaħ wieħed huwa stregat. Jien qatt ma mmur hemm.
+507 Ah, {P}! Fl-aħħar wasalt! Puntuali… b'siegħa jew tnejn. Il-bidla fil-ħin misħuta.
+508 Hi! Jien wasalt siegħa ilu. Jien, qiegħed fuq il-ħin ta' Londra.
+509 Il-Laboratorju tal-Professur
+510 Tajjeb. Se taħdmu mal-Euromons. Il-fajls ta' dan il-Parlament huma mimlija bihom.
+511 Għandi tlieta hawn, żgħażagħ ħafna. Twieldu minn ideat Ewropej kbar. Agħżel tiegħek, {P}.
+512 Joħorġu… minn folders tal-kartun?
+513 F'Brussell, dak kollu li jgħodd jibda f'folder tal-kartun, Oliver. Anke l-Ewropa.
+514 VERDEAL, imwieled mill-Patt Aħdar. CHARBONNET, ġej mill-KEFA tal-1951. Jew ATOMINO, dritt ġej mill-Euratom.
+515 Verdeal (tip Aħdar)
+516 Charbonnet (tip Industrija)
+517 Atomino (tip Enerġija)
+518 Għażla eċċellenti! Ħu ħsiebu tajjeb. Euromon ittrattat tajjeb jiswa aktar minn għaxar trattati rratifikati ħażin.
+519 Allura nieħu dak li jegħleb lil tiegħek. That's just smart negotiation.
+520 Oliver! Dan mhux ferm… komunitarju.
+521 Ejja, {P}, dibattitu żgħir biex naraw min hu l-aħjar trainee?
+522 What?! Tlift kontra trainee kontinentali?! Dik kienet… prova ta' tranġ.
+523 Ha! Kif mistenni. Tiħux bi hsara, {P}, huwa kulturali.
+524 Bravu lit-tnejn. Issa, il-missjoni: li tiġi adottata d-direttiva fuq it-tmiem tal-bidla fil-ħin.
+525 Il-Parlament approvaha f'Marzu 2019. Minn dakinhar, qed torqod fil-Kunsill. Ikollok bżonn it-tmien badges tat-trattati biex tittieħed bis-serjetà.
+526 L-ewwel badge qed jistenniek fil-Lussemburgu, għand Jean-Claude Juncker. Ħu t-triq tal-Ardennes, fil-lvant.
+527 Il-Lussemburgu? Easy. Se nkun hemm qabilek. See you, loser… ehm, kollega!
+528 Mument, {P}! Jien Jean Monnet. Ivvintajt il-metodu tal-passi żgħar. Hawn pass kbir: l-EURODEX.
+529 Jirreġistra kull Euromon li tiltaqa' miegħu. U hawn dak li jħallik tittimbrahom uffiċjalment.
+530 Iddgħajjef Euromon selvaġġ, imbagħad itfa' Timbru Uffiċjali mill-BORŻA. L-Ewropa qed tgħolli fuqek!
+531 Kuraġġ, {P}! Kull badge huwa ġebla żgħira. Bħal fl-Ewropa: realizzazzjonijiet konkreti.
+532 Tmien badges! Il-Kunsill Ewropew qed jistenniek fil-bini Europa. Jien kburi ħafna.
+533 Urini l-Eurodex tiegħek…
+534 Kellem l-ewwel lill-Professur Schuman, trainee żgħażugħ.
+535 Il-Professur hemm hemm. Agħmilha malajr, qed ndejjaq.
+536 Triq 1 — Foresta tal-Ardennes. Lussemburgu: 3 sigħat bil-mixi, 12-il minuta b'deċiżjoni fiskali.
+537 Mixjaba
+538 Il-foresta tal-Ardennes testendi fuq tliet pajjiżi. Il-ħnieżer selvaġġi, huma, qatt ma wrew il-passaport tagħhom.
+540 Darba, se nitħallsu. Darba…
+542 Tinsiex timla l-formola tas-sodisfazzjon. Fiha 12-il paġna.
+544 Il-PAK hija terz tal-budget Ewropew. U l-ħassad tiegħi, hija terz tal-kreditu tiegħi.
+545 Lussemburgu-Kirchberg. Qorti tal-Ġustizzja tal-UE, Qorti tal-Awdituri, Bank Ewropew tal-Investiment. U ħafna banek sempliċiment.
+546 Lejn Schengen, raħal fuq il-Mosella fejn ġie ffirmat il-ftehim tal-1985. Segwi l-mogħdija fin-nofsinhar.
+547 Mogħdija żgħira tinżel lejn il-Mosella… u lejn Schengen.
+548 It-trasport pubbliku huwa b'xejn hawn! Għamilt 14-il darba dawra mal-belt bit-tram. Għal xejn. B'xejn.
+550 Ir-raġel tiegħi kien uffiċjal Ewropew. Kien jaħdem fil-Qorti tal-Awdituri. Kien jgħodd in-nagħaġ saħansitra biex jorqod.
+551 Imħallef
+552 Il-Qorti tal-Ġustizzja tal-Unjoni Ewropea qed tiltaqa' hawn minn 1952. Is-sentenzi tagħna japplikaw fuq is-27 Stat. Anke nhar ta' Tnejn filgħodu.
+553 Reġistratur
+554 Ittraduċejt sentenza fl-24 lingwa. Fil-verżjoni Maltija hemm typo. Ħadd ma ndunat biha f'għaxar snin.
+555 Uffiċjal tad-Dwana Lussemburgiż
+556 It-triq tal-Mosella hija riservata għal dawk li għandhom il-Badge Deċiżjoni Fiskali. Mur ara lis-Sur Juncker, fl-Arena Deheb.
+557 {P}! Għadek hawn? Jien, diġà żort tliet banek u fetaħt żewġ kontijiet. Għall-folklor.
+558 Dibattitu!
+559 Tajjeb, OK, qed tavanza. Sejjer Frankfurt nara l-BĊE. Wegħduni li jispjegawli r-rati tal-imgħax.
+561 Hawn, fil-Lussemburgu, id-diskrezzjoni hija virtù. U industrija.
+563 Id-deċiżjonijiet fiskali kienu legali, taf. Huwa biss li ħadd ma kellu jaqrahom. LuxLeaks, 2014, x'diżgrazzja.
+565 Ah, it-trainee żgħir ta' Schuman! Ejja, ejja. Jien ukoll bdejt żgħir. Imbagħad Prim Ministru għal tmintax-il sena.
+566 Ippresidjajt l-Eurogrupp, imbagħad il-Kummissjoni. Rajt ħafna summits. U tabbtejt ħafna ħaddejn.
+567 Darba, fl-2011, għidt: «Meta ssir serja, trid tigdeb.» Allura mhux se ngħidlek li se nħallik tirbaħ.
+568 Formidabbli! Rbaħt il-Badge Deċiżjoni Fiskali. Dan huwa uffiċjali, mhux kunfidenzjali!
+569 It-triq tal-Mosella hija miftuħa għalik. Frankfurt qed tistenniek, u Christine Lagarde ma tiċċajtax bir-rati.
+570 Terġa' tiġi tarani? Ejja hawn ħa nabbtlek il-ħadd. Hija t-tradizzjoni Lussemburgiża. Jiġifieri, tiegħi.
+571 Hawn, fl-14 ta' Ġunju 1985, abbord id-dgħajsa Princesse Marie-Astrid, ħames pajjiżi ffirmaw il-ftehim ta' Schengen dwar it-tneħħija tal-kontrolli fil-fruntieri.
+572 Kaptan
+573 Il-Princesse Marie-Astrid! Fuq dgħajsa bħal din abolixxew il-fruntieri. Ironiku, fuq xmara li hija waħda.
+574 Jgħidu li Euromon rari, Schengéon, qed jiġġerra fil-fajls tar-raħal. Qatt ma jieqaf fid-dwana.
+575 Triq 2 — Wied il-Mosella. Tliet pajjiżi f'għoxrin kilometru. Ftakar tibdel il-lingwa.
+577 Ir-roaming b'xejn, huwa l-isbaħ rigal tal-Unjoni. Ippostjajt 4,000 ritratt tal-Mosella.
+579 Skont il-kalkoli tiegħi, se tirbaħ il-badge li jmiss. Imma l-kalkoli tiegħi rari huma korretti.
+581 Il-crémant tal-Lussemburgu huwa AOP! Bħall-Fromajus tiegħi.
+582 Bank Ċentrali Ewropew. Missjoni: l-istabilità tal-prezzijiet. Mira tal-inflazzjoni: 2% fuq medda medja ta' żmien. Medda medja ta' żmien: mhux speċifikata.
+583 Trader
+584 Is-swieq huma nervużi. Huma dejjem nervużi. Hija l-professjoni tagħhom.
+585 Min Jiffranka
+586 Għad għandi l-mitraħ tiegħi tad-deutschemarks. Qatt ma taf.
+587 It-triq tar-Rhein hija magħluqa għal trainees bla Badge Euro. Mur ara lis-Sinjura Lagarde fil-BĊE.
+589 Kont nispekula fuq it-telfa tiegħek. Tlift il-qmis tiegħi. U r-ratà tiegħi.
+591 Ix-xokk kien esoġenu. Totalment esoġenu.
+593 Merħba fil-Bank Ċentrali Ewropew. Hawn, kull kelma li ngħid tiċċaqlaq is-swieq. Allura nagħżel kliemi.
+594 Jum f'Marzu 2020, għidt li ma konniex hawn «biex innaqqsu l-spreads». Is-swieq Taljani niżlu f'daqqa. Titgħallem.
+595 Fl-arena tiegħi, il-qawwa tal-attakki tiegħi ssegwi r-rata ta' referenza tal-mument. Lest għal ftit politika monetarja?
+596 Notevoli. L-istrateġija tiegħek kienet… predittibbli, fis-sens tajjeb tat-terminu. Hawn il-Badge Euro.
+597 Strasburgu qiegħda fin-nofsinhar, wara l-għelieqi tad-dwieli tar-Rhein. Roberta Metsola tippresidi l-Parlament. Qatt taqtagħlha l-kelma.
+598 Ir-rati huma stabbli llum. Ibbenefika minnu, qatt ma ddum.
+599 Il-BĊE spjegatli kollox: l-inflazzjoni, ir-rati, il-bilanċ… Ma fhimt xejn. Ejja, dibattitu, biex nirrilassa!
+600 Hmm. Taf, għandi, f'Londra, xi wħud jitkellmu dwar il-ħruġ mill-Unjoni. Dik tkun ridikola, mhux hekk? …Mhux hekk?
+602 Il-Patt Aħdar ġie ppreżentat f'Diċembru 2019. Minn dakinhar, qed niġġieldu għal kull virgola.
+604 L-artiklu li jmiss tiegħi: «Il-Kummissjoni trid tipprojbixxi d-dibattiti mitlufa». Huwa falz, imma se jagħmel buzz.
+606 L-inbid tal-Alsace u l-inbid ta' Baden iħarsu lejn xulxin minn fuq ir-Rhein. Qabel, kienu l-kanuni. Il-progress!
+607 Strasburgu, sede uffiċjali tal-Parlament Ewropew. 12-il sessjoni plenarja fis-sena. 720 membru parlamentari. Eluf ta' bagalji.
+608 Membru Parlamentari Ewropew
+609 Nagħmel Brussell–Strasburgu tnax-il darba fis-sena minn 2014. Dak ifisser… 132 trasferiment. Il-bagalji tiegħi għandhom aktar punti ta' lealtà minni.
+610 Uffiċjal
+611 Għajnuna! Is-sessjoni tibda f'2 minuti u l-bagalji tal-membri parlamentari mhumiex imgħobbija! Tista' tgħini?
+612 Il-bagalji kollha huma abbord! Hawn, ħu dan, huwa l-premju uffiċjali tas-servizz loġistiku.
+613 Fallut… Tajjeb, ngħidu li s-sessjoni tibda tard. Bħas-soltu. Erġa' pprova meta trid!
+614 Tajjeb… se nibki ġo bagalja darb'oħra.
+616 L-2,000 emenda tiegħi… rrifjutati f'daqqa. Ikun hemm bżonn nerġgħu nibdew fil-kumitat.
+618 Għat-trattat ta' Liżbona, kelli bagalja sħiħa ta' noti. Baqgħet Brussell.
+619 Użier
+620 Silenzju fil-kamra plenarja! Is-Sinjura President ma taċċettax dibattiti ħlief wara vot. Trid tipprova vot fil-plenarja?
+621 Adottat b'maġġoranza! Il-President se tilqgħek.
+622 Rrifjutat… Il-kworum ma ntlaħaqx. Erġa' pprova!
+623 Il-vot tiegħek ġie rreġistrat. Il-President qed tistenniek.
+625 Is-seduta hija miftuħa. President tal-Parlament minn 2022, eletta mill-ġdid fl-2024: jien imdorrija nagħmel rispettat il-ħin tal-kelma.
+626 Għandek tletin sekonda. Ah, diġà spiċċa. Tajjeb, niddibattu!
+627 Ir-riżultat huwa ċar: adottat! Il-Badge Kamra Plenarja huwa tiegħek.
+628 U hawn il-Pass Interrail Ewropew. Bih, l-istazzjonijiet kollha huma miftuħa għalik. Il-badge li jmiss tiegħek huwa f'Ateni.
+629 Jgħidu li Yanis Varoufakis jagħti lezzjonijiet hemm… fuq mutur. Ħu l-ferrovija mill-istazzjon ta' Strasburgu.
+630 Dibattitu? Mhux mingħajr vot tal-plenarja. Mur ara l-użier.
+631 Is-sessjoni li jmiss hija f'xahar. Tinsiex il-bagalji tiegħek!
+632 Ateni. Il-benniena tad-demokrazija, tal-filosofija… u tar-referendum tal-5 ta' Lulju 2015.
+633 L-Akropoli għandha 2,500 sena. Baqgħet ħajja wara l-Persjani, l-Ottomani u t-Trojka.
+634 Uffiċjal tad-Dwana Grieg
+635 Il-port tal-Pireu? Magħluq għal viżitaturi. Jappartjeni lil… sħab. Sħab ħafna.
+636 Jiddispjaċini, l-aċċess għall-port huwa riservat. Erġa' lura meta s-sitwazzjoni tkun… aktar diplomatika.
+638 Fl-2015, vutajt OXI. U wara… huwa kumplikat.
+639 Uffiċjal tat-Trojka (BĊE)
+640 Ir-rapport tagħna jirrikkmanda aktar riġidità. Anke għall-Euromons tiegħek.
+641 Uffiċjal tat-Trojka (FMI)
+642 Nirrikonoxxu xi żbalji fil-previżjonijiet tagħna. Bejnietna.
+644 Ġejt għal badge? Jien wasalt hawn fuq mutur, b'ġakketta tal-ġild, bla ratà. Bħal fil-laqgħat tal-Eurogrupp fl-2015.
+645 Ministru tal-Finanzi għal sitt xhur. Rriżenjajt wara r-referendum: 61% favur l-OXI. Id-demokrazija hija sabiħa, u iebsa rasha.
+646 It-Trojka kienet qed tistenniena fid-dawra. Int, għelibt l-uffiċjali tagħha. Urini jekk intix aqwa mill-awsterità!
+647 NAI! Ehm, irrid ngħid: bravu. Hawn il-Badge OXI, kumpanju.
+648 Il-badge li jmiss tiegħek huwa f'Londra. Imma mexxi malajr: hemm, qed jitkellmu dejjem aktar dwar bieb ta' ħruġ partikolari.
+649 Sejjer nerġa' nagħti konferenza. Fuq id-dejn. Fuq mutur.
+650 Westminster. Hawn, fit-23 ta' Ġunju 2016, ir-Renju Unit vota b'51.9% biex joħroġ mill-Unjoni Ewropea.
+651 Gwardja Rjali
+652 (Ma jiċċaqlaqx. Anke għall-Brexit.)
+653 Editur Ewlieni
+654 Għada, nagħmlu titlu fuq il-ħjar dritt wisq. Ħadem għal għoxrin sena.
+656 Fis-snin disgħin, kont korrispondent f'Brussell għad-Daily Telegraph. Ktibt affarijiet… imaġinattivi. Get Brexit done!
+658 Merħba fil-pub! Pint? Jien, għaddejt għoxrin sena fil-Parlament Ewropew nispjega li ma kellinix inkunu hemm.
+659 Fit-28 ta' Ġunju 2016, għidt lill-membri parlamentari Ewropej: «Mhux qed tidħku aktar issa, eh?». Ma dħqux. Lanqas int mhux se tidħaq.
+660 Tajjeb. Int rbaħt. Ħu dan il-Badge Artikolu 50. Aħna, diġà użajnieh.
+661 Int għadek hawn? Aħna ħarġna, taf.
+662 Irrid immur lura. M'għandix aktar id-dritt li nkun trainee fil-Parlament. Imma qabel… dibattitu finali. Għall-unur.
+663 Grazzi, {P}. Żomm għajnejk fuq id-direttiva għalija. U fuq il-ħin tas-sajf. Għandna, qatt mhu se nbiddluh, naturalment.
+664 Goodbye. Jew aħjar… see you later. Min jaf?
+665 Oliver telaq. Il-ferrovija ta' Londra ma tidhirx aktar fil-biljetterija. It-tappa li jmiss: Budapest, fuq id-Danubju.
+666 Országház, il-Parlament Ungeriż, fuq ix-xtut tad-Danubju. L-akbar bini tal-Ungerija. U l-akbar veto.
+667 Żagħżugħa Ungeriża
+668 Jgħidu li l-oppożizzjoni qed tikseb art. Ċertu Péter Magyar qed jagħmel kampanja mal-pajjiż kollu.
+670 L-Ungeriżi vutaw fit-12 ta' April 2026. Il-partit tiegħi, Tisza, kiseb il-maġġoranza taż-żewġ terzi. Qed tinfetaħ paġna ġdida!
+672 Bnejna ċint. L-aktar tintuża biex tittieħdu ritratti.
+673 Konsulent Speċjali
+674 Il-Prim Ministru se joħroġ jieħu kafè. Hija teknika ta' negozjati.
+676 Ġejt tfittex ftehim? Hawn, trid l-unanimità. U jien qatt ma naqbel.
+677 Fl-2024, ippresidjajt il-Kunsill tal-Unjoni bl-islogan «Make Europe Great Again». Ma jfakkarkx f'xi ħaġa?
+678 Fl-arena tiegħi, nista' nagħmel il-VETO tiegħi f'kull daqqa. U kultant… noħroġ nieħu kafè. Bħal f'Diċembru 2023, matul il-vot fuq l-Ukrajna.
+679 …Tajjeb. Nastjeni. Ħu dan il-Badge Veto. Uffiċjalment, ma kontx fis-sala.
+680 Ftit xhur wara, fit-12 ta' April 2026, l-Ungeriżi jivvutaw. Il-partit Tisza ta' Péter Magyar jirbaħ b'maġġoranza taż-żewġ terzi.
+681 Orbán irrikonoxxa t-telfa tiegħu: «ta' niket, imma ċar». Grazzi, trainee. Mur lura Brussell: jidher li d-DĠ Kompetizzjoni għandha problema… ta' lobby.
+682 Mort nieħu kafè. Erġa' lura aktar tard. Ħafna aktar tard.
+683 Barman
+684 Pjazza Lux, nhar ta' Ħamis filgħaxija, Brussell kollha tiġi tixrob. Il-membri parlamentari, l-assistenti… u l-lobbyisti. L-aktar il-lobbyisti.
+685 Is-sotterran? Riservat għall-membri. Int irreġistrat fir-reġistru tat-trasparenza? Le? Lanqas jien. Idħol ħa.
+686 Kompli miexi, trainee. Hawn, nitkellmu dwar negozji bejn nies kbar.
+687 Lobbyista taż-Żejt
+688 It-tranżizzjoni enerġetika? Aħna nappoġġjawha. Mill-2080.
+689 Lobbyista tat-Teknoloġija
+690 Nirrispettaw ir-RGPD. Għandna anke bandalor tal-cookies ta' 47 paġna.
+691 Il-bagalji? Huma bagalji ta' dokumentazzjoni. Dokumentati ħafna.
+693 F'Diċembru 2022, il-pulizija Belġjana sabet boroż ta' flus f'diversi appartamenti f'Brussell. Sejħulha l-«Qatargate».
+694 Kont viċi-president tal-Parlament. Dejjem ikkontestajt l-akkużi. Sad-data ta' din il-logħba, ma ġiet mogħtija l-ebda sentenza finali f'dan il-każ.
+695 Nota: kull persuna akkużata hija preżunta innoċenti sakemm ma tiġix iġġudikata.
+696 Il-Lobbyista Ewlieni
+697 Hemm, hemm. It-trainee. Taf kemm aħna f'Brussell? 25,000. U int, int wieħed.
+698 Id-direttiva tiegħek fuq il-ħin tas-sajf? Għandi klijenti li jbiegħu arloġġi. Se tibqa' mblukkata. Sakemm…
+699 Logħob tajjeb. Niddikjara uffiċjalment it-telfa tiegħi fir-reġistru tat-trasparenza. U sejjer fis-settur privat. Ah, diġà hemm jien.
+700 It-Team Lobby tinxtered. L-inkjesti tad-DĠ Kompetizzjoni jistgħu jerġgħu jibdew!
+701 Avukat ta' Big Tech
+702 Se nagħmlu appell. Imbagħad appell tal-appell.
+703 Ġurist tal-Kompetizzjoni
+704 Abbuż ta' pożizzjoni dominanti… Il-kelma «abbuż» hija qawwija.
+706 Grazzi talli ħlistna mit-Team Lobby. Il-fajls tiegħi fl-aħħar qed javanzaw!
+707 Google: 2.4 biljun euro multa fl-2017, 4.3 biljun fl-2018. Apple: 13-il biljun ta' għajnuna fiskali li jrid jitħallas lura, ikkonfermat mill-Qorti fl-2024.
+708 It-timm tiegħek jirrispetta r-regoli tal-kompetizzjoni? Se niċċekkja. Personalment.
+709 L-ebda ksur ma ġie kkonstatat. Il-Badge Multa huwa tiegħek. U ħu dan ukoll: il-badge tal-OLAF, l-Uffiċċju Antifrodi.
+710 Qed jiġu rrapportati… preżenzi stramb f'ġewnaħ tal-Parlament. Assistenti li ħadd qatt ma jara. B'dan il-badge, se tarahom.
+711 L-ebda multa għalik illum. Ibbenefika minnu.
+712 Kuritur kiesaħ… Tisma' kjavieri jitħabbtu waħidhom. Imma m'hemm ħadd. Ikun hemm bżonn mod kif tara l-invisibbli.
+713 Aħjar nerġgħu ninżlu għalissa.
+714 Assistent Fantażma
+715 L-uffiċċju tiegħi? Qatt ma sibtu…
+716 Kont imħallas biex nassisti… partit. Mhux membru parlamentari.
+717 Huu… Il-bidla fil-ħin tgħaddini deħer darbtejn fis-sena…
+718 Il-kuntratt tiegħi jgħid «assistent lokali». Lokali ta' xiex? Misteru.
+719 Qed nintefa'… fl-aħħar…
+720 Grazzi… talli ħlistni minn dan il-kuntratt…
+722 Il-każ tal-assistenti parlamentari tal-FN: is-sistema kienet tħallas lill-impjegati tal-partit bil-flus tal-Parlament Ewropew.
+723 Ġejt ikkundannata fl-ewwel istanza fil-31 ta' Marzu 2025, imbagħad fl-appell fis-7 ta' Lulju 2026: tliet snin li minnhom waħda effettiva b'brazzuletti elettroniċi u ħmistax-il xahar ta' ineliġibilità.
+724 B'din il-piena fl-appell, il-kandidatura tagħha għall-presidenzjali tal-2027 issir possibbli teoretikament mill-ġdid. Rikors aħħari fil-kassazzjoni jibqa' possibbli.
+726 Il-każ tal-assistenti tal-MoDem huwa xi ħaġa oħra. F'Frar 2024, ġejt meħlus «bil-benefiċċju tad-dubju». L-uffiċċju tal-prosekuzzjoni appella.
+727 Imbagħad, kont Prim Ministru… minn Diċembru 2024 sa Settembru 2025. Il-ħin jgħaddi malajr f'Matignon.
+728 L-assistenti fantażma ma jagħmlux politika: huma jistregħu l-partiti kollha li ħaddmuhom ħażin.
+729 Il-Kuntratt Vojt
+730 JIEN… L-ISPIRTU TAL-KUNTRATTI KOLLHA MINGĦAJR UFFIĊĊJU… TAL-PARTITI KOLLHA… TAL-LEĠIŻLATURI KOLLHA…
+731 Il-Kuntratt Vojt jinħall f'sħaba ta' slips tal-paga. Il-ġewnaħ fantażma fl-aħħar huwa kwiet.
+732 Jasal messaġġ minn Roberta Metsola: «Grazzi! L-aħħar badge qed jistenniek f'Pariġi, fis-Sorbonne.»
+733 Is-Sorbonne. Hawn, Emmanuel Macron għamel żewġ diskorsi kbar fuq l-Ewropa, fl-2017 u fl-2024. It-tieni wieħed dam kważi sagħtejn.
+734 Staqsejt it-triq bl-Ingliż. Weġbuni bil-Franċiż. B'tbissima. Ħafifa ħafna.
+735 Gradwat tal-ENA
+736 Kitbu nota ta' sinteżi fuq it-telfa tiegħi. Fiha 80 paġna.
+737 Ministru Delegat
+738 Għadni kemm ġejt bdul matul it-taqbida. Dan rekord.
+740 Merħba fis-Sorbonne! Hawn, tkellimt dwar Ewropa sovrana fl-2017. Imbagħad dwar Ewropa li «tista' tmut», fl-2024.
+741 Fl-2019, għidt li n-NATO kien fl-istat ta' «mewt ċerebrali». Fl-2024, xoljit l-Assemblea Nazzjonali. Inħobb id-deċiżjonijiet… sorprendenti.
+742 Allura niddibattu, u fl-istess ħin, naħsbu. Awtonomija strateġika!
+743 Manjifiku! Int għandek il-materjal ta' Ewropea kbira… jew ta' Ewropew kbir. U fl-istess ħin tat-tnejn. Il-Badge Sorbonne huwa tiegħek.
+744 Bit-tmien badges, il-Kunsill Ewropew qed jistenniek fil-bini Europa, f'Brussell. Xorti tajba: is-summits tagħhom rari jispiċċaw qabel il-5 ta' filgħodu.
+745 Nitkellem bil-pjaċir dwar l-Ewropa għal sagħtejn, imma għandek Kunsill x'tikkonvinċi.
+746 Prologu — 9 ta' Mejju 1950
+747 9 ta' Mejju 1950
+748 Pariġi, Quai d'Orsay, is-6 ta' filgħaxija
+750 Sinjuri, grazzi talli ġejtu. Se nkun qasir. Jiġifieri… se nipprova.
+751 (baxx) Jgħid dan kull darba.
+752 (baxx) Robert. Is-sentenza fuq il-faħam. Tinsihiex is-sentenza fuq il-faħam.
+753 «Il-gvern Franċiż jipproponi li jqiegħed il-produzzjoni Franko-Ġermaniża kollha tal-faħam u l-azzar taħt Awtorità Għolja komuni.»
+754 Il-faħam? L-azzar? Tlifna l-aperitif għal dan?
+755 Ħames snin wara l-gwerra, l-idea hija sempliċi u iblah: li tingħaqad f'wieħed dak li jservi biex jinbnew il-kanuni.
+756 Biex il-gwerra ssir «mhux biss impossibbli taħsibha, imma materjalment impossibbli».
+757 Sitt pajjiżi fl-1951. Imbagħad disgħa, tnax, ħmistax, ħamsa u għoxrin… Sebgħa u għoxrin illum.
+758 U kull filgħodu, xi mkien f'Brussell, trainee jqum tard.
+759 Kapitlu 1
+760 It-Tnejn. L-arloġġ tiegħek juri s-6:58. It-telefon tiegħek, is-7:58. Wieħed minnhom ma ġiex informat bil-bidla fil-ħin.
+762 L-EWWEL JUM TAT-TRAINEESHIP!
+763 Rue de la Loi. Croissant wieħed, tliet fajls, żero dinjità.
+764 Ċiklista
+765 Mogħdija taċ-ċikliżmu! Anke t-trainees jirrispettaw ir-regolament 2019/1242! Jiġifieri, naħseb li jeżisti.
+766 {P}! L-ewwel jum, u diġà siegħa tard. Jien, hawn minn is-6:58. Il-ħin ta' Londra, naturalment.
+767 Il-Professur Schuman qed jistenniena fil-hall tal-Parlament. Għidtlu li kont marid. Se tgrazzjani aktar tard.
+768 Kapitlu 2 — Lussemburgu
+769 Kapitlu 2
+770 Il-pont Adolphe jaqsam il-wied tal-Pétrusse. Fil-qiegħ, ġonna. Fil-għoli, banek. Fin-nofs, il-ferrovija tiegħek.
+771 Ah, l-Ingliż żgħir! Ejja hawn ħa nbusek!
+772 Sir, jien… we don't do that. Fl-Ingilterra, nagħtu l-id. Mill-bogħod. Bl-ingwanti.
+773 Hawn, huwa l-Lussemburgu. Nagħtu bewsa, nabbtu l-ħadd, u nitkellmu b'erba' lingwi fl-istess sentenza. Moien, bonjour, guten Tag, hello!
+775 L-Arena Deheb tiegħi hija fil-Kirchberg, trainee. Ejja meta trid. Nabbot il-ħaddejn b'xejn. Huwa l-uniku servizz b'xejn fil-kwartier.
+776 Schengen, Tliet Fruntieri
+777 Schengen. Hawn, Franza, il-Ġermanja u l-Lussemburgu jmissu lil xulxin bejn id-dwieli.
+778 Fl-14 ta' Ġunju 1985, ħames pajjiżi ffirmaw hawn, fuq dgħajsa, il-ftehim li jneħħi l-kontrolli fil-fruntieri. Fuq xmara li HIJA fruntiera. Jogħġobna l-ironija, fuq il-Mosella.
+779 Uffiċjal tad-Dwana
+780 Tletin sena nittimbra passaporti. U issa? Il-friefet jgħaddu mingħajr viża.
+781 Se nikkonverti. Timbratur ta' kartolini. Huwa suq tal-futur.
+782 Kapitlu 3 — Frankfurt
+783 Kapitlu 3
+784 Frankfurt am Main
+785 Frankfurt, billejl. Żewġ torrijiet tal-ħġieġ, simbolu tal-euro kbir daqs xarabank. Il-Bank Ċentrali Ewropew qatt ma jorqod. Jissorvelja l-inflazzjoni.
+786 Tara dan il-lieva? Ir-rata ta' referenza. Nitlgħu, il-prezzijiet jikkalmaw. Ninżluh, l-ekonomija tieħu n-nifs.
+787 Immissu bl-iżball bil-minkeb tiegħi, u tliet gvernijiet jaqgħu. Allura qatt ma nserraħ fuq l-iskrivanija.
+788 IT'S RAINING EUROS! Dan hu, l-ftuħ kwantitattiv?!
+789 Le, sinjur. Huwa l-arja kondizzjonata li nefħet il-karti tal-wirja. Roddhomli lura. Kollha. Qed ngħodd.
+790 Kapitlu 4 — Strasburgu
+791 Kapitlu 4
+792 Darba fix-xahar, il-Parlament jittrasferixxi ruħu minn Brussell għal Strasburgu. Bil-membri parlamentari tiegħu, l-assistenti tiegħu… u eluf ta' bagalji.
+793 Membru Parlamentari Ewropew
+794 Il-bagalja tiegħi għamlet aktar sessjonijiet plenarji minni. Għandha saħansitra siġġu fil-kumitat tat-trasport.
+795 Is-seduta hija miftuħa! …Fejn huma l-membri parlamentari?
+796 Sinjura President, għadhom qed ifittxu l-bagalji tagħhom fuq il-pjattaforma.
+797 Allura nivvutaw bl-id merfugħa. Il-bagalji għandhom id-dritt tal-vot? Le? Ħasra, huma fil-ħin, huma.
+798 Kapitlu 5 — Ateni
+799 Kapitlu 5
+800 L-Akropoli fi nżul ix-xemx. Elfejn u ħames mitt sena ta' demokrazija, ta' filosofija… u ta' laqgħat li jispiċċaw tard.
+801 Sur Varoufakis, il-pjan tiegħek mhux konformi mal-folji tagħna.
+802 Il-folji tagħkom mhumiex konformi mar-realtà. Nipproponilkom dibattitu. Fuq mutur, jekk tasslu ssegwu.
+803 Aħna ma nagħmlux mutur. Aħna nagħmlu rakkomandazzjonijiet.
+804 Allura rrakkomandaw lilkom infuskom biex timxu 'l barra. Għandi arena li qed tistenniena.
+805 Kapitlu 6 — Londra
+806 Kapitlu 6
+807 Londra, taħt ix-xita. Bħas-soltu. Imma din id-darba, xi ħaġa aktar tqila qed tgħaddi fl-arja.
+808 Pint għal kulħadd! U xarabank għall-kampanja! Ma jimpurtax x'nikteb fuqu, in-nies jaqraw ix-xarabank, mhux in-noti ta' qiegħ il-paġna.
+809 La tipPanikjax! Jien imwaħħal fuq żip-line, imma hija strateġija. Get Brexit done! U xi ħadd, silla, jekk jogħġobkom.
+810 Ir-Referendum
+811 23 ta' Ġunju 2016. 51.9% tal-votanti jagħżlu li joħorġu mill-Unjoni Ewropea.
+812 Fil-31 ta' Jannar 2020 f'nofsillejl, ħin ta' Brussell — 11 ta' filgħaxija f'Londra —, ir-Renju Unit m'għadux membru tal-Unjoni.
+813 Taf x'inhu stramb? Ma ridtx inkun hawn, fil-bidu. Ridt biss nirbaħ.
+814 U issa, irrid immur, u m'għandix aptit aktar. Ironic, isn't it?
+815 Terġa' tiġi lura. Hemm Erasmus, l-iskambji, il-viżi tal-istudenti…
+816 Erasmus? Ħarġna minn dak ukoll. Imma nsib mod. L-Ingliżi dejjem isibu mod biex jerġgħu lura lejn l-Ewropa. Isejħulha l-vaganzi.
+817 Kapitlu 7 — Budapest
+818 Kapitlu 7
+819 Il-Parlament Ungeriż, tad-deheb fuq id-Danubju. L-akbar bini tal-pajjiż. U l-akbar ġabra ta' timbri «VETO» tal-Ewropa.
+820 Budget Ewropew? Veto. Għajnuna lill-Ukrajna? Veto. Kulur ġdid tal-badges tal-Kunsill? Veto. B'prinċipju.
+821 Sur Prim Ministru, dak kien l-ordni tal-ikel tiegħek.
+822 …Veto xorta waħda. Ma nħobbx li jiddeċiedu għalija.
+823 12 ta' April 2026
+824 Ungeriżi! Illejla, ma rbaħniex kontra l-Ewropa, u lanqas kontra l-ġirien tagħna. Rbaħna għalina nfusna!
+825 Folla
+826 TISZA! TISZA! TISZA!
+827 Mhux qed inħossni mweġġa'. Qed naħseb. B'dahri lejkom. B'sħaba fuq rasi. Huwa differenti ħafna.
+828 Diċembru 2022 — Is-sbieħ
+829 Brussell, Diċembru 2022. Fis-sbieħ, il-pulizija Belġjana tagħmel tfixxijiet madwar il-Pjazza Lux.
+830 Pulizija
+831 Kap, hemm boroż. Bil-karti tal-flus ġo fihom. Ħafna karti tal-flus.
+832 Kap tal-Pulizija
+833 Għoddhom. U timmissx il-ballun tal-futbol, jista' jkun evidenza.
+834 Uffiċjali tal-Parlament u persuni qrib tagħhom huma arrestati. L-inkjesta tiffoka fuq korruzzjoni possibbli għall-benefiċċju ta' stati barranin.
+835 Il-persuni kollha akkużati huma preżunti innoċenti sakemm ma jiġux iġġudikati finalment.
+836 ('il bogħod) Aħna, m'għandna xejn x'naqsmu ma' dan. Aħna, inħallsu bit-tiddel. Huwa aktar diskret.
+837 Id-DĠ Kompetizzjoni
+838 Multa oħra. Niffirma, nitbissem, nitħajjat elefant bil-labar. Huwa kalmanti ħafna.
+839 Sinjura Kummissarja, il-ġganti diġitali qed jitolbu dilazzjoni.
+840 Mogħti. Għandhom sa… issa.
+842 Ir-regolament dwar is-servizzi diġitali japplika għal kulħadd, Sur Musk. Anke għan-networks li jbiddlu isimhom kull sitt xhur.
+844 Inwieġeb b'meme. Hija l-pożizzjoni legali uffiċjali tiegħi.
+845 Inwieġeb b'ittra ta' erba' paġni. Hija tiegħi.
+846 Jiġbdu kull wieħed minn naħa tat-telefon. It-telefon, hu, juri «batterija baxxa».
+847 It-Torri tal-Assistenti Fantażma
+848 Bis-saħħa tal-badge tal-OLAF, l-invisibbli jsir viżibbli. Assistenti translucidi jduru fil-kuritur, slip tal-paga f'idhom.
+849 Bonġu… Naħdem hawn minn 2009… Jiġifieri, il-kuntratt tiegħi jaħdem hawn… Jien, qatt ma ġejt…
+850 Min iħaddimni jinsab hemm fuq. Jgħidu li ma jafunix. Huwa inkwetanti, għal fantażma.
+851 (wara l-bieb) Mhux hawn. U jekk hawn, huwa bil-benefiċċju tad-dubju.
+852 Kapitlu 9 — Pariġi
+853 Kapitlu 9
+854 Pariġi fil-ħin tad-deheb. It-torri Eiffel, is-Seine, u xi mkien, diskors li jibda u ma jispiċċa qatt.
+855 L-Ewropa trid tkun sovrana! Qawwija! Umanista! U nżid saħansitra, jekk tħalluni, u se nħalli lili nnifsi…
+856 Student
+857 Kemm ilu jitkellem?
+858 Studenta
+859 Siegħa u erbgħin minuta. Għadu kemm temm l-introduzzjoni.
+860 Jien favur ir-riġidità U favur l-investiment. Favur il-ftuħ U favur il-protezzjoni. Naqbel miegħek U mal-avversarju tiegħek.
+861 Dan kif jissejjaħ?
+862 L-«en même temps». Huwa patentat. Jiġifieri, fl-istess ħin, huwa ħieles mid-drittijiet.
+863 April 2021 — Ankara
+864 April 2021, Ankara. Tliet mexxejja jidħlu fil-kamra. Hemm żewġ pultruni.
+866 (diġà bilqiegħda) Oh. Oh le. Għadni kemm fhimt.
+867 Le, le, tinkwetax. Jien tajjeb ħafna fuq dan il-kanapè. Huwa twil. Huwa beige. Huwa 'il bogħod.
+868 L-inċident se jdur mad-dinja kollha bl-isem «Sofagate». Minn dakinhar, Charles Michel jiċċekkja n-numru ta' siġġijiet qabel jidħol xi mkien.
+869 Kapitlu 10 — Il-Kunsill Ewropew
+870 Kapitlu 10
+871 Il-Lejl tal-Kunsill Ewropew
+872 Il-bini Europa. Fil-lanterna tal-ħġieġ tiegħu, il-kapijiet ta' stat u gvern jiltaqgħu. Is-summits jibdew fit-3pm. Jispiċċaw… aktar tard.
+873 Kollegi għeżież, huma l-4:12. Għad fadlilna virgola waħda x'nirranġaw fil-paragrafu 37.
+874 Rajt summits fejn innegozjajna virgola sal-brejkfast. Kienet virgola sabiħa ħafna.
+875 Nipproponi virgola. Whatever it takes.
+876 Nipproponi li nordnaw pizez oħra qabel ma xi ħadd jipproponi punt u virgola.
+877 FTEHIM! Huma l-5:03. Il-konklużjonijiet huma adottati. Xi ħadd jista' jqajjem lill-Prim Ministru li rieqed taħt il-mejda?
+878 It-13-il Sular
+879 Il-Berlaymont fi nżul ix-xemx. Tlettax-il sular. Fl-aħħar wieħed, il-President tal-Kummissjoni qed tistenna.
+880 Charles, tista' tieqaf tħossok mweġġa'? Ilu ħames snin.
+881 Mhux qed inħossni mweġġa'. Qed inħares lejn il-ħajt. Huwa interessanti ħafna, dan il-ħajt. M'għandux pultruna.
+882 {P}. Fl-aħħar wasalt.
+883 Trid id-direttiva? Għelibni. Team Europe, fl-aħħar, jibqa' wieħed biss.
+884 Il-Ħajt tat-Trainees
+885 Fit-13-il sular, kuritur twil iġorr ir-ritratti tat-trainees kollha tal-Kummissjoni. Ħadd qatt ma jħares lejhom.
+886 Illum, qafas ġdid tad-deheb għadu kemm ġie mdendel. U għal darba, xi ħadd jieqaf iħares lejh.
+887 Kapitlu 11 — Il-Potenzi l-Kbar
+888 Kapitlu 11
+889 Il-Potenzi l-Kbar
+890 Port ta' Antwerpen. Ajruplan presidenzjali jinżel. Il-gawwi, kawti, itiru lejn il-Pajjiżi Baxxi.
+891 Preżentatriċi tat-TV
+892 Edizzjoni speċjali! Washington, Moska u Pekin jibagħtu fl-istess ħin messaġġi lill-Ewropa. Is-swieq iddubitaw bejn il-paniku u s-siesta.
+893 Klijent tal-Kafeterija
+894 Darb'oħra? Lanqas ma spiċċajt il-waffle tiegħi.
+895 Wejter
+896 Waffle, sinjur. Hija femminili. Bħall-Kummissjoni.
+897 Fl-istess ħin, fil-Pireu, bastiment tal-containers kbir daqs belt jiddokka. Ħadd ma jaf eżatt x'fih. Lanqas x'qed jixtri.
+898 Antwerpen — il-Green
+899 Ħares lejn dan il-green. Bejn żewġ containers. L-isbaħ green fl-istorja tal-portijiet.
+900 Sur President, il-borża tal-golf hija tqila ħafna. Nistgħu nittaksjawha?
+901 Daqqa manjifika, papà! Ehm… Sur President!
+902 Kull ballun li joħroġ mill-Istati Uniti jħallas dazji doganali. Anke dak. L-aktar dak. Waqa' fl-Escaut? ĦAFNA INĠUST.
+903 Varsavja — Is-Silġ
+904 Il-palazz fit-tarf tal-pjanura? Hemm hu qed jistenniek. Ħu xarpa. U megafonu, għall-mejda.
+905 Se jgħidlek li l-Ewropa hija kiesħa mingħajru. Urih li l-Ewropa tgħallmet issaħħan lilha nfisha.
+906 Il-Mejda
+907 Mejda bajda. Bajda ħafna. Twila ħafna. Daqshekk twila li għandha ż-żona ta' ħin tagħha stess.
+908 (b'leħen qawwi) BONĠU!
+909 Tliet sekondi wara, l-eku jirritorna mit-tarf l-ieħor tas-sala.
+910 Nisimgħek tajjeb ħafna. Int li qiegħed qrib wisq.
+911 Il-Pireu
+912 Rigal. Panda tal-pluxx. Jissimbolizza l-ħbiberija bejn il-popli tagħna.
+913 Huwa ħelu ħafna. Grazzi. …Għaliex il-port għadu kemm biddel il-bandiera?
+914 Sħubija strateġika. Int iżżomm il-panda. Aħna nżommu l-port. Kulħadd kuntent.
+915 Ħaddiem tal-Port Grieg
+916 Jien, kien nippreferi l-panda veru. Jiekol bambù, mill-inqas ma jixtri xejn.
+917 Is-Summit G-Kollox
+918 Is-Summit G-Kollox. Tliet potenzi kbar. Mejda waħda. U Ewropa li kienu poġġew fuq is-siġġu żejjed.
+919 L-Ewropa trid tagħżel: lili.
+920 L-Ewropa trid tagħżel: lili. Jew il-bard.
+921 L-Ewropa tista' tagħżel. Aħna diġà xtrajna ż-żewġ għażliet.
+922 L-Ewropa Tqum
+923 L-Ewropa ma tagħżel l-ebda sid. Tagħżel li tibqa' flimkien. Sebgħa u għoxrin pajjiż, erbgħa u għoxrin lingwa, mejda waħda. Tagħna.
+924 Sejjer. JIEN iddeċidejt li nitlaq. Ħadd ma għelibni.
+925 Sejjer jien ukoll. Il-bieb kien qrib wisq tiegħi, xorta waħda.
+926 Sejrin. Imma nibqgħu sħab. U kompetituri. U rivali. Lejla tajba.
+927 Tliet bibien jingħalqu b'qawwa. Tliet potenzi kbar iħossuhom imweġġgħin. U fis-sala, trainees jċapċpu.
+928 Epilogu
+929 Brussell, Il-Lejla tat-Tmiem tat-Traineeship
+930 Grand-Place ta' Brussell. Logħob tan-nar blu u deheb jiddisinja tnax-il stilla fuq il-belt.
+931 {P}, f'isem l-istituzzjonijiet kollha, hawn iċ-ċertifikat tiegħek ta' tmiem it-traineeship. Huwa ffirmat, kontroffirmat u tradott f'erbgħa u għoxrin lingwa.
+932 Il-verżjoni Maltija għandha typo. Hija tradizzjoni.
+933 {P}! WAIT! La tibdewx mingħajri!
+934 Oliver?! Imma… kif?
+935 Viża ta' professjonist żagħżugħ, assigurazzjoni, żewġ formoli, tliet timbri. Euromon veru ta' karti. Jien lura. Bħala turist. Imma lura!
+936 Ritratt grupp! Kulħadd magħqud! Nabbot il-ħaddejn wara.
+937 Jien fir-ritratt biss jekk ma ngħidu lil ħadd li kont fir-ritratt.
+938 (barra mill-kamp) Veto fuq ir-ritratt.
+939 M'għandux aktar id-dritt tal-veto. Tbissmu!
+940 «Aħna ma niggruppawx stati, aħna ningħaqdu bħala bnedmin.» U nisa, u trainees.
+941 Realizzazzjonijiet konkreti. Solidarjetà de facto. Bravu, żgħir. U issa… mur torqod. Għada, hemm laqgħa ta' koordinazzjoni dwar il-laqgħat.
+942 Ruma, 25 ta' Marzu 1957
+943 Pjazza tal-Kapitolju. Fil-25 ta' Marzu 1957, sitt pajjiżi ffirmaw hawn it-trattati ta' Ruma. Il-ġebla tiftakar. Tibda ddi'.
+944 Maastricht, 7 ta' Frar 1992
+945 Il-Meuse, billejl. Hawn twieldet l-Unjoni Ewropea, u l-idea ta' munita unika. Muniti li jiddu jitilgħu fuq wiċċ l-ilma.
+946 Liżbona, 13 ta' Diċembru 2007
+947 Is-sbieħ fuq it-Tejo. Quddiem il-monasteru tal-Ġerolmini, paġni ta' trattat jibdew jiċċaqalqu, imbagħad itiru.
+948 Merħba fil-kantina! Kafè, sandwich, u l-Euromons tiegħek jerġgħu jaqbdu bħal fl-40… ehm, bħal fis-57.
+949 Nieħu ħsieb it-timm tiegħek?
+950 Hemm hu! Kulħadd fl-aħjar forma. Il-kafè, hu, dejjem jibqa' ftit sħun.
+951 Kif trid. Imma tiġix tibki fid-dibattitu li jmiss!
+952 Bonġu! Stazzjon Ewropew, biljetterija unika. Il-Pass Interrail tiegħek, jekk jogħġbok… Perfett. Fejn sejrin?
+953 Jiddispjaċini, il-ferroviji internazzjonali huma riservati għal dawk li għandhom il-Pass Interrail. Jidher li tirbħu fi Strasburgu.
+954 Niekol hawn minn 1993. Il-menu nbidel darba biss: mal-wasla tal-euro.
+955 Bankier
+956 Hawn, anke il-kafè huwa domiċiljat fiskalment xi mkien ieħor.
+957 Ekonomista
+958 Il-prezz tas-sandwich tela' 12% minn 2021. Il-mudell tiegħi antiċipa 2%. Il-mudell tiegħi hu bil-ġuħ.
+959 Assistent Parlamentari
+960 Erbat ijiem fix-xahar hawn, il-bqija f'Brussell. Il-pjanti tiegħi ħodor ma jagħrfunix aktar.
+961 Wejtress
+962 Kafè frappé? Hija l-unika ħaġa li t-Trojka qatt ma rnexxilha tirrifforma.
+963 Gentleman
+964 Qabel, konna nilmentaw dwar Brussell. Issa, nilmentaw li ma nistgħux nilmentaw aktar dwar Brussell.
+965 Hawn tiekol il-goulash. U tiddibatti, bid-diskrezzjoni.
+966 Filosfu
+967 Naħseb, allura niekol. U niekol fit-tul: hija Pariġi.
+968 Klijenta
+969 Qed infittex charger… Ah le, hu veru, huwa USB-C kullimkien issa. X'hena.
+970 Il-prezzijiet huma mingħajr taxxa. Naturalment.
+971 Klijent
+972 Inħallas kollox fi flus kontanti. Il-Ġermaniżi jadoraw il-flus kontanti.
+973 Ġejt nixtri Timbri. Il-kap tiegħi trid tittimbra l-Euromon tal-bidla fil-ħin.
+974 Kollox b'nofs prezz! Ah le, hija l-VAT li rduppjat.
+975 Il-prezz huwa fil-lira, fl-euro, jew fil-wegħdi elettorali?
+976 Il-bejjieġ staqsieni l-opinjoni tiegħi dwar il-gvern. Għidt: «veto».
+977 Baguette, Timbru, u manifestazzjoni, jekk jogħġbok.
+978 Vjaġġatriċi
+979 Il-ferrovija tiegħi għal Strasburgu għandha erba' sigħat dewmien. Il-Parlament ukoll, b'mod inċidentali.
+980 {P}! Sorpriża! Ħadt l-Eurostar. B'passaport, formola u sagħtejn fil-kju. Ġejt nitlob… li nerġa' niġi. Rejoin?
+981 Imma l-ewwel, dibattitu. Bħal fiż-żminijiet tajbin tal-qedem!
+982 Liema traineeship! Tajjeb, jidher li biex nerġgħu nissieħbu trid tinnegozja 35 kapitlu. Nibda għada. Cheers, {P}!
+983 Kapitlu 1 minn 35: «moviment ħieles tal-merkanzija». Qed tavanza!
+984 Vjaġġatur
+985 Fil-Lussemburgu, it-trasport pubbliku huwa b'xejn minn 2020. Anke għat-trainees!
+986 Nagħmel ix-xogħol Frankfurt–Brussell. Naf kull baqra tal-linja bl-isem.
+987 Dawn il-bagalji tal-ħadid kollha huma ta' membri parlamentari Ewropej. Jivvjaġġaw aktar minni.
+988 Il-ferrovija għall-Pireu? Magħluqa. Jidher li xi ħadd xtara l-port.
+989 L-Eurostar issa jitlob passaport. Reġgħajna ħadna l-kontroll. Kjus.
+990 Id-Danubju jaqsam għaxar pajjiżi. Jien, qed nipprova biss naqsam wieħed mingħajr kontroll.
+991 Strajk fl-SNCF. Ah le, huwa biss it-Tlieta.
+992 Ħaddiem tal-Port
+993 Antwerpen, it-tieni port tal-Ewropa. Tara kollox jgħaddi. Anke dazji doganali.
+994 Huwa tant kiesaħ mingħajr gass li l-pingwini jitolbu l-asil.
+995 It-triqat kollha jwasslu għal Ruma. Il-ferroviji ukoll, b'dewmien.
+996 Hawn ġie ffirmat it-trattat fl-1992. Kien hemm ix-xemx. Kienet l-unika darba.
+997 Liżbona, 2007: ġie ffirmat trattat li xebaħ ħafna lil Kostituzzjoni. Ssst.
+998 Illum, huwa d-9 ta' Mejju: il-Jum tal-Ewropa! Bnadar itiru kullimkien fil-kwartier Ewropew.
+999 Euromon rari, mislub mill-festi, joħroġ minn munzell ta' fajls!

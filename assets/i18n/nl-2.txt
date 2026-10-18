@@ -1,0 +1,466 @@
+# Nederlands — ids 500-999
+500 In het Europagebouw zetelt de Europese Raad. U hebt de acht verdragsbadges nodig om ontvangen te worden.
+501 Bode
+502 De commissaris is… erg druk. Naar verluidt blokkeert Team Lobby al haar onderzoeken. Het speelt zich af onder de bar op het Luxemburgplein.
+503 DG Concurrentie ontvangt alleen ervaren stagiairs. Kom terug met minstens zes badges.
+504 Parlementsmedewerker
+505 Welkom in het Europees Parlement! Professor Schuman wacht op u achter in de hal.
+506 De trap rechts leidt naar de verdiepingen… Ze zeggen dat het in één vleugel spookt. Ik ga er nooit heen.
+507 Ah, {P}! Daar ben je eindelijk! Stipt… op een uur na. Verdraaide klokwissel.
+508 Hi! Ik ben hier al een uur. Ik leef op Londense tijd.
+509 Het laboratorium van de professor
+510 Goed. Jullie gaan met Euromons werken. De dossiers van dit Parlement zitten er vol mee.
+511 Ik heb er hier drie, piepjong. Ze zijn geboren uit grote Europese ideeën. Kies de jouwe, {P}.
+512 Ze komen… uit kartonnen mappen?
+513 In Brussel begint alles wat telt in een kartonnen map, Oliver. Zelfs Europa.
+514 VERDEAL, geboren uit de Green Deal. CHARBONNET, uit de EGKS van 1951. Of ATOMINO, vers uit Euratom.
+515 Verdeal (type Groen)
+516 Charbonnet (type Industrie)
+517 Atomino (type Energie)
+518 Uitstekende keuze! Zorg er goed voor. Eén goed verzorgde Euromon is meer waard dan tien slecht geratificeerde verdragen.
+519 Dan neem ik degene die de jouwe verslaat. That's just smart negotiation.
+520 Oliver! Dat is niet erg… communautair.
+521 Kom op, {P}, een klein debatje om te zien wie de beste stagiair is?
+522 What?! Verloren van een continentale stagiair?! Dat was… een proefronde.
+523 Ha! Zoals verwacht. Trek het je niet aan, {P}, het is cultureel.
+524 Bravo, jullie allebei. Nu de missie: de richtlijn over het einde van de klokwissel erdoor krijgen.
+525 Het Parlement heeft hem in maart 2019 aangenomen. Sindsdien slaapt hij in de Raad. Jullie hebben de acht verdragsbadges nodig om serieus genomen te worden.
+526 De eerste badge wacht in Luxemburg, bij Jean-Claude Juncker. Neem de Ardennenweg naar het oosten.
+527 Luxemburg? Easy. Ik ben er voor jou. See you, loser… eh, collega!
+528 Een ogenblik, {P}! Ik ben Jean Monnet. Ik heb de methode van de kleine stapjes uitgevonden. Hier is een grote stap: de EURODEX.
+529 Hij registreert elke Euromon die je tegenkomt. En hier is iets om ze officieel af te stempelen.
+530 Verzwak een wilde Euromon en gooi dan een officiële Stempel uit je TAS. Europa rekent op je!
+531 Moed, {P}! Elke badge is een steentje. Net als Europa: concrete verwezenlijkingen.
+532 Acht badges! De Europese Raad wacht op je in het Europagebouw. Ik ben zo trots.
+533 Laat je Eurodex eens zien…
+534 Praat eerst met professor Schuman, jonge stagiair.
+535 De professor is daar. Schiet op, ik verveel me.
+536 Route 1 — Ardennenwoud. Luxemburg: 3 uur te voet, 12 minuten per fiscale ruling.
+537 Wandelaar
+538 Het Ardennenwoud strekt zich uit over drie landen. De everzwijnen hebben nooit hun paspoort laten zien.
+540 Ooit worden we betaald. Ooit…
+541 Meneer Dupont
+542 Vergeet het tevredenheidsformulier niet in te vullen. Het telt 12 pagina's.
+544 Het GLB is een derde van de Europese begroting. En mijn combine een derde van mijn lening.
+545 Luxemburg-Kirchberg. Hof van Justitie van de EU, Rekenkamer, Europese Investeringsbank. En heel veel gewone banken.
+546 Naar Schengen, het Moezeldorp waar het akkoord van 1985 werd getekend. Volg het pad naar het zuiden.
+547 Een paadje loopt naar beneden, naar de Moezel… en naar Schengen.
+548 Het openbaar vervoer is hier gratis! Ik ben 14 keer met de tram rond de stad gereden. Voor niks. Gratis.
+549 Oma
+550 Mijn man was Europees ambtenaar. Hij werkte bij de Rekenkamer. Hij telde zelfs schaapjes om in slaap te vallen.
+551 Rechter
+552 Het Hof van Justitie van de Europese Unie zetelt hier sinds 1952. Onze arresten binden alle 27 staten. Zelfs op maandagochtend.
+553 Griffier
+554 Ik heb een arrest in 24 talen vertaald. In de Maltese versie staat een tikfout. Niemand heeft hem in tien jaar opgemerkt.
+555 Luxemburgse douanier
+556 De Moezelweg is voorbehouden aan houders van de Rulingbadge. Ga naar meneer Juncker in de Gouden Arena.
+557 {P}! Nog steeds hier? Ik heb al drie banken bezocht en twee rekeningen geopend. Voor de folklore.
+558 Debat!
+559 Goed, oké, je wordt beter. Ik ga naar Frankfurt, naar de ECB. Ze hebben beloofd me de rente uit te leggen.
+561 Hier in Luxemburg is discretie een deugd. En een industrie.
+562 Maître Klein
+563 De fiscale rulings waren legaal, weet u. Alleen mocht niemand ze lezen. LuxLeaks, 2014, wat een pech.
+565 Ah, de kleine stagiair van Schuman! Kom, kom. Ik ben ook klein begonnen. Daarna achttien jaar premier.
+566 Ik heb de Eurogroep voorgezeten, daarna de Commissie. Ik heb wat toppen gezien. En veel wangen geaaid.
+567 Eén keer, in 2011, zei ik: 'Als het serieus wordt, moet je liegen.' Dus ik ga je niet vertellen dat ik je laat winnen.
+568 Geweldig! Je hebt de Rulingbadge gewonnen. Die is officieel, niet vertrouwelijk!
+569 De Moezelweg staat voor je open. Frankfurt wacht, en Christine Lagarde maakt geen grapjes over de rente.
+570 Kom je me weer opzoeken? Kom hier, dan aai ik je over je wang. Dat is een Luxemburgse traditie. Nou ja, de mijne.
+571 Hier, op 14 juni 1985, aan boord van het schip Princesse Marie-Astrid, ondertekenden vijf landen het Schengenakkoord over de afschaffing van de grenscontroles.
+572 Kapitein
+573 De Princesse Marie-Astrid! Op zo'n boot zijn de grenzen afgeschaft. Ironisch, op een rivier die zelf een grens is.
+574 Naar verluidt zwerft een zeldzame Euromon, Schengeon, door de dossiers van het dorp. Hij stopt nooit bij de douane.
+575 Route 2 — Moezeldal. Drie landen in twintig kilometer. Vergeet niet van taal te wisselen.
+577 Gratis roaming is het mooiste cadeau van de Unie. Ik heb 4000 foto's van de Moezel gepost.
+579 Volgens mijn berekeningen win jij de volgende badge. Maar mijn berekeningen kloppen zelden.
+581 Luxemburgse crémant heeft een BOB! Net als mijn Fromajus.
+582 Europese Centrale Bank. Opdracht: prijsstabiliteit. Inflatiedoel: 2 % op middellange termijn. Middellange termijn: niet gespecificeerd.
+584 De markten zijn nerveus. Ze zijn altijd nerveus. Dat is hun vak.
+585 Spaarder
+586 Ik heb nog steeds mijn matras vol Duitse marken. Je weet maar nooit.
+587 De Rijnweg is gesloten voor stagiairs zonder Eurobadge. Ga naar mevrouw Lagarde bij de ECB.
+589 Ik speculeerde op jouw nederlaag. Ik ben mijn hemd kwijt. En mijn das.
+590 Dr. Sofia
+591 De schok was exogeen. Volledig exogeen.
+593 Welkom bij de Europese Centrale Bank. Hier beweegt elk woord dat ik zeg de markten. Dus kies ik mijn woorden.
+594 Op een dag in maart 2020 zei ik dat we er 'niet waren om de spreads te verkleinen'. De Italiaanse markten stortten in. Je leert ervan.
+595 In mijn arena volgt de kracht van mijn aanvallen de actuele beleidsrente. Klaar voor een beetje monetair beleid?
+596 Opmerkelijk. Uw strategie was… voorspelbaar, in de goede zin. Hier is de Eurobadge.
+597 Straatsburg ligt in het zuiden, voorbij de Rijnwijngaarden. Roberta Metsola zit het Parlement voor. Onderbreek haar nooit.
+598 De rente is vandaag stabiel. Geniet ervan, het duurt nooit lang.
+599 De ECB heeft me alles uitgelegd: inflatie, rente, balans… Ik heb er niets van begrepen. Kom, een debat om te ontspannen!
+600 Hmm. Weet je, bij mij thuis in Londen hebben sommigen het erover de Unie te verlaten. Dat zou belachelijk zijn, toch? …Toch?
+602 De Green Deal werd in december 2019 voorgesteld. Sindsdien vechten we om elke komma.
+604 Mijn volgende artikel: 'Commissie wil verloren debatten verbieden'. Het klopt niet, maar het gaat viraal.
+606 De Elzasser en de Badense wijn kijken elkaar aan over de Rijn. Vroeger waren het kanonnen. Vooruitgang!
+607 Straatsburg, officiële zetel van het Europees Parlement. 12 plenaire zittingen per jaar. 720 leden. Duizenden koffers.
+608 Europarlementariër
+609 Ik doe sinds 2014 twaalf keer per jaar Brussel–Straatsburg. Dat zijn… 132 verhuizingen. Mijn koffers hebben meer spaarpunten dan ik.
+610 Ambtenaar
+611 Help! De zitting begint over 2 minuten en de koffers van de parlementariërs zijn niet ingeladen! Kun je me helpen?
+612 Alle koffers zijn aan boord! Hier, neem dit, de officiële beloning van de logistieke dienst.
+613 Mis… Goed, dan zeggen we dat de zitting te laat begint. Zoals altijd. Probeer het opnieuw wanneer je wilt!
+614 Nou ja… dan ga ik weer in een koffer zitten huilen.
+615 Europarlementariër Müller
+616 Mijn 2000 amendementen… en bloc verworpen. We moeten in de commissie opnieuw beginnen.
+617 Europarlementariër Rossi
+618 Voor het Verdrag van Lissabon had ik een hele koffer vol aantekeningen. Die is in Brussel gebleven.
+619 Bode
+620 Stilte in het halfrond! Mevrouw de Voorzitter aanvaardt debatten pas na een stemming. Wilt u een plenaire stemming proberen?
+621 Met meerderheid aangenomen! De voorzitter ontvangt u.
+622 Verworpen… Het quorum werd niet gehaald. Probeer opnieuw!
+623 Uw stem is geregistreerd. De voorzitter wacht op u.
+625 De vergadering is geopend. Voorzitter van het Parlement sinds 2022, herkozen in 2024: ik ben gewend de spreektijd te doen respecteren.
+626 U hebt dertig seconden. Ah, het is al voorbij. Goed, laten we debatteren!
+627 De uitslag is duidelijk: aangenomen! De Halfrondbadge is voor u.
+628 En hier is de Europese Interrail-pas. Daarmee staan alle stations voor u open. Uw volgende badge is in Athene.
+629 Naar verluidt geeft Yanis Varoufakis daar les… op de motor. Neem de trein in het station van Straatsburg.
+630 Een debat? Niet zonder een plenaire stemming. Ga naar de bode.
+631 De volgende zitting is over een maand. Vergeet uw koffers niet!
+632 Athene. Bakermat van de democratie, van de filosofie… en van het referendum van 5 juli 2015.
+633 De Akropolis is 2500 jaar oud. Ze heeft de Perzen, de Ottomanen en de trojka overleefd.
+634 Griekse douanier
+635 De haven van Piraeus? Gesloten voor bezoekers. Hij is van… partners. Heel erg partners.
+636 Sorry, toegang tot de haven beperkt. Kom terug als de situatie… diplomatieker is.
+638 In 2015 stemde ik OXI. En daarna… is het ingewikkeld.
+639 Trojka-agent (ECB)
+640 Ons rapport adviseert nog meer soberheid. Zelfs voor uw Euromons.
+641 Trojka-agent (IMF)
+642 We erkennen enkele fouten in onze prognoses. Onder ons.
+644 Kom je voor een badge? Ik kwam hier op de motor, in een leren jack, zonder das. Zoals op de vergaderingen van de Eurogroep in 2015.
+645 Zes maanden minister van Financiën. Ik trad af na het referendum: 61 % voor OXI. Democratie is mooi, en koppig.
+646 De trojka lag op de loer. Jij hebt haar agenten verslagen. Laat zien of je sterker bent dan de bezuinigingen!
+647 NAI! Eh, ik bedoel: bravo. Hier is de OXI-badge, kameraad.
+648 Je volgende badge is in Londen. Maar haast je: daar praat men steeds vaker over een zekere uitgang.
+649 Ik ga weer een lezing geven. Over schulden. Op de motor.
+650 Westminster. Hier stemde het Verenigd Koninkrijk op 23 juni 2016 met 51,9 % om de Europese Unie te verlaten.
+651 Koninklijke wacht
+652 (Hij beweegt niet. Zelfs niet voor de brexit.)
+653 Hoofdredacteur
+654 Morgen koppen we over te rechte komkommers. Dat werkt al twintig jaar.
+656 In de jaren negentig was ik Brussels correspondent voor de Daily Telegraph. Ik schreef… fantasierijke dingen. Get Brexit done!
+658 Welkom in de pub! Een pint? Ik heb twintig jaar in het Europees Parlement uitgelegd dat we er niet thuishoorden.
+659 Op 28 juni 2016 riep ik de Europarlementariërs toe: 'Nu lachen jullie niet meer, hè?' Ze lachten niet. Jij gaat ook niet lachen.
+660 Goed. U hebt gewonnen. Neem deze Artikel 50-badge. Wij hebben hem al gebruikt.
+661 Bent u er nog? We zijn eruit gestapt, hoor.
+662 Ik moet naar huis. Ik mag geen stagiair meer zijn in het Parlement. Maar eerst… een laatste debat. Voor de eer.
+663 Bedankt, {P}. Hou de richtlijn voor me in de gaten. En de zomertijd. Bij ons veranderen we die natuurlijk nooit.
+664 Goodbye. Of eerder… see you later. Wie weet?
+665 Oliver is weg. De trein naar Londen verschijnt niet meer aan het loket. Volgende halte: Boedapest, aan de Donau.
+666 Országház, het Hongaarse parlement aan de Donau. Het grootste gebouw van Hongarije. En het grootste veto.
+667 Jonge Hongaarse
+668 Men zegt dat de oppositie terrein wint. Een zekere Péter Magyar voert campagne in het hele land.
+670 De Hongaren hebben op 12 april 2026 gestemd. Mijn partij, Tisza, kreeg een tweederdemeerderheid. Er wordt een nieuwe bladzijde omgeslagen!
+672 We hebben een hek gebouwd. Het is vooral goed voor foto's.
+673 Speciaal adviseur
+674 De premier gaat zo even koffie halen. Dat is een onderhandelingstechniek.
+676 U zoekt een akkoord? Hier is unanimiteit nodig. En ik ben het nooit eens.
+677 In 2024 zat ik de Raad van de Unie voor met de slogan 'Make Europe Great Again'. Doet dat een belletje rinkelen?
+678 In mijn arena kan ik elke beurt mijn VETO uitspreken. En soms… ga ik koffie halen. Zoals in december 2023, tijdens de stemming over Oekraïne.
+679 …Goed. Ik onthoud me. Neem deze Vetobadge. Officieel was ik niet in de zaal.
+680 Een paar maanden later, op 12 april 2026, stemmen de Hongaren. De partij Tisza van Péter Magyar wint met een tweederdemeerderheid.
+681 Orbán heeft zijn nederlaag erkend: 'pijnlijk, maar duidelijk'. Bedankt, stagiair. Ga terug naar Brussel: DG Concurrentie schijnt een… lobbyprobleem te hebben.
+682 Ik ben koffie gaan halen. Kom later terug. Veel later.
+684 Op het Luxemburgplein komt op donderdagavond heel Brussel iets drinken. Parlementariërs, assistenten… en lobbyisten. Vooral lobbyisten.
+685 De kelder? Alleen voor leden. Staat u in het transparantieregister? Nee? Ik ook niet. Kom maar binnen.
+686 Doorlopen, stagiair. Hier praten de grote mensen over zaken.
+687 Olielobbyist
+688 De energietransitie? Die steunen we. Vanaf 2080.
+689 Techlobbyist
+690 Wij respecteren de AVG. We hebben zelfs een cookiebanner van 47 pagina's.
+691 De koffers? Dat zijn documentatiekoffers. Zeer goed gedocumenteerd.
+693 In december 2022 vond de Belgische politie tassen met bankbiljetten in meerdere appartementen in Brussel. Men noemde het 'Qatargate'.
+694 Ik was ondervoorzitter van het Parlement. Ik heb de beschuldigingen altijd betwist. Op de datum van dit spel is in deze zaak nog geen definitief vonnis geveld.
+695 Opmerking: elke betrokkene wordt voor onschuldig gehouden zolang hij niet is veroordeeld.
+696 De Hoofdlobbyist
+697 Zo, zo. De stagiair. Weet je met hoeveel we zijn in Brussel? 25 000. En jij bent er één.
+698 Jouw zomertijdrichtlijn? Ik heb klanten die klokken verkopen. Hij blijft geblokkeerd. Tenzij…
+699 Goed gespeeld. Ik meld mijn nederlaag officieel in het transparantieregister. En ik ga naar de privésector. O, daar zit ik al.
+700 Team Lobby valt uiteen. De onderzoeken van DG Concurrentie kunnen hervat worden!
+701 Big Tech-advocaat
+702 We gaan in beroep. En dan in beroep tegen het beroep.
+703 Mededingingsjurist
+704 Misbruik van een machtspositie… 'Misbruik' is een groot woord.
+706 Bedankt dat u ons van Team Lobby hebt verlost. Mijn dossiers komen eindelijk vooruit!
+707 Google: 2,4 miljard euro boete in 2017, 4,3 miljard in 2018. Apple: 13 miljard aan belastingvoordelen terug te betalen, in 2024 bevestigd door het Hof.
+708 Respecteert uw team de mededingingsregels? Ik ga het controleren. Persoonlijk.
+709 Geen inbreuk vastgesteld. De Boetebadge is voor u. En neem dit ook: de OLAF-badge, van het Bureau voor fraudebestrijding.
+710 Er worden… vreemde verschijningen gemeld in een vleugel van het Parlement. Assistenten die niemand ooit ziet. Met deze badge ziet u ze wel.
+711 Vandaag geen boete voor u. Geniet ervan.
+712 Een koude gang… Je hoort toetsenborden vanzelf tikken. Maar er is niemand. Je zou een manier nodig hebben om het onzichtbare te zien.
+713 Beter voorlopig weer naar beneden gaan.
+714 Spookassistent
+715 Mijn kantoor? Ik heb het nooit gevonden…
+716 Ik werd betaald om… een partij te assisteren. Geen parlementariër.
+717 Hoeoe… Door de klokwissel verschijn ik twee keer per jaar…
+718 In mijn contract staat 'lokale assistent'. Lokaal van wat? Raadsel.
+719 Ik verdwijn… eindelijk…
+720 Bedankt… dat je me van dit contract hebt bevrijd…
+722 De affaire van de parlementaire assistenten van het FN: het systeem betaalde partijmedewerkers met geld van het Europees Parlement.
+723 Ik werd op 31 maart 2025 in eerste aanleg veroordeeld, en op 7 juli 2026 in hoger beroep: drie jaar, waarvan één effectief met enkelband, en vijftien maanden onverkiesbaarheid.
+724 Met deze straf in hoger beroep wordt haar kandidatuur voor de presidentsverkiezingen van 2027 theoretisch weer mogelijk. Een laatste cassatieberoep blijft denkbaar.
+726 De affaire van de MoDem-assistenten is iets anders. In februari 2024 werd ik vrijgesproken 'op grond van twijfel'. Het parket ging in beroep.
+727 Daarna was ik premier… van december 2024 tot september 2025. De tijd vliegt in Matignon.
+728 Spookassistenten doen niet aan politiek: ze spoken door alle partijen die hen slecht hebben ingezet.
+729 Het Lege Contract
+730 IK BEN… DE GEEST VAN ALLE CONTRACTEN ZONDER KANTOOR… VAN ALLE PARTIJEN… VAN ALLE ZITTINGSPERIODES…
+731 Het Lege Contract lost op in een wolk van loonstrookjes. De spookvleugel is eindelijk rustig.
+732 Er komt een bericht van Roberta Metsola binnen: 'Bedankt! De laatste badge wacht op u in Parijs, aan de Sorbonne.'
+733 De Sorbonne. Hier hield Emmanuel Macron twee grote toespraken over Europa, in 2017 en in 2024. De tweede duurde bijna twee uur.
+734 Ik vroeg de weg in het Engels. Ze antwoordden in het Frans. Met een glimlach. Een heel flauwe.
+735 Énarque
+736 Ik heb een synthesenota over mijn nederlaag geschreven. Die telt 80 pagina's.
+737 Staatssecretaris
+738 Ik ben net tijdens het gevecht weggeschoven. Dat is een record.
+740 Welkom aan de Sorbonne! Hier sprak ik in 2017 over een soeverein Europa. En in 2024 over een Europa dat 'kan sterven'.
+741 In 2019 zei ik dat de NAVO 'hersendood' was. In 2024 ontbond ik de Nationale Vergadering. Ik hou van… verrassende beslissingen.
+742 Laten we dus debatteren en tegelijkertijd nadenken. Strategische autonomie!
+743 Prachtig! U hebt het in u om een grote Europese te worden… of een grote Europeaan. En tegelijkertijd allebei. De Sorbonnebadge is voor u.
+744 Met acht badges wacht de Europese Raad op u in het Europagebouw in Brussel. Succes: hun toppen eindigen zelden voor 5 uur 's ochtends.
+745 Ik zou u graag twee uur over Europa vertellen, maar u moet een Raad overtuigen.
+746 Proloog — 9 mei 1950
+747 9 mei 1950
+748 Parijs, Quai d'Orsay, 18 uur
+750 Mijne heren, bedankt voor uw komst. Ik zal het kort houden. Nou ja… ik zal het proberen.
+751 (fluisterend) Dat zegt hij elke keer.
+752 (fluisterend) Robert. De zin over de kolen. Vergeet de zin over de kolen niet.
+753 'De Franse regering stelt voor de gehele Frans-Duitse kolen- en staalproductie onder een gemeenschappelijke Hoge Autoriteit te plaatsen.'
+754 Kolen? Staal? Hebben we hiervoor het aperitief gemist?
+755 Vijf jaar na de oorlog is het idee simpel en gek: samenvoegen waarmee je kanonnen maakt.
+756 Zodat oorlog 'niet alleen ondenkbaar, maar ook materieel onmogelijk' wordt.
+757 Zes landen in 1951. Daarna negen, twaalf, vijftien, vijfentwintig… Zevenentwintig vandaag.
+758 En elke ochtend wordt ergens in Brussel een stagiair te laat wakker.
+759 Hoofdstuk 1
+760 Maandag. Je wekker zegt 6.58 uur. Je telefoon 7.58 uur. Eén van de twee is niet op de hoogte gebracht van de klokwissel.
+762 EERSTE STAGEDAG!
+763 Wetstraat. Eén croissant, drie dossiers, nul waardigheid.
+764 Fietser
+765 Fietspad! Zelfs stagiairs respecteren verordening 2019/1242! Nou ja, ik denk dat die bestaat.
+766 {P}! Eerste dag, en al een uur te laat. Ik ben hier sinds 6.58 uur. Londense tijd, natuurlijk.
+767 Professor Schuman wacht op ons in de hal van het Parlement. Ik heb gezegd dat je ziek was. Je mag me later bedanken.
+768 Hoofdstuk 2 — Luxemburg
+769 Hoofdstuk 2
+770 De Adolphebrug overspant het dal van de Petrusse. Beneden tuinen. Boven banken. Daartussen jouw trein.
+771 Ah, het kleine Engelsmannetje! Kom hier, dan krijg je een zoen!
+772 Sir, ik… we don't do that. In Engeland geven we elkaar een hand. Van een afstand. Met handschoenen.
+773 Dit is Luxemburg. We geven zoenen, aaien over de wang en spreken vier talen in dezelfde zin. Moien, bonjour, guten Tag, hello!
+775 Mijn Gouden Arena staat op de Kirchberg, stagiair. Kom wanneer je wilt. Wangen aaien doe ik gratis. Het is de enige gratis dienst in de wijk.
+776 Schengen, drie grenzen
+777 Schengen. Hier raken Frankrijk, Duitsland en Luxemburg elkaar met de toppen van hun wijnranken.
+778 Op 14 juni 1985 ondertekenden vijf landen hier, op een boot, het akkoord dat de grenscontroles afschafte. Op een rivier die een grens IS. Aan de Moezel houden we van ironie.
+779 Douanier
+780 Dertig jaar stempel ik paspoorten. En nu? De vlinders gaan zonder visum door.
+781 Ik ga omscholen. Ansichtkaartenstempelaar. Een markt met toekomst.
+782 Hoofdstuk 3 — Frankfurt
+783 Hoofdstuk 3
+784 Frankfurt am Main
+785 Frankfurt, 's nachts. Twee glazen torens, een euroteken zo groot als een bus. De Europese Centrale Bank slaapt nooit. Ze houdt de inflatie in de gaten.
+786 Ziet u deze hendel? De beleidsrente. Gaat hij omhoog, dan bedaren de prijzen. Gaat hij omlaag, dan ademt de economie.
+787 Raak ik hem per ongeluk met mijn elleboog, dan vallen er drie regeringen. Dus leun ik nooit op het bureau.
+788 IT'S RAINING EUROS! Is dit kwantitatieve versoepeling?!
+789 Nee, meneer. De airco heeft de bankbiljetten van de tentoonstelling weggeblazen. Geef ze terug. Allemaal. Ik tel mee.
+790 Hoofdstuk 4 — Straatsburg
+791 Hoofdstuk 4
+792 Eén keer per maand verhuist het Parlement van Brussel naar Straatsburg. Met zijn parlementariërs, zijn assistenten… en duizenden koffers.
+793 Europarlementariër
+794 Mijn koffer heeft meer plenaire zittingen bijgewoond dan ik. Hij heeft zelfs een zetel in de vervoerscommissie.
+795 De vergadering is geopend! …Waar zijn de parlementariërs?
+796 Mevrouw de Voorzitter, ze zoeken hun koffers nog op het perron.
+797 Dan stemmen we bij handopsteken. Hebben koffers stemrecht? Nee? Jammer, die zijn tenminste op tijd.
+798 Hoofdstuk 5 — Athene
+799 Hoofdstuk 5
+800 De Akropolis bij zonsondergang. Tweeënhalfduizend jaar democratie, filosofie… en vergaderingen die laat eindigen.
+801 Meneer Varoufakis, uw plan klopt niet met onze spreadsheets.
+802 Uw spreadsheets kloppen niet met de werkelijkheid. Ik stel een debat voor. Op de motor, als u kunt volgen.
+803 Wij rijden geen motor. Wij doen aanbevelingen.
+804 Beveel uzelf dan maar aan om opzij te gaan. Er wacht een arena op me.
+805 Hoofdstuk 6 — Londen
+806 Hoofdstuk 6
+807 Londen, in de regen. Zoals altijd. Maar deze keer hangt er iets zwaarders in de lucht.
+808 Een pint voor iedereen! En een bus voor de campagne! Wat erop staat maakt niet uit, de mensen lezen de bus, niet de voetnoten.
+809 Geen paniek! Ik hang vast aan een tokkelbaan, maar dat is strategie. Get Brexit done! En kan iemand een ladder brengen?
+810 Het referendum
+811 23 juni 2016. 51,9 % van de kiezers kiest ervoor de Europese Unie te verlaten.
+812 Op 31 januari 2020 om middernacht Brusselse tijd — 23 uur in Londen — is het Verenigd Koninkrijk geen lid meer van de Unie.
+813 Weet je wat raar is? In het begin wilde ik hier niet zijn. Ik wilde alleen winnen.
+814 En nu moet ik weg, en ik wil niet meer. Ironic, isn't it?
+815 Je komt terug. Er is Erasmus, uitwisselingen, studentenvisa…
+816 Erasmus? Daar zijn we ook uit gestapt. Maar ik vind wel een manier. De Engelsen vinden altijd een manier om terug te komen naar Europa. Dat heet vakantie.
+817 Hoofdstuk 7 — Boedapest
+818 Hoofdstuk 7
+819 Het Hongaarse parlement, goudkleurig aan de Donau. Het grootste gebouw van het land. En de grootste verzameling 'VETO'-stempels van Europa.
+820 Europese begroting? Veto. Steun aan Oekraïne? Veto. Nieuwe kleur voor de badges van de Raad? Veto. Uit principe.
+821 Meneer de premier, dat was uw lunchbestelling.
+822 …Toch veto. Ik hou er niet van dat men voor mij beslist.
+823 12 april 2026
+824 Hongaren! Vanavond hebben we niet gewonnen tegen Europa, en ook niet tegen onze buren. We hebben gewonnen voor onszelf!
+825 Menigte
+827 Ik zit niet te mokken. Ik denk na. Met mijn rug naar jullie toe. Met een wolkje boven mijn hoofd. Dat is heel iets anders.
+828 December 2022 — het ochtendgloren
+829 Brussel, december 2022. Bij het ochtendgloren houdt de Belgische politie huiszoekingen rond het Luxemburgplein.
+830 Agent
+831 Chef, er staan tassen. Met bankbiljetten erin. Heel veel bankbiljetten.
+832 Politiechef
+833 Tel ze. En raak de voetbal niet aan, dat kan bewijsmateriaal zijn.
+834 Parlementsfunctionarissen en mensen uit hun omgeving worden opgepakt. Het onderzoek gaat over mogelijke corruptie ten gunste van buitenlandse staten.
+835 Alle betrokkenen worden voor onschuldig gehouden zolang ze niet definitief zijn veroordeeld.
+836 (in de verte) Wij hebben daar niets mee te maken. Wij betalen in hapjes. Dat is discreter.
+837 DG Concurrentie
+838 Weer een boete. Ik teken, ik glimlach, ik brei een olifant. Heel rustgevend.
+839 Mevrouw de commissaris, de digitale reuzen vragen uitstel.
+840 Toegestaan. Ze hebben tot… nu.
+842 De digitaledienstenverordening geldt voor iedereen, meneer Musk. Ook voor netwerken die elke zes maanden van naam veranderen.
+844 Ik antwoord met een meme. Dat is mijn officiële juridische standpunt.
+845 Ik antwoord met een brief van vier pagina's. Dat is het mijne.
+846 Ze trekken elk aan een kant van de telefoon. De telefoon toont intussen 'batterij bijna leeg'.
+847 De Toren van de spookassistenten
+848 Dankzij de OLAF-badge wordt het onzichtbare zichtbaar. Doorschijnende assistenten zweven door de gang, loonstrookje in de hand.
+849 Hallo… Ik werk hier sinds 2009… Nou ja, mijn contract werkt hier… Zelf ben ik nooit gekomen…
+850 Mijn werkgevers zitten helemaal boven. Ze zeggen dat ze me niet kennen. Kwetsend, voor een spook.
+851 (achter de deur) Ik ben er niet. En als ik er wel ben, dan op grond van twijfel.
+852 Hoofdstuk 9 — Parijs
+853 Hoofdstuk 9
+854 Parijs op het gouden uur. De Eiffeltoren, de Seine en ergens een toespraak die begint en nooit eindigt.
+855 Europa moet soeverein zijn! Machtig! Humanistisch! En ik zou zelfs willen toevoegen, als u het mij toestaat, en dat sta ik mezelf toe…
+856 Student
+857 Hoelang praat hij al?
+858 Studente
+859 Een uur en veertig minuten. Hij heeft net de inleiding afgerond.
+860 Ik ben voor strengheid EN voor investeringen. Voor openheid EN voor bescherming. Ik ben het eens met u EN met uw tegenstander.
+861 Hoe heet dat?
+862 Het 'tegelijkertijd'. Gepatenteerd. Nou ja, tegelijkertijd rechtenvrij.
+863 April 2021 — Ankara
+864 April 2021, Ankara. Drie leiders komen de zaal binnen. Er staan twee fauteuils.
+866 (zit al) O. O nee. Nu begrijp ik het.
+867 Nee, nee, blijf maar zitten. Ik zit hier prima op deze bank. Hij is lang. Hij is beige. Hij is ver weg.
+868 Het incident ging de wereld rond als 'Sofagate'. Sindsdien telt Charles Michel de stoelen voordat hij ergens binnengaat.
+869 Hoofdstuk 10 — De Europese Raad
+870 Hoofdstuk 10
+871 De nacht van de Europese Raad
+872 Het Europagebouw. In zijn glazen lantaarn vergaderen de staatshoofden en regeringsleiders. De toppen beginnen om 15 uur. Ze eindigen… later.
+873 Beste collega's, het is 4.12 uur. We moeten nog één komma regelen in paragraaf 37.
+874 Ik heb toppen meegemaakt waar we tot het ontbijt over een komma onderhandelden. Het was een heel mooie komma.
+875 Ik stel een komma voor. Whatever it takes.
+876 Ik stel voor dat we nog pizza's bestellen voordat iemand een puntkomma voorstelt.
+877 AKKOORD! Het is 5.03 uur. De conclusies zijn aangenomen. Kan iemand de premier wekken die onder de tafel slaapt?
+878 De 13e verdieping
+879 Het Berlaymont bij zonsondergang. Dertien verdiepingen. Op de bovenste wacht de voorzitter van de Commissie.
+880 Charles, kunt u ophouden met mokken? Het is vijf jaar geleden.
+881 Ik mok niet. Ik kijk naar de muur. Heel interessant, deze muur. Er staat geen fauteuil.
+882 {P}. Daar bent u eindelijk.
+883 Wilt u de richtlijn? Versla me. Team Europe — op het eind kan er maar één overblijven.
+884 De muur van de stagiairs
+885 Op de 13e verdieping hangen in een lange gang de foto's van alle stagiairs van de Commissie. Niemand kijkt er ooit naar.
+886 Vandaag is er net een nieuwe gouden lijst opgehangen. En voor één keer blijft iemand staan om ernaar te kijken.
+887 Hoofdstuk 11 — De Grootmachten
+888 Hoofdstuk 11
+889 De Grootmachten
+890 Haven van Antwerpen. Een presidentieel vliegtuig landt. De meeuwen vliegen voorzichtig richting Nederland.
+891 Tv-presentatrice
+892 Extra uitzending! Washington, Moskou en Peking sturen tegelijk berichten naar Europa. De markten twijfelen tussen paniek en een dutje.
+893 Cafébezoeker
+894 Alweer? Ik heb mijn wafel nog niet eens op.
+895 Ober
+896 Een wafel, meneer. Geen crisis. In tegenstelling tot de inbox van de Commissie.
+897 Op hetzelfde moment meert in Piraeus een containerschip zo groot als een stad aan. Niemand weet precies wat het vervoert. Of wat het koopt.
+898 Antwerpen — de green
+899 Kijk eens naar deze green. Tussen twee containers. De mooiste green in de geschiedenis van de havens.
+900 Meneer de president, de golftas is erg zwaar. Kunnen we hem belasten?
+901 Prachtige slag, daddy! Eh… meneer de president!
+902 Elke bal die de Verenigde Staten verlaat, betaalt invoerheffing. Die daar ook. Vooral die daar. Hij is in de Schelde gevallen? ZEER ONEERLIJK.
+903 Warschau — de sneeuw
+904 Het paleis aan het eind van de vlakte? Daar wacht hij op u. Neem een sjaal mee. En een megafoon, voor de tafel.
+905 Hij gaat u vertellen dat Europa het koud heeft zonder hem. Laat hem zien dat Europa geleerd heeft zichzelf te verwarmen.
+906 De tafel
+907 Een witte tafel. Heel wit. Heel lang. Zo lang dat hij zijn eigen tijdzone heeft.
+908 (heel luid) GOEDENDAG!
+909 Drie seconden later komt de echo terug van het andere eind van de zaal.
+910 Ik hoor u heel goed. U zit gewoon te dichtbij.
+911 Piraeus
+912 Een cadeau. Een knuffelpanda. Hij symboliseert de vriendschap tussen onze volkeren.
+913 Hij is heel schattig. Dank u. …Waarom heeft de haven net van vlag gewisseld?
+914 Strategisch partnerschap. U houdt de panda. Wij houden de haven. Iedereen tevreden.
+915 Griekse havenarbeider
+916 Ik had liever een echte panda gehad. Die eet bamboe, maar koopt tenminste niks op.
+917 De G-Alles-top
+918 De G-Alles-top. Drie grootmachten. Eén tafel. En een Europa dat ze op het klapstoeltje hadden gezet.
+919 Europa moet kiezen: mij.
+920 Europa moet kiezen: mij. Of de kou.
+921 Europa mag kiezen. We hebben beide opties al gekocht.
+922 Europa staat op
+923 Europa kiest geen meester. Het kiest ervoor samen te blijven. Zevenentwintig landen, vierentwintig talen, één tafel. De onze.
+924 Ik vertrek. IK heb besloten te vertrekken. Niemand heeft me verslagen.
+925 Ik vertrek ook. De deur stond sowieso te dicht bij mij.
+926 Wij vertrekken. Maar we blijven partners. En concurrenten. En rivalen. Prettige avond.
+927 Drie deuren slaan dicht. Drie grootmachten mokken. En in de zaal applaudisseren stagiairs.
+928 Epiloog
+929 Brussel, op de avond van het einde van de stage
+930 Grote Markt van Brussel. Blauw en goud vuurwerk tekent twaalf sterren boven het stadhuis.
+931 {P}, namens alle instellingen: hier is je stagecertificaat. Getekend, medeondertekend en in vierentwintig talen vertaald.
+932 In de Maltese versie staat een tikfout. Dat is traditie.
+933 {P}! WAIT! Begin niet zonder mij!
+934 Oliver?! Maar… hoe?
+935 Jongerenmobiliteitsvisum, verzekering, twee formulieren, drie stempels. Een echte papierwinkel-Euromon. Ik ben terug. Als toerist. Maar terug!
+936 Groepsfoto! Iedereen dichter bij elkaar! Wangen aaien doe ik straks.
+937 Ik sta alleen op de foto als niemand zegt dat ik op de foto stond.
+938 (buiten beeld) Veto tegen de foto.
+939 Hij heeft geen vetorecht meer. Lachen!
+940 'Wij verenigen geen staten, wij verbinden mensen.' Mannen, vrouwen en stagiairs.
+941 Concrete verwezenlijkingen. Een feitelijke solidariteit. Bravo, jong. En nu… slapen. Morgen is er een coördinatievergadering over de vergaderingen.
+942 Rome, 25 maart 1957
+943 Capitoolplein. Op 25 maart 1957 ondertekenden zes landen hier de Verdragen van Rome. De steen herinnert het zich. Hij begint te stralen.
+944 Maastricht, 7 februari 1992
+945 De Maas, 's nachts. Hier werd de Europese Unie geboren, en het idee van één munt. Lichtgevende munten stijgen op naar het wateroppervlak.
+946 Lissabon, 13 december 2007
+947 Ochtendgloren boven de Taag. Voor het Jerónimosklooster beginnen verdragsbladzijden te zweven, en dan te vliegen.
+948 Welkom in de kantine! Een koffie, een broodje, en je Euromons zijn weer als nieuw… nou ja, als in '57.
+949 Zal ik voor je team zorgen?
+950 Klaar! Iedereen is kerngezond. De koffie is daarentegen nog altijd lauw.
+951 Zoals je wilt. Maar kom niet huilen bij het volgende debat!
+952 Goedendag! Europees station, één loket. Uw Interrail-pas, alstublieft… Perfect. Waar gaan we heen?
+953 Sorry, internationale treinen zijn voorbehouden aan houders van de Interrail-pas. Die schijn je in Straatsburg te kunnen winnen.
+954 Ik eet hier sinds 1993. Het menu is maar één keer veranderd: bij de komst van de euro.
+955 Bankier
+956 Hier is zelfs de koffie fiscaal ergens anders gevestigd.
+957 Econoom
+958 De prijs van een broodje is sinds 2021 met 12 % gestegen. Mijn model voorspelde 2 %. Mijn model heeft honger.
+959 Parlementair assistent
+960 Vier dagen per maand hier, de rest in Brussel. Mijn kamerplanten herkennen me niet meer.
+961 Serveerster
+962 Een frappé? Het enige wat de trojka nooit heeft kunnen hervormen.
+964 Vroeger klaagden we over Brussel. Nu klagen we dat we niet meer over Brussel kunnen klagen.
+965 Hier eten we goulash. En we debatteren, discreet.
+966 Filosoof
+967 Ik denk, dus ik lunch. En ik lunch lang: dit is Parijs.
+968 Klant
+969 Ik zoek een lader… O nee, dat is waar, het is nu overal USB-C. Wat een zegen.
+970 Prijzen zijn exclusief btw. Uiteraard.
+971 Klant
+972 Ik betaal alles contant. De Duitsers zijn dol op contant geld.
+973 Ik kom Stempels kopen. Mijn baas wil de klokwissel-Euromon afstempelen.
+974 Alles voor de halve prijs! O nee, de btw is verdubbeld.
+975 Is de prijs in ponden, in euro's of in verkiezingsbeloftes?
+976 De verkoper vroeg wat ik van de regering vind. Ik zei: 'veto'.
+977 Een baguette, een Stempel en een betoging, alstublieft.
+978 Reizigster
+979 Mijn trein naar Straatsburg heeft vier uur vertraging. Het Parlement trouwens ook.
+980 {P}! Verrassing! Ik heb de Eurostar genomen. Met paspoort, een formulier en twee uur in de rij. Ik kom vragen… om terug te komen. Rejoin?
+981 Maar eerst een debat. Zoals in de goeie ouwe tijd!
+982 Wat een stage! Om opnieuw toe te treden moet je schijnbaar 35 hoofdstukken onderhandelen. Ik begin morgen. Cheers, {P}!
+983 Hoofdstuk 1 van 35: 'vrij verkeer van goederen'. Het schiet op!
+984 Reiziger
+985 In Luxemburg is het openbaar vervoer sinds 2020 gratis. Zelfs voor stagiairs!
+986 Ik pendel tussen Frankfurt en Brussel. Ik ken elke koe langs de lijn bij naam.
+987 Deze ijzeren koffers zijn allemaal van Europarlementariërs. Ze reizen meer dan ik.
+988 De trein naar Piraeus? Geschrapt. Iemand heeft de haven gekocht, zeggen ze.
+989 Voor de Eurostar heb je nu een paspoort nodig. We hebben de controle teruggenomen. Over de wachtrijen.
+990 De Donau stroomt door tien landen. Ik probeer er gewoon één zonder controle door te komen.
+991 Treinstaking. O nee, het is gewoon dinsdag.
+992 Havenarbeider
+993 Antwerpen, tweede haven van Europa. Hier komt alles langs. Zelfs invoerheffingen.
+994 Het is zo koud zonder gas dat de pinguïns asiel aanvragen.
+995 Alle wegen leiden naar Rome. De treinen ook, met vertraging.
+996 Hier werd in 1992 het verdrag getekend. De zon scheen. Dat was de enige keer.
+997 Lissabon, 2007: we tekenden een verdrag dat heel erg op een Grondwet leek. Sst.
+998 Vandaag is het 9 mei: Europadag! Overal in de Europese wijk wapperen vlaggen.
+999 Een zeldzame Euromon, aangelokt door de festiviteiten, springt uit een stapel dossiers!

@@ -1,0 +1,2005 @@
+[
+ {
+  "id": "stagiaire_hugo",
+  "name": "Hugo",
+  "cls": "Stagiaire",
+  "party": [
+   [
+    "amendon",
+    4
+   ],
+   [
+    "pigeonix",
+    5
+   ]
+  ],
+  "intro": "Hé, le nouveau ! Ici, on règle tout par un débat. Montre-moi ce que tu vaux !",
+  "defeat": "Argh… J'aurais dû relire mes notes de synthèse.",
+  "win": "Ha ! Retourne à la photocopieuse !",
+  "sprite": "stagiaire",
+  "portrait": null,
+  "money": 15,
+  "ai": 0,
+  "music": null
+ },
+ {
+  "id": "oliver1_v",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "charbonnet",
+    5
+   ]
+  ],
+  "intro": "Alors, {P}, on teste nos Euromons ? Mine is obviously better.",
+  "defeat": "What?! C'était un coup de chance !",
+  "win": "Easy. Comme prévu.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 30,
+  "ai": 1,
+  "music": "rival"
+ },
+ {
+  "id": "oliver2_v",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "pigeonix",
+    8
+   ],
+   [
+    "erasmouse",
+    8
+   ],
+   [
+    "charbonnet",
+    10
+   ]
+  ],
+  "intro": "{P} ! Tu as déjà un badge ? Pas grave, je vais te le faire regretter.",
+  "defeat": "Not again… Bon, à Francfort, tu verras.",
+  "win": "Ha ! Le Luxembourg me réussit.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 40,
+  "ai": 1,
+  "music": "rival"
+ },
+ {
+  "id": "oliver3_v",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "pigeonix",
+    16
+   ],
+   [
+    "erasmouse",
+    17
+   ],
+   [
+    "eurolo",
+    16
+   ],
+   [
+    "hautfourno",
+    19
+   ]
+  ],
+  "intro": "Je viens de visiter la BCE. J'ai tout compris à la politique monétaire. Presque tout.",
+  "defeat": "Bloody hell… Tu progresses vraiment vite, {P}.",
+  "win": "Comme on dit à la City : time is money.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 60,
+  "ai": 1,
+  "music": "rival"
+ },
+ {
+  "id": "oliver4_v",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "pigeonix",
+    30
+   ],
+   [
+    "erasmusplus",
+    31
+   ],
+   [
+    "eurozone",
+    31
+   ],
+   [
+    "brexitt",
+    32
+   ],
+   [
+    "hautfourno",
+    34
+   ]
+  ],
+  "intro": "{P}… c'est notre dernier débat. Après, je rentre à Londres. Pour de bon. Allez, one last time !",
+  "defeat": "Good game, {P}. Au moins, je pars avec le panache.",
+  "win": "Je pars sur une victoire. C'est déjà ça.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 80,
+  "ai": 2,
+  "music": "rival"
+ },
+ {
+  "id": "oliver5_v",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "brexitt",
+    62
+   ],
+   [
+    "erasmusplus",
+    62
+   ],
+   [
+    "eurozone",
+    63
+   ],
+   [
+    "roamfree",
+    63
+   ],
+   [
+    "iact",
+    64
+   ],
+   [
+    "cecagon",
+    66
+   ]
+  ],
+  "intro": "{P} ! I'm back. Enfin… je demande à revenir. Rejoin ? Mais d'abord, un débat pour l'honneur !",
+  "defeat": "Bon. Je remplis le formulaire d'adhésion. Il fait 35 chapitres…",
+  "win": "Ha ! Comme quoi, sortir rend plus fort. Ou pas.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 120,
+  "ai": 2,
+  "music": "rival"
+ },
+ {
+  "id": "oliver1_c",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "atomino",
+    5
+   ]
+  ],
+  "intro": "Alors, {P}, on teste nos Euromons ? Mine is obviously better.",
+  "defeat": "What?! C'était un coup de chance !",
+  "win": "Easy. Comme prévu.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 30,
+  "ai": 1,
+  "music": "rival"
+ },
+ {
+  "id": "oliver2_c",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "pigeonix",
+    8
+   ],
+   [
+    "erasmouse",
+    8
+   ],
+   [
+    "atomino",
+    10
+   ]
+  ],
+  "intro": "{P} ! Tu as déjà un badge ? Pas grave, je vais te le faire regretter.",
+  "defeat": "Not again… Bon, à Francfort, tu verras.",
+  "win": "Ha ! Le Luxembourg me réussit.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 40,
+  "ai": 1,
+  "music": "rival"
+ },
+ {
+  "id": "oliver3_c",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "pigeonix",
+    16
+   ],
+   [
+    "erasmouse",
+    17
+   ],
+   [
+    "eurolo",
+    16
+   ],
+   [
+    "euratome",
+    19
+   ]
+  ],
+  "intro": "Je viens de visiter la BCE. J'ai tout compris à la politique monétaire. Presque tout.",
+  "defeat": "Bloody hell… Tu progresses vraiment vite, {P}.",
+  "win": "Comme on dit à la City : time is money.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 60,
+  "ai": 1,
+  "music": "rival"
+ },
+ {
+  "id": "oliver4_c",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "pigeonix",
+    30
+   ],
+   [
+    "erasmusplus",
+    31
+   ],
+   [
+    "eurozone",
+    31
+   ],
+   [
+    "brexitt",
+    32
+   ],
+   [
+    "euratome",
+    34
+   ]
+  ],
+  "intro": "{P}… c'est notre dernier débat. Après, je rentre à Londres. Pour de bon. Allez, one last time !",
+  "defeat": "Good game, {P}. Au moins, je pars avec le panache.",
+  "win": "Je pars sur une victoire. C'est déjà ça.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 80,
+  "ai": 2,
+  "music": "rival"
+ },
+ {
+  "id": "oliver5_c",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "brexitt",
+    62
+   ],
+   [
+    "erasmusplus",
+    62
+   ],
+   [
+    "eurozone",
+    63
+   ],
+   [
+    "roamfree",
+    63
+   ],
+   [
+    "iact",
+    64
+   ],
+   [
+    "fissionix",
+    66
+   ]
+  ],
+  "intro": "{P} ! I'm back. Enfin… je demande à revenir. Rejoin ? Mais d'abord, un débat pour l'honneur !",
+  "defeat": "Bon. Je remplis le formulaire d'adhésion. Il fait 35 chapitres…",
+  "win": "Ha ! Comme quoi, sortir rend plus fort. Ou pas.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 120,
+  "ai": 2,
+  "music": "rival"
+ },
+ {
+  "id": "oliver1_a",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "verdeal",
+    5
+   ]
+  ],
+  "intro": "Alors, {P}, on teste nos Euromons ? Mine is obviously better.",
+  "defeat": "What?! C'était un coup de chance !",
+  "win": "Easy. Comme prévu.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 30,
+  "ai": 1,
+  "music": "rival"
+ },
+ {
+  "id": "oliver2_a",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "pigeonix",
+    8
+   ],
+   [
+    "erasmouse",
+    8
+   ],
+   [
+    "verdeal",
+    10
+   ]
+  ],
+  "intro": "{P} ! Tu as déjà un badge ? Pas grave, je vais te le faire regretter.",
+  "defeat": "Not again… Bon, à Francfort, tu verras.",
+  "win": "Ha ! Le Luxembourg me réussit.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 40,
+  "ai": 1,
+  "music": "rival"
+ },
+ {
+  "id": "oliver3_a",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "pigeonix",
+    16
+   ],
+   [
+    "erasmouse",
+    17
+   ],
+   [
+    "eurolo",
+    16
+   ],
+   [
+    "fit55",
+    19
+   ]
+  ],
+  "intro": "Je viens de visiter la BCE. J'ai tout compris à la politique monétaire. Presque tout.",
+  "defeat": "Bloody hell… Tu progresses vraiment vite, {P}.",
+  "win": "Comme on dit à la City : time is money.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 60,
+  "ai": 1,
+  "music": "rival"
+ },
+ {
+  "id": "oliver4_a",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "pigeonix",
+    30
+   ],
+   [
+    "erasmusplus",
+    31
+   ],
+   [
+    "eurozone",
+    31
+   ],
+   [
+    "brexitt",
+    32
+   ],
+   [
+    "fit55",
+    34
+   ]
+  ],
+  "intro": "{P}… c'est notre dernier débat. Après, je rentre à Londres. Pour de bon. Allez, one last time !",
+  "defeat": "Good game, {P}. Au moins, je pars avec le panache.",
+  "win": "Je pars sur une victoire. C'est déjà ça.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 80,
+  "ai": 2,
+  "music": "rival"
+ },
+ {
+  "id": "oliver5_a",
+  "name": "Oliver",
+  "cls": "Rival",
+  "party": [
+   [
+    "brexitt",
+    62
+   ],
+   [
+    "erasmusplus",
+    62
+   ],
+   [
+    "eurozone",
+    63
+   ],
+   [
+    "roamfree",
+    63
+   ],
+   [
+    "iact",
+    64
+   ],
+   [
+    "neutralis",
+    66
+   ]
+  ],
+  "intro": "{P} ! I'm back. Enfin… je demande à revenir. Rejoin ? Mais d'abord, un débat pour l'honneur !",
+  "defeat": "Bon. Je remplis le formulaire d'adhésion. Il fait 35 chapitres…",
+  "win": "Ha ! Comme quoi, sortir rend plus fort. Ou pas.",
+  "sprite": "oliver",
+  "portrait": "oliver",
+  "money": 120,
+  "ai": 2,
+  "music": "rival"
+ },
+ {
+  "id": "r1_stagiaire",
+  "name": "Léa",
+  "cls": "Stagiaire",
+  "party": [
+   [
+    "erasmouse",
+    5
+   ],
+   [
+    "amendon",
+    6
+   ]
+  ],
+  "intro": "Moi aussi je suis stagiaire ! Non payée, comme toi. Débattons, ça console.",
+  "defeat": "Bon… je retourne faire des photocopies.",
+  "win": "",
+  "sprite": "stagiaire_f",
+  "portrait": null,
+  "money": 20,
+  "ai": 0,
+  "music": null
+ },
+ {
+  "id": "r1_fonctionnaire",
+  "name": "M. Dupont",
+  "cls": "Fonctionnaire",
+  "party": [
+   [
+    "paperasse_mon",
+    6
+   ],
+   [
+    "paperasse_mon",
+    6
+   ],
+   [
+    "comitologue",
+    7
+   ]
+  ],
+  "intro": "Halte ! Votre formulaire de randonnée A-38 est-il visé ?",
+  "defeat": "Bon, je vous le vise. Mais en triple exemplaire.",
+  "win": "",
+  "sprite": "fonctionnaire",
+  "portrait": null,
+  "money": 30,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "r1_agriculteur",
+  "name": "Gérard",
+  "cls": "Agriculteur",
+  "party": [
+   [
+    "agrikolo",
+    7
+   ],
+   [
+    "courbana",
+    7
+   ]
+  ],
+  "intro": "La PAC, c'est ma vie ! Et mon tracteur, c'est ma famille. Allez, on débat !",
+  "defeat": "Faudra que j'en parle au syndicat…",
+  "win": "",
+  "sprite": "agriculteur",
+  "portrait": null,
+  "money": 30,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "lux_banquier",
+  "name": "Pierre-Henri",
+  "cls": "Banquier privé",
+  "party": [
+   [
+    "eurolo",
+    9
+   ],
+   [
+    "valisette",
+    10
+   ]
+  ],
+  "intro": "Bienvenue au Luxembourg. Discrétion absolue. Ce débat n'a jamais eu lieu.",
+  "defeat": "Ce débat n'a définitivement jamais eu lieu.",
+  "win": "",
+  "sprite": "banquier",
+  "portrait": null,
+  "money": 60,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "lux_fiscaliste",
+  "name": "Maître Klein",
+  "cls": "Fiscaliste",
+  "party": [
+   [
+    "valisette",
+    10
+   ],
+   [
+    "paperasse_mon",
+    10
+   ],
+   [
+    "eurolo",
+    11
+   ]
+  ],
+  "intro": "Un rescrit fiscal ? Je vous en rédige un en cinq minutes. Mais d'abord, un débat.",
+  "defeat": "Mes montages… effondrés !",
+  "win": "",
+  "sprite": "avocat",
+  "portrait": null,
+  "money": 60,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "juncker",
+  "name": "Jean-Claude Juncker",
+  "cls": "Champion d'arène",
+  "party": [
+   [
+    "eurolo",
+    12
+   ],
+   [
+    "inflaton",
+    12
+   ],
+   [
+    "spreadon",
+    14
+   ]
+  ],
+  "intro": "Ah, un jeune stagiaire ! Viens, viens, que je te tapote la joue. Puis on débat, comme au bon vieux temps de l'Eurogroupe.",
+  "defeat": "Bravo ! Tu mérites le Badge Rescrit. Et ça, ce n'est pas confidentiel !",
+  "win": "Allez, ne fais pas cette tête, je plaisante… à moitié.",
+  "sprite": "juncker",
+  "portrait": "juncker",
+  "money": 100,
+  "ai": 2,
+  "music": "gym_leader"
+ },
+ {
+  "id": "r2_touriste",
+  "name": "Kevin",
+  "cls": "Touriste",
+  "party": [
+   [
+    "roamy",
+    11
+   ],
+   [
+    "pigeonix",
+    11
+   ]
+  ],
+  "intro": "Je fais la Moselle à vélo ! Et je débats en roaming, gratuitement !",
+  "defeat": "Même sans frais d'itinérance, j'ai tout perdu.",
+  "win": "",
+  "sprite": "touriste",
+  "portrait": null,
+  "money": 40,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "r2_banquier",
+  "name": "Hans",
+  "cls": "Analyste",
+  "party": [
+   [
+    "inflaton",
+    12
+   ],
+   [
+    "eurolo",
+    12
+   ]
+  ],
+  "intro": "Les marchés anticipent ma victoire à 87 %.",
+  "defeat": "Les marchés se sont trompés. Comme d'habitude.",
+  "win": "",
+  "sprite": "banquier",
+  "portrait": null,
+  "money": 60,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "r2_vigneron",
+  "name": "Jean-Marc",
+  "cls": "Vigneron",
+  "party": [
+   [
+    "agrikolo",
+    12
+   ],
+   [
+    "fromajus",
+    12
+   ],
+   [
+    "courbana",
+    13
+   ]
+  ],
+  "intro": "Mon crémant est AOP. Mes Euromons aussi. Ou presque.",
+  "defeat": "Bon, je vous offre un verre quand même.",
+  "win": "",
+  "sprite": "agriculteur",
+  "portrait": null,
+  "money": 50,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "bce_trader",
+  "name": "Karl",
+  "cls": "Trader",
+  "party": [
+   [
+    "cryptou",
+    15
+   ],
+   [
+    "eurolo",
+    16
+   ]
+  ],
+  "intro": "Achète bas, revends haut, débats fort !",
+  "defeat": "Krach ! Je suis à découvert !",
+  "win": "",
+  "sprite": "banquier",
+  "portrait": null,
+  "money": 80,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "bce_economiste",
+  "name": "Dr. Sofia",
+  "cls": "Économiste",
+  "party": [
+   [
+    "inflaton",
+    16
+   ],
+   [
+    "spreadon",
+    16
+   ]
+  ],
+  "intro": "Selon mon modèle, vous perdez. Mon modèle n'a jamais tort. Sauf en 2008.",
+  "defeat": "Je vais devoir réviser mes prévisions.",
+  "win": "",
+  "sprite": "fonctionnaire_f",
+  "portrait": null,
+  "money": 80,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "lagarde",
+  "name": "Christine Lagarde",
+  "cls": "Championne d'arène",
+  "party": [
+   [
+    "cryptou",
+    17
+   ],
+   [
+    "inflaton",
+    18
+   ],
+   [
+    "eurozone",
+    20
+   ]
+  ],
+  "intro": "Bienvenue à la Banque centrale européenne. Ici, je fixe les taux… et le rythme du débat. Mes attaques dépendent du taux directeur du jour !",
+  "defeat": "Formidable. Vous méritez le Badge Euro. Et rassurez-vous : je ne suis pas là pour réduire votre spread.",
+  "win": "La stabilité des prix, c'est aussi la stabilité des victoires.",
+  "sprite": "lagarde",
+  "portrait": "lagarde",
+  "money": 110,
+  "ai": 2,
+  "music": "gym_leader"
+ },
+ {
+  "id": "r3_militant",
+  "name": "Inès",
+  "cls": "Militante climat",
+  "party": [
+   [
+    "eolion",
+    16
+   ],
+   [
+    "solario",
+    17
+   ]
+  ],
+  "intro": "Chaque débat perdu, c'est un degré de plus ! Allez !",
+  "defeat": "Bon, au moins c'était neutre en carbone.",
+  "win": "",
+  "sprite": "militant",
+  "portrait": null,
+  "money": 40,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "r3_journaliste",
+  "name": "Tom",
+  "cls": "Journaliste",
+  "party": [
+   [
+    "fakeon",
+    17
+   ],
+   [
+    "pigeonix",
+    17
+   ]
+  ],
+  "intro": "Une exclusivité ! « Un stagiaire perd lamentablement » !",
+  "defeat": "Je change le titre : « Un stagiaire gagne lamentablement bien ».",
+  "win": "",
+  "sprite": "journaliste",
+  "portrait": null,
+  "money": 50,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "r3_viticulteur",
+  "name": "Albert",
+  "cls": "Viticulteur",
+  "party": [
+   [
+    "fromajus",
+    18
+   ],
+   [
+    "agrikolo",
+    18
+   ],
+   [
+    "tracteuron",
+    19
+   ]
+  ],
+  "intro": "Le Rhin, c'est la frontière ? Non, c'est le vin des deux côtés ! On trinque après le débat.",
+  "defeat": "Santé quand même !",
+  "win": "",
+  "sprite": "agriculteur",
+  "portrait": null,
+  "money": 50,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "stras_depute1",
+  "name": "Député Muller",
+  "cls": "Eurodéputé",
+  "party": [
+   [
+    "amendon",
+    21
+   ],
+   [
+    "amendomax",
+    22
+   ]
+  ],
+  "intro": "J'ai déposé 2 000 amendements ce matin. Le premier vous concerne.",
+  "defeat": "Mes amendements sont rejetés en bloc…",
+  "win": "",
+  "sprite": "depute",
+  "portrait": null,
+  "money": 80,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "stras_depute2",
+  "name": "Députée Rossi",
+  "cls": "Eurodéputée",
+  "party": [
+   [
+    "interpreton",
+    22
+   ],
+   [
+    "transhumon",
+    22
+   ]
+  ],
+  "intro": "La session a lieu à Strasbourg, nos malles sont arrivées, débattons !",
+  "defeat": "Je repars à Bruxelles. Avec mes malles.",
+  "win": "",
+  "sprite": "deputee",
+  "portrait": null,
+  "money": 80,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "metsola",
+  "name": "Roberta Metsola",
+  "cls": "Championne d'arène",
+  "party": [
+   [
+    "amendomax",
+    23
+   ],
+   [
+    "interpreton",
+    23
+   ],
+   [
+    "spitzen",
+    25
+   ]
+  ],
+  "intro": "Silence dans l'hémicycle ! La séance est ouverte. Je donne la parole à… vous. Puis je vous la reprends.",
+  "defeat": "Adopté ! Le Badge Hémicycle vous est attribué à la majorité absolue.",
+  "win": "La séance est levée. Revenez à la prochaine session.",
+  "sprite": "metsola",
+  "portrait": "metsola",
+  "money": 120,
+  "ai": 2,
+  "music": "gym_leader"
+ },
+ {
+  "id": "ath_economiste",
+  "name": "Nikos",
+  "cls": "Économiste",
+  "party": [
+   [
+    "inflaton",
+    26
+   ],
+   [
+    "referendo",
+    27
+   ]
+  ],
+  "intro": "La dette, c'est comme la moussaka : ça se digère mal.",
+  "defeat": "OXI à cette défaite !",
+  "win": "",
+  "sprite": "journaliste",
+  "portrait": null,
+  "money": 80,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "troika_bce",
+  "name": "Agent Troïka (BCE)",
+  "cls": "Troïka",
+  "party": [
+   [
+    "austerix",
+    27
+   ],
+   [
+    "eurozone",
+    27
+   ]
+  ],
+  "intro": "Inspection des comptes ! Vos Euromons dépensent trop.",
+  "defeat": "Rapport d'inspection : défavorable.",
+  "win": "",
+  "sprite": "banquier",
+  "portrait": null,
+  "money": 90,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "troika_fmi",
+  "name": "Agent Troïka (FMI)",
+  "cls": "Troïka",
+  "party": [
+   [
+    "spreadon",
+    27
+   ],
+   [
+    "hyperflaton",
+    28
+   ]
+  ],
+  "intro": "Le Fonds monétaire international recommande… votre défaite.",
+  "defeat": "Révision de nos prévisions : à la baisse.",
+  "win": "",
+  "sprite": "fonctionnaire",
+  "portrait": null,
+  "money": 90,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "varoufakis",
+  "name": "Yanis Varoufakis",
+  "cls": "Champion d'arène",
+  "party": [
+   [
+    "erasmusplus",
+    28
+   ],
+   [
+    "manneken",
+    29
+   ],
+   [
+    "contractuel",
+    31
+   ]
+  ],
+  "intro": "Je suis arrivé à moto, sans cravate. Comme en 2015 face à l'Eurogroupe. On débat, et on vote : OXI ou NAI ?",
+  "defeat": "OXI… pardon, NAI : tu as gagné. Prends le Badge OXI, camarade.",
+  "win": "Le peuple a parlé. Et le peuple, c'est moi.",
+  "sprite": "varoufakis",
+  "portrait": "varoufakis",
+  "money": 130,
+  "ai": 2,
+  "music": "gym_leader"
+ },
+ {
+  "id": "lon_tabloid",
+  "name": "Rédacteur en chef",
+  "cls": "Tabloïd",
+  "party": [
+   [
+    "fakeon",
+    31
+   ],
+   [
+    "pigeonix",
+    31
+   ],
+   [
+    "trollbot",
+    32
+   ]
+  ],
+  "intro": "UNE : « Bruxelles veut interdire les bananes courbes » ! C'est faux ? Pas grave, ça fait vendre.",
+  "defeat": "Demain en une : « Défaite historique ».",
+  "win": "",
+  "sprite": "journaliste",
+  "portrait": null,
+  "money": 90,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "lon_johnson",
+  "name": "Boris Johnson",
+  "cls": "Ex-Premier ministre",
+  "party": [
+   [
+    "pigeonix",
+    32
+   ],
+   [
+    "fakeon",
+    33
+   ],
+   [
+    "referendo",
+    34
+   ]
+  ],
+  "intro": "Hello ! J'étais correspondant à Bruxelles, vous savez. J'en ai écrit des choses… plus ou moins vraies. Get debate done !",
+  "defeat": "Crikey. Bon, j'avais un autre article sur les concombres droits, de toute façon.",
+  "win": "",
+  "sprite": "johnson",
+  "portrait": "johnson",
+  "money": 120,
+  "ai": 2,
+  "music": null
+ },
+ {
+  "id": "farage",
+  "name": "Nigel Farage",
+  "cls": "Champion d'arène",
+  "party": [
+   [
+    "tribun",
+    34
+   ],
+   [
+    "vetoadmax",
+    34
+   ],
+   [
+    "brexitt",
+    36
+   ]
+  ],
+  "intro": "Vous ne riez plus maintenant, hein ? Bienvenue au pub. Un débat, une pinte, et l'Article 50.",
+  "defeat": "Bon. Prenez le Badge Article 50. On n'en a plus besoin, nous.",
+  "win": "Take back control ! Du débat, en tout cas.",
+  "sprite": "farage",
+  "portrait": "farage",
+  "money": 140,
+  "ai": 2,
+  "music": "gym_leader"
+ },
+ {
+  "id": "bud_douanier",
+  "name": "Gábor",
+  "cls": "Garde-frontière",
+  "party": [
+   [
+    "frontierex",
+    36
+   ],
+   [
+    "vetoad",
+    36
+   ]
+  ],
+  "intro": "Contrôle ! Votre Euromon a-t-il un visa ?",
+  "defeat": "Passez. Mais je le note.",
+  "win": "",
+  "sprite": "douanier",
+  "portrait": null,
+  "money": 90,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "bud_conseiller",
+  "name": "Conseiller spécial",
+  "cls": "Conseiller",
+  "party": [
+   [
+    "austerix",
+    37
+   ],
+   [
+    "demagogor",
+    37
+   ]
+  ],
+  "intro": "Le Premier ministre ne reçoit personne. Sauf ceux qui me battent. Et ça n'arrive jamais.",
+  "defeat": "Ça vient d'arriver.",
+  "win": "",
+  "sprite": "depute",
+  "portrait": null,
+  "money": 90,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "orban",
+  "name": "Viktor Orbán",
+  "cls": "Champion d'arène",
+  "party": [
+   [
+    "vetoadmax",
+    38
+   ],
+   [
+    "frontierex",
+    38
+   ],
+   [
+    "austerix",
+    39
+   ],
+   [
+    "demagogor",
+    40
+   ]
+  ],
+  "intro": "Vous voulez mon accord ? L'unanimité est requise. Et je ne suis jamais d'accord. Attention : je peux poser mon VETO à chaque tour.",
+  "defeat": "Bon… Je sors prendre un café. Pendant ce temps, prenez ce Badge Veto. Officiellement, je me suis abstenu.",
+  "win": "Veto ! Veto ! Et re-veto !",
+  "sprite": "orban",
+  "portrait": "orban",
+  "money": 150,
+  "ai": 3,
+  "music": "gym_leader"
+ },
+ {
+  "id": "lobby_sbire1",
+  "name": "Lobbyiste du pétrole",
+  "cls": "Team Lobby",
+  "party": [
+   [
+    "lobbyron",
+    36
+   ],
+   [
+    "diesgate",
+    37
+   ]
+  ],
+  "intro": "Vous n'avez pas votre badge d'accès ? Ça tombe bien, nous non plus.",
+  "defeat": "Je vais devoir déclarer cette rencontre au registre de transparence…",
+  "win": "",
+  "sprite": "lobbyiste",
+  "portrait": null,
+  "money": 100,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "lobby_sbire2",
+  "name": "Lobbyiste de la tech",
+  "cls": "Team Lobby",
+  "party": [
+   [
+    "botfarm",
+    37
+   ],
+   [
+    "trollbot",
+    36
+   ],
+   [
+    "algoritmo",
+    37
+   ]
+  ],
+  "intro": "Notre algorithme a prédit votre défaite. Accepter les cookies ?",
+  "defeat": "Erreur 403 : défaite.",
+  "win": "",
+  "sprite": "lobbyiste_f",
+  "portrait": null,
+  "money": 100,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "lobby_sbire3",
+  "name": "Lobbyiste « de l'étranger »",
+  "cls": "Team Lobby",
+  "party": [
+   [
+    "valisette",
+    38
+   ],
+   [
+    "sacabillet",
+    38
+   ]
+  ],
+  "intro": "Une petite valise pour votre vote ? Non ? Alors un débat.",
+  "defeat": "Je n'ai jamais rien donné à personne. Notez-le.",
+  "win": "",
+  "sprite": "lobbyiste",
+  "portrait": null,
+  "money": 120,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "lobbychef",
+  "name": "Le Lobbyiste en chef",
+  "cls": "Chef de la Team Lobby",
+  "party": [
+   [
+    "sacabillet",
+    40
+   ],
+   [
+    "botfarm",
+    40
+   ],
+   [
+    "diesgate",
+    41
+   ],
+   [
+    "glyphosaure",
+    41
+   ],
+   [
+    "lobbyzilla",
+    43
+   ]
+  ],
+  "intro": "Bienvenue au cœur du pouvoir, stagiaire. Ici, on n'écrit pas les lois : on les « suggère ». Et toi, tu vas signer ma suggestion.",
+  "defeat": "Impossible… Un simple stagiaire, non rémunéré… a vaincu le lobby. Je me retire. Dans le privé. Ah, j'y suis déjà.",
+  "win": "Merci pour cette contribution à notre consultation publique.",
+  "sprite": "lobbychef",
+  "portrait": null,
+  "money": 200,
+  "ai": 3,
+  "music": "boss"
+ },
+ {
+  "id": "avocat_tech1",
+  "name": "Avocat de Big Tech",
+  "cls": "Avocat",
+  "party": [
+   [
+    "consentor",
+    40
+   ],
+   [
+    "iact",
+    40
+   ]
+  ],
+  "intro": "Mon client conteste l'amende de 4,34 milliards. Et ce débat.",
+  "defeat": "Nous ferons appel.",
+  "win": "",
+  "sprite": "avocat",
+  "portrait": null,
+  "money": 120,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "avocat_tech2",
+  "name": "Juriste concurrence",
+  "cls": "Juriste",
+  "party": [
+   [
+    "archivor",
+    41
+   ],
+   [
+    "appellatio",
+    41
+   ]
+  ],
+  "intro": "Abus de position dominante ? Moi ? Je ne suis que dominant.",
+  "defeat": "Amende acceptée…",
+  "win": "",
+  "sprite": "avocat",
+  "portrait": null,
+  "money": 120,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "vestager",
+  "name": "Margrethe Vestager",
+  "cls": "Championne d'arène",
+  "party": [
+   [
+    "consentor",
+    42
+   ],
+   [
+    "iact",
+    42
+   ],
+   [
+    "appellatio",
+    43
+   ],
+   [
+    "ratifix",
+    44
+   ]
+  ],
+  "intro": "Google, Apple… j'ai infligé des milliards d'amendes. Votre équipe respecte-t-elle les règles de concurrence ? Vérifions.",
+  "defeat": "Pas d'abus de position dominante détecté. Le Badge Amende est à vous.",
+  "win": "Amende ! 4 % de votre chiffre d'affaires.",
+  "sprite": "vestager",
+  "portrait": "vestager",
+  "money": 160,
+  "ai": 3,
+  "music": "gym_leader"
+ },
+ {
+  "id": "fantome_1a",
+  "name": "Assistant fantôme",
+  "cls": "Fantôme",
+  "party": [
+   [
+    "assistome",
+    38
+   ]
+  ],
+  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
+  "defeat": "Je retourne… à mon contrat… fictif…",
+  "win": "",
+  "sprite": "fantome",
+  "portrait": null,
+  "money": 60,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "fantome_1b",
+  "name": "Assistant fantôme",
+  "cls": "Fantôme",
+  "party": [
+   [
+    "assistome",
+    38
+   ],
+   [
+    "pailleplast",
+    38
+   ]
+  ],
+  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
+  "defeat": "Je retourne… à mon contrat… fictif…",
+  "win": "",
+  "sprite": "fantome",
+  "portrait": null,
+  "money": 60,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "fantome_2a",
+  "name": "Assistant fantôme",
+  "cls": "Fantôme",
+  "party": [
+   [
+    "changheure",
+    39
+   ],
+   [
+    "assistome",
+    39
+   ]
+  ],
+  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
+  "defeat": "Je retourne… à mon contrat… fictif…",
+  "win": "",
+  "sprite": "fantome",
+  "portrait": null,
+  "money": 60,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "fantome_2b",
+  "name": "Assistant fantôme",
+  "cls": "Fantôme",
+  "party": [
+   [
+    "manneken",
+    40
+   ],
+   [
+    "assistome",
+    40
+   ]
+  ],
+  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
+  "defeat": "Je retourne… à mon contrat… fictif…",
+  "win": "",
+  "sprite": "fantome",
+  "portrait": null,
+  "money": 60,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "fantome_3a",
+  "name": "Assistant fantôme",
+  "cls": "Fantôme",
+  "party": [
+   [
+    "emploifictif",
+    41
+   ]
+  ],
+  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
+  "defeat": "Je retourne… à mon contrat… fictif…",
+  "win": "",
+  "sprite": "fantome",
+  "portrait": null,
+  "money": 60,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "fantome_3b",
+  "name": "Assistant fantôme",
+  "cls": "Fantôme",
+  "party": [
+   [
+    "pailleplast",
+    41
+   ],
+   [
+    "emploifictif",
+    41
+   ]
+  ],
+  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
+  "defeat": "Je retourne… à mon contrat… fictif…",
+  "win": "",
+  "sprite": "fantome",
+  "portrait": null,
+  "money": 60,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "fantome_boss",
+  "name": "Le Contrat Vide",
+  "cls": "Esprit des emplois fictifs",
+  "party": [
+   [
+    "changheure",
+    43
+   ],
+   [
+    "sacabillet",
+    43
+   ],
+   [
+    "emploifictif",
+    45
+   ]
+  ],
+  "intro": "JE SUIS… LA SOMME DE TOUS LES CONTRATS QUI N'ONT JAMAIS EU DE BUREAU…",
+  "defeat": "Mes… fiches de paie… s'effacent…",
+  "win": "",
+  "sprite": "fantome",
+  "portrait": null,
+  "money": 150,
+  "ai": 3,
+  "music": "boss"
+ },
+ {
+  "id": "par_enarque",
+  "name": "Énarque",
+  "cls": "Haut fonctionnaire",
+  "party": [
+   [
+    "titularis",
+    44
+   ],
+   [
+    "comitologue",
+    44
+   ]
+  ],
+  "intro": "J'ai fait l'ENA. Enfin, l'INSP. Bref, je sais tout.",
+  "defeat": "Je vais rédiger une note sur cet échec.",
+  "win": "",
+  "sprite": "fonctionnaire_f",
+  "portrait": null,
+  "money": 140,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "par_ministre",
+  "name": "Ministre délégué",
+  "cls": "Ministre",
+  "party": [
+   [
+    "spitzen",
+    44
+   ],
+   [
+    "schumark",
+    45
+   ]
+  ],
+  "intro": "Je suis ministre depuis… ce matin. Débattons avant le prochain remaniement.",
+  "defeat": "Remanié !",
+  "win": "",
+  "sprite": "depute",
+  "portrait": null,
+  "money": 140,
+  "ai": 1,
+  "music": null
+ },
+ {
+  "id": "macron",
+  "name": "Emmanuel Macron",
+  "cls": "Champion d'arène",
+  "party": [
+   [
+    "erasmusplus",
+    45
+   ],
+   [
+    "spitzen",
+    46
+   ],
+   [
+    "eurozone",
+    46
+   ],
+   [
+    "schumark",
+    47
+   ],
+   [
+    "nobelix",
+    48
+   ]
+  ],
+  "intro": "Bienvenue à la Sorbonne ! Ici, j'ai parlé d'Europe souveraine en 2017… et en 2024. Je vais vous parler pendant deux heures. Et en même temps, débattre.",
+  "defeat": "Formidable ! Vous incarnez l'autonomie stratégique. Prenez le Badge Sorbonne… et en même temps, mes félicitations.",
+  "win": "Je dissous… votre équipe !",
+  "sprite": "macron",
+  "portrait": "macron",
+  "money": 180,
+  "ai": 3,
+  "music": "gym_leader"
+ },
+ {
+  "id": "merkel",
+  "name": "Angela Merkel",
+  "cls": "Conseil européen",
+  "party": [
+   [
+    "austerix",
+    50
+   ],
+   [
+    "titularis",
+    50
+   ],
+   [
+    "offshorion",
+    51
+   ],
+   [
+    "cecagon",
+    51
+   ],
+   [
+    "ratifix",
+    52
+   ]
+  ],
+  "intro": "Wir schaffen das. Ensemble, on y arrivera. Mais d'abord, vous devez me battre. Prenez votre temps : j'ai seize ans d'expérience.",
+  "defeat": "Vous avez réussi. Wir haben es geschafft.",
+  "win": "",
+  "sprite": "merkel",
+  "portrait": "merkel",
+  "money": 220,
+  "ai": 3,
+  "music": "council"
+ },
+ {
+  "id": "draghi",
+  "name": "Mario Draghi",
+  "cls": "Conseil européen",
+  "party": [
+   [
+    "eurozone",
+    51
+   ],
+   [
+    "hyperflaton",
+    51
+   ],
+   [
+    "mica",
+    52
+   ],
+   [
+    "troikat",
+    52
+   ],
+   [
+    "draghizord",
+    54
+   ]
+  ],
+  "intro": "Je ferai tout ce qu'il faut pour gagner ce débat. Whatever it takes. Et croyez-moi : ce sera suffisant.",
+  "defeat": "Mon rapport recommandait 800 milliards d'investissements par an. Investissez-les dans votre équipe.",
+  "win": "",
+  "sprite": "draghi",
+  "portrait": "draghi",
+  "money": 220,
+  "ai": 3,
+  "music": "council"
+ },
+ {
+  "id": "kallas",
+  "name": "Kaja Kallas",
+  "cls": "Conseil européen",
+  "party": [
+   [
+    "schengeon",
+    52
+   ],
+   [
+    "trilogon",
+    52
+   ],
+   [
+    "pandiplo",
+    53
+   ],
+   [
+    "roamfree",
+    53
+   ],
+   [
+    "nobelix",
+    54
+   ]
+  ],
+  "intro": "Haute représentante pour les affaires étrangères. Ma diplomatie est ferme. Mon bouclier balte, aussi.",
+  "defeat": "Une victoire nette. L'Europe aura besoin de gens comme vous face au reste du monde.",
+  "win": "",
+  "sprite": "kallas",
+  "portrait": "kallas",
+  "money": 220,
+  "ai": 3,
+  "music": "council"
+ },
+ {
+  "id": "costa",
+  "name": "António Costa",
+  "cls": "Président du Conseil européen",
+  "party": [
+   [
+    "interpreton",
+    53
+   ],
+   [
+    "transhumax",
+    53
+   ],
+   [
+    "mercosaur",
+    54
+   ],
+   [
+    "trilogon",
+    54
+   ],
+   [
+    "schumark",
+    55
+   ],
+   [
+    "ratifix",
+    55
+   ]
+  ],
+  "intro": "Il est 23 h 59. Mon objectif : finir ce sommet avant minuit. Pour la première fois de l'histoire !",
+  "defeat": "Il est… 4 h 37 du matin. Comme d'habitude. Bravo, vous pouvez monter au Berlaymont.",
+  "win": "",
+  "sprite": "costa",
+  "portrait": "costa",
+  "money": 230,
+  "ai": 3,
+  "music": "council"
+ },
+ {
+  "id": "vdl",
+  "name": "Ursula von der Leyen",
+  "cls": "Présidente de la Commission",
+  "party": [
+   [
+    "neutralis",
+    56
+   ],
+   [
+    "eurozone",
+    56
+   ],
+   [
+    "iact",
+    57
+   ],
+   [
+    "lobbyzilla",
+    57
+   ],
+   [
+    "schumark",
+    57
+   ],
+   [
+    "emploifictif",
+    58
+   ]
+  ],
+  "intro": "Bienvenue au treizième étage du Berlaymont. J'habite ici, vous savez : j'ai une chambre à côté de mon bureau. Alors, voyons si vous méritez la directive.",
+  "defeat": "Team Europe… Vous êtes le meilleur stagiaire que la Commission ait jamais eu. La directive sur l'heure est à vous !",
+  "win": "Je vous enverrai un SMS. Ou peut-être pas.",
+  "sprite": "vdl",
+  "portrait": "vdl",
+  "money": 300,
+  "ai": 3,
+  "music": "champion"
+ },
+ {
+  "id": "vance_t",
+  "name": "JD Vance",
+  "cls": "Vice-président",
+  "party": [
+   [
+    "fakeon",
+    55
+   ],
+   [
+    "tarifaux",
+    56
+   ],
+   [
+    "demagogor",
+    57
+   ]
+  ],
+  "intro": "Je suis venu à Munich vous expliquer la démocratie. Maintenant, je viens à Anvers vous expliquer le débat.",
+  "defeat": "Bon. Je retourne écrire un discours.",
+  "win": "",
+  "sprite": "vance",
+  "portrait": "vance",
+  "money": 200,
+  "ai": 3,
+  "music": "powers"
+ },
+ {
+  "id": "trump",
+  "name": "Donald Trump",
+  "cls": "Président américain",
+  "party": [
+   [
+    "tarifaux",
+    58
+   ],
+   [
+    "fakeon",
+    59
+   ],
+   [
+    "brexitt",
+    59
+   ],
+   [
+    "lobbyzilla",
+    60
+   ],
+   [
+    "demagogor",
+    60
+   ],
+   [
+    "tarifator",
+    62
+   ]
+  ],
+  "intro": "TREMENDOUS ! Le plus beau débat de tous les temps, tout le monde le dit. Je mets 200 % de droits de douane sur vos Euromons. Peut-être 15. On verra.",
+  "defeat": "C'ÉTAIT TRUQUÉ ! Bon… on fait un deal. 15 %. C'est mon dernier mot. Pour aujourd'hui.",
+  "win": "J'ai gagné ! Comme toujours ! Personne ne gagne mieux que moi.",
+  "sprite": "trump",
+  "portrait": "trump",
+  "money": 300,
+  "ai": 3,
+  "music": "powers"
+ },
+ {
+  "id": "putin",
+  "name": "Vladimir Poutine",
+  "cls": "Président russe",
+  "party": [
+   [
+    "gazoduc",
+    59
+   ],
+   [
+    "frontierex",
+    59
+   ],
+   [
+    "botfarm",
+    60
+   ],
+   [
+    "vetoadmax",
+    60
+   ],
+   [
+    "austerix",
+    61
+   ],
+   [
+    "censourson",
+    62
+   ]
+  ],
+  "intro": "Asseyez-vous. Non, plus loin. Encore plus loin. Voilà. À six mètres, la conversation est plus… stratégique. Vos attaques mettront un tour à arriver.",
+  "defeat": "Le gaz… est coupé… de mon côté. Intéressant.",
+  "win": "L'hiver vient. Pour vous.",
+  "sprite": "putin",
+  "portrait": "putin",
+  "money": 300,
+  "ai": 3,
+  "music": "powers"
+ },
+ {
+  "id": "xi",
+  "name": "Xi Jinping",
+  "cls": "Président chinois",
+  "party": [
+   [
+    "pandiplo",
+    59
+   ],
+   [
+    "terrara",
+    60
+   ],
+   [
+    "iact",
+    60
+   ],
+   [
+    "hyperflaton",
+    60
+   ],
+   [
+    "diesgate",
+    61
+   ],
+   [
+    "trilogon",
+    62
+   ]
+  ],
+  "intro": "Bienvenue. Nous sommes partenaires. Et concurrents. Et rivaux systémiques. Tout dépend du tour.",
+  "defeat": "Hmm. Un partenaire à respecter. Je retire les contrôles sur les terres rares… pour l'instant.",
+  "win": "Contenu indisponible dans votre région.",
+  "sprite": "xi",
+  "portrait": "xi",
+  "money": 300,
+  "ai": 3,
+  "music": "powers"
+ },
+ {
+  "id": "trump_final",
+  "name": "Donald Trump",
+  "cls": "Sommet G-Tout",
+  "party": [
+   [
+    "tarifator",
+    63
+   ],
+   [
+    "lobbyzilla",
+    63
+   ],
+   [
+    "demagogor",
+    64
+   ]
+  ],
+  "intro": "MOI D'ABORD. Le sommet, c'est mon idée. Enfin, je crois.",
+  "defeat": "Sad !",
+  "win": "",
+  "sprite": "trump",
+  "portrait": "trump",
+  "money": 200,
+  "ai": 3,
+  "music": "final"
+ },
+ {
+  "id": "putin_final",
+  "name": "Vladimir Poutine",
+  "cls": "Sommet G-Tout",
+  "party": [
+   [
+    "gazoduc",
+    63
+   ],
+   [
+    "vetoadmax",
+    64
+   ],
+   [
+    "censourson",
+    64
+   ]
+  ],
+  "intro": "Je préférais la longue table.",
+  "defeat": "…",
+  "win": "",
+  "sprite": "putin",
+  "portrait": "putin",
+  "money": 200,
+  "ai": 3,
+  "music": "final"
+ },
+ {
+  "id": "xi_final",
+  "name": "Xi Jinping",
+  "cls": "Sommet G-Tout",
+  "party": [
+   [
+    "terrara",
+    64
+   ],
+   [
+    "pandiplo",
+    64
+   ],
+   [
+    "trilogon",
+    65
+   ]
+  ],
+  "intro": "Le dernier mot sera… systémique.",
+  "defeat": "Nous reparlerons dans cinquante ans.",
+  "win": "",
+  "sprite": "xi",
+  "portrait": "xi",
+  "money": 200,
+  "ai": 3,
+  "music": "final"
+ }
+]

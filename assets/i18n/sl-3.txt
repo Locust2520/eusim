@@ -1,0 +1,501 @@
+# Slovenščina — ids 1000-1499
+1000 Vesel dan Evrope! Se vidimo naslednje leto.
+1001 Tehno
+1002 Federalen
+1003 Suveren
+1004 Liberalen
+1005 Socialen
+1006 Zelen
+1007 Industrija
+1008 Energija
+1009 Pravni
+1010 Monetarni
+1011 Kmetijski
+1012 Digitalen
+1013 Diplo
+1014 Lobby
+1015 Populist
+1016 Duh
+1017 Amandma
+1018 Spremeni nasprotnikovo besedilo, en odstavek naenkrat.
+1019 Papirologija
+1020 Pokoplje tarčo pod obrazci.
+1021 Interno obvestilo
+1022 Interno obvestilo, zelo odločno.
+1023 Sestanek
+1024 Usklajevalni sestanek, ki uspava vse.
+1025 Suhi žig
+1026 Čist in uraden udarec z žigom.
+1027 Komitologija
+1028 Nihče ne razume postopka. Niti tarča.
+1029 Ponovni pregled
+1030 Še enkrat prebere svoj dosje. Močno poveča Odpornost.
+1031 Direktiva
+1032 Zavezujoče besedilo, ki ga je treba nujno prenesti v nacionalno zakonodajo.
+1033 Uredba
+1034 Neposredno uporabna v vseh državah članicah.
+1035 Trialog
+1036 Parlament, Svet, Komisija: udari 2- do 5-krat.
+1037 Nujnost
+1038 Nujni postopek: deluje prvi.
+1039 Odmor za kavo
+1040 Kava v menzi. Povrne polovico HP.
+1041 Plagiat
+1042 Prekopira zadnji napad nasprotnika.
+1043 Letno poročilo
+1044 En krog zbira moč, nato omrtviči s 400 stranmi.
+1045 Integracija
+1046 Majhen korak proti vse tesnejši uniji.
+1047 Subsidiarnost
+1048 Deluje na pravi ravni. Poveča Diplomacijo.
+1049 Združene države EU
+1050 Velike federalne sanje, sprožene s polno močjo.
+1051 Team Europe
+1052 Vsi skupaj! Solidaren naboj.
+1053 Enotni trg
+1054 Odpravi meje… in nasprotnikovo Diplomacijo.
+1055 Dvanajst zvezd
+1056 Dvanajst zlatih zvezd, ki nikoli ne zgrešijo.
+1057 Nosilec liste
+1058 Kampanja vodilnega kandidata. Pogosti kritični udarci.
+1059 Širitev
+1060 Sprejme nove članice. Argumentacija +2.
+1061 Blokira vsak napad v tem krogu. Soglasje je sveto.
+1062 Meja
+1063 Ponovno vzpostavi nadzor. Lahko zniža Odzivnost.
+1064 Opt-out
+1065 Izvzame se iz skupnih pravil. Odpornost +2.
+1066 Referendum
+1067 Preprosto vprašanje, zapletene posledice.
+1068 Člen 7
+1069 Začasno odvzame pravice. Nasprotnikova Argumentacija -2.
+1070 Zapusti boj… če pogajanja uspejo.
+1071 Rabat
+1072 »I want my money back!« Povrne HP.
+1073 Suverenost
+1074 Hrupno prevzame nadzor.
+1075 Konkurenca
+1076 Svobodna in neizkrivljena, ampak boli.
+1077 Prosta trgovina
+1078 Trgovinski sporazum brez carin.
+1079 Deregulacija
+1080 Odpravi zaščite. Nasprotnikova Odpornost -2.
+1081 Start-up
+1082 Disruptivna in hitra. Deluje prva.
+1083 Nevidna roka
+1084 Nihče je ne vidi prihajati. Nikoli ne zgreši.
+1085 Obenem
+1086 Z leve in desne, udari 2- do 5-krat.
+1087 Pronicanje
+1088 Po igrišču spusti curek evrov.
+1089 Stavka
+1090 Vse se ustavi. Zamrzne sredstva tarče.
+1091 Socialni steber
+1092 Trden evropski steber socialnih pravic.
+1093 Minimalna plača
+1094 Direktiva iz 2022 o ustreznih plačah.
+1095 Demonstracija
+1096 Morje transparentov. Lahko zastraši.
+1097 Solidarnost
+1098 Poenoti prizadevanja. Povrne polovico HP.
+1099 Grški »ne« iz julija 2015. Zagotovljen povratni udarec.
+1100 Erasmus
+1101 Izmenjava, ki odpre duha. Lahko dvigne Ekspertizo.
+1102 Zeleni dogovor
+1103 Green Deal iz 2019, naravnost v obraz.
+1104 Pogozdovanje
+1105 Ponovno zasadi. Povrne polovico HP.
+1106 Ogljični davek
+1107 Mehanizem prilagoditve na meji. Lahko zniža Ekspertizo.
+1108 Nevtralnost 2050
+1109 Nič neto emisij, z enim udarcem.
+1110 Kompost
+1111 Zelo smrdi. Lahko izpostavi vplivu.
+1112 Pritrjeni pokrovček
+1113 Direktiva 2019/904: pokrovček tarče ne izpusti več.
+1114 Fit for 55
+1115 -55 % emisij do 2030, in udari.
+1116 Kolo
+1117 Hitra kolesarska steza. Deluje prvo.
+1118 Premog
+1119 ESPJ iz 1951 kot krogla. Lahko sproži skandal.
+1120 Jeklo
+1121 Pest iz evropskega jekla.
+1122 Plavž
+1123 Ekstremna vročina. Lahko sproži skandal.
+1124 Premestitev proizvodnje
+1125 Odide drugam. Lahko zniža nasprotnikovo Odzivnost.
+1126 Airbus
+1127 Evropski prvak v zaletu.
+1128 Tekoči trak
+1129 Montažni trak: udari 2- do 5-krat.
+1130 Industrijski načrt
+1131 Oživi proizvodnjo. Argumentacija +2.
+1132 Iskra
+1133 Majhen kratki stik. Lahko zamrzne sredstva.
+1134 Fisija
+1135 Euratom, 1957. Energija atoma.
+1136 Vetrnica
+1137 Lopatice se vrtijo… in glava tudi.
+1138 Pipa za plin
+1139 Prekine oskrbo. Zamrzne sredstva.
+1140 REPowerEU
+1141 Načrt iz 2022 za osvoboditev odvisnosti. Ekspertiza +2.
+1142 Prenapetost
+1143 Surov električni sunek, s povratnim udarcem.
+1144 Fuzija
+1145 Reaktor ITER na polni moči.
+1146 Cenovni strop
+1147 Omeji nasprotnika. Ekspertiza -2.
+1148 Uradni opomin
+1149 Prvo uradno opozorilo.
+1150 Kršitev
+1151 Postopek za ugotavljanje kršitve, ki se ga čuti.
+1152 Sodba Sodišča EU
+1153 Luksemburg je odločil. Pritožba ni mogoča.
+1154 Milijardna kazen. Kovanci letijo na vse strani.
+1155 Preiskava OLAF
+1156 Urad za boj proti goljufijam preiskuje. Lahko blokira tarčo.
+1157 GDPR
+1158 Varuje podatke. Nasprotnikov Uklon -2.
+1159 Sodna praksa
+1160 Opre se na precedense. Ekspertiza +2.
+1161 DSA
+1162 Uredba o digitalnih storitvah. Lahko zniža Ekspertizo.
+1163 Evrski kovanec
+1164 Met kovanca za 2 €. Glava ali cifra?
+1165 Ključna obrestna mera
+1166 Dvigne obrestne mere. Lahko upočasni tarčo.
+1167 Tiskanje denarja
+1168 Kvantitativno sproščanje po volji.
+1169 Varčevanje
+1170 Zategnite si pas. Nasprotnikova Argumentacija -2.
+1171 Whatever it takes
+1172 »Ne glede na ceno« (Draghi, julij 2012). Vedno uspe.
+1173 Inflacija
+1174 Grize kupno moč, krog za krogom.
+1175 Razmik v donosnosti
+1176 Razmik v obrestnih merah poleti v nebo. Pogosti kritični udarci.
+1177 Načrt za okrevanje
+1178 NextGenerationEU, 750 milijard €. Povrne polovico HP.
+1179 Traktor
+1180 Blokira cesto. Lahko upočasni tarčo.
+1181 SKP
+1182 Skupna kmetijska politika: povrne HP.
+1183 Gnojevka
+1184 Razlita pred prefekturo. Lahko kontaminira.
+1185 ZOP
+1186 Zaščitena označba porekla. Odpornost +2.
+1187 Žetev
+1188 Rekordna letina, naravnost v glavo.
+1189 Glifosat
+1190 Leta 2023 ponovno dovoljen za deset let. Lahko zastrupi z vplivom.
+1191 Ukrivljena banana
+1192 Uredba iz 1994 o kakovosti banan. Zmedujoče.
+1193 Piškotek
+1194 Pas, ki ga ni mogoče zapreti. Zamrzne tarčo.
+1195 Napaka
+1196 Napaka 404. Lahko dezinformira.
+1197 Algoritem
+1198 Personalizirano priporočilo, zelo personalizirano.
+1199 USB-C
+1200 Univerzalni polnilnik, obvezen od 2024.
+1201 Fake news
+1202 Viralna govorica. Dezinformira tarčo.
+1203 Gostovanje
+1204 Brez stroškov gostovanja! Deluje prvo.
+1205 Akt o UI
+1206 Prva svetovna uredba o UI (2024).
+1207 Trolanje
+1208 Neprijeten komentar. Lahko zmede.
+1209 Stisk roke
+1210 Trden in dolgotrajen, pred fotografi.
+1211 Pogajanja do 5. ure zjutraj. Uspava tarčo.
+1212 Kompromis
+1213 Vsi malo izgubijo, ti pridobiš HP.
+1214 Sankcije
+1215 Nov paket sankcij. Lahko zniža Diplomacijo.
+1216 Kanape
+1217 Sofagate (Ankara, 2021): tarča izgubi krog. Samo prvi krog.
+1218 Tolmačenje
+1219 Prevedeno v 24 jezikov. Nekaj se izgubi.
+1220 Dogovor
+1221 Zgodovinski dogovor, podpisan na zadnji hip.
+1222 Soft power
+1223 Evropski šarm. Diplomacija +2.
+1224 Prigrizki
+1225 Zabava na trgu Lux. Tarča pride pod vpliv.
+1226 Kovček
+1227 Dobro napolnjen kovček, vržen z zaletom.
+1228 Vreča bankovcev
+1229 Bankovci povsod. Igrišče je prekrito z njimi.
+1230 Stališče
+1231 Amandma, pripravljen do zadnje podrobnosti.
+1232 Prehod v zasebni sektor
+1233 Preide v zasebni sektor. Odzivnost +2.
+1234 Vpliv
+1235 Beseda, spuščena v pravo uho.
+1236 Vrtljiva vrata
+1237 Nihče več ne ve, kdo dela za koga.
+1238 Slogan
+1239 Tri besede, brez odtenkov.
+1240 Rdeči avtobus
+1241 »350 milijonov na teden!« Lahko dezinformira.
+1242 Megafon
+1243 Vpije glasneje kot vsi drugi.
+1244 Evromit
+1245 Legenda o Bruslju, zelo prepričljiva.
+1246 TREMENDOUS
+1247 Najboljša poteza vseh časov. Argumentacija +3.
+1248 Carine
+1249 Liberation Day (2. april 2025). Lahko zniža Odpornost.
+1250 Objava z velikimi črkami
+1251 SPOROČILO, NAPISANO V CELOTI Z VELIKIMI ČRKAMI.
+1252 Not laughing
+1253 »You're not laughing now!« (2016). Lahko zniža Diplomacijo.
+1254 Fiktivna zaposlitev
+1255 Delo, ki ne obstaja, ampak nekaj stane.
+1256 Izginotje
+1257 Ni ga mogoče najti v pisarni. Uklon +2.
+1258 Izbrisan SMS
+1259 Nobeno sporočilo ne ostane. Razveljavi nasprotnikove bonuse.
+1260 Strašenje
+1261 Dosje, ki se vrne strašiti svojega avtorja.
+1262 Plačilna lista
+1263 Plača, izplačana zaradi nič. Povrne HP.
+1264 Ektoplazma
+1265 Spektakularen prikaz v Parlamentu.
+1266 Ustava
+1267 Zavrnjena leta 2005… ampak z noro močjo.
+1268 Rimska pogodba
+1269 1957: ustanovitev EGS.
+1270 1992: Unija in enotna valuta.
+1271 2007: pogodba, ki je nadomestila ustavo.
+1272 Redke zemljine
+1273 Omeji izvoz. Lahko zamrzne sredstva.
+1274 Dolga miza
+1275 Sprejme na koncu šestmetrske mize. Uklon +2.
+1276 Sistemski rival
+1277 Partner, tekmec, rival. Lahko zniža Diplomacijo.
+1278 Grenlandija
+1279 Poskuša kupiti celo ostrvo. Velika škoda.
+1280 Rojen z Zelenim dogovorom leta 2019. Poganjek vzbrsti vsakič, ko je sprejet nov emisijski standard.
+1281 Podnebni cilj
+1282 Trenira, da bi do 2030 zmanjšal emisije za 55 %. Šteje vsako kalorijo.
+1283 Nevtralnost
+1284 Cilja na ogljično nevtralnost leta 2050. Do takrat zasadi drevo na vsak korak.
+1285 Majhen kup premoga iz ESPJ leta 1951. Z navdušenjem počrni vse, česar se dotakne.
+1286 Njegov dimnik brizga iskre, ko se razjezi. Sanja o polni zaposlenosti.
+1287 Skupno jeklo
+1288 Kovan iz skupnega premoga in jekla. Dokaz, da se mir lahko izdeluje.
+1289 Atom
+1290 Majhen radoveden atom, rojen iz pogodbe Euratom leta 1957. Ne zdrži pri miru.
+1291 Reaktor
+1292 Njegovi elektroni se vrtijo tako hitro, da razsvetli celo sobo. Varčnost je izbirna.
+1293 Ko je razburjen, se razdeli na dvoje. Z Zelenimi se ne pogovarja več.
+1294 Žig
+1295 Živ žig, ki potrdi vse, kar sreča. Že je žigosal lastnega trenerja.
+1296 Parafist
+1297 Vsako stran parafira spodaj desno. Za vsako pogodbo potrebuje štiri ure.
+1298 Ratifikacija
+1299 Premakne se šele, ko reče da vseh 27 nacionalnih parlamentov. Zato veliko spi.
+1300 Razmnoži se v tisočih ob vsakem zakonskem besedilu. Parlament jih včasih prejme 2000 na poročilo.
+1301 Obstrukcija
+1302 Vloži tako veliko amandmajev, da blokira celotno sejo. Dobro uigrana tehnika.
+1303 Pas za piškotke
+1304 Prikaže se pred vsakimi vrati od GDPR leta 2018. Zavrnitev nikoli ne zadostuje.
+1305 Soglasje
+1306 Za vse vpraša za tvoje soglasje, nato še za soglasje samo. Zelo je vljuden.
+1307 Polnilnik
+1308 Obvezen na vseh napravah od konca 2024. Cel predal kablov je pustil brez dela.
+1309 Pokrovček
+1310 Od julija 2024 ne zapusti več svoje steklenice. Ko piješ, te udari po nosu.
+1311 Izginula slamica
+1312 Prepovedana od 2021, mislili smo, da je izginila. Ponoči straši po fast foodih.
+1313 Banana
+1314 Uredba iz 1994 določa njeno kakovost. Vse življenje meri lastno ukrivljenost.
+1315 Gostovanje
+1316 Od junija 2017 potuje povsod brez stroškov. Mami pokliče z vsake meje.
+1317 Brez meja
+1318 Vseh 27 držav je obiskal v enem vikendu in vse objavljal v živo. Brez doplačila.
+1319 Ta majhni glodalec gre za en semester v tujino in se vrne dvojezičen. Rojen 1987.
+1320 Izmenjava
+1321 Živel je v 12 sostanovanjih in kuha testenine v 9 jezikih.
+1322 Kovanec
+1323 Kovanec za 2 €, ki se od 2002 kotali povsod. Ima 27 možnih nacionalnih strani.
+1324 Enotna valuta
+1325 Dvajset držav si deli njegovo moč. Ko ena zakašlja, imajo druge vročino.
+1326 Prosto gibanje
+1327 Rojen na ladji na Mozeli leta 1985. Nobena meja ga ne ustavi.
+1328 Herbicid
+1329 Leta 2023 ponovno dovoljen za deset let. Plevel trepeta, ko gre mimo.
+1330 Akviziter
+1331 Po hodnikih se klati z aktovko, večjo od njega. Ne lobira, on »informira«.
+1332 Influencer
+1333 Pozna številko vsakega parlamentarnega asistenta. In njihove alergije.
+1334 Mega-lobist
+1335 Eden od 25.000 bruseljskih lobistov, v velikanski različici. Zakone prepisuje v spanju.
+1336 Železni kovček
+1337 Železni kovček, ki dvanajstkrat na leto potuje med Bruseljem in Strasbourgom. Trpi za slabostjo med potovanjem.
+1338 Selitev
+1339 V trebuhu prevaža cel parlament. Stroški poti: bolje, da ne vprašaš.
+1340 Sprememba ure
+1341 Parlament je leta 2019 glasoval za njegovo odpravo. Vseeno se vrne dvakrat na leto.
+1342 Prevara
+1343 Od 2015 goljufa na testih: čist na preizkusni mizi, zakajen na cesti.
+1344 Vodi kampanjo za predsedovanje… nato pa na njegovo mesto imenujejo nekoga drugega.
+1345 Tolmač
+1346 Govori 24 jezikov, vedno z dvosekundno zamudo.
+1347 Tri glave: Parlament, Svet, Komisija. Dogovorijo se okrog 4. ure zjutraj.
+1348 Nihče ne ve natančno, kaj počne. Vseeno zaseda v 300 odborih.
+1349 Obrazec
+1350 Kup obrazcev v treh izvodih. Vedno manjka ena stran.
+1351 Arhiv
+1352 Hrani vse, tudi listke iz leta 1958. Razvrstitev: po abecedi in čustvih.
+1353 Majhen kmet
+1354 Za vsak hektar prejme pomoč iz SKP. Vsako jutro prešteje svoje hektare.
+1355 Brez mišice absorbira tretjino evropskega proračuna. Vedno je lačen.
+1356 Kmetijska politika
+1357 Ko s traktorji blokira avtocesto, se pogaja celo Svet.
+1358 Pred Parlamentom se parkira ob vsaki reformi. Trobljenje zagotovljeno.
+1359 Sir
+1360 Majhen sir iz surovega mleka, ki zelo močno smrdi. Ponosen je na svoj izvor.
+1361 Zaščiten z označbo porekla. Vsako posnemanje gre na sodišče.
+1362 Pralina
+1363 Zelo prijazna belgijska čokolada. Stopi se, ko ji nekdo nameni kompliment.
+1364 Belgijski krompirček
+1365 Pečen dvakrat, kot se spodobi. Kategorično zavrača, da bi ga imenovali »French«.
+1366 Golob
+1367 Živi na trgu Luxembourg in krade krompirček lobistom. Pozna vse govorice.
+1368 Mali možicelj
+1369 Majhen kipec, visok 55 cm, ki ima več kostumov kot cel Parlament.
+1370 Atomium
+1371 Devet jeklenih krogel, povezanih v kristal, od Expo 58. Ponoči žari nad Bruseljem.
+1372 Pripravnik
+1373 Veliko dela in ni plačan. Pravi, da je to »izkustvena izkušnja«.
+1374 Začasni uslužbenec
+1375 Njegova pogodba se izteče čez tri mesece. Podaljšuje jo že šest let.
+1376 Opravil je EPSO izbirni postopek. Ničesar se več ne boji, razen pokojninske reforme.
+1377 Godrnjač
+1378 Je proti. Ni važno kaj, je proti.
+1379 Govornik
+1380 Splezal bo na vsako mizo, da nagovori množico. Tudi v menzi.
+1381 Demagog
+1382 Vsem obljublja vse. Njegove obljube izginejo ob zori.
+1383 Napačna informacija
+1384 Spremeni obliko glede na to, kdo ga pogleda. Zelo je razdeljen.
+1385 Lažni profil
+1386 Majhen robot, ki vse komentira z velikimi črkami. Nikoli ni spal.
+1387 Tovarna trolov
+1388 Deset tisoč profilov v eni škatli. Volitve ga dobro poznajo.
+1389 Uči se iz vsega, kar počneš. Že vé, kaj boš ujel.
+1390 Regulirana UI
+1391 Prva svetovna uredba o umetni inteligenci (2024) ga je spravila v red.
+1392 Vsak mesec malo napihne. Gospodinjstva ga pozorno spremljajo.
+1393 Hiperinflacija
+1394 Tako velik, da zamaši ulice. ECB dviguje obrestne mere, da bi ga shujšala.
+1395 Razmik v obrestnih merah
+1396 Raztegne se ob vsaki nerodni izjavi centralnega bankirja.
+1397 Kriptovaluta
+1398 Zjutraj je vreden premoženje, zvečer nič. Obožuje vrtiljake.
+1399 Regulirana kripto
+1400 Uredba MiCA ga je prisilila, da nosi kravato. Zdaj je bolj umirjen.
+1401 Proračunsko ravnotežje
+1402 Nikoli nič ne porabi, niti svoje energije. Njegov krik: »Schwarze Null!«
+1403 Trojka
+1404 Tri mačke: ECB, Komisija, IMF. Skupaj pregledujejo tuje račune.
+1405 Krastača, ki ob vsakem predlogu zarega »ne!«. Sama lahko blokira vse.
+1406 Soglasje
+1407 Za vsako odločitev zahteva soglasje, nato pa ga sam zavrne.
+1408 Zapornica
+1409 Znova se prikaže, brž ko govorimo o mejnih kontrolah. Ima svojo osebno kontrolno kabino.
+1410 Izstop
+1411 Leta 2016 je hotel oditi, leta 2020 je odšel, in včasih obžaluje. Pogosto zapusti boje.
+1412 Posvetovanje
+1413 Skrinjica, ki zapletenim problemom zastavlja preprosta vprašanja.
+1414 Parlament ga plačuje, vendar nikoli ni stopil vanj. Nihče ga še ni videl delati.
+1415 Nosi značko, pogodbo in plačilno listo. Ampak nobene pisarne.
+1416 Decembra 2022 so ga polnega bankovcev našli v bruseljskem stanovanju.
+1417 Aktovka
+1418 Majhen kovček, ki gre iz rok v roke pred Parlamentom.
+1419 Plinovod
+1420 Dolg 1200 km pod morjem. Njegovo pipo nadzoruje nekdo drug.
+1421 Njegove lopatice se zavrtijo takoj, ko zapiha. Sovraži dni brez vetra.
+1422 Vetrna elektrarna na morju
+1423 Živi na odprtem Severnem morju in oskrbuje cela mesta.
+1424 Sončna celica
+1425 Ponoči spi, podnevi trdo dela, predvsem v Španiji.
+1426 Preprečuje, da bi cene zrasle previsoko. Od potiskanja ga boli vrat.
+1427 Carina
+1428 Obdavči vse, kar gre mimo njega. Tudi odpadlo listje.
+1429 Trgovinska vojna
+1430 Kaže velikansko tablo s carinami. Številke se spremenijo vsako jutro.
+1431 Majhen kamenček, od katerega so odvisni vsi telefoni. Njegov izvoz je nadzorovan.
+1432 Panda diplomat
+1433 Za nekaj let posojen evropskemu živalskemu vrtu. Jé bambus in trgovinske sporazume.
+1434 Vsebina ni na voljo
+1435 Ta rumeni medvedek ni viden v nobeni regiji. Njegov zapis je bil umaknjen.
+1436 Golob pravnik
+1437 Gnezdi na stolpih Sodišča na Kirchbergu in gruli v latinščini.
+1438 Deklaracija
+1439 Vsakomur, ki ga želi slišati, recitira deklaracijo z 9. maja 1950. Prikaže se na dan Evrope.
+1440 Nobelova nagrada
+1441 Medalja, podeljena Evropski uniji leta 2012. Žari od ponosa.
+1442 Rahel dež
+1443 Majhen bruseljski oblaček. Dežuje nate 200 dni na leto.
+1444 Poslovno kosilo
+1445 Delovno kosilo, ki traja tri ure. Na njem se odloči več kot na seji.
+1446 Trgovinski sporazum
+1447 V pogajanjih je od leta 1999. Ko stopi korak naprej, ga traktorji porinejo nazaj.
+1448 Rojen 25. marca 1957 na Kapitolu. Ustanovil je Evropsko gospodarsko skupnost.
+1449 Maastrichtska pogodba
+1450 Rojen na Nizozemskem leta 1992. Ustvaril je Unijo in sanjal o evru.
+1451 Lizbonska pogodba
+1452 Podpisana leta 2007, prevzela je bistvo ustave, ki nikoli ni zagledala luči dneva.
+1453 Zavrnjen na referendumu v Franciji in na Nizozemskem leta 2005. Zbeži, brž ko se mu približaš.
+1454 Pozna samo en napad, in ta vedno uspe. Evro je rešil z enim stavkom.
+1455 Uradni žig
+1456 Žigosa oslabljenega Euromona, da ga registrira.
+1457 Super žig
+1458 Okrepljeno črnilo. Učinkovitejši od navadnega žiga.
+1459 Kvalificirani žig
+1460 Kvalificirana večina: zelo velika možnost ujetja.
+1461 Soglasni žig
+1462 Soglasje! Zagotovljeno ujetje. Izjemno redek.
+1463 Menzna kava
+1464 Povrne 20 HP. Mlačna, ampak učinkovita.
+1465 Klub sendvič
+1466 Povrne 50 HP. Najljubši med pripravniki.
+1467 Bruseljska vafljica
+1468 Povrne 120 HP. Sladkor v prahu vključen.
+1469 Kniddelen
+1470 Luksemburška specialiteta. Povrne 200 HP.
+1471 Popoln meni
+1472 Predjed, glavna jed, sladica: povrne ves HP.
+1473 Pravno mnenje
+1474 Pozdravi vse statusne težave.
+1475 Budilka
+1476 Zbudi Euromona, ki ga je uspaval vrh.
+1477 Predlog za oživitev
+1478 Euromona v K.O. spravi spet v stanje za razpravo.
+1479 Soglasna oživitev
+1480 Obudi Euromona v K.O. z vsemi njegovimi HP.
+1481 Sindikalni odmor
+1482 Povrne ves PP Euromona.
+1483 Argumentarij
+1484 V boju: poveča Argumentacijo.
+1485 Neprebojni jopič
+1486 V boju: poveča Odpornost.
+1487 Strokovno poročilo
+1488 V boju: poveča Ekspertizo.
+1489 Adresar
+1490 V boju: poveča Diplomacijo.
+1491 Dvojni espresso
+1492 V boju: poveča Odzivnost.
+1493 Prepoved nadlegovanja
+1494 Klavzula proti nadlegovanju: odvrne Euromone za 100 korakov.
+1495 Omogoči evolucijo nekaterih Euromonov. Potrebnih je 27 podpisov.
+1496 Omogoči evolucijo nekaterih energetskih Euromonov.
+1497 Ključ USB-C
+1498 Omogoči evolucijo nekaterih digitalnih Euromonov.
+1499 Enciklopedija Euromonov, darilo Jeana Monneta.

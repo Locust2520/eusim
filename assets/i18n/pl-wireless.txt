@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Online
+2165	Bez internetu
+2166	Utwórz grę lokalną
+2167	Dołącz do gry lokalnej
+2156	Gry w pobliżu
+2158	Bez routera i serwera.
+2159	Uruchom grę ponownie, aby zmienić tryb Wi-Fi.
+2163	Tryb DS: sieć otwarta/WEP. Dla WPA2 uruchom grę w trybie DSi.
+2162	Wi-Fi DSi: sprawdź sieć WPA2 i ustawienia konsoli.
+2160	Łączenie z Wi-Fi DSi… B: anuluj
+2161	Łączenie z Wi-Fi DS… B: anuluj
+2154	Konsola nie odpowiada.

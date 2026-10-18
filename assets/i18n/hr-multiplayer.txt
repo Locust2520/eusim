@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Rasprava za više igrača
+2148	Stvori sobu
+2149	Pridruži se sobi
+2150	Igraj s bilo kim
+2151	Naziv sobe
+2153	PIN (6 znamenki)
+2145	Čekanje igrača…
+2146	Pretraga svakih 10 sekundi.
+2147	PIN: %s
+2118	Odustani (B)
+2117	Potvrdi (A)
+2116	←→: položaj    ↑↓: znamenka
+2152	Unesi naziv sobe.
+2113	Neispravan odgovor poslužitelja.
+2135	Neispravan zahtjev za sobu.
+2136	Taj naziv sobe već se koristi.
+2137	Soba nije pronađena.
+2138	Pogrešan PIN.
+2139	Soba je puna.
+2140	Verzije igre se razlikuju.
+2141	Poslužitelj je pun.
+2142	Soba je istekla.
+2143	Neispravna razmjena rasprave.
+2144	Poslužitelj je zaustavljen.
+2108	Rasprava je otkazana.
+2109	Poslužitelj ne odgovara.
+2110	Veza s poslužiteljem je prekinuta.
+2111	Drugi je igrač napustio raspravu.
+2115	Rasprave nisu sinkronizirane.
+2114	Čekanje drugog igrača… B: odustani
+2123	Povezivanje na Wi-Fi… B: odustani
+2124	Wi-Fi se ne može pokrenuti.
+2125	Provjeri Wi-Fi postavke konzole.
+2126	Veza se ne može stvoriti.
+2127	Veza se ne može postaviti.
+2128	Poslužitelj nije dostupan.
+2129	Za raspravu trebaš ekipu.

@@ -1,0 +1,157 @@
+# Estonian — computer mini-games
+1928 Prince Mbeki III
+1929 4 M€ pärandus jagamiseks
+1930 Diisli lobby
+1931 Kutse: homaariõhtusöök
+1932 Personaliosakond
+1933 Koordineerimiskoosolek koosolekute teemal
+1934 SuperPromo
+1935 Sinu tasuta telefon ootab sind
+1936 Qatar Events
+1937 Väike kohver sulle?
+1938 Turvapank
+1939 Kinnita oma salasõna siin
+1940 Newsletter
+1941 47 põnevat IKÜM-i uudist
+1942 Täiskogu istungi päevakord
+1943 Ema
+1944 Kas sa Brüsselis ikka korralikult sööd?
+1945 Söökla
+1946 Päevapraad: waterzooi
+1947 Kohtu kantselei
+1948 Otsus tuleb teatavaks teha enne lõunat
+1949 Komisjon
+1950 Eelarvehääletus homme
+1951 Sinu Eurodex on uuendatud
+1952 Väitlus täna õhtul? Ma võidan.
+1953 Postkast
+1954 437 lugemata kirja! Puuduta päris kirja, et seda lugeda, ja punast risti, et rämpspost minema visata. Töötle 20 kirja enne, kui postkast üle ajab!
+1955 Loe: puuduta · Rämps: rist
+1956 Vead: %d / 3
+1957 Postkast tühi! Esimest korda alates 2019. aastast. Naudi, see ei kesta kaua.
+1958 Postkast ajab üle! Komisjoni server jooksis kokku. Jälle.
+1959 Viskasid presidendi kirja prügikasti ja vastasid printsile. Juhtub ka parimatega.
+1960 Alates 2024. aastast peab kõigil ELis müüdavatel uutel telefonidel olema USB-C-pesa.
+1961 Tõsi: ühtse laadija direktiiv kehtib alates 2024. aasta lõpust.
+1962 EL keelab liiga kõverate banaanide müügi.
+1963 Vale: 1994. aasta määrus jagas banaanid kvaliteediklassidesse. Kõverad on endiselt müügil.
+1964 Euroopa lipul on 12 tähte, sest liikmesriike oli 12.
+1965 Vale: 12 on täiuslikkuse sümbol. Lipp pärineb 1955. aastast, ammu enne 12 riiki.
+1966 Euroopa Parlament istub üks nädal kuus Strasbourgis.
+1967 Tõsi: 12 istungjärku aastas Strasbourgis, koos kõigi nende kohvritega.
+1968 Euroopa volinikud valivad kodanikud otse.
+1969 Vale: neid esitavad valitsused ja seejärel kinnitab Parlament.
+1970 Euroopa Liidul on 24 ametlikku keelt.
+1971 Tõsi: iiri keelest malta keeleni tõlgitakse kõik tekstid kõigisse 24 keelde.
+1972 Kõik ELi riigid kasutavad eurot.
+1973 Vale: 2026. aastal kasutab seda 21 riiki 27-st. Bulgaaria on viimane liituja.
+1974 Mobiilside rändlustasud kaotati ELis 2017. aastal.
+1975 Tõsi: alates 2017. aasta juunist helistad kõikjal „nagu kodus”.
+1976 Euroopa hümn on Beethoveni „Oodi rõõmule”.
+1977 Tõsi: ilma ametlike sõnadeta, et ükski keel ei solvuks.
+1978 Luksemburg on ELi väikseim riik.
+1979 Vale: see on Malta, umbes 316 km².
+1980 Euroopa Liit on saanud Nobeli rahupreemia.
+1981 Tõsi: 2012. aastal, 60 aasta rahu ja lepituse eest.
+1982 IKÜM kaitseb isikuandmeid alates 2018. aastast.
+1983 Tõsi: see kehtib alates 25. maist 2018. Sellest ka küpsiste bännerid…
+1984 Kõverate kurkide müük on ELis keelatud.
+1985 Vale: nende kõverust käsitlev norm kaotati 2009. aastal.
+1986 Korgid peavad jääma plastpudelite külge kinni.
+1987 Tõsi: kohustuslik alates 2024. aasta juulist, et need enam loodusesse ei satuks.
+1988 Šveits on Euroopa Liidu liige.
+1989 Vale: ta on Schengeni alas, aga mitte ELis.
+1990 Euroopa Keskpanga peakorter on Brüsselis.
+1991 Vale: see asub Frankfurdis, Saksamaal.
+1992 Valeuudisekütt
+1993 Kuulujutud Euroopast levivad kiiremini kui direktiivid! Puuduta iga väite juures TÕSI või VALE. Vaja on 7 õiget vastust 10-st.
+1994 TÕSI
+1995 VALE
+1996 Tõsi või vale?
+1997 Küsimus %d / 10
+1998 Õige vastus!
+1999 Liiga hilja!
+2000 Mööda!
+2001 Puuduta jätkamiseks
+2002 Braavo! Kõik need valeuudised on ümber lükatud. Faktikontrollijad tahavad sind värvata.
+2003 Liiga palju valeuudiseid levis… Konto „TõeliseEuroopa2027” saab 10 000 uut jälgijat.
+2004 Bulgaaria
+2005 Tšehhi
+2006 Taani
+2007 Saksa
+2008 Kreeka
+2009 Inglise
+2010 Hispaania
+2011 Eesti
+2012 Soome
+2013 Prantsuse
+2014 Iiri
+2015 Horvaadi
+2016 Ungari
+2017 Itaalia
+2018 Leedu
+2019 Läti
+2020 Malta
+2021 Hollandi
+2022 Poola
+2023 Portugali
+2024 Rumeenia
+2025 Slovaki
+2026 Sloveeni
+2027 Rootsi
+2028 Tõlketeenistus
+2029 Sõnumeid saabub üle kogu Euroopa! Loe igaüht ja saada see õigesse tõlkekabiini. 12 sõnumit 45 sekundiga. Iga viga maksab 3 sekundit!
+2030 Tõlkekabiinid
+2031 Saada sõnum õigesse kabiini
+2032 Kõik sõnumid jõudsid õigesse kohta! Tõlke peadirektoraat pakub sulle tööd. 24 keeles.
+2033 Slovakikeelne sõnum läks sloveenidele… Diplomaatilist intsidenti parajasti tõlgitakse.
+2034 Energiakriis! Hinnad lendavad taevasse.
+2035 Lockdown: keegi ei osta enam midagi.
+2036 Hiiglaslik taastekava võeti öösel vastu!
+2037 Börsikrahh Frankfurdis!
+2038 Kiibipuudus!
+2039 Leibkonnad säästavad kogu oma raha.
+2040 Sa juhid EKP-d! Inflatsioon tõuseb? Tõsta intressi. Langeb? Langeta. Hoia see rohelises tsoonis (umbes 2 %) vähemalt pool ajast. 40 sekundit!
+2041 Inflatsioon: %s
+2042 Intress: %s
+2043 Langeta
+2044 Tõsta
+2046 Inflatsioon taltsutatud! Turud aplodeerivad, hoiustajad magavad rahulikult.
+2047 Inflatsioon libises käest… Kohvi hind sööklas just kahekordistus.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Ühtne laadija
+2053 Alates 2024. aastast on USB-C kohustuslik! Puuduta seadmeid, millel on veel vana pesa, et need nõuetega vastavusse viia. Ainult mitte USB-C omasid! 20 seadet 30 sekundiga.
+2054 Puuduta vanu pesasid, mitte USB-C-d!
+2055 Kõik nõuetekohased! Üks laadija kõigile. Euroopa kaablisahtlid hingavad kergendatult.
+2056 Sa „viisid vastavusse” seadme, millel oli juba USB-C. Nüüd on sel kolm adapterit.
+2057 Liiga palju vanu kaableid pääses direktiivist… Kaablisahtel ajab üle.
+2058 Sinu arvuti. Ekraani nurgas vilgub 437 lugemata kirja.
+2059 Postkast
+2060 Lülita välja
+2061 Ilmub teavitus: „Palju õnne tootlikkuse puhul!” Laua all ootas sind pakk.
+2062 Postkast tühi. Kolm sekundit hiljem: „Re: Koordineerimiskoosolek koosolekute teemal”.
+2063 Meiliserver näitab liivakella. Tõenäoliselt homseni välja.
+2064 Pressiteenistuse arvuti. Ekraanil: „Valeuudiste üksus – kontrollimata kuulujutte: 2 384”.
+2065 Tubli kontrollitöö! Pressiteenistus kingib sulle need eksperdiaruanded. Allikatega, erinevalt teistest.
+2066 Kõik tänased kuulujutud on kontrollitud. Lõunaks tuleb uusi.
+2067 Üht valeuudist jagati just 40 000 korda. Ümberlükkamist 12 korda.
+2068 Tõlke peadirektoraadi terminal. Punane tuli vilgub: „Sõnumid ootavad suunamist”.
+2069 Tõlkijad on uppumas! Kas sa saaksid sõnumid sorteerida ja õigesse kabiini saata?
+2070 Kakskümmend neli keelt, mitte ühtegi suunamisviga! Võta see aadressiraamat, kõik Kohtu tõlkijad on seal sees.
+2071 Sa eristad sloveeni keelt slovaki keelest paremini kui pool Nõukogu.
+2072 Maltakeelne sõnum jõudis iiri kabiini. Nad arutavad seda siiani. Proovi uuesti, kui tahad.
+2073 Bloombergi terminal, veel soe. Kleepsul: „Eesmärk: 2 %. Mitte 1,9. Mitte 2,1. 2.”
+2074 Kas võtad euroala rahapoliitika juhtimise üle?
+2075 Turud kiidavad su ettevaatlikkust. Sinu kontole laekub stabiilsuspreemia!
+2076 Inflatsioon 2 %. Kusagil Frankfurdis poetab üks majandusteadlane rõõmupisara.
+2077 Terminal näitab ameerika mägede kujulist graafikut. Keegi ei näinud midagi. Proovi kiiresti uuesti.
+2078 Europarlamendi saadiku arvuti. Laual on puntras 14 erinevat laadijat.
+2079 Ma hääletasin USB-C direktiivi poolt! Aga mu kolleegidel on endiselt vanad seadmed… Aitad neid nõuetega vastavusse viia?
+2080 Üks laadija kõigile! Võta see USB-C pulk. Räägitakse, et see paneb mõned digitaalsed Euromonid arenema.
+2081 Kaablisahtel on lõpuks tühi. Ma ei teagi enam, mida sinna panna.
+2082 Lightning-kaableid on endiselt igal pool… Proovime uuesti, kui tahad.
+2083 Roheline tsoon: %d %%
+2084 Eesmärk: pool ajast rohelises
+2085 Dock 30

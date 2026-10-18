@@ -1,0 +1,15 @@
+EU Simulator
+Copyright (C) 2026 Les contributeurs d'EU Simulator
+
+Code (source/, include/, tools/, Makefile, build.sh, quick.sh):
+  This program is free software: you can redistribute it and/or modify it under the terms of the
+  GNU General Public License as published by the Free Software Foundation, either version 3 of the
+  License, or (at your option) any later version. See LICENSE.
+  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+  even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Assets (assets/, data/, docs/: images, music, maps, scripts, texts, translations):
+  Licensed under Creative Commons Attribution-ShareAlike 4.0 International. See LICENSE-ASSETS.txt.
+
+Fonts (assets/fonts/): SIL Open Font License 1.1, see assets/fonts/OFL.txt and Galmuri-OFL.txt.
+Third-party art, photo credits and library licences: see CREDITS.md.

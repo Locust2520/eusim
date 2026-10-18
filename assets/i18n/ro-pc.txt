@@ -1,0 +1,157 @@
+# Română — computer mini-games
+1928 Prince Mbeki III
+1929 Moștenire de 4 mil. € de împărțit
+1930 Lobby-ul motorinei
+1931 Invitație: cină cu homar
+1932 Resurse Umane
+1933 Ședință de coordonare despre ședințe
+1934 SuperPromo
+1935 Telefonul tău gratuit te așteaptă
+1936 Qatar Events
+1937 O valijoară pentru tine?
+1938 BancaSigură
+1939 Confirmă-ți parola aici
+1940 Newsletter
+1941 47 de noutăți palpitante despre GDPR
+1942 Ordinea de zi a plenarei
+1943 Mama
+1944 Mănânci bine la Bruxelles?
+1945 Cantina
+1946 Meniul zilei: waterzooi
+1947 Grefa Curții
+1948 Hotărâre de comunicat până la prânz
+1949 Comisia
+1950 Votul pe buget mâine
+1951 Eurodexul tău a fost actualizat
+1952 Dezbatere diseară? Câștig eu.
+1953 Mesaje primite
+1954 437 de e-mailuri necitite! Atinge un e-mail adevărat ca să-l citești și crucea roșie ca să arunci spamul. Rezolvă 20 înainte să se umple căsuța!
+1955 Citește: atinge · Spam: cruce roșie
+1956 Greșeli: %d / 3
+1957 Căsuță goală! Pentru prima dată din 2019. Savurează, nu ține mult.
+1958 Căsuța s-a umplut! Serverul Comisiei tocmai a picat. Iar.
+1959 Ai aruncat e-mailul Președintei și i-ai răspuns prințului. Se întâmplă și celor mai buni.
+1960 Din 2024, telefoanele noi vândute în UE trebuie să aibă port USB-C.
+1961 Adevărat: directiva privind încărcătorul universal se aplică de la sfârșitul lui 2024.
+1962 UE interzice vânzarea bananelor prea curbate.
+1963 Fals: un regulament din 1994 clasifica bananele după calitate. Cele curbate se vând în continuare.
+1964 Drapelul european are 12 stele pentru că erau 12 state membre.
+1965 Fals: 12 e un simbol al perfecțiunii. Drapelul e din 1955, cu mult înainte de cele 12 țări.
+1966 Parlamentul European se reunește o săptămână pe lună la Strasbourg.
+1967 Adevărat: 12 sesiuni pe an la Strasbourg, cu tot cu cuferele de rigoare.
+1968 Comisarii europeni sunt aleși direct de cetățeni.
+1969 Fals: sunt propuși de guverne, apoi aprobați de Parlament.
+1970 Uniunea Europeană are 24 de limbi oficiale.
+1971 Adevărat: de la irlandeză la malteză, toate textele sunt traduse în toate cele 24.
+1972 Toate țările UE folosesc euro.
+1973 Fals: în 2026, 21 din 27 de țări îl folosesc. Bulgaria e ultima venită.
+1974 Tarifele de roaming au fost eliminate în UE în 2017.
+1975 Adevărat: din iunie 2017, suni peste tot „ca acasă”.
+1976 Imnul european este Oda bucuriei de Beethoven.
+1977 Adevărat: fără versuri oficiale, ca să nu supere nicio limbă.
+1978 Luxemburgul e cea mai mică țară din UE.
+1979 Fals: e Malta, cu aproximativ 316 km².
+1980 Uniunea Europeană a primit Premiul Nobel pentru Pace.
+1981 Adevărat: în 2012, pentru 60 de ani de pace și reconciliere.
+1982 GDPR protejează datele personale din 2018.
+1983 Adevărat: se aplică din 25 mai 2018. De-aici toate bannerele cu cookie-uri…
+1984 Castraveții strâmbi sunt interziși la vânzare în UE.
+1985 Fals: norma privind curbura lor a fost eliminată în 2009.
+1986 Dopurile trebuie să rămână atașate de sticlele de plastic.
+1987 Adevărat: obligatoriu din iulie 2024, ca să nu mai ajungă în natură.
+1988 Elveția este membră a Uniunii Europene.
+1989 Fals: e în spațiul Schengen, dar nu și în UE.
+1990 Banca Centrală Europeană își are sediul la Bruxelles.
+1991 Fals: e la Frankfurt, în Germania.
+1992 Antifals
+1993 Zvonurile despre Europa circulă mai repede decât directivele! Pentru fiecare afirmație, atinge ADEVĂRAT sau FALS. Îți trebuie 7 răspunsuri corecte din 10.
+1994 ADEVĂRAT
+1995 FALS
+1996 Adevărat sau fals?
+1997 Întrebarea %d / 10
+1998 Corect!
+1999 Prea târziu!
+2000 Greșit!
+2001 Atinge pentru a continua
+2002 Bravo! Toate falsurile au fost demontate. Verificatorii de fapte vor să te angajeze.
+2003 Au circulat prea multe falsuri… Contul „AdevărataEuropă2027” câștigă 10.000 de urmăritori.
+2004 Bulgară
+2005 Cehă
+2006 Daneză
+2007 Germană
+2008 Greacă
+2009 Engleză
+2010 Spaniolă
+2011 Estonă
+2012 Finlandeză
+2013 Franceză
+2014 Irlandeză
+2015 Croată
+2016 Maghiară
+2017 Italiană
+2018 Lituaniană
+2019 Letonă
+2020 Malteză
+2021 Neerlandeză
+2022 Polonă
+2023 Portugheză
+2024 Română
+2025 Slovacă
+2026 Slovenă
+2027 Suedeză
+2028 Serviciul de traducere
+2029 Sosesc mesaje din toată Europa! Citește fiecare mesaj și trimite-l la cabina de traducere potrivită. 12 mesaje în 45 de secunde. O greșeală costă 3 secunde!
+2030 Cabine de traducere
+2031 Trimite mesajul la cabina potrivită
+2032 Toate mesajele au ajuns la destinație! DG Traduceri îți oferă un post. În 24 de limbi.
+2033 Un mesaj slovac a ajuns la sloveni… Incidentul diplomatic e în curs de traducere.
+2034 Criză energetică! Prețurile explodează.
+2035 Lockdown: nimeni nu mai cumpără nimic.
+2036 Plan uriaș de redresare votat azi-noapte!
+2037 Crah bursier la Frankfurt!
+2038 Criză de cipuri!
+2039 Gospodăriile pun deoparte fiecare bănuț.
+2040 Conduci BCE! Inflația crește? Urcă dobânda. Scade? Coboar-o. Ține-o în zona verde (în jur de 2 %) cel puțin jumătate din timp. 40 de secunde!
+2041 Inflație: %s
+2042 Dobândă: %s
+2043 Coboară
+2044 Urcă
+2046 Inflație sub control! Piețele aplaudă, deponenții dorm liniștiți.
+2047 Inflația ți-a scăpat… Cafeaua de la cantină tocmai s-a scumpit de două ori.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Încărcător universal
+2053 Din 2024, USB-C e obligatoriu! Atinge aparatele care mai au un port vechi ca să le aduci în conformitate. Nu și pe cele cu USB-C! 20 de aparate în 30 de secunde.
+2054 Porturile vechi, nu USB-C!
+2055 Toate conforme! Un singur încărcător pentru toți. Sertarele cu cabluri ale Europei respiră ușurate.
+2056 Ai „adus în conformitate” un aparat care era deja USB-C. Acum are trei adaptoare.
+2057 Prea multe cabluri vechi au scăpat de directivă… Sertarul cu cabluri dă pe dinafară.
+2058 Calculatorul tău. 437 de e-mailuri necitite clipesc într-un colț al ecranului.
+2059 E-mail
+2060 Închide
+2061 Apare o notificare: „Felicitări pentru productivitatea dumneavoastră!” Sub birou te aștepta un colet.
+2062 Căsuță goală. Trei secunde mai târziu: „Re: Ședință de coordonare despre ședințe”.
+2063 Serverul de e-mail afișează o clepsidră. Probabil o va afișa și mâine.
+2064 Un calculator al biroului de presă. Pe ecran scrie: „Celula Antifals – zvonuri de verificat: 2.384”.
+2065 Frumoasă muncă de verificare! Biroul de presă îți oferă aceste rapoarte de expertiză. Cu surse, de data asta.
+2066 Toate zvonurile zilei au fost verificate. Vor mai veni până la prânz.
+2067 Un fals tocmai a fost distribuit de 40.000 de ori. Dezmințirea, de 12 ori.
+2068 Terminalul DG Traduceri. Un led roșu clipește: „Mesaje în așteptarea direcționării”.
+2069 Interpreții sunt copleșiți! Poți să sortezi mesajele și să le trimiți la cabina potrivită?
+2070 Douăzeci și patru de limbi, nicio greșeală de direcționare! Ia agenda asta, toți interpreții Curții sunt în ea.
+2071 Deosebești slovena de slovacă mai bine decât jumătate din Consiliu.
+2072 Un mesaj maltez a ajuns în cabina irlandeză. Încă se discută. Mai încearcă oricând vrei.
+2073 Un terminal Bloomberg, încă cald. Pe un post-it: „Țintă: 2 %. Nu 1,9. Nu 2,1. 2.”
+2074 Preiei comanda politicii monetare a zonei euro?
+2075 Piețele îți salută prudența. Un bonus de stabilitate îți intră în cont!
+2076 Inflație la 2 %. Undeva la Frankfurt, un economist varsă o lacrimă de bucurie.
+2077 Terminalul afișează un grafic în formă de montagne russe. Nimeni n-a văzut nimic. Reîncepe repede.
+2078 Calculatorul eurodeputatei. Pe birou, un ghem de 14 încărcătoare diferite.
+2079 Am votat directiva USB-C! Dar colegii mei mai au aparate vechi… Mă ajuți să le aduc în conformitate?
+2080 Un singur încărcător pentru toți! Poftim, ia cheia asta USB-C. Se zice că face să evolueze anumiți Euromoni digitali.
+2081 Sertarul cu cabluri e în sfârșit gol. Nu mai știu ce să pun în el.
+2082 Mai sunt cabluri Lightning peste tot… Mai încercăm oricând vrei.
+2083 Zona verde: %d %%
+2084 Țintă: jumătate din timp pe verde
+2085 Dock 30

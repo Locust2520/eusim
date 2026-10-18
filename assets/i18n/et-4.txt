@@ -1,0 +1,254 @@
+# Eesti — ids 1500-1751
+1500 Pääsuluba
+1501 Avab Parlamendi uksed. Värv: praktikant.
+1502 OLAF-i märk
+1503 Võimaldab näha kummitusassistente.
+1504 Euroopa pass
+1505 Burgundia punane, 32 lehekülge, kõik piirid avanevad.
+1506 Interraili pass
+1507 Reisi rongiga üle kogu Euroopa.
+1508 REPowerEU komplekt
+1509 Kütte taaskäivitamiseks, kui gaas on kinni keeratud.
+1510 Konjak
+1511 Väärtuslik pudel. Lisatolliga alates 2024…
+1512 Söökla kaart
+1513 Saldo: 3,40 €. Piisab kohviks.
+1514 Kellakeeramise direktiiv
+1515 Kellakeeramise lõpetamise direktiiv (2019).
+1516 Kohver Brüssel–Strasbourg kolimisest.
+1517 Märgikarp
+1518 Sisaldab lepingute märke.
+1519 Hei, uustulnuk! Siin lahendatakse kõik väitlusega. Näita, mida sa väärt oled!
+1520 Ahh… Oleksin pidanud oma kokkuvõtted üle lugema.
+1521 Ha! Tagasi paljundusmasina juurde!
+1522 Rivaal
+1523 Noh, {P}, kas testime oma Euromone? Mine is obviously better.
+1524 What?! See oli õnn!
+1525 Easy. Nagu plaanitud.
+1526 {P}! Sul on juba märk? Pole hullu, ma panen sind kahetsema.
+1527 Not again… Noh, Frankfurdis näed.
+1528 Ha! Luksemburg sobib mulle.
+1529 Käisin just EKP-s. Sain rahapoliitikast kõigest aru. Peaaegu kõigest.
+1530 Bloody hell… Sa arened tõesti kiiresti, {P}.
+1531 Nagu City's öeldakse: time is money.
+1532 {P}… see on meie viimane väitlus. Pärast lähen tagasi Londonisse. Lõplikult. Noh, one last time!
+1533 Good game, {P}. Vähemalt lahkun stiilselt.
+1534 Lahkun võiduga. See on ka midagi.
+1535 {P}! I'm back. Noh… ma palun tagasi tulla. Rejoin? Aga kõigepealt väitlus au pärast!
+1536 Noh. Täidan liitumisavalduse. Selles on 35 peatükki…
+1537 Ha! Väljaastumine teeb siis tugevamaks. Või ei tee.
+1538 Mina olen ka praktikant! Tasustamata, nagu sina. Väitleme, see lohutab.
+1539 Noh… lähen tagasi koopiaid tegema.
+1540 Seis! Kas su matkablankett A-38 on viseeritud?
+1541 Hea küll, ma viseerin selle. Aga kolmes eksemplaris.
+1542 Põllumees
+1543 ÜPP on mu elu! Ja mu traktor on mu pere. Noh, väitleme!
+1544 Pean sellest ametiühinguga rääkima…
+1545 Erapankur
+1546 Tere tulemast Luksemburgi. Absoluutne diskreetsus. Seda väitlust pole kunagi toimunud.
+1547 Seda väitlust pole kindlasti kunagi toimunud.
+1548 Maksunõustaja
+1549 Maksueelotsus? Kirjutan selle viie minutiga. Aga kõigepealt väitlus.
+1550 Mu skeemid… varisesid kokku!
+1551 Areeni meister
+1552 Ah, noor praktikant! Tule, tule, ma patsutan su põske. Siis väitleme, nagu eurorühma vanadel headel aegadel.
+1553 Braavo! Oled Eelotsuse märgi ära teeninud. Ja see pole konfidentsiaalne!
+1554 Noh, ära tee sellist nägu, ma teen nalja… poolenisti.
+1555 Sõidan rattaga mööda Moselit! Ja väitlen rändlusega, tasuta!
+1556 Isegi ilma rändlustasudeta kaotasin kõik.
+1557 Analüütik
+1558 Turud prognoosivad minu võitu 87%.
+1559 Turud eksisid. Nagu tavaliselt.
+1560 Veinimeister
+1561 Mu crémant on KPN. Mu Euromonid ka. Peaaegu.
+1562 Noh, ma pakun sulle ikkagi klaasikese.
+1563 Osta odavalt, müü kallilt, väitle kõvasti!
+1564 Krahh! Olen miinuses!
+1565 Minu mudeli järgi sa kaotad. Mu mudel ei eksi kunagi. Välja arvatud 2008.
+1566 Pean oma prognoose muutma.
+1567 Areeni meister
+1568 Tere tulemast Euroopa Keskpanka. Siin määran mina intressimäärad… ja väitluse rütmi. Mu rünnakud sõltuvad päeva baasintressist!
+1569 Suurepärane. Oled Euro märgi ära teeninud. Ja ole mureta: ma ei ole siin selleks, et su intressivahet vähendada.
+1570 Hinnastabiilsus on ka võitude stabiilsus.
+1571 Kliimaaktivist
+1572 Iga kaotatud väitlus on kraad juurde! Noh!
+1573 Noh, vähemalt oli see süsinikuneutraalne.
+1574 Eksklusiivne! „Praktikant kaotab haletsusväärselt”!
+1575 Muudan pealkirja: „Praktikant võidab haletsusväärselt hästi”.
+1576 Viinamarjakasvataja
+1577 Rein on piir? Ei, see on vein mõlemal pool! Kõlistame pärast väitlust.
+1578 Terviseks ikkagi!
+1579 Esitasin täna hommikul 2000 muudatusettepanekut. Esimene puudutab sind.
+1580 Mu muudatusettepanekud lükatakse en bloc tagasi…
+1581 Istungjärk toimub Strasbourgis, meie kohvrid on kohal, väitleme!
+1582 Lähen tagasi Brüsselisse. Koos kohvritega.
+1583 Vaikust saalis! Istung on avatud. Annan sõna… sulle. Siis võtan tagasi.
+1584 Vastu võetud! Istungisaali märk antakse sulle absoluutse häälteenamusega.
+1585 Istung on lõppenud. Tule järgmisele istungjärgule.
+1586 Võlg on nagu musaka: seda on raske seedida.
+1587 OXI sellele kaotusele!
+1588 Kontode kontroll! Su Euromonid kulutavad liiga palju.
+1589 Kontrolliaruanne: negatiivne.
+1590 Rahvusvaheline Valuutafond soovitab… sinu kaotust.
+1591 Meie prognooside muutmine: allapoole.
+1592 Tulin mootorrattaga, lipsuta. Nagu 2015 eurorühma ees. Väitleme ja hääletame: OXI või NAI?
+1593 OXI… vabandust, NAI: sa võitsid. Võta OXI märk, seltsimees.
+1594 Rahvas on rääkinud. Ja rahvas olen mina.
+1595 Kõmuleht
+1596 ESIKÜLG: „Brüssel tahab keelata kõverad banaanid”! See on vale? Pole vahet, müüb hästi.
+1597 Homme esiküljel: „Ajalooline kaotus”.
+1598 Endine peaminister
+1599 Hello! Olin korrespondent Brüsselis, tead. Kirjutasin palju asju… enam-vähem tõeseid. Get debate done!
+1600 Crikey. Noh, mul oli niikuinii teine artikkel sirgetest kurkidest.
+1601 Nüüd sa enam ei naera, mis? Tere tulemast pubisse. Väitlus, pint ja artikkel 50.
+1602 Noh. Võta Artikkel 50 märk. Meil pole seda enam vaja.
+1603 Take back control! Vähemalt väitluse üle.
+1604 Piirivalvur
+1605 Kontroll! Kas su Euromonil on viisa?
+1606 Mine. Aga ma märgin selle üles.
+1607 Nõunik
+1608 Peaminister ei võta kedagi vastu. Välja arvatud need, kes mind võidavad. Ja seda ei juhtu kunagi.
+1609 Nüüd juhtus.
+1610 Tahad minu nõusolekut? Vaja on ühehäälsust. Ja mina ei ole kunagi nõus. Ettevaatust: võin igal käigul VETO panna.
+1611 Noh… Lähen kohvi jooma. Vahepeal võta see Veto märk. Ametlikult jäin erapooletuks.
+1612 Veto! Veto! Ja veel kord veto!
+1613 Team Lobby
+1614 Sul pole pääsuluba? Väga hea, meil ka pole.
+1615 Pean selle kohtumise läbipaistvusregistris deklareerima…
+1616 Meie algoritm ennustas sinu kaotust. Nõustud küpsistega?
+1617 Viga 403: kaotus.
+1618 Väike kohver su hääle eest? Ei? Siis väitlus.
+1619 Ma pole kunagi kellelegi midagi andnud. Pane kirja.
+1620 Team Lobby juht
+1621 Tere tulemast võimu südamesse, praktikant. Siin ei kirjutata seadusi: neid „soovitatakse”. Ja sina kirjutad minu soovitusele alla.
+1622 Võimatu… Lihtne, tasustamata praktikant… võitis lobi. Ma tõmbun tagasi. Erasektorisse. Ah, ma olen juba seal.
+1623 Aitäh panuse eest meie avalikku konsultatsiooni.
+1624 Advokaat
+1625 Minu klient vaidlustab 4,34 miljardi trahvi. Ja selle väitluse.
+1626 Kaebame edasi.
+1627 Jurist
+1628 Turgu valitseva seisundi kuritarvitamine? Mina? Ma olen lihtsalt valitsev.
+1629 Trahv aktsepteeritud…
+1630 Google, Apple… olen määranud miljardeid trahve. Kas su meeskond järgib konkurentsireegleid? Kontrollime.
+1631 Turgu valitseva seisundi kuritarvitamist ei tuvastatud. Trahvi märk on sinu.
+1632 Trahv! 4% sinu käibest.
+1633 Buu… Töötan siin… alates 2009… noh, paberil…
+1634 Lähen tagasi… oma… fiktiivse lepingu juurde…
+1635 Fiktiivsete töökohtade vaim
+1636 MA OLEN… KÕIGI LEPINGUTE SUMMA, MILLEL POLE KUNAGI KABINETTI OLNUD…
+1637 Mu… palgalehed… haihtuvad…
+1638 Kõrge ametnik
+1639 Lõpetasin ENA. Noh, INSP. Ühesõnaga, ma tean kõike.
+1640 Kirjutan sellest ebaõnnestumisest memo.
+1641 Minister
+1642 Olen minister alates… tänasest hommikust. Väitleme enne järgmist valitsuse ümberkorraldust.
+1643 Välja vahetatud!
+1644 Tere tulemast Sorbonne'i! Siin rääkisin suveräänsest Euroopast 2017… ja 2024. Räägin sinuga kaks tundi. Ja samal ajal väitlen.
+1645 Suurepärane! Sa kehastad strateegilist autonoomiat. Võta Sorbonne'i märk… ja samal ajal mu õnnitlused.
+1646 Saadan laiali… su meeskonna!
+1647 Euroopa Ülemkogu
+1648 Wir schaffen das. Koos saame hakkama. Aga kõigepealt pead mind võitma. Võta aega: mul on kuusteist aastat kogemust.
+1649 Sul õnnestus. Wir haben es geschafft.
+1650 Teen kõik, mis vaja, et see väitlus võita. Whatever it takes. Ja usu mind: sellest piisab.
+1651 Mu aruanne soovitas 800 miljardit investeeringuid aastas. Investeeri need oma meeskonda.
+1652 Välisasjade kõrge esindaja. Mu diplomaatia on kindel. Ja mu Balti kilp samuti.
+1653 Selge võit. Euroopa vajab ülejäänud maailma ees sinusuguseid inimesi.
+1654 Euroopa Ülemkogu eesistuja
+1655 Kell on 23.59. Mu eesmärk: lõpetada see tippkohtumine enne südaööd. Esimest korda ajaloos!
+1656 Kell on… 4.37 hommikul. Nagu tavaliselt. Braavo, võid minna Berlaymonti.
+1657 Komisjoni president
+1658 Tere tulemast Berlaymonti kolmeteistkümnendale korrusele. Ma elan siin, tead: mul on kabineti kõrval tuba. Nii et vaatame, kas sa direktiivi väärid.
+1659 Team Europe… Sa oled parim praktikant, kes komisjonil kunagi on olnud. Kellakeeramise direktiiv on sinu!
+1660 Saadan sulle SMS-i. Või ehk mitte.
+1661 Asepresident
+1662 Tulin Münchenisse teile demokraatiat selgitama. Nüüd tulen Antwerpenisse teile väitlust selgitama.
+1663 Noh. Lähen tagasi kõnet kirjutama.
+1664 USA president
+1665 TREMENDOUS! Kõigi aegade ilusaim väitlus, kõik ütlevad nii. Panen su Euromonidele 200% tolli. Võib-olla 15. Vaatame.
+1666 SEE OLI VÕLTSITUD! Noh… teeme diili. 15%. See on mu viimane sõna. Tänaseks.
+1667 Ma võitsin! Nagu alati! Keegi ei võida paremini kui mina.
+1668 Venemaa president
+1669 Istu. Ei, kaugemale. Veel kaugemale. Nii. Kuue meetri pealt on vestlus… strateegilisem. Sinu rünnakutel kulub kohale jõudmiseks üks käik.
+1670 Gaas… on kinni… minu poolt. Huvitav.
+1671 Talv on tulemas. Sinu jaoks.
+1672 Hiina president
+1673 Tere tulemast. Me oleme partnerid. Ja konkurendid. Ja süsteemsed rivaalid. Oleneb käigust.
+1674 Hmm. Austust vääriv partner. Tühistan haruldaste muldmetallide kontrolli… praeguseks.
+1675 Sisu pole sinu piirkonnas saadaval.
+1676 G-Kõik tippkohtumine
+1677 MINA ESIMESENA. Tippkohtumine on minu idee. Ma arvan.
+1678 Sad!
+1679 Mulle meeldis pikk laud rohkem.
+1680 Viimane sõna on… süsteemne.
+1681 Räägime uuesti viiekümne aasta pärast.
+1682 Antwerpeni sadam – Vabaduse golf
+1683 Ateena – Plaka
+1684 Berlaymont – 13. korrus
+1685 Pood – Ateena
+1686 Pood – Budapest
+1687 Pood – Brüssel
+1688 Pood – Frankfurt
+1689 Pood – London
+1690 Pood – Luksemburg
+1691 Pood – Pariis
+1692 Pood – Strasbourg
+1693 Brüssel – Euroopa kvartal
+1694 Budapest – Doonau kaldad
+1695 Söökla – Ateena
+1696 Söökla – Budapest
+1697 Söökla – Brüssel
+1698 Söökla – Frankfurt
+1699 Söökla – London
+1700 Söökla – Luksemburg
+1701 Söökla – Pariis
+1702 Söökla – Strasbourg
+1703 Euroopa Liidu Kohus
+1704 Europa hoone – Euroopa Ülemkogu
+1705 Frankfurt – Pankade kvartal
+1706 Jaam – Antwerpen
+1707 Jaam – Ateena
+1708 Jaam – Budapest
+1709 Jaam – Brüssel-Luksemburg
+1710 Jaam – Frankfurt
+1711 Jaam – Lissabon
+1712 Jaam – London
+1713 Jaam – Luksemburg
+1714 Jaam – Maastricht
+1715 Jaam – Pariis
+1716 Jaam – Rooma
+1717 Jaam – Strasbourg
+1718 Jaam – Varssavi
+1719 Ateena areen – Amfiteater
+1720 EKP torn – Kauplemissaal
+1721 Országház – Veto saal
+1722 Konkurentsi peadirektoraat – Areen
+1723 Istungisaal – Täiskogu istung
+1724 The Brexit Arms – Pubiareen
+1725 Luksemburgi areen – Eelotsuste saal
+1726 Sorbonne'i suur auditoorium
+1727 Lissabon – Jerónimose klooster
+1728 Team Lobby peakorter – Kelder
+1729 London – Westminster
+1730 Luksemburg – Kirchbergi platoo
+1731 Maastricht – Maasi kaldad
+1732 Maja – Frankfurt
+1733 Maja – Luksemburg
+1734 Maja – Strasbourg
+1735 Pariis – Ladina kvartal
+1736 Euroopa Parlament – Fuajee
+1737 Pireuse sadam – Konteinerterminal
+1738 Place Lux – Kokteil
+1739 Rooma – Kapitoolium
+1740 Tee 1 – Ardennide mets
+1741 Tee 2 – Moseli org
+1742 Tee 3 – Reini viinamäed
+1743 Palee – Pikk laud
+1744 Schengen – Moseli kaldad
+1745 „G-Kõik” tippkohtumine – Täiskogu saal
+1746 Strasbourg – Euroopa kvartal
+1747 Sinu stuudiokorter (Ixelles)
+1748 Parlament – Kummitustiib, 1. korrus
+1749 Parlament – Kummitustiib, 2. korrus
+1750 Parlament – Kummitustiib, 3. korrus
+1751 Varssavi – Idatasandik
+1752 Maja – Maastricht

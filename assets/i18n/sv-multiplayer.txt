@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Flerspelardebatt
+2148	Skapa ett rum
+2149	Gå med i ett rum
+2150	Spela med vem som helst
+2151	Rummets namn
+2153	PIN (6 siffror)
+2145	Väntar på spelare…
+2146	Söker var tionde sekund.
+2147	PIN: %s
+2118	Avbryt (B)
+2117	Bekräfta (A)
+2116	←→: position    ↑↓: siffra
+2152	Ange ett rumsnamn.
+2113	Ogiltigt serversvar.
+2135	Ogiltig rumsförfrågan.
+2136	Det rumsnamnet används redan.
+2137	Rummet hittades inte.
+2138	Fel PIN.
+2139	Rummet är fullt.
+2140	Spelversionerna skiljer sig.
+2141	Servern är full.
+2142	Rummet har löpt ut.
+2143	Ogiltigt debattutbyte.
+2144	Servern har stoppats.
+2108	Debatten avbröts.
+2109	Servern svarar inte.
+2110	Anslutningen till servern bröts.
+2111	Den andra spelaren lämnade debatten.
+2115	Debatterna är inte synkroniserade.
+2114	Väntar på den andra spelaren… B: avbryt
+2123	Ansluter till Wi-Fi… B: avbryt
+2124	Kunde inte starta Wi-Fi.
+2125	Kontrollera konsolens Wi-Fi-inställningar.
+2126	Kunde inte skapa anslutningen.
+2127	Kunde inte konfigurera anslutningen.
+2128	Servern kan inte nås.
+2129	Du behöver ett lag för att debattera.

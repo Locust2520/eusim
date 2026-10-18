@@ -1,0 +1,320 @@
+# Gaeilge — completion (ids 500-849)
+500 Is san fhoirgneamh Europa atá an Chomhairle Eorpach lonnaithe. Tá na hocht suaitheantas de na conarthaí de dhíth ort sula nglacfar leat.
+501 Giolla
+502 Tá an coimisinéir… gnóthach go leor. Deirtear go gcuireann Team Lobby bac ar a cuid imscrúduithe uile. Tarlaíonn sé sin faoin mbeár ag Cearnóg Lux.
+503 Ní ghlacann AS Iomaíochas ach le oiliúnaithe a bhfuil taithí acu. Tar ar ais agus sé shuaitheantas ar a laghad agat.
+504 Oifigeach Parlaiminte
+505 Fáilte chuig Parlaimint na hEorpa! Tá an Ollamh Schuman ag fanacht leat ag cúl an halla.
+506 Tá na staighrí ar dheis ag dul go dtí na hurláir uachtaracha… Deirtear go bhfuil sciathán taibhsiúil ann. Ní théim ann riamh, mise.
+507 Ah, {P}! Seo leat faoi dheireadh! Poncúil… ar uair a chloig ar fad. An t-athrú uaire mallaithe sin.
+508 Hi! Tháinig mise uair a chloig ó shin. Táimse ar am Londan, an dtuigeann tú.
+509 Saotharlann an ollaimh
+510 Ceart go leor. Beidh sibh ag obair le Euromonnaí. Tá comhaid an Pharlaimint seo pulctha leo.
+511 Tá triúr agam anseo, go léir óg. Rugadh iad ó smaointe móra Eorpacha. Roghnaigh do cheann féin, {P}.
+512 An dtagann siad amach… as fillteáin chairtchláir?
+513 Sa Bhruiséil, tosaíonn gach rud tábhachtach i bhfillteán cairtchláir, Oliver. Fiú an Eoraip.
+514 VERDEAL, rugadh é ón gComhaontú Glas. CHARBONNET, ó Chomhphobal an Ghuail agus na Cruaiche, 1951. Nó ATOMINO, díreach ó Euratom.
+515 Verdeal (cineál Glas)
+516 Charbonnet (cineál Tionscail)
+517 Atomino (cineál Fuinnimh)
+518 Rogha iontach! Tabhair aire mhaith dó. Is fearr Euromon a chóireáiltear go maith ná deich gconradh a dhaingnítear go dona.
+519 Mar sin glacfaidh mé leis an gceann a bhuaileann do cheannsa. That's just smart negotiation.
+520 Oliver! Níl sé sin go hiomlán… comhphobalach.
+521 Seo leat, {P}, plé beag chun a fheiceáil cé is fearr mar oiliúnaí?
+522 What?! Chaill mé in aghaidh oiliúnaí mór-thíre?! Ní raibh ann ach… rith trialach.
+523 Ha! Faoi mar a bhíothas ag súil leis. Ná glac go dona é, {P}, is rud cultúrtha é.
+524 Comhghairdeas don bheirt agaibh. Anois, an misean: an treoir faoi dheireadh an athraithe uaire a chur i bhfeidhm.
+525 Vótáil an Pharlaimint í i mí an Mhárta 2019. Ón uair sin, tá sí ina codladh sa Chomhairle. Beidh na hocht suaitheantas de na conarthaí de dhíth ort chun go dtógfar go dáiríre thú.
+526 Tá an chéad suaitheantas ag fanacht leat i Lucsamburg, ag Jean-Claude Juncker. Tóg bóthar na hAirdinnean, soir.
+527 Lucsamburg? Easy. Beidh mise ann romhatsa. See you, loser… em, comhghleacaí!
+528 Fan ort, {P}! Is mise Jean Monnet. Chum mé modh na gcéimeanna beaga. Seo céim mhór: an EURODEX.
+529 Déanann sé taifead ar gach Euromon a chastar ort. Agus seo rud chun iad a stampáil go hoifigiúil.
+530 Lagaigh Euromon fiáin, ansin caith Stampa Oifigiúil ón MÁLA. Tá an Eoraip ag brath ort!
+531 Misneach, {P}! Is cloch bheag gach suaitheantas. Díreach cosúil leis an Eoraip: gnóthachtálacha nithiúla.
+532 Ocht suaitheantas! Tá an Chomhairle Eorpach ag fanacht leat ag Foirgneamh Europa. Táim chomh bródúil sin.
+533 Taispeáin dom d'Eurodex…
+534 Labhair leis an Ollamh Schuman ar dtús, a oiliúnaí óg.
+535 Tá an ollamh thall ansin. Déan deifir, tá leamhthuirse orm.
+536 Bóthar 1 — Foraois na hAirdinnean. Lucsamburg: 3 uair a chloig de shiúl, 12 nóiméad ar Rialú Cánach.
+537 Siúlóir
+538 Síneann foraois na hAirdinnean trasna trí thír. Ach níor thaispeáin na torcanna fiáine a bpas riamh.
+540 Lá amháin, íocfar linn. Lá amháin…
+541 An tUasal Dupont
+542 Ná déan dearmad an fhoirm sástachta a líonadh. Tá 12 leathanach ann.
+544 Is é an CBT trian de bhuiséad na hEorpa. Agus is é mo mheitheal bhuainte trian de m'iasacht.
+545 Lucsamburg-Kirchberg. Cúirt Bhreithiúnais an AE, Cúirt Iniúchóirí, Banc Eorpach Infheistíochta. Agus a lán bannc coitianta chomh maith.
+546 I dtreo Schengen, sráidbhaile na Mósaile inar sínigh siad comhaontú 1985. Lean an cosán ó dheas.
+547 Tá cosán beag ag dul anuas go dtí an Mósaile… agus go Schengen.
+548 Tá an iompar poiblí saor in aisce anseo! Chuaigh mé 14 huaire timpeall na cathrach ar thram. Ar mhaithe le tada. Saor in aisce.
+549 Maimeó
+550 Bhí m'fhear pósta ina státseirbhíseach Eorpach. Bhí sé ag obair ag an gCúirt Iniúchóirí. Dhéanadh sé caoirigh a chomhaireamh fiú lena chur féin a chodladh.
+551 Breitheamh
+552 Tá Cúirt Bhreithiúnais an Aontais Eorpaigh lonnaithe anseo ó 1952. Cuirtear ár mbreithiúnais i bhfeidhm ar na 27 stát. Fiú maidin Luain.
+553 Cléireach
+554 D'aistrigh mé breithiúnas go 24 teanga. Sa leagan Máltach, tá dearmad clóscríofa ann. Níor thug duine ar bith faoi deara é le deich mbliana.
+555 Oifigeach custaim Lucsamburgach
+556 Tá bóthar na Mósaile forchoimeádta dóibh siúd a bhfuil an Suaitheantas Rialaithe Chánach acu. Féach an Uasal Juncker, ag an Airéine Órga.
+557 {P}! Fós anseo? Mise, táim tar éis trí bhanc a thabhairt cuairt orthu agus dhá chuntas a oscailt. Ar mhaithe leis an bhéaloideas.
+558 Plé!
+559 Bhuel, OK, tá dul chun cinn agat. Táim ag imeacht go Frankfurt chun an BCE a fheiceáil. Gheall siad dom na rátaí úis a mhíniú.
+561 Anseo, i Lucsamburg, is buanna é an discréid. Agus tionscal.
+562 Aturnae Klein
+563 Bhí na Rialuithe Cánach dleathach, an bhfuil a fhios agat. Is é an rud nár cheart do dhuine ar bith iad a léamh. LuxLeaks, 2014, nach mór an mí-ámharaí é.
+565 Ah, oiliúnaí beag Schuman! Tar isteach, tar isteach. Thosaigh mise beag chomh maith. Ansin bhí mé i mo Phríomh-Aire ar feadh ocht mbliana déag.
+566 Bhí mé i mo chathaoirleach ar an Grúpa Euro, ansin ar an gCoimisiún. Chonaic mé cruinnithe mullaigh go leor. Agus thapáil mé a lán leicne.
+567 Uair amháin, in 2011, dúirt mé: « Nuair a bhíonn rudaí dáiríre, caithfear bréag a rá. » Mar sin ní déarfaidh mé leat go bhfuilim chun ligean duit bua a fháil.
+568 Ar fheabhas! Bhuaigh tú an Suaitheantas Rialaithe Chánach. Tá sé seo oifigiúil, cuimhnigh, ní rúnda!
+569 Tá bóthar na Mósaile oscailte duit anois. Tá Frankfurt ag fanacht leat, agus ní dhéanann Christine Lagarde spraoi leis na rátaí.
+570 Ag teacht ar ais chugam? Tar anseo go dtapálfaidh mé do leiceann. Is traidisiún Lucsamburgach é. Bhuel, mo cheann féin, ar a laghad.
+571 Anseo, an 14 Meitheamh 1985, ar bord an bháid Princesse Marie-Astrid, shínigh cúig thír comhaontú Schengen faoi dheireadh na seiceálacha teorann.
+572 Captaen
+573 An Princesse Marie-Astrid! Ar bhád mar seo a chuireadh teorainneacha ar ceal. Íoróin, ar abhainn is teorainn féin.
+574 Deirtear go bhfuil Euromon annamh, Schengéon, ag fánaíocht i gcomhaid an tsráidbhaile. Ní stopann sé riamh ag an chustam.
+575 Bóthar 2 — Gleann na Mósaile. Trí thír i bhfiche ciliméadar. Cuimhnigh ar theanga eile a labhairt.
+577 Is é an fánaíocht shaor an bronntanas is deise dá bhfuil ag an Aontas. Chuir mé 4,000 grianghraf den Mhósaile ar líne.
+579 De réir mo chuid áireamh, buafaidh tú an chéad suaitheantas eile. Ach is annamh a bhíonn mo chuid áireamh ceart.
+581 Tá an crémant Lucsamburgach faoi chosaint mar Ainmniú Tionscnaimh (PDO)! Díreach cosúil le mo Fromajus.
+582 Banc Ceannais Eorpach. Misean: cobhsaíocht praghsanna. Sprioc bhoilscithe: 2% sa mheántéarma. Meántéarma: gan sonrú.
+583 Trádálaí
+584 Tá na margaí neirbhíseach. Tá siad neirbhíseach i gcónaí. Sin a bpost.
+585 Spárálaí
+586 Tá mo thocht Deutschmarc agam i gcónaí. Ní bhíonn a fhios agat riamh.
+587 Tá bóthar na Réine dúnta d'oiliúnaithe gan an Suaitheantas Euro. Téigh chuig Bean Lagarde ag an BCE.
+589 Bhí geall agam ar do chailliúint. Chaill mé mo léine. Agus mo charbhat.
+590 Dr. Sofia
+591 Turraing eisghineach a bhí ann. Go hiomlán eisghineach.
+593 Fáilte chuig an Banc Ceannais Eorpach. Anseo, bogann gach focal a deirim na margaí. Mar sin roghnaím mo chuid focal go cúramach.
+594 Lá i mí an Mhárta 2020, dúirt mé nach rabhamar « anseo chun na leathanaigh a dhúnadh ». Thit margaí na hIodáile. Foghlaimímid.
+595 San airéine seo, leanann cumhacht m'ionsaithe an ráta bunriail reatha. Réidh do bheagán beartais airgeadaíochta?
+596 Suntasach. Bhí d'fheidhmchlár… intuartha, sa chiall mhaith. Seo an Suaitheantas Euro.
+597 Tá Strasbourg ó dheas, taobh thall de fíonghoirt na Réine. Tá Roberta Metsola ina huachtarán ar an Pharlaimint. Ná gearr isteach uirthi riamh.
+598 Tá na rátaí cobhsaí inniu. Bain sult as, ní mhaireann sé riamh.
+599 Mhínigh an BCE gach rud dom: an boilsciú, na rátaí, an clár comhardaithe… Níor thuig mé faic. Seo leat, plé, chun mo scíth a ligean!
+600 Hmm. Tá a fhios agat, ag baile, i Londain, tá daoine ag caint ar imeacht ón Aontas. Bheadh sé sin áiféiseach, nach mbeadh? …Nach mbeadh?
+602 Cuireadh an Comhaontú Glas i láthair i mí na Nollag 2019. Ón uair sin, táimid ag troid ar son gach camóg.
+604 An chéad alt eile agam: « Tá an Coimisiún ag iarraidh plé a chailltear a chur faoi chois. » Tá sé bréagach, ach beidh éileamh air.
+606 Féachann fíon na hAlsáis agus fíon Baden ar a chéile trasna na Réine. Roimhe seo, bhí gunnaí móra ann. An dul chun cinn!
+607 Strasbourg, suíochán oifigiúil Pharlaimint na hEorpa. 12 sheisiún iomlánach in aghaidh na bliana. 720 Feisire. Na mílte trunc.
+608 Feisire Eorpach
+609 Táim ag déanamh an Bhruiséil–Strasbourg dhá uair déag sa bhliain ó 2014. Sin… 132 aistriú. Tá níos mó pointí dílseachta ag mo thruncaí ná mar atá agamsa.
+610 Státseirbhíseach
+611 Cabhair! Tosaíonn an seisiún faoi cheann 2 nóiméad agus níl truncaí na bhFeisirí luchtaithe! An féidir leat cabhrú liom?
+612 Tá gach trunc ar bord! Seo, glac leis seo, is é an luach saothair oifigiúil ón roinn lóistíochta.
+613 Theip ort… Bhuel, déarfaimid go dtosóidh an seisiún go mall. Mar is gnách. Bain triail eile as uair ar bith is maith leat!
+614 Bhuel… caithfidh mé caoineadh i dtrunc eile.
+615 An Feisire Muller
+616 M'2,000 leasú… diúltaíodh dóibh go léir ar an iomlán. Caithfear tosú arís sa choiste.
+617 An Feisire Rossi
+618 Le haghaidh Chonradh Liospóin, bhí trunc iomlán nótaí agam. D'fhan sé sa Bhruiséil.
+619 Giolla
+620 Ciúnas sa halla! Ní ghlacann an tUachtarán le plé ach tar éis vótála. Ar mhaith leat vóta iomlánach a thriail?
+621 Glacadh leis le tromlach! Beidh fáilte agat ón Uachtarán.
+622 Diúltaíodh… Níor sroicheadh an córam. Bain triail arís!
+623 Taifeadadh do vóta. Tá an tUachtarán ag fanacht leat.
+625 Tá an seisiún ar oscailt. Uachtarán na Parlaiminte ó 2022, atoghadh i 2024: táim cleachta leis an am labhartha a chur i bhfeidhm.
+626 Tá tríocha soicind agat. Ah, tá sé thart cheana. Bhuel, pléimis!
+627 Tá an toradh soiléir: glacadh leis! Is leatsa an Suaitheantas Halla.
+628 Agus seo an Pas Interrail Eorpach. Leis seo, tá gach stáisiún oscailte duit. Tá do chéad suaitheantas eile san Aithin.
+629 Deirtear go dtugann Yanis Varoufakis ceachtanna ann… ar ghluaisrothar. Tóg an traein ag stáisiún Strasbourg.
+630 Plé? Ní gan vóta ón iomlánach. Féach an giolla.
+631 Tá an chéad seisiún eile faoi cheann míosa. Ná déan dearmad ar do thruncaí!
+632 An Aithin. Cliabhán an daonlathais, na fealsúnachta… agus an reifrinn an 5 Iúil 2015.
+633 Tá 2,500 bliain ag an Acrapoil. Mhair sí ar na Peirsigh, na hOtamánaigh agus an Troika.
+634 Oifigeach custaim Gréigeach
+635 Calafort an Phiréas? Dúnta do chuairteoirí. Baineann sé le… comhpháirtithe. Comhpháirtithe go mór.
+636 Tá brón orm, tá rochtain ar an gcalafort faoi shrian. Tar ar ais nuair a bheidh an scéal… níos taidhleoireachta.
+638 In 2015, vótáil mé OXI. Agus ina dhiaidh sin… tá sé casta.
+639 Gníomhaire Troika (BCE)
+640 Molann ár dtuarascáil fós níos mó déine. Fiú do do chuid Euromonnaí.
+641 Gníomhaire Troika (CAI)
+642 Admhaímid cúpla earráid inár gcuid réamhaisnéisí. Eadrainn féin.
+644 An bhfuil tú ag teacht le haghaidh suaitheantais? Tháinig mise anseo ar ghluaisrothar, i seaicéad leathair, gan carbhat. Díreach cosúil le cruinnithe an Ghrúpa Euro in 2015.
+645 Aire Airgeadais ar feadh sé mhí. D'éirigh mé as tar éis an reifrinn: 61% ar son OXI. Tá an daonlathas álainn, agus ceanndána.
+646 Bhí an Troika ag fanacht liom ag an chúinne. Thusa, bhuaigh tú ar a cuid ghníomhairí. Taispeáin dom an bhfuil tú níos láidre ná an déine!
+647 NAI! Em, ciallaíonn mé: maith thú. Seo an Suaitheantas OXI, a chara.
+648 Tá do chéad suaitheantas eile i Londain. Ach bí ag deifir: thall ansiúd, tá níos mó agus níos mó cainte ar dhoras éalaithe faoi leith.
+649 Táim ag imeacht chun léacht eile a thabhairt. Ar fhiacha. Ar ghluaisrothar.
+650 Westminster. Anseo, an 23 Meitheamh 2016, vótáil an Ríocht Aontaithe le 51.9% chun an Aontas Eorpach a fhágáil.
+651 Garda Ríoga
+652 (Ní bhogann sé. Ní fiú don Bhreatimeacht féin.)
+653 Príomh-eagarthóir
+654 Amárach, beidh ceannlíne faoi chúcamair atá ró-dhíreach. D'oibrigh sé ar feadh fiche bliain.
+656 Sna 1990idí, bhí mé i mo chomhfhreagraí sa Bhruiséil don Daily Telegraph. Scríobh mé rudaí… samhlaíoch. Get Brexit done!
+658 Fáilte chuig an teach tábhairne! Pionta? Mise, chaith mé fiche bliain i bParlaimint na hEorpa ag míniú nár chóir dúinn a bheith ann.
+659 An 28 Meitheamh 2016, dúirt mé leis na Feisirí: « Níl sibh ag gáire anois, nach bhfuil? ». Níor rinne siad gáire. Ní dhéanfaidh tusa gáire ach an oiread.
+660 Ceart go leor. Bhuaigh sibh. Glac an Suaitheantas Airteagal 50. Muidne, bhain muid úsáid as ár gceann féin cheana.
+661 Fós anseo? D'fhág muid, an bhfuil a fhios agat.
+662 Caithfidh mé dul abhaile. Níl cead agam a bheith i mo oiliúnaí ag an Pharlaimint a thuilleadh. Ach roimhe sin… plé deireanach amháin. Ar son na honóra.
+663 Go raibh maith agat, {P}. Coinnigh súil ar an treoir ar mo shon. Agus ar an athrú uaire. Ag baile, ní athróimid é riamh, ar ndóigh.
+664 Goodbye. Nó… see you later. Cá bhfios?
+665 D'imigh Oliver. Ní bheidh traein Londain le feiceáil ag an deasc ticéad a thuilleadh. An chéad chéim eile: Búdapeist, ar an Danóib.
+666 Országház, Parlaimint na hUngáire, ar bhruacha na Danóibe. An foirgneamh is mó san Ungáir. Agus an veto is mó.
+667 Bean óg Ungárach
+668 Deirtear go bhfuil an fhreasúra ag gnóthú talamh. Tá fear ar leith, Péter Magyar, ag feachtasú ar fud na tíre.
+670 Vótáil na hUngáraigh an 12 Aibreán 2026. Bhuaigh mo pháirtí, Tisza, tromlach dhá dtrian. Osclaítear leathanach nua!
+672 Thógamar fál. Úsáidtear é go príomha le haghaidh grianghraf.
+673 Comhairleoir speisialta
+674 Tá an Príomh-Aire ar tí dul amach ar chaife. Is teicníc idirbheartaíochta é.
+676 Ag teacht ar lorg comhaontú? Anseo, tá aontoilíocht de dhíth. Agus ní aontaím riamh.
+677 In 2024, bhí mé i mo Uachtarán ar Chomhairle an Aontais leis an sluán « Make Europe Great Again ». An gcuireann sé sin rud ar bith i gcuimhne duit?
+678 San airéine seo, is féidir liom mo VETO a chur i bhfeidhm gach seal. Agus uaireanta… téim amach ar chaife. Mar a tharla i mí na Nollag 2023, le linn an vóta ar an Úcráin.
+679 …Bhuel. Staonaim. Glac an Suaitheantas Veto. Go hoifigiúil, ní raibh mé sa seomra.
+680 Cúpla mí ina dhiaidh sin, an 12 Aibreán 2026, vótálann na hUngáraigh. Buann páirtí Tisza Péter Magyar le tromlach dhá dtrian.
+681 D'aithin Orbán a chaillteanas: « pianmhar, ach soiléir ». Go raibh maith agat, a oiliúnaí. Téigh ar ais go dtí an Bhruiséil: deirtear go bhfuil fadhb… lobaíochta ag AS Iomaíochas.
+682 Chuaigh mé amach ar chaife. Tar ar ais ar ball. Go mór ar ball.
+683 Freastalaí an Bheáir
+684 Ag Cearnóg Lux, oíche Déardaoin, tagann an Bhruiséil iomlán le haghaidh deoch. Na Feisirí, na cúntóirí… agus na lobaithe. Na lobaithe go háirithe.
+685 An íoslach? Do na baill amháin. An bhfuil tú cláraithe sa chlár trédhearcachta? Níl? Níl mise ach an oiread. Tar isteach mar sin.
+686 Ar aghaidh leat, a oiliúnaí. Anseo, labhraíonn na daoine fásta faoi ghnó.
+687 Lobaí ola
+688 An t-aistriú fuinnimh? Táimid ar a shon. Ó 2080 ar aghaidh.
+689 Lobaí teicneolaíochta
+690 Táimid ag comhlíonadh an RGCS. Tá bratach fianán 47 leathanach fiú againn.
+691 Na málaí? Is málaí doiciméadaithe iad. Doiciméadaithe go maith.
+693 I mí na Nollag 2022, fuair póilíní na Beilge málaí nótaí bainc i roinnt árasán sa Bhruiséil. Tugadh « Qatargate » air sin.
+694 Bhí mé i mo leas-uachtarán ar an Pharlaimint. Chuir mé i gcoinne na gcúisimh i gcónaí. Ag am an chluiche seo, níor tugadh breithiúnas deireanach sa chás seo fós.
+695 Nóta: tá gach duine a chuirtear faoi amhras neamhchiontach go dtí go gciontaítear iad.
+696 An Príomh-Lobaí
+697 Féach, féach. An oiliúnaí. An bhfuil a fhios agat cé mhéad againn atá sa Bhruiséil? 25,000. Agus tusa, is ceann amháin thú.
+698 Do threoir faoin athrú uaire? Tá custaiméirí agam a dhíolann cloig. Fanfaidh sí bactha. Ach amháin…
+699 Maith thú. Fógraím go hoifigiúil mo chaillteanas sa chlár trédhearcachta. Agus táim ag imeacht chun na hearnála príobháidí. Ah, tá mé ann cheana.
+700 Scaipeann Team Lobby. Is féidir le himscrúduithe AS Iomaíochas leanúint ar aghaidh!
+701 Dlíodóir Big Tech
+702 Déanfaimid achomharc. Ansin achomharc ar an achomharc.
+703 Dlíodóir Iomaíochais
+704 Mí-úsáid seasaimh cheannasaigh… Is focal cumhachtach é « mí-úsáid ».
+706 Go raibh maith agat as Team Lobby a chur dínn. Tá mo chomhaid ag dul ar aghaidh faoi dheireadh!
+707 Google: fíneáil €2.4 billiún in 2017, €4.3 billiún in 2018. Apple: €13 billiún de chúnamh cánach le aisíoc, deimhnithe ag an gCúirt in 2024.
+708 An bhfuil d'fhoireann ag comhlíonadh na rialacha iomaíochais? Déanfaidh mé seiceáil. Go pearsanta.
+709 Níor aimsíodh sárú ar bith. Is leatsa an Suaitheantas Fíneála. Agus glac é seo freisin: suaitheantas OLAF, ón Oifig Frith-Chalaoise.
+710 Tuairiscítear… láithreachtaí aisteach i sciathán den Pharlaimint. Cúntóirí nach bhfeiceann duine ar bith riamh. Leis an suaitheantas seo, feicfidh tú iad.
+711 Gan fíneáil duit inniu. Bain sult as.
+712 Dorchla fuar… Cloistear eochracha méarchláir ag clicseáil leo féin. Ach níl duine ar bith ann. Bheadh bealach de dhíth chun an dofheicthe a fheiceáil.
+713 B'fhearr dul síos arís don am i láthair.
+714 Cúntóir Taibhse
+715 M'oifig? Ní bhfuair mé riamh í…
+716 Íocadh mé chun cabhrú le… páirtí. Ní le Feisire.
+717 Hou… cuireann an athrú uaire ormsa taibhse a bheith le feiceáil faoi dhó sa bhliain…
+718 Deir mo chonradh « cúntóir áitiúil ». Áitiúil cá háit? Rúndiamhair.
+719 Táim ag dul ar ceal… faoi dheireadh…
+720 Go raibh maith agat… as mé a scaoileadh ón gconradh sin…
+722 Cás cúntóirí parlaimintí an FN: d'íoc an córas fostaithe an pháirtí le airgead Pharlaimint na hEorpa.
+723 Ciontaíodh mé sa chéad chéim an 31 Márta 2025, ansin ar achomharc an 7 Iúil 2026: trí bliana, bliain amháin acu faoi shuaimhneas leictreonach, agus cúig mhí déag neamh-incháilithe.
+724 Leis an bpianbhreith achomhairc seo, tá a hiarracht sa toghchán uachtaránachta 2027 indéanta go teoiriciúil arís. Tá seans deireanach achomhairc chun na Cúirte Uachtaraí fós ann.
+726 Is scéal eile é cás cúntóirí an MoDem. I mí Feabhra 2024, saoradh mé « ar mhaithe leis an amhras ». Rinne an ionchúisitheoir achomharc.
+727 Ansin, bhí mé i mo Phríomh-Aire… ó mhí na Nollag 2024 go mí Mheán Fómhair 2025. Imíonn an am go tapa ag Matignon.
+728 Ní bhíonn na cúntóirí taibhse ag déanamh polaitíochta: déanann siad taibhsiú ar gach páirtí a bhain mí-úsáid astu.
+729 An Conradh Folamh
+730 IS MISE… SPIORAD GACH CONARTHA GAN OIFIG… GACH PÁIRTÍ… GACH REACHTAÍOCHTA…
+731 Scaipeann an Conradh Folamh i néal duillíní pá. Tá an sciathán taibhsiúil ciúin faoi dheireadh.
+732 Tagann teachtaireacht ó Roberta Metsola: « Go raibh maith agat! Tá an suaitheantas deireanach ag fanacht leat i bPáras, ag an Sorbonne. »
+733 An Sorbonne. Anseo, thug Emmanuel Macron dhá óráid mhóra ar an Eoraip, in 2017 agus in 2024. Mhair an dara ceann beagnach dhá uair an chloig.
+734 D'iarr mé mo bhealach i mBéarla. Fuair mé freagra i bhFraincis. Le gáire. Gáire éadrom go maith.
+735 Céimí ENA
+736 Scríobh mé nóta achomair faoi mo chaillteanas. Tá 80 leathanach ann.
+737 Aire Sóisearach
+738 Athraíodh m'aireacht le linn an phlé féin. Is curiarracht é sin.
+740 Fáilte chuig an Sorbonne! Anseo, labhair mé faoi Eoraip cheannasach in 2017. Ansin faoi Eoraip a « d'fhéadfadh bás a fháil », in 2024.
+741 In 2019, dúirt mé go raibh NATO i staid « bás inchinne ». In 2024, dhíscaoil mé an Tionól Náisiúnta. Is maith liom cinntí… iontas.
+742 Mar sin pléimis, agus ag an am céanna, déanaimis machnamh. Neamhspleáchas straitéiseach!
+743 Thar barr! Tá ábhar Eorpaí móir ionat… nó bean Eorpach mhór. Agus ag an am céanna an dá rud. Is leatsa an Suaitheantas Sorbonne.
+744 Le ocht suaitheantas, tá an Chomhairle Eorpach ag fanacht leat ag Foirgneamh Europa, sa Bhruiséil. Ádh mór ort: is annamh a chríochnaíonn a gcuid cruinnithe mullaigh roimh 5 a chlog ar maidin.
+745 Labhrfaidh mé go sásta leat faoin Eoraip ar feadh dhá uair an chloig, ach tá Comhairle agat le cur ina luí.
+746 Réamhrá — 9 Bealtaine 1950
+747 9 Bealtaine 1950
+748 Páras, Quai d'Orsay, 6 a chlog
+750 A dhaoine uaisle, go raibh maith agaibh as teacht. Beidh mé gearr. Bhuel… triailfidh mé.
+751 (i gcogar) Deir sé é sin gach uair.
+752 (i gcogar) Robert. An abairt faoin ghual. Ná déan dearmad ar an abairt faoin ghual.
+753 « Molann Rialtas na Fraince táirgeacht ghual agus chruach na Fraince agus na Gearmáine ina hiomláine a chur faoi Údarás Ard choiteann. »
+754 An gual? An chruach? Chaill muid an aipitíf dá bharr seo?
+755 Cúig bliana tar éis an chogaidh, tá an smaoineamh simplí agus craiceáilte: na rudaí a dhéanann gunnaí a chur i gcomhpháirt.
+756 Chun go ndéanfar an cogadh « ní amháin do-shamhlaithe, ach dodhéanta go hábhair ».
+757 Sé thír in 1951. Ansin 9, 12, 15, 25… 27 inniu.
+758 Agus gach maidin, áit éigin sa Bhruiséil, dúisíonn oiliúnaí go mall.
+759 Caibidil 1
+760 Luan. Taispeánann do chlog aláraim 6:58. Taispeánann d'fhón 7:58. Níor cuireadh ceann den bheirt ar an eolas faoin athrú uaire.
+762 AN CHÉAD LÁ DEN TRÉIMHSE OILIÚNA!
+763 Rue de la Loi. Croissant amháin, trí chomhad, náire ar bith.
+764 Rothaí
+765 Rian rothaíochta! Fiú na hoiliúnaithe, comhlíonann siad Rialachán 2019/1242! Bhuel, is dóigh liom go bhfuil sé ann.
+766 {P}! An chéad lá, agus uair a chloig mall cheana. Mise, táim anseo ó 6:58. Am Londain, ar ndóigh.
+767 Tá an Ollamh Schuman ag fanacht linn i halla na Parlaiminte. Dúirt mé leis go raibh tú tinn. Beidh tú ag gabháil buíochais liom ar ball.
+768 Caibidil 2 — Lucsamburg
+769 Caibidil 2
+770 Tá Droichead Adolphe ag trasnú ghleann na Pétrusse. Thíos, gairdíní. Ar bharr, bainc. Sa lár, do thraein.
+771 Ah, an Sasanach beag! Tar anseo go dtabharfaidh mé póg duit!
+772 Sir, I… ní dhéanaimid sin. I Sasana, croithimid lámh. Ó chian. Le lámhainní.
+773 Anseo, is é Lucsamburg é. Tugaimid póg ar an leiceann, tapálaimid an leiceann, agus labhraímid ceithre theanga san abairt chéanna. Moien, bonjour, guten Tag, hello!
+775 Tá mo Airéine Órga ag an Kirchberg, a oiliúnaí. Tar nuair is maith leat. Tapálaim leicne saor in aisce. Is é an t-aon seirbhís saor in aisce sa cheantar é.
+776 Schengen, trí theorainn
+777 Schengen. Anseo, baineann an Fhrainc, an Ghearmáin agus Lucsamburg lena chéile ag barr na bhfíniúnacha.
+778 An 14 Meitheamh 1985, shínigh cúig thír anseo, ar bhád, an comhaontú a chuireann deireadh leis na seiceálacha teorann. Ar abhainn ATÁ ina teorainn. Taitníonn an íoróin linn, ar an Mósaile.
+779 Oifigeach custaim
+780 Tríocha bliain táim ag stampáil pasanna. Agus anois? Trasnaíonn féileacáin gan víosa.
+781 Táim chun athoiliúint a dhéanamh. Stampálaí cártaí poist. Is margadh amach anseo é.
+782 Caibidil 3 — Frankfurt
+783 Caibidil 3
+784 Frankfurt am Main
+785 Frankfurt, san oíche. Dhá thúr ghlasa, siombail euro chomh mór le bus. Ní chodlaíonn an Banc Ceannais Eorpach riamh. Faireann sé an boilsciú.
+786 An bhfeiceann tú an luamhán seo? An ráta bunriail. Ardaím é, socraíonn na praghsanna. Ísligh mé é, análaíonn an geilleagar.
+787 Buailim air de thaisme le m'uillinn, agus titeann trí rialtas. Mar sin ní luím riamh ar an deasc.
+788 IT'S RAINING EUROS! Sin é, an t-éascú cainníochtúil?!
+789 Ní hea, a dhuine uasail. Shéid an aerchóiriú na billí ón taispeántas amach. Tabhair ar ais iad. Gach ceann acu. Táim ag comhaireamh.
+790 Caibidil 4 — Strasbourg
+791 Caibidil 4
+792 Uair sa mhí, aistríonn an Pharlaimint ón Bhruiséil go Strasbourg. Lena Feisirí, a cúntóirí… agus na mílte trunc.
+793 Feisire Eorpach
+794 Tá níos mó seisiún iomlánach ag mo thrunc ná mar atá agamsa. Tá suíochán aici fiú ar choiste an iompair.
+795 Tá an seisiún ar oscailt! …Cá bhfuil na Feisirí?
+796 A Uachtaráin, táthar fós ag cuardach a dtruncaí ar an ardán.
+797 Mar sin vótálfaimid le lámha in airde. An bhfuil ceart vótála ag truncaí? Níl? Nach mór an trua, tá siadsan ar a laghad in am.
+798 Caibidil 5 — an Aithin
+799 Caibidil 5
+800 An Acrapoil ag dul faoi na gréine. Dhá mhíle cúig chéad bliain de dhaonlathas, de fhealsúnacht… agus de chruinnithe a chríochnaíonn go mall.
+801 A Uasail Varoufakis, níl do phlean ag teacht le ár gcuid scarbhileoige.
+802 Níl bhur gcuid scarbhileoige ag teacht leis an réaltacht. Molaim plé. Ar ghluaisrothar, má leanann tú.
+803 Ní dhéanaimid gluaisrothair. Déanaimid moltaí.
+804 Mar sin molaigí sibh féin bogadh ar leataobh. Tá airéine ag fanacht liom.
+805 Caibidil 6 — Londain
+806 Caibidil 6
+807 Londain, faoin fhearthainn. Mar is gnách. Ach an iarraidh seo, tá rud níos troime ar snámh san aer.
+808 Pionta do gach duine! Agus bus don fheachtas! Is cuma cad a scríobhtar air, léifidh na daoine an bus, ní na fonótaí.
+809 Ná bíodh eagla ort! Táim sáinnithe ar sreang-zip, ach is straitéis é. Get Brexit done! Agus duine éigin, dréimire, le do thoil.
+810 An reifreann
+811 23 Meitheamh 2016. Vótálann 51.9% de na vótálaithe chun an Aontas Eorpach a fhágáil.
+812 An 31 Eanáir 2020 ag meán oíche, am na Bruiséile — 11 a chlog san oíche i Londain —, níl an Ríocht Aontaithe ina ball den Aontas a thuilleadh.
+813 An bhfuil a fhios agat cad atá aisteach? Níor theastaigh uaim a bheith anseo, ar dtús. Theastaigh uaim bua a fháil, sin uile.
+814 Agus anois, caithfidh mé imeacht, agus níl fonn orm a thuilleadh. Ironic, isn't it?
+815 Tiocfaidh tú ar ais. Tá Erasmus ann, malartuithe, víosaí mac léinn…
+816 Erasmus? D'fhágamar sin freisin. Ach aimseoidh mé bealach. Aimsíonn Sasanaigh bealach ar ais chun na hEorpa i gcónaí. Laethanta saoire a thugtar air sin.
+817 Caibidil 7 — Búdapeist
+818 Caibidil 7
+819 Parlaimint na hUngáire, órga ar an Danóib. An foirgneamh is mó sa tír. Agus an bailiúchán stampaí « VETO » is mó san Eoraip.
+820 Buiséad Eorpach? Veto. Cúnamh don Úcráin? Veto. Dath nua ar shuaitheantais na Comhairle? Veto. Mar phrionsabal.
+821 A Phríomh-Aire, b'é sin ordú do lóin.
+822 …Veto mar sin féin. Ní maith liom go gcinntear ar mo shon.
+823 12 Aibreán 2026
+824 A Ungáiraigh! Anocht, níor bhuamar in aghaidh na hEorpa, ná in aghaidh ár gcomharsana. Bhuamar dúinn féin!
+825 Slua
+827 Níl mé ag pusaíl. Táim ag déanamh machnaimh. Le mo dhroim iompaithe. Le neal os cionn mo chinn. Tá sé sin go hiomlán difriúil.
+828 Mí na Nollag 2022 — breacadh an lae
+829 An Bhruiséil, mí na Nollag 2022. Ag breacadh an lae, déanann póilíní na Beilge cuardaigh timpeall Chearnóg Lux.
+830 Oifigeach Póilíní
+831 A cheannfort, tá málaí ann. Le billí istigh iontu. A lán billí.
+832 Ceannfort na bPóilíní
+833 Comhaireamh iad. Agus ná bain leis an pheil, b'fhéidir gur fianaise í.
+834 Gabhadh oifigigh Pharlaiminte agus daoine gaolmhara leo. Baineann an imscrúdú le caimiléireacht fhéideartha ar son stáit eachtracha.
+835 Tá gach duine a chuirtear faoi amhras neamhchiontach go dtí go gciontaítear iad go deifnídeach.
+836 (i gcéin) Ní bhaineann sinne leis sin ar bith. Íocaimidne le canapés. Tá sé níos discréidí.
+837 AS Iomaíochas
+838 Fíneáil amháin eile. Sínim, déanaim gáire, cniotálaim eilifint. Tá sé go sásúil go mór.
+839 A choimisinéir, tá na fathaigh dhigiteacha ag iarraidh breise ama.
+840 Deonaithe. Tá go… anois acu.
+842 Tá an Rialachán um Sheirbhísí Digiteacha i bhfeidhm ar gach duine, a Uasail Musk. Fiú ar líonraí a athraíonn a n-ainm gach sé mhí.
+844 Freagraím le meme. Sin mo sheasamh dlíthiúil oifigiúil.
+845 Freagraím le litir ceithre leathanach. Sin an ceann agamsa.
+846 Tarraingíonn gach duine acu ar thaobh amháin den fón. Taispeánann an fón féin « ceallraí lag ».
+847 Túr na gCúntóirí Taibhse
+848 A bhuí leis an suaitheantas OLAF, tagann an dofheicthe le feiceáil. Snámhann cúntóirí tréshoilseach síos an dorchla, duillín pá ina lámh.
+849 Dia duit… Táim ag obair anseo ó 2009… Bhuel, tá mo chonradh ag obair anseo… Mise, ní raibh mé anseo riamh…

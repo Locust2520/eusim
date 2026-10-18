@@ -1,0 +1,2113 @@
+0	LOB
+1	SCA
+2	GEL
+3	SOM
+4	BLO
+5	N.%d
+6	DÉBATTRE
+7	SAC
+8	FUIR
+9	ÉQUIPE
+10	PP %d/%d
+11	Aucun effet
+12	Super efficace
+13	Peu efficace
+14	Retour
+15	Plus de PP pour cette attaque !
+16	À toi, %s !
+17	%s envoie %s !
+18	Mais %s a déjà un problème…
+19	%s est déjà du côté des lobbies !
+20	On ne gèle pas les fonds d'un banquier central !
+21	%s est sous l'influence d'un lobby !
+22	%s est pris dans un scandale !
+23	Les fonds de %s sont gelés !
+24	%s s'endort en plein sommet nocturne !
+25	%s est bloqué en commission !
+26	Argumentation
+27	Résilience
+28	Expertise
+29	Diplomatie
+30	Réactivité
+31	Précision
+32	Esquive
+33	%s : %s ne peut plus monter !
+34	%s : %s ne peut plus baisser !
+35	%s : %s augmente beaucoup !
+36	%s : %s augmente !
+37	%s : %s baisse beaucoup !
+38	%s : %s baisse !
+39	%s utilise %s !
+40	(trump)%s utilise %s !
+41	%s prépare un dossier de 400 pages…
+42	Mais personne ne tombe deux fois dans le piège du canapé !
+43	%s plagie l'adversaire !
+44	Mais il n'y a rien à plagier…
+45	%s invoque l'Article 50 et quitte le débat !
+46	%s invoque l'Article 50 et s'en va !
+47	%s invoque l'Article 50… mais les négociations vont durer des années !
+48	%s se protège avec un veto !
+49	« VETO ! » L'adversaire bloque la décision à l'unanimité requise.
+50	Mais l'attaque de %s rate la cible !
+51	%s est déjà désinformé !
+52	%s est désinformé !
+53	Mais les PV de %s sont déjà au max !
+54	%s récupère des PV !
+55	%s fait une sieste réparatrice !
+56	Mais le veto ne passe pas cette fois !
+57	%s brandit son droit de veto !
+58	Clause de sauvegarde ! Toutes les modifications sont annulées.
+59	Les messages de %s ont été effacés… Plus aucune trace !
+60	Des fonds structurels pleuvent sur le terrain !
+61	%s se retrouve assis sur le canapé !
+62	Mais rien ne se passe…
+63	Ça n'affecte pas %s…
+64	Coup critique !
+65	Touché %d fois !
+66	C'est super efficace !
+67	Ce n'est pas très efficace…
+68	%s est pris dans une procédure sans fin !
+69	%s ponctionne des fonds !
+70	%s subit le contrecoup !
+71	Des pièces s'éparpillent partout !
+72	%s est trop déstabilisé pour agir !
+73	%s dort profondément… (on est à 4 h du matin)
+74	%s se réveille ! Le sommet est terminé.
+75	%s sort enfin de commission !
+76	Les fonds de %s sont gelés ! Impossible d'agir.
+77	%s a vérifié ses sources !
+78	%s est désinformé…
+79	Il relaie une fausse information et se discrédite lui-même !
+80	Orbán est sorti prendre un café ! Son Euromon attend, désemparé.
+81	%s subit l'influence des lobbies !
+82	Le scandale éclabousse %s !
+83	%s est englué dans la procédure !
+84	%s est K.O. !
+85	%s apprend %s !
+86	%s veut apprendre %s, mais connaît déjà quatre attaques.
+87	Ne pas apprendre
+88	Quelle attaque oublier ?
+89	1, 2, 3… Hop ! %s oublie %s…
+90	… et apprend %s !
+91	%s n'apprend pas %s.
+92	%s gagne %d points d'expérience !
+93	%s monte au niveau %d !
+94	{P} lance un %s !
+95	Et voilà ! %s est enregistré au Journal officiel !
+96	Les données de %s sont ajoutées à l'Eurodex.
+97	%s est envoyé aux Archives.
+98	Oh non ! %s s'est libéré !
+99	Raah ! Ça y était presque !
+100	Mince ! Il manquait juste un tampon !
+101	Argh ! Un vice de procédure !
+102	%s a été rejeté par référendum ! Impossible de le capturer.
+103	On ne capture pas l'Euromon d'un autre dresseur ! Ce serait un scandale.
+104	{P} utilise %s !
+105	Sur quel Euromon ?
+106	%s récupère des PV.
+107	%s va mieux.
+108	%s reprend du service !
+109	Ça n'aura aucun effet.
+110	Ce n'est pas le moment !
+111	Qui envoyer au débat ?
+112	Qui envoyer ?
+113	%s n'est plus en état de débattre !
+114	%s est déjà sur le terrain !
+115	Reviens, %s !
+118	rival systémique
+119	L'Euromon adverse se présente désormais comme… %s ! (type %s)
+120	%s %s veut débattre !
+121	Oh ! Un %s chromatique !
+122	Un %s sauvage apparaît !
+123	Que doit faire {P} ?
+124	On ne quitte pas un débat officiel ! Ce serait un aveu de faiblesse.
+125	Vous prenez la fuite par la sortie de secours !
+126	Impossible de fuir : la séance n'est pas levée !
+127	%s lance son argument… La table est si longue qu'il mettra un tour à arriver !
+128	L'argument du tour précédent atteint enfin l'autre bout de la table !
+129	%s va envoyer %s.
+130	Continuer
+131	Changer d'Euromon
+132	Changer d'Euromon ?
+133	{P} remporte %d € pour ce débat !
+134	{P} ramasse %d € de fonds structurels.
+135	— CINÉMATIQUE —
+136	A : suivant    START : passer
+137	Oui
+138	Non
+139	Touchez ou appuyez sur A
+140	Merci d'avoir joué !
+141	FIN… ou presque.
+143	Sauvegarde illisible !
+144	Professeur Schuman
+145	Bonjour, bonjour ! Bienvenue dans le monde merveilleux… et légèrement administratif… de l'Union européenne !
+146	Je m'appelle Robert Schuman. Tu as peut-être entendu parler de moi : une histoire de charbon, d'acier et de 9 mai… Je te la raconterai.
+147	Depuis, ce monde est peuplé de créatures étranges : les EUROMONS !\fDirectives, règlements, amendements, bandeaux cookies… Ils vivent dans les piles de dossiers et la moquette des couloirs.
+148	Certains les collectionnent, d'autres les font débattre. Moi, je les étudie. C'est ce qu'on appelle… la comitologie !
+149	Mais parlons de toi. Ce matin, deux stagiaires sont attendus au Parlement européen…
+150	À gauche, Alex, la nouvelle stagiaire. À droite, Max, le nouveau stagiaire. Qui es-tu ?
+151	Alex, une fille
+152	Max, un garçon
+153	Parfait ! Et comment dois-je t'appeler, officiellement ? Il faut que ce soit écrit dans les 24 langues, alors choisis bien.
+154	Ton prénom (10 lettres max.) :
+155	{P} ! Magnifique. Je vais faire traduire ça en maltais tout de suite.
+156	Voici Oliver, ton collègue stagiaire, venu tout droit de Londres. Il est… très confiant.
+157	Hello ! Don't worry, {P}, je serai le meilleur stagiaire de toute l'Union. Easy.
+158	Votre mission, à tous les deux, est simple : faire adopter UNE directive.\fLa directive sur la fin du changement d'heure. Le Parlement l'a votée en mars 2019…
+159	… et depuis, elle dort au Conseil. Comme beaucoup de choses.
+160	Pour y arriver, il vous faudra les 8 badges des grandes villes d'Europe, convaincre le Conseil européen, et la présidente de la Commission elle-même !\fAllez, {P}. Ton stage commence maintenant. Il n'est pas rémunéré, mais il est formateur !
+161	Maj/min
+162	Effacer
+163	Le saviez-vous ? Le Parlement déménage à Strasbourg douze fois par an, malles comprises.
+164	Il y a 24 langues officielles dans l'UE. Votre stagiaire en parle une et demie.
+165	Astuce : les bouchons attachés à la bouteille ne se perdent plus (directive 2019/904).
+166	Chargement… comme la fin du changement d'heure : votée en 2019, toujours en attente.
+167	Le drapeau européen a 12 étoiles. Ce n'est pas le nombre de pays : c'est un symbole de perfection.
+168	La Déclaration Schuman date du 9 mai 1950. Le 9 mai, c'est la Fête de l'Europe !
+169	Les pièces en euros sont arrivées dans les poches le 1er janvier 2002.
+170	Depuis juin 2017, plus de frais d'itinérance en Europe. Appelez votre mère depuis Lisbonne !
+171	Le chargeur universel USB-C est obligatoire depuis fin 2024. Adieu le tiroir à câbles.
+172	Erasmus est né en 1987. Des millions d'étudiants ont depuis appris à cuisiner des pâtes.
+173	L'accord de Schengen a été signé en 1985 sur un bateau, sur la Moselle, au Luxembourg.
+174	Le Parlement européen compte 720 députés depuis 2024.
+175	Astuce : la cantine soigne toute votre équipe. Le café, lui, ne soigne rien.
+176	Astuce : courez en maintenant B. Les couloirs du Berlaymont sont longs.
+177	Le règlement sur la courbure des bananes (1994) existe… mais il parle surtout de qualité.
+178	Le RGPD (2018) vous a offert des bandeaux cookies. Beaucoup de bandeaux cookies.
+179	Le prix Nobel de la paix a été attribué à l'Union européenne en 2012.
+180	Le Traité de Rome (1957) a créé la Communauté économique européenne.
+181	Le Traité de Maastricht (1992) a créé l'Union européenne et prévu l'euro.
+182	Le Traité de Lisbonne (2007) contient l'article 50. Un seul pays l'a utilisé.
+183	Le Royaume-Uni a quitté l'UE le 31 janvier 2020. Oliver ne s'en est toujours pas remis.
+184	Astuce : les Tampons officiels capturent mieux les Euromons affaiblis.
+185	Astuce : un Euromon endormi par un Sommet nocturne est plus facile à capturer.
+186	Le Berlaymont a été désamianté de 1991 à 2004. La réunion de chantier a été longue.
+187	La Cour de justice de l'UE siège au Luxembourg, sur le plateau du Kirchberg.
+188	La BCE est à Francfort. Sa tour a coûté plus cher que prévu. Inflation, sans doute.
+189	Simone Veil fut la première présidente du Parlement européen élu, en 1979.
+190	La Commission a 27 commissaires : un par pays. Même pour la politique des pêches de l'Autriche.
+191	Astuce : appuyez sur X pour ouvrir le menu.
+192	Le Danube traverse dix pays. Vos chaussures, seulement deux.
+193	Le jour de l'Europe, un Euromon rare apparaît. Essayez le 9 mai !
+194	Les traductions de l'UE représentent des millions de pages par an.
+195	L'hymne européen est l'Ode à la joie de Beethoven, sans paroles officielles.
+196	Astuce : les attaques de type Juridique sont super efficaces contre le Lobby.
+197	Astuce : le Veto bloque une attaque, mais pas votre détermination.
+198	Le Brexit a duré si longtemps qu'on a inventé le mot « Brextension ».
+199	Il existe un bureau de liaison du Parlement dans chaque État membre.
+200	Astuce : parlez à tout le monde. Même au pigeon de la place Lux.
+201	Le Danemark a une exemption sur l'euro. Il garde sa couronne, et ses vikings.
+202	Chargement des 27 avis nationaux… 26 sur 27… On attend la Hongrie.
+203	Le saviez-vous ?
+204	Chargement…
+205	Équipe
+206	Sac
+207	Carte
+208	Rapport
+209	Options
+210	%lu h %02lu
+211	PV
+212	K.O.
+213	N.%d   n°%03d
+214	Exp.
+215	Suivant
+216	B : retour
+218	A : choisir   B : retour
+219	Résumé
+220	Déplacer
+221	Soins
+222	Tampons
+223	Combat
+224	Clés
+225	Les Euromons sauvages vous laisseront tranquille un moment.
+226	Les PP de %s sont restaurés.
+227	Ça n'a aucun effet.
+228	Ce n'est pas le moment d'utiliser ça.
+229	×%d
+230	(vide)
+231	Utiliser
+232	n°%03d  %s
+233	Capturez cet Euromon pour lire sa fiche.
+234	EURODEX   Vus : %d   Capturés : %d
+235	Aucun support de sauvegarde détecté.\fSur DS (DS Pico, R4…), lancez le jeu depuis la carte SD. Sur émulateur, activez le DLDI / la carte SD, ou utilisez les sauvegardes d'état.
+236	Rédiger un rapport de progression (emplacement %d) ?
+237	Sauvegarder
+238	Autre emplacement…
+239	Annuler
+240	Rapport transmis en 24 langues. Partie sauvegardée (emplacement %d) !
+242	Réglages
+243	Sources des faits
+244	Retour au titre
+245	Retourner à l'écran titre ? Ce qui n'est pas sauvegardé sera perdu.
+246	◀  × %d  ▶
+247	Total : %d €
+248	A : valider   B : annuler
+249	Acheter
+250	Vendre
+251	Au revoir
+252	Vendeur
+253	Bienvenue à la Boutique du Parlementarium ! Tout est garanti conforme aux normes CE.
+254	Votre budget : %lu €
+255	En stock dans votre sac : %d
+256	Il semble que votre budget soit… sous plafond de dépenses.
+257	Merci ! Et voici un Super Tampon en cadeau, pour l'achat groupé !
+258	Merci pour votre achat ! Facture en triple exemplaire.
+259	Ça ? Ce n'est pas à vendre, c'est un objet d'importance stratégique !
+260	Marché conclu !
+261	Au revoir ! N'oubliez pas : le chargeur USB-C est vendu séparément.
+262	ÉQUIPE → ARCHIVES (%d/%d)
+263	ARCHIVES → ÉQUIPE (%d/%d)
+264	◀▶ côté   A : déplacer   B : quitter
+265	{P} allume le terminal des Archives. « Bienvenue dans le système de gestion documentaire. »
+266	Il faut garder au moins un Euromon dans l'équipe !
+267	L'équipe est complète (6 Euromons maximum).
+268	Rescrit
+269	Euro
+270	Hémicycle
+271	OXI
+272	Article 50
+273	Veto
+274	Amende
+275	Sorbonne
+276	Jean-Claude Juncker, Luxembourg
+277	Christine Lagarde, Francfort
+278	Roberta Metsola, Strasbourg
+279	Yanis Varoufakis, Athènes
+280	Farage & Johnson, Londres
+281	Viktor Orbán, Budapest
+282	Margrethe Vestager, Bruxelles
+283	Emmanuel Macron, Paris
+284	ÉTUI À BADGES DES TRAITÉS
+286	à conquérir
+287	Badge %s — remis par %s.
+288	Quoi ? %s évolue !
+289	Vous avez reporté la réforme. %s n'a pas évolué.
+290	Félicitations ! %s a évolué en %s !
+291	Temps : %d s
+292	Score : %d / %d
+293	Mini-jeu
+294	Vote en plénière
+295	Les députés arrivent dans l'hémicycle ! Touchez chaque siège qui s'allume en jaune avant qu'il ne s'éteigne. 25 votes en 30 secondes !
+296	Présidence
+297	Touchez les sièges jaunes !
+298	Adopté à une large majorité ! Applaudissements sur tous les bancs.
+299	Le quorum n'est pas atteint. La séance est suspendue…
+300	Le Tampon
+305	Bandeaux cookies
+306	Des bandeaux cookies envahissent l'écran ! Touchez « Refuser » sur chacun. Si six bandeaux s'accumulent, c'est perdu. Tenez 25 secondes !
+307	(un site internet quelconque)
+308	Nous respectons
+309	votre vie privée
+310	Accepter
+311	Refuser
+312	Refusez tout ! (ne cliquez pas sur Accepter)
+313	Tous les cookies refusés ! Le RGPD est fier de vous.
+314	Submergé par les bandeaux… Vous avez accepté 437 partenaires publicitaires.
+315	Sommet nocturne
+316	Il est 3 h du matin, les 27 chefs d'État s'endorment ! Soufflez dans le micro (ou touchez la tête qui dort) pour les réveiller. 27 réveils avant l'aube !
+317	%d h %02d
+318	Soufflez / touchez la tête endormie !
+319	Tous réveillés ! Accord trouvé à 4 h 37. Comme d'habitude.
+320	Le soleil se lève sur une table de dirigeants endormis. Le sommet est reporté.
+321	Les malles de Strasbourg
+322	Chargez les malles des députés dans le train, dans l'ordre : 1, 2, 3… jusqu'à 10. Vous avez 30 secondes !
+323	Quai — TGV Strasbourg ⇄ Bruxelles
+324	Les malles
+325	Touchez les malles dans l'ordre !
+326	Toutes les malles sont dans le train ! La session peut commencer.
+327	Le train est parti sans les malles. Les députés siégeront en pyjama.
+328	Langue
+329	Vitesse du texte
+330	Son du texte
+331	Volume musique
+332	Animations de combat
+333	Lente
+334	Normale
+335	Rapide
+336	↑↓ / stylet : défiler    B : retour
+337	Crédits
+338	carte SD
+341	{P} obtient %d × %s !
+342	{P} obtient : %s !
+343	— Emplacement vide —
+344	Eurodex : %d
+345	Continuer : choisir une partie
+346	Nouvelle partie : emplacement
+347	Sauvegarder dans…
+348	Cet emplacement contient déjà une partie. L'écraser ?
+349	Nouvelle partie
+350	Crédits & sources
+351	Menu principal
+352	Parodie non officielle · v2.0
+353	Le stage de ta vie
+354	APPUYEZ SUR START
+355	{P} reçoit %s !
+356	L'équipe est pleine : il part aux Archives.
+357	{P} n'a plus d'Euromon en état de débattre…\f{P} retourne en courant à la cantine, la tête basse.
+358	Cantinière
+359	Allez, un bon café et ça repart ! Vos Euromons sont en pleine forme.
+360	Badge Rescrit
+361	Badge Euro
+362	Badge Hémicycle
+363	Badge OXI
+364	Badge Article 50
+365	Badge Veto
+366	Badge Amende
+367	Badge Sorbonne
+368	{P} reçoit le %s !
+369	Ton Eurodex compte %d Euromons capturés sur %d vus.
+370	Jean Monnet
+371	C'est un début ! Les petits pas font les grandes unions.
+372	Pas mal ! Tu avances plus vite que la directive sur l'heure d'été.
+373	Impressionnant ! Même la Commission n'a pas autant de dossiers.
+374	Extraordinaire ! Tu es une véritable institution à toi seul.
+375	{P} trouve : %s !
+376	La Clause de non-sollicitation a expiré.
+377	Bruxelles
+378	Luxembourg
+379	Francfort
+380	Strasbourg
+381	Athènes
+382	Londres
+383	Budapest
+384	Paris
+385	Anvers
+386	Varsovie
+387	Rome
+388	Maastricht
+389	Lisbonne
+390	Guichetier
+391	Aucune destination disponible pour l'instant.
+392	Autres destinations…
+393	En voiture ! Le train part… avec seulement quelques minutes de retard.
+394	Diplomate
+395	Josep Borrell, l'ancien Haut représentant, disait en 2022 : « L'Europe est un jardin, le reste du monde est une jungle. » Ça a fait… un peu de bruit.
+396	Angela Merkel
+397	Seize ans chancelière. Des centaines de sommets. En 2015, j'ai dit : « Wir schaffen das » — nous y arriverons.
+398	Mais vous, y arriverez-vous ? Je suis le premier membre du Conseil. Personne ne passe sans compromis.
+399	Wir haben es geschafft. Vous pouvez passer. Mario vous attend… avec un rapport de 400 pages.
+400	Mario Draghi
+401	Juillet 2012, Londres. J'ai dit trois mots : « Whatever it takes ». L'euro a été sauvé. Les marchés se sont calmés.
+402	En 2024, mon rapport sur la compétitivité demandait jusqu'à 800 milliards d'investissements par an. Investissez dans ce débat.
+403	Vous avez fait tout ce qu'il fallait. Kaja Kallas vous attend. Elle est… très directe.
+404	Kaja Kallas
+405	Haute représentante pour les affaires étrangères depuis décembre 2024. Ancienne Première ministre d'Estonie.
+406	Le monde est dangereux. Je dois savoir si vous saurez tenir face aux grandes puissances. Montrez-le-moi.
+407	Solide. Vous en aurez besoin. Le président Costa vous attend. Il espère finir avant minuit.
+408	António Costa
+409	Président du Conseil européen depuis décembre 2024 ! Il est 23 h 54. Si on termine avant minuit, ce sera une première historique.
+410	Mais d'abord : tous les chefs d'État se sont endormis autour de la table. Aidez-moi à les réveiller ! Soufflez dans le micro… ou tapez sur l'écran !
+411	Il est… 4 h 37. Bon. Comme d'habitude. Débattons quand même.
+412	Le Conseil européen approuve votre candidature à l'unanimité ! Enfin… à l'unanimité moins une abstention constructive.
+413	La Présidente de la Commission vous attend au 13ᵉ étage du Berlaymont. C'est le dernier pas avant la directive.
+414	Charles Michel
+415	Ah, bonjour. Je suis Charles Michel, ancien président du Conseil européen. Je suis juste… assis. Sur la seule chaise.
+416	À Ankara, en avril 2021, j'ai pris le fauteuil. Ursula s'est retrouvée sur le canapé. On a appelé ça le « Sofagate ». Je ne m'en suis jamais vraiment remis.
+417	Ursula von der Leyen
+418	Bienvenue au 13ᵉ étage. Oui, j'habite ici : il y a une petite chambre à côté de mon bureau. C'est pratique pour les dossiers urgents.
+419	Présidente de la Commission depuis 2019, réélue en 2024. Le Pacte vert, la crise du Covid, les vaccins…
+420	Les SMS avec le patron de Pfizer ? En mai 2025, le Tribunal de l'UE a annulé notre refus de les communiquer au New York Times. Bref. Passons.
+421	Vous voulez la directive sur l'heure d'été ? Battez-moi. Team Europe, à la fin, il n'en restera qu'un.
+422	Extraordinaire. Vous êtes le meilleur stagiaire de l'histoire de la Commission. Voici… la directive sur la fin du changement d'heure.
+423	Il ne reste plus qu'à la faire signer. Une formalité ! Il suffit que…
+424	Les grandes puissances attendent ! Anvers, Varsovie, le Pirée… Prenez le train.
+425	Vous avez sauvé l'Europe. Et la directive est… en comité. Comme toujours. Merci pour tout, {P}.
+426	BIP BIP BIP ! Trois messages urgents arrivent en même temps sur tous les téléphones du Berlaymont.
+427	Donald Trump
+428	HELLO EUROPE ! J'ai une petite demande. Toute petite. Je mets des droits de douane sur tout. Et j'aimerais acheter le Groenland. Ça se vend, non ?
+429	Deuxième message, en provenance de l'Est : « Le robinet du gaz est fermé. Pour votre bien. » Signé : V. P.
+430	Troisième message, très poli : « Nous suspendons nos exportations de terres rares. Vos téléphones fonctionneront… moins. » Signé : X. J.
+431	{P}, la directive attendra. Les Grandes Puissances veulent mettre l'Europe au pas. Il faut aller les voir. Toutes les trois.
+432	Le port d'Anvers, Varsovie, et le port du Pirée, à Athènes. Les gares vous sont ouvertes. Team Europe compte sur vous !
+433	Mark Rutte
+434	Je suis secrétaire général de l'OTAN. Au sommet de La Haye, en juin 2025, on s'est engagés à monter vers 5 % du PIB pour la défense, d'ici 2035.
+435	Et j'ai appelé Donald « papa ». Bon. C'était une image. Il a adoré. Allez-y, il est sur le green.
+436	JD Vance
+437	En février 2025, à la Conférence de Munich, j'ai expliqué aux Européens ce qu'était la démocratie. Ils ont été… surpris.
+438	C'EST LE PLUS BEAU GOLF DU MONDE. Je viens de l'acheter. Enfin, je crois. Le port aussi, peut-être.
+439	Le 2 avril 2025, Liberation Day ! J'ai brandi un grand tableau avec des droits de douane pour TOUT LE MONDE. Même pour des îles où il n'y a que des pingouins.
+440	En juillet 2025, sur mon golf de Turnberry, Ursula et moi, on a fait un deal : 15 %. Mais je peux changer d'avis. Je change souvent d'avis. C'est une stratégie.
+441	Et le Groenland ! Il est grand, il est blanc, il est magnifique. Le Danemark ne veut pas vendre. TRÈS INJUSTE. On débat, et si je gagne, je l'achète !
+442	C'était truqué. Complètement truqué. Bon. On garde 15 %. Et le Groenland reste danois. Pour l'instant. Je posterai quelque chose en majuscules ce soir.
+443	Donald Tusk
+444	Bienvenue à Varsovie. Premier ministre de Pologne, ancien président du Conseil européen. Ici, on sait ce que vaut la liberté.
+445	Volodymyr Zelensky
+446	Depuis février 2022, mon pays résiste à l'invasion russe. Merci à l'Europe pour son soutien. Le palais est là-haut : soyez prudent.
+447	Prenez ce kit REPowerEU : l'Europe a appris à se passer du gaz russe. Vous en aurez besoin pour avoir chaud là-bas.
+448	Vladimir Poutine
+449	Asseyez-vous. Non… plus loin. Voilà. En février 2022, j'ai reçu des présidents à cette distance. C'est plus… confortable.
+450	Le gaz ? J'ai fermé le robinet. Les élections ? En décembre 2024, la Cour constitutionnelle roumaine a annulé une présidentielle sur fond d'ingérence. Je ne vois pas de quoi on parle.
+451	Ici, vos arguments mettront un tour entier à atteindre l'autre bout de la table. Commençons.
+452	…Votre kit REPowerEU est efficace. Le chantage ne fonctionne plus. Partez, avant que je ne raccourcisse la table.
+453	Gardien
+454	Ces deux pandas sont prêtés par la Chine à un zoo européen. On appelle ça la « diplomatie du panda ». Ils mangent 40 kg de bambou par jour. Les pandas, pas les diplomates.
+455	Xi Jinping
+456	Bienvenue. L'Union européenne nous décrit depuis 2019 comme un partenaire, un concurrent et un rival systémique. Moi aussi, je suis les trois.
+457	Vous taxez nos voitures électriques — jusqu'à 35 % depuis octobre 2024. Nous taxons votre cognac. Et nous surveillons nos terres rares. C'est équilibré.
+458	Dans ce débat, mon Euromon changera de type à chaque tour : partenaire, concurrent, rival. Bonne chance pour suivre.
+459	Hmm. Un partenaire digne de respect. Les terres rares reprendront leur route. Les pandas restent, ils sont très populaires.
+460	Un ourson jaune passe derrière un conteneur. Une pancarte s'affiche : « Contenu indisponible dans votre région. »
+461	Un message de la Présidente : « Les trois Grandes Puissances demandent un sommet. Tout de suite. Le Sommet G-Tout. Je vous y envoie. »
+462	C'EST MOI QUI AI EU L'IDÉE DE CE SOMMET.
+463	La table est trop courte.
+464	Nous sommes tous partenaires. Et rivaux.
+465	Bon, on commence ? Moi d'abord. Tout le monde dit que je suis le meilleur pour commencer.
+466	Nous proposons de commencer… après mûre réflexion. Dans cinquante ans.
+467	Pourquoi l'Europe est-elle à la table ? Elle devait être sur le strapontin.
+468	LE STRAPONTIN, C'EST TREMENDOUS. J'en vends.
+469	Tout le monde parle en même temps. Les interprètes abandonnent. Il ne reste qu'une solution : le débat.
+470	Silence dans la salle. Les trois Grandes Puissances se regardent… puis regardent l'Europe.
+471	Team Europe ! Ensemble, nous sommes plus forts que séparément. C'est un peu toute l'histoire de l'Union, non ?
+472	Des réalisations concrètes, {P}. Une solidarité de fait. Je l'avais dit en 1950. Tu l'as fait en un stage.
+473	Et la directive sur la fin du changement d'heure ? Elle a été renvoyée… en comité.
+474	Mais ça, c'est une autre histoire.
+475	L'aventure continue ! De nouveaux trains desservent Rome, Maastricht et Lisbonne. On dit que des Euromons légendaires y dorment… Et quelqu'un vous attend à la gare de Bruxelles.
+476	Une statue antique, place du Capitole. Le 25 mars 1957, six pays ont signé ici le Traité de Rome. Quelque chose bouge…
+477	Ici, le 7 février 1992, le Traité de Maastricht a donné naissance à l'Union européenne. Une pièce d'euro géante se met à briller…
+478	Le 13 décembre 2007, le Traité de Lisbonne fut signé au monastère des Hiéronymites. Une silhouette translucide s'approche…
+479	Au loin, un autre Euromon fuit : Constitutio. Rejeté en 2005, il ne se laisse jamais capturer.
+480	Premier jour de stage au Parlement européen ! Le professeur Schuman t'attend dans le hall du Parlement.
+481	Ton ordinateur affiche 437 courriels non lus. Ils ont tous pour objet « Réunion de coordination sur les réunions ».
+482	Parc Léopold. Attention : les piles de dossiers abritent des Euromons sauvages. Ne pas nourrir les Amendons.
+483	Berlaymont — Commission européenne. Accès réservé. 13ᵉ étage : bureau (et chambre) de la Présidente.
+484	« L'Europe ne se fera pas d'un coup, ni dans une construction d'ensemble : elle se fera par des réalisations concrètes. » — Robert Schuman, 9 mai 1950.
+485	Lobbyiste
+486	Bonjour ! Je ne fais pas de lobbying. Je fais du « partage d'expertise ». Un petit four ? Il est au saumon. Norvégien.
+487	Touriste
+488	Excuse me, où est le Manneken-Pis ? On m'a dit qu'il était plus grand… On m'a beaucoup menti sur ce voyage.
+489	Enfant
+490	Quand je serai grand, je serai interprète ! En 24 langues. Ou alors pompier, c'est plus calme.
+491	Journaliste
+492	Je couvre l'Union européenne depuis vingt ans. Mon titre préféré : « Bruxelles dit non ». Il marche à chaque fois.
+493	Hugo
+494	Tu as gagné… Paraît que la directive sur l'heure d'été est bloquée au Conseil depuis 2019. Bon courage, hein.
+495	Agent de sécurité
+496	La route des Ardennes ? Pas sans Euromon ! Les dossiers sauvages sont agressifs en cette saison budgétaire.
+497	Halte ! Personne ne quitte Bruxelles sans Euromon. Allez d'abord voir le professeur Schuman, au Parlement.
+498	Garde
+499	Le 13ᵉ étage ? Seuls ceux qui ont convaincu le Conseil européen peuvent monter. Et il faut d'abord les huit badges.
+500	Le bâtiment Europa accueille le Conseil européen. Il vous faut les huit badges des traités pour être reçu.
+501	Huissière
+502	La commissaire est… très occupée. On dit que la Team Lobby bloque toutes ses enquêtes. Ça se passe sous le bar de la place Lux.
+503	La DG Concurrence ne reçoit que les stagiaires expérimentés. Revenez avec au moins six badges.
+504	Agent du Parlement
+505	Bienvenue au Parlement européen ! Le professeur Schuman vous attend au fond du hall.
+506	L'escalier à droite mène aux étages… On dit qu'une aile est hantée. Je n'y vais jamais, moi.
+507	Ah, {P} ! Te voilà enfin ! Ponctuel… à une heure près. Satané changement d'heure.
+508	Hi ! Je suis arrivé il y a une heure. Moi, je suis à l'heure de Londres.
+509	Le laboratoire du professeur
+510	Bien. Vous allez travailler avec des Euromons. Les dossiers de ce Parlement en sont pleins.
+511	J'en ai trois ici, tout jeunes. Ils sont nés de grandes idées européennes. Choisis le tien, {P}.
+512	Ils sortent… de chemises cartonnées ?
+513	À Bruxelles, tout ce qui compte commence dans une chemise cartonnée, Oliver. Même l'Europe.
+514	VERDEAL, né du Pacte vert. CHARBONNET, issu de la CECA de 1951. Ou ATOMINO, tout droit sorti d'Euratom.
+515	Verdeal (type Vert)
+516	Charbonnet (type Industrie)
+517	Atomino (type Énergie)
+518	Excellent choix ! Prends-en soin. Un Euromon bien traité vaut mieux que dix traités mal ratifiés.
+519	Alors je prends celui qui bat le tien. That's just smart negotiation.
+520	Oliver ! Ce n'est pas très… communautaire.
+521	Allez, {P}, un petit débat pour voir qui est le meilleur stagiaire ?
+522	What ?! J'ai perdu contre un stagiaire continental ?! C'était… un galop d'essai.
+523	Ha ! Comme prévu. Ne le prends pas mal, {P}, c'est culturel.
+524	Bravo à tous les deux. Maintenant, la mission : faire adopter la directive sur la fin du changement d'heure.
+525	Le Parlement l'a votée en mars 2019. Depuis, elle dort au Conseil. Il vous faudra les huit badges des traités pour être pris au sérieux.
+526	Le premier badge vous attend au Luxembourg, chez Jean-Claude Juncker. Prenez la route des Ardennes, à l'est.
+527	Le Luxembourg ? Easy. J'y serai avant toi. See you, loser… euh, collègue !
+528	Un instant, {P} ! Je suis Jean Monnet. J'ai inventé la méthode des petits pas. Voici un grand pas : l'EURODEX.
+529	Il enregistre chaque Euromon que tu rencontres. Et voici de quoi les tamponner officiellement.
+530	Affaiblis un Euromon sauvage, puis lance un Tampon officiel depuis le SAC. L'Europe compte sur toi !
+531	Courage, {P} ! Chaque badge est une petite pierre. Comme pour l'Europe : des réalisations concrètes.
+532	Huit badges ! Le Conseil européen t'attend au bâtiment Europa. Je suis si fier.
+533	Montre-moi ton Eurodex…
+534	Parle d'abord au professeur Schuman, jeune stagiaire.
+535	Le professeur est là-bas. Fais vite, je m'ennuie.
+536	Route 1 — Forêt des Ardennes. Luxembourg : 3 heures à pied, 12 minutes en rescrit fiscal.
+537	Randonneur
+538	La forêt des Ardennes s'étend sur trois pays. Les sangliers, eux, n'ont jamais montré leur passeport.
+539	Léa
+540	Un jour, on sera payées. Un jour…
+541	M. Dupont
+542	N'oubliez pas de remplir le formulaire de satisfaction. Il fait 12 pages.
+543	Gérard
+544	La PAC, c'est un tiers du budget européen. Et ma moissonneuse, c'est un tiers de mon crédit.
+545	Luxembourg-Kirchberg. Cour de justice de l'UE, Cour des comptes, Banque européenne d'investissement. Et beaucoup de banques tout court.
+546	Vers Schengen, village de la Moselle où fut signé l'accord de 1985. Suivez le chemin au sud.
+547	Un petit chemin descend vers la Moselle… et vers Schengen.
+548	Les transports en commun sont gratuits ici ! J'ai fait 14 fois le tour de la ville en tram. Pour rien. Gratuitement.
+549	Mamie
+550	Mon mari était fonctionnaire européen. Il travaillait à la Cour des comptes. Il comptait même les moutons pour s'endormir.
+551	Juge
+552	La Cour de justice de l'Union européenne siège ici depuis 1952. Nos arrêts s'imposent aux 27 États. Même le lundi matin.
+553	Greffier
+554	J'ai traduit un arrêt en 24 langues. Dans la version maltaise, il y a une coquille. Personne ne l'a vue en dix ans.
+555	Douanier luxembourgeois
+556	La route de la Moselle est réservée aux titulaires du Badge Rescrit. Voyez M. Juncker, à l'Arène dorée.
+557	{P} ! Toujours là ? Moi, j'ai déjà visité trois banques et ouvert deux comptes. Pour le folklore.
+558	Débat !
+559	Bon, OK, tu progresses. Je file à Francfort voir la BCE. Ils ont promis de m'expliquer les taux d'intérêt.
+560	Pierre-Henri
+561	Ici, au Luxembourg, la discrétion est une vertu. Et une industrie.
+562	Maître Klein
+563	Les rescrits fiscaux étaient légaux, vous savez. C'est juste que personne ne devait les lire. LuxLeaks, 2014, quel malheur.
+564	Jean-Claude Juncker
+565	Ah, le petit stagiaire de Schuman ! Viens, viens. Moi aussi j'ai commencé petit. Puis Premier ministre pendant dix-huit ans.
+566	J'ai présidé l'Eurogroupe, puis la Commission. J'en ai vu, des sommets. Et j'ai tapoté beaucoup de joues.
+567	Une fois, en 2011, j'ai dit : « Quand ça devient sérieux, il faut mentir. » Alors je ne vais pas te dire que je vais te laisser gagner.
+568	Formidable ! Tu as gagné le Badge Rescrit. Il est officiel, celui-là, pas confidentiel !
+569	La route de la Moselle t'est ouverte. Francfort t'attend, et Christine Lagarde ne plaisante pas avec les taux.
+570	Tu repasses me voir ? Viens ici que je te tapote la joue. C'est la tradition luxembourgeoise. Enfin, la mienne.
+571	Ici, le 14 juin 1985, à bord du bateau Princesse Marie-Astrid, cinq pays ont signé l'accord de Schengen sur la suppression des contrôles aux frontières.
+572	Capitaine
+573	Le Princesse Marie-Astrid ! C'est sur ce genre de bateau qu'on a aboli les frontières. Ironique, sur une rivière qui en est une.
+574	On dit qu'un Euromon rare, Schengéon, rôde dans les dossiers du village. Il ne s'arrête jamais à la douane.
+575	Route 2 — Vallée de la Moselle. Trois pays en vingt kilomètres. Pensez à changer de langue.
+576	Kevin
+577	Le roaming gratuit, c'est le plus beau cadeau de l'Union. J'ai posté 4 000 photos de la Moselle.
+578	Hans
+579	Selon mes calculs, vous allez gagner le prochain badge. Mais mes calculs sont rarement justes.
+580	Jean-Marc
+581	Le crémant de Luxembourg, c'est AOP ! Comme mon Fromajus.
+582	Banque centrale européenne. Mission : la stabilité des prix. Objectif d'inflation : 2 % à moyen terme. Moyen terme : non précisé.
+583	Trader
+584	Les marchés sont nerveux. Ils sont toujours nerveux. C'est leur métier.
+585	Épargnant
+586	J'ai toujours mon matelas de deutschemarks. On ne sait jamais.
+587	La route du Rhin est fermée aux stagiaires sans Badge Euro. Allez voir Mme Lagarde à la BCE.
+588	Karl
+589	Je spéculais sur ta défaite. J'ai perdu ma chemise. Et ma cravate.
+590	Dr. Sofia
+591	Le choc était exogène. Totalement exogène.
+592	Christine Lagarde
+593	Bienvenue à la Banque centrale européenne. Ici, chaque mot que je prononce fait bouger les marchés. Alors je choisis mes mots.
+594	Un jour de mars 2020, j'ai dit que nous n'étions « pas là pour réduire les spreads ». Les marchés italiens ont plongé. On apprend.
+595	Dans mon arène, la puissance de mes attaques suit le taux directeur du moment. Prêt pour un peu de politique monétaire ?
+596	Remarquable. Votre stratégie était… prévisible, au bon sens du terme. Voici le Badge Euro.
+597	Strasbourg est au sud, après les vignobles du Rhin. Roberta Metsola préside le Parlement. Ne lui coupez jamais la parole.
+598	Les taux sont stables aujourd'hui. Profitez-en, ça ne dure jamais.
+599	La BCE m'a tout expliqué : l'inflation, les taux, le bilan… Je n'ai rien compris. Allez, débat, pour me détendre !
+600	Hmm. Tu sais, chez moi, à Londres, certains parlent de quitter l'Union. Ce serait ridicule, non ? …Non ?
+601	Inès
+602	Le Pacte vert a été présenté en décembre 2019. Depuis, on se bat pour chaque virgule.
+603	Tom
+604	Mon prochain article : « La Commission veut interdire les débats perdus ». C'est faux, mais ça buzzera.
+605	Albert
+606	Le vin d'Alsace et le vin du Bade se regardent par-dessus le Rhin. Avant, c'était les canons. Le progrès !
+607	Strasbourg, siège officiel du Parlement européen. 12 sessions plénières par an. 720 députés. Des milliers de malles.
+608	Eurodéputée
+609	Je fais Bruxelles–Strasbourg douze fois par an depuis 2014. Ça me fait… 132 déménagements. Mes malles ont plus de points de fidélité que moi.
+610	Fonctionnaire
+611	Au secours ! La session commence dans 2 minutes et les malles des députés ne sont pas chargées ! Tu peux m'aider ?
+612	Toutes les malles sont à bord ! Tiens, prends ça, c'est la récompense officielle du service logistique.
+613	Raté… Bon, on dira que la session commence en retard. Comme d'habitude. Réessaie quand tu veux !
+614	Bon… je vais encore pleurer dans une malle.
+615	Député Muller
+616	Mes 2 000 amendements… rejetés en bloc. Il faudra recommencer en commission.
+617	Députée Rossi
+618	Pour le traité de Lisbonne, j'avais une malle entière de notes. Elle est restée à Bruxelles.
+619	Huissier
+620	Silence dans l'hémicycle ! Mme la Présidente n'accepte les débats qu'après un vote. Voulez-vous tenter un vote en plénière ?
+621	Adopté à la majorité ! La Présidente vous recevra.
+622	Rejeté… Le quorum n'était pas atteint. Recommencez !
+623	Votre vote a été enregistré. La Présidente vous attend.
+624	Roberta Metsola
+625	La séance est ouverte. Présidente du Parlement depuis 2022, réélue en 2024 : j'ai l'habitude de faire respecter le temps de parole.
+626	Vous avez trente secondes. Ah, c'est déjà fini. Bon, débattons !
+627	Le résultat est clair : adopté ! Le Badge Hémicycle vous revient.
+628	Et voici le Pass Interrail européen. Avec lui, toutes les gares vous sont ouvertes. Votre prochain badge est à Athènes.
+629	On dit que Yanis Varoufakis y donne des cours… à moto. Prenez le train à la gare de Strasbourg.
+630	Un débat ? Pas sans un vote de la plénière. Voyez l'huissier.
+631	La prochaine session est dans un mois. N'oubliez pas vos malles !
+632	Athènes. Berceau de la démocratie, de la philosophie… et du référendum du 5 juillet 2015.
+633	L'Acropole a 2 500 ans. Elle a survécu aux Perses, aux Ottomans et à la Troïka.
+634	Douanier grec
+635	Le port du Pirée ? Fermé aux visiteurs. Il appartient à… des partenaires. Très partenaires.
+636	Désolé, accès au port réservé. Revenez quand la situation sera… plus diplomatique.
+637	Nikos
+638	En 2015, j'ai voté OXI. Et après… c'est compliqué.
+639	Agent Troïka (BCE)
+640	Notre rapport recommande encore plus de rigueur. Même pour vos Euromons.
+641	Agent Troïka (FMI)
+642	Nous reconnaissons quelques erreurs dans nos prévisions. Entre nous.
+643	Yanis Varoufakis
+644	Tu viens pour un badge ? Je suis arrivé ici à moto, en blouson de cuir, sans cravate. Comme aux réunions de l'Eurogroupe en 2015.
+645	Ministre des Finances pendant six mois. J'ai démissionné après le référendum : 61 % pour le OXI. La démocratie est belle, et têtue.
+646	La Troïka m'attendait au tournant. Toi, tu as battu ses agents. Montre-moi si tu es plus fort que l'austérité !
+647	NAI ! Euh, je veux dire : bravo. Voici le Badge OXI, camarade.
+648	Ton prochain badge est à Londres. Mais dépêche-toi : là-bas, on parle de plus en plus d'une certaine porte de sortie.
+649	Je repars donner une conférence. Sur la dette. À moto.
+650	Westminster. Ici, le 23 juin 2016, le Royaume-Uni a voté à 51,9 % pour quitter l'Union européenne.
+651	Garde royal
+652	(Il ne bouge pas. Même pour le Brexit.)
+653	Rédacteur en chef
+654	Demain, on titre sur les concombres trop droits. Ça a marché pendant vingt ans.
+655	Boris Johnson
+656	Dans les années 1990, j'étais correspondant à Bruxelles pour le Daily Telegraph. J'ai écrit des choses… imaginatives. Get Brexit done !
+657	Nigel Farage
+658	Bienvenue au pub ! Une pinte ? Moi, j'ai passé vingt ans au Parlement européen à expliquer qu'il ne fallait pas y être.
+659	Le 28 juin 2016, j'ai lancé aux eurodéputés : « Vous ne riez plus maintenant, hein ? ». Ils n'ont pas ri. Toi non plus, tu ne vas pas rire.
+660	Bon. Vous avez gagné. Prenez ce Badge Article 50. Nous, on l'a déjà utilisé.
+661	Vous êtes encore là ? On a quitté, vous savez.
+662	Je dois rentrer. Je n'ai plus le droit d'être stagiaire au Parlement. Mais avant… un dernier débat. Pour l'honneur.
+663	Merci, {P}. Garde un œil sur la directive pour moi. Et sur l'heure d'été. Chez nous, on ne la changera jamais, bien sûr.
+664	Goodbye. Ou plutôt… see you later. Qui sait ?
+665	Oliver est parti. Le train de Londres n'apparaîtra plus au guichet. La prochaine étape : Budapest, sur le Danube.
+666	Országház, le Parlement hongrois, sur les rives du Danube. Le plus grand bâtiment de Hongrie. Et le plus grand veto.
+667	Jeune Hongroise
+668	On dit que l'opposition gagne du terrain. Un certain Péter Magyar fait campagne dans tout le pays.
+669	Péter Magyar
+670	Les Hongrois ont voté le 12 avril 2026. Mon parti, Tisza, a obtenu la majorité des deux tiers. Une nouvelle page s'ouvre !
+671	Gábor
+672	Nous avons construit une clôture. Elle sert surtout à faire des photos.
+673	Conseiller spécial
+674	Le Premier ministre va sortir prendre un café. C'est une technique de négociation.
+675	Viktor Orbán
+676	Vous venez chercher un accord ? Ici, il faut l'unanimité. Et je ne suis jamais d'accord.
+677	En 2024, j'ai présidé le Conseil de l'Union avec le slogan « Make Europe Great Again ». Ça ne vous rappelle rien ?
+678	Dans mon arène, je peux poser mon VETO à chaque tour. Et parfois… je sors prendre un café. Comme en décembre 2023, pendant le vote sur l'Ukraine.
+679	…Bon. Je m'abstiens. Prenez ce Badge Veto. Officiellement, je n'étais pas dans la salle.
+680	Quelques mois plus tard, le 12 avril 2026, les Hongrois votent. Le parti Tisza de Péter Magyar l'emporte avec une majorité des deux tiers.
+681	Orbán a reconnu sa défaite : « douloureux, mais clair ». Merci, stagiaire. Retournez à Bruxelles : il paraît que la DG Concurrence a un problème… de lobby.
+682	Je suis parti prendre un café. Revenez plus tard. Beaucoup plus tard.
+683	Barman
+684	Place Lux, le jeudi soir, tout Bruxelles vient boire un verre. Les députés, les assistants… et les lobbyistes. Surtout les lobbyistes.
+685	Le sous-sol ? Réservé aux membres. Vous êtes inscrit au registre de transparence ? Non ? Moi non plus. Entrez donc.
+686	Circulez, stagiaire. Ici, on cause affaires entre grandes personnes.
+687	Lobbyiste du pétrole
+688	La transition énergétique ? Nous la soutenons. À partir de 2080.
+689	Lobbyiste de la tech
+690	Nous respectons le RGPD. Nous avons même un bandeau cookies de 47 pages.
+691	Les valises ? Ce sont des valises de documentation. Très documentées.
+692	Eva Kaili
+693	En décembre 2022, la police belge a trouvé des sacs de billets dans plusieurs appartements à Bruxelles. On a appelé ça le « Qatargate ».
+694	J'étais vice-présidente du Parlement. J'ai toujours contesté les accusations. À la date de ce jeu, aucun jugement définitif n'a été rendu dans cette affaire.
+695	Note : toute personne mise en cause est présumée innocente tant qu'elle n'a pas été jugée.
+696	Le Lobbyiste en chef
+697	Tiens, tiens. Le stagiaire. Tu sais combien nous sommes à Bruxelles ? 25 000. Et toi, tu es un.
+698	Ta directive sur l'heure d'été ? J'ai des clients qui vendent des horloges. Elle restera bloquée. À moins que…
+699	Bien joué. Je déclare officiellement ma défaite au registre de transparence. Et je file dans le privé. Ah, j'y suis déjà.
+700	La Team Lobby se disperse. Les enquêtes de la DG Concurrence peuvent reprendre !
+701	Avocat de Big Tech
+702	Nous allons faire appel. Puis appel de l'appel.
+703	Juriste concurrence
+704	Abus de position dominante… Le mot « abus » est fort.
+705	Margrethe Vestager
+706	Merci de nous avoir débarrassés de la Team Lobby. Mes dossiers avancent enfin !
+707	Google : 2,4 milliards d'euros d'amende en 2017, 4,3 milliards en 2018. Apple : 13 milliards d'aides fiscales à rembourser, confirmé par la Cour en 2024.
+708	Votre équipe respecte-t-elle les règles de concurrence ? Je vais vérifier. Personnellement.
+709	Aucune infraction constatée. Le Badge Amende est à vous. Et prenez ceci aussi : le badge de l'OLAF, l'Office antifraude.
+710	On signale des… présences étranges dans une aile du Parlement. Des assistants que personne ne voit jamais. Avec ce badge, vous les verrez.
+711	Pas d'amende pour vous aujourd'hui. Profitez-en.
+712	Un couloir froid… On entend des claviers taper tout seuls. Mais il n'y a personne. Il faudrait un moyen de voir l'invisible.
+713	Mieux vaut redescendre pour l'instant.
+714	Assistant fantôme
+715	Mon bureau ? Je ne l'ai jamais trouvé…
+716	J'étais payé pour assister… un parti. Pas un député.
+717	Hou… Le changement d'heure me fait apparaître deux fois par an…
+718	Mon contrat dit « assistant local ». Local de quoi ? Mystère.
+719	Je disparais… enfin…
+720	Merci… de m'avoir libéré de ce contrat…
+721	Marine Le Pen
+722	L'affaire des assistants parlementaires du FN : le système rémunérait des employés du parti avec l'argent du Parlement européen.
+723	J'ai été condamnée en première instance le 31 mars 2025, puis en appel le 7 juillet 2026 : trois ans dont un ferme sous bracelet et quinze mois d'inéligibilité.
+724	Avec cette peine en appel, sa candidature à la présidentielle de 2027 redevient théoriquement possible. Un dernier recours en cassation reste envisageable.
+725	François Bayrou
+726	L'affaire des assistants du MoDem, c'est autre chose. En février 2024, j'ai été relaxé « au bénéfice du doute ». Le parquet a fait appel.
+727	Ensuite, j'ai été Premier ministre… de décembre 2024 à septembre 2025. Le temps passe vite à Matignon.
+728	Les assistants fantômes ne font pas de politique : ils hantent tous les partis qui les ont mal employés.
+729	Le Contrat Vide
+730	JE SUIS… L'ESPRIT DE TOUS LES CONTRATS SANS BUREAU… DE TOUS LES PARTIS… DE TOUTES LES LÉGISLATURES…
+731	Le Contrat Vide se dissipe dans un nuage de fiches de paie. L'aile fantôme est enfin calme.
+732	Un message de Roberta Metsola arrive : « Merci ! Le dernier badge vous attend à Paris, à la Sorbonne. »
+733	La Sorbonne. Ici, Emmanuel Macron a prononcé deux grands discours sur l'Europe, en 2017 et en 2024. Le second a duré presque deux heures.
+734	J'ai demandé mon chemin en anglais. On m'a répondu en français. Avec un sourire. Très léger.
+735	Énarque
+736	J'ai rédigé une note de synthèse sur ma défaite. Elle fait 80 pages.
+737	Ministre délégué
+738	Je viens d'être remanié pendant le combat. C'est un record.
+739	Emmanuel Macron
+740	Bienvenue à la Sorbonne ! Ici, j'ai parlé d'Europe souveraine en 2017. Puis d'une Europe qui « peut mourir », en 2024.
+741	En 2019, j'ai dit que l'OTAN était en état de « mort cérébrale ». En 2024, j'ai dissous l'Assemblée nationale. J'aime les décisions… surprenantes.
+742	Alors débattons, et en même temps, réfléchissons. Autonomie stratégique !
+743	Magnifique ! Vous avez l'étoffe d'une grande Européenne… ou d'un grand Européen. Et en même temps des deux. Le Badge Sorbonne est à vous.
+744	Avec huit badges, le Conseil européen vous attend au bâtiment Europa, à Bruxelles. Bonne chance : leurs sommets finissent rarement avant 5 h du matin.
+745	Je vous parlerais bien d'Europe pendant deux heures, mais vous avez un Conseil à convaincre.
+746	Prologue — 9 mai 1950
+747	9 mai 1950
+748	Paris, Quai d'Orsay, 18 heures
+749	Robert Schuman
+750	Messieurs, merci d'être venus. Je serai bref. Enfin… je vais essayer.
+751	(tout bas) Il dit ça à chaque fois.
+752	(tout bas) Robert. La phrase sur le charbon. N'oubliez pas la phrase sur le charbon.
+753	« Le gouvernement français propose de placer l'ensemble de la production franco-allemande de charbon et d'acier sous une Haute Autorité commune. »
+754	Le charbon ? L'acier ? On a raté l'apéritif pour ça ?
+755	Cinq ans après la guerre, l'idée est simple et folle : mettre en commun ce qui sert à fabriquer les canons.
+756	Pour que la guerre devienne « non seulement impensable, mais matériellement impossible ».
+757	Six pays en 1951. Puis neuf, douze, quinze, vingt-cinq… Vingt-sept aujourd'hui.
+758	Et chaque matin, quelque part à Bruxelles, un stagiaire se réveille en retard.
+759	Chapitre 1
+760	Lundi. Ton réveil indique 6 h 58. Ton téléphone, 7 h 58. L'un des deux n'a pas été prévenu du changement d'heure.
+761	{P}
+762	PREMIER JOUR DE STAGE !
+763	Rue de la Loi. Un croissant, trois dossiers, zéro dignité.
+764	Cycliste
+765	Piste cyclable ! Même les stagiaires respectent le règlement 2019/1242 ! Enfin, je crois qu'il existe.
+766	{P} ! Premier jour, et déjà une heure de retard. Moi, je suis là depuis 6 h 58. Heure de Londres, bien sûr.
+767	Le professeur Schuman nous attend dans le hall du Parlement. Je lui ai dit que tu étais malade. Tu me remercieras plus tard.
+768	Chapitre 2 — Luxembourg
+769	Chapitre 2
+770	Le pont Adolphe enjambe la vallée de la Pétrusse. En bas, des jardins. En haut, des banques. Au milieu, ton train.
+771	Ah, le petit Anglais ! Viens là que je t'embrasse !
+772	Sir, je… we don't do that. En Angleterre, on se serre la main. De loin. Avec des gants.
+773	Ici, c'est le Luxembourg. On fait la bise, on tapote la joue, et on parle quatre langues dans la même phrase. Moien, bonjour, guten Tag, hello !
+774	Help.
+775	Mon Arène dorée est au Kirchberg, stagiaire. Viens quand tu veux. Je tapote les joues gratuitement. C'est le seul service gratuit du quartier.
+776	Schengen, trois frontières
+777	Schengen. Ici, la France, l'Allemagne et le Luxembourg se touchent du bout des vignes.
+778	Le 14 juin 1985, cinq pays ont signé ici, sur un bateau, l'accord qui supprime les contrôles aux frontières. Sur une rivière qui EST une frontière. On aime l'ironie, sur la Moselle.
+779	Douanier
+780	Trente ans que je tamponne des passeports. Et maintenant ? Les papillons passent sans visa.
+781	Je vais me reconvertir. Tamponneur de cartes postales. C'est un marché d'avenir.
+782	Chapitre 3 — Francfort
+783	Chapitre 3
+784	Francfort-sur-le-Main
+785	Francfort, la nuit. Deux tours de verre, un symbole de l'euro grand comme un bus. La Banque centrale européenne ne dort jamais. Elle surveille l'inflation.
+786	Vous voyez ce levier ? Le taux directeur. Je le monte, les prix se calment. Je le baisse, l'économie respire.
+787	Je le touche par erreur avec mon coude, et trois gouvernements tombent. Donc je ne m'appuie jamais sur le bureau.
+788	IT'S RAINING EUROS ! C'est ça, l'assouplissement quantitatif ?!
+789	Non, monsieur. C'est la climatisation qui a soufflé les billets de l'exposition. Rendez-les. Tous. Je compte.
+790	Chapitre 4 — Strasbourg
+791	Chapitre 4
+792	Une fois par mois, le Parlement déménage de Bruxelles à Strasbourg. Avec ses députés, ses assistants… et des milliers de malles.
+793	Eurodéputé
+794	Ma malle a fait plus de sessions plénières que moi. Elle a même un siège en commission des transports.
+795	La séance est ouverte ! …Où sont les députés ?
+796	Madame la Présidente, ils cherchent encore leurs malles sur le quai.
+797	Alors on vote à main levée. Les malles ont-elles le droit de vote ? Non ? Dommage, elles sont à l'heure, elles.
+798	Chapitre 5 — Athènes
+799	Chapitre 5
+800	L'Acropole au coucher du soleil. Deux mille cinq cents ans de démocratie, de philosophie… et de réunions qui finissent tard.
+801	Monsieur Varoufakis, votre plan n'est pas conforme à nos tableurs.
+802	Vos tableurs ne sont pas conformes à la réalité. Je vous propose un débat. À moto, si vous suivez.
+803	Nous ne faisons pas de moto. Nous faisons des recommandations.
+804	Alors recommandez-vous de vous pousser. J'ai une arène qui m'attend.
+805	Chapitre 6 — Londres
+806	Chapitre 6
+807	Londres, sous la pluie. Comme d'habitude. Mais cette fois, quelque chose de plus lourd flotte dans l'air.
+808	Une pinte pour tout le monde ! Et un bus pour la campagne ! Peu importe ce qu'on écrit dessus, les gens liront le bus, pas les notes de bas de page.
+809	Pas de panique ! Je suis coincé sur une tyrolienne, mais c'est une stratégie. Get Brexit done ! Et quelqu'un, une échelle, s'il vous plaît.
+810	Le référendum
+811	23 juin 2016. 51,9 % des votants choisissent de quitter l'Union européenne.
+812	Le 31 janvier 2020 à minuit, heure de Bruxelles — 23 heures à Londres —, le Royaume-Uni n'est plus membre de l'Union.
+813	Tu sais ce qui est bizarre ? Je ne voulais pas être ici, au début. Je voulais juste gagner.
+814	Et maintenant, je dois partir, et je n'en ai plus envie. Ironic, isn't it ?
+815	Tu reviendras. Il y a Erasmus, les échanges, les visas étudiants…
+816	Erasmus ? On en est sortis aussi. Mais je trouverai un moyen. Les Anglais trouvent toujours un moyen de revenir en Europe. On appelle ça les vacances.
+817	Chapitre 7 — Budapest
+818	Chapitre 7
+819	Le Parlement hongrois, doré sur le Danube. Le plus grand bâtiment du pays. Et la plus grande collection de tampons « VETO » d'Europe.
+820	Budget européen ? Veto. Aide à l'Ukraine ? Veto. Nouvelle couleur des badges du Conseil ? Veto. Par principe.
+821	Monsieur le Premier ministre, c'était la commande de votre déjeuner.
+822	…Veto quand même. Je n'aime pas qu'on décide pour moi.
+823	12 avril 2026
+824	Hongrois ! Ce soir, nous n'avons pas gagné contre l'Europe, ni contre nos voisins. Nous avons gagné pour nous-mêmes !
+825	Foule
+826	TISZA ! TISZA ! TISZA !
+827	Je ne boude pas. Je réfléchis. De dos. Avec un nuage au-dessus de la tête. C'est très différent.
+828	Décembre 2022 — l'aube
+829	Bruxelles, décembre 2022. À l'aube, la police belge mène des perquisitions autour de la place Lux.
+830	Policier
+831	Chef, il y a des sacs. Avec des billets dedans. Beaucoup de billets.
+832	Chef de la police
+833	Comptez-les. Et ne touchez pas au ballon de foot, c'est peut-être une pièce à conviction.
+834	Des responsables du Parlement et des proches sont interpellés. L'enquête porte sur une possible corruption au profit d'États étrangers.
+835	Toutes les personnes mises en cause sont présumées innocentes tant qu'elles n'ont pas été définitivement jugées.
+836	(au loin) Nous, on n'a rien à voir avec ça. Nous, on paie en petits fours. C'est plus discret.
+837	La DG Concurrence
+838	Une amende de plus. Je signe, je souris, je tricote un éléphant. C'est très apaisant.
+839	Madame la commissaire, les géants du numérique demandent un délai.
+840	Accordé. Ils ont jusqu'à… maintenant.
+841	Thierry Breton
+842	Le règlement sur les services numériques s'applique à tout le monde, monsieur Musk. Même aux réseaux qui changent de nom tous les six mois.
+843	Elon Musk
+844	Je réponds par un mème. C'est ma position juridique officielle.
+845	Je réponds par une lettre de quatre pages. C'est la mienne.
+846	Ils tirent chacun d'un côté du téléphone. Le téléphone, lui, affiche « batterie faible ».
+847	La Tour des assistants fantômes
+848	Grâce au badge de l'OLAF, l'invisible devient visible. Des assistants translucides flottent dans le couloir, une fiche de paie à la main.
+849	Bonjour… Je travaille ici depuis 2009… Enfin, mon contrat travaille ici… Moi, je ne suis jamais venu…
+850	Mes employeurs sont tout là-haut. Ils disent qu'ils ne me connaissent pas. C'est vexant, pour un fantôme.
+851	(derrière la porte) Je ne suis pas là. Et si j'y suis, c'est au bénéfice du doute.
+852	Chapitre 9 — Paris
+853	Chapitre 9
+854	Paris à l'heure dorée. La tour Eiffel, la Seine, et quelque part, un discours qui commence et ne finit pas.
+855	L'Europe doit être souveraine ! Puissante ! Humaniste ! Et j'ajouterais même, si vous me le permettez, et je vais me le permettre…
+856	Étudiant
+857	Ça fait combien de temps qu'il parle ?
+858	Étudiante
+859	Une heure quarante. Il vient de finir l'introduction.
+860	Je suis pour la rigueur ET pour l'investissement. Pour l'ouverture ET pour la protection. Je suis d'accord avec vous ET avec votre adversaire.
+861	Ça s'appelle comment, ça ?
+862	Le « en même temps ». C'est breveté. Enfin, en même temps, c'est libre de droits.
+863	Avril 2021 — Ankara
+864	Avril 2021, Ankara. Trois dirigeants entrent dans la pièce. Il y a deux fauteuils.
+865	Ehm.
+866	(déjà assis) Oh. Oh non. Je viens de comprendre.
+867	Non, non, ne vous dérangez pas. Je vais très bien sur ce canapé. Il est long. Il est beige. Il est loin.
+868	L'incident fera le tour du monde sous le nom de « Sofagate ». Depuis, Charles Michel vérifie le nombre de chaises avant d'entrer quelque part.
+869	Chapitre 10 — Le Conseil européen
+870	Chapitre 10
+871	La nuit du Conseil européen
+872	Le bâtiment Europa. Dans sa lanterne de verre, les chefs d'État et de gouvernement se réunissent. Les sommets commencent à 15 h. Ils finissent… plus tard.
+873	Chers collègues, il est 4 h 12. Il nous reste une virgule à régler dans le paragraphe 37.
+874	J'ai connu des sommets où on a négocié une virgule jusqu'au petit-déjeuner. C'était une très belle virgule.
+875	Je propose une virgule. Quoi qu'il en coûte.
+876	Je propose qu'on commande d'autres pizzas avant que quelqu'un propose un point-virgule.
+877	ACCORD ! Il est 5 h 03. Les conclusions sont adoptées. Quelqu'un peut réveiller le Premier ministre qui dort sous la table ?
+878	Le 13ᵉ étage
+879	Le Berlaymont au coucher du soleil. Treize étages. Au dernier, la présidente de la Commission attend.
+880	Charles, vous pouvez arrêter de bouder ? Ça fait cinq ans.
+881	Je ne boude pas. Je regarde le mur. Il est très intéressant, ce mur. Il n'a pas de fauteuil.
+882	{P}. Vous voilà enfin.
+883	Vous voulez la directive ? Battez-moi. Team Europe, à la fin, il n'en restera qu'un.
+884	Le mur des stagiaires
+885	Au 13ᵉ étage, un long couloir porte les photos de tous les stagiaires de la Commission. Personne ne les regarde jamais.
+886	Aujourd'hui, un nouveau cadre doré vient d'être accroché. Et pour une fois, quelqu'un s'arrête pour le regarder.
+887	Chapitre 11 — Les Grandes Puissances
+888	Chapitre 11
+889	Les Grandes Puissances
+890	Port d'Anvers. Un avion présidentiel atterrit. Les mouettes, prudentes, s'envolent vers les Pays-Bas.
+891	Présentatrice télé
+892	Édition spéciale ! Washington, Moscou et Pékin envoient en même temps des messages à l'Europe. Les marchés hésitent entre la panique et la sieste.
+893	Client du café
+894	Encore ? Je n'ai même pas fini mon gaufre.
+895	Serveur
+896	Une gaufre, monsieur. C'est féminin. Comme la Commission.
+897	Au même moment, au Pirée, un porte-conteneurs grand comme une ville accoste. Personne ne sait exactement ce qu'il contient. Ni ce qu'il achète.
+898	Anvers — le green
+899	Regardez-moi ce green. Entre deux conteneurs. Le plus beau green de l'histoire des ports.
+900	Monsieur le Président, le sac de golf est très lourd. Est-ce qu'on peut le taxer ?
+901	Magnifique coup, papa ! Euh… Monsieur le Président !
+902	Chaque balle qui sort des États-Unis paie des droits de douane. Celle-là aussi. Surtout celle-là. Elle est tombée dans l'Escaut ? TRÈS INJUSTE.
+903	Varsovie — la neige
+904	Le palais au bout de la plaine ? C'est là qu'il vous attend. Prenez une écharpe. Et un mégaphone, pour la table.
+905	Il va vous dire que l'Europe a froid sans lui. Montrez-lui que l'Europe a appris à se réchauffer toute seule.
+906	La table
+907	Une table blanche. Très blanche. Très longue. Tellement longue qu'elle a son propre fuseau horaire.
+908	(très fort) BONJOUR !
+909	Trois secondes plus tard, l'écho revient de l'autre bout de la salle.
+910	Je vous entends très bien. C'est vous qui êtes trop près.
+911	Le Pirée
+912	Un cadeau. Un panda en peluche. Il symbolise l'amitié entre nos peuples.
+913	Il est très mignon. Merci. …Pourquoi le port vient-il de changer de drapeau ?
+914	Partenariat stratégique. Vous gardez le panda. Nous gardons le port. Tout le monde est content.
+915	Docker grec
+916	Moi, j'aurais préféré le panda en vrai. Il mange du bambou, au moins il ne rachète rien.
+917	Le Sommet G-Tout
+918	Le Sommet G-Tout. Trois grandes puissances. Une seule table. Et une Europe qu'on avait mise sur le strapontin.
+919	L'Europe doit choisir : moi.
+920	L'Europe doit choisir : moi. Ou le froid.
+921	L'Europe peut choisir. Nous avons déjà acheté les deux options.
+922	L'Europe se lève
+923	L'Europe ne choisit pas un maître. Elle choisit de rester ensemble. Vingt-sept pays, vingt-quatre langues, une seule table. La nôtre.
+924	Je pars. C'est MOI qui ai décidé de partir. Personne ne m'a battu.
+925	Je pars aussi. La porte était trop près de moi, de toute façon.
+926	Nous partons. Mais nous restons partenaires. Et concurrents. Et rivaux. Bonne soirée.
+927	Trois portes claquent. Trois grandes puissances boudent. Et dans la salle, des stagiaires applaudissent.
+928	Épilogue
+929	Bruxelles, le soir de la fin du stage
+930	Grand-Place de Bruxelles. Des feux d'artifice bleus et or dessinent douze étoiles au-dessus de l'hôtel de ville.
+931	{P}, au nom de toutes les institutions, voici ton attestation de fin de stage. Elle est signée, contresignée et traduite en vingt-quatre langues.
+932	La version maltaise a une coquille. C'est la tradition.
+933	{P} ! WAIT ! Ne commencez pas sans moi !
+934	Oliver ?! Mais… comment ?
+935	Visa jeune professionnel, assurance, deux formulaires, trois tampons. Un vrai Euromon de paperasse. Je suis de retour. Comme touriste. Mais de retour !
+936	Photo de groupe ! Tout le monde serré ! Je tapote les joues après.
+937	Je suis sur la photo seulement si on ne dit à personne que j'étais sur la photo.
+938	(hors champ) Veto à la photo.
+939	Il n'a plus le droit de veto. Souriez !
+940	« Nous ne coalisons pas des États, nous unissons des hommes. » Et des femmes, et des stagiaires.
+941	Des réalisations concrètes. Une solidarité de fait. Bravo, petit. Et maintenant… va dormir. Demain, il y a une réunion de coordination sur les réunions.
+942	Rome, 25 mars 1957
+943	Place du Capitole. Le 25 mars 1957, six pays ont signé ici les traités de Rome. La pierre s'en souvient. Elle se met à briller.
+944	Maastricht, 7 février 1992
+945	La Meuse, la nuit. Ici est née l'Union européenne, et l'idée d'une monnaie unique. Des pièces lumineuses remontent à la surface de l'eau.
+946	Lisbonne, 13 décembre 2007
+947	L'aube sur le Tage. Devant le monastère des Hiéronymites, des pages de traité se mettent à flotter, puis à voler.
+948	Bienvenue à la cantine ! Un café, un sandwich, et vos Euromons repartent comme en 40… euh, comme en 57.
+949	Je m'occupe de votre équipe ?
+950	Et voilà ! Tout le monde est en pleine forme. Le café, lui, est toujours tiède.
+951	Comme vous voulez. Mais ne venez pas pleurer au prochain débat !
+952	Bonjour ! Gare européenne, guichet unique. Votre Pass Interrail, s'il vous plaît… Parfait. Où allons-nous ?
+953	Désolé, les trains internationaux sont réservés aux détenteurs du Pass Interrail. Il paraît qu'on le gagne à Strasbourg.
+954	Je mange ici depuis 1993. Le menu n'a changé qu'une fois : à l'arrivée de l'euro.
+955	Banquier
+956	Ici, même le café est domicilié fiscalement ailleurs.
+957	Économiste
+958	Le prix du sandwich a pris 12 % depuis 2021. Mon modèle prévoyait 2 %. Mon modèle a faim.
+959	Assistant parlementaire
+960	Quatre jours par mois ici, le reste à Bruxelles. Mes plantes vertes ne me reconnaissent plus.
+961	Serveuse
+962	Un café frappé ? C'est la seule chose que la Troïka n'a jamais réussi à réformer.
+963	Gentleman
+964	Avant, on se plaignait de Bruxelles. Maintenant, on se plaint de ne plus pouvoir se plaindre de Bruxelles.
+965	Ici on mange du goulash. Et on débat, discrètement.
+966	Philosophe
+967	Je pense, donc je déjeune. Et je déjeune longtemps : c'est Paris.
+968	Cliente
+969	Je cherche un chargeur… Ah non, c'est vrai, c'est USB-C partout maintenant. Quel bonheur.
+970	Les prix sont hors taxes. Évidemment.
+971	Client
+972	Je paie tout en espèces. Les Allemands adorent les espèces.
+973	Je viens acheter des Tampons. Ma cheffe veut tamponner l'Euromon du changement d'heure.
+974	Tout est à moitié prix ! Ah non, c'est la TVA qui a doublé.
+975	Le prix est en livres, en euros, ou en promesses électorales ?
+976	Le vendeur m'a demandé mon avis sur le gouvernement. J'ai dit : « veto ».
+977	Une baguette, un Tampon, et une manifestation, s'il vous plaît.
+978	Voyageuse
+979	Mon train pour Strasbourg a quatre heures de retard. Le Parlement aussi, d'ailleurs.
+980	{P} ! Surprise ! J'ai pris l'Eurostar. Avec un passeport, un formulaire et deux heures de queue. Je viens demander… à revenir. Rejoin ?
+981	Mais d'abord, un débat. Comme au bon vieux temps !
+982	Quel stage ! Bon, il paraît que pour réadhérer il faut négocier 35 chapitres. Je commence demain. Cheers, {P} !
+983	Chapitre 1 sur 35 : « libre circulation des marchandises ». Ça avance !
+984	Voyageur
+985	Au Luxembourg, les transports en commun sont gratuits depuis 2020. Même pour les stagiaires !
+986	Je fais la navette Francfort–Bruxelles. Je connais chaque vache de la ligne par son prénom.
+987	Ces malles en fer sont toutes à des eurodéputés. Elles voyagent plus que moi.
+988	Le train pour le Pirée ? Fermé. Il paraît que quelqu'un a racheté le port.
+989	L'Eurostar demande maintenant un passeport. On a repris le contrôle. Des files d'attente.
+990	Le Danube traverse dix pays. Moi, j'essaie juste d'en traverser un sans contrôle.
+991	Grève à la SNCF. Ah non, c'est juste mardi.
+992	Docker
+993	Anvers, deuxième port d'Europe. On voit passer de tout. Même des droits de douane.
+994	Il fait si froid sans gaz que les pingouins demandent l'asile.
+995	Tous les chemins mènent à Rome. Les trains aussi, avec du retard.
+996	C'est ici qu'on a signé le traité en 1992. Il y avait du soleil. C'était bien la seule fois.
+997	Lisbonne, 2007 : on a signé un traité qui ressemblait beaucoup à une Constitution. Chut.
+998	Aujourd'hui, c'est le 9 mai : la Fête de l'Europe ! Des drapeaux flottent partout dans le quartier européen.
+999	Un Euromon rare, attiré par les festivités, surgit d'une pile de dossiers !
+1000	Bonne Fête de l'Europe ! Rendez-vous l'année prochaine.
+1001	Techno
+1002	Fédéral
+1003	Souverain
+1004	Libéral
+1005	Social
+1006	Vert
+1007	Industrie
+1008	Énergie
+1009	Juridique
+1010	Monétaire
+1011	Agricole
+1012	Numérique
+1013	Diplo
+1014	Lobby
+1015	Populiste
+1016	Fantôme
+1017	Amendement
+1018	Modifie le texte adverse, un alinéa à la fois.
+1019	Paperasse
+1020	Ensevelit la cible sous les formulaires.
+1021	Note de service
+1022	Une note interne, très ferme.
+1023	Réunion
+1024	Une réunion de coordination qui endort tout le monde.
+1025	Tampon sec
+1026	Un coup de tampon net et officiel.
+1027	Comitologie
+1028	Personne ne comprend la procédure. Pas même la cible.
+1029	Relecture
+1030	Relit son dossier. Augmente beaucoup la Résilience.
+1031	Directive
+1032	Un texte contraignant à transposer d'urgence.
+1033	Règlement
+1034	Directement applicable dans tous les États membres.
+1035	Trilogue
+1036	Parlement, Conseil, Commission : frappe 2 à 5 fois.
+1037	Urgence
+1038	Procédure d'urgence : agit en premier.
+1039	Pause café
+1040	Un café à la cantine. Restaure la moitié des PV.
+1041	Plagiat
+1042	Recopie la dernière attaque de l'adversaire.
+1043	Rapport annuel
+1044	Charge un tour, puis assomme avec 400 pages.
+1045	Intégration
+1046	Un petit pas vers une union sans cesse plus étroite.
+1047	Subsidiarité
+1048	Agit au bon niveau. Augmente la Diplomatie.
+1049	États-Unis UE
+1050	Le grand rêve fédéral, lancé à pleine puissance.
+1051	Team Europe
+1052	Tous ensemble ! Une charge solidaire.
+1053	Marché unique
+1054	Abolit les frontières… et la Diplomatie adverse.
+1055	Douze étoiles
+1056	Douze étoiles dorées qui ne ratent jamais.
+1057	Tête de liste
+1058	Une campagne de Spitzenkandidat. Critiques fréquents.
+1059	Élargissement
+1060	Accueille de nouveaux membres. Argumentation +2.
+1061	Bloque toute attaque ce tour-ci. L'unanimité, c'est sacré.
+1062	Frontière
+1063	Rétablit un contrôle. Peut baisser la Réactivité.
+1064	Opt-out
+1065	S'exempte des règles communes. Résilience +2.
+1066	Référendum
+1067	Une question simple, des conséquences compliquées.
+1068	Article 7
+1069	Suspend des droits. Argumentation adverse -2.
+1070	Quitte le combat… si les négociations aboutissent.
+1071	Rabais
+1072	« I want my money back ! » Récupère des PV.
+1073	Souveraineté
+1074	Reprend le contrôle avec fracas.
+1075	Concurrence
+1076	Libre et non faussée, mais ça fait mal.
+1077	Libre-échange
+1078	Un accord commercial à droits nuls.
+1079	Dérégulation
+1080	Supprime les protections. Résilience adverse -2.
+1081	Start-up
+1082	Disruptive et rapide. Agit en premier.
+1083	Main invisible
+1084	On ne la voit pas venir. Ne rate jamais.
+1085	En même temps
+1086	De droite et de gauche, frappe 2 à 5 fois.
+1087	Ruissellement
+1088	Fait ruisseler des euros sur le terrain.
+1089	Grève
+1090	Tout s'arrête. Gèle les fonds de la cible.
+1091	Pilier social
+1092	Un pilier européen des droits sociaux bien solide.
+1093	Salaire minimum
+1094	Directive de 2022 sur des salaires adéquats.
+1095	Manifestation
+1096	Une marée de pancartes. Peut intimider.
+1097	Solidarité
+1098	Mutualise l'effort. Restaure la moitié des PV.
+1099	Le « non » grec de juillet 2015. Contrecoup assuré.
+1100	Erasmus
+1101	Un échange qui ouvre l'esprit. Peut monter l'Expertise.
+1102	Pacte vert
+1103	Le Green Deal de 2019 en pleine figure.
+1104	Reboisement
+1105	Replante. Restaure la moitié des PV.
+1106	Taxe carbone
+1107	Mécanisme d'ajustement aux frontières. Peut baisser l'Expertise.
+1108	Neutralité 2050
+1109	Zéro émission nette, en un seul coup.
+1110	Compost
+1111	Ça sent fort. Peut exposer à l'influence.
+1112	Bouchon attaché
+1113	Directive 2019/904 : le bouchon ne lâche plus la cible.
+1114	Fit for 55
+1115	-55 % d'émissions d'ici 2030, et ça cogne.
+1116	Vélo
+1117	Une piste cyclable express. Agit en premier.
+1118	Charbon
+1119	La CECA de 1951 en boulet. Peut créer un scandale.
+1120	Acier
+1121	Un poing en acier européen.
+1122	Haut-fourneau
+1123	Chaleur extrême. Peut déclencher un scandale.
+1124	Délocalisation
+1125	Part ailleurs. Peut baisser la Réactivité adverse.
+1126	Airbus
+1127	Un champion européen en piqué.
+1128	Chaîne
+1129	Chaîne de montage : frappe 2 à 5 fois.
+1130	Plan industriel
+1131	Relance l'outil productif. Argumentation +2.
+1132	Étincelle
+1133	Petit court-circuit. Peut geler les fonds.
+1134	Fission
+1135	Euratom, 1957. L'énergie de l'atome.
+1136	Éolienne
+1137	Des pales qui tournent… et la tête aussi.
+1138	Robinet du gaz
+1139	Coupe l'approvisionnement. Gèle les fonds.
+1140	REPowerEU
+1141	Plan de 2022 pour se sevrer. Expertise +2.
+1142	Surtension
+1143	Une décharge brutale, avec contrecoup.
+1144	Fusion
+1145	Le réacteur ITER à pleine puissance.
+1146	Plafond de prix
+1147	Plafonne l'adversaire. Expertise -2.
+1148	Mise en demeure
+1149	Premier avertissement officiel.
+1150	Infraction
+1151	Une procédure d'infraction bien sentie.
+1152	Arrêt de la CJUE
+1153	Luxembourg a tranché. Pas d'appel possible.
+1154	Une amende milliardaire. Des pièces volent partout.
+1155	Enquête OLAF
+1156	L'office antifraude enquête. Peut bloquer la cible.
+1157	RGPD
+1158	Protège les données. Esquive adverse -2.
+1159	Jurisprudence
+1160	S'appuie sur les précédents. Expertise +2.
+1161	DSA
+1162	Règlement sur les services numériques. Peut baisser l'Expertise.
+1163	Pièce d'euro
+1164	Un lancer de pièce de 2 €. Pile ou face ?
+1165	Taux directeur
+1166	Remonte les taux. Peut ralentir la cible.
+1167	Planche à billets
+1168	Assouplissement quantitatif à volonté.
+1169	Austérité
+1170	Serrez-vous la ceinture. Argumentation adverse -2.
+1171	Whatever it takes
+1172	« Quoi qu'il en coûte » (Draghi, juillet 2012). Réussit toujours.
+1173	Inflation
+1174	Grignote le pouvoir d'achat, tour après tour.
+1175	Spread
+1176	L'écart de taux s'envole. Critiques fréquents.
+1177	Plan de relance
+1178	NextGenerationEU, 750 Md€. Restaure la moitié des PV.
+1179	Tracteur
+1180	Bloque la route. Peut ralentir la cible.
+1181	PAC
+1182	Politique agricole commune : récupère des PV.
+1183	Lisier
+1184	Épandu devant la préfecture. Peut contaminer.
+1185	AOP
+1186	Appellation protégée. Résilience +2.
+1187	Moisson
+1188	Une récolte record, en pleine tête.
+1189	Glyphosate
+1190	Réautorisé dix ans en 2023. Peut empoisonner d'influence.
+1191	Banane courbe
+1192	Règlement de 1994 sur la qualité des bananes. Déroutant.
+1193	Cookie
+1194	Un bandeau impossible à fermer. Gèle la cible.
+1195	Bug
+1196	Erreur 404. Peut désinformer.
+1197	Algorithme
+1198	Une recommandation personnalisée, très personnalisée.
+1199	USB-C
+1200	Le chargeur universel, obligatoire depuis 2024.
+1201	Fake news
+1202	Une rumeur virale. Désinforme la cible.
+1203	Roaming
+1204	Plus de frais d'itinérance ! Agit en premier.
+1205	IA Act
+1206	Premier règlement mondial sur l'IA (2024).
+1207	Trollage
+1208	Un commentaire désagréable. Peut décontenancer.
+1209	Poignée de main
+1210	Ferme et prolongée, devant les photographes.
+1211	Négociations jusqu'à 5 h du matin. Endort la cible.
+1212	Compromis
+1213	Tout le monde perd un peu, vous gagnez des PV.
+1214	Sanctions
+1215	Un nouveau paquet de sanctions. Peut baisser la Diplomatie.
+1216	Canapé
+1217	Sofagate (Ankara, 2021) : la cible perd son tour. 1er tour seulement.
+1218	Interprétariat
+1219	Traduit en 24 langues. Quelque chose se perd.
+1220	Accord
+1221	Un accord historique, signé à l'arraché.
+1222	Soft power
+1223	Le charme européen. Diplomatie +2.
+1224	Petits fours
+1225	Un cocktail place Lux. La cible passe sous influence.
+1226	Valise
+1227	Une valise bien remplie, lancée avec élan.
+1228	Sac de billets
+1229	Des billets partout. Le terrain en est couvert.
+1230	Note de position
+1231	Un amendement clé en main, déjà rédigé.
+1232	Pantouflage
+1233	Passe dans le privé. Réactivité +2.
+1234	Influence
+1235	Un mot glissé à la bonne oreille.
+1236	Porte tournante
+1237	On ne sait plus qui travaille pour qui.
+1238	Slogan
+1239	Trois mots, aucune nuance.
+1240	Bus rouge
+1241	« 350 millions par semaine ! » Peut désinformer.
+1242	Mégaphone
+1243	Crie plus fort que tout le monde.
+1244	Euromythe
+1245	Une légende sur Bruxelles, très convaincante.
+1246	TREMENDOUS
+1247	Le meilleur coup de tous les temps. Argumentation +3.
+1248	Droits de douane
+1249	Liberation Day (2 avril 2025). Peut baisser la Résilience.
+1250	Post majuscules
+1251	UN MESSAGE ÉCRIT ENTIÈREMENT EN MAJUSCULES.
+1252	Not laughing
+1253	« You're not laughing now! » (2016). Peut baisser la Diplomatie.
+1254	Emploi fictif
+1255	Un travail qui n'existe pas, mais qui coûte.
+1256	Disparition
+1257	Introuvable au bureau. Esquive +2.
+1258	SMS effacé
+1259	Aucun message ne subsiste. Annule les bonus adverses.
+1260	Hantise
+1261	Un dossier qui revient hanter son auteur.
+1262	Fiche de paie
+1263	Un salaire versé pour rien. Récupère des PV.
+1264	Ectoplasme
+1265	Une apparition spectaculaire au Parlement.
+1266	Constitution
+1267	Rejetée en 2005… mais d'une puissance folle.
+1268	Traité de Rome
+1269	1957 : la fondation de la CEE.
+1270	1992 : l'Union et la monnaie unique.
+1271	2007 : le traité qui a remplacé la Constitution.
+1272	Terres rares
+1273	Restreint les exportations. Peut geler les fonds.
+1274	Longue table
+1275	Reçoit au bout d'une table de six mètres. Esquive +2.
+1276	Rival systémique
+1277	Partenaire, concurrent, rival. Peut baisser la Diplomatie.
+1278	Groenland
+1279	Tente d'acheter une île entière. Gros dégâts.
+1280	Né avec le Pacte vert de 2019. Une pousse jaillit chaque fois qu'une norme d'émission est votée.
+1281	Objectif climat
+1282	Il s'entraîne pour réduire ses émissions de 55 % d'ici 2030. Il compte chaque calorie.
+1283	Neutralité
+1284	Il vise la neutralité carbone en 2050. D'ici là, il plante un arbre à chaque pas.
+1285	Petit tas de charbon de la CECA de 1951. Il noircit tout ce qu'il touche, avec enthousiasme.
+1286	Sa cheminée crache des étincelles quand il s'énerve. Il rêve de plein emploi.
+1287	Acier commun
+1288	Forgé dans le charbon et l'acier mis en commun. Il est la preuve que la paix se fabrique.
+1289	Atome
+1290	Un petit atome curieux, né du traité Euratom de 1957. Il ne tient pas en place.
+1291	Réacteur
+1292	Ses électrons tournent si vite qu'il éclaire une pièce entière. Sobriété en option.
+1293	Il se divise en deux quand il est contrarié. Les Verts et lui ne s'adressent plus la parole.
+1294	Tampon
+1295	Un tampon vivant qui valide tout ce qu'il croise. Il a déjà tamponné son propre dresseur.
+1296	Parapheur
+1297	Il paraphe chaque page en bas à droite. Il lui faut quatre heures par traité.
+1298	Ratification
+1299	Il ne bouge que lorsque 27 parlements nationaux ont dit oui. Il dort donc beaucoup.
+1300	Il se reproduit par milliers à chaque texte de loi. Le Parlement en reçoit parfois 2000 par rapport.
+1301	Obstruction
+1302	Il dépose tant d'amendements qu'il bloque toute la séance. Une technique bien rodée.
+1303	Bandeau cookie
+1304	Il apparaît devant chaque porte depuis le RGPD de 2018. Le refuser ne suffit jamais.
+1305	Consentement
+1306	Il demande votre accord pour tout, puis pour l'accord lui-même. Il est très poli.
+1307	Chargeur
+1308	Obligatoire sur tous les appareils depuis fin 2024. Il a mis au chômage un tiroir entier de câbles.
+1309	Bouchon
+1310	Il ne quitte plus sa bouteille depuis juillet 2024. Il vous frappe le nez quand vous buvez.
+1311	Paille disparue
+1312	Interdit depuis 2021, on le croyait disparu. Il hante les fast-foods la nuit.
+1313	Banane
+1314	Un règlement de 1994 fixe sa qualité. Il passe sa vie à mesurer sa propre courbure.
+1315	Itinérance
+1316	Il voyage partout sans frais depuis juin 2017. Il appelle sa mère depuis chaque frontière.
+1317	Sans frontières
+1318	Il a visité les 27 pays en un week-end et a tout posté en direct. Sans surcoût.
+1319	Ce petit rongeur part un semestre à l'étranger et revient bilingue. Né en 1987.
+1320	Échange
+1321	Il a habité dans 12 colocations et cuisine des pâtes dans 9 langues.
+1322	Pièce
+1323	Une pièce de 2 € qui roule partout depuis 2002. Elle a 27 faces nationales possibles.
+1324	Monnaie unique
+1325	Vingt pays partagent sa force. Quand l'un tousse, les autres ont la fièvre.
+1326	Libre circulation
+1327	Né sur un bateau sur la Moselle en 1985. Aucune frontière ne le retient.
+1328	Herbicide
+1329	Réautorisé pour dix ans en 2023. Les herbes folles tremblent à son passage.
+1330	Démarcheur
+1331	Il traîne dans les couloirs avec une mallette plus grande que lui. Il ne fait pas de lobbying, il « informe ».
+1332	Influenceur
+1333	Il connaît le numéro de chaque assistant parlementaire. Et leurs allergies.
+1334	Méga-lobby
+1335	Un des 25 000 lobbyistes de Bruxelles, en version géante. Il réécrit les lois en dormant.
+1336	Malle en fer
+1337	Une malle en fer qui fait Bruxelles–Strasbourg douze fois par an. Elle a le mal des transports.
+1338	Déménagement
+1339	Il transporte un parlement entier dans son ventre. Coût du voyage : à ne pas demander.
+1340	Changement d'heure
+1341	Le Parlement a voté sa disparition en 2019. Il revient pourtant deux fois par an.
+1342	Fraude
+1343	Il triche aux contrôles depuis 2015 : propre au banc d'essai, enfumé sur la route.
+1344	Il fait campagne pour la présidence… puis un autre est nommé à sa place.
+1345	Interprète
+1346	Il parle 24 langues et toujours avec deux secondes de retard.
+1347	Trois têtes : Parlement, Conseil, Commission. Elles se mettent d'accord vers 4 h du matin.
+1348	Personne ne sait exactement ce qu'il fait. Il siège pourtant dans 300 comités.
+1349	Formulaire
+1350	Une pile de formulaires en triple exemplaire. Il manque toujours une page.
+1351	Archives
+1352	Il garde tout, même les post-it de 1958. Classement : alphabétique et émotionnel.
+1353	Petit fermier
+1354	Il touche une aide de la PAC pour chaque hectare. Il compte ses hectares tous les matins.
+1355	Il absorbe un tiers du budget européen sans broncher. Il a toujours faim.
+1356	Politique agricole
+1357	Quand il bloque l'autoroute avec ses tracteurs, même le Conseil négocie.
+1358	Il se gare devant le Parlement à chaque réforme. Klaxon garanti.
+1359	Fromage
+1360	Un petit fromage au lait cru qui sent très fort. Il est fier de son terroir.
+1361	Protégé par une appellation d'origine. Toute imitation est poursuivie en justice.
+1362	Praline
+1363	Un chocolat belge très gentil. Il fond quand on lui fait un compliment.
+1364	Frite belge
+1365	Cuit deux fois, comme il se doit. Il refuse catégoriquement d'être appelé « French ».
+1366	Pigeon
+1367	Il vit place du Luxembourg et vole les frites des lobbyistes. Il connaît tous les ragots.
+1368	Petit bonhomme
+1369	Une petite statue de 55 cm qui a plus de costumes que tout le Parlement.
+1370	Atomium
+1371	Neuf sphères d'acier reliées en cristal, depuis l'Expo 58. Il brille la nuit sur Bruxelles.
+1372	Stagiaire
+1373	Il travaille beaucoup et n'est pas payé. Il dit que c'est « une expérience formatrice ».
+1374	Agent temporaire
+1375	Son contrat finit dans trois mois. Il le renouvelle depuis six ans.
+1376	Il a réussi le concours EPSO. Il ne craint plus rien, sauf la réforme des retraites.
+1377	Râleur
+1378	Il est contre. Peu importe quoi, il est contre.
+1379	Orateur
+1380	Il monte sur toutes les tables pour haranguer la foule. Même à la cantine.
+1381	Démagogue
+1382	Il promet tout à tout le monde. Ses promesses s'évaporent à l'aube.
+1383	Fausse info
+1384	Il change de forme selon la personne qui le regarde. Il est très partagé.
+1385	Faux compte
+1386	Un petit robot qui commente tout en majuscules. Il n'a jamais dormi.
+1387	Usine à trolls
+1388	Dix mille comptes dans une seule boîte. Les élections le connaissent bien.
+1389	Il apprend de tout ce que vous faites. Il sait déjà ce que vous allez capturer.
+1390	IA régulée
+1391	Le premier règlement mondial sur l'intelligence artificielle (2024) l'a mis en règle.
+1392	Il gonfle un peu chaque mois. Les ménages le surveillent de près.
+1393	Hyperinflation
+1394	Si gros qu'il bouche les rues. La BCE monte les taux pour le faire maigrir.
+1395	Écart de taux
+1396	Il s'étire à chaque déclaration maladroite d'un banquier central.
+1397	Cryptomonnaie
+1398	Il vaut une fortune le matin et rien le soir. Il adore les montagnes russes.
+1399	Crypto régulée
+1400	Le règlement MiCA l'a obligé à porter une cravate. Il est plus calme, maintenant.
+1401	Équilibre budgétaire
+1402	Il ne dépense jamais rien, pas même son énergie. Son cri : « Schwarze Null ! »
+1403	Troïka
+1404	Trois chats : BCE, Commission, FMI. Ils inspectent ensemble les comptes des autres.
+1405	Un crapaud qui croasse « non ! » à chaque proposition. Il suffit de lui pour tout bloquer.
+1406	Unanimité
+1407	Il exige l'unanimité pour chaque décision, puis la refuse lui-même.
+1408	Barrière
+1409	Il réapparaît dès qu'on parle de contrôles aux frontières. Il a sa guérite personnelle.
+1410	Sortie
+1411	Il a voulu partir en 2016, est parti en 2020, et regrette parfois. Il quitte souvent les combats.
+1412	Consultation
+1413	Une urne qui pose des questions simples aux problèmes compliqués.
+1414	Payé par le Parlement, il n'y a jamais mis les pieds. Personne ne l'a jamais vu travailler.
+1415	Il porte un badge, un contrat et une fiche de paie. Mais aucun bureau.
+1416	Retrouvé plein de billets dans un appartement bruxellois en décembre 2022.
+1417	Mallette
+1418	Une petite valise qui passe de main en main au pied du Parlement.
+1419	Pipeline
+1420	Long de 1200 km sous la mer. Son robinet est contrôlé par quelqu'un d'autre.
+1421	Ses pales tournent dès qu'on souffle sur lui. Il déteste les jours sans vent.
+1422	Éolien en mer
+1423	Il vit au large de la mer du Nord et alimente des villes entières.
+1424	Panneau solaire
+1425	Il dort la nuit et travaille dur le jour, surtout en Espagne.
+1426	Il empêche les prix de monter trop haut. Il a mal au cou à force de pousser.
+1427	Droit de douane
+1428	Il taxe tout ce qui passe devant lui. Même les feuilles mortes.
+1429	Guerre commerciale
+1430	Il brandit un tableau de taxes géant. Les chiffres changent chaque matin.
+1431	Un petit caillou dont dépendent tous les téléphones. Ses exportations sont surveillées.
+1432	Panda diplomate
+1433	Prêté pour quelques années à un zoo européen. Il mange du bambou et des accords commerciaux.
+1434	Contenu indisponible
+1435	Cet ourson jaune n'est visible dans aucune région. Sa fiche a été retirée.
+1436	Pigeon juriste
+1437	Il niche sur les tours de la Cour de justice au Kirchberg et roucoule en latin.
+1438	Déclaration
+1439	Il récite la déclaration du 9 mai 1950 à qui veut l'entendre. Il apparaît à la Fête de l'Europe.
+1440	Prix Nobel
+1441	Une médaille remise à l'Union européenne en 2012. Elle brille de fierté.
+1442	Crachin
+1443	Un petit nuage bruxellois. Il pleut sur vous 200 jours par an.
+1444	Déjeuner d'affaires
+1445	Un déjeuner de travail qui dure trois heures. On y décide plus qu'en séance.
+1446	Accord commercial
+1447	Il est en négociation depuis 1999. Quand il avance d'un pas, les tracteurs le repoussent.
+1448	Né le 25 mars 1957 au Capitole. Il a fondé la Communauté économique européenne.
+1449	Traité de Maastricht
+1450	Né aux Pays-Bas en 1992. Il a créé l'Union et rêvé l'euro.
+1451	Traité de Lisbonne
+1452	Signé en 2007, il a repris l'essentiel d'une constitution qui n'a jamais vu le jour.
+1453	Rejeté par référendum en France et aux Pays-Bas en 2005. Il fuit dès qu'on l'approche.
+1454	Il ne connaît qu'une attaque, et elle réussit toujours. Il a sauvé l'euro en une phrase.
+1455	Tampon officiel
+1456	Tamponne un Euromon affaibli pour l'enregistrer.
+1457	Super Tampon
+1458	Encre renforcée. Plus efficace qu'un tampon simple.
+1459	Tampon qualifié
+1460	Majorité qualifiée : très bonne chance de capture.
+1461	Tampon unanime
+1462	L'unanimité ! Capture garantie. Extrêmement rare.
+1463	Café cantine
+1464	Restaure 20 PV. Tiède, mais efficace.
+1465	Sandwich club
+1466	Restaure 50 PV. Le préféré des stagiaires.
+1467	Gaufre de Bruxelles
+1468	Restaure 120 PV. Sucre glace inclus.
+1469	Kniddelen
+1470	Spécialité luxembourgeoise. Restaure 200 PV.
+1471	Menu complet
+1472	Entrée, plat, dessert : restaure tous les PV.
+1473	Avis juridique
+1474	Soigne tous les problèmes de statut.
+1475	Réveil-matin
+1476	Réveille un Euromon endormi par un sommet.
+1477	Motion de relance
+1478	Remet un Euromon K.O. en état de débattre.
+1479	Relance unanime
+1480	Ranime un Euromon K.O. avec tous ses PV.
+1481	Pause syndicale
+1482	Restaure tous les PP d'un Euromon.
+1483	Argumentaire
+1484	En combat : augmente l'Argumentation.
+1485	Gilet pare-balles
+1486	En combat : augmente la Résilience.
+1487	Rapport d'expert
+1488	En combat : augmente l'Expertise.
+1489	Carnet d'adresses
+1490	En combat : augmente la Diplomatie.
+1491	Double expresso
+1492	En combat : augmente la Réactivité.
+1493	Non-sollicitation
+1494	Clause anti-démarchage : éloigne les Euromons 100 pas.
+1495	Fait évoluer certains Euromons. Il faut 27 signatures.
+1496	Fait évoluer certains Euromons énergétiques.
+1497	Clé USB-C
+1498	Fait évoluer certains Euromons numériques.
+1499	Encyclopédie des Euromons, offerte par Jean Monnet.
+1500	Badge d'accès
+1501	Ouvre les portes du Parlement. Couleur : stagiaire.
+1502	Badge OLAF
+1503	Permet de voir les assistants fantômes.
+1504	Passeport européen
+1505	Bordeaux, 32 pages, toutes les frontières s'ouvrent.
+1506	Pass Interrail
+1507	Voyagez en train dans toute l'Europa.
+1508	Kit REPowerEU
+1509	Pour rallumer le chauffage quand le gaz est coupé.
+1510	Cognac
+1511	Une bouteille précieuse. Surtaxée depuis 2024…
+1512	Carte de cantine
+1513	Crédit : 3,40 €. Suffisant pour un café.
+1514	Directive heure
+1515	La directive sur la fin du changement d'heure (2019).
+1516	Une malle du déménagement Bruxelles–Strasbourg.
+1517	Étui à badges
+1518	Contient les badges des traités.
+1519	Hé, le nouveau ! Ici, on règle tout par un débat. Montre-moi ce que tu vaux !
+1520	Argh… J'aurais dû relire mes notes de synthèse.
+1521	Ha ! Retourne à la photocopieuse !
+1522	Rival
+1523	Alors, {P}, on teste nos Euromons ? Mine is obviously better.
+1524	What?! C'était un coup de chance !
+1525	Easy. Comme prévu.
+1526	{P} ! Tu as déjà un badge ? Pas grave, je vais te le faire regretter.
+1527	Not again… Bon, à Francfort, tu verras.
+1528	Ha ! Le Luxembourg me réussit.
+1529	Je viens de visiter la BCE. J'ai tout compris à la politique monétaire. Presque tout.
+1530	Bloody hell… Tu progresses vraiment vite, {P}.
+1531	Comme on dit à la City : time is money.
+1532	{P}… c'est notre dernier débat. Après, je rentre à Londres. Pour de bon. Allez, one last time !
+1533	Good game, {P}. Au moins, je pars avec le panache.
+1534	Je pars sur une victoire. C'est déjà ça.
+1535	{P} ! I'm back. Enfin… je demande à revenir. Rejoin ? Mais d'abord, un débat pour l'honneur !
+1536	Bon. Je remplis le formulaire d'adhésion. Il fait 35 chapitres…
+1537	Ha ! Comme quoi, sortir rend plus fort. Ou pas.
+1538	Moi aussi je suis stagiaire ! Non payée, comme toi. Débattons, ça console.
+1539	Bon… je retourne faire des photocopies.
+1540	Halte ! Votre formulaire de randonnée A-38 est-il visé ?
+1541	Bon, je vous le vise. Mais en triple exemplaire.
+1542	Agriculteur
+1543	La PAC, c'est ma vie ! Et mon tracteur, c'est ma famille. Allez, on débat !
+1544	Faudra que j'en parle au syndicat…
+1545	Banquier privé
+1546	Bienvenue au Luxembourg. Discrétion absolue. Ce débat n'a jamais eu lieu.
+1547	Ce débat n'a définitivement jamais eu lieu.
+1548	Fiscaliste
+1549	Un rescrit fiscal ? Je vous en rédige un en cinq minutes. Mais d'abord, un débat.
+1550	Mes montages… effondrés !
+1551	Champion d'arène
+1552	Ah, un jeune stagiaire ! Viens, viens, que je te tapote la joue. Puis on débat, comme au bon vieux temps de l'Eurogroupe.
+1553	Bravo ! Tu mérites le Badge Rescrit. Et ça, ce n'est pas confidentiel !
+1554	Allez, ne fais pas cette tête, je plaisante… à moitié.
+1555	Je fais la Moselle à vélo ! Et je débats en roaming, gratuitement !
+1556	Même sans frais d'itinérance, j'ai tout perdu.
+1557	Analyste
+1558	Les marchés anticipent ma victoire à 87 %.
+1559	Les marchés se sont trompés. Comme d'habitude.
+1560	Vigneron
+1561	Mon crémant est AOP. Mes Euromons aussi. Ou presque.
+1562	Bon, je vous offre un verre quand même.
+1563	Achète bas, revends haut, débats fort !
+1564	Krach ! Je suis à découvert !
+1565	Selon mon modèle, vous perdez. Mon modèle n'a jamais tort. Sauf en 2008.
+1566	Je vais devoir réviser mes prévisions.
+1567	Championne d'arène
+1568	Bienvenue à la Banque centrale européenne. Ici, je fixe les taux… et le rythme du débat. Mes attaques dépendent du taux directeur du jour !
+1569	Formidable. Vous méritez le Badge Euro. Et rassurez-vous : je ne suis pas là pour réduire votre spread.
+1570	La stabilité des prix, c'est aussi la stabilité des victoires.
+1571	Militante climat
+1572	Chaque débat perdu, c'est un degré de plus ! Allez !
+1573	Bon, au moins c'était neutre en carbone.
+1574	Une exclusivité ! « Un stagiaire perd lamentablement » !
+1575	Je change le titre : « Un stagiaire gagne lamentablement bien ».
+1576	Viticulteur
+1577	Le Rhin, c'est la frontière ? Non, c'est le vin des deux côtés ! On trinque après le débat.
+1578	Santé quand même !
+1579	J'ai déposé 2 000 amendements ce matin. Le premier vous concerne.
+1580	Mes amendements sont rejetés en bloc…
+1581	La session a lieu à Strasbourg, nos malles sont arrivées, débattons !
+1582	Je repars à Bruxelles. Avec mes malles.
+1583	Silence dans l'hémicycle ! La séance est ouverte. Je donne la parole à… vous. Puis je vous la reprends.
+1584	Adopté ! Le Badge Hémicycle vous est attribué à la majorité absolue.
+1585	La séance est levée. Revenez à la prochaine session.
+1586	La dette, c'est comme la moussaka : ça se digère mal.
+1587	OXI à cette défaite !
+1588	Inspection des comptes ! Vos Euromons dépensent trop.
+1589	Rapport d'inspection : défavorable.
+1590	Le Fonds monétaire international recommande… votre défaite.
+1591	Révision de nos prévisions : à la baisse.
+1592	Je suis arrivé à moto, sans cravate. Comme en 2015 face à l'Eurogroupe. On débat, et on vote : OXI ou NAI ?
+1593	OXI… pardon, NAI : tu as gagné. Prends le Badge OXI, camarade.
+1594	Le peuple a parlé. Et le peuple, c'est moi.
+1595	Tabloïd
+1596	UNE : « Bruxelles veut interdire les bananes courbes » ! C'est faux ? Pas grave, ça fait vendre.
+1597	Demain en une : « Défaite historique ».
+1598	Ex-Premier ministre
+1599	Hello ! J'étais correspondant à Bruxelles, vous savez. J'en ai écrit des choses… plus ou moins vraies. Get debate done !
+1600	Crikey. Bon, j'avais un autre article sur les concombres droits, de toute façon.
+1601	Vous ne riez plus maintenant, hein ? Bienvenue au pub. Un débat, une pinte, et l'Article 50.
+1602	Bon. Prenez le Badge Article 50. On n'en a plus besoin, nous.
+1603	Take back control ! Du débat, en tout cas.
+1604	Garde-frontière
+1605	Contrôle ! Votre Euromon a-t-il un visa ?
+1606	Passez. Mais je le note.
+1607	Conseiller
+1608	Le Premier ministre ne reçoit personne. Sauf ceux qui me battent. Et ça n'arrive jamais.
+1609	Ça vient d'arriver.
+1610	Vous voulez mon accord ? L'unanimité est requise. Et je ne suis jamais d'accord. Attention : je peux poser mon VETO à chaque tour.
+1611	Bon… Je sors prendre un café. Pendant ce temps, prenez ce Badge Veto. Officiellement, je me suis abstenu.
+1612	Veto ! Veto ! Et re-veto !
+1613	Team Lobby
+1614	Vous n'avez pas votre badge d'accès ? Ça tombe bien, nous non plus.
+1615	Je vais devoir déclarer cette rencontre au registre de transparence…
+1616	Notre algorithme a prédit votre défaite. Accepter les cookies ?
+1617	Erreur 403 : défaite.
+1618	Une petite valise pour votre vote ? Non ? Alors un débat.
+1619	Je n'ai jamais rien donné à personne. Notez-le.
+1620	Chef de la Team Lobby
+1621	Bienvenue au cœur du pouvoir, stagiaire. Ici, on n'écrit pas les lois : on les « suggère ». Et toi, tu vas signer ma suggestion.
+1622	Impossible… Un simple stagiaire, non rémunéré… a vaincu le lobby. Je me retire. Dans le privé. Ah, j'y suis déjà.
+1623	Merci pour cette contribution à notre consultation publique.
+1624	Avocat
+1625	Mon client conteste l'amende de 4,34 milliards. Et ce débat.
+1626	Nous ferons appel.
+1627	Juriste
+1628	Abus de position dominante ? Moi ? Je ne suis que dominant.
+1629	Amende acceptée…
+1630	Google, Apple… j'ai infligé des milliards d'amendes. Votre équipe respecte-t-elle les règles de concurrence ? Vérifions.
+1631	Pas d'abus de position dominante détecté. Le Badge Amende est à vous.
+1632	Amende ! 4 % de votre chiffre d'affaires.
+1633	Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…
+1634	Je retourne… à mon contrat… fictif…
+1635	Esprit des emplois fictifs
+1636	JE SUIS… LA SOMME DE TOUS LES CONTRATS QUI N'ONT JAMAIS EU DE BUREAU…
+1637	Mes… fiches de paie… s'effacent…
+1638	Haut fonctionnaire
+1639	J'ai fait l'ENA. Enfin, l'INSP. Bref, je sais tout.
+1640	Je vais rédiger une note sur cet échec.
+1641	Ministre
+1642	Je suis ministre depuis… ce matin. Débattons avant le prochain remaniement.
+1643	Remanié !
+1644	Bienvenue à la Sorbonne ! Ici, j'ai parlé d'Europe souveraine en 2017… et en 2024. Je vais vous parler pendant deux heures. Et en même temps, débattre.
+1645	Formidable ! Vous incarnez l'autonomie stratégique. Prenez le Badge Sorbonne… et en même temps, mes félicitations.
+1646	Je dissous… votre équipe !
+1647	Conseil européen
+1648	Wir schaffen das. Ensemble, on y arrivera. Mais d'abord, vous devez me battre. Prenez votre temps : j'ai seize ans d'expérience.
+1649	Vous avez réussi. Wir haben es geschafft.
+1650	Je ferai tout ce qu'il faut pour gagner ce débat. Whatever it takes. Et croyez-moi : ce sera suffisant.
+1651	Mon rapport recommandait 800 milliards d'investissements par an. Investissez-les dans votre équipe.
+1652	Haute représentante pour les affaires étrangères. Ma diplomatie est ferme. Mon bouclier balte, aussi.
+1653	Une victoire nette. L'Europe aura besoin de gens comme vous face au reste du monde.
+1654	Président du Conseil européen
+1655	Il est 23 h 59. Mon objectif : finir ce sommet avant minuit. Pour la première fois de l'histoire !
+1656	Il est… 4 h 37 du matin. Comme d'habitude. Bravo, vous pouvez monter au Berlaymont.
+1657	Présidente de la Commission
+1658	Bienvenue au treizième étage du Berlaymont. J'habite ici, vous savez : j'ai une chambre à côté de mon bureau. Alors, voyons si vous méritez la directive.
+1659	Team Europe… Vous êtes le meilleur stagiaire que la Commission ait jamais eu. La directive sur l'heure est à vous !
+1660	Je vous enverrai un SMS. Ou peut-être pas.
+1661	Vice-président
+1662	Je suis venu à Munich vous expliquer la démocratie. Maintenant, je viens à Anvers vous expliquer le débat.
+1663	Bon. Je retourne écrire un discours.
+1664	Président américain
+1665	TREMENDOUS ! Le plus beau débat de tous les temps, tout le monde le dit. Je mets 200 % de droits de douane sur vos Euromons. Peut-être 15. On verra.
+1666	C'ÉTAIT TRUQUÉ ! Bon… on fait un deal. 15 %. C'est mon dernier mot. Pour aujourd'hui.
+1667	J'ai gagné ! Comme toujours ! Personne ne gagne mieux que moi.
+1668	Président russe
+1669	Asseyez-vous. Non, plus loin. Encore plus loin. Voilà. À six mètres, la conversation est plus… stratégique. Vos attaques mettront un tour à arriver.
+1670	Le gaz… est coupé… de mon côté. Intéressant.
+1671	L'hiver vient. Pour vous.
+1672	Président chinois
+1673	Bienvenue. Nous sommes partenaires. Et concurrents. Et rivaux systémiques. Tout dépend du tour.
+1674	Hmm. Un partenaire à respecter. Je retire les contrôles sur les terres rares… pour l'instant.
+1675	Contenu indisponible dans votre région.
+1676	Sommet G-Tout
+1677	MOI D'ABORD. Le sommet, c'est mon idée. Enfin, je crois.
+1678	Sad !
+1679	Je préférais la longue table.
+1680	Le dernier mot sera… systémique.
+1681	Nous reparlerons dans cinquante ans.
+1682	Port d'Anvers – Golf de la Liberté
+1683	Athènes – Plaka
+1684	Berlaymont – 13ᵉ étage
+1685	Boutique – Athènes
+1686	Boutique – Budapest
+1687	Boutique – Bruxelles
+1688	Boutique – Francfort
+1689	Boutique – Londres
+1690	Boutique – Luxembourg
+1691	Boutique – Paris
+1692	Boutique – Strasbourg
+1693	Bruxelles – Quartier européen
+1694	Budapest – Rives du Danube
+1695	Cantine – Athènes
+1696	Cantine – Budapest
+1697	Cantine – Bruxelles
+1698	Cantine – Francfort
+1699	Cantine – Londres
+1700	Cantine – Luxembourg
+1701	Cantine – Paris
+1702	Cantine – Strasbourg
+1703	Cour de justice de l'UE
+1704	Bâtiment Europa – Conseil européen
+1705	Francfort – Quartier des banques
+1706	Gare – Anvers
+1707	Gare – Athènes
+1708	Gare – Budapest
+1709	Gare – Bruxelles-Luxembourg
+1710	Gare – Francfort
+1711	Gare – Lisbonne
+1712	Gare – Londres
+1713	Gare – Luxembourg
+1714	Gare – Maastricht
+1715	Gare – Paris
+1716	Gare – Rome
+1717	Gare – Strasbourg
+1718	Gare – Varsovie
+1719	Arène d'Athènes – Amphithéâtre
+1720	Tour de la BCE – Salle des marchés
+1721	Országház – Salle du Veto
+1722	DG Concurrence – Arène
+1723	Hémicycle – Session plénière
+1724	The Brexit Arms – Pub-arène
+1725	Arène du Luxembourg – Salle des rescrits
+1726	Grand amphithéâtre de la Sorbonne
+1727	Lisbonne – Monastère des Hiéronymites
+1728	QG de la Team Lobby – Sous-sol
+1729	Londres – Westminster
+1730	Luxembourg – Plateau du Kirchberg
+1731	Maastricht – Bords de Meuse
+1732	Maison – Francfort
+1733	Maison – Luxembourg
+1734	Maison – Strasbourg
+1735	Paris – Quartier latin
+1736	Parlement européen – Hall
+1737	Port du Pirée – Terminal conteneurs
+1738	Place Lux – Le Cocktail
+1739	Rome – Capitole
+1740	Route 1 – Forêt des Ardennes
+1741	Route 2 – Vallée de la Moselle
+1742	Route 3 – Vignobles du Rhin
+1743	Palais – La longue table
+1744	Schengen – Bords de Moselle
+1745	Sommet « G-Tout » – Salle plénière
+1746	Strasbourg – Quartier européen
+1747	Ton studio (Ixelles)
+1748	Parlement – Aile fantôme, 1ᵉ étage
+1749	Parlement – Aile fantôme, 2ᵉ étage
+1750	Parlement – Aile fantôme, 3ᵉ étage
+1751	Varsovie – Plaine de l'Est
+1752	Maison – Maastricht
+1754	Écran titre
+1755	Le professeur Schuman
+1756	Le laboratoire
+1758	Ton studio
+1761	La cantine
+1763	La boutique
+1764	La gare
+1766	Sur la route
+1767	Combat : Euromon sauvage
+1768	Regard croisé
+1769	Combat : dresseur
+1771	Combat : Oliver
+1773	Victoire
+1774	Victoire (sauvage)
+1775	Victoire (dresseur)
+1776	Évolution
+1778	L'arène
+1780	Combat : arène
+1782	Combat : chef d'arène
+1784	Schengen
+1789	Au revoir, Oliver
+1791	La Team Lobby
+1792	Combat : boss
+1794	L'aile fantôme
+1797	Le Conseil européen
+1799	Combat : Conseil
+1802	Combat : la Présidente
+1804	Combat : Grandes Puissances
+1807	Combat final
+1809	Lieux légendaires
+1810	Combat : légendaire
+1812	Combat final (variante)
+1813	Juke-box
+1814	%d musiques sur %d
+1815	Choisis un morceau.
+1816	JUKE-BOX
+1817	A : écouter    B : retour
+1818	Un vieux juke-box, débranché. Une étiquette : « À rebrancher après votre premier badge. — Le service technique »
+1819	Verdeal
+1820	Fit55
+1821	Neutralis
+1822	Charbonnet
+1823	Hautfourno
+1824	CECAgon
+1825	Atomino
+1826	Euratome
+1827	Fissionix
+1828	Tampono
+1829	Paraphor
+1830	Ratifix
+1831	Amendon
+1832	Amendomax
+1833	Cookiz
+1834	Consentor
+1835	Usbécé
+1836	Bouchatach
+1837	Pailleplast
+1838	Courbana
+1839	Roamy
+1840	Roamfree
+1841	Erasmouse
+1842	Erasmus+
+1843	Eurolo
+1844	Eurozone
+1845	Schengéon
+1846	Glyphosaure
+1847	Lobbyrax
+1848	Lobbyron
+1849	Lobbyzilla
+1850	Transhumon
+1851	Transhumax
+1852	Changheure
+1853	Diesgate
+1854	Spitzen
+1855	Interpréton
+1856	Trilogon
+1857	Comitologue
+1858	Paperassor
+1859	Archivor
+1860	Agrikolo
+1861	PACtor
+1862	MégaPAC
+1863	Tracteuron
+1864	Fromajus
+1865	Appellatio
+1866	Pralinou
+1867	Frituron
+1868	Pigeonix
+1869	Manneken
+1870	Atomiom
+1871	Stagion
+1872	Contractuel
+1873	Titularis
+1874	Populo
+1875	Tribun
+1876	Démagogor
+1877	Fakeon
+1878	Trollbot
+1879	Botfarm
+1880	Algoritmo
+1881	IAct
+1882	Inflaton
+1883	Hyperflaton
+1884	Spreadon
+1885	Cryptou
+1886	MiCA
+1887	Austérix
+1888	Troïkat
+1889	Vetoad
+1890	Vetoadmax
+1891	Frontièrex
+1892	Brexitt
+1893	Référendo
+1894	Assistome
+1895	Emploifictif
+1896	Sacabillet
+1897	Valisette
+1898	Gazoduc
+1899	Éolion
+1900	Offshorion
+1901	Solario
+1902	Plafonnor
+1903	Tarifaux
+1904	Tarifator
+1905	Terrara
+1906	Pandiplo
+1907	Censourson
+1908	Kirchbergeon
+1909	Schumark
+1910	Nobelix
+1911	Brumelle
+1912	Lunchix
+1913	Mercosaur
+1914	Romulus
+1915	Maastrichtor
+1916	Lisbonia
+1917	Constitutio
+1918	Draghizord
+1920	Quinze arrêts, quinze tampons ! La Cour te remercie. Prends ces tampons qualifiés, ils sont bien plus efficaces.
+1923	Tant pis. Je les tamponnerai moi-même. En trois exemplaires.
+1924	Je parie que tu ne sauras pas tous les refuser. Personne n'y arrive. On essaie ?
+1925	Impossible… Tu as tout refusé ?! Bon. Voici un avis juridique. Gratuit. Ne le dis à personne.
+1926	Encore toi ! Nos bandeaux n'ont aucune chance.
+1927	Merci d'avoir accepté nos 437 partenaires ! Tes données sont entre de bonnes mains. Les nôtres.
+1928	Prince Mbeki III
+1929	Héritage de 4 M€ à partager
+1930	Lobby du diesel
+1931	Invitation : dîner au homard
+1932	Service RH
+1933	Réunion de coordination sur les réunions
+1934	SuperPromo
+1935	Votre téléphone gratuit vous attend
+1936	Qatar Events
+1937	Une petite valise pour vous ?
+1938	Banque Sécurité
+1939	Confirmez votre mot de passe ici
+1940	Newsletter
+1941	47 nouveautés passionnantes du RGPD
+1942	Ordre du jour de la plénière
+1943	Maman
+1944	Tu manges bien à Bruxelles ?
+1945	Cantine
+1946	Menu du jour : waterzooi
+1947	Greffe de la Cour
+1948	Arrêt à notifier avant midi
+1949	Commission
+1950	Vote du budget demain
+1951	Ton Eurodex a été mis à jour
+1952	Débat ce soir ? Je vais gagner.
+1953	Boîte de réception
+1954	437 courriels non lus ! Touchez un vrai courriel pour le lire, et la croix rouge pour jeter un spam. Traitez-en 20 avant que la boîte ne déborde !
+1955	Lire : touchez · Spam : croix rouge
+1956	Erreurs : %d / 3
+1957	Boîte vide ! Pour la première fois depuis 2019. Savourez, ça ne durera pas.
+1958	La boîte déborde ! Le serveur de la Commission vient de planter. Encore.
+1959	Vous avez jeté le courriel de la présidente et répondu au prince. Ça arrive aux meilleurs.
+1960	Depuis 2024, les nouveaux téléphones vendus dans l'UE doivent avoir un port USB-C.
+1961	Vrai : la directive sur le chargeur universel s'applique depuis fin 2024.
+1962	L'UE interdit de vendre des bananes trop courbées.
+1963	Faux : un règlement de 1994 classait les bananes par qualité. Les courbées restent en vente.
+1964	Le drapeau européen a 12 étoiles parce qu'il y avait 12 pays membres.
+1965	Faux : 12 est un symbole de perfection. Le drapeau date de 1955, bien avant les 12 pays.
+1966	Le Parlement européen siège une semaine par mois à Strasbourg.
+1967	Vrai : 12 sessions par an à Strasbourg, avec les malles qui vont avec.
+1968	Les commissaires européens sont élus directement par les citoyens.
+1969	Faux : ils sont proposés par les gouvernements puis approuvés par le Parlement.
+1970	L'Union européenne compte 24 langues officielles.
+1971	Vrai : de l'irlandais au maltais, tous les textes sont traduits dans les 24.
+1972	Tous les pays de l'UE utilisent l'euro.
+1973	Faux : en 2026, 21 pays sur 27 l'utilisent. La Bulgarie est la dernière arrivée.
+1974	Les frais d'itinérance mobile ont été supprimés dans l'UE en 2017.
+1975	Vrai : depuis juin 2017, on appelle partout « comme à la maison ».
+1976	L'hymne européen est l'Ode à la joie de Beethoven.
+1977	Vrai : sans paroles officielles, pour ne fâcher aucune langue.
+1978	Le Luxembourg est le plus petit pays de l'UE.
+1979	Faux : c'est Malte, environ 316 km².
+1980	L'Union européenne a reçu le prix Nobel de la paix.
+1981	Vrai : en 2012, pour 60 ans de paix et de réconciliation.
+1982	Le RGPD protège les données personnelles depuis 2018.
+1983	Vrai : il s'applique depuis le 25 mai 2018. D'où les bandeaux cookies…
+1984	Les concombres tordus sont interdits à la vente dans l'UE.
+1985	Faux : la norme sur leur courbure a été supprimée en 2009.
+1986	Les bouchons doivent rester attachés aux bouteilles en plastique.
+1987	Vrai : obligatoire depuis juillet 2024, pour qu'ils ne finissent plus dans la nature.
+1988	La Suisse est membre de l'Union européenne.
+1989	Faux : elle est dans l'espace Schengen, mais pas dans l'UE.
+1990	La Banque centrale européenne a son siège à Bruxelles.
+1991	Faux : elle est à Francfort, en Allemagne.
+1992	Désinfox
+1993	Les rumeurs sur l'Europe circulent plus vite que les directives ! Pour chaque affirmation, touchez VRAI ou FAUX. Il faut 7 bonnes réponses sur 10.
+1994	VRAI
+1995	FAUX
+1996	Vrai ou faux ?
+1997	Question %d / 10
+1998	Bonne réponse !
+1999	Trop tard !
+2000	Raté !
+2001	Touchez pour continuer
+2002	Bravo ! Toutes ces intox sont démontées. Les fact-checkeurs veulent vous recruter.
+2003	Trop d'intox ont circulé… Le compte « VraieEurope2027 » gagne 10 000 abonnés.
+2004	Bulgare
+2005	Tchèque
+2006	Danois
+2007	Allemand
+2008	Grec
+2009	Anglais
+2010	Espagnol
+2011	Estonien
+2012	Finnois
+2013	Français
+2014	Irlandais
+2015	Croate
+2016	Hongrois
+2017	Italien
+2018	Lituanien
+2019	Letton
+2020	Maltais
+2021	Néerlandais
+2022	Polonais
+2023	Portugais
+2024	Roumain
+2025	Slovaque
+2026	Slovène
+2027	Suédois
+2028	Service de traduction
+2029	Des messages arrivent de toute l'Europe ! Lisez chacun et envoyez-le à la bonne cabine de traduction. 12 messages en 45 secondes. Une erreur coûte 3 secondes !
+2030	Cabines de traduction
+2031	Envoyez le message à la bonne cabine
+2032	Tous les messages sont arrivés à bon port ! La DG Traduction vous propose un poste. En 24 langues.
+2033	Un message slovaque est parti chez les Slovènes… L'incident diplomatique est en cours de traduction.
+2034	Crise énergétique ! Les prix s'envolent.
+2035	Confinement : plus personne n'achète rien.
+2036	Plan de relance géant voté cette nuit !
+2037	Krach boursier à Francfort !
+2038	Pénurie de puces électroniques !
+2039	Les ménages épargnent tout leur argent.
+2040	Vous présidez la BCE ! L'inflation grimpe ? Montez le taux. Elle chute ? Baissez-le. Gardez-la dans la zone verte (autour de 2 %) au moins la moitié du temps. 40 secondes !
+2041	Inflation : %s
+2042	Taux : %s
+2043	Baisser
+2044	Monter
+2046	Inflation maîtrisée ! Les marchés applaudissent, les épargnants dorment tranquilles.
+2047	L'inflation vous a échappé… Le prix du café à la cantine vient de doubler.
+2048	Micro-USB
+2049	Lightning
+2050	Mini-USB
+2052	Chargeur universel
+2053	Depuis 2024, l'USB-C est obligatoire ! Touchez les appareils qui ont encore un vieux port pour les mettre en conformité. Surtout pas ceux en USB-C ! 20 appareils en 30 secondes.
+2054	Touchez les vieux ports, pas l'USB-C !
+2055	Tous conformes ! Un seul chargeur pour tout le monde. Les tiroirs de câbles d'Europe respirent.
+2056	Vous avez « mis en conformité » un appareil déjà en USB-C. Il a maintenant trois adaptateurs.
+2057	Trop de vieux câbles ont échappé à la directive… Le tiroir à câbles déborde.
+2058	Ton ordinateur. 437 courriels non lus clignotent dans un coin de l'écran.
+2059	Boîte mail
+2060	Éteindre
+2061	Une notification s'affiche : « Félicitations pour votre productivité ! » Un colis t'attendait sous le bureau.
+2062	Boîte vide. Trois secondes plus tard : « Re: Réunion de coordination sur les réunions ».
+2063	Le serveur de messagerie affiche un sablier. Il l'affichera sans doute jusqu'à demain.
+2064	Un ordinateur du service de presse. L'écran affiche : « Cellule Désinfox – rumeurs à vérifier : 2 384 ».
+2065	Du beau travail de vérification ! Le service de presse t'offre ces rapports d'expert. Sourcés, eux.
+2066	Toutes les rumeurs du jour sont vérifiées. Il en arrivera d'autres d'ici le déjeuner.
+2067	Une intox vient d'être partagée 40 000 fois. Le démenti, lui, 12 fois.
+2068	Le terminal de la DG Traduction. Un voyant rouge clignote : « Messages en attente d'aiguillage ».
+2069	Les interprètes sont débordés ! Tu peux trier les messages et les envoyer à la bonne cabine ?
+2070	Vingt-quatre langues, aucune erreur d'aiguillage ! Prends ce carnet d'adresses, tous les interprètes de la Cour y sont.
+2071	Tu reconnais le slovène du slovaque mieux que la moitié du Conseil.
+2072	Un message maltais est arrivé en cabine irlandaise. Ils en discutent encore. Réessaie quand tu veux.
+2073	Un terminal Bloomberg, encore chaud. Sur un post-it : « Objectif : 2 %. Pas 1,9. Pas 2,1. 2. »
+2074	Prendre les commandes de la politique monétaire de la zone euro ?
+2075	Les marchés saluent ta prudence. Une prime de stabilité tombe sur ton compte !
+2076	Inflation à 2 %. Quelque part à Francfort, un économiste verse une larme de joie.
+2077	Le terminal affiche un graphique en forme de montagnes russes. Personne n'a rien vu. Recommence vite.
+2078	L'ordinateur de l'eurodéputée. Sur le bureau, un enchevêtrement de 14 chargeurs différents.
+2079	J'ai voté la directive USB-C ! Mais mes collègues ont encore de vieux appareils… Tu m'aides à les mettre en conformité ?
+2080	Un seul chargeur pour tous ! Tiens, prends cette clé USB-C. Il paraît qu'elle fait évoluer certains Euromons numériques.
+2081	Le tiroir à câbles est enfin vide. Je ne sais plus quoi y ranger.
+2082	Il reste des câbles Lightning partout… On réessaie quand tu veux.
+2083	Zone verte : %d %%
+2084	Objectif : la moitié du temps dans le vert
+2085	Dock 30
+2086	Tamponnez 15 arrêts valides en 30 secondes. Laissez passer les papiers marqués « FAUX » : en tamponner un fait perdre la manche !
+2087	ARRÊT
+2088	ARRÊT : tamponner. FAUX : laisser passer.
+2089	Quinze arrêts valides tamponnés ! L'administration est fière de vous.
+2090	Un mauvais document a été tamponné ! Il faut vérifier avant de valider…
+2091	Les quinze arrêts valides ne sont pas prêts. Le greffe ferme, il faudra réessayer…
+2092	Et voilà la pile du jour. Il faut tamponner quinze arrêts valides avant la fermeture du greffe. Attention, de mauvais documents s'y sont glissés ! Tu me donnes un coup de main ?
+2093	Le greffe ne peut pas valider cette pile. Il faut quinze bons arrêts et aucun mauvais document tamponné. Réessaie quand tu veux.
+2094	Encore quinze arrêts en règle ! Pour cette deuxième réussite, voici un tampon qualifié.
+2095	Impeccable ! Il me reste un tampon qualifié pour toi. Le Luxembourg aime les gens méthodiques.
+2096	Impeccable ! Mais je n'ai pas de tampon pour toi cette fois. Repasse me donner un coup de main !
+2097	L'autre joueur envoie %s !
+2098	Équipe ou connexion invalide.
+2099	Les objets ne sont pas autorisés dans un débat amical.
+2100	Vous remportez ce débat amical !
+2101	L'autre joueur remporte ce débat amical !
+2102	Débat terminé ou connexion interrompue.
+2103	Update the browser save format when changing SaveData
+2104	Browser save ABI
+2105	Échec de la sauvegarde. Réessayez.
+2106	Débat multijoueur
+2107	Mailbox ABI
+2108	Débat annulé.
+2109	Le serveur ne répond plus.
+2110	Connexion au serveur interrompue.
+2111	L'autre joueur a quitté le débat.
+2112	EUL1
+2113	Réponse du serveur invalide.
+2114	En attente de l'autre joueur… B : annuler
+2115	Les débats ne sont plus synchronisés.
+2116	←→ : position    ↑↓ : chiffre
+2117	Valider (A)
+2118	Annuler (B)
+2124	Impossible d'initialiser le Wi-Fi.
+2126	Impossible de créer la connexion.
+2127	Impossible de configurer la connexion.
+2128	Serveur inaccessible.
+2129	Il vous faut une équipe pour débattre.
+2134	Prénom
+2135	Demande de salon invalide.
+2136	Ce nom de salon est déjà utilisé.
+2137	Salon introuvable.
+2138	Code PIN incorrect.
+2139	Ce salon est complet.
+2140	Les versions du jeu sont différentes.
+2141	Le serveur est complet.
+2142	Le salon a expiré.
+2143	Échange de débat invalide.
+2144	Le serveur a été arrêté.
+2145	En attente de joueurs…
+2146	Recherche toutes les 10 secondes.
+2147	Code PIN : %s
+2148	Créer un salon
+2149	Rejoindre un salon
+2150	Jouer avec tout le monde
+2151	Nom du salon
+2152	Saisissez un nom de salon.
+2153	Code PIN (6 chiffres)
+2154	La console ne répond plus.
+2155	EU Simulator %.12s
+2156	Parties à proximité
+2157	EUN2
+2158	Sans routeur ni serveur.
+2159	Redémarrez le jeu pour changer de mode Wi-Fi.
+2160	Connexion Wi-Fi DSi… B : annuler
+2161	Connexion Wi-Fi DS… B : annuler
+2162	Wi-Fi DSi : vérifiez le réseau WPA2 et les réglages de la console.
+2163	Mode DS : réseau ouvert/WEP. Pour WPA2, lancez le jeu en mode DSi.
+2164	En ligne
+2165	Sans Internet
+2166	Créer une partie locale
+2167	Rejoindre une partie locale

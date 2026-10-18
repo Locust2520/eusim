@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Moninpeliväittely
+2148	Luo huone
+2149	Liity huoneeseen
+2150	Pelaa kenen tahansa kanssa
+2151	Huoneen nimi
+2153	PIN (6 numeroa)
+2145	Odotetaan pelaajia…
+2146	Haku 10 sekunnin välein.
+2147	PIN: %s
+2118	Peruuta (B)
+2117	Vahvista (A)
+2116	←→: paikka    ↑↓: numero
+2152	Anna huoneen nimi.
+2113	Virheellinen palvelimen vastaus.
+2135	Virheellinen huonepyyntö.
+2136	Huoneen nimi on jo käytössä.
+2137	Huonetta ei löytynyt.
+2138	Väärä PIN.
+2139	Huone on täynnä.
+2140	Peliversiot eroavat toisistaan.
+2141	Palvelin on täynnä.
+2142	Huone on vanhentunut.
+2143	Virheellinen väittelyn tiedonsiirto.
+2144	Palvelin on pysäytetty.
+2108	Väittely peruttu.
+2109	Palvelin ei vastaa.
+2110	Yhteys palvelimeen katkesi.
+2111	Toinen pelaaja poistui väittelystä.
+2115	Väittelyt eivät ole synkronoituja.
+2114	Odotetaan toista pelaajaa… B: peruuta
+2123	Yhdistetään Wi-Fiin… B: peruuta
+2124	Wi-Fiä ei voitu käynnistää.
+2125	Tarkista konsolin Wi-Fi-asetukset.
+2126	Yhteyttä ei voitu luoda.
+2127	Yhteyttä ei voitu määrittää.
+2128	Palvelimeen ei saada yhteyttä.
+2129	Tarvitset joukkueen väittelyyn.

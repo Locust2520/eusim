@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Vairāku spēlētāju debates
+2148	Izveidot istabu
+2149	Pievienoties istabai
+2150	Spēlēt ar jebkuru
+2151	Istabas nosaukums
+2153	PIN (6 cipari)
+2145	Gaida spēlētājus…
+2146	Meklēšana ik pēc 10 sekundēm.
+2147	PIN: %s
+2118	Atcelt (B)
+2117	Apstiprināt (A)
+2116	←→: vieta    ↑↓: cipars
+2152	Ievadiet istabas nosaukumu.
+2113	Nederīga servera atbilde.
+2135	Nederīgs istabas pieprasījums.
+2136	Šis istabas nosaukums jau tiek izmantots.
+2137	Istaba nav atrasta.
+2138	Nepareizs PIN.
+2139	Istaba ir pilna.
+2140	Spēles versijas atšķiras.
+2141	Serveris ir pilns.
+2142	Istabas laiks ir beidzies.
+2143	Nederīga debašu datu apmaiņa.
+2144	Serveris ir apturēts.
+2108	Debates atceltas.
+2109	Serveris neatbild.
+2110	Savienojums ar serveri pārtraukts.
+2111	Otrs spēlētājs pameta debates.
+2115	Debates nav sinhronizētas.
+2114	Gaida otru spēlētāju… B: atcelt
+2123	Savieno ar Wi-Fi… B: atcelt
+2124	Neizdevās palaist Wi-Fi.
+2125	Pārbaudiet konsoles Wi-Fi iestatījumus.
+2126	Neizdevās izveidot savienojumu.
+2127	Neizdevās iestatīt savienojumu.
+2128	Serveris nav sasniedzams.
+2129	Debatēm vajadzīga komanda.

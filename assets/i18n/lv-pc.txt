@@ -1,0 +1,157 @@
+# Latvian — computer mini-games
+1928 Prince Mbeki III
+1929 4 M€ mantojums sadalīšanai
+1930 Dīzeļa lobijs
+1931 Ielūgums: omāru vakariņas
+1932 Personāldaļa
+1933 Koordinācijas sanāksme par sanāksmēm
+1934 SuperPromo
+1935 Tavs bezmaksas telefons tevi gaida
+1936 Qatar Events
+1937 Mazs čemodāniņš tev?
+1938 Drošības banka
+1939 Apstiprini savu paroli šeit
+1940 Newsletter
+1941 47 aizraujoši VDAR jaunumi
+1942 Plenārsesijas darba kārtība
+1943 Mamma
+1944 Vai tu Briselē labi ēd?
+1945 Ēdnīca
+1946 Dienas ēdiens: waterzooi
+1947 Tiesas kanceleja
+1948 Spriedums jāpaziņo līdz pusdienlaikam
+1949 Komisija
+1950 Budžeta balsojums rīt
+1951 Tavs Eurodex ir atjaunināts
+1952 Debates šovakar? Es uzvarēšu.
+1953 Iesūtne
+1954 437 nelasīti e-pasti! Pieskaries īstam e-pastam, lai to izlasītu, un sarkanajam krustiņam, lai izmestu surogātpastu. Apstrādā 20, pirms iesūtne pārplūst!
+1955 Lasīt: pieskaries · Surogāts: krusts
+1956 Kļūdas: %d / 3
+1957 Iesūtne tukša! Pirmo reizi kopš 2019. gada. Izbaudi, ilgi tas nebūs.
+1958 Iesūtne pārplūst! Komisijas serveris tikko nobruka. Atkal.
+1959 Tu izmeti priekšsēdētājas e-pastu un atbildēji princim. Gadās arī labākajiem.
+1960 Kopš 2024. gada visiem jaunajiem ES pārdotajiem telefoniem jābūt ar USB-C pieslēgvietu.
+1961 Patiesi: universālā lādētāja direktīva ir spēkā kopš 2024. gada beigām.
+1962 ES aizliedz pārdot pārāk līkus banānus.
+1963 Aplami: 1994. gada regula iedalīja banānus kvalitātes klasēs. Līkie joprojām ir pārdošanā.
+1964 Eiropas karogā ir 12 zvaigznes, jo bija 12 dalībvalstis.
+1965 Aplami: 12 ir pilnības simbols. Karogs ir no 1955. gada, krietni pirms 12 valstīm.
+1966 Eiropas Parlaments vienu nedēļu mēnesī sēž Strasbūrā.
+1967 Patiesi: 12 sesijas gadā Strasbūrā, ar visiem līdzi braucošajiem čemodāniem.
+1968 Eiropas komisārus tieši ievēlē pilsoņi.
+1969 Aplami: tos izvirza valdības, un pēc tam apstiprina Parlaments.
+1970 Eiropas Savienībā ir 24 oficiālās valodas.
+1971 Patiesi: no īru līdz maltiešu valodai visi teksti tiek tulkoti visās 24.
+1972 Visas ES valstis lieto eiro.
+1973 Aplami: 2026. gadā to lieto 21 valsts no 27. Bulgārija ir jaunākā pievienojusies.
+1974 Mobilo sakaru viesabonēšanas maksa ES tika atcelta 2017. gadā.
+1975 Patiesi: kopš 2017. gada jūnija visur zvani „kā mājās”.
+1976 Eiropas himna ir Bēthovena „Oda priekam”.
+1977 Patiesi: bez oficiāliem vārdiem, lai neapvainotu nevienu valodu.
+1978 Luksemburga ir mazākā ES valsts.
+1979 Aplami: tā ir Malta, aptuveni 316 km².
+1980 Eiropas Savienība ir saņēmusi Nobela Miera prēmiju.
+1981 Patiesi: 2012. gadā, par 60 gadiem miera un izlīguma.
+1982 VDAR aizsargā personas datus kopš 2018. gada.
+1983 Patiesi: tā ir piemērojama kopš 2018. gada 25. maija. No tā arī sīkdatņu baneri…
+1984 Līku gurķu pārdošana ES ir aizliegta.
+1985 Aplami: norma par to izliekumu tika atcelta 2009. gadā.
+1986 Korķiem jāpaliek piestiprinātiem pie plastmasas pudelēm.
+1987 Patiesi: obligāti kopš 2024. gada jūlija, lai tie vairs nenonāktu dabā.
+1988 Šveice ir Eiropas Savienības dalībvalsts.
+1989 Aplami: tā ir Šengenas zonā, bet ne ES.
+1990 Eiropas Centrālās bankas mītne ir Briselē.
+1991 Aplami: tā atrodas Frankfurtē, Vācijā.
+1992 Dezinfo
+1993 Baumas par Eiropu izplatās ātrāk nekā direktīvas! Katram apgalvojumam pieskaries PATIESI vai APLAMI. Vajag 7 pareizas atbildes no 10.
+1994 PATIESI
+1995 APLAMI
+1996 Patiesi vai aplami?
+1997 Jautājums %d / 10
+1998 Pareizi!
+1999 Par vēlu!
+2000 Garām!
+2001 Pieskaries, lai turpinātu
+2002 Bravo! Visi šie viltus ziņu gabali ir atspēkoti. Faktu pārbaudītāji grib tevi pieņemt darbā.
+2003 Izplatījās pārāk daudz viltus ziņu… Konts „ĪstāEiropa2027” iegūst 10 000 sekotāju.
+2004 Bulgāru
+2005 Čehu
+2006 Dāņu
+2007 Vācu
+2008 Grieķu
+2009 Angļu
+2010 Spāņu
+2011 Igauņu
+2012 Somu
+2013 Franču
+2014 Īru
+2015 Horvātu
+2016 Ungāru
+2017 Itāļu
+2018 Lietuviešu
+2019 Latviešu
+2020 Maltiešu
+2021 Nīderlandiešu
+2022 Poļu
+2023 Portugāļu
+2024 Rumāņu
+2025 Slovāku
+2026 Slovēņu
+2027 Zviedru
+2028 Tulkošanas dienests
+2029 Ziņas pienāk no visas Eiropas! Izlasi katru un nosūti to uz pareizo tulkošanas kabīni. 12 ziņas 45 sekundēs. Kļūda maksā 3 sekundes!
+2030 Tulkošanas kabīnes
+2031 Sūti ziņu uz pareizo kabīni
+2032 Visas ziņas nonāca galā! Tulkošanas ĢD piedāvā tev amatu. 24 valodās.
+2033 Slovāku ziņa aizceļoja pie slovēņiem… Diplomātiskais incidents pašlaik tiek tulkots.
+2034 Energokrīze! Cenas šauj gaisā.
+2035 Mājsēde: neviens neko vairs nepērk.
+2036 Šonakt pieņemts milzu atveseļošanas plāns!
+2037 Biržas krahs Frankfurtē!
+2038 Mikroshēmu deficīts!
+2039 Mājsaimniecības krāj visu savu naudu.
+2040 Tu vadi ECB! Inflācija kāpj? Cel likmi. Krīt? Samazini to. Noturi to zaļajā zonā (ap 2 %) vismaz pusi laika. 40 sekundes!
+2041 Inflācija: %s
+2042 Likme: %s
+2043 Samazināt
+2044 Celt
+2046 Inflācija savaldīta! Tirgi aplaudē, noguldītāji guļ mierīgi.
+2047 Inflācija izspruka no rokām… Kafijas cena ēdnīcā tikko dubultojās.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Universālais lādētājs
+2053 Kopš 2024. gada USB-C ir obligāts! Pieskaries ierīcēm, kurām vēl ir veca pieslēgvieta, lai tās padarītu atbilstošas. Tikai ne tām ar USB-C! 20 ierīces 30 sekundēs.
+2054 Spied vecos portus, ne USB-C!
+2055 Visas atbilst! Viens lādētājs visiem. Eiropas kabeļu atvilktnes atviegloti uzelpo.
+2056 Tu „padarīji atbilstošu” ierīci, kurai jau bija USB-C. Tagad tai ir trīs adapteri.
+2057 Pārāk daudz vecu kabeļu izsprucis no direktīvas… Kabeļu atvilktne pārplūst.
+2058 Tavs dators. Ekrāna stūrī mirgo 437 nelasīti e-pasti.
+2059 E-pasts
+2060 Izslēgt
+2061 Parādās paziņojums: „Apsveicam ar jūsu produktivitāti!” Zem galda tevi gaidīja paciņa.
+2062 Iesūtne tukša. Trīs sekundes vēlāk: „Re: Koordinācijas sanāksme par sanāksmēm”.
+2063 E-pasta serveris rāda smilšu pulksteni. Droši vien rādīs līdz rītdienai.
+2064 Preses dienesta dators. Ekrānā: „Dezinfo vienība – pārbaudāmas baumas: 2 384”.
+2065 Lieliski pārbaudīts! Preses dienests tev dāvina šos ekspertu ziņojumus. Ar avotiem, starp citu.
+2066 Visas šīsdienas baumas ir pārbaudītas. Līdz pusdienām atnāks jaunas.
+2067 Viena viltus ziņa tikko kopīgota 40 000 reižu. Atspēkojums – 12 reizes.
+2068 Tulkošanas ĢD terminālis. Mirgo sarkana lampiņa: „Ziņas gaida novirzīšanu”.
+2069 Tulki ir pārslogoti! Vai vari sašķirot ziņas un nosūtīt tās uz pareizo kabīni?
+2070 Divdesmit četras valodas, neviena novirzīšanas kļūda! Paņem šo adrešu grāmatiņu, tajā ir visi Tiesas tulki.
+2071 Tu atšķir slovēņu valodu no slovāku labāk nekā puse Padomes.
+2072 Maltiešu ziņa nonāca īru kabīnē. Viņi to joprojām apspriež. Mēģini vēlreiz, kad gribi.
+2073 Bloomberg terminālis, vēl silts. Uz līmlapiņas: „Mērķis: 2 %. Ne 1,9. Ne 2,1. 2.”
+2074 Pārņemt eirozonas monetārās politikas stūri?
+2075 Tirgi slavē tavu piesardzību. Tavā kontā ienāk stabilitātes prēmija!
+2076 Inflācija 2 %. Kaut kur Frankfurtē kāds ekonomists nobirdina prieka asaru.
+2077 Terminālis rāda grafiku amerikāņu kalniņu formā. Neviens neko neredzēja. Ātri mēģini vēlreiz.
+2078 Eiroparlamentārietes dators. Uz galda – 14 dažādu lādētāju mudžeklis.
+2079 Es nobalsoju par USB-C direktīvu! Bet maniem kolēģiem vēl ir vecas ierīces… Palīdzēsi tās padarīt atbilstošas?
+2080 Viens lādētājs visiem! Še, paņem šo USB-C zibatmiņu. Runā, ka tā liek dažiem digitālajiem Euromoniem evolucionēt.
+2081 Kabeļu atvilktne beidzot ir tukša. Vairs nezinu, ko tajā likt.
+2082 Visur vēl ir Lightning kabeļi… Mēģināsim vēlreiz, kad gribi.
+2083 Zaļā zona: %d %%
+2084 Mērķis: pusi laika zaļajā
+2085 Dock 30

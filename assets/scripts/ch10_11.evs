@@ -1,0 +1,295 @@
+# ---------------------------------------------------------------- Chapter 10 — Conseil européen
+script council_borrell
+  say "Diplomate" "Josep Borrell, l'ancien Haut représentant, disait en 2022 : « L'Europe est un jardin, le reste du monde est une jungle. » Ça a fait… un peu de bruit."
+end
+script council_merkel
+  if flag COUNCIL_MERKEL goto fin
+  show R merkel neutral
+  say "Angela Merkel" "Seize ans chancelière. Des centaines de sommets. En 2015, j'ai dit : « Wir schaffen das » — nous y arriverons."
+  expr R happy
+  say "Angela Merkel" "Mais vous, y arriverez-vous ? Je suis le premier membre du Conseil. Personne ne passe sans compromis."
+  close
+  hide all
+  battle merkel
+  setflag COUNCIL_MERKEL
+  show R merkel happy
+  say "Angela Merkel" "Wir haben es geschafft. Vous pouvez passer. Mario vous attend… avec un rapport de 400 pages."
+:fin
+end
+script council_draghi
+  if flag COUNCIL_DRAGHI goto fin
+  show R draghi neutral
+  say "Mario Draghi" "Juillet 2012, Londres. J'ai dit trois mots : « Whatever it takes ». L'euro a été sauvé. Les marchés se sont calmés."
+  say "Mario Draghi" "En 2024, mon rapport sur la compétitivité demandait jusqu'à 800 milliards d'investissements par an. Investissez dans ce débat."
+  close
+  hide all
+  battle draghi
+  setflag COUNCIL_DRAGHI
+  show R draghi happy
+  say "Mario Draghi" "Vous avez fait tout ce qu'il fallait. Kaja Kallas vous attend. Elle est… très directe."
+:fin
+end
+script council_kallas
+  if flag COUNCIL_KALLAS goto fin
+  show R kallas neutral
+  say "Kaja Kallas" "Haute représentante pour les affaires étrangères depuis décembre 2024. Ancienne Première ministre d'Estonie."
+  say "Kaja Kallas" "Le monde est dangereux. Je dois savoir si vous saurez tenir face aux grandes puissances. Montrez-le-moi."
+  close
+  hide all
+  battle kallas
+  setflag COUNCIL_KALLAS
+  show R kallas happy
+  say "Kaja Kallas" "Solide. Vous en aurez besoin. Le président Costa vous attend. Il espère finir avant minuit."
+:fin
+end
+script council_costa
+  if flag COUNCIL_COSTA goto fin
+  show R costa happy
+  say "António Costa" "Président du Conseil européen depuis décembre 2024 ! Il est 23 h 54. Si on termine avant minuit, ce sera une première historique."
+  say "António Costa" "Mais d'abord : tous les chefs d'État se sont endormis autour de la table. Aidez-moi à les réveiller ! Soufflez dans le micro… ou tapez sur l'écran !"
+  close
+  minigame sommet
+  show R costa worried
+  say "António Costa" "Il est… 4 h 37. Bon. Comme d'habitude. Débattons quand même."
+  close
+  hide all
+  battle costa
+  setflag COUNCIL_COSTA
+  setflag COUNCIL_DONE
+  show R costa happy
+  say "António Costa" "Le Conseil européen approuve votre candidature à l'unanimité ! Enfin… à l'unanimité moins une abstention constructive."
+  say "António Costa" "La Présidente de la Commission vous attend au 13ᵉ étage du Berlaymont. C'est le dernier pas avant la directive."
+:fin
+end
+
+# ---------------------------------------------------------------- Champion
+script michel_berlaymont
+  if flag CINE_SOFAGATE goto vu
+  setflag CINE_SOFAGATE
+  call cine_sofagate
+:vu
+  show R michel sulk
+  say "Charles Michel" "Ah, bonjour. Je suis Charles Michel, ancien président du Conseil européen. Je suis juste… assis. Sur la seule chaise."
+  say "Charles Michel" "À Ankara, en avril 2021, j'ai pris le fauteuil. Ursula s'est retrouvée sur le canapé. On a appelé ça le « Sofagate ». Je ne m'en suis jamais vraiment remis."
+end
+script vdl_champion
+  if flag CHAMPION_DONE goto apres
+  call cine_champion
+  show R vdl neutral
+  say "Ursula von der Leyen" "Bienvenue au 13ᵉ étage. Oui, j'habite ici : il y a une petite chambre à côté de mon bureau. C'est pratique pour les dossiers urgents."
+  expr R happy
+  say "Ursula von der Leyen" "Présidente de la Commission depuis 2019, réélue en 2024. Le Pacte vert, la crise du Covid, les vaccins…"
+  expr R worried
+  say "Ursula von der Leyen" "Les SMS avec le patron de Pfizer ? En mai 2025, le Tribunal de l'UE a annulé notre refus de les communiquer au New York Times. Bref. Passons."
+  expr R neutral
+  say "Ursula von der Leyen" "Vous voulez la directive sur l'heure d'été ? Battez-moi. Team Europe, à la fin, il n'en restera qu'un."
+  close
+  hide all
+  battle vdl
+  setflag CHAMPION_DONE
+  music ending
+  call cine_pantheon
+  show R vdl happy
+  say "Ursula von der Leyen" "Extraordinaire. Vous êtes le meilleur stagiaire de l'histoire de la Commission. Voici… la directive sur la fin du changement d'heure."
+  giveitem directive_heure
+  say "Ursula von der Leyen" "Il ne reste plus qu'à la faire signer. Une formalité ! Il suffit que…"
+  hide all
+  call powers_arrive
+  goto fin
+:apres
+  show R vdl happy
+  if flag GAME_CLEARED goto fini
+  say "Ursula von der Leyen" "Les grandes puissances attendent ! Anvers, Varsovie, le Pirée… Prenez le train."
+  goto fin
+:fini
+  say "Ursula von der Leyen" "Vous avez sauvé l'Europe. Et la directive est… en comité. Comme toujours. Merci pour tout, {P}."
+:fin
+end
+
+# ---------------------------------------------------------------- Chapter 11 — Les Grandes Puissances
+script powers_arrive
+  call cine_puissances
+  sfx ALARM
+  screenshake 30
+  say - "BIP BIP BIP ! Trois messages urgents arrivent en même temps sur tous les téléphones du Berlaymont."
+  show L trump happy
+  say "Donald Trump" "HELLO EUROPE ! J'ai une petite demande. Toute petite. Je mets des droits de douane sur tout. Et j'aimerais acheter le Groenland. Ça se vend, non ?"
+  hide L
+  say - "Deuxième message, en provenance de l'Est : « Le robinet du gaz est fermé. Pour votre bien. » Signé : V. P."
+  say - "Troisième message, très poli : « Nous suspendons nos exportations de terres rares. Vos téléphones fonctionneront… moins. » Signé : X. J."
+  show R vdl worried
+  say "Ursula von der Leyen" "{P}, la directive attendra. Les Grandes Puissances veulent mettre l'Europe au pas. Il faut aller les voir. Toutes les trois."
+  say "Ursula von der Leyen" "Le port d'Anvers, Varsovie, et le port du Pirée, à Athènes. Les gares vous sont ouvertes. Team Europe compte sur vous !"
+  setflag POWERS_START
+  setflag TRAIN_ANVERS
+  setflag TRAIN_VARSOVIE
+  chapter 11
+end
+
+script anvers_rutte
+  show R rutte happy
+  say "Mark Rutte" "Je suis secrétaire général de l'OTAN. Au sommet de La Haye, en juin 2025, on s'est engagés à monter vers 5 % du PIB pour la défense, d'ici 2035."
+  say "Mark Rutte" "Et j'ai appelé Donald « papa ». Bon. C'était une image. Il a adoré. Allez-y, il est sur le green."
+end
+script anvers_vance
+  say "JD Vance" "En février 2025, à la Conférence de Munich, j'ai expliqué aux Européens ce qu'était la démocratie. Ils ont été… surpris."
+end
+script anvers_trump
+  if flag TRUMP_DONE goto fin
+  show R trump happy
+  say "Donald Trump" "C'EST LE PLUS BEAU GOLF DU MONDE. Je viens de l'acheter. Enfin, je crois. Le port aussi, peut-être."
+  say "Donald Trump" "Le 2 avril 2025, Liberation Day ! J'ai brandi un grand tableau avec des droits de douane pour TOUT LE MONDE. Même pour des îles où il n'y a que des pingouins."
+  expr R angry
+  say "Donald Trump" "En juillet 2025, sur mon golf de Turnberry, Ursula et moi, on a fait un deal : 15 %. Mais je peux changer d'avis. Je change souvent d'avis. C'est une stratégie."
+  expr R happy
+  say "Donald Trump" "Et le Groenland ! Il est grand, il est blanc, il est magnifique. Le Danemark ne veut pas vendre. TRÈS INJUSTE. On débat, et si je gagne, je l'achète !"
+  close
+  hide all
+  battle trump
+  setflag TRUMP_DONE
+  show R trump sulk
+  say "Donald Trump" "C'était truqué. Complètement truqué. Bon. On garde 15 %. Et le Groenland reste danois. Pour l'instant. Je posterai quelque chose en majuscules ce soir."
+  hide all
+  call powers_check
+:fin
+end
+
+script var_tusk
+  show R tusk neutral
+  say "Donald Tusk" "Bienvenue à Varsovie. Premier ministre de Pologne, ancien président du Conseil européen. Ici, on sait ce que vaut la liberté."
+end
+script var_zelensky
+  show R zelensky neutral
+  say "Volodymyr Zelensky" "Depuis février 2022, mon pays résiste à l'invasion russe. Merci à l'Europe pour son soutien. Le palais est là-haut : soyez prudent."
+  giveitem repowereu_item
+  say "Volodymyr Zelensky" "Prenez ce kit REPowerEU : l'Europe a appris à se passer du gaz russe. Vous en aurez besoin pour avoir chaud là-bas."
+end
+script var_putin
+  if flag PUTIN_DONE goto fin
+  call cine_poutine
+  show R putin neutral
+  say "Vladimir Poutine" "Asseyez-vous. Non… plus loin. Voilà. En février 2022, j'ai reçu des présidents à cette distance. C'est plus… confortable."
+  say "Vladimir Poutine" "Le gaz ? J'ai fermé le robinet. Les élections ? En décembre 2024, la Cour constitutionnelle roumaine a annulé une présidentielle sur fond d'ingérence. Je ne vois pas de quoi on parle."
+  say "Vladimir Poutine" "Ici, vos arguments mettront un tour entier à atteindre l'autre bout de la table. Commençons."
+  close
+  hide all
+  battle putin
+  setflag PUTIN_DONE
+  show R putin neutral
+  say "Vladimir Poutine" "…Votre kit REPowerEU est efficace. Le chantage ne fonctionne plus. Partez, avant que je ne raccourcisse la table."
+  hide all
+  call powers_check
+:fin
+end
+
+script piree_panda
+  say "Gardien" "Ces deux pandas sont prêtés par la Chine à un zoo européen. On appelle ça la « diplomatie du panda ». Ils mangent 40 kg de bambou par jour. Les pandas, pas les diplomates."
+end
+script piree_xi
+  if flag XI_DONE goto fin
+  show R xi neutral
+  say "Xi Jinping" "Bienvenue. L'Union européenne nous décrit depuis 2019 comme un partenaire, un concurrent et un rival systémique. Moi aussi, je suis les trois."
+  say "Xi Jinping" "Vous taxez nos voitures électriques — jusqu'à 35 % depuis octobre 2024. Nous taxons votre cognac. Et nous surveillons nos terres rares. C'est équilibré."
+  say "Xi Jinping" "Dans ce débat, mon Euromon changera de type à chaque tour : partenaire, concurrent, rival. Bonne chance pour suivre."
+  close
+  hide all
+  battle xi
+  setflag XI_DONE
+  show R xi neutral
+  say "Xi Jinping" "Hmm. Un partenaire digne de respect. Les terres rares reprendront leur route. Les pandas restent, ils sont très populaires."
+  hide all
+  say - "Un ourson jaune passe derrière un conteneur. Une pancarte s'affiche : « Contenu indisponible dans votre région. »"
+  call powers_check
+:fin
+end
+
+script powers_check
+  if !flag TRUMP_DONE goto fin
+  if !flag PUTIN_DONE goto fin
+  if !flag XI_DONE goto fin
+  sfx ALARM
+  say - "Un message de la Présidente : « Les trois Grandes Puissances demandent un sommet. Tout de suite. Le Sommet G-Tout. Je vous y envoie. »"
+  loading 90
+  warp sommet 10 12 up
+:fin
+end
+
+script sommet_trump
+  say "Donald Trump" "C'EST MOI QUI AI EU L'IDÉE DE CE SOMMET."
+end
+script sommet_putin
+  say "Vladimir Poutine" "La table est trop courte."
+end
+script sommet_xi
+  say "Xi Jinping" "Nous sommes tous partenaires. Et rivaux."
+end
+
+script sommet_final
+  if flag GAME_CLEARED goto fin
+  music final
+  call cine_gtout
+  show L trump happy
+  show R xi neutral
+  focus L
+  say "Donald Trump" "Bon, on commence ? Moi d'abord. Tout le monde dit que je suis le meilleur pour commencer."
+  focus R
+  say "Xi Jinping" "Nous proposons de commencer… après mûre réflexion. Dans cinquante ans."
+  hide R
+  show R putin neutral
+  focus R
+  say "Vladimir Poutine" "Pourquoi l'Europe est-elle à la table ? Elle devait être sur le strapontin."
+  focus L
+  say "Donald Trump" "LE STRAPONTIN, C'EST TREMENDOUS. J'en vends."
+  hide all
+  say - "Tout le monde parle en même temps. Les interprètes abandonnent. Il ne reste qu'une solution : le débat."
+  battle trump_final
+  battle putin_final
+  battle xi_final
+  setflag GAME_CLEARED
+  say - "Silence dans la salle. Les trois Grandes Puissances se regardent… puis regardent l'Europe."
+  call cine_gtout_fin
+  show L vdl happy
+  say "Ursula von der Leyen" "Team Europe ! Ensemble, nous sommes plus forts que séparément. C'est un peu toute l'histoire de l'Union, non ?"
+  show R schuman happy
+  say "Professeur Schuman" "Des réalisations concrètes, {P}. Une solidarité de fait. Je l'avais dit en 1950. Tu l'as fait en un stage."
+  hide all
+  say - "Et la directive sur la fin du changement d'heure ? Elle a été renvoyée… en comité."
+  say - "Mais ça, c'est une autre histoire."
+  call cine_fin
+  special ending
+  setflag POSTGAME
+  setflag TRAIN_ROME
+  setflag TRAIN_MAASTRICHT
+  setflag TRAIN_LISBONNE
+  heal
+  warp bruxelles 38 26 down
+  say - "L'aventure continue ! De nouveaux trains desservent Rome, Maastricht et Lisbonne. On dit que des Euromons légendaires y dorment… Et quelqu'un vous attend à la gare de Bruxelles."
+:fin
+end
+
+# ---------------------------------------------------------------- Post-game
+script rome_legend
+  if flag LEG_ROMULUS goto fin
+  call cine_rome
+  say - "Une statue antique, place du Capitole. Le 25 mars 1957, six pays ont signé ici le Traité de Rome. Quelque chose bouge…"
+  wild romulus 60
+  setflag LEG_ROMULUS
+:fin
+end
+script maastricht_legend
+  if flag LEG_MAASTRICHT goto fin
+  call cine_maastricht
+  say - "Ici, le 7 février 1992, le Traité de Maastricht a donné naissance à l'Union européenne. Une pièce d'euro géante se met à briller…"
+  wild maastrichtor 60
+  setflag LEG_MAASTRICHT
+:fin
+end
+script lisbonne_legend
+  if flag LEG_LISBONNE goto fin
+  call cine_lisbonne
+  say - "Le 13 décembre 2007, le Traité de Lisbonne fut signé au monastère des Hiéronymites. Une silhouette translucide s'approche…"
+  wild lisbonia 60
+  setflag LEG_LISBONNE
+  say - "Au loin, un autre Euromon fuit : Constitutio. Rejeté en 2005, il ne se laisse jamais capturer."
+:fin
+end

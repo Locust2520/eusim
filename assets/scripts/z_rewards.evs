@@ -1,0 +1,17 @@
+# Append new reward flags after the released scripts to preserve save IDs.
+script stamp_repeat_reward
+  if flag STAMP_SECOND_DONE goto hasard
+  setflag STAMP_SECOND_DONE
+  say "Greffier" "Encore quinze arrêts en règle ! Pour cette deuxième réussite, voici un tampon qualifié."
+  giveitem tampon_qualifie 1
+  goto fin
+:hasard
+  random 2 -> TMP
+  if var TMP == 0 goto aucun
+  say "Greffier" "Impeccable ! Il me reste un tampon qualifié pour toi. Le Luxembourg aime les gens méthodiques."
+  giveitem tampon_qualifie 1
+  goto fin
+:aucun
+  say "Greffier" "Impeccable ! Mais je n'ai pas de tampon pour toi cette fois. Repasse me donner un coup de main !"
+:fin
+end

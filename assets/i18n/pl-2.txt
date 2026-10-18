@@ -1,0 +1,466 @@
+# Polski — ids 500-999
+500 W budynku Europa obraduje Rada Europejska. Potrzebuje pan ośmiu odznak traktatów, aby zostać przyjętym.
+501 Woźna
+502 Pani komisarz jest… bardzo zajęta. Podobno Team Lobby blokuje wszystkie jej dochodzenia. Dzieje się to pod barem na placu Lux.
+503 DG ds. Konkurencji przyjmuje tylko doświadczonych stażystów. Proszę wrócić z co najmniej sześcioma odznakami.
+504 Pracownik Parlamentu
+505 Witamy w Parlamencie Europejskim! Profesor Schuman czeka na pana w głębi holu.
+506 Schody po prawej prowadzą na piętra… Podobno w jednym skrzydle straszy. Ja tam nigdy nie chodzę.
+507 Ach, {P}! Jesteś wreszcie! Punktualnie… z dokładnością do godziny. Przeklęta zmiana czasu.
+508 Hi! Jestem tu od godziny. Żyję według czasu londyńskiego.
+509 Laboratorium profesora
+510 Dobrze. Będziecie pracować z Euromonami. Akta tego Parlamentu są ich pełne.
+511 Mam tu trzy, całkiem młode. Narodziły się z wielkich europejskich idei. Wybierz swojego, {P}.
+512 One wychodzą… z tekturowych teczek?
+513 W Brukseli wszystko, co ważne, zaczyna się w tekturowej teczce, Oliverze. Nawet Europa.
+514 VERDEAL, zrodzony z Zielonego Ładu. CHARBONNET, pochodzący z EWWiS z 1951 r. Albo ATOMINO, prosto z Euratomu.
+515 Verdeal (typ Zielony)
+516 Charbonnet (typ Przemysł)
+517 Atomino (typ Energia)
+518 Świetny wybór! Dbaj o niego. Jeden dobrze traktowany Euromon jest wart więcej niż dziesięć źle ratyfikowanych traktatów.
+519 To ja biorę tego, który pokona twojego. That's just smart negotiation.
+520 Oliverze! To nie jest zbyt… wspólnotowe.
+521 No dalej, {P}, mała debata, żeby zobaczyć, kto jest najlepszym stażystą?
+522 What?! Przegrałem ze stażystą z kontynentu?! To była… próba generalna.
+523 Ha! Zgodnie z planem. Nie bierz tego do siebie, {P}, to kwestia kultury.
+524 Brawo dla was obojga. Teraz misja: doprowadzić do przyjęcia dyrektywy o zniesieniu zmiany czasu.
+525 Parlament przegłosował ją w marcu 2019. Od tamtej pory śpi w Radzie. Będziecie potrzebować ośmiu odznak traktatów, żeby ktoś was traktował poważnie.
+526 Pierwsza odznaka czeka w Luksemburgu, u Jean-Claude'a Junckera. Idźcie drogą przez Ardeny, na wschód.
+527 Luksemburg? Easy. Będę tam przed tobą. See you, loser… eee, kolego!
+528 Chwileczkę, {P}! Jestem Jean Monnet. Wymyśliłem metodę małych kroków. A oto wielki krok: EURODEX.
+529 Rejestruje każdego Euromona, którego spotkasz. A tu masz czym oficjalnie je podstemplować.
+530 Osłab dzikiego Euromona, a potem rzuć oficjalną Pieczątką z TORBY. Europa na ciebie liczy!
+531 Odwagi, {P}! Każda odznaka to mały kamyk. Jak w Europie: konkretne osiągnięcia.
+532 Osiem odznak! Rada Europejska czeka na ciebie w budynku Europa. Jestem taki dumny.
+533 Pokaż mi swój Eurodex…
+534 Porozmawiaj najpierw z profesorem Schumanem, młody stażysto.
+535 Profesor jest tam. Pospiesz się, nudzę się.
+536 Droga 1 — Las Ardeński. Luksemburg: 3 godziny pieszo, 12 minut interpretacją podatkową.
+537 Turysta pieszy
+538 Las Ardeński rozciąga się na trzy kraje. Dziki nigdy nie pokazały paszportu.
+540 Kiedyś nam zapłacą. Kiedyś…
+541 Pan Dupont
+542 Proszę nie zapomnieć wypełnić ankiety satysfakcji. Ma 12 stron.
+544 WPR to jedna trzecia budżetu europejskiego. A mój kombajn to jedna trzecia mojego kredytu.
+545 Luksemburg-Kirchberg. Trybunał Sprawiedliwości UE, Trybunał Obrachunkowy, Europejski Bank Inwestycyjny. I mnóstwo zwykłych banków.
+546 Do Schengen, wioski nad Mozelą, gdzie podpisano układ z 1985 r. Idź ścieżką na południe.
+547 Mała ścieżka schodzi ku Mozeli… i ku Schengen.
+548 Transport publiczny jest tu darmowy! Objechałem miasto tramwajem 14 razy. Za nic. Za darmo.
+549 Babcia
+550 Mój mąż był urzędnikiem europejskim. Pracował w Trybunale Obrachunkowym. Nawet owce liczył, żeby zasnąć.
+551 Sędzia
+552 Trybunał Sprawiedliwości Unii Europejskiej ma tu siedzibę od 1952 r. Nasze wyroki wiążą wszystkie 27 państw. Nawet w poniedziałek rano.
+553 Sekretarz
+554 Przetłumaczyłem wyrok na 24 języki. W wersji maltańskiej jest literówka. Nikt jej nie zauważył od dziesięciu lat.
+555 Luksemburski celnik
+556 Droga wzdłuż Mozeli jest zarezerwowana dla posiadaczy Odznaki Interpretacji. Proszę udać się do pana Junckera na Złotą Arenę.
+557 {P}! Jeszcze tu jesteś? Ja już odwiedziłem trzy banki i otworzyłem dwa konta. Dla folkloru.
+558 Debata!
+559 No dobra, OK, robisz postępy. Jadę do Frankfurtu do EBC. Obiecali mi wytłumaczyć stopy procentowe.
+561 Tutaj, w Luksemburgu, dyskrecja jest cnotą. I przemysłem.
+562 Mecenas Klein
+563 Interpretacje podatkowe były legalne, wie pan. Tylko nikt nie miał ich czytać. LuxLeaks, 2014, co za nieszczęście.
+565 Ach, mały stażysta Schumana! Chodź, chodź. Ja też zaczynałem od zera. Potem osiemnaście lat jako premier.
+566 Przewodniczyłem Eurogrupie, potem Komisji. Widziałem niejeden szczyt. I poklepałem mnóstwo policzków.
+567 Kiedyś, w 2011 r., powiedziałem: „Kiedy robi się poważnie, trzeba kłamać”. Więc nie powiem ci, że dam ci wygrać.
+568 Wspaniale! Zdobyłeś Odznakę Interpretacji. Ta jest oficjalna, nie poufna!
+569 Droga wzdłuż Mozeli jest otwarta. Frankfurt czeka, a Christine Lagarde nie żartuje ze stóp procentowych.
+570 Znowu mnie odwiedzasz? Chodź, poklepię cię po policzku. To luksemburska tradycja. No, moja.
+571 Tu, 14 czerwca 1985 r., na pokładzie statku Princesse Marie-Astrid, pięć krajów podpisało układ z Schengen o zniesieniu kontroli granicznych.
+572 Kapitan
+573 Princesse Marie-Astrid! Na takim statku zniesiono granice. Ironia losu, na rzece, która sama jest granicą.
+574 Podobno rzadki Euromon, Schengeon, krąży po aktach wioski. Nigdy nie zatrzymuje się na cle.
+575 Droga 2 — Dolina Mozeli. Trzy kraje na dwudziestu kilometrach. Pamiętaj, żeby zmienić język.
+577 Darmowy roaming to najpiękniejszy prezent od Unii. Wrzuciłem 4000 zdjęć Mozeli.
+579 Według moich obliczeń zdobędziesz następną odznakę. Ale moje obliczenia rzadko się sprawdzają.
+581 Luksemburski crémant ma ChNP! Jak mój Fromajus.
+582 Europejski Bank Centralny. Misja: stabilność cen. Cel inflacyjny: 2% w średnim terminie. Średni termin: nieokreślony.
+584 Rynki są nerwowe. Zawsze są nerwowe. Taka ich praca.
+585 Ciułacz
+586 Wciąż mam materac pełen marek niemieckich. Nigdy nie wiadomo.
+587 Droga nad Ren jest zamknięta dla stażystów bez Odznaki Euro. Proszę iść do pani Lagarde do EBC.
+589 Spekulowałem na twoją porażkę. Straciłem koszulę. I krawat.
+590 Dr Sofia
+591 Szok był egzogeniczny. Całkowicie egzogeniczny.
+593 Witamy w Europejskim Banku Centralnym. Tutaj każde moje słowo porusza rynki. Dlatego dobieram słowa.
+594 Pewnego dnia w marcu 2020 r. powiedziałam, że „nie jesteśmy tu, by zmniejszać spready”. Włoskie rynki runęły. Człowiek się uczy.
+595 Na mojej arenie siła moich ataków zależy od aktualnej stopy referencyjnej. Gotowy na odrobinę polityki pieniężnej?
+596 Znakomicie. Pańska strategia była… przewidywalna, w dobrym sensie. Oto Odznaka Euro.
+597 Strasburg jest na południu, za winnicami nad Renem. Roberta Metsola przewodniczy Parlamentowi. Nigdy jej nie przerywaj.
+598 Stopy są dziś stabilne. Proszę korzystać, to nigdy nie trwa długo.
+599 EBC wszystko mi wytłumaczył: inflację, stopy, bilans… Nic nie zrozumiałem. Dawaj, debata na odstresowanie!
+600 Hmm. Wiesz, u mnie w Londynie niektórzy mówią o wyjściu z Unii. To byłoby śmieszne, prawda? …Prawda?
+602 Zielony Ład przedstawiono w grudniu 2019 r. Od tamtej pory walczymy o każdy przecinek.
+604 Mój następny artykuł: „Komisja chce zakazać przegranych debat”. To nieprawda, ale się rozniesie.
+606 Wino alzackie i badeńskie patrzą na siebie ponad Renem. Kiedyś były to armaty. Postęp!
+607 Strasburg, oficjalna siedziba Parlamentu Europejskiego. 12 sesji plenarnych rocznie. 720 posłów. Tysiące kufrów.
+608 Eurodeputowana
+609 Kursuję Bruksela–Strasburg dwanaście razy w roku od 2014 r. To daje… 132 przeprowadzki. Moje kufry mają więcej punktów lojalnościowych niż ja.
+610 Urzędnik
+611 Na pomoc! Sesja zaczyna się za 2 minuty, a kufry posłów nie są załadowane! Pomożesz mi?
+612 Wszystkie kufry są na pokładzie! Proszę, weź to, oficjalna nagroda działu logistyki.
+613 Nie udało się… No dobra, powiemy, że sesja zaczyna się z opóźnieniem. Jak zwykle. Spróbuj jeszcze raz, kiedy chcesz!
+614 No cóż… znowu pójdę popłakać do kufra.
+615 Poseł Müller
+616 Moje 2000 poprawek… odrzucone en bloc. Trzeba będzie zacząć od nowa w komisji.
+617 Posłanka Rossi
+618 Do traktatu z Lizbony miałam cały kufer notatek. Został w Brukseli.
+619 Woźny
+620 Cisza na sali! Pani przewodnicząca przyjmuje debaty dopiero po głosowaniu. Czy chce pan spróbować głosowania plenarnego?
+621 Przyjęte większością głosów! Przewodnicząca pana przyjmie.
+622 Odrzucone… Nie było kworum. Proszę spróbować ponownie!
+623 Pański głos został zarejestrowany. Przewodnicząca na pana czeka.
+625 Otwieram posiedzenie. Przewodnicząca Parlamentu od 2022 r., ponownie wybrana w 2024 r.: jestem przyzwyczajona do pilnowania czasu wystąpień.
+626 Ma pan trzydzieści sekund. O, już minęło. Dobrze, debatujmy!
+627 Wynik jest jasny: przyjęte! Odznaka Hemicyklu należy do pana.
+628 A oto europejski bilet Interrail. Z nim wszystkie dworce stoją otworem. Pańska następna odznaka jest w Atenach.
+629 Podobno Yanis Varoufakis daje tam lekcje… na motocyklu. Proszę wsiąść do pociągu na dworcu w Strasburgu.
+630 Debata? Nie bez głosowania na posiedzeniu plenarnym. Proszę zwrócić się do woźnego.
+631 Następna sesja za miesiąc. Proszę nie zapomnieć kufrów!
+632 Ateny. Kolebka demokracji, filozofii… i referendum z 5 lipca 2015 r.
+633 Akropol ma 2500 lat. Przetrwał Persów, Osmanów i Trojkę.
+634 Grecki celnik
+635 Port w Pireusie? Zamknięty dla zwiedzających. Należy do… partnerów. Bardzo partnerskich.
+636 Przykro mi, dostęp do portu ograniczony. Proszę wrócić, gdy sytuacja będzie… bardziej dyplomatyczna.
+638 W 2015 r. głosowałem OXI. A potem… to skomplikowane.
+639 Agent Trojki (EBC)
+640 Nasz raport zaleca jeszcze więcej oszczędności. Nawet dla pańskich Euromonów.
+641 Agent Trojki (MFW)
+642 Przyznajemy się do kilku błędów w prognozach. Między nami.
+644 Przyszedłeś po odznakę? Przyjechałem tu motocyklem, w skórzanej kurtce, bez krawata. Jak na posiedzenia Eurogrupy w 2015 r.
+645 Minister finansów przez sześć miesięcy. Podałem się do dymisji po referendum: 61% za OXI. Demokracja jest piękna, i uparta.
+646 Trojka na mnie czyhała. Ty pokonałeś jej agentów. Pokaż, czy jesteś silniejszy od polityki zaciskania pasa!
+647 NAI! Eee, to znaczy: brawo. Oto Odznaka OXI, towarzyszu.
+648 Twoja następna odznaka jest w Londynie. Ale pośpiesz się: tam coraz częściej mówi się o pewnych drzwiach wyjściowych.
+649 Jadę wygłosić kolejny wykład. O długu. Na motocyklu.
+650 Westminster. Tu, 23 czerwca 2016 r., Zjednoczone Królestwo zagłosowało w 51,9% za wyjściem z Unii Europejskiej.
+651 Gwardzista królewski
+652 (Nie rusza się. Nawet z powodu brexitu.)
+653 Redaktor naczelny
+654 Jutro na pierwszej stronie: za proste ogórki. Działa od dwudziestu lat.
+656 W latach 90. byłem korespondentem „Daily Telegraph” w Brukseli. Pisałem rzeczy… z wyobraźnią. Get Brexit done!
+658 Witamy w pubie! Pinta? Spędziłem dwadzieścia lat w Parlamencie Europejskim, tłumacząc, że nie powinno nas tam być.
+659 28 czerwca 2016 r. rzuciłem do eurodeputowanych: „Teraz już się nie śmiejecie, co?”. Nie śmiali się. Ty też nie będziesz.
+660 Dobra. Wygrał pan. Proszę wziąć tę Odznakę Artykułu 50. My już go wykorzystaliśmy.
+661 Jeszcze pan tu jest? Wyszliśmy, wie pan.
+662 Muszę wracać do domu. Nie mam już prawa być stażystą w Parlamencie. Ale najpierw… ostatnia debata. Dla honoru.
+663 Dzięki, {P}. Miej oko na dyrektywę za mnie. I na czas letni. U nas, oczywiście, nigdy go nie zmienimy.
+664 Goodbye. A raczej… see you later. Kto wie?
+665 Oliver odjechał. Pociąg do Londynu nie pojawi się już w kasie. Następny przystanek: Budapeszt nad Dunajem.
+666 Országház, węgierski parlament nad Dunajem. Największy budynek na Węgrzech. I największe weto.
+667 Młoda Węgierka
+668 Mówi się, że opozycja zyskuje poparcie. Niejaki Péter Magyar prowadzi kampanię w całym kraju.
+670 Węgrzy głosowali 12 kwietnia 2026 r. Moja partia, Tisza, zdobyła większość dwóch trzecich. Otwiera się nowy rozdział!
+672 Zbudowaliśmy płot. Służy głównie do zdjęć.
+673 Specjalny doradca
+674 Pan premier zaraz wyjdzie na kawę. To technika negocjacyjna.
+676 Szuka pan porozumienia? Tu potrzebna jest jednomyślność. A ja nigdy się nie zgadzam.
+677 W 2024 r. przewodniczyłem Radzie UE pod hasłem „Make Europe Great Again”. Nic panu nie przypomina?
+678 Na mojej arenie mogę w każdej turze użyć WETA. A czasem… wychodzę na kawę. Jak w grudniu 2023 r., podczas głosowania w sprawie Ukrainy.
+679 …Dobra. Wstrzymuję się. Proszę wziąć Odznakę Weta. Oficjalnie nie było mnie na sali.
+680 Kilka miesięcy później, 12 kwietnia 2026 r., Węgrzy głosują. Partia Tisza Pétera Magyara wygrywa większością dwóch trzecich.
+681 Orbán uznał swoją porażkę: „bolesna, ale jednoznaczna”. Dziękuję, stażysto. Proszę wracać do Brukseli: podobno DG ds. Konkurencji ma problem… z lobby.
+682 Wyszedłem na kawę. Proszę wrócić później. Dużo później.
+684 Na placu Lux w czwartkowe wieczory cała Bruksela wpada na drinka. Posłowie, asystenci… i lobbyści. Zwłaszcza lobbyści.
+685 Piwnica? Tylko dla członków. Jest pan w rejestrze przejrzystości? Nie? Ja też nie. Proszę wejść.
+686 Rozejść się, stażysto. Tu dorośli rozmawiają o interesach.
+687 Lobbysta naftowy
+688 Transformacja energetyczna? Popieramy ją. Od 2080 r.
+689 Lobbysta technologiczny
+690 Szanujemy RODO. Mamy nawet 47-stronicowy baner cookies.
+691 Walizki? To walizki z dokumentacją. Bardzo dobrze udokumentowane.
+693 W grudniu 2022 r. belgijska policja znalazła torby z banknotami w kilku mieszkaniach w Brukseli. Nazwano to „Katargate”.
+694 Byłam wiceprzewodniczącą Parlamentu. Zawsze kwestionowałam zarzuty. Na dzień wydania tej gry w sprawie nie zapadł żaden prawomocny wyrok.
+695 Uwaga: każda osoba, której postawiono zarzuty, jest uważana za niewinną, dopóki nie zostanie osądzona.
+696 Główny Lobbysta
+697 No proszę. Stażysta. Wiesz, ilu nas jest w Brukseli? 25 000. A ty jesteś jeden.
+698 Twoja dyrektywa o czasie letnim? Mam klientów, którzy sprzedają zegary. Pozostanie zablokowana. Chyba że…
+699 Dobrze zagrane. Oficjalnie zgłaszam porażkę w rejestrze przejrzystości. I idę do sektora prywatnego. A, już tam jestem.
+700 Team Lobby się rozpierzcha. Dochodzenia DG ds. Konkurencji mogą ruszyć dalej!
+701 Prawnik Big Tech
+702 Odwołamy się. A potem odwołamy się od odwołania.
+703 Prawnik ds. konkurencji
+704 Nadużycie pozycji dominującej… „Nadużycie” to mocne słowo.
+706 Dziękuję, że uwolnił nas pan od Team Lobby. Moje sprawy wreszcie ruszyły!
+707 Google: 2,4 mld euro kary w 2017 r., 4,3 mld w 2018 r. Apple: 13 mld pomocy podatkowej do zwrotu, potwierdzone przez Trybunał w 2024 r.
+708 Czy pańska drużyna przestrzega reguł konkurencji? Sprawdzę. Osobiście.
+709 Nie stwierdzono naruszeń. Odznaka Grzywny należy do pana. I proszę wziąć jeszcze to: odznakę OLAF, Urzędu ds. Zwalczania Nadużyć Finansowych.
+710 Zgłaszane są… dziwne obecności w jednym skrzydle Parlamentu. Asystenci, których nikt nigdy nie widzi. Z tą odznaką pan ich zobaczy.
+711 Dziś żadnej kary dla pana. Proszę korzystać.
+712 Zimny korytarz… Słychać klawiatury, które piszą same. Ale nikogo tu nie ma. Trzeba by sposobu, żeby zobaczyć niewidzialne.
+713 Lepiej na razie zejść na dół.
+714 Asystent widmo
+715 Mój gabinet? Nigdy go nie znalazłem…
+716 Płacono mi za asystowanie… partii. Nie posłowi.
+717 Uuu… Przez zmianę czasu pojawiam się dwa razy w roku…
+718 W mojej umowie stoi „asystent lokalny”. Lokalny czego? Zagadka.
+719 Znikam… wreszcie…
+720 Dziękuję… że uwolniłeś mnie od tej umowy…
+722 Afera asystentów parlamentarnych FN: system opłacał pracowników partii z pieniędzy Parlamentu Europejskiego.
+723 Zostałam skazana w pierwszej instancji 31 marca 2025 r., a potem w apelacji 7 lipca 2026 r.: trzy lata, w tym rok bezwzględnie z bransoletką elektroniczną, i piętnaście miesięcy niewybieralności.
+724 Przy takim wyroku w apelacji jej kandydatura w wyborach prezydenckich w 2027 r. znów jest teoretycznie możliwa. Pozostaje jeszcze ewentualna kasacja.
+726 Afera asystentów MoDem to co innego. W lutym 2024 r. zostałem uniewinniony „z powodu wątpliwości”. Prokuratura się odwołała.
+727 Potem byłem premierem… od grudnia 2024 do września 2025 r. Czas w Matignon szybko leci.
+728 Asystenci widma nie uprawiają polityki: nawiedzają wszystkie partie, które źle ich zatrudniały.
+729 Pusta Umowa
+730 JESTEM… DUCHEM WSZYSTKICH UMÓW BEZ GABINETU… WSZYSTKICH PARTII… WSZYSTKICH KADENCJI…
+731 Pusta Umowa rozwiewa się w chmurze pasków wypłat. Skrzydło widm wreszcie jest spokojne.
+732 Przychodzi wiadomość od Roberty Metsoli: „Dziękuję! Ostatnia odznaka czeka na pana w Paryżu, na Sorbonie”.
+733 Sorbona. Tu Emmanuel Macron wygłosił dwa wielkie przemówienia o Europie, w 2017 i w 2024 r. Drugie trwało prawie dwie godziny.
+734 Zapytałem o drogę po angielsku. Odpowiedzieli mi po francusku. Z uśmiechem. Bardzo lekkim.
+735 Absolwent ENA
+736 Napisałem notatkę syntetyczną o mojej porażce. Ma 80 stron.
+737 Wiceminister
+738 Właśnie zdymisjonowano mnie w trakcie walki. To rekord.
+740 Witamy na Sorbonie! Tu mówiłem o suwerennej Europie w 2017 r. Potem o Europie, która „może umrzeć”, w 2024 r.
+741 W 2019 r. powiedziałem, że NATO jest w stanie „śmierci mózgowej”. W 2024 r. rozwiązałem Zgromadzenie Narodowe. Lubię… zaskakujące decyzje.
+742 Więc debatujmy, a jednocześnie myślmy. Autonomia strategiczna!
+743 Wspaniale! Ma pani zadatki na wielką Europejkę… albo pan na wielkiego Europejczyka. A jednocześnie na jedno i drugie. Odznaka Sorbony należy do pana.
+744 Z ośmioma odznakami czeka na pana Rada Europejska w budynku Europa w Brukseli. Powodzenia: ich szczyty rzadko kończą się przed 5 rano.
+745 Chętnie opowiadałbym panu o Europie przez dwie godziny, ale musi pan przekonać Radę.
+746 Prolog — 9 maja 1950
+747 9 maja 1950
+748 Paryż, Quai d'Orsay, godz. 18
+750 Panowie, dziękuję za przybycie. Będę zwięzły. No… spróbuję.
+751 (szeptem) Mówi tak za każdym razem.
+752 (szeptem) Robercie. Zdanie o węglu. Proszę nie zapomnieć zdania o węglu.
+753 „Rząd Francji proponuje poddanie całości francusko-niemieckiej produkcji węgla i stali wspólnej Wysokiej Władzy”.
+754 Węgiel? Stal? Dla tego przegapiliśmy aperitif?
+755 Pięć lat po wojnie idea jest prosta i szalona: połączyć to, z czego robi się armaty.
+756 Aby wojna stała się „nie tylko nie do pomyślenia, ale i materialnie niemożliwa”.
+757 Sześć krajów w 1951 r. Potem dziewięć, dwanaście, piętnaście, dwadzieścia pięć… Dziś dwadzieścia siedem.
+758 A każdego ranka gdzieś w Brukseli jakiś stażysta budzi się spóźniony.
+759 Rozdział 1
+760 Poniedziałek. Twój budzik pokazuje 6:58. Telefon — 7:58. Jednego z nich nie uprzedzono o zmianie czasu.
+762 PIERWSZY DZIEŃ STAŻU!
+763 Rue de la Loi. Jeden rogalik, trzy teczki, zero godności.
+764 Rowerzysta
+765 Ścieżka rowerowa! Nawet stażyści przestrzegają rozporządzenia 2019/1242! No, chyba istnieje.
+766 {P}! Pierwszy dzień i już godzina spóźnienia. Ja jestem tu od 6:58. Czasu londyńskiego, oczywiście.
+767 Profesor Schuman czeka na nas w holu Parlamentu. Powiedziałem mu, że jesteś chory. Podziękujesz mi później.
+768 Rozdział 2 — Luksemburg
+769 Rozdział 2
+770 Most Adolfa przecina dolinę Pétrusse. Na dole ogrody. Na górze banki. Pośrodku twój pociąg.
+771 Ach, mały Anglik! Chodź, niech cię ucałuję!
+772 Sir, ja… we don't do that. W Anglii podajemy sobie rękę. Z daleka. W rękawiczkach.
+773 To jest Luksemburg. Całujemy się w policzek, klepiemy po policzku i mówimy w czterech językach w jednym zdaniu. Moien, bonjour, guten Tag, hello!
+775 Moja Złota Arena jest na Kirchbergu, stażysto. Przychodź, kiedy chcesz. Klepię po policzkach za darmo. To jedyna darmowa usługa w dzielnicy.
+776 Schengen, trzy granice
+777 Schengen. Tu Francja, Niemcy i Luksemburg stykają się czubkami winorośli.
+778 14 czerwca 1985 r. pięć krajów podpisało tu, na statku, układ znoszący kontrole graniczne. Na rzece, która JEST granicą. Nad Mozelą kochamy ironię.
+779 Celnik
+780 Trzydzieści lat stempluję paszporty. A teraz? Motyle przelatują bez wizy.
+781 Przekwalifikuję się. Stemplarz pocztówek. To rynek z przyszłością.
+782 Rozdział 3 — Frankfurt
+783 Rozdział 3
+784 Frankfurt nad Menem
+785 Frankfurt nocą. Dwie szklane wieże, symbol euro wielki jak autobus. Europejski Bank Centralny nigdy nie śpi. Pilnuje inflacji.
+786 Widzi pan tę dźwignię? Stopa referencyjna. Podnoszę ją, ceny się uspokajają. Obniżam, gospodarka oddycha.
+787 Dotknę jej niechcący łokciem i upadają trzy rządy. Dlatego nigdy nie opieram się o biurko.
+788 IT'S RAINING EUROS! To jest luzowanie ilościowe?!
+789 Nie, proszę pana. To klimatyzacja zdmuchnęła banknoty z wystawy. Proszę je oddać. Wszystkie. Liczę.
+790 Rozdział 4 — Strasburg
+791 Rozdział 4
+792 Raz w miesiącu Parlament przeprowadza się z Brukseli do Strasburga. Z posłami, asystentami… i tysiącami kufrów.
+793 Eurodeputowany
+794 Mój kufer był na większej liczbie sesji plenarnych niż ja. Ma nawet miejsce w komisji transportu.
+795 Otwieram posiedzenie! …Gdzie są posłowie?
+796 Pani przewodnicząca, wciąż szukają kufrów na peronie.
+797 To głosujemy przez podniesienie ręki. Czy kufry mają prawo głosu? Nie? Szkoda, przynajmniej są punktualne.
+798 Rozdział 5 — Ateny
+799 Rozdział 5
+800 Akropol o zachodzie słońca. Dwa i pół tysiąca lat demokracji, filozofii… i zebrań, które kończą się późno.
+801 Panie Varoufakis, pański plan nie zgadza się z naszymi arkuszami kalkulacyjnymi.
+802 Wasze arkusze nie zgadzają się z rzeczywistością. Proponuję debatę. Na motocyklu, jeśli nadążycie.
+803 Nie jeździmy na motocyklach. Wydajemy zalecenia.
+804 To zalećcie sobie zejść mi z drogi. Czeka na mnie arena.
+805 Rozdział 6 — Londyn
+806 Rozdział 6
+807 Londyn w deszczu. Jak zwykle. Ale tym razem w powietrzu wisi coś cięższego.
+808 Pinta dla wszystkich! I autobus na kampanię! Nieważne, co na nim napiszemy, ludzie przeczytają autobus, nie przypisy.
+809 Bez paniki! Utknąłem na tyrolce, ale to strategia. Get Brexit done! I niech ktoś przyniesie drabinę.
+810 Referendum
+811 23 czerwca 2016 r. 51,9% głosujących wybiera wyjście z Unii Europejskiej.
+812 31 stycznia 2020 r. o północy czasu brukselskiego — o 23:00 w Londynie — Zjednoczone Królestwo przestaje być członkiem Unii.
+813 Wiesz, co jest dziwne? Na początku nie chciałem tu być. Chciałem tylko wygrać.
+814 A teraz muszę wyjechać i już nie chcę. Ironic, isn't it?
+815 Wrócisz. Jest Erasmus, wymiany, wizy studenckie…
+816 Erasmus? Z niego też wyszliśmy. Ale znajdę sposób. Anglicy zawsze znajdują sposób, żeby wrócić do Europy. Nazywa się to wakacje.
+817 Rozdział 7 — Budapeszt
+818 Rozdział 7
+819 Węgierski parlament, złoty nad Dunajem. Największy budynek w kraju. I największa kolekcja pieczątek „WETO” w Europie.
+820 Budżet europejski? Weto. Pomoc dla Ukrainy? Weto. Nowy kolor przepustek Rady? Weto. Z zasady.
+821 Panie premierze, to było pańskie zamówienie na obiad.
+822 …Weto i tak. Nie lubię, kiedy decyduje się za mnie.
+823 12 kwietnia 2026
+824 Węgrzy! Dziś wieczorem nie wygraliśmy z Europą ani z sąsiadami. Wygraliśmy dla siebie!
+825 Tłum
+827 Nie obrażam się. Myślę. Tyłem. Z chmurką nad głową. To zupełnie co innego.
+828 Grudzień 2022 — świt
+829 Bruksela, grudzień 2022. O świcie belgijska policja przeprowadza przeszukania wokół placu Lux.
+830 Policjant
+831 Szefie, są torby. Z banknotami w środku. Mnóstwo banknotów.
+832 Szef policji
+833 Przeliczcie je. I nie dotykajcie piłki, to może być dowód.
+834 Zatrzymano wysokich rangą przedstawicieli Parlamentu i osoby z ich otoczenia. Śledztwo dotyczy możliwej korupcji na rzecz obcych państw.
+835 Wszystkie osoby, którym postawiono zarzuty, są niewinne do czasu prawomocnego wyroku.
+836 (w oddali) My nie mamy z tym nic wspólnego. My płacimy kanapeczkami. To dyskretniejsze.
+837 DG ds. Konkurencji
+838 Jeszcze jedna kara. Podpisuję, uśmiecham się, robię na drutach słonia. To bardzo kojące.
+839 Pani komisarz, cyfrowi giganci proszą o przedłużenie terminu.
+840 Zgoda. Mają czas do… teraz.
+842 Akt o usługach cyfrowych dotyczy wszystkich, panie Musk. Nawet sieci, które co pół roku zmieniają nazwę.
+844 Odpowiadam memem. To moje oficjalne stanowisko prawne.
+845 Ja odpowiadam czterostronicowym listem. To moje.
+846 Każdy ciągnie telefon w swoją stronę. Telefon tymczasem pokazuje „słaba bateria”.
+847 Wieża asystentów widm
+848 Dzięki odznace OLAF niewidzialne staje się widzialne. Po korytarzu unoszą się półprzezroczyści asystenci z paskiem wypłaty w ręku.
+849 Dzień dobry… Pracuję tu od 2009 r… No, moja umowa tu pracuje… Ja nigdy tu nie przyszedłem…
+850 Moi pracodawcy są na samej górze. Mówią, że mnie nie znają. To przykre, jak na ducha.
+851 (zza drzwi) Nie ma mnie. A jeśli jestem, to z powodu wątpliwości.
+852 Rozdział 9 — Paryż
+853 Rozdział 9
+854 Paryż w złotej godzinie. Wieża Eiffla, Sekwana i gdzieś przemówienie, które się zaczyna i nie kończy.
+855 Europa musi być suwerenna! Potężna! Humanistyczna! A dodałbym nawet, jeśli państwo pozwolą, a ja sobie pozwolę…
+856 Student
+857 Jak długo on już mówi?
+858 Studentka
+859 Godzinę czterdzieści. Właśnie skończył wstęp.
+860 Jestem za dyscypliną I za inwestycjami. Za otwartością I za ochroną. Zgadzam się z panem I z pańskim przeciwnikiem.
+861 Jak to się nazywa?
+862 „Jednocześnie”. Opatentowane. No, jednocześnie wolne od opłat.
+863 Kwiecień 2021 — Ankara
+864 Kwiecień 2021, Ankara. Do sali wchodzi troje przywódców. Są dwa fotele.
+866 (już siedzi) Och. O nie. Właśnie zrozumiałem.
+867 Nie, nie, proszę nie wstawać. Na tej kanapie jest mi bardzo dobrze. Jest długa. Jest beżowa. Jest daleko.
+868 Incydent obiegł świat jako „Sofagate”. Od tamtej pory Charles Michel liczy krzesła, zanim gdziekolwiek wejdzie.
+869 Rozdział 10 — Rada Europejska
+870 Rozdział 10
+871 Noc Rady Europejskiej
+872 Budynek Europa. W jego szklanej latarni obradują szefowie państw i rządów. Szczyty zaczynają się o 15:00. Kończą się… później.
+873 Drodzy koledzy, jest 4:12. Zostaje nam jeden przecinek do ustalenia w punkcie 37.
+874 Bywałam na szczytach, na których negocjowaliśmy przecinek aż do śniadania. To był bardzo piękny przecinek.
+875 Proponuję przecinek. Za wszelką cenę.
+876 Proponuję zamówić jeszcze pizzę, zanim ktoś zaproponuje średnik.
+877 POROZUMIENIE! Jest 5:03. Konkluzje przyjęte. Czy ktoś może obudzić premiera, który śpi pod stołem?
+878 13. piętro
+879 Berlaymont o zachodzie słońca. Trzynaście pięter. Na ostatnim czeka przewodnicząca Komisji.
+880 Charles, może pan przestać się dąsać? Minęło pięć lat.
+881 Nie dąsam się. Patrzę na ścianę. Bardzo ciekawa ta ściana. Nie ma fotela.
+882 {P}. Wreszcie pan jest.
+883 Chce pan dyrektywy? Proszę mnie pokonać. Team Europe — na końcu może zostać tylko jeden.
+884 Ściana stażystów
+885 Na 13. piętrze długi korytarz zdobią zdjęcia wszystkich stażystów Komisji. Nikt na nie nigdy nie patrzy.
+886 Dziś zawieszono nową złotą ramkę. I tym razem ktoś się zatrzymuje, żeby na nią spojrzeć.
+887 Rozdział 11 — Mocarstwa
+888 Rozdział 11
+889 Mocarstwa
+890 Port w Antwerpii. Ląduje samolot prezydencki. Ostrożne mewy odlatują w stronę Holandii.
+891 Prezenterka telewizyjna
+892 Wydanie specjalne! Waszyngton, Moskwa i Pekin wysyłają jednocześnie wiadomości do Europy. Rynki wahają się między paniką a drzemką.
+893 Klient kawiarni
+894 Znowu? Nawet nie skończyłem gofra.
+895 Kelner
+896 To gofr, proszę pana. Nie kryzys. W przeciwieństwie do skrzynki odbiorczej Komisji.
+897 W tej samej chwili do Pireusu wpływa kontenerowiec wielki jak miasto. Nikt dokładnie nie wie, co przewozi. Ani co kupuje.
+898 Antwerpia — green
+899 Proszę spojrzeć na ten green. Między dwoma kontenerami. Najpiękniejszy green w historii portów.
+900 Panie prezydencie, torba golfowa jest bardzo ciężka. Możemy ją oclić?
+901 Wspaniałe uderzenie, tatusiu! Eee… panie prezydencie!
+902 Każda piłka, która opuszcza Stany Zjednoczone, płaci cło. Ta też. Zwłaszcza ta. Wpadła do Skaldy? BARDZO NIESPRAWIEDLIWE.
+903 Warszawa — śnieg
+904 Pałac na końcu równiny? Tam na pana czeka. Proszę wziąć szalik. I megafon, na ten stół.
+905 Powie panu, że Europie jest bez niego zimno. Proszę mu pokazać, że Europa nauczyła się sama się ogrzewać.
+906 Stół
+907 Biały stół. Bardzo biały. Bardzo długi. Tak długi, że ma własną strefę czasową.
+908 (bardzo głośno) DZIEŃ DOBRY!
+909 Trzy sekundy później echo wraca z drugiego końca sali.
+910 Słyszę pana bardzo dobrze. To pan jest za blisko.
+911 Pireus
+912 Prezent. Pluszowa panda. Symbolizuje przyjaźń między naszymi narodami.
+913 Jest bardzo słodka. Dziękuję. …Dlaczego port właśnie zmienił banderę?
+914 Partnerstwo strategiczne. Wy zatrzymujecie pandę. My zatrzymujemy port. Wszyscy są zadowoleni.
+915 Grecki doker
+916 Wolałbym prawdziwą pandę. Je bambus, ale przynajmniej niczego nie wykupuje.
+917 Szczyt G-Wszystko
+918 Szczyt G-Wszystko. Trzy mocarstwa. Jeden stół. I Europa, którą posadzono na dostawce.
+919 Europa musi wybrać: mnie.
+920 Europa musi wybrać: mnie. Albo zimno.
+921 Europa może wybierać. Kupiliśmy już obie opcje.
+922 Europa wstaje
+923 Europa nie wybiera pana. Wybiera bycie razem. Dwadzieścia siedem krajów, dwadzieścia cztery języki, jeden stół. Nasz.
+924 Wychodzę. To JA zdecydowałem, że wychodzę. Nikt mnie nie pokonał.
+925 Ja też wychodzę. I tak drzwi były za blisko mnie.
+926 Wychodzimy. Ale pozostajemy partnerami. I konkurentami. I rywalami. Dobranoc.
+927 Trzaskają troje drzwi. Trzy mocarstwa się dąsają. A na sali stażyści biją brawo.
+928 Epilog
+929 Bruksela, wieczór końca stażu
+930 Grand-Place w Brukseli. Niebieskie i złote fajerwerki rysują dwanaście gwiazd nad ratuszem.
+931 {P}, w imieniu wszystkich instytucji oto twoje zaświadczenie o ukończeniu stażu. Podpisane, kontrasygnowane i przetłumaczone na dwadzieścia cztery języki.
+932 W wersji maltańskiej jest literówka. Taka tradycja.
+933 {P}! WAIT! Nie zaczynajcie beze mnie!
+934 Oliver?! Ale… jak?
+935 Wiza dla młodych, ubezpieczenie, dwa formularze, trzy pieczątki. Prawdziwy papierkowy Euromon. Wróciłem. Jako turysta. Ale wróciłem!
+936 Zdjęcie grupowe! Wszyscy ściśnięci! Klepanie po policzkach potem.
+937 Będę na zdjęciu tylko wtedy, gdy nikt nie powie, że byłem na zdjęciu.
+938 (poza kadrem) Weto wobec zdjęcia.
+939 Nie ma już prawa weta. Uśmiech!
+940 „Nie tworzymy koalicji państw, jednoczymy ludzi”. Mężczyzn, kobiety i stażystów.
+941 Konkretne osiągnięcia. Faktyczna solidarność. Brawo, młody. A teraz… spać. Jutro jest spotkanie koordynacyjne w sprawie spotkań.
+942 Rzym, 25 marca 1957
+943 Plac Kapitoliński. 25 marca 1957 r. sześć krajów podpisało tu traktaty rzymskie. Kamień to pamięta. Zaczyna lśnić.
+944 Maastricht, 7 lutego 1992
+945 Moza nocą. Tu narodziła się Unia Europejska i idea wspólnej waluty. Świecące monety wypływają na powierzchnię wody.
+946 Lizbona, 13 grudnia 2007
+947 Świt nad Tagiem. Przed klasztorem Hieronimitów strony traktatu zaczynają unosić się w powietrzu, a potem latać.
+948 Witamy w stołówce! Kawa, kanapka i twoje Euromony są jak nowe… no, jak w 57.
+949 Zająć się twoją drużyną?
+950 Gotowe! Wszyscy w świetnej formie. Kawa natomiast wciąż letnia.
+951 Jak chcesz. Ale nie przychodź płakać na następnej debacie!
+952 Dzień dobry! Dworzec europejski, jedno okienko. Bilet Interrail poproszę… Doskonale. Dokąd jedziemy?
+953 Przykro mi, pociągi międzynarodowe są tylko dla posiadaczy biletu Interrail. Podobno można go wygrać w Strasburgu.
+954 Jem tu od 1993 r. Menu zmieniło się tylko raz: kiedy przyszło euro.
+955 Bankier
+956 Tu nawet kawa ma rezydencję podatkową gdzie indziej.
+957 Ekonomista
+958 Cena kanapki wzrosła o 12% od 2021 r. Mój model przewidywał 2%. Mój model jest głodny.
+959 Asystent parlamentarny
+960 Cztery dni w miesiącu tutaj, reszta w Brukseli. Moje kwiatki już mnie nie poznają.
+961 Kelnerka
+962 Kawa frappé? To jedyna rzecz, której Trojka nigdy nie zdołała zreformować.
+964 Kiedyś narzekaliśmy na Brukselę. Teraz narzekamy, że nie możemy już narzekać na Brukselę.
+965 Tu je się gulasz. I debatuje, dyskretnie.
+966 Filozof
+967 Myślę, więc jem obiad. I to długo: to przecież Paryż.
+968 Klientka
+969 Szukam ładowarki… A, no tak, teraz wszędzie jest USB-C. Co za szczęście.
+970 Ceny są netto. Oczywiście.
+971 Klient
+972 Płacę wszystko gotówką. Niemcy uwielbiają gotówkę.
+973 Przyszedłem kupić Pieczątki. Moja szefowa chce podstemplować Euromona zmiany czasu.
+974 Wszystko za pół ceny! A, nie, to VAT się podwoił.
+975 Cena jest w funtach, w euro czy w obietnicach wyborczych?
+976 Sprzedawca zapytał mnie o zdanie o rządzie. Powiedziałem: „weto”.
+977 Bagietkę, Pieczątkę i manifestację poproszę.
+978 Podróżna
+979 Mój pociąg do Strasburga ma cztery godziny opóźnienia. Parlament zresztą też.
+980 {P}! Niespodzianka! Przyjechałem Eurostarem. Z paszportem, formularzem i dwiema godzinami w kolejce. Przyszedłem prosić… o powrót. Rejoin?
+981 Ale najpierw debata. Jak za starych dobrych czasów!
+982 Co za staż! Podobno żeby wrócić, trzeba wynegocjować 35 rozdziałów. Zaczynam jutro. Cheers, {P}!
+983 Rozdział 1 z 35: „swobodny przepływ towarów”. Idzie do przodu!
+984 Podróżny
+985 W Luksemburgu transport publiczny jest darmowy od 2020 r. Nawet dla stażystów!
+986 Dojeżdżam na trasie Frankfurt–Bruksela. Znam każdą krowę przy torach po imieniu.
+987 Te żelazne kufry należą do eurodeputowanych. Podróżują więcej niż ja.
+988 Pociąg do Pireusu? Odwołany. Podobno ktoś kupił port.
+989 Do Eurostara trzeba teraz paszportu. Odzyskaliśmy kontrolę. Nad kolejkami.
+990 Dunaj przepływa przez dziesięć krajów. Ja tylko próbuję przejechać przez jeden bez kontroli.
+991 Strajk na kolei. A, nie, to po prostu wtorek.
+992 Doker
+993 Antwerpia, drugi port Europy. Przepływa tu wszystko. Nawet cła.
+994 Bez gazu jest tak zimno, że pingwiny proszą o azyl.
+995 Wszystkie drogi prowadzą do Rzymu. Pociągi też, z opóźnieniem.
+996 Tu w 1992 r. podpisano traktat. Świeciło słońce. To był jedyny raz.
+997 Lizbona, 2007: podpisaliśmy traktat bardzo podobny do Konstytucji. Ciii.
+998 Dziś jest 9 maja: Dzień Europy! W całej dzielnicy europejskiej powiewają flagi.
+999 Rzadki Euromon, zwabiony uroczystościami, wyskakuje ze sterty akt!

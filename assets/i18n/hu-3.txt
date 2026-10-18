@@ -1,0 +1,497 @@
+# Magyar — ids 1000-1499
+1000 Boldog Európa Napot! Találkozunk jövőre.
+1001 Techno
+1002 Föderális
+1003 Szuverén
+1004 Liberális
+1005 Szociális
+1006 Zöld
+1007 Ipari
+1008 Energia
+1009 Jogi
+1010 Monetáris
+1011 Agrár
+1012 Digitális
+1013 Diplo
+1014 Lobbi
+1015 Populista
+1016 Szellem
+1017 Módosítás
+1018 Megváltoztatja az ellenfél szövegét, bekezdésről bekezdésre.
+1019 Papírmunka
+1020 Formanyomtatványok alá temeti a célpontot.
+1021 Szolgálati feljegyzés
+1022 Egy belső feljegyzés, nagyon határozott.
+1023 Megbeszélés
+1024 Egy koordinációs megbeszélés, amely mindenkit elaltat.
+1025 Száraz bélyegző
+1026 Egy tiszta és hivatalos bélyegzőütés.
+1027 Komitológia
+1028 Senki nem érti az eljárást. Még a célpont sem.
+1029 Átolvasás
+1030 Átolvassa a dossziéját. Jelentősen növeli a Rezilenciát.
+1031 Irányelv
+1032 Egy kötelező szöveg, amelyet sürgősen át kell venni.
+1033 Rendelet
+1034 Közvetlenül alkalmazandó minden tagállamban.
+1035 Trilógus
+1036 Parlament, Tanács, Bizottság: 2-5 alkalommal talál.
+1037 Sürgősség
+1038 Sürgősségi eljárás: mindig elsőként cselekszik.
+1039 Kávészünet
+1040 Egy kávé a kantinban. Visszaállítja az ÉP felét.
+1041 Plágium
+1042 Lemásolja az ellenfél utolsó támadását.
+1043 Éves jelentés
+1044 Egy kört tölt, majd 400 oldallal leüti.
+1045 Integráció
+1046 Egy kis lépés egy egyre szorosabb unió felé.
+1047 Szubszidiaritás
+1048 A megfelelő szinten cselekszik. Növeli a Diplomáciát.
+1049 Európai Egyesült Államok
+1050 A nagy föderális álom, teljes erővel indítva.
+1052 Mindannyian együtt! Egy szolidáris roham.
+1053 Egységes piac
+1054 Megszünteti a határokat… és az ellenfél Diplomáciáját.
+1055 Tizenkét csillag
+1056 Tizenkét arany csillag, amely sosem hibázik.
+1057 Listavezető
+1058 Egy Spitzenkandidat-kampány. Gyakori telitalálat.
+1059 Bővítés
+1060 Új tagokat fogad. Argumentáció +2.
+1061 Blokkol minden támadást ebben a körben. Az egyhangúság szent.
+1062 Határ
+1063 Visszaállítja az ellenőrzést. Csökkentheti a Reakciót.
+1064 Opt-out
+1065 Mentességet élvez a közös szabályok alól. Rezilencia +2.
+1066 Népszavazás
+1067 Egy egyszerű kérdés, bonyolult következmények.
+1068 7. cikkely
+1069 Felfüggeszt jogokat. Az ellenfél Argumentációja -2.
+1070 Elhagyja a harcot… ha a tárgyalások sikerrel zárulnak.
+1071 Visszatérítés
+1072 „I want my money back!” ÉP-t nyer vissza.
+1073 Szuverenitás
+1074 Nagy robajjal visszaveszi az irányítást.
+1075 Verseny
+1076 Szabad és tisztességes, de ez fáj.
+1077 Szabadkereskedelem
+1078 Egy nulla vámtételű kereskedelmi megállapodás.
+1079 Deregulálás
+1080 Megszünteti a védelmeket. Az ellenfél Rezilenciája -2.
+1081 Startup
+1082 Disruptív és gyors. Mindig elsőként cselekszik.
+1083 Láthatatlan kéz
+1084 Nem lehet kiszámítani. Sosem hibázik.
+1085 Egyszersmind
+1086 Jobbról és balról, 2-5 alkalommal talál.
+1087 Lecsorgás
+1088 Eurókat csorgat le a pályára.
+1089 Sztrájk
+1090 Minden megáll. Befagyasztja a célpont számláit.
+1091 Szociális pillér
+1092 Egy nagyon szilárd európai szociális jogi pillér.
+1093 Minimálbér
+1094 A 2022-es irányelv a megfelelő bérekről.
+1095 Tüntetés
+1096 Táblák tengere. Megfélemlítheti.
+1097 Szolidaritás
+1098 Megosztja a terhet. Visszaállítja az ÉP felét.
+1099 A görög „nem” 2015 júliusából. Garantált visszaütés.
+1100 Erasmus
+1101 Egy csereprogram, amely nyitottá tesz. Növelheti a Szakértelmet.
+1102 Zöld Megállapodás
+1103 A 2019-es Green Deal egyenesen az arcba.
+1104 Erdőtelepítés
+1105 Újra beerdősít. Visszaállítja az ÉP felét.
+1106 Karbonadó
+1107 Határokon alkalmazott szén-dioxid-kiigazítási mechanizmus. Csökkentheti a Szakértelmet.
+1108 Semlegesség 2050
+1109 Nettó nulla kibocsátás, egyetlen ütésben.
+1110 Komposzt
+1111 Erősen szaglik. Kitehet a befolyásnak.
+1112 Rögzített kupak
+1113 2019/904 irányelv: a kupak nem ereszti el a célpontot.
+1114 Fit for 55
+1115 -55% kibocsátás 2030-ra, és ez kemény ütés.
+1116 Kerékpár
+1117 Egy expressz kerékpárút. Mindig elsőként cselekszik.
+1118 Szén
+1119 Az 1951-es Montánunió ágyúgolyóként. Botrányt okozhat.
+1120 Acél
+1121 Egy európai acélököl.
+1122 Nagyolvasztó
+1123 Szélsőséges hőség. Botrányt válthat ki.
+1124 Kiszervezés
+1125 Máshová megy. Csökkentheti az ellenfél Reakcióját.
+1126 Airbus
+1127 Egy európai zászlóshajó zuhanórepülésben.
+1128 Futószalag
+1129 Összeszerelő sor: 2-5 alkalommal talál.
+1130 Ipari terv
+1131 Újraindítja a termelőeszközöket. Argumentáció +2.
+1132 Szikra
+1133 Kis rövidzárlat. Befagyaszthatja a számlákat.
+1134 Hasadás
+1135 Euratom, 1957. Az atom energiája.
+1136 Szélturbina
+1137 Forgó lapátok… és a fej is forog.
+1138 Gázcsap
+1139 Elzárja az ellátást. Befagyasztja a számlákat.
+1140 REPowerEU
+1141 2022-es terv a leválásra. Szakértelem +2.
+1142 Túlfeszültség
+1143 Egy brutális kisülés, visszaütéssel.
+1144 Fúzió
+1145 Az ITER reaktor teljes erővel.
+1146 Ársapka
+1147 Korlátozza az ellenfelet. Szakértelem -2.
+1148 Felszólítás
+1149 Az első hivatalos figyelmeztetés.
+1150 Jogsértés
+1151 Egy alaposan megérzett jogsértési eljárás.
+1152 EUB-ítélet
+1153 Luxemburg döntött. Fellebbezésnek nincs helye.
+1154 Egy milliárdos bírság. Érmék repülnek szanaszét.
+1155 OLAF-vizsgálat
+1156 A csalásellenes hivatal nyomoz. Blokkolhatja a célpontot.
+1157 GDPR
+1158 Megvédi az adatokat. Az ellenfél Kitérése -2.
+1159 Precedensjog
+1160 Korábbi esetekre támaszkodik. Szakértelem +2.
+1161 DSA
+1162 A digitális szolgáltatásokról szóló rendelet. Csökkentheti a Szakértelmet.
+1163 Euróérme
+1164 Egy 2 eurós érme feldobása. Fej vagy írás?
+1165 Irányadó ráta
+1166 Felemeli a rátákat. Lelassíthatja a célpontot.
+1167 Pénznyomtatás
+1168 Mennyiségi lazítás kedv szerint.
+1169 Megszorítás
+1170 Szorítsátok meg a nadrágszíjat. Az ellenfél Argumentációja -2.
+1172 „Whatever it takes” (Draghi, 2012 július). Mindig sikerrel jár.
+1173 Infláció
+1174 Körről körre rágja a vásárlóerőt.
+1175 Hozamfelár
+1176 A hozamfelár az égbe szökik. Gyakori telitalálat.
+1177 Helyreállítási terv
+1178 NextGenerationEU, 750 milliárd €. Visszaállítja az ÉP felét.
+1179 Traktor
+1180 Elzárja az utat. Lelassíthatja a célpontot.
+1181 KAP
+1182 Közös agrárpolitika: ÉP-t nyer vissza.
+1183 Hígtrágya
+1184 Szétszórva a prefektúra előtt. Fertőzhet.
+1185 Eredetvédett
+1186 Védett eredetmegjelölés. Rezilencia +2.
+1187 Aratás
+1188 Egy rekordtermés, egyenesen a fejbe.
+1189 Glifozát
+1190 2023-ban tíz évre újraengedélyezve. Befolyással mérgezhet.
+1191 Görbe banán
+1192 1994-es rendelet a banán minőségéről. Zavarba ejtő.
+1193 Süti
+1194 Egy bezárhatatlan ablak. Befagyasztja a célpontot.
+1195 Hiba
+1196 404-es hiba. Dezinformálhat.
+1197 Algoritmus
+1198 Egy személyre szabott ajánlás, nagyon személyre szabott.
+1199 USB-C
+1200 Az univerzális töltő, kötelező 2024 óta.
+1201 Fake news
+1202 Egy vírusszerű álhír. Dezinformálja a célpontot.
+1203 Roaming
+1204 Nincs több roamingdíj! Mindig elsőként cselekszik.
+1205 AI Act
+1206 Az első világméretű MI-rendelet (2024).
+1207 Trollkodás
+1208 Egy kellemetlen hozzászólás. Megzavarhatja.
+1209 Kézfogás
+1210 Erős és hosszan tartó, a fotósok előtt.
+1211 Tárgyalások hajnali 5-ig. Elaltatja a célpontot.
+1212 Kompromisszum
+1213 Mindenki veszít egy kicsit, te ÉP-t nyersz.
+1214 Szankciók
+1215 Egy újabb szankciós csomag. Csökkentheti a Diplomáciát.
+1216 Kanapé
+1217 Sofagate (Ankara, 2021): a célpont kihagyja a körét. Csak az 1. körben.
+1218 Tolmácsolás
+1219 Lefordítva 24 nyelvre. Valami elveszik közben.
+1220 Megállapodás
+1221 Egy történelmi megállapodás, az utolsó pillanatban aláírva.
+1222 Soft power
+1223 Az európai charme. Diplomácia +2.
+1224 Falatkák
+1225 Egy koktélparti a Lux téren. A célpont befolyás alá kerül.
+1226 Bőrönd
+1227 Egy jól megpakolt bőrönd, lendülettel elhajítva.
+1228 Pénzes zsák
+1229 Bankjegyek mindenhol. A terep tele van velük.
+1230 Pozíciós feljegyzés
+1231 Egy kulcsrakész módosítás, már megírva.
+1232 Átülés a magánszektorba
+1233 Átmegy a magánszektorba. Reakció +2.
+1234 Befolyás
+1235 Egy odasúgott szó a megfelelő fülbe.
+1236 Forgóajtó
+1237 Már nem lehet tudni, ki kinek dolgozik.
+1238 Szlogen
+1239 Három szó, semmi árnyalat.
+1240 Piros busz
+1241 „350 millió hetente!” Dezinformálhat.
+1242 Megafon
+1243 Hangosabban kiabál, mint bárki más.
+1244 Euromítosz
+1245 Egy legenda Brüsszelről, nagyon meggyőző.
+1247 Minden idők legjobb ütése. Argumentáció +3.
+1248 Vámok
+1249 Liberation Day (2025. április 2.). Csökkentheti a Rezilenciát.
+1250 Nagybetűs poszt
+1251 EGY TELJESEN NAGYBETŰVEL ÍRT ÜZENET.
+1253 „You're not laughing now!” (2016). Csökkentheti a Diplomáciát.
+1254 Fiktív állás
+1255 Egy munka, amely nem létezik, de pénzbe kerül.
+1256 Eltűnés
+1257 Megtalálhatatlan az irodában. Kitérés +2.
+1258 Törölt SMS
+1259 Egy üzenet sem marad. Törli az ellenfél bónuszait.
+1260 Kísértő dosszié
+1261 Egy dosszié, amely visszatér kísérteni a szerzőjét.
+1262 Fizetési papír
+1263 Egy fizetés, amit semmiért kapott. ÉP-t nyer vissza.
+1264 Ektoplazma
+1265 Egy látványos megjelenés a Parlamentben.
+1266 Alkotmány
+1267 2005-ben elutasítva… de hihetetlenül erős.
+1268 Római szerződés
+1269 1957: az EGK megalapítása.
+1270 1992: az Unió és a közös pénznem.
+1271 2007: a szerződés, amely az Alkotmányt helyettesítette.
+1272 Ritkaföldfémek
+1273 Korlátozza a kivitelt. Befagyaszthatja a számlákat.
+1274 Hosszú asztal
+1275 Egy hat méteres asztal végén fogad. Kitérés +2.
+1276 Szisztémás rivális
+1277 Partner, versenytárs, rivális. Csökkentheti a Diplomáciát.
+1278 Grönland
+1279 Megpróbál megvenni egy egész szigetet. Hatalmas sebzés.
+1280 A 2019-es Zöld Megállapodással született. Minden alkalommal kihajt egy hajtás, amikor megszavaznak egy kibocsátási normát.
+1281 Klímacél
+1282 Azon dolgozik, hogy 2030-ra 55%-kal csökkentse a kibocsátását. Minden kalóriát számol.
+1283 Semlegesség
+1284 2050-re karbonsemlegességre törekszik. Addig minden lépésnél elültet egy fát.
+1285 Az 1951-es Montánunió kis szénkupaca. Lelkesen bekoszol mindent, amit megérint.
+1286 A kéménye szikrákat szór, amikor felizgul. A teljes foglalkoztatásról álmodik.
+1287 Közös acél
+1288 A közössé tett szénből és acélból kovácsolva. Ő a bizonyíték, hogy a béke gyártható.
+1289 Atom
+1290 Egy kis kíváncsi atom, az 1957-es Euratom-szerződésből született. Nem bír megülni egy helyben.
+1291 Reaktor
+1292 Az elektronjai olyan gyorsan forognak, hogy egy egész helyiséget kivilágít. Takarékosság opcionális.
+1293 Kettéhasad, amikor felbosszantják. Ő és a Zöldek már nem állnak szóba egymással.
+1294 Bélyegző
+1295 Egy élő bélyegző, amely mindent jóváhagy, amivel találkozik. Már lebélyegezte a saját edzőjét is.
+1296 Parafáló
+1297 Minden oldalt leparafál jobbra lent. Négy órájába telik egy szerződés.
+1298 Ratifikáció
+1299 Csak akkor mozdul, ha 27 nemzeti parlament igent mondott. Így sokat alszik.
+1300 Ezrekben szaporodik minden egyes jogszabálynál. A Parlament néha 2000-et is kap belőle egy jelentésre.
+1301 Obstrukció
+1302 Annyi módosítást nyújt be, hogy az egész ülést leblokkolja. Egy jól bejáratott technika.
+1303 Sütiablak
+1304 Minden ajtó előtt megjelenik a 2018-as GDPR óta. Az elutasítása sosem elég.
+1305 Hozzájárulás
+1306 Mindenhez kéri a beleegyezésedet, aztán magához a beleegyezéshez is. Nagyon udvarias.
+1307 Töltő
+1308 Minden eszközön kötelező 2024 vége óta. Egy egész kábelfiókot munka nélkül hagyott.
+1309 Kupak
+1310 2024 júliusa óta nem hagyja el a palackját. Orrba vág, amikor iszol.
+1311 Eltűnt szívószál
+1312 2021 óta betiltva, eltűntnek hitték. Éjszakánként kísérti a gyorséttermeket.
+1313 Banán
+1314 Egy 1994-es rendelet szabja meg a minőségét. Egész életében a saját görbületét méri.
+1315 Roaming
+1316 2017 júniusa óta ingyen utazik mindenhová. Minden határról felhívja az anyját.
+1317 Határok nélkül
+1318 Egy hétvége alatt mind a 27 országot meglátogatta, és mindent élőben posztolt. Pótdíj nélkül.
+1319 Ez a kis rágcsáló egy félévre külföldre megy, és kétnyelvűen jön vissza. 1987-ben született.
+1320 Csere
+1321 12 lakóközösségben élt, és 9 nyelven tud tésztát főzni.
+1322 Érme
+1323 Egy 2 eurós érme, amely 2002 óta mindenfelé gurul. 27 lehetséges nemzeti hátoldala van.
+1324 Közös pénznem
+1325 Húsz ország osztja meg az erejét. Ha az egyik köhög, a többinek láza lesz.
+1326 Szabad mozgás
+1327 Egy hajón született a Moselen 1985-ben. Semmilyen határ nem tartja vissza.
+1328 Gyomirtó
+1329 2023-ban tíz évre újraengedélyezve. A gyomnövények megremegnek, amikor elmegy mellettük.
+1330 Ügynök
+1331 A folyosókon lógat egy nála nagyobb aktatáskával. Nem lobbizik, ő „informál”.
+1332 Influenszer
+1333 Ismeri minden parlamenti asszisztens telefonszámát. És az allergiáikat is.
+1334 Mega-lobbi
+1335 A 25 000 brüsszeli lobbista egyike, óriás kiadásban. Álmában újraírja a törvényeket.
+1336 Vasbőrönd
+1337 Egy vasbőrönd, amely évente tizenkétszer megy Brüsszel és Strasbourg között. Hányingere van az utazástól.
+1338 Költözés
+1339 Egy egész parlamentet szállít a hasában. Az út ára: inkább ne is kérdezd.
+1340 Óraátállítás
+1341 A Parlament 2019-ben megszavazta a megszüntetését. Mégis évente kétszer visszatér.
+1342 Csalás
+1343 2015 óta csal a teszteken: tiszta a padon, füstös az úton.
+1344 Kampányol az elnökségért… aztán valaki mást neveznek ki helyette.
+1345 Tolmács
+1346 24 nyelven beszél, mindig két másodperc késéssel.
+1347 Három fej: Parlament, Tanács, Bizottság. Hajnali 4 óra körül egyeznek meg.
+1348 Senki nem tudja pontosan, mit csinál. Mégis 300 bizottságban ül.
+1349 Formanyomtatvány
+1350 Egy kupac formanyomtatvány, három eredeti példányban. Mindig hiányzik egy oldal.
+1351 Archívum
+1352 Mindent megtart, még az 1958-as cetliket is. Rendezés: alfabetikus és érzelmi.
+1353 Kis gazda
+1354 Minden hektárra kap egy KAP-támogatást. Minden reggel megszámolja a hektárjait.
+1355 Az európai költségvetés egyharmadát nyeli el szó nélkül. Mindig éhes.
+1356 Agrárpolitika
+1357 Amikor traktorjaival elzárja az autópályát, még a Tanács is tárgyalni kezd.
+1358 Minden reform alkalmával leparkol a Parlament elé. Garantált dudálás.
+1359 Sajt
+1360 Egy kis nyers tejes sajt, amely nagyon erősen szaglik. Büszke a származási helyére.
+1361 Védett eredetmegjelölés oltalma alatt áll. Minden utánzatot bíróság elé citálnak.
+1362 Pralin
+1363 Egy nagyon kedves belga csokoládé. Elolvad, ha bókot kap.
+1364 Belga sültkrumpli
+1365 Kétszer sütve, ahogy kell. Kategorikusan visszautasítja, hogy „French”-nek hívják.
+1366 Galamb
+1367 A Luxembourg téren él, és ellopja a lobbisták sültkrumpliját. Minden pletykát ismer.
+1368 Kis fickó
+1369 Egy 55 cm-es kis szobor, amelynek több jelmeze van, mint az egész Parlamentnek.
+1370 Atomium
+1371 Kilenc acélgömb, kristályszerkezetben összekötve, az 58-as Expo óta. Éjjel Brüsszel fölött fénylik.
+1372 Gyakornok
+1373 Sokat dolgozik, és nincs fizetve. Azt mondja, ez „tapasztalatszerzés”.
+1374 Ideiglenes alkalmazott
+1375 A szerződése három hónap múlva lejár. Hat éve hosszabbítja.
+1376 Sikeres volt az EPSO-versenyvizsgán. Már semmitől nem fél, kivéve a nyugdíjreformot.
+1377 Morgós
+1378 Ellene van. Nem számít, minek, ellene van.
+1379 Szónok
+1380 Minden asztalra felmászik, hogy a tömeghez szóljon. Még a kantinban is.
+1381 Demagóg
+1382 Mindenkinek mindent megígér. Az ígéretei hajnalra elpárolognak.
+1383 Hamis hír
+1384 Alakot vált attól függően, ki nézi. Nagyon sokan osztják meg.
+1385 Hamis fiók
+1386 Egy kis robot, amely mindent nagybetűkkel kommentel. Sosem aludt még.
+1387 Trollgyár
+1388 Tízezer fiók egyetlen irodában. A választások jól ismerik.
+1389 Mindenből tanul, amit csinálsz. Már tudja, mit fogsz elfogni.
+1390 Szabályozott MI
+1391 Az első világméretű mesterségesintelligencia-rendelet (2024) rendbe tette.
+1392 Minden hónapban kicsit megnő. A háztartások szoros figyelemmel kísérik.
+1393 Hiperinfláció
+1394 Olyan nagy, hogy eltorlaszolja az utcákat. Az EKB emeli a rátákat, hogy lefogyassza.
+1395 Hozamfelár
+1396 Minden ügyetlen jegybanki kijelentésnél megnyúlik.
+1397 Kriptovaluta
+1398 Reggel egy vagyont ér, este semmit. Imádja a hullámvasutat.
+1399 Szabályozott kripto
+1400 A MiCA-rendelet nyakkendő felvételére kényszerítette. Most sokkal nyugodtabb.
+1401 Költségvetési egyensúly
+1402 Sosem költ semmit, még az energiáját sem. A kiáltása: „Schwarze Null!”
+1403 Trojka
+1404 Három macska: EKB, Bizottság, IMF. Együtt ellenőrzik mások könyveit.
+1405 Egy varangy, amely minden javaslatra „nem!”-et kuruttyol. Egyedül is elég ahhoz, hogy mindent leblokkoljon.
+1406 Egyhangúság
+1407 Minden döntéshez egyhangúságot követel, majd ő maga tagadja meg azt.
+1408 Sorompó
+1409 Újra megjelenik, amint határellenőrzésről van szó. Saját bódéja van.
+1410 Kilépés
+1411 2016-ban akart elmenni, 2020-ban ment el, és néha megbánja. Gyakran elhagyja a harcokat.
+1412 Konzultáció
+1413 Egy szavazóurna, amely egyszerű kérdéseket tesz fel bonyolult problémákra.
+1414 A Parlament fizeti, de sosem tette be a lábát. Senki nem látta még dolgozni.
+1415 Van jelvénye, szerződése és fizetési papírja. De irodája nincs.
+1416 Tele bankjegyekkel találták meg egy brüsszeli lakásban 2022 decemberében.
+1417 Aktatáska
+1418 Egy kis bőrönd, amely kézről kézre jár a Parlament lábánál.
+1419 Vezeték
+1420 1200 km hosszú, a tenger alatt. A csapját valaki más irányítja.
+1421 A lapátjai forognak, amint valaki rájuk fúj. Gyűlöli a szélcsendes napokat.
+1422 Tengeri szélerőmű
+1423 Az Északi-tenger partjainál él, és egész városokat lát el árammal.
+1424 Napelem
+1425 Éjjel alszik, nappal keményen dolgozik, különösen Spanyolországban.
+1426 Megakadályozza, hogy az árak túl magasra szökjenek. Fáj a nyaka a sok nyomkodástól.
+1427 Vám
+1428 Megvámol mindent, ami elé kerül. Még a lehullott leveleket is.
+1429 Kereskedelmi háború
+1430 Egy óriási vámtáblát tart a magasba. A számok minden reggel változnak.
+1431 Egy kis kavics, amitől minden telefon függ. A kivitelét szigorúan figyelik.
+1432 Panda diplomata
+1433 Néhány évre kölcsönadták egy európai állatkertnek. Bambuszt és kereskedelmi megállapodásokat eszik.
+1434 Nem elérhető tartalom
+1435 Ez a sárga kis medve semelyik régióban nem látható. A leírását eltávolították.
+1436 Jogász galamb
+1437 A Bíróság tornyain fészkel Kirchbergen, és latinul búgat.
+1438 Nyilatkozat
+1439 Elmondja az 1950. május 9-i nyilatkozatot mindenkinek, aki hajlandó meghallgatni. Az Európa Napon jelenik meg.
+1440 Nobel-díj
+1441 Egy medál, amelyet 2012-ben az Európai Unió kapott. Büszkén fénylik.
+1442 Szitáló eső
+1443 Egy kis brüsszeli felhő. Évi 200 napon esik rád.
+1444 Üzleti ebéd
+1445 Egy munkaebéd, amely három órán át tart. Itt többet döntenek, mint az ülésen.
+1446 Kereskedelmi megállapodás
+1447 1999 óta tárgyalják. Amikor egy lépést tesz előre, a traktorok visszanyomják.
+1448 1957. március 25-én született a Capitoliumon. Megalapította az Európai Gazdasági Közösséget.
+1449 Maastrichti szerződés
+1450 Hollandiában született 1992-ben. Megalkotta az Uniót, és megálmodta az eurót.
+1451 Lisszaboni szerződés
+1452 2007-ben aláírva, átvette egy sosem napvilágot látott alkotmány lényegét.
+1453 Franciaországban és Hollandiában népszavazáson elutasították 2005-ben. Elmenekül, amint közeledsz hozzá.
+1454 Csak egy támadást ismer, és az mindig sikerül. Egy mondattal mentette meg az eurót.
+1455 Hivatalos bélyegző
+1456 Lebélyegez egy legyengült Euromont, hogy regisztrálja.
+1457 Szuper bélyegző
+1458 Erősített tinta. Hatásosabb, mint egy egyszerű bélyegző.
+1459 Minősített bélyegző
+1460 Minősített többség: nagyon jó elfogási esély.
+1461 Egyhangú bélyegző
+1462 Egyhangúság! Garantált elfogás. Rendkívül ritka.
+1463 Kantinkávé
+1464 Visszaállít 20 ÉP-t. Langyos, de hatásos.
+1465 Club szendvics
+1466 Visszaállít 50 ÉP-t. A gyakornokok kedvence.
+1467 Brüsszeli gofri
+1468 Visszaállít 120 ÉP-t. Porcukorral.
+1469 Kniddelen
+1470 Luxemburgi specialitás. Visszaállít 200 ÉP-t.
+1471 Teljes menü
+1472 Előétel, főétel, desszert: teljesen visszaállítja az ÉP-t.
+1473 Jogi állásfoglalás
+1474 Meggyógyít minden állapotproblémát.
+1475 Ébresztőóra
+1476 Felébreszt egy csúcstalálkozó által elaltatott Euromont.
+1477 Újraindítási indítvány
+1478 Egy KO-t kapott Euromont újra vitaképessé tesz.
+1479 Egyhangú újraindítás
+1480 Életre kelt egy KO-t kapott Euromont, teljes ÉP-vel.
+1481 Szakszervezeti szünet
+1482 Teljesen visszaállítja egy Euromon PP-jét.
+1483 Argumentum-vázlat
+1484 Harcban: növeli az Argumentációt.
+1485 Golyóálló mellény
+1486 Harcban: növeli a Rezilenciát.
+1487 Szakértői jelentés
+1488 Harcban: növeli a Szakértelmet.
+1489 Címjegyzék
+1490 Harcban: növeli a Diplomáciát.
+1491 Dupla eszpresszó
+1492 Harcban: növeli a Reakciót.
+1493 Megkeresési tilalom
+1494 Megkeresés-ellenes záradék: 100 lépésre távol tartja az Euromonokat.
+1495 Átalakít bizonyos Euromonokat. 27 aláírás szükséges.
+1496 Átalakít bizonyos energetikai Euromonokat.
+1497 USB-C kulcs
+1498 Átalakít bizonyos digitális Euromonokat.
+1499 Euromon-enciklopédia, Jean Monnet ajándéka.

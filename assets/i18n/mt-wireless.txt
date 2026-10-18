@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Online
+2165	Mingħajr internet
+2166	Oħloq logħba lokali
+2167	Ingħaqad ma’ logħba lokali
+2156	Logħob fil-qrib
+2158	Mingħajr router jew server.
+2159	Erġa’ ibda l-logħba biex tibdel il-mod Wi-Fi.
+2163	Mod DS: netwerk miftuħ/WEP. Għal WPA2, ibda l-logħba fil-mod DSi.
+2162	Wi-Fi DSi: iċċekkja n-netwerk WPA2 u s-settings tal-console.
+2160	Konnessjoni ma’ DSi Wi-Fi… B: ikkanċella
+2161	Konnessjoni ma’ DS Wi-Fi… B: ikkanċella
+2154	Il-console mhux qed twieġeb.

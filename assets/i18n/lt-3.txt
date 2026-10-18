@@ -1,0 +1,498 @@
+# Lietuvių — ids 1000-1499
+1000 Gražios Europos dienos! Iki susitikimo kitais metais.
+1002 Federalus
+1003 Suverenus
+1004 Liberalus
+1005 Socialus
+1006 Žalias
+1007 Industrija
+1008 Energija
+1009 Juridinis
+1010 Monetarus
+1011 Agrarinis
+1012 Skaitmen.
+1015 Populistas
+1016 Vaiduoklis
+1017 Pataisa
+1018 Keičia priešininko tekstą, po vieną punktą.
+1019 Popierizmas
+1020 Palaidoja taikinį formuliaruose.
+1021 Tarnybinis raštas
+1022 Vidinis raštas, labai tvirtas.
+1023 Susitikimas
+1024 Koordinacinis susitikimas, kuris visus užmigdo.
+1025 Sausas antspaudas
+1026 Tikslus ir oficialus antspaudavimas.
+1027 Komitologija
+1028 Niekas nesupranta procedūros. Net taikinys.
+1029 Perskaitymas
+1030 Perskaito savo bylą iš naujo. Smarkiai padidina Atsparumą.
+1031 Direktyva
+1032 Įpareigojantis tekstas, skubiai perkeliamas.
+1033 Reglamentas
+1034 Tiesiogiai taikomas visose valstybėse narėse.
+1035 Trilogas
+1036 Parlamentas, Taryba, Komisija: smūgiuoja 2–5 kartus.
+1037 Skuba
+1038 Skubos procedūra: veikia pirmas.
+1039 Kavos pertrauka
+1040 Kava valgykloje. Atgauna pusę HP.
+1041 Plagiatas
+1042 Nukopijuoja priešininko paskutinę ataką.
+1043 Metinė ataskaita
+1044 Kaupia energiją vieną eilę, tada apsvaigina 400 puslapiais.
+1045 Integracija
+1046 Mažas žingsnis į vis artimesnę sąjungą.
+1047 Subsidiarumas
+1048 Veikia tinkamu lygmeniu. Padidina Diplomatiją.
+1049 Europos JV
+1050 Didi federalinė svajonė, paleista visa galia.
+1051 Team Europe
+1052 Visi kartu! Solidarus smūgis.
+1053 Bendra rinka
+1054 Panaikina sienas… ir priešininko Diplomatiją.
+1055 Dvylika žvaigždučių
+1056 Dvylika auksinių žvaigždučių, kurios niekada nepraleidžia.
+1057 Lyderis
+1058 Spitzenkandidat kampanija. Dažni kritiniai smūgiai.
+1059 Plėtra
+1060 Priima naujus narius. Argumentacija +2.
+1061 Blokuoja kiekvieną ataką šią eilę. Vienbalsiškumas yra šventas.
+1062 Siena
+1063 Atkuria pasienio kontrolę. Gali sumažinti Reaktyvumą.
+1064 Opt-out
+1065 Atsisako bendrų taisyklių. Atsparumas +2.
+1066 Referendumas
+1067 Paprastas klausimas, sudėtingos pasekmės.
+1068 7 straipsnis
+1069 Sustabdo teises. Priešininko Argumentacija -2.
+1070 Palieka debatus… jei derybos pavyksta.
+1071 Rabatas
+1072 „I want my money back!“ Atgauna HP.
+1073 Suvereni valstybė
+1074 Triukšmingai atkuria kontrolę.
+1075 Konkurencija
+1076 Laisva ir nesuvaržyta, bet skauda.
+1077 Laisva prekyba
+1078 Prekybos susitarimas be muitų.
+1079 Dereguliacija
+1080 Panaikina apsaugas. Priešininko Atsparumas -2.
+1081 Startuolis
+1082 Disruptyvus ir greitas. Veikia pirmas.
+1083 Nematoma ranka
+1084 Jos nepamatysi atvykstant. Niekada nepraleidžia.
+1085 Tuo pačiu metu
+1086 Ir iš dešinės, ir iš kairės: smūgiuoja 2–5 kartus.
+1087 Ruissellement
+1088 Lieja eurus per visą lauką.
+1089 Streikas
+1090 Visko sustabdymas. Užšaldo taikinio lėšas.
+1091 Socialinis ramstis
+1092 Tvirtas Europos socialinių teisių ramstis.
+1093 Minimali alga
+1094 2022 m. direktyva dėl tinkamo darbo užmokesčio.
+1095 Protesto akcija
+1096 Plakatų jūra. Gali įbauginti.
+1097 Solidarumas
+1098 Sutelkia pastangas. Atgauna pusę HP.
+1099 Graikų 2015 m. liepos „ne“. Garantuota atatranka.
+1100 Erasmus
+1101 Mainai, plečiantys akiratį. Gali padidinti Ekspertizę.
+1102 Žaliasis kursas
+1103 2019 m. Green Deal tiesiai į veidą.
+1104 Apsodinimas mišku
+1105 Pasodina medžių. Atgauna pusę HP.
+1106 Anglies dioksido mokestis
+1107 Pasienio koregavimo mechanizmas. Gali sumažinti Ekspertizę.
+1108 Neutralumas 2050
+1109 Nulinė grynoji emisija, vienu smūgiu.
+1110 Kompostas
+1111 Smirda stipriai. Gali atiduoti įtakai.
+1112 Pritvirtintas kamštelis
+1113 Direktyva 2019/904: kamštelis nepaleidžia taikinio.
+1114 Fit for 55
+1115 -55 % emisijų iki 2030 m., ir tai skauda.
+1116 Dviratis
+1117 Greitas dviračių takas. Veikia pirmas.
+1118 Anglis
+1119 1951 m. EAPB kaip kamuolys. Gali sukelti skandalą.
+1120 Plienas
+1121 Europietiškas plieno kumštis.
+1122 Aukštakrosnė
+1123 Ekstremalus karštis. Gali sukelti skandalą.
+1124 Perkėlimas
+1125 Iškeliauja kitur. Gali sumažinti priešininko Reaktyvumą.
+1126 Airbus
+1127 Europos čempionas, krentantis žemyn.
+1128 Surinkimo linija
+1129 Konvejeris: smūgiuoja 2–5 kartus.
+1130 Industrinis planas
+1131 Atgaivina pramonę. Argumentacija +2.
+1132 Žiežirba
+1133 Mažas trumpas jungimas. Gali užšaldyti lėšas.
+1134 Branduolio dalijimasis
+1135 Euratomas, 1957 m. Atomo energija.
+1136 Vėjo malūnas
+1137 Mentės sukasi… ir galva taip pat.
+1138 Dujų čiaupas
+1139 Nutraukia tiekimą. Užšaldo lėšas.
+1140 REPowerEU
+1141 2022 m. planas nusiprausti nuo dujų. Ekspertizė +2.
+1142 Įtampos šuolis
+1143 Staigus elektros smūgis, su atatranka.
+1144 Branduolių sintezė
+1145 ITER reaktorius pilna galia.
+1146 Kainų lubos
+1147 Riboja priešininką. Ekspertizė -2.
+1148 Įspėjimas
+1149 Pirmas oficialus perspėjimas.
+1150 Pažeidimas
+1151 Gerai pajusta pažeidimo procedūra.
+1152 ESTT sprendimas
+1153 Liuksemburgas nusprendė. Apeliacijos negalimos.
+1154 Milijardinė bauda. Monetos skraido į visas puses.
+1155 OLAF tyrimas
+1156 Antisukčiavimo tarnyba tiria. Gali blokuoti taikinį.
+1157 BDAR
+1158 Saugo duomenis. Priešininko Išsisukimas -2.
+1159 Jurisprudencija
+1160 Remiasi precedentais. Ekspertizė +2.
+1161 DSA
+1162 Skaitmeninių paslaugų aktas. Gali sumažinti Ekspertizę.
+1163 Euro moneta
+1164 2 € monetos metimas. Herbas ar skaičius?
+1165 Bazinė norma
+1166 Kelia palūkanas. Gali sulėtinti taikinį.
+1167 Pinigų spausdinimo staklės
+1168 Kiekybinis skatinimas be ribų.
+1169 Taupymas
+1170 Susiveržkite juosmenis. Priešininko Argumentacija -2.
+1171 Whatever it takes
+1172 „Whatever it takes“ (Draghi, 2012 m. liepa). Pavyksta visada.
+1173 Infliacija
+1174 Graužia pirkimo galią, eilė po eilės.
+1175 Spread
+1176 Palūkanų skirtumas šauna aukštyn. Dažni kritiniai smūgiai.
+1177 Atgaivinimo planas
+1178 NextGenerationEU, 750 Mlrd. €. Atgauna pusę HP.
+1179 Traktorius
+1180 Blokuoja kelią. Gali sulėtinti taikinį.
+1181 BŽŪP
+1182 Bendra žemės ūkio politika: atgauna HP.
+1183 Mėšlas
+1184 Išskleistas priešais prefektūrą. Gali užkrėsti.
+1185 AOP
+1186 Saugoma kilmės nuoroda. Atsparumas +2.
+1187 Derlius
+1188 Rekordinis derlius, tiesiai į galvą.
+1189 Glifosatas
+1190 2023 m. perregistruotas dešimčiai metų. Gali apnuodyti įtaka.
+1191 Kreivas bananas
+1192 1994 m. reglamentas apie bananų kokybę. Klaidinantis.
+1193 Slapukas
+1194 Neuždaroma juosta. Užšaldo taikinį.
+1195 Klaida
+1196 Klaida 404. Gali dezinformuoti.
+1197 Algoritmas
+1198 Labai, labai asmeniška rekomendacija.
+1199 USB-C
+1200 Universalus įkroviklis, privalomas nuo 2024 m.
+1201 Fake news
+1202 Virusinis gandas. Dezinformuoja taikinį.
+1203 Tarptinklinis ryšys
+1204 Nebėra itinerancijos mokesčių! Veikia pirmas.
+1205 DI aktas
+1206 Pirmasis pasaulyje reglamentas dėl dirbtinio intelekto (2024 m.).
+1207 Trolinimas
+1208 Nemalonus komentaras. Gali sutrikdyti.
+1209 Rankos paspaudimas
+1210 Tvirtas ir ilgas, prieš fotografus.
+1211 Derybos iki 5 valandos ryto. Užmigdo taikinį.
+1212 Kompromisas
+1213 Visi pralaimi po kiek, jūs gaunate HP.
+1214 Sankcijos
+1215 Naujas sankcijų pakas. Gali sumažinti Diplomatiją.
+1216 Sofa
+1217 Sofagate (Ankara, 2021 m.): taikinys pralaimi eilę. Tik 1-ą eilę.
+1218 Vertimas žodžiu
+1219 Verčiama į 24 kalbas. Kažkas pasimeta.
+1220 Susitarimas
+1221 Istorinis susitarimas, pasirašytas per prievartą.
+1222 Švelnioji galia
+1223 Europos žavesys. Diplomatija +2.
+1224 Užkandžiai
+1225 Kokteilis Lux aikštėje. Taikinys patenka į įtaką.
+1226 Lagaminas
+1227 Pilnas lagaminas, mestas su jauzga.
+1228 Pinigų maišas
+1229 Banknotai visur. Laukas jų nuklotas.
+1230 Pozicijos aprašas
+1231 Pataisa, paruošta naudojimui iš karto.
+1232 Durų sukimasis
+1233 Pereina į privatų sektorių. Reaktyvumas +2.
+1234 Įtaka
+1235 Žodis, pašnibždėtas į tinkamą ausį.
+1236 Besisukančios durys
+1237 Niekas nebežino, kas kam dirba.
+1238 Šūkis
+1239 Trys žodžiai, nė vieno atspalvio.
+1240 Raudonasis autobusas
+1241 „350 milijonų per savaitę!“ Gali dezinformuoti.
+1242 Megafonas
+1243 Šaukia garsiau nei visi.
+1244 Euromitas
+1245 Labai įtikinama legenda apie Briuselį.
+1246 TREMENDOUS
+1247 Geriausias smūgis visų laikų. Argumentacija +3.
+1248 Muitai
+1249 Liberation Day (2025 m. balandžio 2 d.). Gali sumažinti Atsparumą.
+1250 Įrašas didžiosiomis
+1251 PRANEŠIMAS, PARAŠYTAS VISIŠKAI DIDŽIOSIOMIS RAIDĖMIS.
+1252 Not laughing
+1253 „You're not laughing now!“ (2016 m.). Gali sumažinti Diplomatiją.
+1254 Fiktyvus darbas
+1255 Darbas, kuris neegzistuoja, bet kainuoja.
+1256 Dingimas
+1257 Nerandamas kabinete. Išsisukimas +2.
+1258 SMS ištrintas
+1259 Nė viena žinutė neišlieka. Anuliuoja priešininko premijas.
+1260 Persekiojimas
+1261 Byla, kuri sugrįžta persekioti savo autorių.
+1262 Darbo užmokesčio lapelis
+1263 Atlyginimas, mokamas už nieką. Atgauna HP.
+1264 Ektoplazma
+1265 Įspūdingas pasirodymas Parlamente.
+1266 Konstitucija
+1267 Atmesta 2005 m… bet beprotiškai galinga.
+1268 Romos sutartis
+1269 1957 m.: EEB pamatai.
+1270 1992 m.: Sąjunga ir vienoda valiuta.
+1271 2007 m.: sutartis, pakeitusi Konstituciją.
+1272 Retosios žemės
+1273 Riboja eksportą. Gali užšaldyti lėšas.
+1274 Ilgas stalas
+1275 Priima stalo gale, šeši metrai nuo durų. Išsisukimas +2.
+1276 Sisteminis varžovas
+1277 Partneris, konkurentas, varžovas. Gali sumažinti Diplomatiją.
+1278 Grenlandija
+1279 Bando nupirkti visą salą. Didelė žala.
+1280 Gimęs su 2019 m. Žaliuoju kursu. Daigas iššauna kaskart, kai priimama emisijos norma.
+1281 Klimato tikslas
+1282 Treniruojasi, kad sumažintų emisijas 55 % iki 2030 m. Skaičiuoja kiekvieną kaloriją.
+1283 Neutralumas
+1284 Siekia anglies neutralumo iki 2050 m. Iki tol pasodina medelį kiekviename žingsnyje.
+1285 Nedidelė 1951 m. EAPB anglies krūvelė. Entuziastingai pajuodina viską, ką paliečia.
+1286 Jo kaminas švaisto žiežirbas, kai pyksta. Svajoja apie visišką užimtumą.
+1287 Bendras plienas
+1288 Nukaltas iš bendros anglies ir plieno. Įrodymas, kad taika gaminama.
+1289 Atomas
+1290 Smalsus mažas atomas, gimęs iš 1957 m. Euratomo sutarties. Niekada nenustygsta vietoje.
+1291 Reaktorius
+1292 Elektronai sukasi taip greitai, kad apšviečia visą kambarį. Taupymas – pasirinktinai.
+1293 Susijaudinęs skyla į dvi daleles. Jis ir Žalieji daugiau nebesikalba.
+1294 Antspaudas
+1295 Gyvas antspaudas, antspauduojantis visa, kas pakliūna. Jau antspauduoavo savo pačio treinerį.
+1296 Dokumentų aplankas
+1297 Parašo kiekvieną puslapį dešiniajame apatiniame kampe. Jam reikia keturių valandų sutarčiai.
+1298 Ratifikacija
+1299 Juda tik tada, kai 27 nacionaliniai parlamentai pasako taip. Taigi daug miega.
+1300 Dauginasi tūkstančiais su kiekvienu teisės aktu. Parlamentas kartais jų gauna 2000 per vieną pranešimą.
+1301 Obstrukcija
+1302 Pateikia tiek pataisų, kad blokuoja visą posėdį. Gerai išbandyta technika.
+1303 Slapukų juosta
+1304 Pasirodo priešais kiekvienas duris nuo 2018 m. BDAR. Atmesti niekada neužtenka.
+1305 Sutikimas
+1306 Prašo jūsų sutikimo dėl viso, tada – dėl sutikimo paties. Jis labai mandagus.
+1307 Įkroviklis
+1308 Privalomas visiems įrenginiams nuo 2024 m. pabaigos. Paliko be darbo ištisą laidų stalčių.
+1309 Kamštelis
+1310 Nebepalieka savo butelio nuo 2024 m. liepos. Trenkia tau į nosį, kai gerti.
+1311 Dingęs šiaudelis
+1312 Uždraustas nuo 2021 m., manyta, kad jis dingo. Naktimis persekioja greito maisto restoranus.
+1313 Bananas
+1314 1994 m. reglamentas nustato jo kokybę. Praleidžia gyvenimą matuojant savo lenkumą.
+1315 Itinerancija
+1316 Keliauja visur be papildomo mokesčio nuo 2017 m. birželio. Skambina mamai nuo kiekvienos sienos.
+1317 Be sienų
+1318 Aplankė 27 šalis per savaitgalį ir visą tai paskelbė tiesiogiai. Be papildomo mokesčio.
+1319 Šis mažas graužikas iškeliauja semestrui į užsienį ir sugrįžta dvikalbis. Gimęs 1987 m.
+1320 Mainai
+1321 Gyveno 12-oje bendrabučių ir virė makaronus 9 kalbomis.
+1322 Moneta
+1323 2 € moneta, ritanti visur nuo 2002 m. Turi 27 galimas nacionalines puses.
+1324 Vieninga valiuta
+1325 Dvidešimt šalių dalijasi jos stiprybe. Kai viena kosti, kitos karščiuoja.
+1326 Laisvas judėjimas
+1327 Gimęs ant laivo Mozelyje 1985 m. Jo nesulaiko nė viena siena.
+1328 Herbicidas
+1329 Perregistruotas dešimčiai metų 2023 m. Piktžolės dreba jam praeinant.
+1330 Lobistas-pardavėjas
+1331 Vaikšto koridoriais su lagaminu, didesniu už jį patį. Jis ne lobistas, jis „informuoja“.
+1332 Influenceris
+1333 Pažįsta kiekvieno padėjėjo numerį. Ir jų alergijas.
+1334 Mega-lobistas
+1335 Vienas iš 25000 Briuselio lobistų, didesnė versija. Permiega ir perrašo įstatymus.
+1336 Geležinis lagaminas
+1337 Geležinis lagaminas, keliaujantis Briuselis–Strasbūras dvylika kartų per metus. Jam bloga nuo kelionės.
+1338 Persikraustymas
+1339 Neša visą parlamentą savo pilve. Kelionės kaina: geriau nesiklausti.
+1340 Laiko keitimas
+1341 Parlamentas balsavo už jo atšaukimą 2019 m. Vis tiek sugrįžta dukart per metus.
+1342 Sukčiavimas
+1343 Apgaudinėja patikrinimus nuo 2015 m.: švarus ant stendo, dūmų pilnas keliuose.
+1344 Kandidatuoja į pirmininko postą… tada paskiriama kita.
+1345 Vertėjas
+1346 Kalba 24 kalbomis ir visada su dviejų sekundžių vėlavimu.
+1347 Trys galvos: Parlamentas, Taryba, Komisija. Sutaria apie 4 valandą ryto.
+1348 Niekas tiksliai nežino, ką jis daro. Vis tiek posėdžiauja 300 komitetų.
+1349 Formuliaras
+1350 Krūva formuliarų trimis egzemplioriais. Visada trūksta vieno lapo.
+1351 Archyvai
+1352 Laiko visk ą, net 1958 m. lipdukus. Rūšiavimas: alfabetinis ir emocinis.
+1353 Mažas ūkininkas
+1354 Gauna BŽŪP paramą už kiekvieną hektarą. Skaičiuoja savo hektarus kas rytą.
+1355 Sugeria trečdalį Europos biudžeto net nemirksėjęs. Vis dar alkanas.
+1356 Žemės ūkio politika
+1357 Kai blokuoja greitkelį traktoriais, net Taryba derasi.
+1358 Pastatoma priešais Parlamentą kaskart, kai keičiama reforma. Garantuotas signalas.
+1359 Sūris
+1360 Mažas žalio pieno sūris, kvepiantis labai stipriai. Didžiuojasi savo kraštu.
+1361 Apsaugotas kilmės nuoroda. Kiekviena imitacija teisiama.
+1362 Pralinė
+1363 Labai mielas belgiškas šokoladas. Tirpsta, kai jam pagiri.
+1364 Belgiška frit
+1365 Kepta dukart, kaip ir priklauso. Kategoriškai atsisako būti pavadinta „French“.
+1366 Balandis
+1367 Gyvena Liuksemburgo aikštėje ir vagia lobistų bulvytes. Žino visas apkalbas.
+1368 Mažas vyrukas
+1369 55 cm statula, turinti daugiau kostiumų nei visas Parlamentas.
+1370 Atomiumas
+1371 Devynios plieninės sferos, sujungtos kristalu, nuo 1958 m. parodos. Naktį švyti virš Briuselio.
+1372 Stažuotojas
+1373 Dirba daug ir nemokamai. Sako, kad tai „mokomoji patirtis“.
+1374 Laikinasis darbuotojas
+1375 Jo sutartis baigiasi po trijų mėnesių. Jis ją atnaujina jau šeštus metus.
+1376 Išlaikė EPSO konkursą. Nebijo nieko, nebent pensijų reformos.
+1377 Murmaliukas
+1378 Jis prieš. Nesvarbu, prieš ką, bet jis prieš.
+1379 Oratorius
+1380 Lipa ant visų stalų, kad kreiptųsi į minią. Net valgykloje.
+1381 Demagogas
+1382 Žada viską visiems. Jo pažadai išnyksta su aušra.
+1383 Klaidinga informacija
+1384 Keičia formą pagal tą, kuris į jį žiūri. Jis labai padalytas.
+1385 Fiktyvi paskyra
+1386 Mažas robotukas, komentuojantis visa didžiosiomis raidėmis. Niekada nemiegojo.
+1387 Trolių gamykla
+1388 Dešimt tūkstančių paskyrų vienoje dėžėje. Rinkimai jį gerai pažįsta.
+1389 Mokosi iš visko, ką darote. Jau žino, ką pagausite.
+1390 Reguliuotas DI
+1391 Pirmasis pasaulyje dirbtinio intelekto reglamentas (2024 m.) jį sutvarkė.
+1392 Kas mėnesį paauga. Namų ūkiai jį atidžiai stebi.
+1393 Hiperinfliacija
+1394 Tiek storas, kad užkemša gatves. ECB kelia normas, kad jį suplieklintų.
+1395 Palūkanų skirtumas
+1396 Tįsta su kiekvienu nevykusiu centrinio banko valdytojo pareiškimu.
+1397 Kriptovaliuta
+1398 Vertas turtų ryte ir nieko vakare. Dievina kalnų keteras.
+1399 Reguliuota krypto
+1400 MiCA reglamentas privertė jį užsidėti kaklaraištį. Dabar jis ramesnis.
+1401 Biudžeto balansas
+1402 Niekada nieko neleidžia, net savo energijos. Jo šūkis: „Schwarze Null!“
+1403 Troika
+1404 Trys katės: ECB, Komisija, TVF. Jos kartu tikrina kitų sąskaitas.
+1405 Rupūžė, kuri kurkia „ne!“ kiekvienam pasiūlymui. Jos vienos pakanka, kad viskas sustotų.
+1406 Vienbalsiškumas
+1407 Reikalauja vienbalsiškumo kiekvienam sprendimui, tada jį pats atmeta.
+1408 Barjeras
+1409 Vėl pasirodo, vos tik užkalbama apie pasienio kontrolę. Turi savo sargo būstelę.
+1410 Išeitis
+1411 Norėjo išvykti 2016 m., išvyko 2020 m., ir kartais gailisi. Dažnai palieka debatus.
+1412 Konsultacija
+1413 Balsadėžė, keliant paprastus klausimus sudėtingoms problemoms.
+1414 Parlamento mokamas, bet niekada ten nebuvo. Niekas niekada jo nematė dirbant.
+1415 Nešioja ženklelį, sutartį ir darbo užmokesčio lapelį. Bet jokio kabineto.
+1416 Rastas pilnas banknotų Briuselio bute 2022 m. gruodį.
+1417 Mažas lagaminas
+1418 Nedidelis lagaminas, keliaujantis iš rankų į rankas prie Parlamento.
+1419 Vamzdynas
+1420 1200 km ilgio po vandenynu. Jo čiaupą valdo kažkas kitas.
+1421 Mentės sukasi, vos papūtus. Jis nekenčia dienų be vėjo.
+1422 Jūrinis vėjas
+1423 Gyvena Šiaurės jūroje ir maitina ištisus miestus.
+1424 Saulės baterija
+1425 Miega naktį ir dirba dieną, ypač Ispanijoje.
+1426 Neleidžia kainoms pernelyg pakilti. Kaklas skauda nuo stūmimo.
+1427 Importo muitas
+1428 Apmuitina visa, kas praeina pro jį. Net nukritusius lapus.
+1429 Prekybos karas
+1430 Kelia didžiulę mokesčių lentą. Skaičiai keičiasi kiekvieną rytą.
+1431 Mažas akmenukas, nuo kurio priklauso visi telefonai. Jo eksportas stebimas atidžiai.
+1432 Diplomatas panda
+1433 Paskolintas kelioms metams Europos zoologijos sodui. Valgo bambuką ir prekybos susitarimus.
+1434 Turinys neprieinamas
+1435 Šis geltonas meškiukas nematomas nė viename regione. Jo fiche pašalinta.
+1436 Teisininkas balandis
+1437 Lizdą suka ant ESTT bokštų Kirchberge ir burkuoja lotyniškai.
+1438 Deklaracija
+1439 Kalba 1950 m. gegužės 9 d. deklaraciją visiems, kurie norą klausytis. Pasirodo Europos dieną.
+1440 Nobelio premija
+1441 2012 m. Europos Sąjungai skirtas medalis. Jis švyti iš pasididžiavimo.
+1442 Dulksna
+1443 Mažas Briuselio debesis. Lyja ant tavęs 200 dienų per metus.
+1444 Verslo pietūs
+1445 Darbo pietūs, kurie tęsiasi tris valandas. Ten nuspręsta daugiau nei posėdyje.
+1446 Prekybos sutartis
+1447 Derama nuo 1999 m. Kai pažengia žingsnį, traktoriai ją nustumia atgal.
+1448 Gimęs 1957 m. kovo 25 d. Kapitolijuje. Įkūrė Europos ekonominę bendriją.
+1449 Mastrichto sutartis
+1450 Gimęs Nyderlanduose 1992 m. Sukūrė Sąjungą ir susvajojo apie eurą.
+1451 Lisabonos sutartis
+1452 Pasirašyta 2007 m., ji perėmė esmę konstitucijos, kuri niekada nepasirodė.
+1453 Atmestas referendumu Prancūzijoje ir Nyderlanduose 2005 m. Sprunka, vos priartėjus.
+1454 Žino tik viena ataka, ir ji visada pavyksta. Vienu sakiniu išgelbėjo eurą.
+1455 Oficialus antspaudas
+1456 Antspauduoja nusilpusį Euromoną, kad jį įregistruotų.
+1457 Super antspaudas
+1458 Stipresnis rašalas. Veiksmingesnis už paprastą antspaudą.
+1459 Kvalifikuotas antspaudas
+1460 Kvalifikuota dauguma: labai gera pagauti galimybė.
+1461 Vienbalsis antspaudas
+1462 Vienbalsiškumas! Pagavimas garantuotas. Be galo retas.
+1463 Valgyklos kava
+1464 Atgauna 20 HP. Drungna, bet veiksminga.
+1465 Klubo sumuštinis
+1466 Atgauna 50 HP. Stažuotojų mėgstamiausias.
+1467 Briuselio vaflis
+1468 Atgauna 120 HP. Su cukraus pudra.
+1469 Kniddelen
+1470 Liuksemburgiškas patiekalas. Atgauna 200 HP.
+1471 Pilnas meniu
+1472 Užkandis, pagrindinis, desertas: atgauna visus HP.
+1473 Teisinė nuomonė
+1474 Gydo visas statuso problemas.
+1475 Žadintuvas
+1476 Pažadina viršūnių susitikimo užmigdytą Euromoną.
+1477 Atgaivinimo pasiūlymas
+1478 Vėl paverčia K.O. Euromoną pasirengusiu debatuoti.
+1479 Vienbalsis atgaivinimas
+1480 Prikelia K.O. Euromoną su visais jo HP.
+1481 Profsąjungos pertrauka
+1482 Atgauna visus Euromono PP.
+1483 Argumentų rinkinys
+1484 Kovoje: padidina Argumentaciją.
+1485 Neperšaunama liemenė
+1486 Kovoje: padidina Atsparumą.
+1487 Eksperto ataskaita
+1488 Kovoje: padidina Ekspertizę.
+1489 Adresų knygelė
+1490 Kovoje: padidina Diplomatiją.
+1491 Dvigubas espreso
+1492 Kovoje: padidina Reaktyvumą.
+1493 Nekvietimo sąlyga
+1494 Antidemarchavimo sąlyga: atbaido Euromonus 100 žingsnių.
+1495 Verčia evoliucionuoti kai kuriuos Euromonus. Reikia 27 parašų.
+1496 Verčia evoliucionuoti kai kuriuos energetinius Euromonus.
+1497 USB-C raktas
+1498 Verčia evoliucionuoti kai kuriuos skaitmeninius Euromonus.
+1499 Euromonų enciklopedija, Žano Monė dovana.

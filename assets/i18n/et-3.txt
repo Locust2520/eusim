@@ -1,0 +1,501 @@
+# Eesti — ids 1000-1499
+1000 Head Euroopa päeva! Kohtumiseni järgmisel aastal.
+1001 Tehno
+1002 Föderaalne
+1003 Suveräänne
+1004 Liberaalne
+1005 Sotsiaalne
+1006 Roheline
+1007 Tööstus
+1008 Energia
+1009 Õigus
+1010 Raha
+1011 Põllumajandus
+1012 Digi
+1013 Diplo
+1014 Lobi
+1015 Populist
+1016 Kummitus
+1017 Muudatus
+1018 Muudab vastase teksti, lõik korraga.
+1019 Paberimajandus
+1020 Matab sihtmärgi blankettide alla.
+1021 Memo
+1022 Sisememo, väga kindlameelne.
+1023 Koosolek
+1024 Koordineerimiskoosolek, mis kõik magama paneb.
+1025 Kuiv tempel
+1026 Puhas ja ametlik templilöök.
+1027 Komiteemenetlus
+1028 Keegi ei mõista menetlust. Isegi sihtmärk mitte.
+1029 Ülelugemine
+1030 Loeb oma toimiku üle. Tõstab palju Vastupidavust.
+1031 Direktiiv
+1032 Siduv tekst, mis tuleb kiiresti üle võtta.
+1033 Määrus
+1034 Kohaldatakse vahetult kõigis liikmesriikides.
+1035 Kolmepoolne
+1036 Parlament, nõukogu, komisjon: tabab 2–5 korda.
+1037 Kiirmenetlus
+1038 Kiirmenetlus: tegutseb esimesena.
+1039 Kohvipaus
+1040 Kohv sööklas. Taastab poole HP-st.
+1041 Plagiaat
+1042 Kopeerib vastase viimase rünnaku.
+1043 Aastaaruanne
+1044 Laeb ühe käigu, siis lööb 400 leheküljega.
+1045 Integratsioon
+1046 Väike samm üha tihedama liidu poole.
+1047 Subsidiaarsus
+1048 Tegutseb õigel tasandil. Tõstab Diplomaatiat.
+1049 Euroopa Ühendriigid
+1050 Suur föderaalne unistus, täie jõuga.
+1051 Team Europe
+1052 Kõik koos! Solidaarne rünnak.
+1053 Ühtne turg
+1054 Kaotab piirid… ja vastase Diplomaatia.
+1055 Kaksteist tähte
+1056 Kaksteist kuldset tähte, mis kunagi mööda ei lähe.
+1057 Tippkandidaat
+1058 Spitzenkandidat-kampaania. Sagedased kriitilised tabamused.
+1059 Laienemine
+1060 Võtab vastu uusi liikmeid. Argumenteerimine +2.
+1061 Blokeerib sel käigul iga rünnaku. Ühehäälsus on püha.
+1062 Piir
+1063 Taastab kontrolli. Võib langetada Reaktsiooni.
+1064 Opt-out
+1065 Vabastab end ühistest reeglitest. Vastupidavus +2.
+1066 Rahvahääletus
+1067 Lihtne küsimus, keerulised tagajärjed.
+1068 Artikkel 7
+1069 Peatab õigused. Vastase Argumenteerimine -2.
+1070 Lahkub lahingust… kui läbirääkimised õnnestuvad.
+1071 Tagasimakse
+1072 „I want my money back!” Saab HP-d tagasi.
+1073 Suveräänsus
+1074 Võtab kontrolli kärarikkalt tagasi.
+1075 Konkurents
+1076 Vaba ja moonutamata, aga see teeb haiget.
+1077 Vabakaubandus
+1078 Nulltollidega kaubandusleping.
+1079 Dereguleerimine
+1080 Eemaldab kaitse. Vastase Vastupidavus -2.
+1081 Idufirma
+1082 Murranguline ja kiire. Tegutseb esimesena.
+1083 Nähtamatu käsi
+1084 Seda ei näe tulemas. Ei lähe kunagi mööda.
+1085 Samal ajal
+1086 Paremalt ja vasakult, tabab 2–5 korda.
+1087 Nõrgumine
+1088 Laseb eurodel väljakule nõrguda.
+1089 Streik
+1090 Kõik seiskub. Külmutab sihtmärgi vahendid.
+1091 Sotsiaalne sammas
+1092 Kindel Euroopa sotsiaalõiguste sammas.
+1093 Miinimumpalk
+1094 2022. aasta direktiiv piisava miinimumpalga kohta.
+1095 Meeleavaldus
+1096 Plakatite meri. Võib hirmutada.
+1097 Solidaarsus
+1098 Jagab koormat. Taastab poole HP-st.
+1099 Kreeka „ei” 2015. aasta juulist. Tagasilöök garanteeritud.
+1100 Erasmus
+1101 Silmaringi avardav vahetus. Võib tõsta Asjatundlikkust.
+1102 Roheline kokkulepe
+1103 2019. aasta Green Deal otse näkku.
+1104 Taasmetsastamine
+1105 Istutab uuesti. Taastab poole HP-st.
+1106 Süsinikumaks
+1107 Süsiniku piirimeede. Võib langetada Asjatundlikkust.
+1108 Neutraalsus 2050
+1109 Kliimaneutraalsus, ühe hoobiga.
+1110 Kompost
+1111 Lõhnab tugevalt. Võib mõju alla panna.
+1112 Kinnitatud kork
+1113 Direktiiv 2019/904: kork ei lase sihtmärki lahti.
+1114 Fit for 55
+1115 -55% heitkoguseid 2030. aastaks, ja see lööb.
+1116 Jalgratas
+1117 Kiire rattatee. Tegutseb esimesena.
+1118 Süsi
+1119 1951. aasta Söe- ja Teraseühendus kahurikuulina. Võib tekitada skandaali.
+1120 Teras
+1121 Euroopa terasest rusikas.
+1122 Kõrgahi
+1123 Äärmuslik kuumus. Võib vallandada skandaali.
+1124 Ümberpaigutamine
+1125 Lahkub mujale. Võib langetada vastase Reaktsiooni.
+1126 Airbus
+1127 Euroopa tšempion pikeerimas.
+1128 Konveier
+1129 Konveierliin: tabab 2–5 korda.
+1130 Tööstuskava
+1131 Elavdab tootmist. Argumenteerimine +2.
+1132 Säde
+1133 Väike lühis. Võib vahendid külmutada.
+1134 Lõhustumine
+1135 Euratom, 1957. Aatomi energia.
+1136 Tuulik
+1137 Labad pöörlevad… ja pea ka.
+1138 Gaasikraan
+1139 Katkestab tarned. Külmutab vahendid.
+1140 REPowerEU
+1141 2022. aasta kava sõltuvusest vabanemiseks. Asjatundlikkus +2.
+1142 Liigpinge
+1143 Jõhker lahendus, tagasilöögiga.
+1144 Tuumasüntees
+1145 ITER-reaktor täisvõimsusel.
+1146 Hinnalagi
+1147 Seab vastasele lae. Asjatundlikkus -2.
+1148 Ametlik teade
+1149 Esimene ametlik hoiatus.
+1150 Rikkumine
+1151 Hästi sihitud rikkumismenetlus.
+1152 Euroopa Kohtu otsus
+1153 Luksemburg on otsustanud. Edasikaebamine pole võimalik.
+1154 Miljardiline trahv. Mündid lendavad igale poole.
+1155 OLAF-i uurimine
+1156 Pettustevastane amet uurib. Võib sihtmärgi blokeerida.
+1157 GDPR
+1158 Kaitseb andmeid. Vastase Põiklemine -2.
+1159 Kohtupraktika
+1160 Tugineb pretsedentidele. Asjatundlikkus +2.
+1161 DSA
+1162 Digiteenuste määrus. Võib langetada Asjatundlikkust.
+1163 Euromünt
+1164 2-eurose mündi vise. Kull või kiri?
+1165 Baasintress
+1166 Tõstab intressimäärasid. Võib sihtmärki aeglustada.
+1167 Rahatrükk
+1168 Kvantitatiivne lõdvendamine piiramatult.
+1169 Kokkuhoid
+1170 Pingutage vööd. Vastase Argumenteerimine -2.
+1171 Whatever it takes
+1172 „Ükskõik mida see maksab” (Draghi, juuli 2012). Õnnestub alati.
+1173 Inflatsioon
+1174 Närib ostujõudu, käik käigu järel.
+1175 Intressivahe
+1176 Intressivahe tõuseb lakke. Sagedased kriitilised tabamused.
+1177 Taastekava
+1178 NextGenerationEU, 750 mld €. Taastab poole HP-st.
+1179 Traktor
+1180 Blokeerib tee. Võib sihtmärki aeglustada.
+1181 ÜPP
+1182 Ühine põllumajanduspoliitika: saab HP-d tagasi.
+1183 Läga
+1184 Laotatud prefektuuri ette. Võib nakatada.
+1185 KPN
+1186 Kaitstud päritolunimetus. Vastupidavus +2.
+1187 Lõikus
+1188 Rekordsaak, otse pähe.
+1189 Glüfosaat
+1190 2023. aastal kümneks aastaks uuesti lubatud. Võib mõjuga mürgitada.
+1191 Kõver banaan
+1192 1994. aasta määrus banaanide kvaliteedi kohta. Segadust tekitav.
+1193 Küpsis
+1194 Bänner, mida ei saa sulgeda. Külmutab sihtmärgi.
+1195 Viga
+1196 Viga 404. Võib desinformeerida.
+1197 Algoritm
+1198 Isikupärastatud soovitus, väga isikupärastatud.
+1199 USB-C
+1200 Universaalne laadija, kohustuslik alates 2024.
+1201 Valeuudis
+1202 Viiruslik kuulujutt. Desinformeerib sihtmärki.
+1203 Rändlus
+1204 Rändlustasud kadunud! Tegutseb esimesena.
+1205 Tehisintellekti akt
+1206 Maailma esimene tehisintellekti määrus (2024).
+1207 Trollimine
+1208 Ebameeldiv kommentaar. Võib segadusse ajada.
+1209 Käepigistus
+1210 Kindel ja pikk, fotograafide ees.
+1211 Läbirääkimised kella 5-ni hommikul. Paneb sihtmärgi magama.
+1212 Kompromiss
+1213 Kõik kaotavad natuke, sina saad HP-d.
+1214 Sanktsioonid
+1215 Uus sanktsioonipakett. Võib langetada Diplomaatiat.
+1216 Diivan
+1217 Sofagate (Ankara, 2021): sihtmärk kaotab käigu. Ainult 1. käigul.
+1218 Tõlkimine
+1219 Tõlgitud 24 keelde. Midagi läheb kaduma.
+1220 Kokkulepe
+1221 Ajalooline kokkulepe, viimasel hetkel allkirjastatud.
+1222 Pehme jõud
+1223 Euroopa võlu. Diplomaatia +2.
+1224 Suupisted
+1225 Kokteil Place Luxil. Sihtmärk satub mõju alla.
+1226 Kohver
+1227 Hästi täidetud kohver, hooga visatud.
+1228 Rahakott
+1229 Rahatähed igal pool. Väljak on neid täis.
+1230 Seisukohadokument
+1231 Võtmed-kätte muudatusettepanek, juba valmis kirjutatud.
+1232 Ärisse kolimine
+1233 Läheb erasektorisse. Reaktsioon +2.
+1234 Mõjuvõim
+1235 Sõna, mis sosistati õigesse kõrva.
+1236 Pöördukse
+1237 Keegi ei tea enam, kes kelle heaks töötab.
+1238 Loosung
+1239 Kolm sõna, null nüanssi.
+1240 Punane buss
+1241 „350 miljonit nädalas!” Võib desinformeerida.
+1242 Megafon
+1243 Karjub kõigist valjemini.
+1244 Euromüüt
+1245 Legend Brüsselist, väga veenev.
+1246 TREMENDOUS
+1247 Kõigi aegade parim löök. Argumenteerimine +3.
+1248 Tollimaksud
+1249 Liberation Day (2. aprill 2025). Võib langetada Vastupidavust.
+1250 Suurtähtpostitus
+1251 SÕNUM, MIS ON KIRJUTATUD TERVENISTI SUURTÄHTEDEGA.
+1252 Not laughing
+1253 „You're not laughing now!” (2016). Võib langetada Diplomaatiat.
+1254 Fiktiivne töökoht
+1255 Töö, mida pole olemas, aga mis maksab.
+1256 Kadumine
+1257 Kabinetist leidmatu. Põiklemine +2.
+1258 Kustutatud SMS
+1259 Ühtegi sõnumit pole alles. Tühistab vastase boonused.
+1260 Kummitamine
+1261 Toimik, mis tuleb oma autorit kummitama.
+1262 Palgaleht
+1263 Palk, mis makstakse mitte millegi eest. Saab HP-d tagasi.
+1264 Ektoplasma
+1265 Vaatemänguline ilmumine Parlamendis.
+1266 Põhiseadus
+1267 Tagasi lükatud 2005… aga hullult võimas.
+1268 Rooma leping
+1269 1957: EMÜ asutamine.
+1270 1992: Liit ja ühisraha.
+1271 2007: leping, mis asendas põhiseaduse.
+1272 Haruldased muldmetallid
+1273 Piirab eksporti. Võib vahendid külmutada.
+1274 Pikk laud
+1275 Võtab vastu kuuemeetrise laua otsas. Põiklemine +2.
+1276 Süsteemne rivaal
+1277 Partner, konkurent, rivaal. Võib langetada Diplomaatiat.
+1278 Gröönimaa
+1279 Püüab osta tervet saart. Suur kahju.
+1280 Sündis 2019. aasta rohelise kokkuleppega. Iga kord, kui heitenorm vastu võetakse, tärkab võrse.
+1281 Kliimaeesmärk
+1282 Ta treenib, et vähendada oma heitkoguseid 2030. aastaks 55%. Ta loeb iga kalorit.
+1283 Neutraalsus
+1284 Ta sihib kliimaneutraalsust 2050. aastal. Seni istutab ta igal sammul puu.
+1285 Väike söehunnik 1951. aasta Söe- ja Teraseühendusest. Ta mustab vaimustusega kõike, mida puudutab.
+1286 Kui ta vihastab, pritsib tema korsten sädemeid. Ta unistab täishõivest.
+1287 Ühine teras
+1288 Sepistatud ühendatud söest ja terasest. Ta on tõestus, et rahu saab valmistada.
+1289 Aatom
+1290 Väike uudishimulik aatom, sündinud 1957. aasta Euratomi lepingust. Ta ei suuda paigal püsida.
+1291 Reaktor
+1292 Tema elektronid tiirlevad nii kiiresti, et ta valgustab terve toa. Säästlikkus valikuline.
+1293 Pahandades jaguneb ta kaheks. Tema ja Rohelised ei räägi enam omavahel.
+1294 Tempel
+1295 Elav tempel, mis kinnitab kõike, mida kohtab. Ta on juba oma treeneri templiga varustanud.
+1296 Allkirjakaust
+1297 Ta parafeerib iga lehekülje alumises paremas nurgas. Ühe lepingu peale kulub tal neli tundi.
+1298 Ratifitseerimine
+1299 Ta liigub alles siis, kui 27 riigi parlamenti on jah öelnud. Seepärast magab ta palju.
+1300 Ta paljuneb iga seaduseelnõuga tuhandete kaupa. Parlament saab mõnikord ühe raporti kohta 2000.
+1301 Obstruktsioon
+1302 Ta esitab nii palju muudatusettepanekuid, et kogu istung blokeerub. Hästi lihvitud tehnika.
+1303 Küpsisebänner
+1304 Ta ilmub iga ukse ette alates 2018. aasta GDPR-ist. Keeldumisest ei piisa kunagi.
+1305 Nõusolek
+1306 Ta küsib sinu nõusolekut kõigeks, ja siis nõusolekuks endaks. Ta on väga viisakas.
+1307 Laadija
+1308 Kohustuslik kõigil seadmetel alates 2024. aasta lõpust. Ta jättis terve juhtmesahtli tööta.
+1309 Kork
+1310 Ta ei lahku oma pudelist alates 2024. aasta juulist. Ta lööb sind joomise ajal ninna.
+1311 Kadunud kõrs
+1312 Keelatud alates 2021, arvati väljasurnuks. Ta kummitab öösiti kiirtoidukohtades.
+1313 Banaan
+1314 1994. aasta määrus sätestab tema kvaliteedi. Ta veedab elu oma kõverust mõõtes.
+1315 Rändlus
+1316 Ta reisib alates 2017. aasta juunist kõikjal ilma tasudeta. Ta helistab igalt piirilt emale.
+1317 Piirideta
+1318 Ta külastas ühe nädalavahetusega kõiki 27 riiki ja kandis kõike otse üle. Ilma lisatasuta.
+1319 See väike näriline läheb semestriks välismaale ja tuleb tagasi kakskeelsena. Sündinud 1987.
+1320 Vahetus
+1321 Ta on elanud 12 ühiskorteris ja keedab pastat 9 keeles.
+1322 Münt
+1323 2-eurone münt, mis veereb igal pool alates 2002. Tal on 27 võimalikku riiklikku külge.
+1324 Ühisraha
+1325 Kakskümmend riiki jagavad tema jõudu. Kui üks köhib, saavad teised palavikku.
+1326 Vaba liikumine
+1327 Sündinud laeval Moselil 1985. Ükski piir teda kinni ei hoia.
+1328 Herbitsiid
+1329 2023. aastal kümneks aastaks uuesti lubatud. Umbrohi väriseb, kui ta mööda läheb.
+1330 Kaupleja
+1331 Ta tolgendab koridorides endast suurema portfelliga. Ta ei lobista, ta „teavitab”.
+1332 Mõjuisik
+1333 Ta teab iga parlamendiassistendi numbrit. Ja nende allergiaid.
+1334 Megalobi
+1335 Üks Brüsseli 25 000 lobistist, hiiglaslikus versioonis. Ta kirjutab seadusi magades ümber.
+1336 Raudkohver
+1337 Raudkohver, mis sõidab Brüssel–Strasbourg kaksteist korda aastas. Tal hakkab sõidust paha.
+1338 Kolimine
+1339 Ta kannab kõhus tervet parlamenti. Sõidu hind: ära küsi.
+1340 Kellakeeramine
+1341 Parlament hääletas tema kaotamise poolt 2019. Ometi tuleb ta kaks korda aastas tagasi.
+1342 Pettus
+1343 Ta on alates 2015 kontrollidel petnud: puhas katsestendil, suitsune teel.
+1344 Ta teeb kampaaniat juhi kohale… siis nimetatakse tema asemel keegi teine.
+1345 Tõlk
+1346 Ta räägib 24 keelt ja alati kahesekundilise viivitusega.
+1347 Kolm pead: Parlament, Nõukogu, Komisjon. Nad saavad kokkuleppele umbes kell 4 hommikul.
+1348 Keegi ei tea täpselt, mida ta teeb. Ometi istub ta 300 komitees.
+1349 Blankett
+1350 Hunnik blankette kolmes eksemplaris. Alati puudub üks leht.
+1351 Arhiiv
+1352 Ta hoiab kõike alles, isegi 1958. aasta märkmepabereid. Järjestus: tähestikuline ja emotsionaalne.
+1353 Väiketalunik
+1354 Ta saab iga hektari eest ÜPP toetust. Ta loeb igal hommikul oma hektareid.
+1355 Ta neelab silmagi pilgutamata kolmandiku ELi eelarvest. Tal on alati kõht tühi.
+1356 Põllumajanduspoliitika
+1357 Kui ta oma traktoritega kiirtee blokeerib, peab isegi nõukogu läbirääkimisi.
+1358 Ta pargib iga reformi ajal Parlamendi ette. Signaalitamine garanteeritud.
+1359 Juust
+1360 Väike toorpiimajuust, mis lõhnab väga tugevalt. Ta on oma kodukandi üle uhke.
+1361 Kaitstud päritolunimetusega. Iga jäljendus antakse kohtusse.
+1362 Pralinee
+1363 Väga armas Belgia šokolaad. Ta sulab, kui talle komplimenti teha.
+1364 Belgia friikas
+1365 Kaks korda praetud, nagu peab. Ta keeldub kategooriliselt, et teda „French'iks” kutsutaks.
+1366 Tuvi
+1367 Ta elab Place Luxil ja varastab lobistide friikartuleid. Ta teab kõiki kuulujutte.
+1368 Väike poiss
+1369 Väike 55 cm kuju, kellel on rohkem kostüüme kui kogu Parlamendil.
+1370 Atomium
+1371 Üheksa teraskera kristalliks ühendatud, alates Expo 58-st. Ta särab öösiti Brüsseli kohal.
+1372 Praktikant
+1373 Ta töötab palju ja palka ei saa. Ta ütleb, et see on „arendav kogemus”.
+1374 Ajutine teenistuja
+1375 Tema leping lõpeb kolme kuu pärast. Ta on seda pikendanud kuus aastat.
+1376 Ta sooritas EPSO konkursi. Ta ei karda enam midagi, peale pensionireformi.
+1377 Virisja
+1378 Ta on vastu. Pole vahet mille, ta on vastu.
+1379 Kõneleja
+1380 Ta ronib igale lauale rahvahulga ees kõnet pidama. Isegi sööklas.
+1381 Demagoog
+1382 Ta lubab kõigile kõike. Tema lubadused aurustuvad koidikul.
+1383 Valeinfo
+1384 Ta muudab kuju vastavalt sellele, kes teda vaatab. Teda jagatakse palju.
+1385 Võltskonto
+1386 Väike robot, mis kommenteerib kõike suurtähtedega. Ta pole kunagi maganud.
+1387 Trollivabrik
+1388 Kümme tuhat kontot ühes kastis. Valimised tunnevad teda hästi.
+1389 Ta õpib kõigest, mida teed. Ta teab juba, mida sa püüad.
+1390 Reguleeritud TI
+1391 Maailma esimene tehisintellekti määrus (2024) pani ta korda.
+1392 Ta paisub iga kuu natuke. Leibkonnad jälgivad teda hoolega.
+1393 Hüperinflatsioon
+1394 Nii paks, et ummistab tänavad. EKP tõstab intresse, et ta kaalust alla võtaks.
+1395 Intressivahe
+1396 Ta venib iga keskpankuri kohmaka avalduse peale.
+1397 Krüptoraha
+1398 Hommikul on ta varandust väärt ja õhtul mitte midagi. Ta armastab ameerika mägesid.
+1399 Reguleeritud krüpto
+1400 MiCA määrus sundis teda lipsu kandma. Ta on nüüd rahulikum.
+1401 Eelarve tasakaal
+1402 Ta ei kuluta kunagi midagi, isegi mitte oma energiat. Tema hüüd: „Schwarze Null!”
+1403 Troika
+1404 Kolm kassi: EKP, Komisjon, IMF. Nad kontrollivad koos teiste kontosid.
+1405 Kärnkonn, kes krooksub iga ettepaneku peale „ei!”. Temast üksi piisab, et kõike blokeerida.
+1406 Ühehäälsus
+1407 Ta nõuab iga otsuse jaoks ühehäälsust ja keeldub siis sellest ise.
+1408 Tõkkepuu
+1409 Ta ilmub kohe, kui räägitakse piirikontrollist. Tal on oma putka.
+1410 Väljaastumine
+1411 Ta tahtis lahkuda 2016, lahkus 2020 ja kahetseb vahel. Ta lahkub tihti lahingutest.
+1412 Konsultatsioon
+1413 Valimisurn, mis esitab keerulistele probleemidele lihtsaid küsimusi.
+1414 Parlamendi poolt palgatud, aga pole sinna kunagi jalga tõstnud. Keegi pole teda kunagi töötamas näinud.
+1415 Tal on pääse, leping ja palgaleht. Aga mitte kabinetti.
+1416 Leiti 2022. aasta detsembris ühest Brüsseli korterist rahatähti täis.
+1417 Portfell
+1418 Väike kohver, mis liigub Parlamendi jalamil käest kätte.
+1419 Torujuhe
+1420 1200 km pikk mere all. Tema kraani kontrollib keegi teine.
+1421 Tema labad pöörlevad niipea, kui talle peale puhuda. Ta vihkab tuulevaikseid päevi.
+1422 Meretuul
+1423 Ta elab Põhjamere avamerel ja varustab terveid linnu.
+1424 Päikesepaneel
+1425 Ta magab öösel ja töötab päeval kõvasti, eriti Hispaanias.
+1426 Ta takistab hindade liiga kõrgele tõusmist. Lükkamisest valutab tal kael.
+1427 Toll
+1428 Ta maksustab kõik, mis temast mööda läheb. Isegi kuivanud lehed.
+1429 Kaubandussõda
+1430 Ta lehvitab hiiglaslikku tollitabelit. Numbrid muutuvad igal hommikul.
+1431 Väike kivike, millest sõltuvad kõik telefonid. Tema eksporti jälgitakse.
+1432 Diplomaatpanda
+1433 Mõneks aastaks Euroopa loomaaiale laenatud. Ta sööb bambust ja kaubanduslepinguid.
+1434 Sisu pole saadaval
+1435 See väike kollane karupoeg pole ühes piirkonnas nähtav. Tema kaart on eemaldatud.
+1436 Juristituvi
+1437 Ta pesitseb Kirchbergis Kohtu tornides ja kudrutab ladina keeles.
+1438 Deklaratsioon
+1439 Ta loeb kõigile, kes kuulata tahavad, ette 9. mai 1950. aasta deklaratsiooni. Ta ilmub Euroopa päeval.
+1440 Nobeli preemia
+1441 Euroopa Liidule 2012. aastal antud medal. See särab uhkusest.
+1442 Uduvihm
+1443 Väike Brüsseli pilv. Sinu peale sajab 200 päeva aastas.
+1444 Ärilõuna
+1445 Kolm tundi kestev töölõuna. Seal otsustatakse rohkem kui istungil.
+1446 Kaubandusleping
+1447 Seda on läbi räägitud alates 1999. Kui ta astub sammu edasi, lükkavad traktorid ta tagasi.
+1448 Sündinud 25. märtsil 1957 Kapitooliumil. Ta asutas Euroopa Majandusühenduse.
+1449 Maastrichti leping
+1450 Sündinud Madalmaades 1992. Ta lõi Liidu ja unistas eurost.
+1451 Lissaboni leping
+1452 Allkirjastatud 2007, võttis üle suurema osa põhiseadusest, mis kunagi päevavalgust ei näinud.
+1453 Tagasi lükatud rahvahääletustel Prantsusmaal ja Madalmaades 2005. Ta põgeneb kohe, kui talle lähened.
+1454 Ta oskab vaid ühte rünnakut ja see õnnestub alati. Ta päästis euro ühe lausega.
+1455 Ametlik tempel
+1456 Varustab nõrgestatud Euromoni templiga, et see registreerida.
+1457 Supertempel
+1458 Tugevdatud tint. Tõhusam kui tavaline tempel.
+1459 Kvalifitseeritud tempel
+1460 Kvalifitseeritud häälteenamus: väga hea püüdmisvõimalus.
+1461 Ühehäälne tempel
+1462 Ühehäälsus! Püüdmine garanteeritud. Äärmiselt haruldane.
+1463 Söökla kohv
+1464 Taastab 20 HP. Leige, aga tõhus.
+1465 Klubivõileib
+1466 Taastab 50 HP. Praktikantide lemmik.
+1467 Brüsseli vahvel
+1468 Taastab 120 HP. Tuhksuhkur kaasas.
+1469 Kniddelen
+1470 Luksemburgi eriroog. Taastab 200 HP.
+1471 Täismenüü
+1472 Eelroog, pearoog, magustoit: taastab kogu HP.
+1473 Õiguslik arvamus
+1474 Ravib kõik staatuseprobleemid.
+1475 Äratuskell
+1476 Äratab tippkohtumisel magama jäänud Euromoni.
+1477 Taaskäivitusettepanek
+1478 Toob nokauteeritud Euromoni tagasi väitlusvormi.
+1479 Ühehäälne taaskäivitus
+1480 Elustab nokauteeritud Euromoni täis HP-ga.
+1481 Ametiühingupaus
+1482 Taastab Euromoni kõik PP-d.
+1483 Argumendipakett
+1484 Lahingus: tõstab Argumenteerimist.
+1485 Kuulikindel vest
+1486 Lahingus: tõstab Vastupidavust.
+1487 Eksperdiaruanne
+1488 Lahingus: tõstab Asjatundlikkust.
+1489 Aadressiraamat
+1490 Lahingus: tõstab Diplomaatiat.
+1491 Topeltespresso
+1492 Lahingus: tõstab Reaktsiooni.
+1493 Värbamiskeeld
+1494 Värbamiskeelu klausel: hoiab Euromonid 100 sammu eemal.
+1495 Paneb teatud Euromonid arenema. Vaja on 27 allkirja.
+1496 Paneb teatud energia-Euromonid arenema.
+1497 USB-C mälupulk
+1498 Paneb teatud digi-Euromonid arenema.
+1499 Euromonide entsüklopeedia, Jean Monnet' kingitus.

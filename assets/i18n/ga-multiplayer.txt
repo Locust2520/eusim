@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Díospóireacht il-imreora
+2148	Cruthaigh seomra
+2149	Téigh isteach i seomra
+2150	Imir le haon duine
+2151	Ainm an tseomra
+2153	PIN (6 dhigit)
+2145	Ag fanacht le himreoirí…
+2146	Cuardach gach 10 soicind.
+2147	PIN: %s
+2118	Cealaigh (B)
+2117	Deimhnigh (A)
+2116	←→: suíomh    ↑↓: digit
+2152	Cuir isteach ainm seomra.
+2113	Freagra neamhbhailí ón bhfreastalaí.
+2135	Iarratas seomra neamhbhailí.
+2136	Tá an t-ainm seomra sin in úsáid cheana.
+2137	Níor aimsíodh an seomra.
+2138	PIN mícheart.
+2139	Tá an seomra seo lán.
+2140	Tá leaganacha éagsúla den chluiche ann.
+2141	Tá an freastalaí lán.
+2142	Tá an seomra imithe in éag.
+2143	Malartú díospóireachta neamhbhailí.
+2144	Tá an freastalaí stoptha.
+2108	Díospóireacht curtha ar ceal.
+2109	Níl an freastalaí ag freagairt.
+2110	Cailleadh an nasc leis an bhfreastalaí.
+2111	D’fhág an t-imreoir eile an díospóireacht.
+2115	Níl na díospóireachtaí sioncronaithe.
+2114	Ag fanacht leis an imreoir eile… B: cealaigh
+2123	Ag nascadh le Wi-Fi… B: cealaigh
+2124	Níorbh fhéidir Wi-Fi a thosú.
+2125	Seiceáil socruithe Wi-Fi an chonsóil.
+2126	Níorbh fhéidir an nasc a chruthú.
+2127	Níorbh fhéidir an nasc a chumrú.
+2128	Ní féidir an freastalaí a shroicheadh.
+2129	Teastaíonn foireann uait le díospóireacht a dhéanamh.

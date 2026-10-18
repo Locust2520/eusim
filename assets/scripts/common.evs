@@ -1,0 +1,159 @@
+# ---------------------------------------------------------------- shared services
+script cantine_heal
+  show R cantiniere neutral
+  say "Cantinière" "Bienvenue à la cantine ! Un café, un sandwich, et vos Euromons repartent comme en 40… euh, comme en 57."
+  ask "Cantinière" "Je m'occupe de votre équipe ?"
+  yesno -> TMP
+  if var TMP == 0 goto non
+  close
+  heal
+  say "Cantinière" "Et voilà ! Tout le monde est en pleine forme. Le café, lui, est toujours tiède."
+  goto fin
+:non
+  say "Cantinière" "Comme vous voulez. Mais ne venez pas pleurer au prochain débat !"
+:fin
+end
+
+script cantine_set_heal
+  special set_heal_point
+end
+
+script shop_bxl
+  special shop
+end
+
+script gare_guichet
+  if !flag TRAIN_UNLOCKED goto ferme
+  say "Guichetier" "Bonjour ! Gare européenne, guichet unique. Votre Pass Interrail, s'il vous plaît… Parfait. Où allons-nous ?"
+  close
+  special train
+  goto fin
+:ferme
+  say "Guichetier" "Désolé, les trains internationaux sont réservés aux détenteurs du Pass Interrail. Il paraît qu'on le gagne à Strasbourg."
+:fin
+end
+
+# generic city flavour NPCs
+script cantine_npc_bxl
+  say "Fonctionnaire" "Je mange ici depuis 1993. Le menu n'a changé qu'une fois : à l'arrivée de l'euro."
+end
+script cantine_npc_lux
+  say "Banquier" "Ici, même le café est domicilié fiscalement ailleurs."
+end
+script cantine_npc_ffm
+  say "Économiste" "Le prix du sandwich a pris 12 % depuis 2021. Mon modèle prévoyait 2 %. Mon modèle a faim."
+end
+script cantine_npc_stras
+  say "Assistant parlementaire" "Quatre jours par mois ici, le reste à Bruxelles. Mes plantes vertes ne me reconnaissent plus."
+end
+script cantine_npc_athenes
+  say "Serveuse" "Un café frappé ? C'est la seule chose que la Troïka n'a jamais réussi à réformer."
+end
+script cantine_npc_londres
+  say "Gentleman" "Avant, on se plaignait de Bruxelles. Maintenant, on se plaint de ne plus pouvoir se plaindre de Bruxelles."
+end
+script cantine_npc_budapest
+  say "Étudiant" "Ici on mange du goulash. Et on débat, discrètement."
+end
+script cantine_npc_paris
+  say "Philosophe" "Je pense, donc je déjeune. Et je déjeune longtemps : c'est Paris."
+end
+script shop_npc_bxl
+  say "Cliente" "Je cherche un chargeur… Ah non, c'est vrai, c'est USB-C partout maintenant. Quel bonheur."
+end
+script shop_npc_lux
+  say "Cliente" "Les prix sont hors taxes. Évidemment."
+end
+script shop_npc_ffm
+  say "Client" "Je paie tout en espèces. Les Allemands adorent les espèces."
+end
+script shop_npc_stras
+  say "Cliente" "Je viens acheter des Tampons. Ma cheffe veut tamponner l'Euromon du changement d'heure."
+end
+script shop_npc_athenes
+  say "Client" "Tout est à moitié prix ! Ah non, c'est la TVA qui a doublé."
+end
+script shop_npc_londres
+  say "Client" "Le prix est en livres, en euros, ou en promesses électorales ?"
+end
+script shop_npc_budapest
+  say "Cliente" "Le vendeur m'a demandé mon avis sur le gouvernement. J'ai dit : « veto »."
+end
+script shop_npc_paris
+  say "Client" "Une baguette, un Tampon, et une manifestation, s'il vous plaît."
+end
+script gare_npc_bxl
+  if flag POSTGAME goto oliver
+  say "Voyageuse" "Mon train pour Strasbourg a quatre heures de retard. Le Parlement aussi, d'ailleurs."
+  goto fin
+:oliver
+  if flag OLIVER_REJOIN goto fin2
+  show R oliver happy
+  say "Oliver" "{P} ! Surprise ! J'ai pris l'Eurostar. Avec un passeport, un formulaire et deux heures de queue. Je viens demander… à revenir. Rejoin ?"
+  say "Oliver" "Mais d'abord, un débat. Comme au bon vieux temps !"
+  close
+  hide all
+  if var STARTER == 1 goto c
+  if var STARTER == 2 goto a
+  battle oliver5_v nolose
+  goto suite
+:c
+  battle oliver5_c nolose
+  goto suite
+:a
+  battle oliver5_a nolose
+:suite
+  setflag OLIVER_REJOIN
+  show R oliver happy
+  say "Oliver" "Quel stage ! Bon, il paraît que pour réadhérer il faut négocier 35 chapitres. Je commence demain. Cheers, {P} !"
+  goto fin
+:fin2
+  show R oliver happy
+  say "Oliver" "Chapitre 1 sur 35 : « libre circulation des marchandises ». Ça avance !"
+:fin
+end
+script gare_npc_lux
+  say "Voyageur" "Au Luxembourg, les transports en commun sont gratuits depuis 2020. Même pour les stagiaires !"
+end
+script gare_npc_ffm
+  say "Voyageur" "Je fais la navette Francfort–Bruxelles. Je connais chaque vache de la ligne par son prénom."
+end
+script gare_npc_stras
+  say "Voyageuse" "Ces malles en fer sont toutes à des eurodéputés. Elles voyagent plus que moi."
+end
+script gare_npc_athenes
+  say "Voyageur" "Le train pour le Pirée ? Fermé. Il paraît que quelqu'un a racheté le port."
+end
+script gare_npc_londres
+  say "Voyageuse" "L'Eurostar demande maintenant un passeport. On a repris le contrôle. Des files d'attente."
+end
+script gare_npc_budapest
+  say "Voyageur" "Le Danube traverse dix pays. Moi, j'essaie juste d'en traverser un sans contrôle."
+end
+script gare_npc_paris
+  say "Voyageuse" "Grève à la SNCF. Ah non, c'est juste mardi."
+end
+script gare_npc_anvers
+  say "Docker" "Anvers, deuxième port d'Europe. On voit passer de tout. Même des droits de douane."
+end
+script gare_npc_varsovie
+  say "Voyageuse" "Il fait si froid sans gaz que les pingouins demandent l'asile."
+end
+script gare_npc_rome
+  say "Voyageur" "Tous les chemins mènent à Rome. Les trains aussi, avec du retard."
+end
+script gare_npc_maastricht
+  say "Voyageuse" "C'est ici qu'on a signé le traité en 1992. Il y avait du soleil. C'était bien la seule fois."
+end
+script gare_npc_lisbonne
+  say "Voyageur" "Lisbonne, 2007 : on a signé un traité qui ressemblait beaucoup à une Constitution. Chut."
+end
+
+script fete_europe
+  setflag FETE_EUROPE
+  music ending
+  say - "Aujourd'hui, c'est le 9 mai : la Fête de l'Europe ! Des drapeaux flottent partout dans le quartier européen."
+  say - "Un Euromon rare, attiré par les festivités, surgit d'une pile de dossiers !"
+  wild schumark 25
+  say - "Bonne Fête de l'Europe ! Rendez-vous l'année prochaine."
+end

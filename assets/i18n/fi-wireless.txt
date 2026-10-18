@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Verkossa
+2165	Ilman internetiä
+2166	Luo paikallinen peli
+2167	Liity paikalliseen peliin
+2156	Lähellä olevat pelit
+2158	Ei reititintä eikä palvelinta.
+2159	Vaihda Wi-Fi-tilaa käynnistämällä peli uudelleen.
+2163	DS-tila: avoin/WEP-verkko. WPA2 vaatii pelin käynnistyksen DSi-tilassa.
+2162	DSi Wi-Fi: tarkista WPA2-verkko ja konsolin asetukset.
+2160	Yhdistetään DSi Wi-Fiin… B: peruuta
+2161	Yhdistetään DS Wi-Fiin… B: peruuta
+2154	Konsoli ei vastaa.

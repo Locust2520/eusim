@@ -1,0 +1,282 @@
+# Gaeilge — completion (ids 1519-1818, 1919-1927)
+1519 Hé, a dhuine nua! Anseo, réitímid gach rud le plé. Taispeáin dom cad is fiú thú!
+1520 Argh… Ba chóir dom mo nótaí achoimre a athléamh.
+1521 Ha! Fill ar an gcóipire!
+1522 Iomaitheoir
+1523 Mar sin, {P}, an dtriailfimid ár gcuid Euromonnaí? Mine is obviously better.
+1524 What?! Ní raibh ann ach seans!
+1525 Easy. Faoi mar a bhíothas ag súil leis.
+1526 {P}! Suaitheantas agat cheana? Is cuma, cuirfidh mé aiféala ort.
+1527 Not again… Bhuel, feicfidh tú i bhFrankfurt.
+1528 Ha! Tá Lucsamburg ag teacht liom.
+1529 Táim díreach tar éis cuairt a thabhairt ar an BCE. Thuig mé gach rud faoin bheartas airgeadaíochta. Beagnach gach rud.
+1530 Bloody hell… Tá tú ag dul ar aghaidh go han-tapa, {P}.
+1531 Mar a deirtear sa City: time is money.
+1532 {P}… seo é ár bplé deireanach. Ina dhiaidh sin, rachaidh mé ar ais go Londain. Go deimhin. Seo leat, one last time!
+1533 Good game, {P}. Ar a laghad, fágaim le panache.
+1534 Fágaim le bua. Sin rud ar a laghad.
+1535 {P}! I'm back. Bhuel… táim ag iarraidh teacht ar ais. Rejoin? Ach ar dtús, plé ar son na honóra!
+1536 Bhuel. Táim ag líonadh an fhoirm bhallraíochta. Tá 35 caibidil ann…
+1537 Ha! Mar sin, neartaíonn imeacht thú. Nó ní neartaíonn.
+1538 Mise freisin, is oiliúnaí mé! Gan íocaíocht, mar atá tusa. Pléimis, cuidíonn sé.
+1539 Bhuel… filleann mé ar na cóipeanna.
+1540 Stad! An bhfuil d'fhoirm shiúlóide A-38 vísithe?
+1541 Bhuel, vísiú mé é duit. Ach i dtrí chóip.
+1542 Feirmeoir
+1543 Is é an CBT mo shaol! Agus is é mo thraictear mo chlann. Seo leat, pléimis!
+1544 Caithfidh mé é a lua leis an gceardchumann…
+1545 Baincéir Príobháideach
+1546 Fáilte chuig Lucsamburg. Discréid iomlán. Níor tharla an plé seo riamh.
+1547 Níor tharla an plé seo riamh, go cinntitheach.
+1548 Saineolaí Cánach
+1549 Rialú cánach? Scríobhfaidh mé ceann duit i gcúig nóiméad. Ach ar dtús, plé.
+1550 Mo chuid scéimeanna… tite as a chéile!
+1551 Seaimpín Airéine
+1552 Ah, oiliúnaí óg! Tar, tar, go dtapálfaidh mé do leiceann. Ansin pléimid, díreach mar sna seanlaethanta de chuid an Ghrúpa Euro.
+1553 Maith thú! Tuilleann tú Suaitheantas an Rialaithe Chánach. Agus níl sé sin faoi rún!
+1554 Seo leat, ná bí ag déanamh an aghaidh sin, tá mé ag magadh… leath is leath.
+1555 Táim ag déanamh na Mósaile ar rothar! Agus pléim i roaming, saor in aisce!
+1556 Fiú gan táillí fánaíochta, chaill mé gach rud.
+1557 Anailísí
+1558 Tá na margaí ag súil le mo bhua ag 87%.
+1559 Bhí dul amú ar na margaí. Mar is gnách.
+1560 Fíonghortóir
+1561 Tá mo chrémant faoi ATC. Mo chuid Euromonnaí freisin. Nó beagnach.
+1562 Bhuel, tairgeoidh mé deoch duit mar sin féin.
+1563 Ceannaigh go híseal, díol go hard, pléigh go láidir!
+1564 Krach! Táim thar fóir!
+1565 De réir mo mhúnla, cailleann tú. Ní bhíonn mo mhúnla mícheart riamh. Ach amháin in 2008.
+1566 Beidh orm mo réamhaisnéisí a athbhreithniú.
+1567 Banseaimpín Airéine
+1568 Fáilte chuig an Banc Ceannais Eorpach. Anseo, socraím na rátaí… agus luas an phlé. Braitheann m'ionsaithe ar an ráta bunriail an lae!
+1569 Formidable. Tuilleann tú Suaitheantas an Euro. Agus bí socair: níl mé anseo chun do spread a laghdú.
+1570 Is ionann cobhsaíocht praghsanna agus cobhsaíocht na mbua.
+1571 Gníomhaí Aeráide
+1572 Gach plé a chailltear, is céim amháin eile é! Seo leat!
+1573 Bhuel, ar a laghad bhí sé neodrach ó thaobh carbóin.
+1574 Eisiach! « Cailleann oiliúnaí go náireach »!
+1575 Athróidh mé an ceannlíne: « Buann oiliúnaí go náireach maith ».
+1576 Fíonadóir
+1577 An Réine ina teorainn? Ní hea, is fíon í ar an dá thaobh! Ólaimid tósta tar éis an phlé.
+1578 Sláinte mar sin féin!
+1579 Chuir mé 2 000 leasú isteach ar maidin. Baineann an chéad cheann leatsa.
+1580 Diúltaíodh do mo chuid leasuithe ar an iomlán…
+1581 Tá an seisiún ar siúl i Strasbourg, tá ár dtruncaí tagtha, pléimis!
+1582 Táim ag filleadh ar an mBruiséil. Le mo chuid truncaí.
+1583 Ciúnas sa leath-chiorcal! Tá an seisiún ar oscailt. Tugaim an chaint do… tusa. Ansin tógaim ar ais í.
+1584 Glacadh leis! Tá Suaitheantas an Halla bronnta ort le tromlach iomlán.
+1585 Tá an seisiún críochnaithe. Tar ar ais ag an chéad seisiún eile.
+1586 Tá an fiach cosúil leis an moussaka: is deacair é a dhíleá.
+1587 OXI don chaillteanas seo!
+1588 Iniúchadh na gcuntas! Caitheann do chuid Euromonnaí an iomarca.
+1589 Tuarascáil iniúchta: diúltach.
+1590 Molann an Ciste Airgeadaíochta Idirnáisiúnta… do chaillteanas.
+1591 Athbhreithniú ar ár réamhaisnéisí: síos.
+1592 Tháinig mé ar ghluaisrothar, gan charbhat. Díreach mar in 2015 os comhair an Ghrúpa Euro. Pléimid, agus vótálaimid: OXI nó NAI?
+1593 OXI… gabh mo leithscéal, NAI: bhuaigh tú. Glac leis an Suaitheantas OXI, a chara.
+1594 Labhair an pobal. Agus mise an pobal.
+1595 Tablóideach
+1596 AR TOSACH: « Tá an Bhruiséil ag iarraidh bananaí cuartha a chosc »! Bréagach? Is cuma, díolann sé.
+1597 Amárach ar tosach: « Cailliúint stairiúil ».
+1598 Iar-Phríomh-Aire
+1599 Hello! Bhí mé i mo chomhfhreagraí sa Bhruiséil, tá a fhios agat. Scríobh mé rudaí… beagnach fíor. Get debate done!
+1600 Crikey. Bhuel, bhí alt eile agam faoi chúcamair dhíreach, ar aon chaoi.
+1601 Níl sibh ag gáire anois, an bhfuil? Fáilte chuig an teach tábhairne. Plé, pionta, agus Airteagal 50.
+1602 Bhuel. Glac leis an Suaitheantas Airteagal 50. Níl sé de dhíth orainne a thuilleadh.
+1603 Take back control! Den phlé, ar a laghad.
+1604 Garda Teorann
+1605 Seiceáil! An bhfuil víosa ag d'Euromon?
+1606 Gabh ar aghaidh. Ach táim á nótáil.
+1607 Comhairleoir
+1608 Ní ghlacann an Príomh-Aire le duine ar bith. Ach amháin iad siúd a bhuaileann mise. Agus ní tharlaíonn sé sin riamh.
+1609 Tharla sé díreach.
+1610 Ba mhaith leat m'aontú? Tá aontoilíocht de dhíth. Agus ní aontaím riamh. Aire: is féidir liom mo VETO a chur i bhfeidhm gach seal.
+1611 Bhuel… Táim ag dul amach ar chaife. Idir an dá linn, glac leis an Suaitheantas Veto seo. Go hoifigiúil, staon mé.
+1612 Veto! Veto! Agus veto arís!
+1613 Team Lobby
+1614 Níl do shuaitheantas rochtana agat? Tá sé go breá, níl ag muidne ach an oiread.
+1615 Beidh orm an cruinniú seo a dhearbhú sa chlár trédhearcachta…
+1616 Thuar ár n-algartam do chaillteanas. An nglacann tú leis na fianáin?
+1617 Earráid 403: cailliúint.
+1618 Cás beag ar mhaithe le do vóta? Níl? Mar sin, plé.
+1619 Níor thug mé rud ar bith do dhuine ar bith riamh. Nótáil é sin.
+1620 Ceann na Team Lobby
+1621 Fáilte chuig lár na cumhachta, a oiliúnaí. Anseo, ní scríobhaimid dlíthe: « molaimid » iad. Agus tusa, síneoidh tú mo mholadh.
+1622 Dodhéanta… D'éirigh le oiliúnaí simplí, gan íocaíocht… an lobaíocht a bhualadh. Táim ag éirí as. Chun na hearnála príobháidí. Ah, táim ann cheana.
+1623 Go raibh maith agat as an rannchuidiú seo le ár gcomhairliúchán poiblí.
+1624 Abhcóide
+1625 Cuireann mo chliant in aghaidh na fíneála 4,34 billiún. Agus an phlé seo.
+1626 Déanfaimid achomharc.
+1627 Dlítheoir
+1628 Mí-úsáid seasaimh cheannasaigh? Mise? Nílim ach ceannasach.
+1629 Glactar leis an fhíneáil…
+1630 Google, Apple… ghearr mé billiúin euro i bhfíneálacha. An gcloíonn d'fhoireann le rialacha na hiomaíochta? Seiceálaimis.
+1631 Níor aimsíodh mí-úsáid seasaimh cheannasaigh. Is leatsa an Suaitheantas Fíneála.
+1632 Fíneáil! 4% de do láimhdeachas.
+1633 Bú… Táim ag obair anseo… ó 2009… bhuel, ar pháipéar…
+1634 Filleann mé… ar mo chonradh… bréagach…
+1635 Spiorad na bPost Bréagach
+1636 IS MISE… SUIM GACH CONARTHA NACH RAIBH OIFIG RIAMH AIGE…
+1637 Mo… dhuillíní pá… tá siad ag dul in éag…
+1638 Ard-Oifigeach
+1639 Rinne mé an ENA. Bhuel, an INSP. Ar aon chaoi, tá a fhios agam gach rud.
+1640 Scríobhfaidh mé nóta faoin teip seo.
+1641 Aire
+1642 Táim i mo aire ó… ar maidin. Pléimis roimh an athbhreithniú rialtais eile.
+1643 Athraithe!
+1644 Fáilte chuig an Sorbonne! Anseo, labhair mé faoi Eoraip cheannasach in 2017… agus in 2024. Labhróidh mé leat ar feadh dhá uair an chloig. Agus ag an am céanna, pléifimid.
+1645 Formidable! Léiríonn tú an neamhspleáchas straitéiseach. Glac leis an Suaitheantas Sorbonne… agus ag an am céanna, mo chomhghairdeas.
+1646 Díscaoilim… d'fhoireann!
+1647 An Chomhairle Eorpach
+1648 Wir schaffen das. Le chéile, éireoimid leis. Ach ar dtús, caithfidh tú mise a bhualadh. Tóg do chuid ama: tá sé bliana déag de thaithí agam.
+1649 D'éirigh leat. Wir haben es geschafft.
+1650 Déanfaidh mé gach rud is gá chun an plé seo a bhuachan. Whatever it takes. Agus creid uaim: beidh sé go leor.
+1651 Mhol mo thuarascáil 800 billiún euro d'infheistíocht in aghaidh na bliana. Infheistigh iad i d'fhoireann.
+1652 Ardionadaí do ghnóthaí eachtracha. Tá mo dhioplómaíocht daingean. Tá mo sciath Bhailt daingean freisin.
+1653 Bua glan. Beidh daoine mar thusa de dhíth ar an Eoraip os comhair an chuid eile den domhan.
+1654 Uachtarán na Comhairle Eorpaí
+1655 Tá sé 23:59. Is é mo sprioc: an cruinniú mullaigh seo a chríochnú roimh mheán oíche. An chéaduair i stair!
+1656 Tá sé… 4:37 ar maidin. Mar is gnách. Maith thú, is féidir leat dul suas chuig an Berlaymont.
+1657 Uachtarán an Choimisiúin
+1658 Fáilte chuig an tríú urlár déag den Berlaymont. Tá cónaí orm anseo, tá a fhios agat: tá seomra leapa agam in aice le m'oifig. Mar sin, feicimis an dtuilleann tú an treoir.
+1659 Team Europe… Is tusa an oiliúnaí is fearr a bhí ag an gCoimisiún riamh. Is leatsa an treoir faoin am!
+1660 Seolfaidh mé SMS chugat. Nó b'fhéidir nach seolfaidh.
+1661 Leas-Uachtarán
+1662 Tháinig mé chuig München chun an daonlathas a mhíniú duit. Anois, tagaim chuig Antuairp chun an plé a mhíniú duit.
+1663 Bhuel. Filleann mé ar óráid a scríobh.
+1664 Uachtarán Mheiriceá
+1665 TREMENDOUS! An plé is fearr riamh, deir gach duine é. Cuirfidh mé 200% de dhleachtanna custaim ar do chuid Euromonnaí. B'fhéidir 15. Feicfimid.
+1666 BHÍ SÉ CAM! Bhuel… déanaimis margadh. 15%. Sin m'fhocal deireanach. Ar an lá inniu.
+1667 Bhuaigh mé! Mar is gnách! Ní bhuann duine ar bith níos fearr ná mise.
+1668 Uachtarán na Rúise
+1669 Suigh síos. Ní hea, níos faide ar shiúl. Níos faide fós. Sin é. Ag sé mhéadar, tá an comhrá níos… straitéisí. Tógfaidh seal amháin ar d'ionsaithe teacht.
+1670 Tá an gás… gearrtha… ar mo thaobhsa. Suimiúil.
+1671 Tá an geimhreadh ag teacht. Duitse.
+1672 Uachtarán na Síne
+1673 Fáilte. Táimid inár gcomhpháirtithe. Agus inár n-iomaitheoirí. Agus inár gcéilí comhraic córasach. Braitheann gach rud ar an seal.
+1674 Hmm. Comhpháirtí le meas air. Tógaim siar na srianta ar na cré-mhiotail tearca… don am i láthair.
+1675 Níl an t-ábhar seo ar fáil i do réigiún.
+1676 Cruinniú Mullaigh G-Uile
+1677 MISE AR DTÚS. Is liomsa smaoineamh an chruinnithe mhullaigh. Bhuel, is dóigh liom.
+1678 Sad!
+1679 B'fhearr liom an tábla fada.
+1680 Beidh an focal deireanach… córasach.
+1681 Labhróimid le chéile arís i gceann caoga bliain.
+1682 Calafort Antuairp – Galfchúrsa na Saoirse
+1683 An Aithin – Plaka
+1684 Berlaymont – 13ú urlár
+1685 Siopa – an Aithin
+1686 Siopa – Búdapeist
+1687 Siopa – an Bhruiséil
+1688 Siopa – Frankfurt
+1689 Siopa – Londain
+1690 Siopa – Lucsamburg
+1691 Siopa – Páras
+1692 Siopa – Strasbourg
+1693 An Bhruiséil – an Ceantar Eorpach
+1694 Búdapeist – Bruacha na Danóibe
+1695 Ceaintín – an Aithin
+1696 Ceaintín – Búdapeist
+1697 Ceaintín – an Bhruiséil
+1698 Ceaintín – Frankfurt
+1699 Ceaintín – Londain
+1700 Ceaintín – Lucsamburg
+1701 Ceaintín – Páras
+1702 Ceaintín – Strasbourg
+1703 Cúirt Bhreithiúnais an AE
+1704 Foirgneamh Europa – an Chomhairle Eorpach
+1705 Frankfurt – Ceantar na Mbanc
+1706 Stáisiún – Antuairp
+1707 Stáisiún – an Aithin
+1708 Stáisiún – Búdapeist
+1709 Stáisiún – an Bhruiséil-Lucsamburg
+1710 Stáisiún – Frankfurt
+1711 Stáisiún – Liospóin
+1712 Stáisiún – Londain
+1713 Stáisiún – Lucsamburg
+1714 Stáisiún – Maastricht
+1715 Stáisiún – Páras
+1716 Stáisiún – an Róimh
+1717 Stáisiún – Strasbourg
+1718 Stáisiún – Vársá
+1719 Airéine na hAithine – Aimfiteátar
+1720 Túr an BCE – Seomra na Margaí
+1721 Országház – Seomra an Veto
+1722 AS Iomaíochas – Airéine
+1723 An Leath-Chiorcal – Seisiún Iomlánach
+1724 The Brexit Arms – Teach Tábhairne-Airéine
+1725 Airéine Lucsamburg – Seomra na Rialuithe Cánach
+1726 Mór-Aimfiteátar an Sorbonne
+1727 Liospóin – Mainistir na Hieronymiteach
+1728 Ceanncheathrú Team Lobby – an Íoslach
+1729 Londain – Westminster
+1730 Lucsamburg – Ardchlár Kirchberg
+1731 Maastricht – Bruacha na Mósa
+1732 Teach – Frankfurt
+1733 Teach – Lucsamburg
+1734 Teach – Strasbourg
+1735 Páras – an Ceantar Laidineach
+1736 Parlaimint na hEorpa – Halla
+1737 Calafort an Phiréas – Teirminéal Coimeádán
+1738 Cearnóg Lux – An Cocktail
+1739 An Róimh – an Capitol
+1740 Bóthar 1 – Foraois na hAirdinnean
+1741 Bóthar 2 – Gleann na Mósaile
+1742 Bóthar 3 – Fíonghoirt na Réine
+1743 Pálás – An Tábla Fada
+1744 Schengen – Bruacha na Mósaile
+1745 Cruinniú Mullaigh « G-Uile » – Seomra Iomlánach
+1746 Strasbourg – an Ceantar Eorpach
+1747 Do stiúideo (Ixelles)
+1748 Parlaimint – an Sciathán Taibhsiúil, 1ú urlár
+1749 Parlaimint – an Sciathán Taibhsiúil, 2ú urlár
+1750 Parlaimint – an Sciathán Taibhsiúil, 3ú urlár
+1751 Vársá – Machaire an Oirthir
+1752 Teach – Maastricht
+1754 Scáileán Teidil
+1755 An Ollamh Schuman
+1756 An Saotharlann
+1758 Do stiúideo
+1761 An Cheaintín
+1763 An Siopa
+1764 An Stáisiún
+1766 Ar an Bhóthar
+1767 Comhrac: Euromon fiáin
+1768 Féachaint Trasnach
+1769 Comhrac: traenálaí
+1771 Comhrac: Oliver
+1773 Bua
+1774 Bua (fiáin)
+1775 Bua (traenálaí)
+1776 Forás
+1778 An Airéine
+1780 Comhrac: airéine
+1782 Comhrac: ceann airéine
+1784 Schengen
+1789 Slán, Oliver
+1791 An Team Lobby
+1792 Comhrac: boss
+1794 An Sciathán Taibhsiúil
+1797 An Chomhairle Eorpach
+1799 Comhrac: Comhairle
+1802 Comhrac: an Uachtarán
+1804 Comhrac: Mórchumhachtaí
+1807 Comhrac deiridh
+1809 Áiteanna Finscéalacha
+1810 Comhrac: finscéalach
+1812 Comhrac deiridh (leagan eile)
+1813 Juke-box
+1814 %d amhrán as %d
+1815 Roghnaigh amhrán.
+1816 JUKE-BOX
+1817 A: éist    B: ar ais
+1818 Seanjuke-box, dícheangailte. Lipéad: « Le ceangal ar ais tar éis do chéad suaitheantais. — An tSeirbhís Theicniúil »
+1919 Seo carn na mbreithiúnas don lá. Caithfear iad go léir a stampáil roimh dhúnadh na cléireachais. An dtabharfaidh tú lámh chúnta dom?
+1920 Cúig bhreithiúnas déag, cúig stampa déag! Tá an Chúirt buíoch díot. Glac leis na stampaí cáilithe seo, tá siad níos éifeachtaí go mór.
+1921 Gan locht, mar is gnách. Is maith le Lucsamburg daoine córasacha.
+1922 D'imigh cúpla breithiúnas gan stampa… Tiocfaidh siad ar ais ar achomharc. Bain triail eile aisti nuair is maith leat.
+1923 Is cuma. Stampálfaidh mé féin iad. I dtrí chóip.
+1924 Geallaim nach mbeidh tú in ann iad go léir a dhiúltú. Ní éiríonn le duine ar bith é. An dtriailfimid?
+1925 Dodhéanta… Dhiúltaigh tú do gach rud?! Bhuel. Seo tuairim dlíthiúil. Saor in aisce. Ná habair le duine ar bith é.
+1926 Tusa arís! Níl seans ar bith ag ár gcuid bratacha.
+1927 Go raibh maith agat as glacadh lenár 437 comhpháirtí! Tá do shonraí i lámha maithe. Na lámha againne.

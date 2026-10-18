@@ -1,0 +1,465 @@
+# English — ids 0-499
+0 LOB
+1 SCN
+2 FRZ
+3 SLP
+4 BLK
+5 Lv.%d
+6 DEBATE
+7 BAG
+8 RUN
+9 TEAM
+10 PP %d/%d
+11 No effect
+12 Super effective
+13 Not very effective
+14 Back
+15 No PP left for this move!
+16 Your turn, %s!
+17 %s sends out %s!
+18 But %s already has a problem…
+19 %s is already on the lobbies' side!
+20 You can't freeze a central banker's funds!
+21 %s is under a lobby's influence!
+22 %s is caught in a scandal!
+23 %s's funds are frozen!
+24 %s falls asleep in the middle of a night summit!
+25 %s is stuck in committee!
+26 Argument
+27 Resilience
+28 Expertise
+29 Diplomacy
+30 Reactivity
+31 Accuracy
+32 Evasion
+33 %s: %s won't go any higher!
+34 %s: %s won't go any lower!
+35 %s: %s rose sharply!
+36 %s: %s rose!
+37 %s: %s fell harshly!
+38 %s: %s fell!
+39 %s uses %s!
+40 (trump)%s uses %s!
+41 %s is preparing a 400-page report…
+42 But nobody falls for the sofa trick twice!
+43 %s plagiarises the opponent!
+44 But there's nothing to plagiarise…
+45 %s invokes Article 50 and leaves the debate!
+46 %s invokes Article 50 and walks away!
+47 %s invokes Article 50… but the negotiations will drag on for years!
+48 %s protects itself with a veto!
+49 "VETO!" The opponent blocks the decision: unanimity required.
+50 But %s's attack misses!
+51 %s is already misinformed!
+52 %s is misinformed!
+53 But %s's HP is already full!
+54 %s regains HP!
+55 %s takes a restorative nap!
+56 But the veto doesn't work this time!
+57 %s brandishes its right of veto!
+58 Safeguard clause! All changes are cancelled.
+59 %s's messages have been deleted… Not a trace left!
+60 Structural funds rain down on the field!
+61 %s ends up sitting on the sofa!
+62 But nothing happens…
+63 It doesn't affect %s…
+64 Critical hit!
+65 Hit %d times!
+66 It's super effective!
+67 It's not very effective…
+68 %s is caught in an endless procedure!
+69 %s siphons off funds!
+70 %s is hit by recoil!
+71 Coins scatter everywhere!
+72 %s is too destabilised to act!
+73 %s is sound asleep… (it's 4 a.m.)
+74 %s wakes up! The summit is over.
+75 %s finally gets out of committee!
+76 %s's funds are frozen! It can't act.
+77 %s checked its sources!
+78 %s is misinformed…
+79 It shares fake news and discredits itself!
+80 Orbán stepped out for a coffee! His Euromon waits, helpless.
+81 %s suffers the lobbies' influence!
+82 The scandal splashes %s!
+83 %s is bogged down in procedure!
+84 %s fainted!
+85 %s learned %s!
+86 %s wants to learn %s, but already knows four moves.
+87 Don't learn it
+88 Which move should be forgotten?
+89 1, 2, 3… Poof! %s forgot %s…
+90 … and learned %s!
+91 %s did not learn %s.
+92 %s gained %d experience points!
+93 %s grew to level %d!
+94 {P} throws a %s!
+95 Gotcha! %s is published in the Official Journal!
+96 %s's data has been added to the Eurodex.
+97 %s was sent to the Archives.
+98 Oh no! %s broke free!
+99 Argh! It was so close!
+100 Darn! Just one more stamp!
+101 Argh! A procedural flaw!
+102 %s was rejected by referendum! It can't be captured.
+103 You can't capture another trainer's Euromon! It would be a scandal.
+104 {P} used %s!
+105 On which Euromon?
+106 %s regains HP.
+107 %s feels better.
+108 %s is back in service!
+109 It won't have any effect.
+110 This isn't the time for that!
+111 Who goes into the debate?
+112 Who goes next?
+113 %s can't debate any more!
+114 %s is already on the field!
+115 Come back, %s!
+116 partner
+117 competitor
+118 systemic rival
+119 The opposing Euromon now presents itself as… a %s! (%s type)
+120 %s %s wants to debate!
+121 Oh! A shiny %s!
+122 A wild %s appeared!
+123 What will {P} do?
+124 You can't walk out of an official debate! It would be an admission of weakness.
+125 You flee through the emergency exit!
+126 You can't run: the session hasn't been adjourned!
+127 %s makes its argument… The table is so long it will take a whole turn to arrive!
+128 Last turn's argument finally reaches the other end of the table!
+129 %s is about to send out %s.
+130 Continue
+131 Switch Euromon
+132 Switch Euromon?
+133 {P} won %d € for this debate!
+134 {P} picks up %d € in structural funds.
+135 — CUTSCENE —
+136 A: next    START: skip
+137 Yes
+138 No
+139 Tap or press A
+140 Thanks for playing!
+141 THE END… or almost.
+143 Unreadable save file!
+144 Professor Schuman
+145 Hello, hello! Welcome to the wonderful… and slightly bureaucratic… world of the European Union!
+146 My name is Robert Schuman. Perhaps you've heard of me: a story about coal, steel and the 9th of May… I'll tell you about it.
+147 Since then, this world has been inhabited by strange creatures: EUROMONS!\fDirectives, regulations, amendments, cookie banners… They live in piles of files and in the corridor carpets.
+148 Some people collect them, others make them debate. Me, I study them. That's what we call… comitology!
+149 But let's talk about you. This morning, two interns are expected at the European Parliament…
+150 On the left, Alex, the new intern — a girl. On the right, Max, the new intern — a boy. Who are you?
+151 Alex, a girl
+152 Max, a boy
+153 Perfect! And what shall I officially call you? It has to be written in all 24 languages, so choose carefully.
+154 Your first name (10 letters max.):
+155 {P}! Marvellous. I'll have it translated into Maltese right away.
+156 This is Oliver, your fellow intern, straight from London. He's… very confident.
+157 Hello! Don't worry, {P}, I'll be the best intern in the whole Union. Easy.
+158 Your mission, for both of you, is simple: get ONE directive adopted.\fThe directive ending the clock change. Parliament voted for it in March 2019…
+159 … and since then, it's been sleeping in the Council. Like many things.
+160 To succeed, you'll need the 8 badges of Europe's great cities, to convince the European Council, and the President of the Commission herself!\fCome on, {P}. Your internship starts now. It's unpaid, but very educational!
+161 Shift
+162 Delete
+163 Did you know? Parliament moves to Strasbourg twelve times a year, trunks included.
+164 The EU has 24 official languages. Your intern speaks one and a half.
+165 Tip: caps attached to the bottle no longer get lost (Directive 2019/904).
+166 Loading… like the end of the clock change: voted in 2019, still pending.
+167 The European flag has 12 stars. It's not the number of countries: it's a symbol of perfection.
+168 The Schuman Declaration dates from 9 May 1950. 9 May is Europe Day!
+169 Euro coins arrived in people's pockets on 1 January 2002.
+170 Since June 2017, no more roaming charges in Europe. Call your mum from Lisbon!
+171 The universal USB-C charger has been mandatory since late 2024. Farewell, drawer of cables.
+172 Erasmus was born in 1987. Since then, millions of students have learned to cook pasta.
+173 The Schengen Agreement was signed in 1985 on a boat on the Moselle, in Luxembourg.
+174 The European Parliament has had 720 MEPs since 2024.
+175 Tip: the canteen heals your whole team. Coffee, on the other hand, heals nothing.
+176 Tip: hold B to run. The Berlaymont's corridors are long.
+177 The regulation on banana curvature (1994) exists… but it's mostly about quality.
+178 The GDPR (2018) gave you cookie banners. Lots of cookie banners.
+179 The Nobel Peace Prize was awarded to the European Union in 2012.
+180 The Treaty of Rome (1957) created the European Economic Community.
+181 The Maastricht Treaty (1992) created the European Union and planned the euro.
+182 The Treaty of Lisbon (2007) contains Article 50. Only one country has used it.
+183 The United Kingdom left the EU on 31 January 2020. Oliver still hasn't got over it.
+184 Tip: Official Stamps capture weakened Euromons better.
+185 Tip: a Euromon put to sleep by a Night Summit is easier to capture.
+186 The Berlaymont was cleared of asbestos from 1991 to 2004. The site meeting was a long one.
+187 The EU Court of Justice sits in Luxembourg, on the Kirchberg plateau.
+188 The ECB is in Frankfurt. Its tower cost more than planned. Inflation, no doubt.
+189 Simone Veil was the first President of the elected European Parliament, in 1979.
+190 The Commission has 27 commissioners: one per country. Even for Austria's fisheries policy.
+191 Tip: press X to open the menu.
+192 The Danube flows through ten countries. Your shoes, only two.
+193 On Europe Day, a rare Euromon appears. Try 9 May!
+194 EU translations amount to millions of pages a year.
+195 The European anthem is Beethoven's Ode to Joy, with no official lyrics.
+196 Tip: Legal-type moves are super effective against Lobby.
+197 Tip: Veto blocks an attack, but not your determination.
+198 Brexit lasted so long that the word "Brextension" was invented.
+199 Parliament has a liaison office in every member state.
+200 Tip: talk to everyone. Even the pigeon on Place Lux.
+201 Denmark has an opt-out from the euro. It keeps its krone, and its Vikings.
+202 Loading 27 national opinions… 26 out of 27… Waiting for Hungary.
+203 Did you know?
+204 Loading…
+205 Team
+206 Bag
+207 Map
+208 Report
+210 %lu h %02lu
+211 HP
+212 KO
+213 Lv.%d   No.%03d
+215 Next
+216 B: back
+217 Swap with… ?
+218 A: choose   B: back
+219 Summary
+220 Move
+221 Healing
+222 Stamps
+223 Battle
+224 Keys
+225 Wild Euromons will leave you alone for a while.
+226 %s's PP has been restored.
+227 It has no effect.
+228 This isn't the time to use that.
+230 (empty)
+231 Use
+232 No.%03d  %s
+233 Capture this Euromon to read its entry.
+234 EURODEX   Seen: %d   Caught: %d
+235 No save medium detected.\fOn a DS (DS Pico, R4…), launch the game from the SD card. On an emulator, enable DLDI / the SD card, or use save states.
+236 Write a progress report (slot %d)?
+237 Save
+238 Another slot…
+239 Cancel
+240 Report sent in 24 languages. Game saved (slot %d)!
+241 Writing to the SD card failed. Try again.
+242 Settings
+243 Fact sources
+244 Back to title
+245 Return to the title screen? Anything not saved will be lost.
+247 Total: %d €
+248 A: confirm   B: cancel
+249 Buy
+250 Sell
+251 Goodbye
+252 Shopkeeper
+253 Welcome to the Parlamentarium Shop! Everything is guaranteed to meet EC standards.
+254 Your budget: %lu €
+255 In your bag: %d
+256 It seems your budget is… under the spending ceiling.
+257 Thank you! And here's a Super Stamp as a gift, for the bulk purchase!
+258 Thank you for your purchase! Invoice in triplicate.
+259 That? It's not for sale, it's an item of strategic importance!
+260 Deal!
+261 Goodbye! Don't forget: the USB-C charger is sold separately.
+262 TEAM → ARCHIVES (%d/%d)
+263 ARCHIVES → TEAM (%d/%d)
+264 ◀▶ side   A: move   B: quit
+265 {P} switches on the Archives terminal. "Welcome to the document management system."
+266 You must keep at least one Euromon in your team!
+267 Your team is full (6 Euromons maximum).
+268 Tax Ruling
+270 Hemicycle
+274 Fine
+276 Jean-Claude Juncker, Luxembourg
+277 Christine Lagarde, Frankfurt
+280 Farage & Johnson, London
+282 Margrethe Vestager, Brussels
+284 TREATY BADGE CASE
+285 obtained
+286 to be won
+287 %s Badge — awarded by %s.
+288 What? %s is evolving!
+289 You postponed the reform. %s did not evolve.
+290 Congratulations! %s evolved into %s!
+291 Time: %d s
+292 Score: %d / %d
+293 Minigame
+294 Plenary vote
+295 The MEPs are arriving in the hemicycle! Tap each seat that lights up yellow before it goes out. 25 votes in 30 seconds!
+296 Presidency
+297 Tap the yellow seats!
+298 Adopted by a large majority! Applause from all sides.
+299 No quorum. The sitting is suspended…
+300 The Stamp
+301 Documents scroll across the desk. Tap each one to stamp it before it leaves the screen. 15 documents!
+302 Tap the documents to stamp them
+303 All documents are stamped! The administration is proud of you.
+304 Some documents left unstamped. They'll have to go through the whole circuit again…
+305 Cookie banners
+306 Cookie banners are invading the screen! Tap "Reject" on each one. If six banners pile up, you lose. Hold out for 25 seconds!
+307 (some random website)
+308 We respect
+309 your privacy
+310 Accept
+311 Reject
+312 Reject everything! (don't tap Accept)
+313 All cookies rejected! The GDPR is proud of you.
+314 Overwhelmed by banners… You've accepted 437 advertising partners.
+315 Night summit
+316 It's 3 a.m. and the 27 heads of state are falling asleep! Blow into the microphone (or tap the sleeping head) to wake them up. 27 wake-ups before dawn!
+318 Blow / tap the sleeping head!
+319 Everyone's awake! Agreement reached at 4:37 a.m. As usual.
+320 The sun rises over a table of sleeping leaders. The summit is postponed.
+321 The Strasbourg trunks
+322 Load the MEPs' trunks onto the train, in order: 1, 2, 3… up to 10. You have 30 seconds!
+323 Platform — TGV Strasbourg ⇄ Brussels
+324 The trunks
+325 Tap the trunks in order!
+326 All the trunks are on the train! The session can begin.
+327 The train left without the trunks. The MEPs will sit in their pyjamas.
+328 Language
+329 Text speed
+330 Text sound
+331 Music volume
+332 Battle animations
+333 Slow
+334 Normal
+335 Fast
+336 ↑↓ / stylus: scroll    B: back
+337 Credits
+338 SD card
+339 cartridge
+340 none
+341 {P} obtained %d × %s!
+342 {P} obtained: %s!
+343 — Empty slot —
+345 Continue: choose a game
+346 New game: slot
+347 Save to…
+348 This slot already contains a game. Overwrite it?
+349 New game
+350 Credits & sources
+351 Main menu
+352 Unofficial parody · v2.0
+353 The internship of your life
+354 PRESS START
+355 {P} received %s!
+356 Your team is full: it goes to the Archives.
+357 {P} has no Euromon fit to debate…\f{P} runs back to the canteen, head down.
+358 Canteen lady
+359 There you go, a good coffee and you're off again! Your Euromons are in great shape.
+360 Tax Ruling Badge
+361 Euro Badge
+362 Hemicycle Badge
+363 OXI Badge
+364 Article 50 Badge
+365 Veto Badge
+366 Fine Badge
+367 Sorbonne Badge
+368 {P} received the %s!
+369 Your Eurodex has %d Euromons caught out of %d seen.
+371 It's a start! Small steps make great unions.
+372 Not bad! You're moving faster than the daylight saving directive.
+373 Impressive! Not even the Commission has that many files.
+374 Extraordinary! You're a real institution all by yourself.
+375 {P} found: %s!
+376 The Non-Solicitation Clause has expired.
+377 Brussels
+379 Frankfurt
+381 Athens
+382 London
+385 Antwerp
+386 Warsaw
+389 Lisbon
+390 Ticket clerk
+391 No destination available for now.
+392 Other destinations…
+393 All aboard! The train is leaving… only a few minutes late.
+394 Diplomat
+395 Josep Borrell, the former High Representative, said in 2022: "Europe is a garden, the rest of the world is a jungle." It caused… a bit of a stir.
+397 Sixteen years as chancellor. Hundreds of summits. In 2015, I said: "Wir schaffen das" — we can do this.
+398 But can you do it? I'm the first member of the Council. Nobody gets past without a compromise.
+399 Wir haben es geschafft. You may pass. Mario is waiting for you… with a 400-page report.
+401 July 2012, London. I said three words: "Whatever it takes". The euro was saved. The markets calmed down.
+402 In 2024, my report on competitiveness called for up to 800 billion of investment a year. Invest in this debate.
+403 You did whatever it took. Kaja Kallas is waiting for you. She's… very direct.
+405 High Representative for Foreign Affairs since December 2024. Former Prime Minister of Estonia.
+406 The world is dangerous. I need to know whether you can stand up to the great powers. Show me.
+407 Solid. You'll need it. President Costa is waiting for you. He hopes to finish before midnight.
+409 President of the European Council since December 2024! It's 11:54 p.m. If we finish before midnight, it'll be a historic first.
+410 But first: all the heads of state have fallen asleep around the table. Help me wake them up! Blow into the microphone… or tap the screen!
+411 It's… 4:37 a.m. Well. As usual. Let's debate anyway.
+412 The European Council approves your application unanimously! Well… unanimously minus one constructive abstention.
+413 The President of the Commission is waiting for you on the 13th floor of the Berlaymont. It's the last step before the directive.
+415 Ah, hello. I'm Charles Michel, former President of the European Council. I'm just… sitting. On the only chair.
+416 In Ankara, in April 2021, I took the armchair. Ursula ended up on the sofa. They called it "Sofagate". I never really got over it.
+418 Welcome to the 13th floor. Yes, I live here: there's a little bedroom next to my office. It's handy for urgent files.
+419 President of the Commission since 2019, re-elected in 2024. The Green Deal, the Covid crisis, the vaccines…
+420 The text messages with Pfizer's boss? In May 2025, the EU General Court annulled our refusal to hand them over to the New York Times. Anyway. Moving on.
+421 You want the daylight saving directive? Beat me. Team Europe — in the end, there can be only one.
+422 Extraordinary. You're the best intern in the history of the Commission. Here it is… the directive ending the clock change.
+423 All that's left is to get it signed. A formality! All we need is for…
+424 The great powers are waiting! Antwerp, Warsaw, Piraeus… Take the train.
+425 You saved Europe. And the directive is… in committee. As always. Thank you for everything, {P}.
+426 BEEP BEEP BEEP! Three urgent messages arrive at the same time on every phone in the Berlaymont.
+428 HELLO EUROPE! I have a small request. Very small. I'm putting tariffs on everything. And I'd like to buy Greenland. It's for sale, right?
+429 Second message, from the East: "The gas tap is turned off. For your own good." Signed: V. P.
+430 Third message, very polite: "We are suspending our rare earth exports. Your phones will work… less." Signed: X. J.
+431 {P}, the directive will have to wait. The Great Powers want to bring Europe to heel. We have to go and see them. All three of them.
+432 The port of Antwerp, Warsaw, and the port of Piraeus, in Athens. The stations are open to you. Team Europe is counting on you!
+434 I'm NATO Secretary General. At The Hague summit, in June 2025, we committed to rise towards 5% of GDP for defence, by 2035.
+435 And I called Donald "daddy". Well. It was a figure of speech. He loved it. Go on, he's on the green.
+437 In February 2025, at the Munich Conference, I explained to Europeans what democracy was. They were… surprised.
+438 THIS IS THE MOST BEAUTIFUL GOLF COURSE IN THE WORLD. I just bought it. Well, I think so. The port too, maybe.
+439 On 2 April 2025, Liberation Day! I held up a big board with tariffs for EVERYBODY. Even for islands where there are only penguins.
+440 In July 2025, at my Turnberry golf course, Ursula and I made a deal: 15%. But I can change my mind. I often change my mind. It's a strategy.
+441 And Greenland! It's big, it's white, it's beautiful. Denmark doesn't want to sell. VERY UNFAIR. We debate, and if I win, I buy it!
+442 It was rigged. Totally rigged. Fine. We keep 15%. And Greenland stays Danish. For now. I'll post something in capital letters tonight.
+444 Welcome to Warsaw. Prime Minister of Poland, former President of the European Council. Here, we know what freedom is worth.
+446 Since February 2022, my country has been resisting the Russian invasion. Thank you, Europe, for your support. The palace is up there: be careful.
+447 Take this REPowerEU kit: Europe has learned to do without Russian gas. You'll need it to keep warm in there.
+448 Vladimir Putin
+449 Sit down. No… further away. There. In February 2022, I received presidents at this distance. It's more… comfortable.
+450 Gas? I turned off the tap. Elections? In December 2024, Romania's Constitutional Court annulled a presidential election amid interference. I don't know what you're talking about.
+451 Here, your arguments will take a whole turn to reach the other end of the table. Let's begin.
+452 …Your REPowerEU kit works. Blackmail doesn't work any more. Leave, before I shorten the table.
+453 Keeper
+454 These two pandas are on loan from China to a European zoo. It's called "panda diplomacy". They eat 40 kg of bamboo a day. The pandas, not the diplomats.
+456 Welcome. Since 2019, the European Union has described us as a partner, a competitor and a systemic rival. Me too, I'm all three.
+457 You tax our electric cars — up to 35% since October 2024. We tax your cognac. And we keep an eye on our rare earths. It's balanced.
+458 In this debate, my Euromon will change type every turn: partner, competitor, rival. Good luck keeping up.
+459 Hmm. A partner worthy of respect. The rare earths will be on their way again. The pandas stay, they're very popular.
+460 A yellow bear cub walks behind a container. A sign appears: "Content unavailable in your region."
+461 A message from the President: "The three Great Powers are demanding a summit. Right now. The G-Everything Summit. I'm sending you there."
+462 IT WAS MY IDEA TO HOLD THIS SUMMIT.
+463 The table is too short.
+464 We are all partners. And rivals.
+465 Right, shall we start? Me first. Everybody says I'm the best at starting.
+466 We propose to begin… after careful consideration. In fifty years.
+467 Why is Europe at the table? It was supposed to be on the folding seat.
+468 THE FOLDING SEAT IS TREMENDOUS. I sell them.
+469 Everyone talks at once. The interpreters give up. Only one solution remains: a debate.
+470 Silence in the room. The three Great Powers look at each other… then they look at Europe.
+471 Team Europe! Together, we are stronger than apart. That's pretty much the whole story of the Union, isn't it?
+472 Concrete achievements, {P}. De facto solidarity. I said it in 1950. You did it in one internship.
+473 And the directive ending the clock change? It was sent back… to committee.
+474 But that's another story.
+475 The adventure continues! New trains now serve Rome, Maastricht and Lisbon. They say legendary Euromons sleep there… And someone is waiting for you at Brussels station.
+476 An ancient statue, on the Capitol square. On 25 March 1957, six countries signed the Treaty of Rome here. Something is moving…
+477 Here, on 7 February 1992, the Maastricht Treaty gave birth to the European Union. A giant euro coin starts to glow…
+478 On 13 December 2007, the Treaty of Lisbon was signed at the Jerónimos Monastery. A translucent figure approaches…
+479 In the distance, another Euromon flees: Constitutio. Rejected in 2005, it never lets itself be captured.
+480 First day of your internship at the European Parliament! Professor Schuman is waiting for you in the Parliament hall.
+481 Your computer shows 437 unread emails. They're all titled "Coordination meeting about meetings".
+482 Leopold Park. Warning: the piles of files are home to wild Euromons. Do not feed the Amendons.
+483 Berlaymont — European Commission. Restricted access. 13th floor: the President's office (and bedroom).
+484 "Europe will not be made all at once, or according to a single plan. It will be built through concrete achievements." — Robert Schuman, 9 May 1950.
+485 Lobbyist
+486 Hello! I don't do lobbying. I do "expertise sharing". A canapé? It's salmon. Norwegian.
+487 Tourist
+488 Excuse me, where's the Manneken Pis? They told me it was bigger… They've told me a lot of lies on this trip.
+489 Child
+490 When I grow up, I'll be an interpreter! In 24 languages. Or a firefighter, it's calmer.
+491 Journalist
+492 I've been covering the European Union for twenty years. My favourite headline: "Brussels says no". It works every time.
+494 You won… Apparently the daylight saving directive has been stuck in the Council since 2019. Good luck with that.
+495 Security guard
+496 The Ardennes road? Not without a Euromon! Wild files are aggressive in budget season.
+497 Halt! Nobody leaves Brussels without a Euromon. Go and see Professor Schuman at Parliament first.
+498 Guard
+499 The 13th floor? Only those who have convinced the European Council may go up. And you need the eight badges first.

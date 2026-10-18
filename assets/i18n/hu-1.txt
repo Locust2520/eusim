@@ -1,0 +1,484 @@
+# Magyar — ids 0-499
+0 LOB
+1 BOT
+2 FAG
+3 ALV
+4 BLK
+5 Sz.%d
+6 VITA
+7 TÁSKA
+8 FUTÁS
+9 CSAPAT
+10 PP %d/%d
+11 Nincs hatása
+12 Szuperhatásos
+13 Kevésbé hatásos
+14 Vissza
+15 Nincs több PP ehhez a támadáshoz!
+16 Rajtad a sor, %s!
+17 %s csatába küld: %s!
+18 De %s már bajban van…
+19 %s már a lobbik oldalán áll!
+20 Egy jegybankár számláját nem lehet befagyasztani!
+21 %s lobbibefolyás alatt áll!
+22 %s belekeveredik egy botrányba!
+23 %s számlái befagynak!
+24 %s elalszik az éjszakai csúcstalálkozó közepén!
+25 %s elakad a bizottságban!
+26 Argumentáció
+27 Rezilencia
+28 Szakértelem
+29 Diplomácia
+30 Reakció
+31 Pontosság
+32 Kitérés
+33 %s: %s nem nőhet tovább!
+34 %s: %s nem csökkenhet tovább!
+35 %s: %s jelentősen megnő!
+36 %s: %s megnő!
+37 %s: %s jelentősen lecsökken!
+38 %s: %s lecsökken!
+39 %s ezt használja: %s!
+40 (trump)%s ezt használja: %s!
+41 %s egy 400 oldalas dossziét készít elő…
+42 De senki nem esik kétszer a kanapé csapdájába!
+43 %s plagizálja az ellenfelet!
+44 De nincs mit plagizálni…
+45 %s az 50. cikkelyre hivatkozva elhagyja a vitát!
+46 %s az 50. cikkelyre hivatkozva távozik!
+47 %s az 50. cikkelyre hivatkozik… de a tárgyalások évekig tartanak majd!
+48 %s vétóval védi magát!
+49 „VETÓ!” Az ellenfél blokkolja a döntést: egyhangúság szükséges.
+50 De %s támadása célt téveszt!
+51 %s már dezinformált!
+52 %s dezinformált lesz!
+53 De %s ÉP-je már maximális!
+54 %s ÉP-t kap vissza!
+55 %s egy frissítő szundit tart!
+56 De a vétó ezúttal nem sikerül!
+57 %s felmutatja vétójogát!
+58 Védzáradék! Minden módosítás törlődik.
+59 %s üzenetei törölve… Semmi nyom nem maradt!
+60 Strukturális alapok záporoznak a pályára!
+61 %s a kanapén találja magát!
+62 De semmi nem történik…
+63 Nincs hatással rá: %s…
+64 Telitalálat!
+65 Találatok száma: %d!
+66 Ez szuperhatásos!
+67 Ez nem nagyon hatásos…
+68 %s végtelen eljárásba keveredik!
+69 %s megcsapolja a forrásokat!
+70 %s visszaütést kap!
+71 Érmék szóródnak szét mindenfelé!
+72 %s túlságosan megzavarodott ahhoz, hogy cselekedjen!
+73 %s mélyen alszik… (hajnali 4 óra van)
+74 %s felébred! A csúcstalálkozó véget ért.
+75 %s végre kikerül a bizottságból!
+76 %s számlái befagytak! Nem tud cselekedni.
+77 %s ellenőrizte a forrásait!
+78 %s dezinformált…
+79 Továbbad egy hamis hírt, és ezzel hitelét veszti!
+80 Orbán kiment kávézni! Euromonja tanácstalanul várja.
+81 %s lobbibefolyás alá kerül!
+82 Botrány fröccsen rá: %s!
+83 %s belegabalyodik az eljárásba!
+84 %s KO-t kapott!
+85 %s megtanulja ezt: %s!
+86 %s meg akarja tanulni ezt: %s, de már ismer négy támadást.
+87 Ne tanulja meg
+88 Melyik támadást felejtse el?
+89 Egy, kettő, három… Hopp! %s elfelejti ezt: %s…
+90 …és megtanulja ezt: %s!
+91 %s nem tanulja meg ezt: %s.
+92 %s %d tapasztalati pontot szerez!
+93 %s eléri a %d. szintet!
+94 {P} eldobja ezt: %s!
+95 Megvan! %s bejegyzésre kerül a Hivatalos Lapba!
+96 %s adatai bekerülnek az Eurodexbe.
+97 %s átkerül az Archívumba.
+98 Jaj, ne! %s kiszabadította magát!
+99 Argh! Majdnem megvolt!
+100 Hú! Már csak egy bélyegző hiányzott!
+101 Argh! Eljárási hiba!
+102 Népszavazáson elutasították: %s! Nem lehet elfogni.
+103 Más edző Euromonját nem lehet elfogni! Az botrány lenne.
+104 {P} ezt használja: %s!
+105 Melyik Euromonra?
+106 %s ÉP-t kap vissza.
+107 %s jobban van.
+108 %s újra szolgálatba lép!
+109 Ennek nem lesz hatása.
+110 Ennek most nincs itt az ideje!
+111 Kit küldjünk a vitába?
+112 Kit küldjünk?
+113 %s már nincs állapotban, hogy vitázzon!
+114 %s már a pályán van!
+115 Gyere vissza, %s!
+116 partner
+117 versenytárs
+118 szisztémás rivális
+119 Az ellenfél Euromonja most így mutatkozik be… %s! (%s típus)
+120 %s %s vitázni akar!
+121 Ó! Egy csillogó %s!
+122 Egy vadon élő %s jelent meg!
+123 Mit tegyen {P}?
+124 Egy hivatalos vitát nem lehet elhagyni! Az a gyengeség beismerése lenne.
+125 Menekülsz a vészkijáraton át!
+126 Nem lehet elmenekülni: az ülés még nincs berekesztve!
+127 %s elindítja az argumentumát… Az asztal olyan hosszú, hogy egy körbe telik, mire odaér!
+128 Az előző kör argumentuma végre eléri az asztal másik végét!
+129 %s hamarosan csatába küldi: %s.
+130 Folytatás
+131 Euromon váltása
+132 Váltasz Euromont?
+133 {P} %d €-t nyer ezért a vitáért!
+134 {P} felvesz %d € strukturális alapot.
+135 — FILMBETÉT —
+136 A: tovább    START: kihagyás
+137 Igen
+138 Nem
+139 Érintsd meg a képernyőt, vagy nyomd meg az A gombot
+140 Köszönjük, hogy játszottál!
+141 VÉGE… vagy majdnem.
+143 Olvashatatlan mentés!
+144 Schuman professzor
+145 Jó napot, jó napot! Üdvözlök a csodálatos… és kissé bürokratikus… Európai Unió világában!
+146 Robert Schuman vagyok. Talán hallottál már rólam: egy történet szénről, acélról és május 9-éről… Majd elmesélem.
+147 Azóta ezt a világot furcsa lények népesítik be: az EUROMONOK!\fIrányelvek, rendeletek, módosítások, sütiablakok… A dossziékupacokban és a folyosók szőnyegében élnek.
+148 Páran gyűjtik őket, mások vitáztatják. Én tanulmányozom őket. Ezt hívják… komitológiának!
+149 De beszéljünk inkább rólad. Ma reggel két gyakornokot várnak az Európai Parlamentben…
+150 Balra Alex, az új gyakornok lány. Jobbra Max, az új gyakornok fiú. Ki vagy te?
+151 Alex, lány
+152 Max, fiú
+153 Remek! És hogyan hívjalak, hivatalosan? Ezt mind a 24 nyelven le kell majd írni, tehát jól válassz.
+154 A keresztneved (max. 10 betű):
+155 {P}! Csodálatos. Rögtön le is fordíttatom máltaira.
+156 Ő itt Oliver, a gyakornoktársad, egyenesen Londonból. Ő… nagyon magabiztos.
+157 Hello! Don't worry, {P}, én leszek a legjobb gyakornok az egész Unióban. Easy.
+158 A küldetésetek egyszerű: el kell fogadtatnotok EGY irányelvet.\fAz óraátállítás megszüntetéséről szóló irányelvet. A Parlament 2019 márciusában megszavazta…
+159 …és azóta a Tanácsban szunyókál. Mint annyi más minden.
+160 Ehhez meg kell szereznetek Európa nagyvárosainak 8 jelvényét, meg kell győznötök az Európai Tanácsot, és magát a Bizottság elnökét is!\fGyerünk, {P}. A gyakorlatod most kezdődik. Nem fizetett, de legalább tapasztalatot ad!
+161 Váltás
+162 Törlés
+163 Tudtad? A Parlament évente tizenkétszer költözik Strasbourgba, bőröndökkel együtt.
+164 Az EU-nak 24 hivatalos nyelve van. A gyakornokod másfelet beszél belőlük.
+165 Tipp: a palackhoz rögzített kupakok többé nem vesznek el (2019/904 irányelv).
+166 Betöltés… mint az óraátállítás megszüntetése: 2019-ben megszavazva, még mindig várakozik.
+167 Az európai zászlón 12 csillag van. Ez nem az országok száma: a tökéletesség szimbóluma.
+168 A Schuman-nyilatkozat 1950. május 9-éről származik. Május 9. az Európa Nap!
+169 Az euróérmék 2002. január 1-jén kerültek a zsebekbe.
+170 2017 júniusa óta nincs több roamingdíj Európában. Hívd fel anyádat Lisszabonból!
+171 Az univerzális USB-C töltő 2024 vége óta kötelező. Isten veled, kábelfiók.
+172 Az Erasmus program 1987-ben indult. Azóta diákok milliói tanultak meg tésztát főzni.
+173 A schengeni megállapodást 1985-ben írták alá egy hajón, a Mosel folyón, Luxemburgban.
+174 Az Európai Parlamentnek 2024 óta 720 képviselője van.
+175 Tipp: a kantin meggyógyítja az egész csapatodat. A kávé viszont semmit nem gyógyít.
+176 Tipp: tartsd lenyomva a B gombot a futáshoz. A Berlaymont folyosói hosszúak.
+177 A banángörbületi rendelet (1994) valóban létezik… de inkább a minőségről szól.
+178 A GDPR (2018) sütiablakokat ajándékozott nekünk. Nagyon sok sütiablakot.
+179 A Nobel-békedíjat 2012-ben az Európai Unió kapta.
+180 A római szerződés (1957) hozta létre az Európai Gazdasági Közösséget.
+181 A maastrichti szerződés (1992) hozta létre az Európai Uniót, és ebben tervezték meg az eurót.
+182 A lisszaboni szerződés (2007) tartalmazza az 50. cikkelyt. Eddig csak egy ország alkalmazta.
+183 Az Egyesült Királyság 2020. január 31-én kilépett az EU-ból. Oliver még most sem heverte ki.
+184 Tipp: a hivatalos bélyegzők jobban elfogják a legyengült Euromonokat.
+185 Tipp: egy éjszakai csúcstalálkozó által elaltatott Euromont könnyebb elfogni.
+186 A Berlaymontból 1991 és 2004 között távolították el az azbesztet. A kivitelezői megbeszélés hosszú volt.
+187 Az Európai Unió Bírósága Luxemburgban, a Kirchberg-fennsíkon székel.
+188 Az EKB Frankfurtban van. A tornya többe került, mint tervezték. Nyilván az infláció miatt.
+189 Simone Veil volt az elsőként megválasztott Európai Parlament első elnöke, 1979-ben.
+190 A Bizottságnak 27 biztosa van: egy minden országból. Még Ausztria halászati politikájáért is.
+191 Tipp: nyomd meg az X gombot a menü megnyitásához.
+192 A Duna tíz országon folyik át. A cipőd csak kettőn.
+193 Az Európa Napon egy ritka Euromon jelenik meg. Próbáld ki május 9-én!
+194 Az EU fordításai évente több millió oldalt jelentenek.
+195 Az európai himnusz Beethoven Örömódája, hivatalos szöveg nélkül.
+196 Tipp: a Jogi típusú támadások szuperhatásosak a Lobbi ellen.
+197 Tipp: a Vétó blokkol egy támadást, de az elhatározásodat nem.
+198 A Brexit olyan sokáig tartott, hogy kitalálták rá a „Brextension” szót.
+199 A Parlamentnek minden tagállamban van kapcsolattartó irodája.
+200 Tipp: beszélj mindenkivel. Még a Lux téri galambbal is.
+201 Dániának mentessége van az euró alól. Megtartja a koronáját, és a vikingjeit is.
+202 A 27 nemzeti vélemény betöltése… 26/27… Magyarországra várunk.
+203 Tudtad?
+204 Betöltés…
+205 Csapat
+206 Táska
+207 Térkép
+208 Jelentés
+209 Beállítások
+210 %lu:%02lu
+211 ÉP
+212 KO
+213 Sz.%d   #%03d
+214 Exp.
+215 Tovább
+216 B: vissza
+217 Csere kivel…?
+218 A: választás   B: vissza
+219 Összegzés
+220 Áthelyezés
+221 Gyógyítás
+222 Bélyegzők
+223 Harc
+224 Kulcsok
+225 A vadon élő Euromonok egy ideig békén hagynak.
+226 %s PP-je helyreállt.
+227 Ennek nincs hatása.
+228 Ennek most nincs itt az ideje.
+229 ×%d
+230 (üres)
+231 Használat
+232 #%03d  %s
+233 Fogd el ezt az Euromont, hogy elolvashasd a leírását.
+234 EURODEX   Látott: %d   Elfogott: %d
+235 Nem található mentési eszköz.\fDS-en (DS Pico, R4…) indítsd el a játékot SD-kártyáról. Emulátoron engedélyezd a DLDI-t / az SD-kártyát, vagy használj mentési állapotokat (save state).
+236 Elkészítsd az állásjelentést (%d. hely)?
+237 Mentés
+238 Másik hely…
+239 Mégse
+240 A jelentés elküldve 24 nyelven. A játék mentve (%d. hely)!
+241 Az SD-kártyára írás sikertelen. Próbáld újra.
+242 Beállítások
+243 Tényforrások
+244 Vissza a főmenübe
+245 Visszatérsz a főmenübe? A nem mentett haladás elveszik.
+246 ◀  × %d  ▶
+247 Összesen: %d €
+248 A: megerősítés   B: mégse
+249 Vétel
+250 Eladás
+251 Viszlát
+252 Eladó
+253 Üdvözlünk a Parlamentarium Boltban! Minden termékünk garantáltan megfelel a CE-szabványoknak.
+254 A költségvetésed: %lu €
+255 A táskádban: %d db
+256 Úgy tűnik, a költségvetésed… a kiadási plafon alatt van.
+257 Köszönjük! És itt egy Szuper Bélyegző ajándékba, a nagytételes vásárlásért!
+258 Köszönjük a vásárlást! A számla három eredeti példányban készül.
+259 Az? Az nem eladó, az stratégiai fontosságú tárgy!
+260 Üzlet megkötve!
+261 Viszlát! Ne feledd: az USB-C töltő külön kapható.
+262 CSAPAT → ARCHÍVUM (%d/%d)
+263 ARCHÍVUM → CSAPAT (%d/%d)
+264 ◀▶ oldal   A: mozgatás   B: kilépés
+265 {P} bekapcsolja az Archívum terminálját. „Üdvözlünk a dokumentumkezelő rendszerben.”
+266 Legalább egy Euromont a csapatban kell tartanod!
+267 A csapat teljes (legfeljebb 6 Euromon).
+268 Adóhatározat
+269 Euró
+270 Ülésterem
+271 OXI
+272 50. cikkely
+273 Vétó
+274 Bírság
+275 Sorbonne
+276 Jean-Claude Juncker, Luxemburg
+277 Christine Lagarde, Frankfurt
+279 Yanis Varoufakis, Athén
+280 Farage & Johnson, London
+281 Orbán Viktor, Budapest
+282 Margrethe Vestager, Brüsszel
+283 Emmanuel Macron, Párizs
+284 SZERZŐDÉSI JELVÉNYTARTÓ
+285 megszerezve
+286 megszerzendő
+287 %s jelvény — átadta: %s.
+288 Mi? %s fejlődik!
+289 Elnapoltad a reformot. %s nem fejlődött.
+290 Gratulálok! %s átalakult: %s!
+291 Idő: %d mp
+292 Pontszám: %d / %d
+293 Minijáték
+294 Plenáris szavazás
+295 A képviselők megérkeznek az ülésterembe! Érints meg minden sárgán felvillanó széket, mielőtt elalszik. 25 szavazat 30 másodpercben!
+296 Elnökség
+297 Érintsd meg a sárga székeket!
+298 Elfogadva nagy többséggel! Taps minden oldalról.
+299 A kvórum nem teljesült. Az ülést felfüggesztik…
+300 A Bélyegző
+301 Dokumentumok vonulnak át az asztalon. Érints meg mindegyiket, hogy lebélyegezd, mielőtt lekerül a képernyőről. 15 dokumentum!
+302 Érintsd meg a dokumentumokat a lebélyegzéshez
+303 Minden dokumentum lebélyegezve! A hivatal büszke rád.
+304 Néhány dokumentum bélyegző nélkül ment el. Újra végig kell járniuk a kört…
+305 Sütiablakok
+306 Sütiablakok özönlik el a képernyőt! Érintsd meg mindegyiken az „Elutasítás” gombot. Ha hat ablak felgyűlik, vége a játéknak. Tarts ki 25 másodpercig!
+307 (egy tetszőleges weboldal)
+308 Tiszteletben tartjuk
+309 a magánéletedet
+310 Elfogadás
+311 Elutasítás
+312 Utasíts el mindent! (ne kattints az Elfogadásra)
+313 Minden süti elutasítva! A GDPR büszke rád.
+314 Elárasztottak az ablakok… 437 hirdetési partnert fogadtál el.
+315 Éjszakai csúcstalálkozó
+316 Hajnali 3 óra van, a 27 államfő elalszik! Fújj a mikrofonba (vagy érintsd meg az alvó fejet), hogy felébreszd őket. 27 felébresztés hajnalig!
+317 %d:%02d
+318 Fújj / érintsd meg az alvó fejet!
+319 Mindenki felébredt! Megállapodás 4:37-kor. Mint mindig.
+320 A nap felkel az elalvó vezetők asztala felett. A csúcstalálkozót elnapolják.
+321 A strasbourgi bőröndök
+322 Pakold fel a képviselők bőröndjeit a vonatra, sorrendben: 1, 2, 3… egészen 10-ig. 30 másodperced van!
+323 Peron — TGV Strasbourg ⇄ Brüsszel
+324 A bőröndök
+325 Érintsd meg a bőröndöket sorrendben!
+326 Minden bőrönd a vonaton van! Az ülés elkezdődhet.
+327 A vonat elindult a bőröndök nélkül. A képviselők pizsamában fognak ülésezni.
+328 Nyelv
+329 Szövegsebesség
+330 Szöveghang
+331 Zene hangerő
+332 Harci animációk
+333 Lassú
+334 Normál
+335 Gyors
+336 ↑↓ / ceruza: görgetés    B: vissza
+337 Alkotók
+338 SD-kártya
+339 játékkazetta
+340 nincs
+341 {P} megszerzi: %d × %s!
+342 {P} megszerzi: %s!
+343 — Üres hely —
+344 Eurodex: %d
+345 Folytatás: játék kiválasztása
+346 Új játék: hely
+347 Mentés ide…
+348 Ezen a helyen már van mentés. Felülírod?
+349 Új játék
+350 Alkotók és források
+351 Főmenü
+352 Nem hivatalos paródia · v2.0
+353 Életed gyakorlata
+354 NYOMD MEG A START GOMBOT
+355 {P} megkapja: %s!
+356 A csapat teljes: az Archívumba kerül.
+357 {P}-nek nincs több vitaképes Euromonja…\f{P} lehajtott fejjel visszafut a kantinba.
+358 Kantinos
+359 Gyerünk, egy jó kávé és újra megy! Az Euromonjaid most már teljes erőben vannak.
+360 Adóhatározat jelvény
+361 Euró jelvény
+362 Ülésterem jelvény
+363 OXI jelvény
+364 50. cikkely jelvény
+365 Vétó jelvény
+366 Bírság jelvény
+367 Sorbonne jelvény
+368 {P} megkapja: %s!
+369 Az Eurodexedben %d elfogott Euromon van a %d látottból.
+371 Ez már valami! A kis lépésekből nagy uniók lesznek.
+372 Nem rossz! Gyorsabban haladsz, mint a nyári időszámítás irányelve.
+373 Döbbenetes! Még a Bizottságnak sincs ennyi dossziéja.
+374 Rendkívüli! Egymagad egy egész intézmény vagy.
+375 {P} talál: %s!
+376 A megkeresési tilalom lejárt.
+377 Brüsszel
+378 Luxemburg
+379 Frankfurt
+381 Athén
+382 London
+384 Párizs
+385 Antwerpen
+386 Varsó
+387 Róma
+389 Lisszabon
+390 Jegypénztáros
+391 Jelenleg nincs elérhető célpont.
+392 Egyéb célpontok…
+393 Beszállás! A vonat indul… csak néhány perc késéssel.
+394 Diplomata
+395 Josep Borrell, a korábbi főképviselő, 2022-ben azt mondta: „Európa egy kert, a világ többi része egy dzsungel.” Ez… kavart egy kicsit a vízen.
+397 Tizenhat évig voltam kancellár. Több száz csúcstalálkozó. 2015-ben azt mondtam: „Wir schaffen das” — meg fogjuk csinálni.
+398 De te, sikerre jutsz? Én vagyok a Tanács első tagja. Kompromisszum nélkül senki nem juthat át.
+399 Wir haben es geschafft. Átmehetsz. Mario vár rád… egy 400 oldalas jelentéssel.
+401 2012 júliusa, London. Három szót mondtam: „Whatever it takes”. Az eurót megmentettük. A piacok lecsillapodtak.
+402 2024-ben a versenyképességről szóló jelentésem évi akár 800 milliárd eurós beruházást kért. Fektess be ebbe a vitába.
+403 Megtettél mindent, amit kellett. Kaja Kallas vár rád. Ő… nagyon egyenes.
+405 Külügyi és biztonságpolitikai főképviselő 2024 decembere óta. Korábban Észtország miniszterelnöke.
+406 A világ veszélyes. Tudnom kell, hogy helyt tudsz-e állni a nagyhatalmakkal szemben. Mutasd meg!
+407 Szilárd. Szükséged lesz rá. Costa elnök vár rád. Azt reméli, éjfél előtt végez.
+409 Az Európai Tanács elnöke 2024 decembere óta! 23:54 van. Ha éjfél előtt végzünk, az történelmi pillanat lesz.
+410 De előbb: az összes államfő elaludt az asztal körül. Segíts felébreszteni őket! Fújj a mikrofonba… vagy koppints a képernyőre!
+411 Most… 4:37 van. Hát jó. Mint mindig. Vitázzunk akkor is.
+412 Az Európai Tanács egyhangúlag jóváhagyja a jelölésedet! Nos… egyhangúlag, egy konstruktív tartózkodást leszámítva.
+413 A Bizottság elnöke a Berlaymont 13. emeletén vár rád. Ez az utolsó lépés az irányelv előtt.
+415 Ó, jó napot. Charles Michel vagyok, az Európai Tanács korábbi elnöke. Csak… ülök. Az egyetlen széken.
+416 Ankarában, 2021 áprilisában, én ültem a karosszékbe. Ursula a kanapén végezte. Ezt hívták „Sofagate”-nek. Sosem igazán hevertem ki.
+418 Üdv a 13. emeleten. Igen, itt lakom: van egy kis hálószoba az irodám mellett. Praktikus a sürgős ügyekhez.
+419 A Bizottság elnöke 2019 óta, 2024-ben újraválasztva. A Zöld Megállapodás, a Covid-válság, a vakcinák…
+420 Az SMS-ek a Pfizer vezérével? 2025 májusában az EU Törvényszéke megsemmisítette az elutasításunkat, hogy átadjuk őket a New York Timesnak. Na mindegy. Térjünk tovább.
+421 A nyári időszámítás irányelvét akarod? Győzz le. Team Europe — a végén csak egy marad.
+422 Rendkívüli. Te vagy a Bizottság történetének legjobb gyakornoka. Itt van… az óraátállítás megszüntetéséről szóló irányelv.
+423 Már csak alá kell íratni. Egyszerű formaság! Csak annyi kell, hogy…
+424 A nagyhatalmak várnak! Antwerpen, Varsó, Pireusz… Szállj fel a vonatra.
+425 Megmentetted Európát. És az irányelv… bizottsági szakaszban van. Mint mindig. Köszönök mindent, {P}.
+426 BÍP BÍP BÍP! Három sürgős üzenet érkezik egyszerre a Berlaymont összes telefonjára.
+428 HELLO EUROPE! Van egy kis kérésem. Egy egészen kicsi. Vámot vetek ki mindenre. És szívesen megvenném Grönlandot. Az eladó, nem?
+429 Második üzenet, keletről: „A gázcsap elzárva. A saját érdeketekben.” Aláírás: V. P.
+430 Harmadik üzenet, nagyon udvarias: „Felfüggesztjük a ritkaföldfém-exportunkat. A telefonjaitok… kevésbé fognak működni.” Aláírás: H. Cs.
+431 {P}, az irányelv várhat. A Nagyhatalmak sakkban akarják tartani Európát. El kell menned hozzájuk. Mindháromhoz.
+432 Az antwerpeni kikötő, Varsó, és a pireuszi kikötő Athénnál. A vasútállomások nyitva állnak előtted. A Team Europe rád számít!
+434 A NATO főtitkára vagyok. A hágai csúcson, 2025 júniusában elköteleztük magunkat, hogy 2035-ig a GDP 5%-ára emeljük a védelmi kiadásokat.
+435 És apának hívtam Donaldot. Jó, csak egy szókép volt. Imádta. Menj csak, a pályán van.
+437 2025 februárjában, a müncheni konferencián elmagyaráztam az európaiaknak, mi is a demokrácia. Meg voltak… lepve.
+438 EZ A VILÁG LEGSZEBB GOLFPÁLYÁJA. Épp most vettem meg. Legalábbis azt hiszem. A kikötőt is, talán.
+439 2025. április 2., Liberation Day! Felmutattam egy nagy táblát vámokkal MINDENKINEK. Még olyan szigeteknek is, ahol csak pingvinek élnek.
+440 2025 júliusában, a turnberry-i golfpályámon Ursulával megkötöttünk egy üzletet: 15%. De meggondolhatom magam. Gyakran meggondolom magam. Ez egy stratégia.
+441 És Grönland! Nagy, fehér és csodálatos. Dánia nem akarja eladni. NAGYON IGAZSÁGTALAN. Vitázunk, és ha győzök, megveszem!
+442 Ez meg volt rendezve. Teljesen meg volt rendezve. Jó. Megmarad a 15%. És Grönland dán marad. Egyelőre. Ma este posztolok valamit csupa nagybetűvel.
+444 Üdv Varsóban. Lengyelország miniszterelnöke vagyok, korábban az Európai Tanács elnöke. Itt tudjuk, mennyit ér a szabadság.
+445 Volodimir Zelenszkij
+446 2022 februárja óta az országom ellenáll az orosz inváziónak. Köszönöm Európának a támogatást. A palota ott fent van: légy óvatos.
+447 Vedd ezt a REPowerEU-készletet: Európa megtanult lemondani az orosz gázról. Szükséged lesz rá, hogy melegben maradj odabent.
+448 Vlagyimir Putyin
+449 Ülj le. Nem… messzebb. Így. 2022 februárjában elnököket fogadtam ebből a távolságból. Ez… kényelmesebb.
+450 A gáz? Elzártam a csapot. A választások? 2024 decemberében a román alkotmánybíróság külső beavatkozás gyanúja miatt megsemmisített egy elnökválasztást. Nem tudom, miről beszélsz.
+451 Itt az argumentumaidnak egy teljes körbe telik, mire elérik az asztal másik végét. Kezdjünk.
+452 …A REPowerEU-készleted hatásos. A zsarolás már nem működik. Menj, mielőtt megrövidítem az asztalt.
+453 Gondozó
+454 Ezt a két pandát Kína adta kölcsön egy európai állatkertnek. Ezt hívják „panda-diplomáciának”. Napi 40 kg bambuszt esznek. A pandák, nem a diplomaták.
+455 Hszi Csin-ping
+456 Üdvözlök. Az Európai Unió 2019 óta partnerként, versenytársként és szisztémás riválisként ír le minket. Én is mindhárom vagyok.
+457 Megvámoljátok az elektromos autóinkat — 2024 októbere óta akár 35%-kal is. Mi megvámoljuk a konyakotokat. És szemmel tartjuk a ritkaföldfémeinket. Ez kiegyensúlyozott.
+458 Ebben a vitában az Euromonom minden körben típust vált: partner, versenytárs, rivális. Sok sikert a követéshez.
+459 Hm. Egy tiszteletre méltó partner. A ritkaföldfémek újra útnak indulnak. A pandák maradnak, nagyon népszerűek.
+460 Egy sárga kis medve elsétál egy konténer mögött. Egy felirat jelenik meg: „A tartalom nem elérhető a régiódban.”
+461 Üzenet az elnöktől: „A három Nagyhatalom csúcstalálkozót kér. Azonnal. A G-Minden Csúcsot. Odaküldelek.”
+462 EZ A CSÚCS AZ ÉN ÖTLETEM VOLT.
+463 Az asztal túl rövid.
+464 Mindannyian partnerek vagyunk. És riválisok.
+465 Jó, kezdjünk? Előbb én. Mindenki azt mondja, én vagyok a legjobb a kezdésben.
+466 Azt javasoljuk, hogy kezdjünk… alapos megfontolás után. Ötven év múlva.
+467 Miért ül Európa az asztalnál? Neki a kihajtható ülésen kellene lennie.
+468 A KIHAJTHATÓ ÜLÉS TREMENDOUS. Árulok belőle.
+469 Mindenki egyszerre beszél. A tolmácsok feladják. Már csak egy megoldás maradt: a vita.
+470 Csend a teremben. A három Nagyhatalom egymásra néz… majd Európára.
+471 Team Europe! Együtt erősebbek vagyunk, mint külön-külön. Ez tulajdonképpen az Unió egész története, nem?
+472 Konkrét eredmények, {P}. Valós szolidaritás. Én ezt 1950-ben mondtam. Te egyetlen gyakorlat alatt megtetted.
+473 És az óraátállítás megszüntetéséről szóló irányelv? Visszakerült… a bizottsághoz.
+474 De ez már egy másik történet.
+475 A kaland folytatódik! Új vonatok indulnak Rómába, Maastrichtba és Lisszabonba. Azt mondják, legendás Euromonok szunnyadnak ott… És valaki vár rád a brüsszeli vasútállomáson.
+476 Egy antik szobor a Capitolium téren. 1957. március 25-én hat ország írta alá itt a római szerződést. Valami megmozdul…
+477 Itt, 1992. február 7-én a maastrichti szerződés életre hívta az Európai Uniót. Egy óriási euróérme ragyogni kezd…
+478 2007. december 13-án a lisszaboni szerződést a Jerónimos-kolostorban írták alá. Egy áttetsző alak közeledik…
+479 A távolban egy másik Euromon menekül: Constitutio. 2005-ben elutasították, soha nem engedi, hogy elfogják.
+480 A gyakorlat első napja az Európai Parlamentben! Schuman professzor a Parlament előcsarnokában vár rád.
+481 A számítógéped 437 olvasatlan e-mailt mutat. Mindegyiknek ugyanaz a tárgya: „Koordinációs megbeszélés a megbeszélésekről”.
+482 Léopold Park. Figyelem: a dossziékupacokban vadon élő Euromonok rejtőznek. Az Amendonokat ne etesd!
+483 Berlaymont — Európai Bizottság. Korlátozott belépés. 13. emelet: az elnök irodája (és hálószobája).
+484 „Európa nem egyszerre és nem egységes szerkezetben fog létrejönni: konkrét eredmények révén fog megépülni.” — Robert Schuman, 1950. május 9.
+485 Lobbista
+486 Jó napot! Én nem lobbizok. Én „szakértelmet osztok meg”. Egy falatkát? Lazacos. Norvég.
+487 Turista
+488 Excuse me, merre van a Manneken Pis? Azt mondták, nagyobb… Sokat hazudtak nekem ezen az utazáson.
+489 Gyerek
+490 Ha megnövök, tolmács leszek! 24 nyelven. Vagy inkább tűzoltó, az nyugodtabb.
+491 Újságíró
+492 Húsz éve tudósítok az Európai Unióról. A kedvenc főcímem: „Brüsszel nemet mond”. Mindig beüt.
+494 Győztél… Úgy hallom, a nyári időszámítás irányelve 2019 óta megakadt a Tanácsban. Sok sikert hozzá.
+495 Biztonsági őr
+496 Az Ardennek útja? Euromon nélkül semmiképp! A vadon élő dossziék agresszívek ebben a költségvetési szezonban.
+497 Állj! Senki nem hagyhatja el Brüsszelt Euromon nélkül. Előbb keresd meg Schuman professzort a Parlamentben.
+498 Őr
+499 A 13. emelet? Csak azok mehetnek fel, akik meggyőzték az Európai Tanácsot. És ehhez előbb meg kell szerezni mind a nyolc jelvényt.

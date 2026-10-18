@@ -1,0 +1,470 @@
+# Slovenščina — ids 500-999
+500 Stavba Europa gosti Evropski svet. Za sprejem potrebuješ osem značk pogodb.
+501 Strežnica
+502 Komisarka je… zelo zaposlena. Pravijo, da Team Lobby blokira vse njene preiskave. To se dogaja pod barom na trgu Lux.
+503 GD za konkurenco sprejema le izkušene pripravnike. Vrni se z vsaj šestimi značkami.
+504 Uslužbenec Parlamenta
+505 Pozdravljen v Evropskem parlamentu! Profesor Schuman te čaka na koncu avle.
+506 Stopnice na desni vodijo v nadstropja… Pravijo, da je eno krilo hišano. Jaz nikoli ne grem tja.
+507 Ah, {P}! Končno si tu! Natančen… na uro ali dve. Prekleta sprememba ure.
+508 Hi! Jaz sem prišel pred eno uro. Jaz sem po londonskem času.
+509 Profesorjev laboratorij
+510 V redu. Delala bosta z Euromoni. Dosjeji tega parlamenta so jih polni.
+511 Tukaj imam tri, čisto mlade. Rodili so se iz velikih evropskih idej. Izberi svojega, {P}.
+512 Prihajajo… iz kartonskih map?
+513 V Bruslju se vse, kar šteje, začne v kartonski mapi, Oliver. Tudi Evropa.
+514 VERDEAL, rojen iz Zelenega dogovora. CHARBONNET, nastal iz ESPJ leta 1951. Ali ATOMINO, naravnost iz Euratoma.
+515 Verdeal (tip Zelen)
+516 Charbonnet (tip Industrija)
+517 Atomino (tip Energija)
+518 Odlična izbira! Skrbi zanj. En dobro obravnavan Euromon je vreden več kot deset slabo ratificiranih pogodb.
+519 Potem jaz vzamem tistega, ki premaga tvojega. That's just smart negotiation.
+520 Oliver! To ni ravno… skupnostno.
+521 Daj, {P}, mala razprava, da vidiva, kdo je boljši pripravnik?
+522 What?! Izgubil sem proti celinskemu pripravniku?! To je bilo… samo poskusno.
+523 Ha! Kot pričakovano. Ne jemlji tega osebno, {P}, to je kulturno.
+524 Bravo obema. Zdaj pa naloga: sprejeti direktivo o koncu spremembe ure.
+525 Parlament jo je sprejel marca 2019. Od tedaj spi v Svetu. Potrebovala bosta osem značk pogodb, da bosta vzeta zares.
+526 Prva značka vaju čaka v Luksemburgu, pri Jean-Claudu Junckerju. Pojdita po poti skozi Ardene, proti vzhodu.
+527 Luksemburg? Easy. Tam bom pred teboj. See you, loser… ehm, kolega!
+528 Trenutek, {P}! Jaz sem Jean Monnet. Izumil sem metodo majhnih korakov. Tukaj je velik korak: EURODEX.
+529 Zapisuje vsakega Euromona, ki ga srečaš. In tukaj je nekaj, s čimer jih uradno žigosaš.
+530 Oslabi divjega Euromona, nato pa iz TORBE vrzi Uradni žig. Evropa računa na tebe!
+531 Pogum, {P}! Vsaka značka je majhen kamenček. Tako kot pri Evropi: konkretni dosežki.
+532 Osem značk! Evropski svet te čaka v stavbi Europa. Tako sem ponosen.
+533 Pokaži mi svoj Eurodex…
+534 Najprej se pogovori s profesorjem Schumanom, mladi pripravnik.
+535 Profesor je tam. Pohiti, dolgočasim se.
+536 Pot 1 — Gozd Ardenov. Luksemburg: 3 ure peš, 12 minut z davčno odločbo.
+537 Pohodnik
+538 Gozd Ardenov se razteza čez tri države. Divji prašiči pa še nikoli niso pokazali potnega lista.
+540 Nekega dne nam bodo plačali. Nekega dne…
+541 G. Dupont
+542 Ne pozabi izpolniti obrazca o zadovoljstvu. Obsega 12 strani.
+544 SKP je tretjina evropskega proračuna. In moj kombajn je tretjina mojega kredita.
+545 Luksemburg-Kirchberg. Sodišče EU, Računsko sodišče, Evropska investicijska banka. In veliko navadnih bank.
+546 Proti Schengnu, vasi ob Mozeli, kjer je bil leta 1985 podpisan sporazum. Sledi poti proti jugu.
+547 Majhna pot se spušča proti Mozeli… in proti Schengnu.
+548 Javni prevoz je tukaj brezplačen! S tramvajem sem 14-krat obkrožil mesto. Zaradi nič. Brezplačno.
+549 Babica
+550 Moj mož je bil evropski uradnik. Delal je na Računskem sodišču. Za uspavanje je štel celo ovce.
+551 Sodnik
+552 Sodišče Evropske unije tu zaseda od leta 1952. Naše sodbe veljajo za vseh 27 držav. Tudi ob ponedeljkih zjutraj.
+553 Sodni tajnik
+554 Prevedel sem sodbo v 24 jezikov. V malteški različici je tiskovna napaka. Nihče jo ni opazil deset let.
+555 Luksemburški cestninar
+556 Pot ob Mozeli je rezervirana za lastnike Značke davčne odločbe. Pojdi k g. Junckerju, v Zlato areno.
+557 {P}! Še vedno tukaj? Jaz sem že obiskal tri banke in odprl dva računa. Za folkloro.
+558 Razprava!
+559 No, OK, napredujete. Jaz grem v Frankfurt pogledat ECB. Obljubili so mi, da bodo razložili obrestne mere.
+561 Tu, v Luksemburgu, je diskretnost vrlina. In industrija.
+562 Odvetnik Klein
+563 Davčne odločbe so bile zakonite, veste. Samo nihče jih ni smel brati. LuxLeaks, 2014, kakšna nesreča.
+565 Ah, mali pripravnik Schumana! Pridi, pridi. Tudi jaz sem začel majhen. Potem pa osemnajst let predsednik vlade.
+566 Vodil sem Euroskupino, nato Komisijo. Veliko vrhov sem videl. In potrkal veliko lic.
+567 Nekoč, leta 2011, sem rekel: »Ko postane resno, je treba lagati.« Zato ti ne bom rekel, da te bom pustil zmagati.
+568 Fantastično! Zmagal si Značko davčne odločbe. Ta je uradna, ne zaupna!
+569 Pot ob Mozeli je zdaj odprta zate. Frankfurt te čaka, in Christine Lagarde se z obrestmi ne šali.
+570 Spet prideš mimo? Pridi, da te potrkam po licu. To je luksemburška tradicija. Vsaj moja.
+571 Tu je 14. junija 1985, na krovu ladje Princesse Marie-Astrid, pet držav podpisalo schengenski sporazum o odpravi mejnih kontrol.
+572 Kapitan
+573 Princesse Marie-Astrid! Na takšni ladji so odpravili meje. Ironično, na reki, ki sama je meja.
+574 Pravijo, da se v dosjejih te vasi skriva redek Euromon, Schengéon. Na meji se nikoli ne ustavi.
+575 Pot 2 — Dolina Mozele. Tri države na dvajsetih kilometrih. Ne pozabi zamenjati jezika.
+577 Brezplačno gostovanje je najlepše darilo Unije. Objavil sem 4000 fotografij Mozele.
+579 Po mojih računih boš zmagal naslednjo značko. Ampak moji računi so redko pravilni.
+581 Luksemburški kremant ima zaščiteno označbo porekla! Tako kot moj Fromajus.
+582 Evropska centralna banka. Naloga: stabilnost cen. Inflacijski cilj: 2 % v srednjeročnem obdobju. Srednjeročno: ni določeno.
+583 Trgovec
+584 Trgi so nervozni. Vedno so nervozni. To je njihov poklic.
+585 Varčevalec
+586 Še vedno imam svojo blazino nemških mark. Nikoli ne veš.
+587 Pot ob Renu je zaprta za pripravnike brez Značke Euro. Pojdi k ga. Lagarde v ECB.
+588 Karl
+589 Stavil sem na tvoj poraz. Izgubil sem srajco. In kravato.
+591 Šok je bil eksogen. Popolnoma eksogen.
+593 Pozdravljen v Evropski centralni banki. Tu vsaka moja beseda premakne trge. Zato skrbno izbiram besede.
+594 Nekega dne marca 2020 sem rekla, da nismo tu zato, »da bi zmanjševali razmike v donosnosti«. Italijanski trgi so se sesuli. Učimo se.
+595 V moji areni moč mojih napadov sledi trenutni ključni obrestni meri. Pripravljen na malo denarne politike?
+596 Izjemno. Tvoja strategija je bila… predvidljiva, v dobrem pomenu besede. Tukaj je Značka Euro.
+597 Strasbourg je na jugu, za vinogradi ob Renu. Roberta Metsola vodi Parlament. Nikoli ji ne sekaj besede.
+598 Obrestne mere so danes stabilne. Izkoristi to, nikoli ne traja dolgo.
+599 ECB mi je vse razložila: inflacijo, obrestne mere, bilanco… Nič nisem razumel. Daj, razprava, da se sprostim!
+600 Hmm. Veš, pri nas, v Londonu, nekateri govorijo o izstopu iz Unije. To bi bilo smešno, kajne? …Kajne?
+602 Zeleni dogovor je bil predstavljen decembra 2019. Od tedaj se borimo za vsako vejico.
+604 Moj naslednji članek: »Komisija želi prepovedati izgubljene razprave«. Ni res, ampak bo šlo viralno.
+606 Alzaško vino in badensko vino se gledata čez Ren. Prej so bili topovi. Napredek!
+607 Strasbourg, uradni sedež Evropskega parlamenta. 12 plenarnih zasedanj na leto. 720 poslancev. Tisoči kovčkov.
+608 Evroposlanka
+609 Od leta 2014 dvanajstkrat na leto potujem med Bruseljem in Strasbourgom. To je… 132 selitev. Moji kovčki imajo več točk zvestobe kot jaz.
+610 Uradnik
+611 Na pomoč! Zasedanje se začne čez 2 minuti, kovčki poslancev pa še niso naloženi! Mi lahko pomagaš?
+612 Vsi kovčki so na krovu! Na, vzemi to, to je uradna nagrada logistične službe.
+613 Ni uspelo… No, rekli bomo, da se zasedanje začne z zamudo. Kot vedno. Poskusi znova, kadar želiš!
+614 No… spet bom jokal v kovček.
+615 Poslanec Muller
+616 Mojih 2000 amandmajev… zavrnjenih v celoti. Treba bo začeti znova v odboru.
+617 Poslanka Rossi
+618 Za lizbonsko pogodbo sem imela cel kovček zapiskov. Ostal je v Bruslju.
+619 Strežnik
+620 Tišina v dvorani! Gospa predsednica sprejme razprave šele po glasovanju. Želiš poskusiti glasovanje na plenarnem zasedanju?
+621 Sprejeto z večino! Predsednica te bo sprejela.
+622 Zavrnjeno… Kvorum ni bil dosežen. Poskusi znova!
+623 Tvoj glas je bil zabeležen. Predsednica te čaka.
+625 Seja je odprta. Predsednica Parlamenta od leta 2022, ponovno izvoljena 2024: vajena sem spoštovanja časa za govor.
+626 Imaš trideset sekund. Ah, že je konec. No, razpravljajva!
+627 Rezultat je jasen: sprejeto! Značka hemicikla je tvoja.
+628 In tukaj je evropska vozovnica Interrail. Z njo so ti odprte vse postaje. Tvoja naslednja značka je v Atenah.
+629 Pravijo, da Yanis Varoufakis tam predava… na motorju. Stopi na vlak na postaji v Strasbourgu.
+630 Razprava? Ne brez glasovanja na plenarnem zasedanju. Pojdi k strežniku.
+631 Naslednje zasedanje je čez mesec dni. Ne pozabi kovčkov!
+632 Atene. Zibelka demokracije, filozofije… in referenduma 5. julija 2015.
+633 Akropola je stara 2500 let. Preživela je Perzijce, Otomane in Trojko.
+634 Grški cestninar
+635 Pristanišče Pirej? Zaprto za obiskovalce. Pripada… partnerjem. Zelo partnerjem.
+636 Žal mi je, dostop do pristanišča je omejen. Pridi, ko bo stanje… bolj diplomatsko.
+638 Leta 2015 sem glasoval OXI. In potem… je zapleteno.
+639 Agent Trojke (ECB)
+640 Naše poročilo priporoča še več strogosti. Tudi za tvoje Euromone.
+641 Agent Trojke (IMF)
+642 Priznavamo nekaj napak v naših napovedih. Med nama.
+644 Prišel si po značko? Jaz sem prišel sem na motorju, v usnjeni jakni, brez kravate. Tako kot na sestanke Euroskupine leta 2015.
+645 Šest mesecev finančni minister. Po referendumu sem odstopil: 61 % za OXI. Demokracija je lepa, in trmoglava.
+646 Trojka me je čakala na ovinku. Ti si premagal njene agente. Pokaži mi, ali si močnejši od varčevanja!
+647 NAI! Ehm, mislim: bravo. Tukaj je Značka OXI, tovariš.
+648 Tvoja naslednja značka je v Londonu. Ampak pohiti: tam vse pogosteje govorijo o neki poti navzven.
+649 Spet grem predavati. O dolgu. Na motorju.
+650 Westminster. Tu je 23. junija 2016 Združeno kraljestvo s 51,9 % glasovalo za izstop iz Evropske unije.
+651 Kraljeva straža
+652 (Ne premakne se. Niti za Brexit.)
+653 Glavni urednik
+654 Jutri bo naslov o preveč ravnih kumarah. To je delovalo dvajset let.
+656 V devetdesetih letih sem bil dopisnik v Bruslju za Daily Telegraph. Pisal sem… domišljijske stvari. Get Brexit done!
+658 Pozdravljen v pubu! Pinto piva? Jaz sem dvajset let v Evropskem parlamentu razlagal, da tam ne bi smeli biti.
+659 28. junija 2016 sem evroposlancem vrgel v obraz: »Zdaj se ne smejite več, kajne?«. Niso se smejali. Tudi ti se ne boš.
+660 No. Zmagal si. Vzemi to Značko člena 50. Mi smo ga že uporabili.
+661 Še vedno si tu? Mi smo odšli, veš.
+662 Moram domov. Nimam več pravice biti pripravnik v Parlamentu. Ampak prej… še ena zadnja razprava. Za čast.
+663 Hvala, {P}. Pazi na direktivo zame. In na letni čas. Pri nas ga seveda nikoli ne bomo spremenili.
+664 Goodbye. Ali pa raje… see you later. Kdo ve?
+665 Oliver je odšel. Vlak za London se na blagajni ne bo več prikazal. Naslednja postaja: Budapest, ob Donavi.
+666 Országház, madžarski parlament, ob bregovih Donave. Največja stavba na Madžarskem. In največji veto.
+667 Mlada Madžarka
+668 Pravijo, da opozicija pridobiva na moči. Neki Péter Magyar vodi kampanjo po vsej državi.
+670 Madžari so glasovali 12. aprila 2026. Moja stranka, Tisza, je dobila dvotretjinsko večino. Odpira se nova stran!
+672 Zgradili smo ograjo. Predvsem je dobra za fotografiranje.
+673 Posebni svetovalec
+674 Predsednik vlade bo šel na kavo. To je pogajalska tehnika.
+676 Prišel si iskat dogovor? Tu je potrebno soglasje. In jaz se nikoli ne strinjam.
+677 Leta 2024 sem vodil Svet Unije z geslom »Make Europe Great Again«. Vas na kaj spominja?
+678 V moji areni lahko vsak krog postavim svoj VETO. In včasih… grem na kavo. Tako kot decembra 2023, med glasovanjem o Ukrajini.
+679 …No. Vzdržim se. Vzemi to Značko veta. Uradno nisem bil v dvorani.
+680 Nekaj mesecev pozneje, 12. aprila 2026, Madžari glasujejo. Stranka Tisza Pétra Magyarja zmaga z dvotretjinsko večino.
+681 Orbán je priznal poraz: »boleče, ampak jasno«. Hvala, pripravnik. Vrni se v Bruselj: zdi se, da ima GD za konkurenco težavo… z lobijem.
+682 Šel sem na kavo. Pridi pozneje. Veliko pozneje.
+683 Natakar
+684 Na trgu Lux se ob četrtkih zvečer zbere ves Bruselj na pijačo. Poslanci, asistenti… in lobisti. Predvsem lobisti.
+685 Klet? Rezervirana za člane. Si vpisan v register preglednosti? Ne? Jaz tudi nisem. Kar vstopi.
+686 Pomikaj se naprej, pripravnik. Tu se o poslih pogovarjajo odrasli.
+687 Naftni lobist
+688 Energetski prehod? Podpiramo ga. Od leta 2080 naprej.
+689 Tehnološki lobist
+690 Spoštujemo GDPR. Imamo celo pas za piškotke na 47 straneh.
+691 Kovčki? To so kovčki z dokumentacijo. Zelo dokumentirano.
+693 Decembra 2022 je belgijska policija v več stanovanjih v Bruslju našla vreče bankovcev. Temu so rekli »Katargate«.
+694 Bila sem podpredsednica Parlamenta. Obtožbe sem vedno zanikala. Na datum izida te igre v tej zadevi še ni bilo dokončne sodbe.
+695 Opomba: vsaka obtožena oseba velja za nedolžno, dokler ni obsojena.
+696 Glavni lobist
+697 Glej, glej. Pripravnik. Veš, koliko nas je v Bruslju? 25.000. In ti si eden.
+698 Tvoja direktiva o letnem času? Imam stranke, ki prodajajo ure. Ostala bo blokirana. Razen če…
+699 Dobro igrano. Uradno prijavljam svoj poraz v register preglednosti. In grem v zasebni sektor. Ah, tam že sem.
+700 Team Lobby se razkropi. Preiskave GD za konkurenco se lahko nadaljujejo!
+701 Odvetnik Big Techa
+702 Vložili bomo pritožbo. Nato pritožbo na pritožbo.
+703 Pravnik za konkurenco
+704 Zloraba prevladujočega položaja… Beseda »zloraba« je močna.
+706 Hvala, da smo se znebili Team Lobby. Moji dosjeji končno napredujejo!
+707 Google: 2,4 milijarde evrov kazni leta 2017, 4,3 milijarde leta 2018. Apple: 13 milijard evrov davčne pomoči za vračilo, potrjeno s sodbo leta 2024.
+708 Ali tvoja ekipa spoštuje pravila konkurence? Preverila bom. Osebno.
+709 Nobene kršitve ni zaznati. Značka kazni je tvoja. In vzemi tudi to: značko OLAF, urada za boj proti goljufijam.
+710 Prijavljajo… nenavadno prisotnost v enem krilu Parlamenta. Asistente, ki jih nihče nikoli ne vidi. S to značko jih boš videl.
+711 Danes brez kazni zate. Izkoristi to.
+712 Mrzel hodnik… Slišati je tipkovnice, ki tipkajo same od sebe. Ampak nikogar ni. Potreben bi bil način, da vidiš nevidno.
+713 Zaenkrat je bolje, da se vrneš nazaj.
+714 Asistent duh
+715 Mojo pisarno? Nikoli je nisem našel…
+716 Plačevali so me, da pomagam… stranki. Ne poslancu.
+717 Huu… Sprememba ure povzroči, da se prikažem dvakrat na leto…
+718 Moja pogodba pravi »lokalni asistent«. Lokalni za kaj? Skrivnost.
+719 Izginjam… končno…
+720 Hvala… da si me osvobodil te pogodbe…
+722 Afera parlamentarnih asistentov FN: sistem je plačeval uslužbence stranke z denarjem Evropskega parlamenta.
+723 Na prvi stopnji so me obsodili 31. marca 2025, nato na pritožbi 7. julija 2026: tri leta, od tega eno efektivno z elektronsko zapestnico, in petnajst mesecev prepovedi kandidiranja.
+724 S to kaznijo na pritožbi je njena kandidatura na predsedniških volitvah 2027 teoretično spet mogoča. Še vedno je mogoča zadnja pritožba na kasacijsko sodišče.
+726 Afera asistentov MoDem je nekaj drugega. Februarja 2024 so me oprostili »zaradi dvoma«. Tožilstvo se je pritožilo.
+727 Nato sem bil predsednik vlade… od decembra 2024 do septembra 2025. Čas v Matignonu hitro mine.
+728 Asistenti duhovi se ne ukvarjajo s politiko: strašijo vse stranke, ki so jih slabo zaposlovale.
+729 Prazna pogodba
+730 JAZ SEM… DUH VSEH POGODB BREZ PISARNE… VSEH STRANK… VSEH MANDATOV…
+731 Prazna pogodba se razblini v oblaku plačilnih list. Krilo duhov je končno mirno.
+732 Prispe sporočilo Roberte Metsole: »Hvala! Zadnja značka te čaka v Parizu, na Sorboni.«
+733 Sorbona. Tu je Emmanuel Macron izrekel dva velika govora o Evropi, 2017 in 2024. Drugi je trajal skoraj dve uri.
+734 Pot sem vprašal v angleščini. Odgovorili so mi v francoščini. Z nasmehom. Zelo rahlim.
+735 Diplomant ENA
+736 Napisal sem povzetek o svojem porazu. Obsega 80 strani.
+737 Državni sekretar
+738 Pravkar so me zamenjali med razpravo. To je rekord.
+740 Pozdravljen na Sorboni! Tu sem leta 2017 govoril o suvereni Evropi. Nato leta 2024 o Evropi, ki »lahko umre«.
+741 Leta 2019 sem rekel, da je Nato v stanju »možganske smrti«. Leta 2024 sem razpustil narodno skupščino. Rad imam… presenetljive odločitve.
+742 Torej razpravljajva, in obenem premišljujva. Strateška avtonomija!
+743 Čudovito! Imaš značaj velike Evropejke… ali velikega Evropejca. In obenem obeh. Značka Sorbone je tvoja.
+744 Z osmimi značkami te Evropski svet čaka v stavbi Europa, v Bruslju. Srečno: njihovi vrhi se redko končajo pred 5. uro zjutraj.
+745 Rad bi ti dve uri govoril o Evropi, ampak moraš prepričati Svet.
+746 Prolog — 9. maj 1950
+747 9. maj 1950
+748 Pariz, Quai d'Orsay, 18. ura
+750 Gospodje, hvala, da ste prišli. Na kratko bom. No… poskusil bom.
+751 (tiho) To pravi vsakič.
+752 (tiho) Robert. Stavek o premogu. Ne pozabi stavka o premogu.
+753 »Francoska vlada predlaga, da se celotna francosko-nemška proizvodnja premoga in jekla postavi pod skupno Visoko oblast.«
+754 Premog? Jeklo? Zaradi tega smo zamudili aperitiv?
+755 Pet let po vojni je ideja preprosta in nora: združiti tisto, s čimer se izdelujejo topovi.
+756 Da bi vojna postala »ne le nezamisljiva, ampak materialno nemogoča«.
+757 Šest držav leta 1951. Nato devet, dvanajst, petnajst, petindvajset… Danes sedemindvajset.
+758 In vsako jutro se nekje v Bruslju en pripravnik zbudi z zamudo.
+759 Poglavje 1
+760 Ponedeljek. Tvoja budilka kaže 6.58. Tvoj telefon 7.58. Enega od njiju niso obvestili o spremembi ure.
+762 PRVI DAN PRIPRAVNIŠTVA!
+763 Rue de la Loi. En croissant, trije dosjeji, nič dostojanstva.
+764 Kolesar
+765 Kolesarska steza! Tudi pripravniki spoštujejo uredbo 2019/1242! Vsaj mislim, da obstaja.
+766 {P}! Prvi dan, in že eno uro zamude. Jaz sem tu od 6.58. Po londonskem času, seveda.
+767 Profesor Schuman naju čaka v avli Parlamenta. Povedal sem mu, da si bolan. Zahvalil se mi boš pozneje.
+768 Poglavje 2 — Luksemburg
+769 Poglavje 2
+770 Most Adolphe prečka dolino Pétrusse. Spodaj vrtovi. Zgoraj banke. Na sredini tvoj vlak.
+771 Ah, mali Anglež! Pridi, da te poljubim!
+772 Sir, jaz… we don't do that. V Angliji si stisnemo roke. Od daleč. Z rokavicami.
+773 Tu je Luksemburg. Poljubljamo se na lice, trkamo po licu in v istem stavku govorimo štiri jezike. Moien, bonjour, guten Tag, hello!
+775 Moja Zlata arena je na Kirchbergu, pripravnik. Pridi, kadar želiš. Trkanje po licih je brezplačno. To je edina brezplačna storitev v soseski.
+776 Schengen, tri meje
+777 Schengen. Tu se Francija, Nemčija in Luksemburg dotikajo s konicami vinogradov.
+778 14. junija 1985 je pet držav tu, na ladji, podpisalo sporazum o odpravi mejnih kontrol. Na reki, ki JE meja. Na Mozeli imajo radi ironijo.
+779 Cestninar
+780 Trideset let že žigosam potne liste. In zdaj? Metulji gredo mimo brez vizuma.
+781 Preusmeril se bom. Žigosalec razglednic. To je trg prihodnosti.
+782 Poglavje 3 — Frankfurt
+783 Poglavje 3
+784 Frankfurt na Majni
+785 Frankfurt ponoči. Dva steklena stolpa, simbol evra, velik kot avtobus. Evropska centralna banka nikoli ne spi. Spremlja inflacijo.
+786 Vidiš to ročico? Ključna obrestna mera. Dvignem jo, cene se umirijo. Znižam jo, gospodarstvo zadiha.
+787 Po pomoti se je dotaknem s komolcem, in padejo tri vlade. Zato se nikoli ne naslonim na mizo.
+788 IT'S RAINING EUROS! Je to kvantitativno sproščanje?!
+789 Ne, gospod. To je klima razpihala bankovce z razstave. Vrni jih. Vse. Štejem.
+790 Poglavje 4 — Strasbourg
+791 Poglavje 4
+792 Enkrat na mesec se Parlament preseli iz Bruslja v Strasbourg. S poslanci, asistenti… in tisoči kovčkov.
+793 Evroposlanec
+794 Moj kovček je bil na več plenarnih zasedanjih kot jaz. Ima celo sedež v odboru za prevoz.
+795 Seja je odprta! …Kje so poslanci?
+796 Gospa predsednica, še vedno iščejo svoje kovčke na peronu.
+797 Potem glasujemo z dvigom rok. Imajo kovčki pravico do glasu? Ne? Škoda, oni so vsaj točni.
+798 Poglavje 5 — Atene
+799 Poglavje 5
+800 Akropola ob sončnem zahodu. Dva tisoč petsto let demokracije, filozofije… in sestankov, ki se končajo pozno.
+801 Gospod Varoufakis, vaš načrt ni skladen z našimi preglednicami.
+802 Vaše preglednice niso skladne z resničnostjo. Predlagam vam razpravo. Na motorju, če zmorete slediti.
+803 Mi se ne vozimo na motorjih. Mi dajemo priporočila.
+804 Potem priporočite sami sebi, da se umaknete. Čaka me arena.
+805 Poglavje 6 — London
+806 Poglavje 6
+807 London, v dežju. Kot vedno. Ampak tokrat v zraku visi nekaj težjega.
+808 Pinta za vse! In avtobus za kampanjo! Ni važno, kaj je napisano na njem, ljudje bodo prebrali avtobus, ne opomb pod črto.
+809 Brez panike! Obtičal sem na jeklenici, ampak to je strategija. Get Brexit done! In nekdo, lestev, prosim.
+810 Referendum
+811 23. junij 2016. 51,9 % volivcev se odloči za izstop iz Evropske unije.
+812 31. januarja 2020 ob polnoči po bruseljskem času — 23. uri v Londonu — Združeno kraljestvo ni več članica Unije.
+813 Veš, kaj je čudno? Na začetku nisem hotel biti tu. Hotel sem samo zmagati.
+814 In zdaj moram oditi, in nimam več volje. Ironic, isn't it?
+815 Vrnil se boš. Obstaja Erasmus, izmenjave, študentski vizumi…
+816 Erasmus? Tudi iz tega smo izstopili. Ampak najdem način. Angleži vedno najdejo način, da se vrnejo v Evropo. Temu pravimo dopust.
+817 Poglavje 7 — Budapest
+818 Poglavje 7
+819 Madžarski parlament, pozlačen ob Donavi. Največja stavba v državi. In največja zbirka žigov »VETO« v Evropi.
+820 Evropski proračun? Veto. Pomoč Ukrajini? Veto. Nova barva značk Sveta? Veto. Iz principa.
+821 Gospod predsednik vlade, to je bilo naročilo za vaše kosilo.
+822 …Veto vseeno. Ne maram, da se odloča zame.
+823 12. april 2026
+824 Madžari! Nocoj nismo zmagali proti Evropi, niti proti sosedom. Zmagali smo zase!
+825 Množica
+826 TISZA! TISZA! TISZA!
+827 Ne kujam se. Premišljujem. Obrnjen s hrbtom. Z oblakom nad glavo. To je zelo drugače.
+828 December 2022 — zarja
+829 Bruselj, december 2022. Ob zori belgijska policija izvaja preiskave okrog trga Lux.
+830 Policist
+831 Šef, tu so vreče. Z bankovci notri. Veliko bankovcev.
+832 Policijski šef
+833 Preštejte jih. In ne dotikajte se nogometne žoge, morda je dokaz.
+834 Odgovorni v Parlamentu in njihovi bližnji so pridržani. Preiskava se nanaša na domnevno korupcijo v korist tujih držav.
+835 Vse obdolžene osebe veljajo za nedolžne, dokler niso dokončno obsojene.
+836 (v daljavi) Mi nimamo nič s tem. Mi plačujemo s prigrizki. Bolj diskretno je.
+837 GD za konkurenco
+838 Še ena kazen. Podpišem, se nasmehnem, pletem slona. Zelo pomirjujoče je.
+839 Gospa komisarka, digitalni velikani prosijo za podaljšanje roka.
+840 Odobreno. Imajo čas do… zdaj.
+842 Uredba o digitalnih storitvah velja za vse, gospod Musk. Tudi za omrežja, ki vsakih šest mesecev spremenijo ime.
+844 Odgovarjam z memom. To je moje uradno pravno stališče.
+845 Jaz odgovarjam s pismom na štirih straneh. To je moje.
+846 Vsak vleče telefon na svojo stran. Telefon pa prikazuje »baterija skoraj prazna«.
+847 Stolp asistentov duhov
+848 Z značko OLAF nevidno postane vidno. Prozorni asistenti lebdijo po hodniku, s plačilno listo v roki.
+849 Pozdravljen… Tukaj delam od leta 2009… Pravzaprav, moja pogodba dela tukaj… Jaz pa nisem nikoli prišel…
+850 Moji delodajalci so tam zgoraj. Pravijo, da me ne poznajo. Za duha je to žaljivo.
+851 (za vrati) Nisem tu. In če sem, je to zaradi dvoma.
+852 Poglavje 9 — Pariz
+853 Poglavje 9
+854 Pariz v zlati uri. Eifflov stolp, Sena, in nekje govor, ki se začne in ne konča.
+855 Evropa mora biti suverena! Mogočna! Humanistična! In dodal bi, če dovolite, in si bom dovolil…
+856 Študent
+857 Koliko časa že govori?
+858 Študentka
+859 Eno uro in štirideset minut. Pravkar je končal uvod.
+860 Jaz sem za strogost IN za investicije. Za odprtost IN za zaščito. Strinjam se z vami IN z vašim nasprotnikom.
+861 Kako se temu reče?
+862 »Obenem«. To je patentirano. No, obenem je tudi prosto dostopno.
+863 April 2021 — Ankara
+864 April 2021, Ankara. Trije voditelji vstopijo v sobo. Na voljo sta dva fotelja.
+866 (že sedi) Oh. Oh ne. Pravkar sem razumel.
+867 Ne, ne, kar pustite. Na tem kanapeju je čisto v redu. Dolg je. Bež je. Oddaljen je.
+868 Dogodek bo pod imenom »Sofagate« obkrožil svet. Od tedaj Charles Michel preveri število stolov, preden kamorkoli vstopi.
+869 Poglavje 10 — Evropski svet
+870 Poglavje 10
+871 Noč Evropskega sveta
+872 Stavba Europa. V njeni stekleni svetilki se zbirajo voditelji držav in vlad. Vrhi se začnejo ob 15. uri. Končajo se… pozneje.
+873 Dragi kolegi, ura je 4.12. Še moramo urediti eno vejico v odstavku 37.
+874 Poznam vrhe, kjer smo se o vejici pogajali do zajtrka. To je bila zelo lepa vejica.
+875 Predlagam vejico. Ne glede na ceno.
+876 Predlagam, da naročimo še pice, preden kdo predlaga podpičje.
+877 DOGOVOR! Ura je 5.03. Sklepi so sprejeti. Lahko kdo zbudi predsednika vlade, ki spi pod mizo?
+878 13. nadstropje
+879 Berlaymont ob sončnem zahodu. Trinajst nadstropij. V zadnjem čaka predsednica Komisije.
+880 Charles, lahko nehate biti užaljeni? Že pet let je tako.
+881 Ne kujam se. Gledam steno. Zelo zanimiva je, ta stena. Nima fotelja.
+882 {P}. Končno ste tu.
+883 Želite direktivo? Premagajte me. Team Europe, na koncu bo ostal samo eden.
+884 Zid pripravnikov
+885 Na 13. nadstropju dolg hodnik nosi fotografije vseh pripravnikov Komisije. Nihče jih nikoli ne pogleda.
+886 Danes so obesili nov zlat okvir. In za enkrat se nekdo ustavi, da ga pogleda.
+887 Poglavje 11 — Velike sile
+888 Poglavje 11
+889 Velike sile
+890 Pristanišče Antwerpen. Predsedniško letalo pristane. Galebi previdno odletijo proti Nizozemski.
+891 TV voditeljica
+892 Posebna izdaja! Washington, Moskva in Peking hkrati pošiljajo sporočila Evropi. Trgi se odločajo med paniko in počitkom.
+893 Gost v kavarni
+894 Spet? Še svoje vaflje nisem pojedel.
+895 Natakar
+896 Vaflja, gospod. Ženskega spola, prosim. Tako kot Komisija.
+897 Istočasno v Pireju pristane kontejnerska ladja, velika kot mesto. Nihče ne ve natančno, kaj prevaža. Niti kaj kupuje.
+898 Antwerpen — golf igrišče
+899 Poglej to igrišče. Med dvema zabojnikoma. Najlepše golf igrišče v zgodovini pristanišč.
+900 Gospod predsednik, torba za golf je zelo težka. Jo lahko obdavčimo?
+901 Čudovit udarec, ata! Ehm… gospod predsednik!
+902 Vsaka žogica, ki zapusti ZDA, plača carino. Tudi ta. Predvsem ta. Je padla v reko Šeldo? ZELO NEPRAVIČNO.
+903 Varšava — sneg
+904 Palača na koncu planjave? Tam te čaka. Vzemi šal. In megafon, za mizo.
+905 Povedal ti bo, da je Evropi brez njega mrzlo. Pokaži mu, da se je Evropa naučila ogreti sama.
+906 Miza
+907 Bela miza. Zelo bela. Zelo dolga. Tako dolga, da ima svoj časovni pas.
+908 (zelo na glas) DOBER DAN!
+909 Tri sekunde pozneje se odmev vrne z drugega konca dvorane.
+910 Zelo dobro vas slišim. Vi ste preblizu.
+911 Pirej
+912 Darilo. Panda iz blaga. Simbolizira prijateljstvo med našima ljudstvoma.
+913 Zelo je sladek. Hvala. …Zakaj je pristanišče ravnokar zamenjalo zastavo?
+914 Strateško partnerstvo. Vi obdržite pando. Mi obdržimo pristanišče. Vsi so zadovoljni.
+915 Grški pristaniški delavec
+916 Jaz bi raje imel pravega pando. Jé bambus, vsaj nič ne odkupuje.
+917 Vrh G-Vse
+918 Vrh G-Vse. Tri velike sile. Ena miza. In Evropa, ki so jo postavili na zložljiv stolček.
+919 Evropa mora izbrati: mene.
+920 Evropa mora izbrati: mene. Ali mraz.
+921 Evropa lahko izbira. Mi smo že kupili obe možnosti.
+922 Evropa vstane
+923 Evropa ne izbere gospodarja. Izbere, da ostane skupaj. Sedemindvajset držav, štiriindvajset jezikov, ena miza. Naša.
+924 Odhajam. JAZ sem se odločil, da odidem. Nihče me ni premagal.
+925 Tudi jaz odhajam. Vrata so bila itak preblizu mene.
+926 Odhajamo. Ampak ostajamo partnerji. In tekmeci. In rivali. Lep večer.
+927 Tri vrata zaloputnejo. Tri velike sile se kujajo. In v dvorani pripravniki ploskajo.
+928 Epilog
+929 Bruselj, večer ob koncu pripravništva
+930 Grand-Place v Bruslju. Modri in zlati ognjemeti nad mestno hišo narišejo dvanajst zvezd.
+931 {P}, v imenu vseh institucij, tukaj je tvoje potrdilo o zaključku pripravništva. Podpisano, overjeno in prevedeno v štiriindvajset jezikov.
+932 Malteška različica ima tipkarsko napako. To je tradicija.
+933 {P}! WAIT! Ne začenjajte brez mene!
+934 Oliver?! Ampak… kako?
+935 Vizum za mladega strokovnjaka, zavarovanje, dva obrazca, trije žigi. Pravi Euromon papirologije. Vrnil sem se. Kot turist. Ampak vrnil!
+936 Skupinska fotografija! Vsi skupaj! Trkanje po licih pride potem.
+937 Na fotografiji sem samo, če nikomur ne poveste, da sem bil na fotografiji.
+938 (izven kadra) Veto na fotografijo.
+939 Nima več pravice do veta. Nasmeh!
+940 »Ne združujemo držav, združujemo ljudi.« In ženske, in pripravnike.
+941 Konkretni dosežki. Dejanska solidarnost. Bravo, mali. In zdaj… pojdi spat. Jutri je usklajevalni sestanek o sestankih.
+942 Rim, 25. marec 1957
+943 Kapitolski trg. 25. marca 1957 je tu šest držav podpisalo rimske pogodbe. Kamen se spominja. Začne žareti.
+944 Maastricht, 7. februar 1992
+945 Meza ponoči. Tu se je rodila Evropska unija, in ideja o enotni valuti. Svetleči kovanci se dvigujejo na gladino vode.
+946 Lizbona, 13. december 2007
+947 Zarja nad Tajom. Pred samostanom Hieronimitov strani pogodbe začnejo lebdeti, nato leteti.
+948 Pozdravljen v menzi! Kava, sendvič, in tvoji Euromoni so spet pri močeh… ehm, kot leta 57.
+949 Naj poskrbim za tvojo ekipo?
+950 In glej! Vsi so v top formi. Kava pa je še vedno mlačna.
+951 Kot želiš. Ampak ne pridi jokat na naslednjo razpravo!
+952 Pozdravljen! Evropska postaja, enotno okence. Tvojo vozovnico Interrail, prosim… Odlično. Kam gremo?
+953 Žal mi je, mednarodni vlaki so rezervirani za lastnike vozovnice Interrail. Pravijo, da jo dobiš v Strasbourgu.
+954 Tu jem od leta 1993. Meni se je spremenil samo enkrat: ob prihodu evra.
+955 Bankir
+956 Tu je tudi kava davčno registrirana drugje.
+957 Ekonomist
+958 Cena sendviča je od leta 2021 narasla za 12 %. Moj model je napovedoval 2 %. Moj model je lačen.
+959 Parlamentarni asistent
+960 Štiri dni na mesec tukaj, ostalo v Bruslju. Moje zelene rastline me ne prepoznajo več.
+961 Natakarica
+962 Café frappé? To je edina stvar, ki je Trojki nikoli ni uspelo reformirati.
+963 Gospod
+964 Prej smo se pritoževali nad Bruseljem. Zdaj se pritožujemo, da se ne moremo več pritoževati nad Bruseljem.
+965 Tu jemo golaž. In razpravljamo, diskretno.
+966 Filozof
+967 Mislim, torej kosim. In kosim dolgo: to je Pariz.
+968 Stranka
+969 Iščem polnilnik… Ah ne, res je, zdaj je povsod USB-C. Kakšna sreča.
+970 Cene so brez davka. Seveda.
+971 Stranka
+972 Vse plačam v gotovini. Nemci oboževajo gotovino.
+973 Prišel sem kupit žige. Moja šefica želi žigosati Euromona spremembe ure.
+974 Vse je na pol cene! Ah ne, to je DDV, ki se je podvojil.
+975 Je cena v librah, v evrih, ali v volilnih obljubah?
+976 Prodajalec me je vprašal za mnenje o vladi. Rekel sem: »veto«.
+977 Eno baguette, en žig in eno demonstracijo, prosim.
+978 Potnica
+979 Moj vlak za Strasbourg ima štiri ure zamude. Pa tudi Parlament, mimogrede.
+980 {P}! Presenečenje! Vzel sem Eurostar. S potnim listom, obrazcem in dveurno vrsto. Prišel sem prosit… da se vrnem. Rejoin?
+981 Ampak najprej razprava. Kot v starih dobrih časih!
+982 Kakšno pripravništvo! No, pravijo, da je za ponovni vstop treba izpogajati 35 poglavij. Začnem jutri. Cheers, {P}!
+983 Poglavje 1 od 35: »prost pretok blaga«. Gre naprej!
+984 Potnik
+985 V Luksemburgu je javni prevoz brezplačen od leta 2020. Tudi za pripravnike!
+986 Vozim se med Frankfurtom in Bruseljem. Vsako kravo ob progi poznam po imenu.
+987 Ti železni kovčki so vsi evroposlancev. Potujejo več kot jaz.
+988 Vlak za Pirej? Zaprt. Pravijo, da je nekdo odkupil pristanišče.
+989 Eurostar zdaj zahteva potni list. Prevzeli smo nadzor. Čakalne vrste.
+990 Donava teče skozi deset držav. Jaz pa poskušam samo prečkati eno brez nadzora.
+991 Stavka na francoskih železnicah. Ah ne, samo torek je.
+992 Pristaniški delavec
+993 Antwerpen, drugo največje pristanišče v Evropi. Tu vidiš mimo vsega. Tudi carin.
+994 Brez plina je tako mrzlo, da pingvini prosijo za azil.
+995 Vse poti vodijo v Rim. Tudi vlaki, z zamudo.
+996 Tu so leta 1992 podpisali pogodbo. Bilo je sončno. To je bilo edinkrat.
+997 Lizbona, 2007: podpisali so pogodbo, ki je bila zelo podobna ustavi. Pšt.
+998 Danes je 9. maj: dan Evrope! Zastave plapolajo po vsej evropski četrti.
+999 Redek Euromon, ki ga privlačijo praznovanja, se prikaže izza kupa dosjejev!

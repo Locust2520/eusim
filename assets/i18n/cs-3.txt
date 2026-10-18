@@ -1,0 +1,501 @@
+# Čeština — ids 1000-1499
+1000 Šťastný Den Evropy! Na shledanou příští rok.
+1001 Techno
+1002 Federální
+1003 Suverénní
+1004 Liberální
+1005 Sociální
+1006 Zelený
+1007 Průmysl
+1008 Energie
+1009 Právní
+1010 Měnový
+1011 Agrární
+1012 Digitální
+1013 Diplo
+1014 Lobby
+1015 Populista
+1016 Duch
+1017 Pozměňovací návrh
+1018 Upravuje protivníkův text, odstavec po odstavci.
+1019 Papírování
+1020 Zavalí cíl formuláři.
+1021 Interní sdělení
+1022 Interní poznámka, velmi důrazná.
+1023 Schůzka
+1024 Koordinační schůzka, která všechny uspí.
+1025 Suché razítko
+1026 Přesný a úřední otisk razítka.
+1027 Komitologie
+1028 Nikdo nechápe proceduru. Ani cíl.
+1029 Korektura
+1030 Čte si znovu svůj spis. Výrazně zvyšuje Odolnost.
+1031 Směrnice
+1032 Závazný text, který je nutno urychleně provést.
+1033 Nařízení
+1034 Přímo použitelné ve všech členských státech.
+1035 Trialog
+1036 Parlament, Rada, Komise: zasáhne 2 až 5krát.
+1037 Naléhavost
+1038 Zrychlené řízení: jedná jako první.
+1039 Pauza na kávu
+1040 Káva v kantýně. Obnoví polovinu HP.
+1041 Plagiát
+1042 Opíše poslední útok protivníka.
+1043 Výroční zpráva
+1044 Nabíjí jedno kolo, pak udeří 400 stranami.
+1045 Integrace
+1046 Malý krok k stále užší unii.
+1047 Subsidiarita
+1048 Jedná na správné úrovni. Zvyšuje Diplomacii.
+1049 Spojené státy EU
+1050 Velký federální sen, vypuštěný v plné síle.
+1051 Team Europe
+1052 Všichni spolu! Solidární útok.
+1053 Jednotný trh
+1054 Zrušuje hranice… a protivníkovu Diplomacii.
+1055 Dvanáct hvězd
+1056 Dvanáct zlatých hvězd, které nikdy nezklamou.
+1057 Lídr kandidátky
+1058 Kampaň Spitzenkandidáta. Častá kritika.
+1059 Rozšíření
+1060 Přijímá nové členy. Argumentace +2.
+1061 Blokuje jakýkoli útok toto kolo. Jednomyslnost je svatá.
+1062 Hranice
+1063 Obnovuje kontrolu. Může snížit Reaktivitu.
+1064 Opt-out
+1065 Vyjímá se ze společných pravidel. Odolnost +2.
+1066 Referendum
+1067 Jednoduchá otázka, komplikované důsledky.
+1068 Článek 7
+1069 Suspenduje práva. Protivníkova Argumentace -2.
+1070 Odchází z boje… pokud jednání dospějí k závěru.
+1071 Rabat
+1072 „I want my money back!“ Obnoví HP.
+1073 Suverenita
+1074 Znovu převezme kontrolu, s rachotem.
+1075 Hospodářská soutěž
+1076 Volná a nenarušená, ale bolí to.
+1077 Volný obchod
+1078 Obchodní dohoda s nulovými cly.
+1079 Deregulace
+1080 Odstraňuje ochrany. Protivníkova Odolnost -2.
+1081 Start-up
+1082 Disruptivní a rychlý. Jedná jako první.
+1083 Neviditelná ruka
+1084 Nikdy ji nevidíte přicházet. Nikdy neminí.
+1085 Zároveň
+1086 Z pravice i z levice, zasáhne 2 až 5krát.
+1087 Trickle-down
+1088 Nechá na bojiště deštít eura.
+1089 Stávka
+1090 Vše se zastaví. Zmrazí fondy cíle.
+1091 Sociální pilíř
+1092 Pevný evropský pilíř sociálních práv.
+1093 Minimální mzda
+1094 Směrnice z roku 2022 o přiměřených mzdách.
+1095 Demonstrace
+1096 Moře transparentů. Může zastrašit.
+1097 Solidarita
+1098 Sdílí zátěž. Obnoví polovinu HP.
+1099 Řecké „ne“ z července 2015. Zpětný ráz zaručen.
+1100 Erasmus
+1101 Výměna, která otevírá mysl. Může zvýšit Odbornost.
+1102 Zelená dohoda
+1103 Green Deal z roku 2019 přímo do tváře.
+1104 Opětovné zalesnění
+1105 Vysazuje stromy. Obnoví polovinu HP.
+1106 Uhlíková daň
+1107 Mechanismus uhlíkového vyrovnání na hranicích. Může snížit Odbornost.
+1108 Neutralita 2050
+1109 Nulové čisté emise, jednou ranou.
+1110 Kompost
+1111 Silně to páchne. Může vystavit vlivu lobby.
+1112 Přichycené víčko
+1113 Směrnice 2019/904: víčko se už cíle nepouští.
+1114 Fit for 55
+1115 -55 % emisí do roku 2030, a bolí to.
+1116 Kolo
+1117 Expresní cyklostezka. Jedná jako první.
+1118 Uhlí
+1119 ESUO z roku 1951 jako koule na noze. Může vyvolat skandál.
+1120 Ocel
+1121 Evropská ocelová pěst.
+1122 Vysoká pec
+1123 Extrémní žár. Může vyvolat skandál.
+1124 Přesun výroby
+1125 Odchází jinam. Může snížit protivníkovu Reaktivitu.
+1126 Airbus
+1127 Evropský šampion v klesavém letu.
+1128 Montážní linka
+1129 Výrobní linka: zasáhne 2 až 5krát.
+1130 Průmyslový plán
+1131 Obnovuje výrobní nástroj. Argumentace +2.
+1132 Jiskra
+1133 Malý zkrat. Může zmrazit fondy.
+1134 Fise
+1135 Euratom, 1957. Energie atomu.
+1136 Větrná turbína
+1137 Lopatky se otáčí… a hlava také.
+1138 Kohoutek plynu
+1139 Zastaví dodávky. Zmrazí fondy.
+1140 REPowerEU
+1141 Plán z roku 2022 na odpojení. Odbornost +2.
+1142 Přepětí
+1143 Prudký výboj se zpětným rázem.
+1144 Fuze
+1145 Reaktor ITER v plné síle.
+1146 Cenový strop
+1147 Omezuje protivníka. Odbornost -2.
+1148 Výzva
+1149 První úřední upozornění.
+1150 Řízení o porušení
+1151 Pěkně citelné řízení o porušení povinnosti.
+1152 Rozsudek SDEU
+1153 Lucemburk rozhodl. Žádné odvolání není možné.
+1154 Miliardová pokuta. Mince létají na všechny strany.
+1155 Vyšetřování OLAF
+1156 Úřad pro boj proti podvodům vyšetřuje. Může zablokovat cíl.
+1157 GDPR
+1158 Chrání data. Protivníkův Úhyb -2.
+1159 Judikatura
+1160 Opírá se o precedenty. Odbornost +2.
+1161 DSA
+1162 Nařízení o digitálních službách. Může snížit Odbornost.
+1163 Euromince
+1164 Hod mincí 2 €. Panna, nebo orel?
+1165 Klíčová sazba
+1166 Zvedá sazby. Může zpomalit cíl.
+1167 Tiskárna peněz
+1168 Kvantitativní uvolňování podle libosti.
+1169 Úsporná opatření
+1170 Utáhněte si opasky. Protivníkova Argumentace -2.
+1171 Whatever it takes
+1172 „Ať to stojí, co to stojí“ (Draghi, červenec 2012). Vždy uspěje.
+1173 Inflace
+1174 Okusuje kupní sílu, kolo po kole.
+1175 Spread
+1176 Úrokový rozdíl vyletí vzhůru. Častá kritika.
+1177 Plán obnovy
+1178 NextGenerationEU, 750 mld. €. Obnoví polovinu HP.
+1179 Traktor
+1180 Blokuje silnici. Může zpomalit cíl.
+1181 SZP
+1182 Společná zemědělská politika: obnoví HP.
+1183 Kejda
+1184 Rozvezená před prefekturou. Může kontaminovat.
+1185 AOP
+1186 Chráněné označení původu. Odolnost +2.
+1187 Sklizeň
+1188 Rekordní úroda, přímo do hlavy.
+1189 Glyfosát
+1190 Znovu povolen na deset let v roce 2023. Může otrávit vlivem.
+1191 Křivý banán
+1192 Nařízení z roku 1994 o kvalitě banánů. Matoucí.
+1193 Cookie lišta
+1194 Lišta, kterou nelze zavřít. Zmrazí cíl.
+1195 Chyba
+1196 Chyba 404. Může dezinformovat.
+1197 Algoritmus
+1198 Personalizované doporučení, velmi personalizované.
+1199 USB-C
+1200 Univerzální nabíječka, povinná od roku 2024.
+1201 Fake news
+1202 Virální fáma. Dezinformuje cíl.
+1203 Roaming
+1204 Žádné poplatky za roaming! Jedná jako první.
+1205 AI Act
+1206 První celosvětové nařízení o umělé inteligenci (2024).
+1207 Trolling
+1208 Nepříjemný komentář. Může znervóznit.
+1209 Podání ruky
+1210 Pevné a dlouhé, před fotografy.
+1211 Jednání do 5 hodin ráno. Uspí cíl.
+1212 Kompromis
+1213 Každý trochu prohraje, vy získáváte HP.
+1214 Sankce
+1215 Nový balíček sankcí. Může snížit Diplomacii.
+1216 Gauč
+1217 Sofagate (Ankara, 2021): cíl ztrácí tah. Jen 1. kolo.
+1218 Tlumočení
+1219 Překládá do 24 jazyků. Něco se ztrácí.
+1220 Dohoda
+1221 Historická dohoda, podepsaná na poslední chvíli.
+1222 Soft power
+1223 Evropské kouzlo. Diplomacie +2.
+1224 Mini sendviče
+1225 Koktejl na náměstí Lux. Cíl se dostává pod vliv.
+1226 Kufr
+1227 Dobře naplněný kufr, hozený s rozmachem.
+1228 Pytel bankovek
+1229 Bankovky všude. Bojiště je jimi pokryté.
+1230 Pozměňovací stanovisko
+1231 Hotový pozměňovací návrh, už napsaný.
+1232 Pantoflíčkování
+1233 Přechod do soukromého sektoru. Reaktivita +2.
+1234 Vliv
+1235 Slovo zašeptané do správného ucha.
+1236 Otočné dveře
+1237 Už nikdo neví, kdo pro koho pracuje.
+1238 Slogan
+1239 Tři slova, žádné nuance.
+1240 Červený autobus
+1241 „350 milionů týdně!“ Může dezinformovat.
+1242 Megafon
+1243 Křičí hlasitěji než všichni ostatní.
+1244 Euromýtus
+1245 Legenda o Bruselu, velmi přesvědčivá.
+1246 TREMENDOUS
+1247 Nejlepší útok všech dob. Argumentace +3.
+1248 Cla
+1249 Liberation Day (2. dubna 2025). Může snížit Odolnost.
+1250 Post velkými písmeny
+1251 ZPRÁVA NAPSANÁ CELÁ VELKÝMI PÍSMENY.
+1252 Not laughing
+1253 „You're not laughing now!“ (2016). Může snížit Diplomacii.
+1254 Fiktivní pracovní místo
+1255 Práce, která neexistuje, ale stojí peníze.
+1256 Zmizení
+1257 Nenalezitelný v kanceláři. Úhyb +2.
+1258 Vymazaná SMS
+1259 Žádná zpráva nezůstává. Zruší protivníkovy bonusy.
+1260 Strašidlo
+1261 Spis, který se vrátí strašit svého autora.
+1262 Výplatní páska
+1263 Mzda vyplacená za nic. Obnoví HP.
+1264 Ektoplazma
+1265 Velkolepé zjevení v Parlamentu.
+1266 Ústava
+1267 Zamítnutá v roce 2005… ale s šílenou silou.
+1268 Římská smlouva
+1269 1957: založení EHS.
+1270 1992: Unie a jednotná měna.
+1271 2007: smlouva, která nahradila Ústavu.
+1272 Vzácné zeminy
+1273 Omezuje export. Může zmrazit fondy.
+1274 Dlouhý stůl
+1275 Přijímá na konci šestimetrového stolu. Úhyb +2.
+1276 Systémový rival
+1277 Partner, konkurent, rival. Může snížit Diplomacii.
+1278 Grónsko
+1279 Pokouší se koupit celý ostrov. Velké škody.
+1280 Narodil se se Zelenou dohodou z roku 2019. Pokaždé, když se schválí emisní norma, vyrazí mu výhonek.
+1281 Klimatický cíl
+1282 Trénuje, aby snížil své emise o 55 % do roku 2030. Počítá každou kalorii.
+1283 Neutralita
+1284 Usiluje o uhlíkovou neutralitu v roce 2050. Do té doby zasadí strom při každém kroku.
+1285 Malá hromádka uhlí z ESUO roku 1951. Nadšeně začerňuje vše, čeho se dotkne.
+1286 Jeho komín vyráží jiskry, když se rozčílí. Sní o plné zaměstnanosti.
+1287 Společná ocel
+1288 Vykovaná ze sloučeného uhlí a oceli. Je důkazem, že se mír vyrábí.
+1289 Atom
+1290 Malý zvídavý atom, zrozený ze smlouvy Euratom z roku 1957. Nevydrží na místě.
+1291 Reaktor
+1292 Jeho elektrony se otáčí tak rychle, že osvětlí celou místnost. Hospodárnost volitelně.
+1293 Rozpůlí se, když je rozzlobený. On a Zelení si pak dlouho nepromluví.
+1294 Razítko
+1295 Živé razítko, které orazí vše, co potká. Už orazítkoval i svého vlastního trenéra.
+1296 Spisovka
+1297 Parafuje každou stranu vpravo dole. Na jednu smlouvu potřebuje čtyři hodiny.
+1298 Ratifikace
+1299 Pohne se jen tehdy, když 27 národních parlamentů řekne ano. Proto hodně spí.
+1300 Rozmnoží se po tisících při každém právním předpisu. Parlament jich někdy obdrží 2000 na jednu zprávu.
+1301 Obstrukce
+1302 Podá tolik pozměňovacích návrhů, že zablokuje celé zasedání. Osvědčená technika.
+1303 Cookie lišta
+1304 Objevuje se před každými dveřmi od GDPR z roku 2018. Odmítnutí nikdy nestačí.
+1305 Souhlas
+1306 Žádá váš souhlas se vším, a pak i se samotným souhlasem. Je velmi slušný.
+1307 Nabíječka
+1308 Povinná na všech zařízeních od konce 2024. Zrušila práci celé zásuvce kabelů.
+1309 Víčko
+1310 Od července 2024 už neopouští svou lahev. Udeří vás do nosu, když se napijete.
+1311 Zmizelé brčko
+1312 Zakázané od roku 2021, myslelo se, že zmizelo. V noci straší fast foody.
+1313 Banán
+1314 Nařízení z roku 1994 určuje jeho kvalitu. Celý život měří svou vlastní křivost.
+1315 Roaming
+1316 Od června 2017 cestuje všude zdarma. Volá mamince z každé hranice.
+1317 Bez hranic
+1318 Za jeden víkend navštívil všech 27 zemí a vše vysílal naživo. Bez příplatku.
+1319 Tento malý hlodavec vyráží na semestr do zahraničí a vrátí se dvojjazyčný. Narozen 1987.
+1320 Výměna
+1321 Žil v 12 spolubydleních a vaří těstoviny v 9 jazycích.
+1322 Mince
+1323 Mince 2 €, která se kutálí všude od roku 2002. Má 27 možných národních stran.
+1324 Jednotná měna
+1325 Dvacet zemí sdílí jeho sílu. Když jeden kašle, ostatní mají horečku.
+1326 Volný pohyb
+1327 Narozen na lodi na Mosele v roce 1985. Žádná hranice ho nezastaví.
+1328 Herbicid
+1329 Znovu povolen na deset let v roce 2023. Divoké byliny se před ním třesou.
+1330 Lobbista
+1331 Potlouká se po koridorech s kufříkem větším, než je on sám. Nedělá lobbing, „informuje“.
+1332 Influencer
+1333 Zná číslo každého parlamentního asistenta. A jejich alergie.
+1334 Mega-lobby
+1335 Jeden z 25 000 bruselských lobbistů, ve velkém vydání. Přepisuje zákony ve spánku.
+1336 Železný kufr
+1337 Železný kufr, který jezdí mezi Bruselem a Strasburkem dvanáctkrát do roka. Trpí nemocí z cestování.
+1338 Stěhování
+1339 Nosí v břiše celý parlament. Cena cesty: na to se neptejte.
+1340 Změna času
+1341 Parlament odhlasoval jeho zánik v roce 2019. Přesto se vrací dvakrát do roka.
+1342 Podvod
+1343 Podvádí při kontrolách od roku 2015: čistý na zkušebně, kouřící na silnici.
+1344 Vede kampaň za předsednictví… a pak je na jeho místo jmenován jiný.
+1345 Tlumočník
+1346 Mluví 24 jazyky a vždy se dvousekundovým zpožděním.
+1347 Tři hlavy: Parlament, Rada, Komise. Dohodnou se tak kolem 4 hodiny ráno.
+1348 Nikdo přesně neví, co dělá. Přesto sedí ve 300 výborech.
+1349 Formulář
+1350 Hromada formulářů ve trojím vyhotovení. Vždycky chybí jedna strana.
+1351 Archiv
+1352 Uchovává vše, i post-ity z roku 1958. Řazení: abecední a emocionální.
+1353 Malý zemědělec
+1354 Dostává dotaci ze SZP za každý hektar. Počítá své hektary každé ráno.
+1355 Spolkne třetinu evropského rozpočtu, aniž by mrkl. Vždycky je hladový.
+1356 Zemědělská politika
+1357 Když zablokuje dálnici svými traktory, i Rada začne vyjednávat.
+1358 Parkuje před Parlamentem při každé reformě. Klakson zaručen.
+1359 Sýr
+1360 Malý sýr ze syrového mléka, který velmi silně páchne. Je hrdý na svůj region.
+1361 Chráněný chráněným označením původu. Jakékoli napodobení je trestně stíháno.
+1362 Pralinka
+1363 Velmi milá belgická čokoláda. Rozpustí se, když se jí udělá komplement.
+1364 Belgický hranolek
+1365 Pečený dvakrát, jak se patří. Zásadně odmítá, aby se mu říkalo „French“.
+1366 Holub
+1367 Žije na náměstí Lucemburk a krade hranolky lobbistům. Zná všechny klepy.
+1368 Panáček
+1369 Malá 55centimetrová soška, která má víc kostýmů než celý Parlament.
+1370 Atomium
+1371 Devět ocelových koulí spojených krystaly, od Expa 58. V noci září nad Bruselem.
+1372 Stážista
+1373 Hodně pracuje a není placen. Říká, že je to „rozvíjející zkušenost“.
+1374 Dočasný zaměstnanec
+1375 Jeho smlouva končí za tři měsíce. Obnovuje ji už šest let.
+1376 Uspěl v konkurzu EPSO. Už se nebojí ničeho, kromě reformy důchodů.
+1377 Hudrák
+1378 Je proti. Nezáleží na čem, je proti.
+1379 Řečník
+1380 Vylézá na všechny stoly, aby burcoval dav. I v kantýně.
+1381 Demagog
+1382 Slibuje všem všechno. Jeho sliby se vypaří za rozbřesku.
+1383 Falešná zpráva
+1384 Mění tvar podle toho, kdo se na něj dívá. Je velmi rozpolcený.
+1385 Falešný účet
+1386 Malý robot, který komentuje vše velkými písmeny. Nikdy nespal.
+1387 Trollí farma
+1388 Deset tisíc účtů v jedné krabici. Volby ho znají dobře.
+1389 Učí se ze všeho, co děláte. Už ví, co budete chytat.
+1390 Regulovaná AI
+1391 První celosvětové nařízení o umělé inteligenci (2024) ho uvedlo do souladu s pravidly.
+1392 Každý měsíc trochu nafoukne. Domácnosti ho sledují zblízka.
+1393 Hyperinflace
+1394 Tak tlustý, že zablokuje ulice. ECB zvyšuje sazby, aby zhubl.
+1395 Úrokový rozdíl
+1396 Natáhne se při každém nešikovném výroku centrálního bankéře.
+1397 Kryptoměna
+1398 Ráno má cenu jmění, večer nic. Zbožňuje horské dráhy.
+1399 Regulovaná krypto
+1400 Nařízení MiCA ho donutilo nosit kravatu. Teď je klidnější.
+1401 Rozpočtová rovnováha
+1402 Nikdy nic nevydá, ani svou energii. Jeho pokřik: „Schwarze Null!“
+1403 Trojka
+1404 Tři kočky: ECB, Komise, MMF. Společně kontrolují účty ostatních.
+1405 Ropucha, která na každý návrh zakváká „ne!“. Stačí ona sama k zablokování všeho.
+1406 Jednomyslnost
+1407 Vyžaduje jednomyslnost pro každé rozhodnutí, a pak ji sama odmítá.
+1408 Bariéra
+1409 Znovu se objeví, jakmile se mluví o kontrolách na hranicích. Má svou vlastní budku.
+1410 Odchod
+1411 Chtěl odejít v roce 2016, odešel v roce 2020, a občas toho lituje. Často opouští boje.
+1412 Konzultace
+1413 Urna, která klade jednoduché otázky na komplikované problémy.
+1414 Placený Parlamentem, nikdy do něj nevstoupil. Nikdo ho nikdy neviděl pracovat.
+1415 Má odznak, smlouvu a výplatní pásku. Ale žádnou kancelář.
+1416 Nalezený plný bankovek v bruselském bytě v prosinci 2022.
+1417 Kufřík
+1418 Malý kufřík, který koluje z ruky do ruky u paty Parlamentu.
+1419 Plynovod
+1420 Dlouhý 1200 km, pod mořem. Jeho kohoutek řídí někdo jiný.
+1421 Jeho lopatky se otočí, jen co na ně zafouknete. Nesnáší dny bez větru.
+1422 Mořský vítr
+1423 Žije na moři na severu a zásobuje celá města.
+1424 Solární panel
+1425 V noci spí a ve dne tvrdě pracuje, zejména ve Španělsku.
+1426 Zabraňuje cenám vystoupat příliš vysoko. Bolí ho krk, jak musí tlačit.
+1427 Clo
+1428 Zdaní vše, co kolem něj projde. I spadané listí.
+1429 Obchodní válka
+1430 Rozvinuje obrovskou tabuli s čísly. Čísla se každé ráno mění.
+1431 Malý kamínek, na kterém závisí všechny telefony. Jeho export se sleduje.
+1432 Diplomatická panda
+1433 Zapůjčená na pár let evropské zoo. Žere bambus a obchodní dohody.
+1434 Obsah nedostupný
+1435 Tento žlutý medvídek není viditelný v žádném regionu. Jeho profil byl odstraněn.
+1436 Právník holub
+1437 Hnízdí na věžích Soudního dvora na Kirchbergu a houká latinsky.
+1438 Prohlášení
+1439 Recituje prohlášení z 9. května 1950 každému, kdo chce slyšet. Objevuje se na Dni Evropy.
+1440 Nobelova cena
+1441 Medaile udělená Evropské unii v roce 2012. Září pýchou.
+1442 Mrholení
+1443 Malý bruselský mráček. Prší na vás 200 dní v roce.
+1444 Pracovní oběd
+1445 Pracovní oběd, který trvá tři hodiny. Rozhoduje se při něm víc než na zasedání.
+1446 Obchodní dohoda
+1447 Je ve vyjednávání od roku 1999. Když postoupí o krok, traktory ho odstrčí zpátky.
+1448 Narozen 25. března 1957 na Kapitolu. Založil Evropské hospodářské společenství.
+1449 Maastrichtská smlouva
+1450 Narozen v Nizozemsku v roce 1992. Založil Unii a vysnil euro.
+1451 Lisabonská smlouva
+1452 Podepsaná v roce 2007, převzala podstatu ústavy, která nikdy nespatřila světlo světa.
+1453 Zamítnutá referendem ve Francii a Nizozemsku v roce 2005. Prchá, jen co se k ní někdo přiblíží.
+1454 Zná jen jeden útok, a ten vždy uspěje. Zachránil euro jedinou větou.
+1455 Úřední razítko
+1456 Orazítkuje zesláblého Euromona a zapíše ho.
+1457 Super razítko
+1458 Zesílený inkoust. Účinnější než jednoduché razítko.
+1459 Kvalifikované razítko
+1460 Kvalifikovaná většina: velmi vysoká šance na chycení.
+1461 Jednomyslné razítko
+1462 Jednomyslnost! Zaručené chycení. Extrémně vzácné.
+1463 Kantýnová káva
+1464 Obnoví 20 HP. Vlažná, ale účinná.
+1465 Klubový sendvič
+1466 Obnoví 50 HP. Oblíbenec stážistů.
+1467 Bruselská vafle
+1468 Obnoví 120 HP. Moučkový cukr v ceně.
+1469 Kniddelen
+1470 Lucemburská specialita. Obnoví 200 HP.
+1471 Kompletní menu
+1472 Předkrm, hlavní jídlo, dezert: obnoví všechny HP.
+1473 Právní stanovisko
+1474 Vyléčí všechny problémy se statusem.
+1475 Budík
+1476 Probudí Euromona uspaného summitem.
+1477 Návrh na obnovu
+1478 Vrátí K.O. Euromona do stavu schopného debaty.
+1479 Jednomyslná obnova
+1480 Oživí K.O. Euromona se všemi jeho HP.
+1481 Odborová pauza
+1482 Obnoví všechny PP Euromona.
+1483 Argumentář
+1484 V boji: zvyšuje Argumentaci.
+1485 Neprůstřelná vesta
+1486 V boji: zvyšuje Odolnost.
+1487 Odborná zpráva
+1488 V boji: zvyšuje Odbornost.
+1489 Adresář
+1490 V boji: zvyšuje Diplomacii.
+1491 Dvojité espreso
+1492 V boji: zvyšuje Reaktivitu.
+1493 Zákaz kontaktování
+1494 Doložka proti oslovování: odežene Euromony na 100 kroků.
+1495 Umožní vývoj některých Euromonů. Je potřeba 27 podpisů.
+1496 Umožní vývoj některých energetických Euromonů.
+1497 USB-C klíč
+1498 Umožní vývoj některých digitálních Euromonů.
+1499 Encyklopedie Euromonů, darovaná Jeanem Monnetem.

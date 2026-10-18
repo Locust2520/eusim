@@ -1,0 +1,157 @@
+# Dansk — computer mini-games
+1928 Prince Mbeki III
+1929 Arv på 4 mio. € til deling
+1930 Diesellobbyen
+1931 Invitation: hummermiddag
+1932 HR-afdelingen
+1933 Koordineringsmøde om møder
+1934 SuperPromo
+1935 Din gratis telefon venter
+1936 Qatar Events
+1937 En lille kuffert til dig?
+1938 SikkerBank
+1939 Bekræft din adgangskode her
+1940 Newsletter
+1941 47 spændende GDPR-nyheder
+1942 Dagsorden for plenarmødet
+1943 Mor
+1944 Får du nok at spise i Bruxelles?
+1945 Kantinen
+1946 Dagens ret: waterzooi
+1947 Domstolens Justitskontor
+1948 Dom skal forkyndes inden middag
+1949 Kommissionen
+1950 Afstemning om budgettet i morgen
+1951 Din Eurodex er blevet opdateret
+1952 Debat i aften? Jeg vinder.
+1953 Indbakke
+1954 437 ulæste mails! Tryk på en ægte mail for at læse den og på det røde kryds for at smide spam ud. Klar 20, før indbakken flyder over!
+1955 Læs: tryk · Spam: rødt kryds
+1956 Fejl: %d / 3
+1957 Tom indbakke! For første gang siden 2019. Nyd det, det varer ikke ved.
+1958 Indbakken flyder over! Kommissionens server er lige gået ned. Igen.
+1959 Du smed formandens mail ud og svarede prinsen. Det sker for de bedste.
+1960 Siden 2024 skal nye telefoner, der sælges i EU, have et USB-C-stik.
+1961 Sandt: direktivet om fælles oplader gælder siden slutningen af 2024.
+1962 EU forbyder salg af bananer, der er for krumme.
+1963 Falsk: en forordning fra 1994 inddelte bananer efter kvalitet. De krumme sælges stadig.
+1964 EU-flaget har 12 stjerner, fordi der var 12 medlemslande.
+1965 Falsk: 12 er et symbol på fuldkommenhed. Flaget er fra 1955, længe før der var 12 lande.
+1966 Europa-Parlamentet holder møde en uge om måneden i Strasbourg.
+1967 Sandt: 12 sessioner om året i Strasbourg, flyttekasser inklusive.
+1968 EU-kommissærerne vælges direkte af borgerne.
+1969 Falsk: de indstilles af regeringerne og godkendes derefter af Parlamentet.
+1970 EU har 24 officielle sprog.
+1971 Sandt: fra irsk til maltesisk oversættes alle tekster til alle 24.
+1972 Alle EU-lande bruger euroen.
+1973 Falsk: i 2026 bruger 21 ud af 27 lande den. Bulgarien er den seneste.
+1974 Roamingtaksterne blev afskaffet i EU i 2017.
+1975 Sandt: siden juni 2017 ringer man overalt "som derhjemme".
+1976 EU's hymne er Beethovens Ode til glæden.
+1977 Sandt: uden officiel tekst, så intet sprog bliver fornærmet.
+1978 Luxembourg er EU's mindste land.
+1979 Falsk: det er Malta, cirka 316 km².
+1980 EU har modtaget Nobels fredspris.
+1981 Sandt: i 2012, for 60 års fred og forsoning.
+1982 GDPR har beskyttet persondata siden 2018.
+1983 Sandt: den gælder siden 25. maj 2018. Deraf alle cookie-bannerne…
+1984 Krumme agurker må ikke sælges i EU.
+1985 Falsk: normen for deres krumning blev afskaffet i 2009.
+1986 Låg skal blive siddende på plastikflasker.
+1987 Sandt: obligatorisk siden juli 2024, så de ikke ender i naturen.
+1988 Schweiz er medlem af EU.
+1989 Falsk: landet er med i Schengen, men ikke i EU.
+1990 Den Europæiske Centralbank har hovedsæde i Bruxelles.
+1991 Falsk: den ligger i Frankfurt i Tyskland.
+1992 Faktatjek
+1993 Rygter om Europa spreder sig hurtigere end direktiver! Tryk SANDT eller FALSK for hver påstand. Du skal have 7 rigtige ud af 10.
+1994 SANDT
+1995 FALSK
+1996 Sandt eller falsk?
+1997 Spørgsmål %d / 10
+1998 Rigtigt!
+1999 For sent!
+2000 Forkert!
+2001 Tryk for at fortsætte
+2002 Flot! Alle de falske nyheder er afsløret. Faktatjekkerne vil ansætte dig.
+2003 For mange falske nyheder slap igennem… Kontoen "ÆgteEuropa2027" får 10.000 nye følgere.
+2004 Bulgarsk
+2005 Tjekkisk
+2006 Dansk
+2007 Tysk
+2008 Græsk
+2009 Engelsk
+2010 Spansk
+2011 Estisk
+2012 Finsk
+2013 Fransk
+2014 Irsk
+2015 Kroatisk
+2016 Ungarsk
+2017 Italiensk
+2018 Litauisk
+2019 Lettisk
+2020 Maltesisk
+2021 Nederlandsk
+2022 Polsk
+2023 Portugisisk
+2024 Rumænsk
+2025 Slovakisk
+2026 Slovensk
+2027 Svensk
+2028 Oversættelsestjenesten
+2029 Beskeder strømmer ind fra hele Europa! Læs hver enkelt og send den til den rette tolkekabine. 12 beskeder på 45 sekunder. En fejl koster 3 sekunder!
+2030 Tolkekabiner
+2031 Send beskeden til den rette kabine
+2032 Alle beskeder kom frem til rette sted! GD Oversættelse tilbyder dig et job. På 24 sprog.
+2033 En slovakisk besked endte hos slovenerne… Den diplomatiske krise er ved at blive oversat.
+2034 Energikrise! Priserne stiger til himmels.
+2035 Nedlukning: ingen køber noget længere.
+2036 Kæmpe genopretningsplan vedtaget i nat!
+2037 Børskrak i Frankfurt!
+2038 Mangel på computerchips!
+2039 Husholdningerne sparer hver en krone op.
+2040 Du er chef for ECB! Stiger inflationen? Hæv renten. Falder den? Sænk den. Hold den i den grønne zone (omkring 2 %) mindst halvdelen af tiden. 40 sekunder!
+2041 Inflation: %s
+2042 Rente: %s
+2043 Sænk
+2044 Hæv
+2046 Inflationen er under kontrol! Markederne klapper, og sparerne sover trygt.
+2047 Inflationen løb fra dig… Kaffen i kantinen er lige blevet dobbelt så dyr.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Fælles oplader
+2053 Siden 2024 er USB-C obligatorisk! Tryk på de apparater, der stadig har et gammelt stik, for at bringe dem i orden. Ikke dem med USB-C! 20 apparater på 30 sekunder.
+2054 Tryk på gamle stik, ikke USB-C!
+2055 Alle overholder reglerne! Én oplader til alle. Europas kabelskuffer kan ånde lettet op.
+2056 Du "bragte i orden" et apparat, der allerede havde USB-C. Nu har det tre adaptere.
+2057 For mange gamle kabler slap uden om direktivet… Kabelskuffen flyder over.
+2058 Din computer. 437 ulæste mails blinker i hjørnet af skærmen.
+2059 Mail
+2060 Sluk
+2061 En notifikation dukker op: "Tillykke med din produktivitet!" Der ventede en pakke under skrivebordet.
+2062 Tom indbakke. Tre sekunder senere: "Sv: Koordineringsmøde om møder".
+2063 Mailserveren viser et timeglas. Det gør den nok stadig i morgen.
+2064 En computer fra presseafdelingen. Skærmen viser: "Faktatjek-enheden – rygter, der skal tjekkes: 2.384".
+2065 Flot faktatjek! Presseafdelingen giver dig disse ekspertrapporter. Med kilder, for en gangs skyld.
+2066 Alle dagens rygter er tjekket. Der kommer flere inden frokost.
+2067 En falsk nyhed er lige blevet delt 40.000 gange. Dementiet 12 gange.
+2068 GD Oversættelses terminal. En rød lampe blinker: "Beskeder venter på at blive sendt videre".
+2069 Tolkene drukner i arbejde! Kan du sortere beskederne og sende dem til den rette kabine?
+2070 Fireogtyve sprog og ingen fejlsendinger! Tag denne adressebog, alle Domstolens tolke står i den.
+2071 Du kan skelne slovensk fra slovakisk bedre end halvdelen af Rådet.
+2072 En maltesisk besked landede i den irske kabine. De diskuterer den stadig. Prøv igen, når du vil.
+2073 En Bloomberg-terminal, stadig varm. På en post-it: "Mål: 2 %. Ikke 1,9. Ikke 2,1. 2."
+2074 Overtage styringen af eurozonens pengepolitik?
+2075 Markederne hylder din forsigtighed. En stabilitetsbonus lander på din konto!
+2076 Inflation på 2 %. Et sted i Frankfurt fælder en økonom en glædeståre.
+2077 Terminalen viser en graf formet som en rutsjebane. Ingen så noget. Start forfra, hurtigt.
+2078 MEP'erens computer. På skrivebordet ligger et virvar af 14 forskellige opladere.
+2079 Jeg stemte for USB-C-direktivet! Men mine kolleger har stadig gamle apparater… Vil du hjælpe mig med at bringe dem i orden?
+2080 Én oplader til alle! Her, tag denne USB-C-nøgle. Den siges at få visse digitale Euromons til at udvikle sig.
+2081 Kabelskuffen er endelig tom. Jeg ved ikke længere, hvad jeg skal putte i den.
+2082 Der ligger stadig Lightning-kabler overalt… Vi prøver igen, når du vil.
+2083 Grøn zone: %d %%
+2084 Mål: i det grønne halvdelen af tiden
+2085 Dock 30

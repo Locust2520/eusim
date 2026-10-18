@@ -1,0 +1,487 @@
+# Suomi — ids 0-499
+0 LOB
+1 SKA
+2 JÄÄ
+3 UNI
+4 JUM
+5 Tas.%d
+6 VÄITTELE
+7 LAUKKU
+8 PAKENE
+9 TIIMI
+10 PP %d/%d
+11 Ei vaikutusta
+12 Supertehokas
+13 Heikosti tehoava
+14 Takaisin
+15 Hyökkäykseen ei ole enää PP:tä!
+16 Sinun vuorosi, %s!
+17 %s lähettää kentälle: %s!
+18 Mutta %s:lla on jo ongelma…
+19 %s on jo lobbareiden puolella!
+20 Keskuspankkiirin varoja ei jäädytetä!
+21 %s on lobbauksen vaikutuksen alaisena!
+22 %s on sotkeutunut skandaaliin!
+23 %s: varat on jäädytetty!
+24 %s nukahtaa keskellä yöllistä huippukokousta!
+25 %s on jumissa valiokunnassa!
+26 Argumentointi
+27 Sietokyky
+28 Asiantuntemus
+29 Diplomatia
+30 Reaktio
+31 Tarkkuus
+32 Väistö
+33 %s: %s ei voi enää nousta!
+34 %s: %s ei voi enää laskea!
+35 %s: %s nousee paljon!
+36 %s: %s nousee!
+37 %s: %s laskee paljon!
+38 %s: %s laskee!
+39 %s käyttää: %s!
+40 (trump)%s käyttää: %s!
+41 %s valmistelee 400-sivuista asiakirjaa…
+42 Mutta kukaan ei lankea sohva-ansaan kahdesti!
+43 %s plagioi vastustajaa!
+44 Mutta plagioitavaa ei ole…
+45 %s vetoaa artiklaan 50 ja jättää väittelyn!
+46 %s vetoaa artiklaan 50 ja lähtee!
+47 %s vetoaa artiklaan 50… mutta neuvottelut kestävät vuosia!
+48 %s suojautuu veto-oikeudella!
+49 ”VETO!” Vastustaja estää päätöksen, joka vaatii yksimielisyyttä.
+50 Mutta %s:n hyökkäys menee ohi!
+51 %s on jo harhaanjohdettu!
+52 %s on harhaanjohdettu!
+53 Mutta %s:n HP on jo täynnä!
+54 %s saa HP:tä takaisin!
+55 %s ottaa virkistävät nokoset!
+56 Mutta veto ei mene läpi tällä kertaa!
+57 %s heiluttaa veto-oikeuttaan!
+58 Suojalauseke! Kaikki muutokset perutaan.
+59 %s:n viestit on poistettu… Jälkeäkään ei jäänyt!
+60 Rakennerahastoja sataa kentälle!
+61 %s päätyy sohvalle!
+62 Mutta mitään ei tapahdu…
+63 Se ei vaikuta %s:een…
+64 Kriittinen osuma!
+65 Osui %d kertaa!
+66 Se on supertehokas!
+67 Se ei ole kovin tehokas…
+68 %s on jumissa loputtomassa menettelyssä!
+69 %s imee varoja!
+70 %s kärsii takaiskun!
+71 Kolikoita lentelee joka puolelle!
+72 %s on liian järkyttynyt toimiakseen!
+73 %s nukkuu sikeästi… (kello on 4 aamulla)
+74 %s herää! Huippukokous on ohi.
+75 %s pääsee vihdoin pois valiokunnasta!
+76 %s: varat on jäädytetty! Ei voi toimia.
+77 %s on tarkistanut lähteensä!
+78 %s on harhaanjohdettu…
+79 Se levittää valeuutista ja nolaa itsensä!
+80 Orbán lähti kahville! Hänen Euromoninsa odottaa neuvottomana.
+81 %s joutuu lobbareiden vaikutuksen alaiseksi!
+82 Skandaali roiskuu %s:n päälle!
+83 %s juuttuu menettelyyn!
+84 %s on K.O.!
+85 %s oppii: %s!
+86 %s haluaa oppia: %s, mutta osaa jo neljä hyökkäystä.
+87 Älä opi
+88 Mikä hyökkäys unohdetaan?
+89 1, 2, 3… Hop! %s unohtaa: %s…
+90 … ja oppii: %s!
+91 %s ei opi: %s.
+92 %s saa %d kokemuspistettä!
+93 %s nousee tasolle %d!
+94 {P} heittää: %s!
+95 Kas niin! %s on kirjattu virallisessa lehdessä!
+96 %s: tiedot lisätään Eurodexiin.
+97 %s lähetetään Arkistoon.
+98 Voi ei! %s pääsi irti!
+99 Hups! Se oli niin lähellä!
+100 Hitto! Vain yksi leima puuttui!
+101 Argh! Menettelyvirhe!
+102 %s on hylätty kansanäänestyksessä! Sitä ei voi napata.
+103 Toisen kouluttajan Euromonia ei napata! Se olisi skandaali.
+104 {P} käyttää: %s!
+105 Mihin Euromoniin?
+106 %s saa HP:tä takaisin.
+107 %s voi paremmin.
+108 %s palaa palvelukseen!
+109 Sillä ei ole mitään vaikutusta.
+110 Nyt ei ole oikea hetki!
+111 Kuka lähetetään väittelyyn?
+112 Kuka lähetetään?
+113 %s ei ole väittelykunnossa!
+114 %s on jo kentällä!
+115 Tule takaisin, %s!
+116 kumppani
+117 kilpailija
+118 systeeminen kilpailija
+119 Vastustajan Euromon esittäytyy nyt… %s! (tyyppi %s)
+120 %s %s haluaa väitellä!
+121 Oho! Kromaattinen %s!
+122 Villi %s ilmestyy!
+123 Mitä {P} tekee?
+124 Virallisesta väittelystä ei lähdetä! Se olisi heikkouden myöntämistä.
+125 Pakenet hätäuloskäynnin kautta!
+126 Et voi paeta: istuntoa ei ole päätetty!
+127 %s esittää argumenttinsa… Pöytä on niin pitkä, että perille pääseminen vie koko vuoron!
+128 Edellisen vuoron argumentti saavuttaa vihdoin pöydän toisen pään!
+129 %s aikoo lähettää: %s.
+130 Jatka
+131 Vaihda Euromon
+132 Vaihdetaanko Euromon?
+133 {P} voittaa väittelystä %d €!
+134 {P} kerää %d € rakennerahastoja.
+135 — VÄLINÄYTÖS —
+136 A: seuraava    START: ohita
+137 Kyllä
+138 Ei
+139 Kosketa tai paina A
+140 Kiitos pelaamisesta!
+141 LOPPU… melkein.
+143 Tallennus on lukukelvoton!
+144 Professori Schuman
+145 Päivää, päivää! Tervetuloa Euroopan unionin ihmeelliseen… ja hieman byrokraattiseen… maailmaan!
+146 Nimeni on Robert Schuman. Olet ehkä kuullut minusta: tarina hiilestä, teräksestä ja 9. toukokuusta… Kerron sen sinulle.
+147 Siitä lähtien tässä maailmassa on elänyt outoja olentoja: EUROMONEJA!\fDirektiivejä, asetuksia, tarkistuksia, evästebannereita… Ne asuvat asiakirjapinoissa ja käytävien kokolattiamatoissa.
+148 Jotkut keräilevät niitä, toiset panevat ne väittelemään. Minä tutkin niitä. Sitä kutsutaan… komitologiaksi!
+149 Mutta puhutaan sinusta. Tänä aamuna Euroopan parlamenttiin odotetaan kahta harjoittelijaa…
+150 Vasemmalla Alex, uusi harjoittelija (tyttö). Oikealla Max, uusi harjoittelija (poika). Kuka sinä olet?
+151 Alex, tyttö
+152 Max, poika
+153 Täydellistä! Ja miksi minun pitäisi kutsua sinua, virallisesti? Se on kirjoitettava kaikilla 24 kielellä, joten valitse huolella.
+154 Etunimesi (enint. 10 merkkiä):
+155 {P}! Upeaa. Käännätän sen heti maltaksi.
+156 Tässä on Oliver, harjoittelijakollegasi, suoraan Lontoosta. Hän on… hyvin itsevarma.
+157 Hello! Don't worry, {P}, minusta tulee koko unionin paras harjoittelija. Easy.
+158 Teidän molempien tehtävä on yksinkertainen: saada YKSI direktiivi hyväksytyksi.\fDirektiivi kellonsiirrosta luopumisesta. Parlamentti hyväksyi sen maaliskuussa 2019…
+159 … ja siitä lähtien se on nukkunut neuvostossa. Kuten moni muukin asia.
+160 Onnistuaksenne tarvitsette Euroopan suurkaupunkien 8 merkkiä, teidän on vakuutettava Eurooppa-neuvosto ja itse komission puheenjohtaja!\fNo niin, {P}. Harjoittelusi alkaa nyt. Se on palkaton, mutta opettavainen!
+161 Isot/pienet
+162 Poista
+163 Tiesitkö? Parlamentti muuttaa Strasbourgiin kaksitoista kertaa vuodessa, matka-arkut mukaan lukien.
+164 EU:ssa on 24 virallista kieltä. Harjoittelijasi puhuu puolitoista.
+165 Vinkki: pulloon kiinnitetyt korkit eivät enää katoa (direktiivi 2019/904).
+166 Ladataan… kuin kellonsiirrosta luopuminen: hyväksytty 2019, yhä odottamassa.
+167 EU:n lipussa on 12 tähteä. Se ei ole maiden määrä: se on täydellisyyden symboli.
+168 Schumanin julistus on 9. toukokuuta 1950. 9. toukokuuta on Eurooppa-päivä!
+169 Eurokolikot tulivat taskuihin 1. tammikuuta 2002.
+170 Kesäkuusta 2017 lähtien Euroopassa ei ole ollut verkkovierailumaksuja. Soita äidillesi Lissabonista!
+171 Yleinen USB-C-laturi on ollut pakollinen vuoden 2024 lopusta. Hyvästi, johtolaatikko.
+172 Erasmus syntyi 1987. Miljoonat opiskelijat ovat sen jälkeen oppineet keittämään pastaa.
+173 Schengenin sopimus allekirjoitettiin 1985 laivalla, Moselilla, Luxemburgissa.
+174 Euroopan parlamentissa on ollut 720 jäsentä vuodesta 2024.
+175 Vinkki: ruokala parantaa koko tiimisi. Kahvi sen sijaan ei paranna mitään.
+176 Vinkki: juokse pitämällä B pohjassa. Berlaymontin käytävät ovat pitkiä.
+177 Banaanien kaarevuutta koskeva asetus (1994) on olemassa… mutta se koskee lähinnä laatua.
+178 GDPR (2018) toi sinulle evästebannerit. Hyvin paljon evästebannereita.
+179 Nobelin rauhanpalkinto myönnettiin Euroopan unionille 2012.
+180 Rooman sopimus (1957) perusti Euroopan talousyhteisön.
+181 Maastrichtin sopimus (1992) perusti Euroopan unionin ja valmisteli euroa.
+182 Lissabonin sopimus (2007) sisältää artiklan 50. Vain yksi maa on käyttänyt sitä.
+183 Yhdistynyt kuningaskunta erosi EU:sta 31. tammikuuta 2020. Oliver ei ole vieläkään toipunut.
+184 Vinkki: viralliset leimat nappaavat heikentyneet Euromonit paremmin.
+185 Vinkki: yöllisessä huippukokouksessa nukahtanut Euromon on helpompi napata.
+186 Berlaymontista poistettiin asbesti 1991–2004. Työmaakokous oli pitkä.
+187 EU:n tuomioistuin sijaitsee Luxemburgissa, Kirchbergin ylängöllä.
+188 EKP on Frankfurtissa. Sen torni maksoi suunniteltua enemmän. Inflaatiota, kaiketi.
+189 Simone Veil oli suoraan valitun Euroopan parlamentin ensimmäinen puhemies vuonna 1979.
+190 Komissiossa on 27 komissaaria: yksi kustakin maasta. Myös Itävallan kalastuspolitiikkaa varten.
+191 Vinkki: avaa valikko painamalla X.
+192 Tonava virtaa kymmenen maan läpi. Kenkäsi vain kahden.
+193 Eurooppa-päivänä ilmestyy harvinainen Euromon. Kokeile 9. toukokuuta!
+194 EU:n käännöksiä tehdään miljoonia sivuja vuodessa.
+195 Euroopan hymni on Beethovenin Oodi ilolle, ilman virallisia sanoja.
+196 Vinkki: Juridinen-tyypin hyökkäykset ovat supertehokkaita Lobbya vastaan.
+197 Vinkki: veto estää hyökkäyksen, mutta ei päättäväisyyttäsi.
+198 Brexit kesti niin kauan, että keksittiin sana ”Brextension”.
+199 Parlamentilla on yhteystoimisto jokaisessa jäsenvaltiossa.
+200 Vinkki: puhu kaikille. Myös Place Luxin pululle.
+201 Tanskalla on poikkeus eurosta. Se pitää kruununsa, ja viikinkinsä.
+202 Ladataan 27 kansallista lausuntoa… 26/27… Odotetaan Unkaria.
+203 Tiesitkö?
+204 Ladataan…
+205 Tiimi
+206 Laukku
+207 Kartta
+208 Raportti
+209 Asetukset
+210 %lu h %02lu
+211 HP
+212 K.O.
+213 Tas.%d   nro %03d
+214 Kok.
+215 Seuraava
+216 B: takaisin
+217 Vaihda kenen kanssa… ?
+218 A: valitse   B: takaisin
+219 Yhteenveto
+220 Siirrä
+221 Hoito
+222 Leimat
+223 Taistelu
+224 Avaimet
+225 Villit Euromonit jättävät sinut rauhaan hetkeksi.
+226 %s: PP palautettu.
+227 Sillä ei ole vaikutusta.
+228 Nyt ei ole oikea hetki käyttää sitä.
+229 ×%d
+230 (tyhjä)
+231 Käytä
+232 nro %03d  %s
+233 Nappaa tämä Euromon lukeaksesi sen kortin.
+234 EURODEX   Nähty: %d   Napattu: %d
+235 Tallennusvälinettä ei löytynyt.\fDS:llä (DS Pico, R4…) käynnistä peli SD-kortilta. Emulaattorissa ota DLDI/SD-kortti käyttöön tai käytä tilatallennuksia.
+236 Kirjoitetaanko edistymisraportti (paikka %d)?
+237 Tallenna
+238 Muu paikka…
+239 Peruuta
+240 Raportti lähetetty 24 kielellä. Peli tallennettu (paikka %d)!
+241 SD-kortille kirjoittaminen epäonnistui. Yritä uudelleen.
+242 Asetukset
+243 Faktojen lähteet
+244 Takaisin alkuun
+245 Palataanko alkuruutuun? Kaikki tallentamaton menetetään.
+246 ◀  × %d  ▶
+247 Yhteensä: %d €
+248 A: vahvista   B: peruuta
+249 Osta
+250 Myy
+251 Näkemiin
+252 Myyjä
+253 Tervetuloa Parlamentariumin myymälään! Kaikki on taatusti CE-merkittyä.
+254 Budjettisi: %lu €
+255 Laukussasi: %d
+256 Näyttää siltä, että budjettisi on… menokaton alapuolella.
+257 Kiitos! Ja tässä Superleima kaupan päälle, suuresta ostoksesta!
+258 Kiitos ostoksestasi! Lasku kolmena kappaleena.
+259 Tuoko? Se ei ole myytävänä, se on strategisesti tärkeä esine!
+260 Kaupat tehty!
+261 Näkemiin! Muista: USB-C-laturi myydään erikseen.
+262 TIIMI → ARKISTO (%d/%d)
+263 ARKISTO → TIIMI (%d/%d)
+264 ◀▶ puoli   A: siirrä   B: poistu
+265 {P} käynnistää Arkiston päätteen. ”Tervetuloa asiakirjahallintajärjestelmään.”
+266 Tiimissä on oltava vähintään yksi Euromon!
+267 Tiimi on täynnä (enintään 6 Euromonia).
+268 Ennakkopäätös
+269 Euro
+270 Täysistuntosali
+271 OXI
+272 Artikla 50
+273 Veto
+274 Sakko
+275 Sorbonne
+276 Jean-Claude Juncker, Luxemburg
+277 Christine Lagarde, Frankfurt
+278 Roberta Metsola, Strasbourg
+279 Yanis Varoufakis, Ateena
+280 Farage & Johnson, Lontoo
+281 Viktor Orbán, Budapest
+282 Margrethe Vestager, Bryssel
+283 Emmanuel Macron, Pariisi
+284 SOPIMUSTEN MERKKIKOTELO
+285 saatu
+286 valloitettava
+287 %s-merkki — luovuttaja %s.
+288 Mitä? %s kehittyy!
+289 Lykkäsit uudistusta. %s ei kehittynyt.
+290 Onnittelut! %s kehittyi muotoon %s!
+291 Aika: %d s
+292 Pisteet: %d / %d
+293 Minipeli
+294 Täysistunnon äänestys
+295 Mepit saapuvat täysistuntosaliin! Kosketa jokaista keltaisena syttyvää paikkaa ennen kuin se sammuu. 25 ääntä 30 sekunnissa!
+296 Puhemiehistö
+297 Kosketa keltaisia paikkoja!
+298 Hyväksytty suurella enemmistöllä! Aplodit kaikilta penkeiltä.
+299 Päätösvaltaisuus ei täyty. Istunto keskeytetään…
+300 Leima
+301 Asiakirjoja liukuu pöydän yli. Kosketa jokaista leimataksesi sen ennen kuin se poistuu ruudulta. 15 asiakirjaa!
+302 Kosketa asiakirjoja leimataksesi ne
+303 Kaikki asiakirjat on leimattu! Hallinto on sinusta ylpeä.
+304 Osa asiakirjoista lähti ilman leimaa. Niiden on kierrettävä koko kierros uudelleen…
+305 Evästebannerit
+306 Evästebannerit valtaavat ruudun! Kosketa jokaisessa ”Hylkää”. Jos kuusi banneria kasautuu, hävisit. Kestä 25 sekuntia!
+307 (jokin verkkosivusto)
+308 Kunnioitamme
+309 yksityisyyttäsi
+310 Hyväksy
+311 Hylkää
+312 Hylkää kaikki! (älä napsauta Hyväksy)
+313 Kaikki evästeet hylätty! GDPR on sinusta ylpeä.
+314 Bannerien hukuttama… Hyväksyit 437 mainoskumppania.
+315 Yöllinen huippukokous
+316 Kello on 3 yöllä, ja 27 valtionpäämiestä nukahtaa! Puhalla mikrofoniin (tai kosketa nukkuvaa päätä) herättääksesi heidät. 27 herätystä ennen aamunkoittoa!
+317 %d.%02d
+318 Puhalla / kosketa nukkuvaa päätä!
+319 Kaikki hereillä! Sopu saavutettu klo 4.37. Kuten tavallista.
+320 Aurinko nousee nukkuvien johtajien pöydän ylle. Huippukokous siirretään.
+321 Strasbourgin matka-arkut
+322 Lastaa meppien matka-arkut junaan järjestyksessä: 1, 2, 3… aina 10:een asti. Sinulla on 30 sekuntia!
+323 Laituri — TGV Strasbourg ⇄ Bryssel
+324 Matka-arkut
+325 Kosketa arkkuja järjestyksessä!
+326 Kaikki arkut ovat junassa! Istunto voi alkaa.
+327 Juna lähti ilman arkkuja. Mepit istuvat pyjamassa.
+328 Kieli
+329 Tekstin nopeus
+330 Tekstin ääni
+331 Musiikin voimakkuus
+332 Taisteluanimaatiot
+333 Hidas
+334 Normaali
+335 Nopea
+336 ↑↓ / kynä: vieritä    B: takaisin
+337 Tekijät
+338 SD-kortti
+339 kasetti
+340 ei mitään
+341 {P} saa %d × %s!
+342 {P} saa: %s!
+343 — Tyhjä paikka —
+344 Eurodex: %d
+345 Jatka: valitse peli
+346 Uusi peli: paikka
+347 Tallenna kohteeseen…
+348 Tässä paikassa on jo peli. Korvataanko se?
+349 Uusi peli
+350 Tekijät & lähteet
+351 Päävalikko
+352 Epävirallinen parodia · v2.0
+353 Elämäsi harjoittelu
+354 PAINA STARTIA
+355 {P} saa: %s!
+356 Tiimi on täynnä: se lähetetään Arkistoon.
+357 {P}:lla ei ole enää väittelykykyistä Euromonia…\f{P} juoksee takaisin ruokalaan pää painuksissa.
+358 Ruokalan työntekijä
+359 No niin, hyvä kuppi kahvia ja taas mennään! Euromonisi ovat huippukunnossa.
+360 Ennakkopäätösmerkki
+361 Euromerkki
+362 Täysistuntomerkki
+363 OXI-merkki
+364 Artikla 50 -merkki
+365 Vetomerkki
+366 Sakkomerkki
+367 Sorbonne-merkki
+368 {P} saa: %s!
+369 Eurodexissäsi on %d napattua Euromonia %d nähdystä.
+371 Se on alku! Pienet askeleet tekevät suuria unioneja.
+372 Ei hassumpaa! Etenet nopeammin kuin kesäaikadirektiivi.
+373 Vaikuttavaa! Edes komissiolla ei ole niin monta asiakirjaa.
+374 Ihmeellistä! Olet kokonainen instituutio yksinäsi.
+375 {P} löytää: %s!
+376 Värväyskieltolauseke on päättynyt.
+377 Bryssel
+378 Luxemburg
+379 Frankfurt
+380 Strasbourg
+381 Ateena
+382 Lontoo
+383 Budapest
+384 Pariisi
+385 Antwerpen
+386 Varsova
+387 Rooma
+388 Maastricht
+389 Lissabon
+390 Lipunmyyjä
+391 Ei kohteita saatavilla tällä hetkellä.
+392 Muut kohteet…
+393 Kyytiin! Juna lähtee… vain muutaman minuutin myöhässä.
+394 Diplomaatti
+395 Josep Borrell, entinen korkea edustaja, sanoi 2022: ”Eurooppa on puutarha, muu maailma on viidakko.” Se herätti… jonkin verran huomiota.
+397 Kuusitoista vuotta liittokanslerina. Satoja huippukokouksia. 2015 sanoin: ”Wir schaffen das” — me selviämme tästä.
+398 Mutta sinä, selviätkö sinä? Olen neuvoston ensimmäinen jäsen. Kukaan ei pääse ohi ilman kompromissia.
+399 Wir haben es geschafft. Voit jatkaa. Mario odottaa sinua… 400-sivuisen raportin kanssa.
+401 Heinäkuu 2012, Lontoo. Sanoin kolme sanaa: ”Whatever it takes”. Euro pelastui. Markkinat rauhoittuivat.
+402 Vuonna 2024 kilpailukykyraporttini vaati jopa 800 miljardin investointeja vuodessa. Investoi tähän väittelyyn.
+403 Teit kaiken tarvittavan. Kaja Kallas odottaa sinua. Hän on… hyvin suora.
+405 Ulkoasioiden korkea edustaja joulukuusta 2024. Viron entinen pääministeri.
+406 Maailma on vaarallinen. Minun on tiedettävä, pärjäätkö suurvaltoja vastaan. Näytä se minulle.
+407 Vankkaa. Tarvitset sitä. Puheenjohtaja Costa odottaa sinua. Hän toivoo saavansa valmista ennen puoltayötä.
+409 Eurooppa-neuvoston puheenjohtaja joulukuusta 2024! Kello on 23.54. Jos saamme valmista ennen puoltayötä, se on historiallinen ensimmäinen kerta.
+410 Mutta ensin: kaikki valtionpäämiehet ovat nukahtaneet pöydän ääreen. Auta minua herättämään heidät! Puhalla mikrofoniin… tai napauta ruutua!
+411 Kello on… 4.37. No. Kuten tavallista. Väitellään silti.
+412 Eurooppa-neuvosto hyväksyy ehdokkuutesi yksimielisesti! No… yksimielisesti miinus yksi rakentava pidättäytyminen.
+413 Komission puheenjohtaja odottaa sinua Berlaymontin 13. kerroksessa. Se on viimeinen askel ennen direktiiviä.
+415 Ai, päivää. Olen Charles Michel, Eurooppa-neuvoston entinen puheenjohtaja. Istun vain… tässä. Ainoalla tuolilla.
+416 Ankarassa huhtikuussa 2021 otin nojatuolin. Ursula joutui sohvalle. Sitä kutsuttiin ”Sofagateksi”. En ole koskaan oikein toipunut siitä.
+418 Tervetuloa 13. kerrokseen. Kyllä, asun täällä: toimistoni vieressä on pieni huone. Se on kätevää kiireellisiä asioita varten.
+419 Komission puheenjohtaja vuodesta 2019, valittu uudelleen 2024. Vihreän kehityksen ohjelma, koronakriisi, rokotteet…
+420 Tekstiviestit Pfizerin pomon kanssa? Toukokuussa 2025 EU:n yleinen tuomioistuin kumosi kieltäytymisemme luovuttaa ne New York Timesille. No. Jatketaan.
+421 Haluatko kesäaikadirektiivin? Voita minut. Team Europe, lopulta jäljellä voi olla vain yksi.
+422 Ihmeellistä. Olet komission historian paras harjoittelija. Tässä on… direktiivi kellonsiirrosta luopumisesta.
+423 Nyt se pitää vain saada allekirjoitetuksi. Pelkkä muodollisuus! Riittää, että…
+424 Suurvallat odottavat! Antwerpen, Varsova, Pireus… Ota juna.
+425 Pelastit Euroopan. Ja direktiivi on… komiteassa. Kuten aina. Kiitos kaikesta, {P}.
+426 PIIP PIIP PIIP! Kolme kiireellistä viestiä saapuu samaan aikaan kaikkiin Berlaymontin puhelimiin.
+428 HELLO EUROPE! Minulla on pieni pyyntö. Ihan pikkuruinen. Panen tullit kaikkeen. Ja haluaisin ostaa Grönlannin. Sen voi ostaa, eikö?
+429 Toinen viesti, idästä: ”Kaasuhana on suljettu. Omaksi parhaaksenne.” Allekirjoitus: V. P.
+430 Kolmas viesti, hyvin kohtelias: ”Keskeytämme harvinaisten maametallien viennin. Puhelimenne toimivat… huonommin.” Allekirjoitus: X. J.
+431 {P}, direktiivi saa odottaa. Suurvallat haluavat nöyryyttää Euroopan. Meidän on mentävä tapaamaan niitä. Kaikkia kolmea.
+432 Antwerpenin satama, Varsova ja Pireuksen satama Ateenassa. Asemat ovat avoinna sinulle. Team Europe luottaa sinuun!
+434 Olen Naton pääsihteeri. Haagin huippukokouksessa kesäkuussa 2025 sitouduimme nostamaan puolustusmenot kohti 5 %:a BKT:sta vuoteen 2035 mennessä.
+435 Ja kutsuin Donaldia ”isiksi”. No. Se oli vertauskuva. Hän rakasti sitä. Mene vain, hän on griinillä.
+437 Helmikuussa 2025 Münchenin turvallisuuskonferenssissa selitin eurooppalaisille, mitä demokratia on. He olivat… yllättyneitä.
+438 TÄMÄ ON MAAILMAN KAUNEIN GOLFKENTTÄ. Ostin sen juuri. Luulisin. Sataman myös, ehkä.
+439 2. huhtikuuta 2025, Liberation Day! Heilutin isoa taulukkoa, jossa oli tullit KAIKILLE. Jopa saarille, joilla on vain pingviinejä.
+440 Heinäkuussa 2025 golfkentälläni Turnberryssä Ursula ja minä teimme diilin: 15 %. Mutta voin muuttaa mieltäni. Muutan usein mieltäni. Se on strategia.
+441 Ja Grönlanti! Se on iso, se on valkoinen, se on upea. Tanska ei halua myydä. HYVIN EPÄREILUA. Väitellään, ja jos voitan, ostan sen!
+442 Se oli huijausta. Täyttä huijausta. No. Pidetään 15 %. Ja Grönlanti pysyy tanskalaisena. Toistaiseksi. Postaan illalla jotain isoilla kirjaimilla.
+444 Tervetuloa Varsovaan. Puolan pääministeri, Eurooppa-neuvoston entinen puheenjohtaja. Täällä tiedetään, mitä vapaus on arvoinen.
+445 Volodymyr Zelenskyi
+446 Helmikuusta 2022 lähtien maani on vastustanut Venäjän hyökkäystä. Kiitos, Eurooppa, tuestanne. Palatsi on tuolla ylhäällä: ole varovainen.
+447 Ota tämä REPowerEU-paketti: Eurooppa on oppinut tulemaan toimeen ilman Venäjän kaasua. Tarvitset sitä pysyäksesi lämpimänä siellä.
+448 Vladimir Putin
+449 Istu. Ei… kauemmas. Noin. Helmikuussa 2022 otin presidenttejä vastaan tältä etäisyydeltä. Se on… mukavampaa.
+450 Kaasu? Suljin hanan. Vaalit? Joulukuussa 2024 Romanian perustuslakituomioistuin mitätöi presidentinvaalit sekaantumisen vuoksi. En ymmärrä, mistä puhutaan.
+451 Täällä argumenttisi tarvitsevat kokonaisen vuoron ehtiäkseen pöydän toiseen päähän. Aloitetaan.
+452 …REPowerEU-pakettisi on tehokas. Kiristys ei enää toimi. Lähde, ennen kuin lyhennän pöytää.
+453 Vartija
+454 Kiina on lainannut nämä kaksi pandaa eurooppalaiseen eläintarhaan. Sitä kutsutaan ”pandadiplomatiaksi”. Ne syövät 40 kg bambua päivässä. Siis pandat, eivät diplomaatit.
+456 Tervetuloa. Euroopan unioni on vuodesta 2019 kuvannut meitä kumppaniksi, kilpailijaksi ja systeemiseksi kilpailijaksi. Minäkin olen kaikkia kolmea.
+457 Te tullaatte sähköautomme — jopa 35 % lokakuusta 2024. Me tullaamme konjakkinne. Ja pidämme silmällä harvinaisia maametallejamme. Se on tasapainoista.
+458 Tässä väittelyssä Euromonini vaihtaa tyyppiä joka vuoro: kumppani, kilpailija, systeeminen kilpailija. Onnea perässä pysymiseen.
+459 Hmm. Kunnioituksen arvoinen kumppani. Harvinaiset maametallit pääsevät taas matkaan. Pandat jäävät, ne ovat hyvin suosittuja.
+460 Pieni keltainen nalle kulkee kontin takaa. Kyltti ilmestyy: ”Sisältö ei ole saatavilla alueellasi.”
+461 Viesti puheenjohtajalta: ”Kolme suurvaltaa vaatii huippukokousta. Heti. G-Kaikki-huippukokous. Lähetän sinut sinne.”
+462 MINÄ KEKSIN TÄMÄN HUIPPUKOKOUKSEN.
+463 Pöytä on liian lyhyt.
+464 Olemme kaikki kumppaneita. Ja kilpailijoita.
+465 Aloitetaanko? Minä ensin. Kaikki sanovat, että olen paras aloittamaan.
+466 Ehdotamme, että aloitamme… kypsän harkinnan jälkeen. Viidenkymmenen vuoden päästä.
+467 Miksi Eurooppa istuu pöydässä? Sen piti istua lisätuolilla.
+468 LISÄTUOLI ON TREMENDOUS. Myyn niitä.
+469 Kaikki puhuvat yhtä aikaa. Tulkit luovuttavat. Jäljellä on vain yksi ratkaisu: väittely.
+470 Hiljaisuus salissa. Kolme suurvaltaa katsoo toisiaan… ja sitten Eurooppaa.
+471 Team Europe! Yhdessä olemme vahvempia kuin erikseen. Eikö se ole vähän koko unionin tarina?
+472 Konkreettisia saavutuksia, {P}. Tosiasiallista solidaarisuutta. Sanoin sen 1950. Sinä teit sen yhdessä harjoittelussa.
+473 Entä direktiivi kellonsiirrosta luopumisesta? Se palautettiin… komiteaan.
+474 Mutta se on toinen tarina.
+475 Seikkailu jatkuu! Uudet junat kulkevat Roomaan, Maastrichtiin ja Lissaboniin. Kerrotaan, että siellä nukkuu legendaarisia Euromoneja… Ja joku odottaa sinua Brysselin asemalla.
+476 Antiikkinen patsas Capitoliumin aukiolla. 25. maaliskuuta 1957 kuusi maata allekirjoitti täällä Rooman sopimuksen. Jokin liikkuu…
+477 Täällä 7. helmikuuta 1992 Maastrichtin sopimus synnytti Euroopan unionin. Jättimäinen eurokolikko alkaa hehkua…
+478 13. joulukuuta 2007 Lissabonin sopimus allekirjoitettiin Jerónimosin luostarissa. Läpikuultava hahmo lähestyy…
+479 Kaukana pakenee toinen Euromon: Constitutio. Vuonna 2005 hylättynä se ei koskaan anna napata itseään.
+480 Ensimmäinen harjoittelupäivä Euroopan parlamentissa! Professori Schuman odottaa sinua parlamentin aulassa.
+481 Tietokoneesi näyttää 437 lukematonta sähköpostia. Kaikkien aiheena on ”Kokousten koordinointikokous”.
+482 Parc Léopold. Varoitus: asiakirjapinoissa asuu villejä Euromoneja. Älä ruoki Amendoneja.
+483 Berlaymont — Euroopan komissio. Pääsy vain valtuutetuille. 13. kerros: puheenjohtajan toimisto (ja makuuhuone).
+484 ”Eurooppaa ei rakenneta kerralla eikä yhden kokonaissuunnitelman mukaan: se rakentuu konkreettisten saavutusten kautta.” — Robert Schuman, 9. toukokuuta 1950.
+485 Lobbari
+486 Päivää! En lobbaa. Teen ”asiantuntemuksen jakamista”. Pieni cocktailpala? Siinä on lohta. Norjalaista.
+487 Turisti
+488 Excuse me, missä Manneken Pis on? Minulle sanottiin, että hän on isompi… Minulle on valehdeltu paljon tällä matkalla.
+489 Lapsi
+490 Isona minusta tulee tulkki! 24 kielellä. Tai palomies, se on rauhallisempaa.
+491 Toimittaja
+492 Olen seurannut EU:ta kaksikymmentä vuotta. Lempiotsikkoni: ”Bryssel sanoo ei”. Se toimii joka kerta.
+494 Voitit… Kuulemma kesäaikadirektiivi on ollut jumissa neuvostossa vuodesta 2019. Onnea vaan.
+495 Turvamies
+496 Ardennien tie? Ei ilman Euromonia! Villit asiakirjat ovat aggressiivisia näin budjettikaudella.
+497 Seis! Kukaan ei lähde Brysselistä ilman Euromonia. Mene ensin professori Schumanin luo, parlamenttiin.
+498 Vartija
+499 13. kerros? Vain Eurooppa-neuvoston vakuuttaneet saavat mennä ylös. Ja ensin tarvitaan kahdeksan merkkiä.

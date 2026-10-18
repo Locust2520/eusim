@@ -1,0 +1,301 @@
+# Română — completion (ids 1200-1499)
+1200 Încărcătorul universal, obligatoriu din 2024.
+1201 Fake news
+1202 Un zvon viral. Dezinformează ținta.
+1203 Roaming
+1204 Fără taxe de roaming! Acționează prima.
+1205 AI Act
+1206 Primul regulament mondial privind IA (2024).
+1207 Trolling
+1208 Un comentariu neplăcut. Poate descumpăni.
+1209 Strângere de mână
+1210 Fermă și prelungită, în fața fotografilor.
+1211 Negocieri până la ora 5 dimineața. Adoarme ținta.
+1212 Compromis
+1213 Toată lumea pierde puțin, tu câștigi PV.
+1214 Sancțiuni
+1215 Un nou pachet de sancțiuni. Poate reduce Diplomația.
+1216 Canapea
+1217 Sofagate (Ankara, 2021): ținta își pierde tura. Doar primul tur.
+1218 Interpretariat
+1219 Tradus în 24 de limbi. Ceva se pierde.
+1220 Acord
+1221 Un acord istoric, semnat în ultima clipă.
+1222 Soft power
+1223 Farmecul european. Diplomație +2.
+1224 Aperitive fine
+1225 Un cocktail în Place Lux. Ținta trece sub influență.
+1226 Valiza
+1227 O valiză bine umplută, aruncată cu elan.
+1228 Sac cu bani
+1229 Bancnote pretutindeni. Terenul e acoperit de ele.
+1230 Notă de poziție
+1231 Un amendament la pachet, deja redactat.
+1232 Trecere la privat
+1233 Trece în sectorul privat. Reactivitate +2.
+1234 Influență
+1235 O vorbă glisată la urechea potrivită.
+1236 Ușa turnantă
+1237 Nu mai știi cine lucrează pentru cine.
+1238 Slogan
+1239 Trei cuvinte, nicio nuanță.
+1240 Autobuzul roșu
+1241 « 350 de milioane pe săptămână! » Poate dezinforma.
+1242 Megafon
+1243 Strigă mai tare decât toată lumea.
+1244 Euromit
+1245 O legendă despre Bruxelles, foarte convingătoare.
+1246 TREMENDOUS
+1247 Cea mai bună lovitură din toate timpurile. Argumentare +3.
+1248 Taxe vamale
+1249 Liberation Day (2 aprilie 2025). Poate reduce Reziliența.
+1250 Postare cu majuscule
+1251 UN MESAJ SCRIS COMPLET CU MAJUSCULE.
+1252 Not laughing
+1253 « You're not laughing now! » (2016). Poate reduce Diplomația.
+1254 Angajare fictivă
+1255 O muncă care nu există, dar costă.
+1256 Dispariție
+1257 De negăsit la birou. Eschivare +2.
+1258 SMS șters
+1259 Niciun mesaj nu rămâne. Anulează bonusurile adversarului.
+1260 Obsesie
+1261 Un dosar care revine să-și bântuie autorul.
+1262 Fluturaș de salariu
+1263 Un salariu plătit pentru nimic. Recuperează PV.
+1264 Ectoplasmă
+1265 O apariție spectaculoasă în Parlament.
+1266 Constituție
+1267 Respinsă în 2005… dar de o putere nebună.
+1268 Tratatul de la Roma
+1269 1957: fondarea CEE.
+1270 1992: Uniunea și moneda unică.
+1271 2007: tratatul care a înlocuit Constituția.
+1272 Pământuri rare
+1273 Restricționează exporturile. Poate îngheța fondurile.
+1274 Masa lungă
+1275 Primește la capătul unei mese de șase metri. Eschivare +2.
+1276 Rival sistemic
+1277 Partener, concurent, rival. Poate reduce Diplomația.
+1278 Groenlanda
+1279 Încearcă să cumpere o insulă întreagă. Daune mari.
+1280 Născut odată cu Pactul verde din 2019. Un lăstar răsare de fiecare dată când se votează o normă de emisii.
+1281 Obiectiv climatic
+1282 Se antrenează să-și reducă emisiile cu 55% până în 2030. Își numără fiecare calorie.
+1283 Neutralitate
+1284 Vizează neutralitatea climatică în 2050. Până atunci, plantează un copac la fiecare pas.
+1285 Un mic morman de cărbune din CECO-ul din 1951. Înnegrește tot ce atinge, cu entuziasm.
+1286 Hornul lui scuipă scântei când se enervează. Visează la ocuparea deplină a forței de muncă.
+1287 Oțel comun
+1288 Forjat din cărbunele și oțelul puse în comun. E dovada că pacea se poate fabrica.
+1289 Atom
+1290 Un atom mic și curios, născut din tratatul Euratom din 1957. Nu stă locului.
+1291 Reactor
+1292 Electronii lui se-nvârt atât de rapid că iluminează o încăpere întreagă. Sobrietatea e opțională.
+1293 Se divide în două când e contrariat. El și Verzii nu-și mai vorbesc.
+1294 Ștampilă
+1295 O ștampilă vie care validează tot ce întâlnește. Și-a ștampilat deja propriul stăpân.
+1296 Dosar de semnat
+1297 Parafează fiecare pagină în dreapta jos. Îi ia patru ore pentru fiecare tratat.
+1298 Ratificare
+1299 Se mișcă doar când 27 de parlamente naționale au spus da. Așa că doarme mult.
+1300 Se înmulțește cu miile la fiecare text de lege. Parlamentul primește uneori 2000 pentru un singur raport.
+1301 Obstrucție
+1302 Depune atâtea amendamente că blochează toată ședința. O tehnică bine pusă la punct.
+1303 Banner cookie
+1304 Apare în fața fiecărei uși din 2018, odată cu RGPD. Refuzul nu e niciodată de-ajuns.
+1305 Consimțământ
+1306 Îți cere acordul pentru tot, apoi și pentru acord în sine. E foarte politicos.
+1307 Încărcător
+1308 Obligatoriu pe toate dispozitivele de la finalul lui 2024. A lăsat fără treabă un sertar întreg de cabluri.
+1309 Capac
+1310 Nu-și mai lasă sticla din iulie 2024. Te pocnește în nas când bei.
+1311 Paiul dispărut
+1312 Interzis din 2021, îl credeam disparut. Bântuie fast-food-urile noaptea.
+1313 Banana
+1314 Un regulament din 1994 îi fixează calitatea. Își petrece viața măsurându-și propria curbură.
+1315 Roaming
+1316 Călătorește oriunde fără taxe din iunie 2017. Își sună mama de la fiecare frontieră.
+1317 Fără frontiere
+1318 A vizitat toate cele 27 de țări într-un weekend și a postat totul live. Fără costuri suplimentare.
+1319 Acest mic rozător pleacă un semestru în străinătate și se întoarce bilingv. Născut în 1987.
+1320 Schimb
+1321 A locuit în 12 apartamente în comun și gătește paste în 9 limbi.
+1322 Moneda
+1323 O monedă de 2 € care se rostogolește peste tot din 2002. Are 27 de fețe naționale posibile.
+1324 Monedă unică
+1325 Douăzeci de țări îi împart forța. Când una tușește, celelalte fac febră.
+1326 Liberă circulație
+1327 Născut pe o barcă pe Mosela în 1985. Nicio frontieră nu-l poate ține.
+1328 Erbicid
+1329 Reautorizat pentru zece ani în 2023. Buruienile tremură la trecerea lui.
+1330 Lobbyist
+1331 Bate coridoarele cu o servietă mai mare decât el. El nu face lobby, el „informează”.
+1332 Influencer
+1333 Cunoaște numărul de telefon al fiecărui asistent parlamentar. Și alergiile lor.
+1334 Mega-lobby
+1335 Unul din cei 25 000 de lobbyiști din Bruxelles, în versiune gigantică. Rescrie legile în somn.
+1336 Cufăr de fier
+1337 Un cufăr de fier care face Bruxelles–Strasbourg de douăsprezece ori pe an. Suferă de rău de mișcare.
+1338 Mutare
+1339 Transportă un parlament întreg în burta lui. Costul călătoriei: mai bine nu întrebi.
+1340 Schimbarea orei
+1341 Parlamentul i-a votat desființarea în 2019. Totuși, revine de două ori pe an.
+1342 Fraudă
+1343 Trișează la controale din 2015: curat pe standul de test, cu fum pe șosea.
+1344 Face campanie pentru președinție… apoi altcineva e numit în locul lui.
+1345 Interpret
+1346 Vorbește 24 de limbi și mereu cu două secunde întârziere.
+1347 Trei capete: Parlament, Consiliu, Comisie. Se pun de acord pe la ora 4 dimineața.
+1348 Nimeni nu știe exact ce face. Totuși, participă în 300 de comitete.
+1349 Formular
+1350 Un teanc de formulare în triplu exemplar. Lipsește mereu o pagină.
+1351 Arhive
+1352 Ține totul, inclusiv post-it-urile din 1958. Clasare: alfabetică și emoțională.
+1353 Fermier mic
+1354 Primește un ajutor din PAC pentru fiecare hectar. Își numără hectarele în fiecare dimineață.
+1355 Absoarbe o treime din bugetul european fără să clipească. Îi este mereu foame.
+1356 Politică agricolă
+1357 Când blochează autostrada cu tractoarele, până și Consiliul negociază.
+1358 Se parchează în fața Parlamentului la fiecare reformă. Claxon garantat.
+1359 Brânză
+1360 O brânză mică din lapte crud, cu miros puternic. E mândră de ținutul ei.
+1361 Protejată printr-o denumire de origine. Orice imitație e dată în judecată.
+1362 Pralină
+1363 O ciocolată belgiană foarte drăguță. Se topește când e complimentată.
+1364 Cartof prăjit belgian
+1365 Prăjit de două ori, cum se cuvine. Refuză categoric să fie numit „French”.
+1366 Porumbel
+1367 Trăiește în Place du Luxembourg și furăcartofii prăjiți ai lobbyiștilor. Cunoaște toate bârfele.
+1368 Omuleț
+1369 O statuetă de 55 cm cu mai multe costume decât tot Parlamentul.
+1370 Atomium
+1371 Nouă sfere de oțel legate în cristal, din 1958, de la Expo 58. Strălucește noaptea peste Bruxelles.
+1372 Stagiar
+1373 Muncește mult și nu e plătit. Spune că e „o experiență care te formează”.
+1374 Agent temporar
+1375 Contractul lui se termină în trei luni. Îl reînnoiește de șase ani.
+1376 A trecut concursul EPSO. Nu mai se teme de nimic, cu excepția reformei pensiilor.
+1377 Nemulțumit
+1378 E împotrivă. Nu importă ce anume, e împotrivă.
+1379 Orator
+1380 Se cațără pe orice masă pentru a înflăcăra mulțimea. Chiar și la cantină.
+1381 Demagog
+1382 Promite totul tuturor. Promisiunile i se evaporă în zori.
+1383 Informație falsă
+1384 Își schimbă forma în funcție de cine îl privește. E foarte împărțit.
+1385 Cont fals
+1386 Un mic robot care comentează totul cu majuscule. Nu a dormit niciodată.
+1387 Fabrică de troli
+1388 Zece mii de conturi într-o singură cutie. Alegerile îl cunosc bine.
+1389 Învață din tot ce faci. Știe deja ce vei captura.
+1390 IA reglementată
+1391 Primul regulament mondial privind inteligența artificială (2024) l-a pus la punct.
+1392 Se îngrașă puțin în fiecare lună. Gospodăriile îl urmăresc de aproape.
+1393 Hiperinflație
+1394 Atât de gras că blochează străzile. BCE crește ratele pentru a-l slăbi.
+1395 Diferență de randament
+1396 Se întinde la fiecare declarație stângace a unui bancher central.
+1397 Criptomonedă
+1398 Valorează o avere dimineața și nimic seara. Adoră roller coasterul.
+1399 Cripto reglementată
+1400 Regulamentul MiCA l-a obligat să poarte cravată. E mai calm, acum.
+1401 Echilibru bugetar
+1402 Nu cheltuiește niciodată nimic, nici măcar energia. Strigătul lui: „Schwarze Null!”
+1403 Troica
+1404 Trei pisici: BCE, Comisia, FMI. Inspectează împreună conturile celorlalți.
+1405 O broască care orăcăie „nu!” la fiecare propunere. E de-ajuns ea singură ca să blocheze tot.
+1406 Unanimitate
+1407 Cere unanimitate pentru fiecare decizie, apoi o refuză chiar el.
+1408 Barieră
+1409 Reapare de fiecare dată când se vorbește despre controale la frontieră. Are propria lui gheretă.
+1410 Ieșire
+1411 A vrut să plece în 2016, a plecat în 2020, și regretă din când în când. Pleacă des din lupte.
+1412 Consultare
+1413 O urnă care pune întrebări simple la probleme complicate.
+1414 Plătit de Parlament, nu a pus niciodată piciorul acolo. Nimeni nu l-a văzut vreodată muncind.
+1415 Are o insignă, un contract și un fluturaș de salariu. Dar niciun birou.
+1416 Găsit plin de bancnote într-un apartament bruxellez în decembrie 2022.
+1417 Servietă
+1418 O valiză mică ce trece din mână în mână la poalele Parlamentului.
+1419 Conductă
+1420 Lungă de 1200 km, pe sub mare. Robinetul ei e controlat de altcineva.
+1421 Palele lui se-nvârt de cum adie vântul. Urăște zilele fără vânt.
+1422 Eolian marin
+1423 Trăiește în largul Mării Nordului și alimentează orașe întregi.
+1424 Panou solar
+1425 Doarme noaptea și muncește din greu ziua, mai ales în Spania.
+1426 Împiedică prețurile să crească prea mult. Îl doare gâtul de cât împinge.
+1427 Taxă vamală
+1428 Taxează tot ce trece pe lângă el. Până și foile moarte.
+1429 Război comercial
+1430 Ridică un tabel gigantic de taxe. Cifrele se schimbă în fiecare dimineață.
+1431 O pietricică mică de care depind toate telefoanele. Exporturile ei sunt supravegheate.
+1432 Panda diplomat
+1433 Împrumutat pentru câțiva ani unei grădini zoologice europene. Mănâncă bambus și acorduri comerciale.
+1434 Conținut indisponibil
+1435 Acest ursuleț galben nu e vizibil în nicio regiune. Fișa lui a fost retrasă.
+1436 Porumbel jurist
+1437 Își face cuib pe turnurile Curții de Justiție de la Kirchberg și gângurește în latină.
+1438 Declarație
+1439 Recită declarația din 9 mai 1950 oricui vrea să asculte. Apare de Ziua Europei.
+1440 Premiul Nobel
+1441 O medalie oferită Uniunii Europene în 2012. Strălucește de mândrie.
+1442 Burniță
+1443 Un mic nor bruxellez. Plouă pe tine 200 de zile pe an.
+1444 Prânz de afaceri
+1445 Un prânz de lucru care durează trei ore. Se decide mai mult aici decât în ședință.
+1446 Acord comercial
+1447 E în negociere din 1999. Când avansează un pas, tractoarele îl resping.
+1448 Născut pe 25 martie 1957, la Capitoliu. A fondat Comunitatea Economică Europeană.
+1449 Tratatul de la Maastricht
+1450 Născut în Țările de Jos în 1992. A creat Uniunea și a visat euro.
+1451 Tratatul de la Lisabona
+1452 Semnat în 2007, a reluat esențialul unei constituții care n-a văzut niciodată lumina zilei.
+1453 Respinsă prin referendum în Franța și Țările de Jos în 2005. Fuge de cum te apropii de ea.
+1454 Nu știe decât un singur atac, și acesta reușește mereu. A salvat euro cu o singură frază.
+1455 Ștampilă oficială
+1456 Ștampilează un Euromon slăbit pentru a-l înregistra.
+1457 Super Ștampilă
+1458 Cerneală întărită. Mai eficientă decât o ștampilă simplă.
+1459 Ștampilă calificată
+1460 Majoritate calificată: șansă foarte bună de capturare.
+1461 Ștampilă unanimă
+1462 Unanimitatea! Capturare garantată. Extrem de rară.
+1463 Cafea de cantină
+1464 Refă 20 PV. Călduță, dar eficientă.
+1465 Sandviș club
+1466 Refă 50 PV. Preferatul stagiarilor.
+1467 Gofră de Bruxelles
+1468 Refă 120 PV. Zahăr pudră inclus.
+1469 Kniddelen
+1470 Specialitate luxemburgheză. Refă 200 PV.
+1471 Meniu complet
+1472 Aperitiv, fel principal, desert: refă toate PV.
+1473 Aviz juridic
+1474 Vindecă toate problemele de stare.
+1475 Ceas cu alarmă
+1476 Trezește un Euromon adormit de un summit.
+1477 Moțiune de relansare
+1478 Readuce un Euromon K.O. în stare să dezbată.
+1479 Relansare unanimă
+1480 Reanimă un Euromon K.O. cu toate PV.
+1481 Pauză sindicală
+1482 Refă toate PP ale unui Euromon.
+1483 Argumentar
+1484 În luptă: crește Argumentarea.
+1485 Vestă antiglonț
+1486 În luptă: crește Reziliența.
+1487 Raport de expert
+1488 În luptă: crește Expertiza.
+1489 Agendă cu adrese
+1490 În luptă: crește Diplomația.
+1491 Dublu expresso
+1492 În luptă: crește Reactivitatea.
+1493 Nesolicitare
+1494 Clauză anti-demarșaj: ține Euromonii la distanță de 100 de pași.
+1495 Face să evolueze anumiți Euromoni. Sunt necesare 27 de semnături.
+1496 Face să evolueze anumiți Euromoni energetici.
+1497 Cheie USB-C
+1498 Face să evolueze anumiți Euromoni digitali.
+1499 Enciclopedia Euromonilor, oferită de Jean Monnet.

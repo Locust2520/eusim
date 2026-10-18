@@ -1,0 +1,41 @@
+# Danish — completion
+583 Trader
+963 Gentleman
+1754 Titelskærm
+1755 Professor Schuman
+1756 Laboratorium
+1758 Din etværelses lejlighed
+1761 Kantine
+1763 Butik
+1764 Station
+1766 På vejen
+1767 Kamp: vild Euromon
+1768 Øjenkontakt
+1769 Kamp: træner
+1771 Kamp: Oliver
+1773 Sejr
+1774 Sejr (vild)
+1775 Sejr (træner)
+1776 Udvikling
+1778 Arena
+1780 Kamp: arena
+1782 Kamp: arenaleder
+1784 Schengen
+1789 Farvel, Oliver
+1791 Team Lobby
+1792 Kamp: boss
+1794 Spøgelsesfløjen
+1797 Det Europæiske Råd
+1799 Kamp: Råd
+1802 Kamp: formanden
+1804 Kamp: stormagter
+1807 Finalekamp
+1809 Legendariske steder
+1810 Kamp: legendarisk
+1812 Finalekamp (variant)
+1813 Jukeboks
+1814 %d numre ud af %d
+1815 Vælg et nummer.
+1816 JUKEBOKS
+1817 A: lyt    B: tilbage
+1818 En gammel jukeboks, afbrudt. En seddel: »Sættes i stikket igen efter dit første mærke. — Teknisk service«

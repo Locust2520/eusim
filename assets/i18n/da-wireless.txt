@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Online
+2165	Uden internet
+2166	Opret et lokalt spil
+2167	Deltag i et lokalt spil
+2156	Spil i nærheden
+2158	Uden router eller server.
+2159	Genstart spillet for at skifte Wi-Fi-tilstand.
+2163	DS-tilstand: åbent/WEP-netværk. Start spillet i DSi-tilstand for WPA2.
+2162	DSi Wi-Fi: tjek WPA2-netværket og konsollens indstillinger.
+2160	Forbinder til DSi Wi-Fi… B: annuller
+2161	Forbinder til DS Wi-Fi… B: annuller
+2154	Konsollen svarer ikke.

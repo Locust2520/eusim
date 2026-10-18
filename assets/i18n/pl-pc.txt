@@ -1,0 +1,157 @@
+# Polish — computer mini-games
+1928 Prince Mbeki III
+1929 Spadek 4 mln € do podziału
+1930 Lobby diesla
+1931 Zaproszenie: kolacja z homarem
+1932 Dział HR
+1933 Spotkanie koordynacyjne w sprawie spotkań
+1934 SuperPromo
+1935 Twój darmowy telefon czeka
+1936 Qatar Events
+1937 Mała walizka dla Ciebie?
+1938 Bank Bezpieczeństwa
+1939 Potwierdź swoje hasło tutaj
+1940 Newsletter
+1941 47 ekscytujących nowości RODO
+1942 Porządek dnia sesji plenarnej
+1943 Mama
+1944 Dobrze się odżywiasz w Brukseli?
+1945 Stołówka
+1946 Menu dnia: waterzooi
+1947 Kancelaria Trybunału
+1948 Wyrok do zgłoszenia przed południem
+1949 Komisja
+1950 Głosowanie nad budżetem jutro
+1951 Twój Eurodex został zaktualizowany
+1952 Debata dziś wieczorem? Wygram.
+1953 Odebrane
+1954 437 nieprzeczytanych e-maili! Dotknij prawdziwego e-maila, aby go przeczytać, a czerwonego krzyżyka, by wyrzucić spam. Obsłuż 20, zanim skrzynka się przepełni!
+1955 Czytaj: dotknij · Spam: X
+1956 Błędy: %d / 3
+1957 Skrzynka pusta! Po raz pierwszy od 2019 roku. Ciesz się, to nie potrwa długo.
+1958 Skrzynka się przepełnia! Serwer Komisji właśnie się zawiesił. Znowu.
+1959 Wyrzuciłeś e-mail od przewodniczącej i odpisałeś księciu. Zdarza się najlepszym.
+1960 Od 2024 roku nowe telefony sprzedawane w UE muszą mieć port USB-C.
+1961 Prawda: dyrektywa o uniwersalnym ładowaniu obowiązuje od końca 2024 roku.
+1962 UE zakazuje sprzedaży zbyt zakrzywionych bananów.
+1963 Fałsz: rozporządzenie z 1994 roku klasyfikowało banany według jakości. Zakrzywione wciąż są w sprzedaży.
+1964 Flaga europejska ma 12 gwiazd, ponieważ było 12 krajów członkowskich.
+1965 Fałsz: 12 to symbol doskonałości. Flaga powstała w 1955 roku, dużo wcześniej niż było 12 krajów.
+1966 Parlament Europejski zasiada przez tydzień w miesiącu w Strasburgu.
+1967 Prawda: 12 sesji rocznie w Strasburgu, razem z całym przewożonym bagażem dokumentów.
+1968 Komisarze europejscy są wybierani bezpośrednio przez obywateli.
+1969 Fałsz: są proponowani przez rządy, a następnie zatwierdzani przez Parlament.
+1970 Unia Europejska ma 24 języki urzędowe.
+1971 Prawda: od irlandzkiego do maltańskiego, wszystkie teksty są tłumaczone na 24 języki.
+1972 Wszystkie kraje UE używają euro.
+1973 Fałsz: w 2026 roku używa go 21 z 27 krajów. Bułgaria dołączyła jako ostatnia.
+1974 Opłaty roamingowe zostały zniesione w UE w 2017 roku.
+1975 Prawda: od czerwca 2017 roku wszędzie obowiązuje zasada „jak w domu”.
+1976 Hymn europejski to Oda do radości Beethovena.
+1977 Prawda: bez oficjalnych słów, żeby nie obrazić żadnego języka.
+1978 Luksemburg jest najmniejszym krajem UE.
+1979 Fałsz: to Malta, około 316 km².
+1980 Unia Europejska otrzymała Pokojową Nagrodę Nobla.
+1981 Prawda: w 2012 roku, za 60 lat pokoju i pojednania.
+1982 RODO chroni dane osobowe od 2018 roku.
+1983 Prawda: obowiązuje od 25 maja 2018 roku. Stąd banery cookies…
+1984 Krzywe ogórki są zakazane do sprzedaży w UE.
+1985 Fałsz: norma dotycząca ich krzywizny została zniesiona w 2009 roku.
+1986 Nakrętki muszą pozostać przymocowane do plastikowych butelek.
+1987 Prawda: obowiązkowe od lipca 2024 roku, żeby nie trafiały już do natury.
+1988 Szwajcaria jest członkiem Unii Europejskiej.
+1989 Fałsz: jest w obszarze Schengen, ale nie w UE.
+1990 Europejski Bank Centralny ma siedzibę w Brukseli.
+1991 Fałsz: znajduje się we Frankfurcie, w Niemczech.
+1992 Kłamomierz
+1993 Plotki o Europie krążą szybciej niż dyrektywy! Przy każdym stwierdzeniu dotknij PRAWDA lub FAŁSZ. Potrzebujesz 7 dobrych odpowiedzi na 10.
+1994 PRAWDA
+1995 FAŁSZ
+1996 Prawda czy fałsz?
+1997 Pytanie %d / 10
+1998 Dobra odpowiedź!
+1999 Za późno!
+2000 Nietrafione!
+2001 Dotknij, aby kontynuować
+2002 Brawo! Wszystkie te fake newsy zostały obalone. Fact-checkerzy chcą cię zrekrutować.
+2003 Krążyło zbyt wiele fake newsów… Konto „PrawdziwaEuropa2027” zyskuje 10 000 obserwujących.
+2004 Bułgarski
+2005 Czeski
+2006 Duński
+2007 Niemiecki
+2008 Grecki
+2009 Angielski
+2010 Hiszpański
+2011 Estoński
+2012 Fiński
+2013 Francuski
+2014 Irlandzki
+2015 Chorwacki
+2016 Węgierski
+2017 Włoski
+2018 Litewski
+2019 Łotewski
+2020 Maltański
+2021 Niderlandzki
+2022 Polski
+2023 Portugalski
+2024 Rumuński
+2025 Słowacki
+2026 Słoweński
+2027 Szwedzki
+2028 Tłumaczenia
+2029 Wiadomości napływają z całej Europy! Przeczytaj każdą i wyślij ją do odpowiedniej kabiny tłumaczeń. 12 wiadomości w 45 sekund. Błąd kosztuje 3 sekundy!
+2030 Kabiny tłumaczy
+2031 Wyślij wiadomość do dobrej kabiny
+2032 Wszystkie wiadomości dotarły bezpiecznie! DG ds. Tłumaczeń proponuje ci stanowisko. W 24 językach.
+2033 Słowacka wiadomość trafiła do Słoweńców… Incydent dyplomatyczny jest właśnie tłumaczony.
+2034 Kryzys energetyczny! Ceny szybują w górę.
+2035 Lockdown: nikt już nic nie kupuje.
+2036 Gigantyczny plan naprawczy przyjęty tej nocy!
+2037 Krach na giełdzie we Frankfurcie!
+2038 Niedobór chipów elektronicznych!
+2039 Gospodarstwa domowe odkładają wszystkie pieniądze.
+2040 Przewodniczysz EBC! Inflacja rośnie? Podnieś stopę. Spada? Obniż ją. Utrzymuj ją w zielonej strefie (wokół 2 %) przez co najmniej połowę czasu. 40 sekund!
+2041 Inflacja: %s
+2042 Stopa: %s
+2043 Obniż
+2044 Podnieś
+2046 Inflacja opanowana! Rynki biją brawo, a ciułacze śpią spokojnie.
+2047 Inflacja ci się wymknęła… Cena kawy w stołówce właśnie się podwoiła.
+2048 Micro-USB
+2049 Lightning
+2050 Mini-USB
+2052 Uniwersalna ładowarka
+2053 Od 2024 roku USB-C jest obowiązkowy! Dotykaj urządzeń, które mają jeszcze stary port, by je dostosować. Tylko nie tych z USB-C! 20 urządzeń w 30 sekund.
+2054 Dotykaj starych portów, nie USB-C!
+2055 Wszyscy zgodni z normą! Jedna ładowarka dla wszystkich. Szuflady z kablami w całej Europie odetchnęły.
+2056 „Dostosowałeś” urządzenie, które już miało USB-C. Teraz ma trzy adaptery.
+2057 Zbyt wiele starych kabli umknęło dyrektywie… Szuflada z kablami jest przepełniona.
+2058 Twój komputer. W rogu ekranu miga 437 nieprzeczytanych e-maili.
+2059 Poczta
+2060 Wyłącz
+2061 Wyświetla się powiadomienie: „Gratulacje za Twoją produktywność!” Pod biurkiem czekała na ciebie przesyłka.
+2062 Skrzynka pusta. Trzy sekundy później: „Re: Spotkanie koordynacyjne w sprawie spotkań”.
+2063 Serwer pocztowy wyświetla klepsydrę. Pewnie będzie ją wyświetlał aż do jutra.
+2064 Komputer biura prasowego. Ekran wyświetla: „Komórka Kłamomierza – plotki do zweryfikowania: 2384”.
+2065 Kawał dobrej roboty przy weryfikacji! Biuro prasowe daje ci te eksperckie raporty. One mają źródła.
+2066 Wszystkie dzisiejsze plotki zweryfikowane. Do obiadu przyjdą kolejne.
+2067 Fake news właśnie udostępniono 40 000 razy. Zaprzeczenie – 12 razy.
+2068 Terminal DG ds. Tłumaczeń. Czerwona lampka miga: „Wiadomości czekające na przekierowanie”.
+2069 Tłumacze są przeciążeni! Możesz posortować wiadomości i wysłać je do odpowiedniej kabiny?
+2070 Dwadzieścia cztery języki, żadnego błędu w przekierowaniu! Weź ten notes z adresami, są w nim wszyscy tłumacze Trybunału.
+2071 Rozpoznajesz słoweński od słowackiego lepiej niż połowa Rady.
+2072 Maltańska wiadomość trafiła do kabiny irlandzkiej. Wciąż o tym dyskutują. Spróbuj znowu, kiedy chcesz.
+2073 Terminal Bloomberga, jeszcze ciepły. Na karteczce: „Cel: 2 %. Nie 1,9. Nie 2,1. 2.”
+2074 Przejąć kontrolę nad polityką monetarną strefy euro?
+2075 Rynki chwalą twoją ostrożność. Premia za stabilność wpływa na twoje konto!
+2076 Inflacja na poziomie 2 %. Gdzieś we Frankfurcie jakiś ekonomista roni łzę szczęścia.
+2077 Terminal wyświetla wykres w formie rollercoastera. Nikt nic nie widział. Zacznij szybko od nowa.
+2078 Komputer eurodeputowanej. Na biurku kłębowisko 14 różnych ładowarek.
+2079 Zagłosowałam za dyrektywą USB-C! Ale moi koledzy wciąż mają stare urządzenia… Pomożesz mi je dostosować?
+2080 Jedna ładowarka dla wszystkich! Masz, weź tę pamięć USB-C. Mówią, że dzięki niej ewoluują pewne cyfrowe Euromony.
+2081 Szuflada z kablami jest nareszcie pusta. Nie wiem już, co do niej włożyć.
+2082 Wszędzie jeszcze zostały kable Lightning… Możemy spróbować ponownie, kiedy chcesz.
+2083 Zielona strefa: %d %%
+2084 Cel: połowa czasu w zielonym
+2085 Dock 30

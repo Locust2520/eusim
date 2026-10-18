@@ -1,0 +1,13 @@
+# Native DSi internet and direct local wireless
+2164	Tiešsaistē
+2165	Bez interneta
+2166	Izveidot vietējo spēli
+2167	Pievienoties vietējai spēlei
+2156	Spēles tuvumā
+2158	Bez maršrutētāja vai servera.
+2159	Lai mainītu Wi-Fi režīmu, pārstartējiet spēli.
+2163	DS režīms: atvērts/WEP tīkls. WPA2 vajadzīgs DSi režīms.
+2162	DSi Wi-Fi: pārbaudiet WPA2 tīklu un konsoles iestatījumus.
+2160	Savieno ar DSi Wi-Fi… B: atcelt
+2161	Savieno ar DS Wi-Fi… B: atcelt
+2154	Konsole neatbild.

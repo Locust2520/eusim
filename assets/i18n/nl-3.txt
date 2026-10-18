@@ -1,0 +1,476 @@
+# Nederlands — ids 1000-1499
+1000 Fijne Europadag! Tot volgend jaar.
+1002 Federaal
+1003 Soeverein
+1004 Liberaal
+1005 Sociaal
+1006 Groen
+1007 Industrie
+1008 Energie
+1009 Juridisch
+1010 Monetair
+1011 Landbouw
+1012 Digitaal
+1015 Populist
+1016 Spook
+1017 Amendement
+1018 Wijzigt de tekst van de tegenstander, alinea per alinea.
+1019 Papierwerk
+1020 Begraaft het doelwit onder formulieren.
+1021 Dienstnota
+1022 Een interne nota, heel streng.
+1023 Vergadering
+1024 Een coördinatievergadering waar iedereen van in slaap valt.
+1025 Droogstempel
+1026 Een strakke, officiële stempelklap.
+1027 Comitologie
+1028 Niemand begrijpt de procedure. Zelfs het doelwit niet.
+1029 Nalezen
+1030 Leest zijn dossier opnieuw. Verhoogt Weerbaarheid sterk.
+1031 Richtlijn
+1032 Een bindende tekst die dringend moet worden omgezet.
+1033 Verordening
+1034 Rechtstreeks toepasselijk in alle lidstaten.
+1035 Triloog
+1036 Parlement, Raad, Commissie: raakt 2 tot 5 keer.
+1037 Spoed
+1038 Spoedprocedure: handelt als eerste.
+1039 Koffiepauze
+1040 Een kantinekoffie. Herstelt de helft van de HP.
+1041 Plagiaat
+1042 Kopieert de laatste aanval van de tegenstander.
+1043 Jaarverslag
+1044 Laadt een beurt op, en slaat dan toe met 400 pagina's.
+1045 Integratie
+1046 Een kleine stap naar een steeds hechtere unie.
+1047 Subsidiariteit
+1048 Handelt op het juiste niveau. Verhoogt Diplomatie.
+1049 Verenigde Staten EU
+1050 De grote federale droom, op volle kracht.
+1053 Interne markt
+1054 Schaft de grenzen af… en de Diplomatie van de tegenstander.
+1055 Twaalf sterren
+1056 Twaalf gouden sterren die nooit missen.
+1057 Lijsttrekker
+1058 Een Spitzenkandidaten-campagne. Vaak voltreffers.
+1059 Uitbreiding
+1060 Verwelkomt nieuwe leden. Argumentatie +2.
+1061 Blokkeert elke aanval deze beurt. Unanimiteit is heilig.
+1062 Grens
+1063 Voert controles weer in. Kan Reactie verlagen.
+1065 Stelt zich vrij van de gemeenschappelijke regels. Weerbaarheid +2.
+1066 Referendum
+1067 Een simpele vraag, ingewikkelde gevolgen.
+1068 Artikel 7
+1069 Schort rechten op. Argumentatie van de tegenstander -2.
+1070 Verlaat het gevecht… als de onderhandelingen slagen.
+1071 Korting
+1072 'I want my money back!' Herstelt HP.
+1073 Soevereiniteit
+1074 Neemt met veel lawaai de controle terug.
+1075 Mededinging
+1076 Vrij en onvervalst, maar het doet pijn.
+1077 Vrijhandel
+1078 Een handelsakkoord zonder heffingen.
+1079 Deregulering
+1080 Schrapt beschermingen. Weerbaarheid van de tegenstander -2.
+1082 Disruptief en snel. Handelt als eerste.
+1083 Onzichtbare hand
+1084 Je ziet hem niet aankomen. Mist nooit.
+1085 Tegelijkertijd
+1086 Van rechts en van links, raakt 2 tot 5 keer.
+1087 Trickle-down
+1088 Laat euro's op het veld druppelen.
+1089 Staking
+1090 Alles ligt stil. Bevriest de middelen van het doelwit.
+1091 Sociale pijler
+1092 Een ijzersterke Europese pijler van sociale rechten.
+1093 Minimumloon
+1094 Richtlijn van 2022 over toereikende lonen.
+1095 Betoging
+1096 Een zee van spandoeken. Kan intimideren.
+1097 Solidariteit
+1098 Deelt de inspanning. Herstelt de helft van de HP.
+1099 Het Griekse 'nee' van juli 2015. Terugslag gegarandeerd.
+1101 Een uitwisseling die de geest verruimt. Kan Expertise verhogen.
+1102 Green Deal
+1103 De Green Deal van 2019 vol in het gezicht.
+1104 Herbebossing
+1105 Plant opnieuw. Herstelt de helft van de HP.
+1106 Koolstoftaks
+1107 Mechanisme voor koolstofcorrectie aan de grens. Kan Expertise verlagen.
+1108 Neutraal 2050
+1109 Netto nul uitstoot, in één klap.
+1111 Het stinkt. Kan blootstellen aan invloed.
+1112 Vaste dop
+1113 Richtlijn 2019/904: de dop laat het doelwit niet meer los.
+1115 -55 % uitstoot tegen 2030, en het knalt.
+1116 Fiets
+1117 Een expressfietspad. Handelt als eerste.
+1118 Steenkool
+1119 De EGKS van 1951 als kanonskogel. Kan een schandaal veroorzaken.
+1120 Staal
+1121 Een vuist van Europees staal.
+1122 Hoogoven
+1123 Extreme hitte. Kan een schandaal ontketenen.
+1124 Delokalisatie
+1125 Vertrekt naar elders. Kan Reactie van de tegenstander verlagen.
+1127 Een Europese kampioen in duikvlucht.
+1128 Lopende band
+1129 Montagelijn: raakt 2 tot 5 keer.
+1130 Industrieplan
+1131 Zwengelt de productie aan. Argumentatie +2.
+1132 Vonk
+1133 Een kleine kortsluiting. Kan middelen bevriezen.
+1134 Kernsplijting
+1135 Euratom, 1957. De energie van het atoom.
+1136 Windturbine
+1137 Wieken die draaien… en hoofden ook.
+1138 Gaskraan
+1139 Sluit de toevoer af. Bevriest de middelen.
+1141 Plan van 2022 om af te kicken. Expertise +2.
+1142 Overspanning
+1143 Een brute ontlading, met terugslag.
+1144 Kernfusie
+1145 De ITER-reactor op vol vermogen.
+1146 Prijsplafond
+1147 Zet een plafond op de tegenstander. Expertise -2.
+1148 Ingebrekestelling
+1149 Eerste officiële waarschuwing.
+1150 Inbreuk
+1151 Een raak gerichte inbreukprocedure.
+1152 Arrest HvJ-EU
+1153 Luxemburg heeft beslist. Geen beroep mogelijk.
+1154 Een miljardenboete. Overal vliegen munten.
+1155 OLAF-onderzoek
+1156 Het fraudebestrijdingsbureau onderzoekt. Kan het doelwit blokkeren.
+1157 AVG
+1158 Beschermt gegevens. Ontwijking van de tegenstander -2.
+1159 Rechtspraak
+1160 Steunt op precedenten. Expertise +2.
+1162 Digitaledienstenverordening. Kan Expertise verlagen.
+1163 Euromunt
+1164 Een opgooi met een munt van 2 €. Kop of munt?
+1165 Beleidsrente
+1166 Verhoogt de rente. Kan het doelwit vertragen.
+1167 Geldpers
+1168 Kwantitatieve versoepeling naar believen.
+1169 Bezuiniging
+1170 De broekriem aanhalen. Argumentatie van de tegenstander -2.
+1172 'Wat er ook voor nodig is' (Draghi, juli 2012). Lukt altijd.
+1173 Inflatie
+1174 Vreet beurt na beurt aan de koopkracht.
+1176 Het renteverschil schiet omhoog. Vaak voltreffers.
+1177 Herstelplan
+1178 NextGenerationEU, 750 mld €. Herstelt de helft van de HP.
+1179 Tractor
+1180 Blokkeert de weg. Kan het doelwit vertragen.
+1181 GLB
+1182 Gemeenschappelijk landbouwbeleid: herstelt HP.
+1183 Mest
+1184 Uitgereden voor het provinciehuis. Kan besmetten.
+1185 BOB
+1186 Beschermde oorsprongsbenaming. Weerbaarheid +2.
+1187 Oogst
+1188 Een recordoogst, recht op het hoofd.
+1189 Glyfosaat
+1190 In 2023 voor tien jaar opnieuw toegelaten. Kan vergiftigen met invloed.
+1191 Kromme banaan
+1192 Verordening van 1994 over de kwaliteit van bananen. Verwarrend.
+1194 Een banner die niet weg te klikken is. Bevriest het doelwit.
+1196 Fout 404. Kan desinformeren.
+1197 Algoritme
+1198 Een gepersonaliseerde aanbeveling, heel gepersonaliseerd.
+1200 De universele lader, verplicht sinds 2024.
+1201 Nepnieuws
+1202 Een viraal gerucht. Desinformeert het doelwit.
+1204 Geen roamingkosten meer! Handelt als eerste.
+1205 AI-verordening
+1206 De eerste AI-verordening ter wereld (2024).
+1207 Trollen
+1208 Een vervelende opmerking. Kan van de wijs brengen.
+1209 Handdruk
+1210 Stevig en langdurig, voor de fotografen.
+1211 Onderhandelingen tot 5 uur 's ochtends. Laat het doelwit in slaap vallen.
+1212 Compromis
+1213 Iedereen verliest een beetje, jij wint HP.
+1214 Sancties
+1215 Een nieuw sanctiepakket. Kan Diplomatie verlagen.
+1216 Bank
+1217 Sofagate (Ankara, 2021): het doelwit verliest zijn beurt. Alleen in de 1e beurt.
+1218 Tolken
+1219 Vertaald in 24 talen. Er gaat iets verloren.
+1220 Akkoord
+1221 Een historisch akkoord, op het nippertje getekend.
+1223 Europese charme. Diplomatie +2.
+1224 Hapjes
+1225 Een receptie op het Luxemburgplein. Het doelwit komt onder invloed.
+1226 Koffer
+1227 Een goed gevulde koffer, met zwier gegooid.
+1228 Geldtas
+1229 Overal bankbiljetten. Het veld ligt ermee bezaaid.
+1230 Standpuntnota
+1231 Een kant-en-klaar sleutelamendement, al uitgeschreven.
+1232 Overstap
+1233 Gaat naar de privésector. Reactie +2.
+1234 Invloed
+1235 Een woordje in het juiste oor.
+1236 Draaideur
+1237 Niemand weet nog wie voor wie werkt.
+1239 Drie woorden, nul nuance.
+1240 Rode bus
+1241 '350 miljoen per week!' Kan desinformeren.
+1242 Megafoon
+1243 Roept harder dan iedereen.
+1244 Euromythe
+1245 Een legende over Brussel, heel overtuigend.
+1247 De beste zet aller tijden. Argumentatie +3.
+1248 Invoerheffingen
+1249 Liberation Day (2 april 2025). Kan Weerbaarheid verlagen.
+1250 Hoofdletterpost
+1251 EEN BERICHT HELEMAAL IN HOOFDLETTERS.
+1253 'You're not laughing now!' (2016). Kan Diplomatie verlagen.
+1254 Schijnbaan
+1255 Een baan die niet bestaat, maar wel geld kost.
+1256 Verdwijning
+1257 Onvindbaar op kantoor. Ontwijking +2.
+1258 Gewiste sms
+1259 Er blijft geen bericht over. Heft de bonussen van de tegenstander op.
+1260 Spokerij
+1261 Een dossier dat zijn auteur komt achtervolgen.
+1262 Loonstrookje
+1263 Een salaris voor niks. Herstelt HP.
+1264 Ectoplasma
+1265 Een spectaculaire verschijning in het Parlement.
+1266 Grondwet
+1267 Verworpen in 2005… maar waanzinnig krachtig.
+1268 Verdrag van Rome
+1269 1957: de oprichting van de EEG.
+1270 1992: de Unie en de gemeenschappelijke munt.
+1271 2007: het verdrag dat de Grondwet verving.
+1272 Zeldzame aarden
+1273 Beperkt de export. Kan middelen bevriezen.
+1274 Lange tafel
+1275 Ontvangt aan het eind van een tafel van zes meter. Ontwijking +2.
+1276 Systeemrivaal
+1277 Partner, concurrent, rivaal. Kan Diplomatie verlagen.
+1278 Groenland
+1279 Probeert een heel eiland te kopen. Grote schade.
+1280 Geboren met de Green Deal van 2019. Er schiet een scheutje op telkens als er een emissienorm wordt aangenomen.
+1281 Klimaatdoel
+1282 Hij traint om zijn uitstoot tegen 2030 met 55 % te verminderen. Hij telt elke calorie.
+1283 Neutraliteit
+1284 Hij mikt op klimaatneutraliteit in 2050. Tot dan plant hij bij elke stap een boom.
+1285 Een hoopje steenkool uit de EGKS van 1951. Hij maakt alles wat hij aanraakt enthousiast zwart.
+1286 Zijn schoorsteen spuwt vonken als hij boos wordt. Hij droomt van volledige werkgelegenheid.
+1287 Gedeeld staal
+1288 Gesmeed uit samengevoegde kolen en staal. Hij is het bewijs dat vrede te maken is.
+1289 Atoom
+1290 Een nieuwsgierig atoompje, geboren uit het Euratomverdrag van 1957. Hij kan niet stilzitten.
+1291 Reactor
+1292 Zijn elektronen draaien zo snel dat hij een hele kamer verlicht. Zuinigheid optioneel.
+1293 Hij splitst zich als hij boos is. Hij en de Groenen spreken niet meer met elkaar.
+1294 Stempel
+1295 Een levende stempel die alles goedkeurt wat hij tegenkomt. Hij heeft zijn eigen trainer al afgestempeld.
+1296 Vloeiboek
+1297 Hij parafeert elke pagina rechtsonder. Hij heeft vier uur per verdrag nodig.
+1298 Ratificatie
+1299 Hij beweegt pas als 27 nationale parlementen ja hebben gezegd. Hij slaapt dus veel.
+1300 Hij plant zich voort bij duizenden met elke wettekst. Het Parlement krijgt er soms 2000 per verslag.
+1301 Obstructie
+1302 Hij dient zoveel amendementen in dat hij de hele vergadering blokkeert. Een beproefde techniek.
+1303 Cookiebanner
+1304 Sinds de AVG van 2018 verschijnt hij voor elke deur. Weigeren is nooit genoeg.
+1305 Toestemming
+1306 Hij vraagt overal toestemming voor, en daarna toestemming voor de toestemming. Hij is heel beleefd.
+1307 Lader
+1308 Verplicht op alle toestellen sinds eind 2024. Hij heeft een hele kabellade werkloos gemaakt.
+1309 Dop
+1310 Hij verlaat zijn fles niet meer sinds juli 2024. Hij tikt tegen je neus als je drinkt.
+1311 Verdwenen rietje
+1312 Verboden sinds 2021, men dacht dat hij uitgestorven was. 's Nachts spookt hij door fastfoodrestaurants.
+1313 Banaan
+1314 Een verordening van 1994 legt zijn kwaliteit vast. Hij meet zijn leven lang zijn eigen kromming.
+1315 Roaming
+1316 Hij reist sinds juni 2017 overal zonder kosten. Hij belt zijn moeder vanaf elke grens.
+1317 Grenzeloos
+1318 Hij bezocht alle 27 landen in één weekend en postte alles live. Zonder meerkosten.
+1319 Dit knaagdiertje gaat een semester naar het buitenland en komt tweetalig terug. Geboren in 1987.
+1320 Uitwisseling
+1321 Hij woonde in 12 studentenhuizen en kookt pasta in 9 talen.
+1322 Munt
+1323 Een munt van 2 € die sinds 2002 overal rondrolt. Hij heeft 27 mogelijke nationale zijden.
+1324 Eenheidsmunt
+1325 Twintig landen delen zijn kracht. Als er één hoest, krijgen de anderen koorts.
+1326 Vrij verkeer
+1327 In 1985 geboren op een boot op de Moezel. Geen grens houdt hem tegen.
+1328 Herbicide
+1329 In 2023 voor tien jaar opnieuw toegelaten. Het onkruid beeft als hij langskomt.
+1330 Colporteur
+1331 Hij hangt rond in de gangen met een aktetas groter dan hijzelf. Hij lobbyt niet, hij 'informeert'.
+1332 Influencer
+1333 Hij kent het nummer van elke parlementaire assistent. En hun allergieën.
+1334 Megalobby
+1335 Een van de 25 000 Brusselse lobbyisten, in reuzenformaat. Hij herschrijft wetten in zijn slaap.
+1336 IJzeren koffer
+1337 Een ijzeren koffer die twaalf keer per jaar Brussel–Straatsburg doet. Hij wordt wagenziek.
+1338 Verhuizing
+1339 Hij draagt een heel parlement in zijn buik. Reiskosten: beter niet naar vragen.
+1340 Klokwissel
+1341 Het Parlement stemde in 2019 voor zijn afschaffing. Toch komt hij twee keer per jaar terug.
+1342 Fraude
+1343 Hij sjoemelt sinds 2015 bij tests: schoon op de testbank, rokerig op de weg.
+1344 Hij voert campagne voor het voorzitterschap… en dan wordt iemand anders benoemd.
+1345 Tolk
+1346 Hij spreekt 24 talen, altijd met twee seconden vertraging.
+1347 Drie hoofden: Parlement, Raad, Commissie. Rond 4 uur 's nachts zijn ze het eens.
+1348 Niemand weet precies wat hij doet. Toch zit hij in 300 comités.
+1349 Formulier
+1350 Een stapel formulieren in drievoud. Er ontbreekt altijd een pagina.
+1351 Archief
+1352 Hij bewaart alles, zelfs post-its van 1958. Ordening: alfabetisch en emotioneel.
+1353 Kleine boer
+1354 Hij krijgt GLB-steun per hectare. Elke ochtend telt hij zijn hectares.
+1355 Hij slokt een derde van de Europese begroting op zonder met de ogen te knipperen. Hij heeft altijd honger.
+1356 Landbouwbeleid
+1357 Als hij met zijn tractoren de snelweg blokkeert, onderhandelt zelfs de Raad.
+1358 Bij elke hervorming parkeert hij voor het Parlement. Getoeter gegarandeerd.
+1359 Kaas
+1360 Een kaasje van rauwe melk dat heel sterk ruikt. Hij is trots op zijn terroir.
+1361 Beschermd door een oorsprongsbenaming. Elke namaak belandt voor de rechter.
+1362 Praline
+1363 Een heel lieve Belgische praline. Hij smelt als je hem een compliment geeft.
+1364 Belgische friet
+1365 Twee keer gebakken, zoals het hoort. Hij weigert pertinent 'French' genoemd te worden.
+1366 Duif
+1367 Hij woont op het Luxemburgplein en pikt de frietjes van de lobbyisten. Hij kent alle roddels.
+1368 Mannetje
+1369 Een beeldje van 55 cm met meer kostuums dan het hele Parlement.
+1371 Negen stalen bollen verbonden als een kristal, sinds Expo 58. 's Nachts straalt hij boven Brussel.
+1372 Stagiair
+1373 Hij werkt veel en wordt niet betaald. Hij zegt dat het 'een leerzame ervaring' is.
+1374 Tijdelijk functionaris
+1375 Zijn contract loopt over drie maanden af. Hij verlengt het al zes jaar.
+1376 Hij is geslaagd voor het EPSO-vergelijkend onderzoek. Hij vreest niets meer, behalve de pensioenhervorming.
+1377 Mopperaar
+1378 Hij is tegen. Waartegen maakt niet uit: hij is tegen.
+1379 Redenaar
+1380 Hij klimt op elke tafel om de menigte op te zwepen. Zelfs in de kantine.
+1381 Demagoog
+1382 Hij belooft iedereen alles. Zijn beloftes verdampen bij het ochtendgloren.
+1383 Nepnieuws
+1384 Hij verandert van vorm naargelang wie naar hem kijkt. Hij wordt heel veel gedeeld.
+1385 Nepaccount
+1386 Een robotje dat alles in hoofdletters becommentarieert. Hij heeft nog nooit geslapen.
+1387 Trollenfabriek
+1388 Tienduizend accounts in één doos. Verkiezingen kennen hem goed.
+1389 Hij leert van alles wat je doet. Hij weet al wat je gaat vangen.
+1390 Gereguleerde AI
+1391 De eerste verordening ter wereld over artificiële intelligentie (2024) heeft hem in het gareel gebracht.
+1392 Hij zwelt elke maand een beetje op. Huishoudens houden hem nauwlettend in de gaten.
+1393 Hyperinflatie
+1394 Zo groot dat hij de straten verstopt. De ECB verhoogt de rente om hem te laten afvallen.
+1395 Renteverschil
+1396 Hij rekt zich uit bij elke onhandige uitspraak van een centrale bankier.
+1397 Cryptomunt
+1398 's Ochtends is hij een fortuin waard, 's avonds niets. Hij is dol op achtbanen.
+1399 Gereguleerde crypto
+1400 De MiCA-verordening dwong hem een das te dragen. Hij is nu rustiger.
+1401 Begrotingsevenwicht
+1402 Hij geeft nooit iets uit, zelfs geen energie. Zijn kreet: 'Schwarze Null!'
+1403 Trojka
+1404 Drie katten: ECB, Commissie, IMF. Samen controleren ze andermans rekeningen.
+1405 Een pad die bij elk voorstel 'nee!' kwaakt. Hij alleen volstaat om alles te blokkeren.
+1406 Unanimiteit
+1407 Hij eist unanimiteit voor elke beslissing, en weigert die dan zelf.
+1408 Slagboom
+1409 Hij duikt op zodra er over grenscontroles wordt gesproken. Hij heeft zijn eigen wachthuisje.
+1410 Uittreding
+1411 Hij wilde weg in 2016, ging weg in 2020 en heeft er soms spijt van. Hij verlaat vaak gevechten.
+1412 Volksraadpleging
+1413 Een stembus die simpele vragen stelt over ingewikkelde problemen.
+1414 Betaald door het Parlement, maar hij heeft er nooit een voet gezet. Niemand heeft hem ooit zien werken.
+1415 Hij heeft een badge, een contract en een loonstrookje. Maar geen kantoor.
+1416 In december 2022 vol bankbiljetten gevonden in een Brussels appartement.
+1417 Aktetas
+1418 Een koffertje dat aan de voet van het Parlement van hand tot hand gaat.
+1419 Pijpleiding
+1420 1200 km lang onder de zee. Zijn kraan wordt door iemand anders bediend.
+1421 Zijn wieken draaien zodra je erop blaast. Hij haat windstille dagen.
+1422 Wind op zee
+1423 Hij woont voor de kust van de Noordzee en voorziet hele steden van stroom.
+1424 Zonnepaneel
+1425 Hij slaapt 's nachts en werkt hard overdag, vooral in Spanje.
+1426 Hij voorkomt dat de prijzen te hoog stijgen. Hij heeft een stijve nek van al dat duwen.
+1427 Invoerrecht
+1428 Hij belast alles wat langs hem komt. Zelfs dode bladeren.
+1429 Handelsoorlog
+1430 Hij zwaait met een reusachtig bord vol heffingen. De cijfers veranderen elke ochtend.
+1431 Een steentje waar alle telefoons van afhangen. Zijn export wordt in de gaten gehouden.
+1432 Diplomatenpanda
+1433 Voor een paar jaar uitgeleend aan een Europese dierentuin. Hij eet bamboe en handelsakkoorden.
+1434 Inhoud niet beschikbaar
+1435 Dit gele beertje is in geen enkele regio zichtbaar. Zijn fiche is verwijderd.
+1436 Juristenduif
+1437 Hij nestelt op de torens van het Hof van Justitie op de Kirchberg en koert in het Latijn.
+1438 Verklaring
+1439 Hij draagt de verklaring van 9 mei 1950 voor aan iedereen die wil luisteren. Hij verschijnt op Europadag.
+1440 Nobelprijs
+1441 Een medaille die in 2012 aan de Europese Unie werd toegekend. Hij straalt van trots.
+1442 Motregen
+1443 Een Brussels wolkje. Het regent 200 dagen per jaar op je.
+1444 Zakenlunch
+1445 Een werklunch van drie uur. Er wordt meer beslist dan in de plenaire vergadering.
+1446 Handelsakkoord
+1447 Hij wordt al sinds 1999 onderhandeld. Telkens hij een stap vooruit zet, duwen de tractoren hem terug.
+1448 Geboren op 25 maart 1957 op het Capitool. Hij richtte de Europese Economische Gemeenschap op.
+1449 Verdrag van Maastricht
+1450 Geboren in Nederland in 1992. Hij richtte de Unie op en droomde de euro.
+1451 Verdrag van Lissabon
+1452 In 2007 getekend, nam hij het belangrijkste over van een grondwet die nooit het licht zag.
+1453 In 2005 bij referendum verworpen in Frankrijk en Nederland. Hij vlucht zodra je in de buurt komt.
+1454 Hij kent maar één aanval, en die lukt altijd. Hij redde de euro met één zin.
+1455 Officiële stempel
+1456 Stempelt een verzwakte Euromon af om hem te registreren.
+1457 Superstempel
+1458 Versterkte inkt. Effectiever dan een gewone stempel.
+1459 Gekwalificeerde stempel
+1460 Gekwalificeerde meerderheid: zeer goede vangkans.
+1461 Unanieme stempel
+1462 Unanimiteit! Vangst gegarandeerd. Uiterst zeldzaam.
+1463 Kantinekoffie
+1464 Herstelt 20 HP. Lauw, maar doeltreffend.
+1465 Clubsandwich
+1466 Herstelt 50 HP. De favoriet van de stagiairs.
+1467 Brusselse wafel
+1468 Herstelt 120 HP. Poedersuiker inbegrepen.
+1470 Luxemburgse specialiteit. Herstelt 200 HP.
+1471 Volledig menu
+1472 Voorgerecht, hoofdgerecht, dessert: herstelt alle HP.
+1473 Juridisch advies
+1474 Geneest alle statusproblemen.
+1475 Wekker
+1476 Wekt een Euromon die door een top in slaap is gevallen.
+1477 Herstartmotie
+1478 Maakt een uitgeschakelde Euromon weer debatklaar.
+1479 Unanieme herstart
+1480 Brengt een uitgeschakelde Euromon terug met alle HP.
+1481 Vakbondspauze
+1482 Herstelt alle PP van een Euromon.
+1483 Argumentarium
+1484 In gevecht: verhoogt Argumentatie.
+1485 Kogelvrij vest
+1486 In gevecht: verhoogt Weerbaarheid.
+1487 Expertiseverslag
+1488 In gevecht: verhoogt Expertise.
+1489 Adresboekje
+1490 In gevecht: verhoogt Diplomatie.
+1491 Dubbele espresso
+1492 In gevecht: verhoogt Reactie.
+1493 Niet-werving
+1494 Antiwervingsclausule: houdt Euromons 100 stappen weg.
+1495 Laat bepaalde Euromons evolueren. Er zijn 27 handtekeningen nodig.
+1496 Laat bepaalde energie-Euromons evolueren.
+1497 USB-C-stick
+1498 Laat bepaalde digitale Euromons evolueren.
+1499 Encyclopedie van de Euromons, een cadeau van Jean Monnet.

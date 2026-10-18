@@ -1,0 +1,38 @@
+# Unified multiplayer lobby and connection messages
+2106	Multiplayerdebat
+2148	Opret et rum
+2149	Deltag i et rum
+2150	Spil med hvem som helst
+2151	Rummets navn
+2153	PIN (6 cifre)
+2145	Venter på spillere…
+2146	Søger hvert 10. sekund.
+2147	PIN: %s
+2118	Annuller (B)
+2117	Bekræft (A)
+2116	←→: position    ↑↓: ciffer
+2152	Indtast et navn til rummet.
+2113	Ugyldigt svar fra serveren.
+2135	Ugyldig anmodning om rum.
+2136	Det rumnavn er allerede i brug.
+2137	Rummet blev ikke fundet.
+2138	Forkert PIN.
+2139	Rummet er fuldt.
+2140	Spilversionerne er forskellige.
+2141	Serveren er fuld.
+2142	Rummet er udløbet.
+2143	Ugyldig debatudveksling.
+2144	Serveren er stoppet.
+2108	Debatten er annulleret.
+2109	Serveren svarer ikke.
+2110	Forbindelsen til serveren er afbrudt.
+2111	Den anden spiller forlod debatten.
+2115	Debatterne er ikke synkroniseret.
+2114	Venter på den anden spiller… B: annuller
+2123	Forbinder til Wi-Fi… B: annuller
+2124	Kunne ikke starte Wi-Fi.
+2125	Tjek konsollens Wi-Fi-indstillinger.
+2126	Kunne ikke oprette forbindelsen.
+2127	Kunne ikke indstille forbindelsen.
+2128	Serveren kan ikke nås.
+2129	Du skal have et hold for at debattere.

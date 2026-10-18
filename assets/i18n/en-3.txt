@@ -1,0 +1,460 @@
+# English — ids 1000-1499
+1000 Happy Europe Day! See you next year.
+1002 Federal
+1003 Sovereign
+1004 Liberal
+1006 Green
+1007 Industry
+1008 Energy
+1009 Legal
+1010 Monetary
+1011 Agri
+1012 Digital
+1015 Populist
+1016 Ghost
+1017 Amendment
+1018 Changes the opponent's text, one paragraph at a time.
+1019 Paperwork
+1020 Buries the target under forms.
+1021 Memo
+1022 A very firm internal memo.
+1023 Meeting
+1024 A coordination meeting that puts everyone to sleep.
+1025 Dry Stamp
+1026 A clean, official stamp.
+1027 Comitology
+1028 Nobody understands the procedure. Not even the target.
+1029 Proofreading
+1030 Rereads its file. Sharply raises Resilience.
+1031 Directive
+1032 A binding text to be transposed urgently.
+1033 Regulation
+1034 Directly applicable in all member states.
+1035 Trilogue
+1036 Parliament, Council, Commission: hits 2 to 5 times.
+1037 Urgency
+1038 Urgent procedure: goes first.
+1039 Coffee Break
+1040 A canteen coffee. Restores half the HP.
+1041 Plagiarism
+1042 Copies the opponent's last move.
+1043 Annual Report
+1044 Charges for one turn, then knocks out with 400 pages.
+1045 Integration
+1046 A small step towards an ever closer union.
+1047 Subsidiarity
+1048 Acts at the right level. Raises Diplomacy.
+1049 United States EU
+1050 The great federal dream, launched at full power.
+1053 Single Market
+1054 Abolishes borders… and the opponent's Diplomacy.
+1055 Twelve Stars
+1056 Twelve golden stars that never miss.
+1057 Lead Candidate
+1058 A Spitzenkandidat campaign. High critical-hit rate.
+1059 Enlargement
+1060 Welcomes new members. Argument +2.
+1061 Blocks any attack this turn. Unanimity is sacred.
+1062 Border
+1063 Restores checks. May lower Reactivity.
+1065 Exempts itself from the common rules. Resilience +2.
+1066 Referendum
+1067 A simple question, complicated consequences.
+1069 Suspends rights. Opponent's Argument -2.
+1070 Leaves the battle… if the negotiations succeed.
+1071 Rebate
+1072 "I want my money back!" Regains HP.
+1073 Sovereignty
+1074 Takes back control, with a crash.
+1075 Competition
+1076 Free and undistorted, but it hurts.
+1077 Free Trade
+1078 A zero-tariff trade agreement.
+1079 Deregulation
+1080 Removes protections. Opponent's Resilience -2.
+1081 Start-up
+1082 Disruptive and fast. Goes first.
+1083 Invisible Hand
+1084 You never see it coming. Never misses.
+1085 At the Same Time
+1086 From the right and the left, hits 2 to 5 times.
+1087 Trickle-down
+1088 Makes euros trickle down onto the field.
+1089 Strike
+1090 Everything stops. Freezes the target's funds.
+1091 Social Pillar
+1092 A rock-solid European pillar of social rights.
+1093 Minimum Wage
+1094 2022 directive on adequate wages.
+1095 Protest
+1096 A sea of placards. May intimidate.
+1097 Solidarity
+1098 Shares the effort. Restores half the HP.
+1099 The Greek "no" of July 2015. Recoil guaranteed.
+1101 An exchange that broadens the mind. May raise Expertise.
+1102 Green Deal
+1103 The 2019 Green Deal, right in the face.
+1104 Reforestation
+1105 Replants. Restores half the HP.
+1106 Carbon Tax
+1107 Carbon border adjustment mechanism. May lower Expertise.
+1108 Neutral 2050
+1109 Net zero emissions, in a single blow.
+1111 It smells strong. May expose to influence.
+1112 Tethered Cap
+1113 Directive 2019/904: the cap won't let go of the target.
+1115 -55% emissions by 2030, and it hits hard.
+1116 Bicycle
+1117 An express cycle lane. Goes first.
+1118 Coal
+1119 The 1951 ECSC as a cannonball. May cause a scandal.
+1120 Steel
+1121 A fist of European steel.
+1122 Blast Furnace
+1123 Extreme heat. May trigger a scandal.
+1124 Offshoring
+1125 Moves elsewhere. May lower the opponent's Reactivity.
+1127 A European champion in a nosedive.
+1128 Assembly Line
+1129 Production line: hits 2 to 5 times.
+1130 Industrial Plan
+1131 Revives production. Argument +2.
+1132 Spark
+1133 A little short circuit. May freeze funds.
+1135 Euratom, 1957. The power of the atom.
+1136 Wind Turbine
+1137 Blades that spin… and heads too.
+1138 Gas Tap
+1139 Cuts off supply. Freezes funds.
+1141 2022 plan to kick the habit. Expertise +2.
+1142 Power Surge
+1143 A brutal discharge, with recoil.
+1145 The ITER reactor at full power.
+1146 Price Cap
+1147 Puts a cap on the opponent. Expertise -2.
+1148 Formal Notice
+1149 First official warning.
+1150 Infringement
+1151 A well-aimed infringement procedure.
+1152 CJEU Ruling
+1153 Luxembourg has ruled. No appeal possible.
+1154 A billion-euro fine. Coins fly everywhere.
+1155 OLAF Probe
+1156 The Anti-Fraud Office investigates. May block the target.
+1157 GDPR
+1158 Protects data. Opponent's Evasion -2.
+1159 Case Law
+1160 Relies on precedent. Expertise +2.
+1162 Digital Services Act. May lower Expertise.
+1163 Euro Coin
+1164 A €2 coin toss. Heads or tails?
+1165 Key Rate
+1166 Raises rates. May slow the target.
+1167 Money Printer
+1168 Quantitative easing at will.
+1169 Austerity
+1170 Tighten your belts. Opponent's Argument -2.
+1172 "Whatever it takes" (Draghi, July 2012). Always succeeds.
+1174 Eats away at purchasing power, turn after turn.
+1176 The rate gap soars. High critical-hit rate.
+1177 Recovery Plan
+1178 NextGenerationEU, €750bn. Restores half the HP.
+1179 Tractor
+1180 Blocks the road. May slow the target.
+1181 CAP
+1182 Common Agricultural Policy: regains HP.
+1183 Slurry
+1184 Spread in front of the prefecture. May contaminate.
+1185 PDO
+1186 Protected designation. Resilience +2.
+1187 Harvest
+1188 A record harvest, straight to the head.
+1190 Reauthorised for ten years in 2023. May poison with influence.
+1191 Bent Banana
+1192 1994 regulation on banana quality. Confusing.
+1194 A banner you can't close. Freezes the target.
+1196 Error 404. May misinform.
+1197 Algorithm
+1198 A personalised recommendation, very personalised.
+1200 The universal charger, mandatory since 2024.
+1202 A viral rumour. Misinforms the target.
+1204 No more roaming charges! Goes first.
+1205 AI Act
+1206 The world's first AI regulation (2024).
+1207 Trolling
+1208 A nasty comment. May disconcert.
+1209 Handshake
+1210 Firm and prolonged, in front of the photographers.
+1211 Negotiations until 5 a.m. Puts the target to sleep.
+1212 Compromise
+1213 Everyone loses a little, you gain HP.
+1215 A new sanctions package. May lower Diplomacy.
+1216 Sofa
+1217 Sofagate (Ankara, 2021): the target loses its turn. First turn only.
+1218 Interpreting
+1219 Translated into 24 languages. Something gets lost.
+1220 Agreement
+1221 A historic agreement, signed at the last minute.
+1223 European charm. Diplomacy +2.
+1224 Canapés
+1225 A cocktail party on Place Lux. The target falls under influence.
+1226 Suitcase
+1227 A well-filled suitcase, thrown with gusto.
+1228 Bag of Cash
+1229 Banknotes everywhere. The field is covered with them.
+1230 Position Paper
+1231 A ready-made key amendment, already drafted.
+1232 Revolving Job
+1233 Moves to the private sector. Reactivity +2.
+1235 A word in the right ear.
+1236 Revolving Door
+1237 Nobody knows who works for whom any more.
+1239 Three words, zero nuance.
+1240 Red Bus
+1241 "350 million a week!" May misinform.
+1242 Megaphone
+1243 Shouts louder than everyone else.
+1244 Euromyth
+1245 A legend about Brussels, very convincing.
+1247 The best move of all time. Argument +3.
+1248 Tariffs
+1249 Liberation Day (2 April 2025). May lower Resilience.
+1250 Caps Lock Post
+1251 A MESSAGE WRITTEN ENTIRELY IN CAPITAL LETTERS.
+1253 "You're not laughing now!" (2016). May lower Diplomacy.
+1254 Fake Job
+1255 A job that doesn't exist, but costs money.
+1256 Vanishing
+1257 Nowhere to be found at the office. Evasion +2.
+1258 Deleted Text
+1259 No message remains. Cancels the opponent's boosts.
+1260 Haunting
+1261 A file that comes back to haunt its author.
+1262 Payslip
+1263 A salary paid for nothing. Regains HP.
+1264 Ectoplasm
+1265 A spectacular apparition in Parliament.
+1267 Rejected in 2005… but insanely powerful.
+1268 Treaty of Rome
+1269 1957: the founding of the EEC.
+1270 1992: the Union and the single currency.
+1271 2007: the treaty that replaced the Constitution.
+1272 Rare Earths
+1273 Restricts exports. May freeze funds.
+1274 Long Table
+1275 Receives you at the end of a six-metre table. Evasion +2.
+1276 Systemic Rival
+1277 Partner, competitor, rival. May lower Diplomacy.
+1279 Tries to buy an entire island. Heavy damage.
+1280 Born with the 2019 Green Deal. A sprout shoots up every time an emissions standard is voted.
+1281 Climate Goal
+1282 It trains to cut its emissions by 55% by 2030. It counts every calorie.
+1283 Neutrality
+1284 It aims for carbon neutrality in 2050. Until then, it plants a tree with every step.
+1285 A small heap of coal from the 1951 ECSC. It blackens everything it touches, enthusiastically.
+1286 Its chimney spits sparks when it gets angry. It dreams of full employment.
+1287 Pooled Steel
+1288 Forged in pooled coal and steel. It is proof that peace can be manufactured.
+1289 Atom
+1290 A curious little atom, born of the 1957 Euratom treaty. It can't sit still.
+1291 Reactor
+1292 Its electrons spin so fast it lights up a whole room. Energy saving optional.
+1293 It splits in two when it's upset. It and the Greens are no longer on speaking terms.
+1294 Stamp
+1295 A living stamp that approves everything it meets. It has already stamped its own trainer.
+1296 Signature Book
+1297 It initials every page at the bottom right. It needs four hours per treaty.
+1298 Ratification
+1299 It only moves when 27 national parliaments have said yes. So it sleeps a lot.
+1300 It multiplies by the thousand with every bill. Parliament sometimes receives 2,000 per report.
+1301 Filibuster
+1302 It tables so many amendments that it blocks the whole sitting. A well-honed technique.
+1303 Cookie Banner
+1304 It has appeared in front of every door since the 2018 GDPR. Rejecting it is never enough.
+1305 Consent
+1306 It asks for your consent to everything, then for consent to the consent itself. It's very polite.
+1307 Charger
+1308 Mandatory on all devices since late 2024. It put a whole drawer of cables out of work.
+1309 Bottle Cap
+1310 It hasn't left its bottle since July 2024. It hits your nose when you drink.
+1311 Lost Straw
+1312 Banned since 2021, it was thought extinct. It haunts fast-food restaurants at night.
+1313 Banana
+1314 A 1994 regulation sets its quality. It spends its life measuring its own curvature.
+1316 It travels everywhere at no extra cost since June 2017. It calls its mum from every border.
+1317 Borderless
+1318 It visited all 27 countries in one weekend and live-posted everything. No surcharge.
+1319 This little rodent goes abroad for a semester and comes back bilingual. Born in 1987.
+1320 Exchange
+1321 It has lived in 12 flatshares and cooks pasta in 9 languages.
+1322 Coin
+1323 A €2 coin that has rolled everywhere since 2002. It has 27 possible national sides.
+1324 Single Currency
+1325 Twenty countries share its strength. When one coughs, the others get a fever.
+1326 Free Movement
+1327 Born on a boat on the Moselle in 1985. No border can hold it back.
+1329 Reauthorised for ten years in 2023. Weeds tremble as it passes.
+1330 Canvasser
+1331 It roams the corridors with a briefcase bigger than itself. It doesn't lobby, it "informs".
+1332 Influencer
+1333 It knows the number of every parliamentary assistant. And their allergies.
+1334 Mega-lobby
+1335 One of Brussels' 25,000 lobbyists, in giant form. It rewrites laws in its sleep.
+1336 Iron Trunk
+1337 An iron trunk that goes Brussels–Strasbourg twelve times a year. It gets travel sick.
+1338 Relocation
+1339 It carries an entire parliament in its belly. Cost of the trip: don't ask.
+1340 Clock Change
+1341 Parliament voted to abolish it in 2019. Yet it still comes back twice a year.
+1342 Fraud
+1343 It has cheated on tests since 2015: clean on the test bench, smoky on the road.
+1344 It campaigns for the presidency… then someone else is appointed instead.
+1345 Interpreter
+1346 It speaks 24 languages, always with a two-second delay.
+1347 Three heads: Parliament, Council, Commission. They reach agreement around 4 a.m.
+1348 Nobody knows exactly what it does. Yet it sits on 300 committees.
+1349 Form
+1350 A pile of forms in triplicate. There's always one page missing.
+1352 It keeps everything, even sticky notes from 1958. Filing system: alphabetical and emotional.
+1353 Small Farmer
+1354 It gets a CAP payment for each hectare. It counts its hectares every morning.
+1355 It swallows a third of the European budget without flinching. It's always hungry.
+1356 Farm Policy
+1357 When it blocks the motorway with its tractors, even the Council negotiates.
+1358 It parks in front of Parliament at every reform. Horn-honking guaranteed.
+1359 Cheese
+1360 A little raw-milk cheese that smells very strong. It's proud of its terroir.
+1361 Protected by a designation of origin. Any imitation is taken to court.
+1363 A very kind Belgian chocolate. It melts when you pay it a compliment.
+1364 Belgian Fry
+1365 Fried twice, as it should be. It flatly refuses to be called "French".
+1367 It lives on Place du Luxembourg and steals lobbyists' fries. It knows all the gossip.
+1368 Little Fellow
+1369 A little 55 cm statue with more costumes than the whole of Parliament.
+1371 Nine steel spheres linked as a crystal, since Expo 58. It shines over Brussels at night.
+1372 Intern
+1373 It works a lot and isn't paid. It says it's "a learning experience".
+1374 Temp Agent
+1375 Its contract ends in three months. It has been renewing it for six years.
+1376 It passed the EPSO competition. It fears nothing any more, except pension reform.
+1377 Grumbler
+1378 It's against. Against what doesn't matter, it's against.
+1379 Orator
+1380 It climbs onto every table to harangue the crowd. Even in the canteen.
+1381 Demagogue
+1382 It promises everything to everyone. Its promises evaporate at dawn.
+1383 Fake News
+1384 It changes shape depending on who's looking at it. It's very widely shared.
+1385 Fake Account
+1386 A little robot that comments on everything in capitals. It has never slept.
+1387 Troll Farm
+1388 Ten thousand accounts in a single box. Elections know it well.
+1389 It learns from everything you do. It already knows what you're going to catch.
+1390 Regulated AI
+1391 The world's first regulation on artificial intelligence (2024) brought it into line.
+1392 It swells a little every month. Households keep a close eye on it.
+1393 Hyperinflation
+1394 So big it blocks the streets. The ECB raises rates to make it slim down.
+1395 Rate Gap
+1396 It stretches with every clumsy statement by a central banker.
+1397 Cryptocurrency
+1398 It's worth a fortune in the morning and nothing at night. It loves roller coasters.
+1399 Regulated Crypto
+1400 The MiCA regulation made it wear a tie. It's calmer now.
+1401 Balanced Budget
+1402 It never spends anything, not even its energy. Its cry: "Schwarze Null!"
+1403 Troika
+1404 Three cats: ECB, Commission, IMF. Together they inspect other people's accounts.
+1405 A toad that croaks "no!" at every proposal. It takes just one to block everything.
+1406 Unanimity
+1407 It demands unanimity for every decision, then refuses it itself.
+1408 Barrier
+1409 It reappears whenever border checks are mentioned. It has its own sentry box.
+1410 Exit
+1411 It wanted to leave in 2016, left in 2020, and sometimes regrets it. It often leaves battles.
+1412 Consultation
+1413 A ballot box that asks simple questions about complicated problems.
+1414 Paid by Parliament, it has never set foot there. Nobody has ever seen it work.
+1415 It has a badge, a contract and a payslip. But no office.
+1416 Found full of banknotes in a Brussels flat in December 2022.
+1417 Briefcase
+1418 A small suitcase that passes from hand to hand at the foot of Parliament.
+1420 1,200 km long under the sea. Its tap is controlled by someone else.
+1421 Its blades spin as soon as you blow on it. It hates windless days.
+1422 Offshore Wind
+1423 It lives off the North Sea coast and powers entire cities.
+1424 Solar Panel
+1425 It sleeps at night and works hard by day, especially in Spain.
+1426 It stops prices from rising too high. Its neck hurts from all the pushing.
+1427 Tariff
+1428 It taxes everything that passes in front of it. Even dead leaves.
+1429 Trade War
+1430 It brandishes a giant board of taxes. The figures change every morning.
+1431 A little pebble that every phone depends on. Its exports are being watched.
+1432 Panda Diplomat
+1433 On loan to a European zoo for a few years. It eats bamboo and trade agreements.
+1434 Content Unavailable
+1435 This yellow bear cub is not visible in any region. Its entry has been removed.
+1436 Lawyer Pigeon
+1437 It nests on the Court of Justice towers in Kirchberg and coos in Latin.
+1438 Declaration
+1439 It recites the declaration of 9 May 1950 to anyone who will listen. It appears on Europe Day.
+1440 Nobel Prize
+1441 A medal awarded to the European Union in 2012. It shines with pride.
+1442 Drizzle
+1443 A little Brussels cloud. It rains on you 200 days a year.
+1444 Business Lunch
+1445 A three-hour working lunch. More gets decided there than in the chamber.
+1446 Trade Deal
+1447 It has been under negotiation since 1999. When it takes one step forward, the tractors push it back.
+1448 Born on 25 March 1957 on the Capitol. It founded the European Economic Community.
+1449 Maastricht Treaty
+1450 Born in the Netherlands in 1992. It created the Union and dreamed up the euro.
+1451 Treaty of Lisbon
+1452 Signed in 2007, it took over most of a constitution that never saw the light of day.
+1453 Rejected by referendum in France and the Netherlands in 2005. It flees as soon as you approach.
+1454 It knows only one move, and it always succeeds. It saved the euro with one sentence.
+1455 Official Stamp
+1456 Stamps a weakened Euromon to register it.
+1457 Super Stamp
+1458 Reinforced ink. More effective than a plain stamp.
+1459 Qualified Stamp
+1460 Qualified majority: very good chance of capture.
+1461 Unanimous Stamp
+1462 Unanimity! Guaranteed capture. Extremely rare.
+1463 Canteen Coffee
+1464 Restores 20 HP. Lukewarm, but effective.
+1465 Club Sandwich
+1466 Restores 50 HP. The interns' favourite.
+1467 Brussels Waffle
+1468 Restores 120 HP. Icing sugar included.
+1470 A Luxembourg speciality. Restores 200 HP.
+1471 Full Menu
+1472 Starter, main, dessert: restores all HP.
+1473 Legal Opinion
+1474 Cures all status problems.
+1475 Alarm Clock
+1476 Wakes a Euromon put to sleep by a summit.
+1477 Revival Motion
+1478 Brings a fainted Euromon back into the debate.
+1479 Unanimous Revival
+1480 Revives a fainted Euromon with all its HP.
+1481 Union Break
+1482 Restores all of a Euromon's PP.
+1483 Talking Points
+1484 In battle: raises Argument.
+1485 Bulletproof Vest
+1486 In battle: raises Resilience.
+1487 Expert Report
+1488 In battle: raises Expertise.
+1489 Address Book
+1490 In battle: raises Diplomacy.
+1491 Double Espresso
+1492 In battle: raises Reactivity.
+1493 Non-solicitation
+1494 Anti-canvassing clause: keeps Euromons away for 100 steps.
+1495 Makes certain Euromons evolve. Requires 27 signatures.
+1496 Makes certain energy Euromons evolve.
+1497 USB-C Key
+1498 Makes certain digital Euromons evolve.
+1499 Encyclopedia of Euromons, a gift from Jean Monnet.

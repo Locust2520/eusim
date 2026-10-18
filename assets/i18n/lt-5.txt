@@ -1,0 +1,42 @@
+# Lithuanian — completion
+1001 Techno
+1013 Diplo
+1014 Lobby
+1754 Titulinis ekranas
+1755 Profesorius Schumanas
+1756 Laboratorija
+1758 Tavo studija
+1761 Valgykla
+1763 Parduotuvė
+1764 Stotis
+1766 Kelyje
+1767 Debatas: laukinis Euromonas
+1768 Akių kontaktas
+1769 Debatas: treineris
+1771 Debatas: Oliver
+1773 Pergalė
+1774 Pergalė (laukinis)
+1775 Pergalė (treineris)
+1776 Evoliucija
+1778 Arena
+1780 Debatas: arena
+1782 Debatas: arenos vadovas
+1784 Schengen
+1789 Viso gero, Oliver
+1791 Team Lobby
+1792 Debatas: bosas
+1794 Vaiduoklių sparnas
+1797 Europos Vadovų Taryba
+1799 Debatas: Taryba
+1802 Debatas: Pirmininkė
+1804 Debatas: Didžiosios galios
+1807 Baigiamasis debatas
+1809 Legendinės vietos
+1810 Debatas: legendinis
+1812 Baigiamasis debatas (variantas)
+1813 Džiuboksas
+1814 %d iš %d dainų
+1815 Pasirink dainą.
+1816 DŽIUBOKSAS
+1817 A: klausytis   B: atgal
+1818 Senas džiuboksas, atjungtas nuo elektros. Lipdukas: „Prijungti po pirmojo ženklelio. — Techninė tarnyba“

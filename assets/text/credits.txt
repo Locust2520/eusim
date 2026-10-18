@@ -1,0 +1,157 @@
+# EU SIMULATOR
+Le stage de ta vie
+
+Jeu parodique non officiel.
+Aucune affiliation avec l'Union européenne,
+ses institutions, ni avec Nintendo.
+
+# Conception, programmation
+Les contributeurs d'EU Simulator
+avec l'Ordinatrice (assistante IA)
+
+# Moteur
+C + libnds, BlocksDS (zlib, MIT, CC0)
+Testé sous melonDS
+
+# Musique
+Morceaux générés avec BeepLoop
+Ode à la joie : L. van Beethoven (domaine public)
+Effets sonores : synthèse PSG maison
+
+# Polices (SIL Open Font License 1.1)
+Icônes de menu Mona — Monad ABXY, © 2025
+Police source sous SIL OFL 1.1
+https://github.com/MonadABXY/mona-font
+Handjet — David Březina, Rosetta
+Galmuri — Lee Minseo (quiple)
+Pixelify Sans — Stefie Justprince
+Jersey 10 — Sarah Cadigan-Fried
+
+# Illustrations
+Cinématiques, fonds et portraits
+générés par IA (OpenAI), retouchés
+et pixellisés pour le jeu
+
+# Carte de l'Europe
+Natural Earth (domaine public)
+
+# Portraits
+Caricatures pixel art générées par IA
+à partir de photos sous licence libre
+(œuvres dérivées, mêmes licences) :
+
+Michel Barnier — Florian David Pm
+(CC BY-SA 4.0, Wikimedia Commons)
+François Bayrou — Service photographique de Ma
+(Licence Ouverte, Wikimedia Commons)
+Silvio Berlusconi — Silvio_Berlusconi_(2010).j
+derivative w
+(Public domain, Wikimedia Commons)
+Josep Borrell — Unión Europea en Perú from Lim
+(CC BY 2.0, Wikimedia Commons)
+Albert Bourla — Ehbrooklyn96
+(CC BY-SA 4.0, Wikimedia Commons)
+António Costa — Frédéric Sierakowski - Europea
+(Attribution, Wikimedia Commons)
+Jacques Delors — Unknown photographer
+(CC BY 4.0, Wikimedia Commons)
+Mario Draghi — European Union
+(CC BY 4.0, Wikimedia Commons)
+Nigel Farage — Laurie Noble
+(CC BY 3.0, Wikimedia Commons)
+Boris Johnson — Ben Shread
+(OGL 3, Wikimedia Commons)
+Jean-Claude Juncker — European People's Party
+(CC BY 2.0, Wikimedia Commons)
+Eva Kaili — Christophe Licoppe
+(CC BY 4.0, Wikimedia Commons)
+Kaja Kallas — Aurore Martignoni
+(CC BY 4.0, Wikimedia Commons)
+Christine Lagarde — Lemrich
+(Attribution, Wikimedia Commons)
+Marine Le Pen — Vox España
+(CC0, Wikimedia Commons)
+Emmanuel Macron — Nebojša Tejić
+(Public domain, Wikimedia Commons)
+Péter Magyar — Xavier Lejeune
+(CC BY 4.0, Wikimedia Commons)
+Giorgia Meloni — Governo Italiano
+(CC BY 3.0 it, Wikimedia Commons)
+Angela Merkel — Raimond Spekking
+(CC BY-SA 4.0, Wikimedia Commons)
+Friedrich Merz — Steffen Prößdorf
+(CC BY-SA 4.0, Wikimedia Commons)
+Roberta Metsola — Daina Le Lardic - European P
+(European Parliament, Wikimedia Commons)
+Charles Michel — Unión Europea en Perú from Li
+(CC BY 2.0, Wikimedia Commons)
+Jean Monnet — Christian Lambiotte
+(CC BY 4.0, Wikimedia Commons)
+Viktor Orbán — The White House
+(Public domain, Wikimedia Commons)
+Pier Antonio Panzeri — Diliff
+(CC BY-SA 3.0, Wikimedia Commons)
+Pedro Sánchez — Pool Moncloa
+(Attribution, Wikimedia Commons)
+Wolfgang Schäuble — Wolfgang Schäuble
+(Public domain, Wikimedia Commons)
+Olaf Scholz — Lula Oficial
+(CC BY-SA 2.0, Wikimedia Commons)
+Martin Schulz — European Parliament Multimedia
+(European Parliament, Wikimedia Commons)
+Robert Schuman — European Commission
+(CC BY 4.0, Wikimedia Commons)
+Martin Selmayr — Saeima
+(CC BY-SA 2.0, Wikimedia Commons)
+Frans Timmermans — DanieleTodaro96
+(CC0, Wikimedia Commons)
+Donald Trump — Daniel Torok
+(Public domain, Wikimedia Commons)
+Alexis Tsipras — EU2017EE Estonian Presidency
+(CC BY 2.0, Wikimedia Commons)
+Yanis Varoufakis — Olaf Kosinsky
+(CC BY-SA 3.0 de, Wikimedia Commons)
+Ursula von der Leyen — European People's Party
+(CC BY 2.0, Wikimedia Commons)
+Simone Veil — © European Union - Source : EP
+(European Parliament, Wikimedia Commons)
+Guy Verhofstadt — European Parliament
+(CC BY 2.0, Wikimedia Commons)
+Margrethe Vestager — Christian Ursilva
+(CC BY-SA 4.0, Wikimedia Commons)
+
+Sans photo de référence : Bardella, Breton,
+Erdoğan, Musk, Poutine, Rutte, Tusk, Vance,
+Xi Jinping, Zelensky
+
+# Euromons, décors et personnages
+Pixel art procédural
+
+# Arbres, buissons, rochers, fleurs
+Tuxemon « Core Outdoor Nature » :
+rubberduck, Buch, luke83, Past the Future,
+George_, Midi (CC BY-SA 4.0 / CC BY 3.0),
+recolorés pour le jeu (CC BY-SA 4.0)
+
+# Licence
+Jeu libre : code sous GNU GPL v3,
+images, musique et textes sous CC BY-SA 4.0.
+Vous pouvez le modifier et le partager,
+à condition qu'il reste libre.
+Détail : CREDITS.md et LICENSE.
+
+# Avertissement
+Les personnalités réelles sont caricaturées
+à partir de leurs actes et déclarations publics.
+Toute personne mise en cause dans une affaire
+judiciaire est présumée innocente tant qu'elle
+n'a pas été définitivement condamnée.
+
+# Remerciements
+Robert Schuman, Jean Monnet,
+et les 27 pays qui débattent encore.
+
+# Et la directive sur l'heure ?
+Toujours en comité.
+
+

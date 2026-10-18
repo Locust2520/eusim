@@ -1,0 +1,41 @@
+# Finnish — completion
+583 Treidaaja
+963 Herrasmies
+1754 Aloitusruutu
+1755 Professori Schuman
+1756 Laboratorio
+1758 Yksiösi
+1761 Ruokala
+1763 Myymälä
+1764 Asema
+1766 Tiellä
+1767 Taistelu: villi Euromon
+1768 Katsekontakti
+1769 Taistelu: kouluttaja
+1771 Taistelu: Oliver
+1773 Voitto
+1774 Voitto (villi)
+1775 Voitto (kouluttaja)
+1776 Kehitys
+1778 Areena
+1780 Taistelu: areena
+1782 Taistelu: areenan johtaja
+1784 Schengen
+1789 Näkemiin, Oliver
+1791 Team Lobby
+1792 Taistelu: boss
+1794 Haamusiipi
+1797 Eurooppa-neuvosto
+1799 Taistelu: neuvosto
+1802 Taistelu: puheenjohtaja
+1804 Taistelu: suurvallat
+1807 Lopputaistelu
+1809 Legendaariset paikat
+1810 Taistelu: legendaarinen
+1812 Lopputaistelu (variantti)
+1813 Jukeboksi
+1814 %d kappaletta %d:stä
+1815 Valitse kappale.
+1816 JUKEBOKSI
+1817 A: kuuntele    B: takaisin
+1818 Vanha jukeboksi, irti pistokkeesta. Lapussa: ”Kytke takaisin pistokkeeseen ensimmäisen merkkisi jälkeen. — Tekninen palvelu”

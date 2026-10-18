@@ -1,0 +1,298 @@
+# Português — ids 1500-1751
+1500 Crachá de acesso
+1501 Abre as portas do Parlamento. Cor: estagiário.
+1502 Crachá OLAF
+1503 Permite ver os assistentes fantasma.
+1504 Passaporte europeu
+1505 Bordô, 32 páginas, todas as fronteiras se abrem.
+1506 Passe Interrail
+1507 Viaja de comboio por toda a Europa.
+1508 Kit REPowerEU
+1509 Para voltar a ligar o aquecimento quando cortam o gás.
+1510 Conhaque
+1511 Uma garrafa preciosa. Sobretaxada desde 2024…
+1512 Cartão da cantina
+1513 Saldo: 3,40 €. Chega para um café.
+1514 Diretiva hora
+1515 A diretiva sobre o fim da mudança de hora (2019).
+1516 Uma mala da mudança Bruxelas–Estrasburgo.
+1517 Estojo de insígnias
+1518 Contém as insígnias dos tratados.
+1519 Eh, novato! Aqui resolve-se tudo com um debate. Mostra lá o que vales!
+1520 Argh… Devia ter relido as minhas notas de síntese.
+1521 Ha! Volta para a fotocopiadora!
+1523 Então, {P}, testamos os nossos Euromons? Mine is obviously better.
+1524 What?! Foi sorte!
+1525 Easy. Como previsto.
+1526 {P}! Já tens uma insígnia? Não faz mal, vou fazer-te arrepender.
+1527 Not again… Pronto, em Frankfurt vais ver.
+1528 Ha! O Luxemburgo faz-me bem.
+1529 Acabei de visitar o BCE. Percebi tudo sobre política monetária. Quase tudo.
+1530 Bloody hell… Estás mesmo a progredir depressa, {P}.
+1531 Como se diz na City: time is money.
+1532 {P}… é o nosso último debate. Depois volto para Londres. De vez. Vá, one last time!
+1533 Good game, {P}. Pelo menos saio com estilo.
+1534 Saio com uma vitória. Já é alguma coisa.
+1535 {P}! I'm back. Bem… peço para voltar. Rejoin? Mas primeiro, um debate pela honra!
+1536 Pronto. Preencho o pedido de adesão. Tem 35 capítulos…
+1537 Ha! Afinal sair torna-nos mais fortes. Ou não.
+1538 Também sou estagiária! Não remunerada, como tu. Debatamos, consola.
+1539 Pronto… volto para as fotocópias.
+1540 Alto! O seu formulário de caminhada A-38 está visado?
+1541 Pronto, eu viso-o. Mas em triplicado.
+1542 Agricultor
+1543 A PAC é a minha vida! E o meu trator é a minha família. Vá, vamos debater!
+1544 Vou ter de falar disto ao sindicato…
+1545 Banqueiro privado
+1546 Bem-vindo ao Luxemburgo. Discrição absoluta. Este debate nunca aconteceu.
+1547 Este debate definitivamente nunca aconteceu.
+1548 Fiscalista
+1549 Uma decisão fiscal? Redijo-lha em cinco minutos. Mas primeiro, um debate.
+1550 Os meus esquemas… desmoronaram-se!
+1551 Campeão da arena
+1552 Ah, um jovem estagiário! Anda, anda, deixa-me dar-te uma palmadinha. Depois debatemos, como nos bons velhos tempos do Eurogrupo.
+1553 Bravo! Mereces a Insígnia Decisão. E isto não é confidencial!
+1554 Vá, não faças essa cara, estou a brincar… a meias.
+1555 Faço o Mosela de bicicleta! E debato em roaming, de graça!
+1556 Mesmo sem roaming pago, perdi tudo.
+1557 Analista
+1558 Os mercados descontam a minha vitória a 87 %.
+1559 Os mercados enganaram-se. Como sempre.
+1560 Viticultor
+1561 O meu crémant é DOP. Os meus Euromons também. Quase.
+1562 Pronto, pago-lhe um copo na mesma.
+1563 Compra barato, vende caro, debate forte!
+1564 Crash! Estou a descoberto!
+1565 Segundo o meu modelo, perde. O meu modelo nunca se engana. Exceto em 2008.
+1566 Vou ter de rever as minhas previsões.
+1567 Campeã da arena
+1568 Bem-vindo ao Banco Central Europeu. Aqui fixo as taxas… e o ritmo do debate. Os meus ataques dependem da taxa diretora do dia!
+1569 Formidável. Merece a Insígnia Euro. E fique descansado: não estou cá para reduzir o seu spread.
+1570 A estabilidade dos preços é também a estabilidade das vitórias.
+1571 Ativista do clima
+1572 Cada debate perdido é mais um grau! Vamos!
+1573 Pronto, ao menos foi neutro em carbono.
+1574 Uma exclusiva! «Estagiário perde lamentavelmente»!
+1575 Mudo o título: «Estagiário ganha lamentavelmente bem».
+1576 Vinicultor
+1577 O Reno é a fronteira? Não, é vinho dos dois lados! Brindamos depois do debate.
+1578 Saúde na mesma!
+1579 Esta manhã apresentei 2000 alterações. A primeira diz-lhe respeito.
+1580 As minhas alterações rejeitadas em bloco…
+1581 A sessão é em Estrasburgo, as nossas malas chegaram, debatamos!
+1582 Volto para Bruxelas. Com as minhas malas.
+1583 Silêncio no hemiciclo! Está aberta a sessão. Dou a palavra a… si. Depois tiro-lha.
+1584 Aprovado! A Insígnia Hemiciclo é-lhe atribuída por maioria absoluta.
+1585 Está encerrada a sessão. Volte na próxima.
+1586 A dívida é como a moussaka: digere-se mal.
+1587 OXI a esta derrota!
+1588 Inspeção das contas! Os seus Euromons gastam demais.
+1589 Relatório de inspeção: desfavorável.
+1590 O Fundo Monetário Internacional recomenda… a sua derrota.
+1591 Revisão das nossas previsões: em baixa.
+1592 Cheguei de mota, sem gravata. Como em 2015 frente ao Eurogrupo. Debatemos, e votamos: OXI ou NAI?
+1593 OXI… perdão, NAI: ganhaste. Leva a Insígnia OXI, camarada.
+1594 O povo falou. E o povo sou eu.
+1595 Tabloide
+1596 PRIMEIRA PÁGINA: «Bruxelas quer proibir as bananas curvas»! É falso? Não interessa, vende.
+1597 Amanhã na primeira página: «Derrota histórica».
+1598 Ex-primeiro-ministro
+1599 Hello! Fui correspondente em Bruxelas, sabe? Escrevi coisas… mais ou menos verdadeiras. Get debate done!
+1600 Crikey. Pronto, de qualquer forma tinha outro artigo sobre pepinos direitos.
+1601 Agora já não se ri, hein? Bem-vindo ao pub. Um debate, uma pint e o artigo 50.
+1602 Pronto. Leve a Insígnia Artigo 50. Nós já não precisamos dela.
+1603 Take back control! Do debate, pelo menos.
+1604 Guarda de fronteira
+1605 Controlo! O seu Euromon tem visto?
+1606 Passe. Mas vou tomar nota.
+1607 Conselheiro
+1608 O primeiro-ministro não recebe ninguém. Exceto quem me vencer. E isso nunca acontece.
+1609 Acabou de acontecer.
+1610 Quer o meu acordo? É precisa unanimidade. E eu nunca estou de acordo. Cuidado: posso pôr o meu VETO em cada turno.
+1611 Pronto… Vou tomar um café. Entretanto, leve esta Insígnia Veto. Oficialmente, abstive-me.
+1612 Veto! Veto! E mais veto!
+1614 Não tem crachá de acesso? Ainda bem, nós também não.
+1615 Vou ter de declarar este encontro no registo de transparência…
+1616 O nosso algoritmo previu a sua derrota. Aceitar cookies?
+1617 Erro 403: derrota.
+1618 Uma malinha pelo seu voto? Não? Então um debate.
+1619 Nunca dei nada a ninguém. Anote isso.
+1620 Chefe da Team Lobby
+1621 Bem-vindo ao coração do poder, estagiário. Aqui não escrevemos as leis: «sugerimo-las». E tu vais assinar a minha sugestão.
+1622 Impossível… Um simples estagiário, não remunerado… venceu o lóbi. Retiro-me. Para o privado. Ah, já lá estou.
+1623 Obrigado por este contributo para a nossa consulta pública.
+1624 Advogado
+1625 O meu cliente contesta a coima de 4,34 mil milhões. E este debate.
+1626 Vamos recorrer.
+1627 Jurista
+1628 Abuso de posição dominante? Eu? Sou só dominante.
+1629 Coima aceite…
+1630 Google, Apple… apliquei milhares de milhões em coimas. A sua equipa respeita as regras da concorrência? Verifiquemos.
+1631 Nenhum abuso de posição dominante detetado. A Insígnia Coima é sua.
+1632 Coima! 4 % do seu volume de negócios.
+1633 Uuuh… Trabalho aqui… desde 2009… bem, no papel…
+1634 Volto… para o meu contrato… fictício…
+1635 Espírito dos empregos fictícios
+1636 SOU… A SOMA DE TODOS OS CONTRATOS QUE NUNCA TIVERAM GABINETE…
+1637 Os meus… recibos… estão a apagar-se…
+1638 Alto funcionário
+1639 Fiz a ENA. Bem, o INSP. Enfim, sei tudo.
+1640 Vou redigir uma nota sobre este fracasso.
+1641 Ministro
+1642 Sou ministro desde… esta manhã. Debatamos antes da próxima remodelação.
+1643 Remodelado!
+1644 Bem-vindo à Sorbonne! Aqui falei de uma Europa soberana em 2017… e em 2024. Vou falar-lhe durante duas horas. E, ao mesmo tempo, debater.
+1645 Formidável! Encarna a autonomia estratégica. Leve a Insígnia Sorbonne… e, ao mesmo tempo, os meus parabéns.
+1646 Dissolvo… a sua equipa!
+1647 Conselho Europeu
+1648 Wir schaffen das. Juntos vamos conseguir. Mas primeiro tem de me vencer. Tenha calma: tenho dezasseis anos de experiência.
+1649 Conseguiu. Wir haben es geschafft.
+1650 Farei tudo o que for preciso para ganhar este debate. Whatever it takes. E acredite: vai chegar.
+1651 O meu relatório recomendava 800 mil milhões de investimento por ano. Invista-os na sua equipa.
+1652 Alta Representante para os Negócios Estrangeiros. A minha diplomacia é firme. O meu escudo báltico também.
+1653 Uma vitória clara. A Europa vai precisar de pessoas como você perante o resto do mundo.
+1654 Presidente do Conselho Europeu
+1655 São 23:59. O meu objetivo: acabar esta cimeira antes da meia-noite. Pela primeira vez na história!
+1656 São… 4:37 da manhã. Como sempre. Parabéns, pode subir ao Berlaymont.
+1657 Presidente da Comissão
+1658 Bem-vindo ao décimo terceiro andar do Berlaymont. Moro aqui, sabe: tenho um quarto ao lado do gabinete. Então, vejamos se merece a diretiva.
+1659 Team Europe… É o melhor estagiário que a Comissão alguma vez teve. A diretiva da hora é sua!
+1660 Mando-lhe um SMS. Ou talvez não.
+1661 Vice-presidente
+1662 Fui a Munique explicar-vos a democracia. Agora venho a Antuérpia explicar-vos o debate.
+1663 Pronto. Volto a escrever um discurso.
+1664 Presidente americano
+1665 TREMENDOUS! O debate mais bonito de todos os tempos, toda a gente o diz. Ponho 200 % de tarifas nos seus Euromons. Talvez 15. Logo se vê.
+1666 ESTAVA VICIADO! Pronto… façamos um acordo. 15 %. É a minha última palavra. Por hoje.
+1667 Ganhei! Como sempre! Ninguém ganha melhor do que eu.
+1668 Presidente russo
+1669 Sente-se. Não, mais longe. Ainda mais longe. Aí. A seis metros, a conversa é mais… estratégica. Os seus ataques vão demorar um turno a chegar.
+1670 O gás… está cortado… do meu lado. Interessante.
+1671 O inverno está a chegar. Para si.
+1672 Presidente chinês
+1673 Bem-vindo. Somos parceiros. E concorrentes. E rivais sistémicos. Depende do turno.
+1674 Hmm. Um parceiro a respeitar. Levanto os controlos sobre as terras raras… por agora.
+1675 Conteúdo indisponível na tua região.
+1676 Cimeira G-Tudo
+1677 EU PRIMEIRO. A cimeira foi ideia minha. Acho eu.
+1678 Sad!
+1679 Preferia a mesa comprida.
+1680 A última palavra será… sistémica.
+1681 Voltamos a falar daqui a cinquenta anos.
+1682 Porto de Antuérpia – Golfe da Liberdade
+1683 Atenas – Plaka
+1684 Berlaymont – 13.º andar
+1685 Loja – Atenas
+1686 Loja – Budapeste
+1687 Loja – Bruxelas
+1688 Loja – Frankfurt
+1689 Loja – Londres
+1690 Loja – Luxemburgo
+1691 Loja – Paris
+1692 Loja – Estrasburgo
+1693 Bruxelas – Bairro europeu
+1694 Budapeste – Margens do Danúbio
+1695 Cantina – Atenas
+1696 Cantina – Budapeste
+1697 Cantina – Bruxelas
+1698 Cantina – Frankfurt
+1699 Cantina – Londres
+1700 Cantina – Luxemburgo
+1701 Cantina – Paris
+1702 Cantina – Estrasburgo
+1703 Tribunal de Justiça da UE
+1704 Edifício Europa – Conselho Europeu
+1705 Frankfurt – Bairro dos bancos
+1706 Estação – Antuérpia
+1707 Estação – Atenas
+1708 Estação – Budapeste
+1709 Estação – Bruxelas-Luxemburgo
+1710 Estação – Frankfurt
+1711 Estação – Lisboa
+1712 Estação – Londres
+1713 Estação – Luxemburgo
+1714 Estação – Maastricht
+1715 Estação – Paris
+1716 Estação – Roma
+1717 Estação – Estrasburgo
+1718 Estação – Varsóvia
+1719 Arena de Atenas – Anfiteatro
+1720 Torre do BCE – Sala de mercados
+1721 Országház – Sala do Veto
+1722 DG Concorrência – Arena
+1723 Hemiciclo – Sessão plenária
+1724 The Brexit Arms – Pub-arena
+1725 Arena do Luxemburgo – Sala das decisões
+1726 Grande anfiteatro da Sorbonne
+1727 Lisboa – Mosteiro dos Jerónimos
+1728 QG da Team Lobby – Cave
+1729 Londres – Westminster
+1730 Luxemburgo – Planalto de Kirchberg
+1731 Maastricht – Margens do Mosa
+1732 Casa – Frankfurt
+1733 Casa – Luxemburgo
+1734 Casa – Estrasburgo
+1735 Paris – Bairro Latino
+1736 Parlamento Europeu – Átrio
+1737 Porto do Pireu – Terminal de contentores
+1738 Praça Lux – O Cocktail
+1739 Roma – Capitólio
+1740 Estrada 1 – Floresta das Ardenas
+1741 Estrada 2 – Vale do Mosela
+1742 Estrada 3 – Vinhas do Reno
+1743 Palácio – A mesa comprida
+1744 Schengen – Margens do Mosela
+1745 Cimeira «G-Tudo» – Sala plenária
+1746 Estrasburgo – Bairro europeu
+1747 O teu estúdio (Ixelles)
+1748 Parlamento – Ala fantasma, 1.º andar
+1749 Parlamento – Ala fantasma, 2.º andar
+1750 Parlamento – Ala fantasma, 3.º andar
+1751 Varsóvia – Planície de Leste
+1052 Todos juntos! Uma carga solidária.
+826 TISZA! TISZA! TISZA!
+383 Budapeste
+1522 Rival
+1613 Team Lobby
+379 Frankfurt
+281 Viktor Orbán, Budapeste
+1752 Casa – Maastricht
+# jukebox
+1754 Ecrã de título
+1755 Professor Schuman
+1756 O laboratório
+1758 O teu estúdio
+1761 A cantina
+1763 A loja
+1764 A estação
+1766 Na estrada
+1767 Combate: Euromon selvagem
+1768 Troca de olhares
+1769 Combate: treinador
+1771 Combate: Oliver
+1773 Vitória
+1774 Vitória (selvagem)
+1775 Vitória (treinador)
+1776 Evolução
+1778 A arena
+1780 Combate: arena
+1782 Combate: líder de arena
+1784 Schengen
+1789 Adeus, Oliver
+1791 Team Lobby
+1792 Combate: chefe
+1794 A ala fantasma
+1797 O Conselho Europeu
+1799 Combate: Conselho
+1802 Combate: a Presidente
+1804 Combate: Grandes Potências
+1807 Combate final
+1809 Lugares lendários
+1810 Combate: lendário
+1812 Combate final (variante)
+1813 Jukebox
+1814 %d músicas de %d
+1815 Escolhe uma música.
+1816 JUKEBOX
+1817 A: ouvir    B: voltar
+1818 Uma velha jukebox, desligada. Uma etiqueta: «Voltar a ligar após o seu primeiro crachá. — Os serviços técnicos»
