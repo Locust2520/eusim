@@ -350,7 +350,7 @@
 349 Nová hra
 350 Tvorcovia a zdroje
 351 Hlavné menu
-352 Neoficiálna paródia · v2.0
+2168 Neoficiálna paródia · v1.0.1
 353 Stáž tvojho života
 354 STLAČTE START
 355 {P} dostáva %s!

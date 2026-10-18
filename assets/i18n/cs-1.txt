@@ -346,7 +346,7 @@
 349 Nová hra
 350 Autoři a zdroje
 351 Hlavní nabídka
-352 Neoficiální parodie · v2.0
+2168 Neoficiální parodie · v1.0.1
 353 Stáž tvého života
 354 STISKNĚTE START
 355 {P} dostává %s!

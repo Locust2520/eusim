@@ -343,7 +343,7 @@
 349 Nieuw spel
 350 Credits & bronnen
 351 Hoofdmenu
-352 Onofficiële parodie · v2.0
+2168 Onofficiële parodie · v1.0.1
 353 De stage van je leven
 354 DRUK OP START
 355 {P} krijgt %s!

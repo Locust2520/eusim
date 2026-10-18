@@ -338,7 +338,6 @@
 349	Nouvelle partie
 350	Crédits & sources
 351	Menu principal
-352	Parodie non officielle · v2.0
 353	Le stage de ta vie
 354	APPUYEZ SUR START
 355	{P} reçoit %s !
@@ -2056,16 +2055,12 @@
 2100	Vous remportez ce débat amical !
 2101	L'autre joueur remporte ce débat amical !
 2102	Débat terminé ou connexion interrompue.
-2103	Update the browser save format when changing SaveData
-2104	Browser save ABI
 2105	Échec de la sauvegarde. Réessayez.
 2106	Débat multijoueur
-2107	Mailbox ABI
 2108	Débat annulé.
 2109	Le serveur ne répond plus.
 2110	Connexion au serveur interrompue.
 2111	L'autre joueur a quitté le débat.
-2112	EUL1
 2113	Réponse du serveur invalide.
 2114	En attente de l'autre joueur… B : annuler
 2115	Les débats ne sont plus synchronisés.
@@ -2098,9 +2093,7 @@
 2152	Saisissez un nom de salon.
 2153	Code PIN (6 chiffres)
 2154	La console ne répond plus.
-2155	EU Simulator %.12s
 2156	Parties à proximité
-2157	EUN2
 2158	Sans routeur ni serveur.
 2159	Redémarrez le jeu pour changer de mode Wi-Fi.
 2160	Connexion Wi-Fi DSi… B : annuler
@@ -2111,3 +2104,4 @@
 2165	Sans Internet
 2166	Créer une partie locale
 2167	Rejoindre une partie locale
+2168	Parodie non officielle · v1.0.1

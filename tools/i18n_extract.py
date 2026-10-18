@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 """Collect every French string the player can see into assets/i18n/catalog.json.
 
-Sources: script strings (assets/scripts/*.evs), C string literals shown on screen (source/*.c), game data
-(data/*.json), map names. Each entry: {"id": n, "fr": text, "ctx": where it comes from}. Translations live in
-assets/i18n/<code>.json as {"<id>": "translation"} so a changed French text gets a new id-less match by text:
-tools/mklang.py matches translations to the catalogue by id AND checks the French text recorded in
-assets/i18n/<code>.json ("_fr" mirror) to drop stale ones.
+Sources: script strings, on-screen C string literals, game data and map names.
+Each entry has a stable id, French source text and source context. Translations live in
+assets/i18n/<code>*.txt as id/text lines; tools/mklang.py validates placeholders and English coverage.
 """
 import glob
 import json
@@ -20,6 +18,7 @@ C_SKIP = {'neutral', 'happy', 'angry', 'surprised', 'worried', 'sulk', 'schuman'
           'putin', 'xi', 'trump', 'vdl', 'intro', 'title', 'ending', 'minigame', 'evolution', 'encounter',
           'victory_trainer', 'victory_wild', 'battle_trainer', 'battle_legend', 'battle_wild', 'SLD1', 'ICN1',
           'BGI1', 'BMP8', 'MAP1', 'UESU', 'SCR1', 'LNG1', 'scripts.bin', '%s.probe', '%s.tmp', '/eusim', '(trump)',
+          'EUL1', 'EUN2', 'EU Simulator %.12s',
           'Oliver', 'Alex', 'Max', 'EU SIMULATOR', 'Zz', 'z', 'OK', 'Eurodex', 'EXP', 'ERREUR FATALE',
           '%s_slot%d.sav', 'sd:/eusim', 'fat:/eusim', '-Wformat-nonliteral', 'P', 'R', 'M', '…'}
 C_SKIP_FILES = {'source/keyboard.c': {11, 12}, 'source/lang.c': None, 'source/compat.c': None, 'source/langpick.c': None,
@@ -34,7 +33,7 @@ def c_strings():
             continue
         for i, line in enumerate(open(f, encoding='utf-8'), 1):
             st = line.strip()
-            if st.startswith(('//', '#include', 'fatal(')) or i in C_SKIP_FILES.get(rel, set()):
+            if st.startswith(('//', '#include', 'fatal(', '_Static_assert(')) or i in C_SKIP_FILES.get(rel, set()):
                 continue
             for m in re.finditer(r'"((?:[^"\\]|\\.)*)"', line):
                 s = m.group(1)

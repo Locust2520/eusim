@@ -1,0 +1,126 @@
+# English coverage: new dialogue and explicit unchanged names/terms.
+209 Options
+214 Exp.
+229 ×%d
+246 ◀  × %d  ▶
+269 Euro
+271 OXI
+272 Article 50
+273 Veto
+275 Sorbonne
+278 Roberta Metsola, Strasbourg
+281 Viktor Orbán, Budapest
+283 Emmanuel Macron, Paris
+370 Jean Monnet
+378 Luxembourg
+380 Strasbourg
+383 Budapest
+384 Paris
+387 Rome
+388 Maastricht
+396 Angela Merkel
+400 Mario Draghi
+404 Kaja Kallas
+408 António Costa
+414 Charles Michel
+417 Ursula von der Leyen
+427 Donald Trump
+433 Mark Rutte
+436 JD Vance
+443 Donald Tusk
+445 Volodymyr Zelensky
+455 Xi Jinping
+493 Hugo
+539 Léa
+543 Gérard
+560 Pierre-Henri
+564 Jean-Claude Juncker
+576 Kevin
+578 Hans
+580 Jean-Marc
+583 Trader
+588 Karl
+592 Christine Lagarde
+601 Inès
+603 Tom
+605 Albert
+624 Roberta Metsola
+637 Nikos
+643 Yanis Varoufakis
+655 Boris Johnson
+657 Nigel Farage
+669 Péter Magyar
+671 Gábor
+675 Viktor Orbán
+683 Bartender
+692 Eva Kaili
+705 Margrethe Vestager
+721 Marine Le Pen
+725 François Bayrou
+739 Emmanuel Macron
+749 Robert Schuman
+761 {P}
+774 Help!
+841 Thierry Breton
+843 Elon Musk
+865 Um.
+963 Gentleman
+1001 Techno
+1005 Social
+1013 Diplo
+1014 Lobby
+1051 Team Europe
+1064 Opt-out
+1068 Article 7
+1100 Erasmus
+1110 Compost
+1114 Fit for 55
+1126 Airbus
+1134 Fission
+1140 REPowerEU
+1144 Fusion
+1161 DSA
+1171 Whatever it takes
+1173 Inflation
+1175 Spread
+1189 Glyphosate
+1193 Cookie
+1195 Bug
+1199 USB-C
+1201 Fake news
+1203 Roaming
+1214 Sanctions
+1222 Soft power
+1234 Influence
+1238 Slogan
+1246 TREMENDOUS
+1252 Not laughing
+1266 Constitution
+1328 Herbicide
+1351 Archives
+1362 Praline
+1366 Pigeon
+1370 Atomium
+1419 Pipeline
+1469 Kniddelen
+1510 Cognac
+1522 Rival
+1613 Team Lobby
+2086 Stamp 15 valid rulings in 30 seconds. Let papers marked "FAKE" pass: stamping one loses the round!
+2087 RULING
+2088 RULING: stamp. FAKE: let it pass.
+2089 Fifteen valid rulings stamped! The administration is proud of you.
+2090 You stamped a bad document! Check before you approve…
+2091 The fifteen valid rulings are not ready. The registry is closing. Try again…
+2092 And here's today's pile. We need fifteen valid rulings stamped before the registry closes. Watch out, some bad documents have slipped in! Can you give me a hand?
+2093 The registry cannot approve this pile. We need fifteen valid rulings and no bad documents stamped. Try again whenever you like.
+2094 Another fifteen rulings in order! For your second success, here is a qualified stamp.
+2095 Flawless! I have one qualified stamp left for you. Luxembourg loves methodical people.
+2096 Flawless! But I have no stamp for you this time. Come back and give me a hand again!
+2097 The other player sends out %s!
+2098 Invalid team or connection.
+2099 Items are not allowed in a friendly debate.
+2100 You win this friendly debate!
+2101 The other player wins this friendly debate!
+2102 Debate ended or connection interrupted.
+2105 Save failed. Please try again.

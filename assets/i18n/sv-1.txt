@@ -350,7 +350,7 @@
 349 Nytt spel
 350 Medverkande & källor
 351 Huvudmeny
-352 Inofficiell parodi · v2.0
+2168 Inofficiell parodi · v1.0.1
 353 Ditt livs praktik
 354 TRYCK PÅ START
 355 {P} får %s!

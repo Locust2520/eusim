@@ -346,7 +346,7 @@
 349 Partidă nouă
 350 Credite și surse
 351 Meniu principal
-352 Parodie neoficială · v2.0
+2168 Parodie neoficială · v1.0.1
 353 Stagiul vieții tale
 354 APASĂ START
 355 {P} primește %s!

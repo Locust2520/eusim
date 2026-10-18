@@ -343,7 +343,7 @@
 349 Nueva partida
 350 Créditos y fuentes
 351 Menú principal
-352 Parodia no oficial · v2.0
+2168 Parodia no oficial · v1.0.1
 353 Las prácticas de tu vida
 354 PULSA START
 355 ¡{P} recibe %s!

@@ -2115,7 +2115,7 @@
 "id": 352,
 "fr": "Parodie non officielle · v2.0",
 "ctx": "source/title.c:75",
-"used": true
+"used": false
 },
 {
 "id": 353,
@@ -12621,13 +12621,13 @@
 "id": 2103,
 "fr": "Update the browser save format when changing SaveData",
 "ctx": "source/browser_save.c:12",
-"used": true
+"used": false
 },
 {
 "id": 2104,
 "fr": "Browser save ABI",
 "ctx": "source/browser_save.c:13",
-"used": true
+"used": false
 },
 {
 "id": 2105,
@@ -12645,7 +12645,7 @@
 "id": 2107,
 "fr": "Mailbox ABI",
 "ctx": "source/multiplayer.c:29",
-"used": true
+"used": false
 },
 {
 "id": 2108,
@@ -12675,7 +12675,7 @@
 "id": 2112,
 "fr": "EUL1",
 "ctx": "source/multiplayer.c:109",
-"used": true
+"used": false
 },
 {
 "id": 2113,
@@ -12933,7 +12933,7 @@
 "id": 2155,
 "fr": "EU Simulator %.12s",
 "ctx": "source/local_link.c:97",
-"used": true
+"used": false
 },
 {
 "id": 2156,
@@ -12945,7 +12945,7 @@
 "id": 2157,
 "fr": "EUN2",
 "ctx": "source/local_wire.c:20",
-"used": true
+"used": false
 },
 {
 "id": 2158,
@@ -13005,6 +13005,12 @@
 "id": 2167,
 "fr": "Rejoindre une partie locale",
 "ctx": "source/multiplayer.c:335",
+"used": true
+},
+{
+"id": 2168,
+"fr": "Parodie non officielle · v1.0.1",
+"ctx": "source/title.c:75",
 "used": true
 }
 ]

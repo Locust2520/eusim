@@ -15,12 +15,13 @@ French. Finished reference translations to compare tone/terminology: `en-*.txt`,
 - First line a comment: `# <Language> — ids X-Y`. Then one line per entry: `id<space>translation`.
 - Keep `\f` (page break) and `\n` exactly as written (backslash sequences), same positions roughly.
 - Keep every printf conversion (`%s`, `%d`, `%lu`, `%02lu`, `%03d`…) and every `{P}` placeholder,
-  same count and SAME ORDER. A line that fails this check is dropped by the build.
+  same count and SAME ORDER. A line that fails this check uses English instead; invalid or missing English fails the build.
 - If the target grammar needs case endings on a `%s` name, rephrase with a colon
   (`%s: funds are frozen!`) instead of attaching suffixes to `%s`.
-- Skip (omit) entries that are pure proper names that stay identical in your language
+- You may omit entries that are pure proper names that stay identical in English and your language
   (people like `Angela Merkel`, NPC first names like `Léa`, `Hugo`, `{P}`, `Help.`, `Ehm.`, `fr` id 142):
-  missing ids fall back to French automatically. Exception: Greek and Bulgarian MUST transliterate all
+  missing, blank or invalid entries fall back to English automatically. Include an explicit
+  identity translation when your language should retain the French form instead of the English one. Exception: Greek and Bulgarian MUST transliterate all
   person names (speaker-name ids and names inside sentences) into their alphabet; Latvian uses
   Latvian name forms (see `lv-1.txt`: Angela Merkele, Emanuels Makrons…).
 - Translate city names (Bruxelles→Brussels in your language, etc.), place names, item/move/type names.

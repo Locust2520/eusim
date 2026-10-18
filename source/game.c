@@ -24,7 +24,7 @@ void game_main(void)
 #ifdef QLANG
     lang_set(lang_index(QLANG));
 #else
-    lang_set(lang_index("fr"));
+    lang_set(LANG_DEFAULT);
 #endif
     save_new_game();
     world_new_game();

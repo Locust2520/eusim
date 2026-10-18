@@ -345,7 +345,7 @@
 349 Nova igra
 350 Zasluge in viri
 351 Glavni meni
-352 Neuradna parodija · v2.0
+2168 Neuradna parodija · v1.0.1
 353 Pripravništvo tvojega življenja
 354 PRITISNI START
 355 {P} prejme %s!

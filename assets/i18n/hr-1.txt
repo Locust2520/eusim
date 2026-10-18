@@ -350,7 +350,7 @@
 349 Nova igra
 350 Zasluge i izvori
 351 Glavni izbornik
-352 Nezvanična parodija · v2.0
+2168 Nezvanična parodija · v1.0.1
 353 Pripravnički staž tvog života
 354 PRITISNITE START
 355 {P} prima %s!

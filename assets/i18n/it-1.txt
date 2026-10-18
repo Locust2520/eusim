@@ -343,7 +343,7 @@
 349 Nuova partita
 350 Riconoscimenti e fonti
 351 Menu principale
-352 Parodia non ufficiale · v2.0
+2168 Parodia non ufficiale · v1.0.1
 353 Il tirocinio della tua vita
 354 PREMI START
 355 {P} riceve %s!

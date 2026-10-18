@@ -62,7 +62,7 @@ static void draw_top(int sel)
 
 int lang_picker(int current)
 {
-    int sel = current >= 0 ? current : 9;
+    int sel = current >= 0 && current < LANG_COUNT ? current : LANG_DEFAULT;
     gfx_brightness(false, 0);
     gfx_brightness(true, 0);
     ui_backdrop(&g_bot);

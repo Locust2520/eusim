@@ -10,11 +10,13 @@ const LangInfo g_langs[LANG_COUNT] = {
     {"lv", "Latviešu"}, {"mt", "Malti"}, {"nl", "Nederlands"}, {"pl", "Polski"}, {"pt", "Português"},
     {"ro", "Română"}, {"sk", "Slovenčina"}, {"sl", "Slovenščina"}, {"sv", "Svenska"},
 };
-int g_lang = 9; // fr
+int g_lang = LANG_DEFAULT; // English
 
 // 'LNG1', u32 count, count x {u32 hash, u32 offset}, then the UTF-8 strings (NUL-terminated)
 static u8 *table;
 static u32 count;
+static u8 *english;
+static u32 english_count;
 
 static u32 fnv(const char *s)
 {
@@ -24,24 +26,34 @@ static u32 fnv(const char *s)
     return h;
 }
 
-const char *tr(const char *s)
+static const char *lookup(const u8 *data, u32 n, u32 h)
 {
-    if (!table || !s || !s[0])
-        return s;
-    u32 h = fnv(s);
-    const u32 *e = (const u32 *)(table + 8);
-    int lo = 0, hi = (int)count - 1;
+    if (!data)
+        return NULL;
+    const u32 *e = (const u32 *)(data + 8);
+    int lo = 0, hi = (int)n - 1;
     while (lo <= hi) {
         int mid = (lo + hi) / 2;
         u32 v = e[mid * 2];
         if (v == h)
-            return (const char *)table + e[mid * 2 + 1];
+            return (const char *)data + e[mid * 2 + 1];
         if (v < h)
             lo = mid + 1;
         else
             hi = mid - 1;
     }
-    return s;
+    return NULL;
+}
+
+const char *tr(const char *s)
+{
+    if (!s || !s[0] || !strcmp(g_langs[g_lang].code, "fr"))
+        return s;
+    u32 h = fnv(s);
+    const char *translated = lookup(table, count, h);
+    if (!translated)
+        translated = lookup(english, english_count, h);
+    return translated ? translated : s;
 }
 
 int lang_index(const char *code)
@@ -84,35 +96,64 @@ static void swap_data(void)
 #undef SET
 }
 
+static u8 *load_table(const char *code, u32 *n)
+{
+    char path[32];
+    snprintf(path, sizeof path, "lang/%s.bin", code);
+    u32 size = 0;
+    u8 *data = fs_try_load(path, &size);
+    *n = 0;
+    if (!data)
+        return NULL;
+    if (size < 8 || memcmp(data, "LNG1", 4) != 0)
+        goto invalid;
+    u32 entries = *(u32 *)(data + 4);
+    if (entries > (size - 8) / 8)
+        goto invalid;
+    const u32 *e = (const u32 *)(data + 8);
+    for (u32 i = 0; i < entries; i++) {
+        u32 offset = e[i * 2 + 1];
+        if (offset < 8 + entries * 8 || offset >= size ||
+            !memchr(data + offset, 0, size - offset) ||
+            (i && e[i * 2] <= e[(i - 1) * 2]))
+            goto invalid;
+    }
+    *n = entries;
+    return data;
+invalid:
+    free(data);
+    return NULL;
+}
+
 void lang_set(int index)
 {
     if (index < 0 || index >= LANG_COUNT)
-        index = 9;
+        index = LANG_DEFAULT;
     g_lang = index;
     free(table);
     table = NULL;
     count = 0;
-    if (strcmp(g_langs[index].code, "fr") != 0) {
-        char path[32];
-        snprintf(path, sizeof path, "lang/%s.bin", g_langs[index].code);
-        u32 size;
-        table = fs_try_load(path, &size);
-        if (table && memcmp(table, "LNG1", 4) == 0)
-            count = *(u32 *)(table + 4);
-        else {
-            free(table);
-            table = NULL;
-        }
-    }
+    if (!english)
+        english = load_table("en", &english_count);
+    if (index != LANG_DEFAULT && strcmp(g_langs[index].code, "fr") != 0)
+        table = load_table(g_langs[index].code, &count);
     swap_data();
 }
 
 void *lang_load_text(const char *path, u32 *size)
 {
-    // text/credits.txt -> text/<code>/credits.txt when a translation exists
+    // Selected translation, then English; explicit French uses the original file.
     if (!strncmp(path, "text/", 5) && strcmp(g_langs[g_lang].code, "fr") != 0) {
         char p[64];
         snprintf(p, sizeof p, "text/%s/%s", g_langs[g_lang].code, path + 5);
+        void *d = fs_try_load(p, size);
+        if (d)
+            return d;
+    }
+    if (!strncmp(path, "text/", 5) && strcmp(g_langs[g_lang].code, "fr") != 0 &&
+        g_lang != LANG_DEFAULT) {
+        char p[64];
+        snprintf(p, sizeof p, "text/en/%s", path + 5);
         void *d = fs_try_load(p, size);
         if (d)
             return d;

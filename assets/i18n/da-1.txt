@@ -350,7 +350,7 @@
 349 Nyt spil
 350 Rulletekster & kilder
 351 Hovedmenu
-352 Uofficiel parodi · v2.0
+2168 Uofficiel parodi · v1.0.1
 353 Dit livs praktik
 354 TRYK PÅ START
 355 {P} modtager %s!

@@ -3,7 +3,8 @@
 
 <code>.txt: one "id<TAB>translation" per line, \\n and \\f written as backslash sequences. Lines starting
 with '#' are comments. Each translation is checked against its French source: same printf conversions in
-the same order, same {P}/{V0}.. placeholders; a bad line is reported and skipped (French is shown instead).
+the same order, same {P}/{V0}.. placeholders. Invalid or empty translations fall back to English.
+Incomplete English fails the build.
 
 .bin: 'LNG1', u32 n, n x (u32 fnv1a(French), u32 offset) sorted by hash, then NUL-terminated UTF-8 strings.
 """
@@ -43,7 +44,9 @@ def load(code):
 
 def load_file(path, code):
     tr = {}
-    for n, line in enumerate(open(path, encoding='utf-8'), 1):
+    with open(path, encoding='utf-8') as source:
+        lines = source.read().splitlines()
+    for n, line in enumerate(lines, 1):
         line = line.rstrip('\n')
         if not line or line.startswith('#'):
             continue
@@ -64,38 +67,46 @@ def check(fr, t):
     return None
 
 
+def validated_translations(code, by_id, fallback=None, require_complete=False):
+    translations = dict(fallback or {})
+    own = load(code)
+    bad = []
+    for i, t in own.items():
+        entry = by_id.get(i)
+        if not entry:
+            continue
+        err = check(entry['fr'], t) if t.strip() else 'empty translation'
+        if err:
+            bad.append(f'{code} #{i}: {err}')
+        else:
+            translations[i] = t
+    missing = sorted(set(by_id) - set(translations))
+    if require_complete and (bad or missing):
+        details = bad + [f'{code} #{i}: missing translation: {by_id[i]["fr"]!r}' for i in missing]
+        raise ValueError('\n'.join(details))
+    for err in bad:
+        print(err + '; using English', file=sys.stderr)
+    return translations, len(set(own) & set(by_id)), len(bad)
+
+
 def main():
-    cat = json.load(open(os.path.join(I18N, 'catalog.json'), encoding='utf-8'))
+    with open(os.path.join(I18N, 'catalog.json'), encoding='utf-8') as source:
+        cat = json.load(source)
     by_id = {e['id']: e for e in cat if e.get('used', True)}
+    en, _, _ = validated_translations('en', by_id, require_complete=True)
     os.makedirs(OUT, exist_ok=True)
     report = []
     codes = sorted({c for c in (os.path.basename(p)[:-4].split('-')[0] for p in glob.glob(os.path.join(I18N, '*.txt')))
                     if re.fullmatch(r'[a-z]{2}', c)})
-    en = load('en') if 'en' in codes else {}
     for code in codes:
-        tr = load(code)
-        own = len(tr)
-        # Unfinished languages: anything not translated yet is shown in English rather than French.
-        if code not in ('fr', 'en'):
-            for i, t in en.items():
-                if i not in tr:
-                    tr[i] = t
-        entries, bad = [], 0
-        for i, t in tr.items():
-            e = by_id.get(i)
-            if not e or not t.strip():
-                continue
-            err = check(e['fr'], t)
-            if err:
-                bad += 1
-                print(f'{code} #{i}: {err}: {t!r}', file=sys.stderr)
-                continue
-            if t != e['fr']:
-                entries.append((fnv(e['fr'].encode('utf-8')), t.encode('utf-8') + b'\0'))
+        translations, own, bad = validated_translations(code, by_id, en if code != 'fr' else None)
+        # Include identity translations: they intentionally override the English fallback.
+        entries = [(fnv(by_id[i]['fr'].encode('utf-8')), t.encode('utf-8') + b'\0')
+                   for i, t in translations.items()]
         entries.sort()
         hashes = [h for h, _ in entries]
         if len(set(hashes)) != len(hashes):
-            print(f'{code}: hash collision', file=sys.stderr)
+            raise ValueError(f'{code}: hash collision')
         blob = bytearray()
         offs = []
         base = 8 + 8 * len(entries)
@@ -106,7 +117,8 @@ def main():
         for (h, _), o in zip(entries, offs):
             out += struct.pack('<II', h, o)
         out += blob
-        open(os.path.join(OUT, code + '.bin'), 'wb').write(out)
+        with open(os.path.join(OUT, code + '.bin'), 'wb') as destination:
+            destination.write(out)
         report.append(f'{code}:{own}/{len(by_id)}' + (f'({bad} bad)' if bad else ''))
     print('lang', ' '.join(report))
 

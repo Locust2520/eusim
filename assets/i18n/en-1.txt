@@ -335,7 +335,7 @@
 349 New game
 350 Credits & sources
 351 Main menu
-352 Unofficial parody · v2.0
+2168 Unofficial parody · v1.0.1
 353 The internship of your life
 354 PRESS START
 355 {P} received %s!

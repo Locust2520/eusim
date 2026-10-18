@@ -350,7 +350,7 @@
 349 Uus mäng
 350 Tegijad & allikad
 351 Peamenüü
-352 Mitteametlik paroodia · v2.0
+2168 Mitteametlik paroodia · v1.0.1
 353 Sinu elu praktika
 354 VAJUTA START
 355 {P} saab: %s!

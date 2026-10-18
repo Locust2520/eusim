@@ -343,7 +343,7 @@
 349 Novo jogo
 350 Créditos e fontes
 351 Menu principal
-352 Paródia não oficial · v2.0
+2168 Paródia não oficial · v1.0.1
 353 O estágio da tua vida
 354 CARREGA EM START
 355 {P} recebe %s!

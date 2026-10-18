@@ -340,7 +340,7 @@
 349 Neues Spiel
 350 Mitwirkende & Quellen
 351 Hauptmenü
-352 Inoffizielle Parodie · v2.0
+2168 Inoffizielle Parodie · v1.0.1
 353 Das Praktikum deines Lebens
 354 DRÜCKE START
 355 {P} erhält %s!

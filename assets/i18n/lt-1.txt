@@ -350,7 +350,7 @@
 349 Naujas žaidimas
 350 Kūrėjai ir šaltiniai
 351 Pagrindinis meniu
-352 Neoficiali parodija · v2.0
+2168 Neoficiali parodija · v1.0.1
 353 Tavo gyvenimo stažuotė
 354 SPAUSKITE START
 355 {P} gauna %s!

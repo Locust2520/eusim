@@ -345,7 +345,7 @@
 349 Nowa gra
 350 Twórcy i źródła
 351 Menu główne
-352 Nieoficjalna parodia · v2.0
+2168 Nieoficjalna parodia · v1.0.1
 353 Staż twojego życia
 354 NACIŚNIJ START
 355 {P} otrzymuje %s!

@@ -1,0 +1,155 @@
+# EU SIMULATOR
+The internship of your life
+
+An unofficial parody game.
+No affiliation with the European Union,
+its institutions, or Nintendo.
+
+# Design and programming
+The EU Simulator contributors
+with l'Ordinatrice (AI assistant)
+
+# Engine
+C + libnds, BlocksDS (zlib, MIT, CC0)
+Tested in melonDS
+
+# Music
+Tracks generated with BeepLoop
+Ode to Joy: L. van Beethoven (public domain)
+Sound effects: custom PSG synthesis
+
+# Fonts (SIL Open Font License 1.1)
+Mona menu icons — Monad ABXY, © 2025
+Source font under SIL OFL 1.1
+https://github.com/MonadABXY/mona-font
+Handjet — David Březina, Rosetta
+Galmuri — Lee Minseo (quiple)
+Pixelify Sans — Stefie Justprince
+Jersey 10 — Sarah Cadigan-Fried
+
+# Illustrations
+Cutscenes, backgrounds and portraits
+generated with AI (OpenAI), retouched
+and pixelated for the game
+
+# Map of Europe
+Natural Earth (public domain)
+
+# Portraits
+AI-generated pixel art caricatures
+based on freely licensed photographs
+(derivative works, same licences):
+
+Michel Barnier — Florian David Pm
+(CC BY-SA 4.0, Wikimedia Commons)
+François Bayrou — Service photographique de Ma
+(Licence Ouverte, Wikimedia Commons)
+Silvio Berlusconi — Silvio_Berlusconi_(2010).j
+derivative w
+(Public domain, Wikimedia Commons)
+Josep Borrell — Unión Europea en Perú from Lim
+(CC BY 2.0, Wikimedia Commons)
+Albert Bourla — Ehbrooklyn96
+(CC BY-SA 4.0, Wikimedia Commons)
+António Costa — Frédéric Sierakowski - Europea
+(Attribution, Wikimedia Commons)
+Jacques Delors — Unknown photographer
+(CC BY 4.0, Wikimedia Commons)
+Mario Draghi — European Union
+(CC BY 4.0, Wikimedia Commons)
+Nigel Farage — Laurie Noble
+(CC BY 3.0, Wikimedia Commons)
+Boris Johnson — Ben Shread
+(OGL 3, Wikimedia Commons)
+Jean-Claude Juncker — European People's Party
+(CC BY 2.0, Wikimedia Commons)
+Eva Kaili — Christophe Licoppe
+(CC BY 4.0, Wikimedia Commons)
+Kaja Kallas — Aurore Martignoni
+(CC BY 4.0, Wikimedia Commons)
+Christine Lagarde — Lemrich
+(Attribution, Wikimedia Commons)
+Marine Le Pen — Vox España
+(CC0, Wikimedia Commons)
+Emmanuel Macron — Nebojša Tejić
+(Public domain, Wikimedia Commons)
+Péter Magyar — Xavier Lejeune
+(CC BY 4.0, Wikimedia Commons)
+Giorgia Meloni — Governo Italiano
+(CC BY 3.0 it, Wikimedia Commons)
+Angela Merkel — Raimond Spekking
+(CC BY-SA 4.0, Wikimedia Commons)
+Friedrich Merz — Steffen Prößdorf
+(CC BY-SA 4.0, Wikimedia Commons)
+Roberta Metsola — Daina Le Lardic - European P
+(European Parliament, Wikimedia Commons)
+Charles Michel — Unión Europea en Perú from Li
+(CC BY 2.0, Wikimedia Commons)
+Jean Monnet — Christian Lambiotte
+(CC BY 4.0, Wikimedia Commons)
+Viktor Orbán — The White House
+(Public domain, Wikimedia Commons)
+Pier Antonio Panzeri — Diliff
+(CC BY-SA 3.0, Wikimedia Commons)
+Pedro Sánchez — Pool Moncloa
+(Attribution, Wikimedia Commons)
+Wolfgang Schäuble — Wolfgang Schäuble
+(Public domain, Wikimedia Commons)
+Olaf Scholz — Lula Oficial
+(CC BY-SA 2.0, Wikimedia Commons)
+Martin Schulz — European Parliament Multimedia
+(European Parliament, Wikimedia Commons)
+Robert Schuman — European Commission
+(CC BY 4.0, Wikimedia Commons)
+Martin Selmayr — Saeima
+(CC BY-SA 2.0, Wikimedia Commons)
+Frans Timmermans — DanieleTodaro96
+(CC0, Wikimedia Commons)
+Donald Trump — Daniel Torok
+(Public domain, Wikimedia Commons)
+Alexis Tsipras — EU2017EE Estonian Presidency
+(CC BY 2.0, Wikimedia Commons)
+Yanis Varoufakis — Olaf Kosinsky
+(CC BY-SA 3.0 de, Wikimedia Commons)
+Ursula von der Leyen — European People's Party
+(CC BY 2.0, Wikimedia Commons)
+Simone Veil — © European Union - Source : EP
+(European Parliament, Wikimedia Commons)
+Guy Verhofstadt — European Parliament
+(CC BY 2.0, Wikimedia Commons)
+Margrethe Vestager — Christian Ursilva
+(CC BY-SA 4.0, Wikimedia Commons)
+
+No reference photograph: Bardella, Breton,
+Erdoğan, Musk, Putin, Rutte, Tusk, Vance,
+Xi Jinping, Zelensky
+
+# Euromons, scenery and characters
+Procedural pixel art
+
+# Trees, bushes, rocks and flowers
+Tuxemon "Core Outdoor Nature":
+rubberduck, Buch, luke83, Past the Future,
+George_, Midi (CC BY-SA 4.0 / CC BY 3.0),
+recoloured for the game (CC BY-SA 4.0)
+
+# Licence
+Free software: code under GNU GPL v3,
+images, music and text under CC BY-SA 4.0.
+You may modify and share the game,
+provided it remains free.
+Details: CREDITS.md and LICENSE.
+
+# Disclaimer
+Real people are caricatured based on
+their public actions and statements.
+Anyone implicated in a legal case
+is presumed innocent until a final
+conviction has been handed down.
+
+# Thanks
+Robert Schuman, Jean Monnet,
+and the 27 countries still debating.
+
+# And the clock-change directive?
+Still in committee.

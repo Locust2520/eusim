@@ -350,7 +350,7 @@
 349 Partita Ġdida
 350 Krediti u sorsi
 351 Menu Prinċipali
-352 Parodija mhux uffiċjali · v2.0
+2168 Parodija mhux uffiċjali · v1.0.1
 353 It-Traineeship ta' Ħajtek
 354 AGĦFAS START
 355 {P} jirċievi %s!

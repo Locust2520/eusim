@@ -350,7 +350,7 @@
 349 Jauna spēle
 350 Veidotāji & avoti
 351 Galvenā izvēlne
-352 Neoficiāla parodija · v2.0
+2168 Neoficiāla parodija · v1.0.1
 353 Tavas dzīves prakse
 354 NOSPIED START
 355 {P} saņem: %s!

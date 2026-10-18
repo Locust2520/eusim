@@ -72,7 +72,7 @@ static void draw_menu(int sel, bool has_save, int pressed)
         ui_text_in(&g_bot, &font_main, MENU_X + 48, y, MENU_W - 52, MENU_H, items[i], off ? C_MGREY : C_INK,
                    off ? 0 : C_SHADOW, -1);
     }
-    ui_text_in(&g_bot, &font_small, 0, 176, 256, 14, "Parodie non officielle · v2.0", C_BTN_LO, C_INK, 0);
+    ui_text_in(&g_bot, &font_small, 0, 176, 256, 14, "Parodie non officielle · v1.0.1", C_BTN_LO, C_INK, 0);
 }
 
 static void draw_press_start(bool on)
@@ -83,7 +83,7 @@ static void draw_press_start(bool on)
     ui_text_in(&g_bot, &font_small, 28, 54, 200, 16, "Le stage de ta vie", C_BTN_MID, C_INK, 0);
     if (on)
         ui_button(&g_bot, 48, 110, 160, 30, "APPUYEZ SUR START", BTN_SELECTED, &font_main);
-    ui_text_in(&g_bot, &font_small, 0, 176, 256, 14, "Parodie non officielle · v2.0", C_BTN_LO, C_INK, 0);
+    ui_text_in(&g_bot, &font_small, 0, 176, 256, 14, "Parodie non officielle · v1.0.1", C_BTN_LO, C_INK, 0);
 }
 
 int scene_title(void)

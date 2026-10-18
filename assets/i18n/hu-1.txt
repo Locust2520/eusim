@@ -349,7 +349,7 @@
 349 Új játék
 350 Alkotók és források
 351 Főmenü
-352 Nem hivatalos paródia · v2.0
+2168 Nem hivatalos paródia · v1.0.1
 353 Életed gyakorlata
 354 NYOMD MEG A START GOMBOT
 355 {P} megkapja: %s!

@@ -350,7 +350,7 @@
 349 Cluiche Nua
 350 Admhálacha & Foinsí
 351 Príomh-roghchlár
-352 Scigaithris neamhoifigiúil · v2.0
+2168 Scigaithris neamhoifigiúil · v1.0.1
 353 An tréimhse oiliúna is fearr i do shaol
 354 BRÚIGH START
 355 Faigheann {P} %s!

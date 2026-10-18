@@ -350,7 +350,7 @@
 349 Uusi peli
 350 Tekijät & lähteet
 351 Päävalikko
-352 Epävirallinen parodia · v2.0
+2168 Epävirallinen parodia · v1.0.1
 353 Elämäsi harjoittelu
 354 PAINA STARTIA
 355 {P} saa: %s!
