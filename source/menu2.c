@@ -507,9 +507,34 @@ void evolve_mon(Mon *m, int into)
         const u16 *l = species[into].learn;
         for (int i = 0; l[i] != 0xFFFF; i += 2)
             if (l[i] == m->level) {
-                if (mon_learn(m, l[i + 1]) >= 0) {
+                int mv = l[i + 1];
+                int r = mon_learn(m, mv);
+                if (r >= 0) {
                     snprintf(buf, sizeof buf, T("%s apprend %s !"), species[into].name, moves[l[i + 1]].name);
                     dlg_say("", buf);
+                } else if (r == -2) {
+                    snprintf(buf, sizeof buf, T("%s veut apprendre %s, mais connaît déjà quatre attaques."),
+                             mon_name(m), moves[mv].name);
+                    dlg_say("", buf);
+                    const char *opts[5];
+                    for (int k = 0; k < 4; k++)
+                        opts[k] = moves[m->moves[k]].name;
+                    opts[4] = "Ne pas apprendre";
+                    dlg_say("", "Quelle attaque oublier ?");
+                    int c = dlg_choice(opts, 5, true);
+                    if (c >= 0 && c < 4) {
+                        snprintf(buf, sizeof buf, T("1, 2, 3… Hop ! %s oublie %s…"),
+                                 mon_name(m), moves[m->moves[c]].name);
+                        dlg_say("", buf);
+                        m->moves[c] = mv;
+                        m->pp[c] = moves[mv].pp;
+                        sfx_play(SFX_LEVELUP);
+                        snprintf(buf, sizeof buf, T("… et apprend %s !"), moves[mv].name);
+                        dlg_say("", buf);
+                    } else {
+                        snprintf(buf, sizeof buf, T("%s n'apprend pas %s."), mon_name(m), moves[mv].name);
+                        dlg_say("", buf);
+                    }
                 }
             }
     }
