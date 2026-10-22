@@ -10425,7 +10425,7 @@
 "id": 1737,
 "en": "Port of Piraeus – Container Terminal",
 "ctx": "map name",
-"used": true
+"used": false
 },
 {
 "id": 1738,
@@ -13023,7 +13023,7 @@
 "id": 2170,
 "en": "C",
 "ctx": "source/keyboard.c:214",
-"used": true
+"used": false
 },
 {
 "id": 2171,
@@ -14091,6 +14091,792 @@
 "id": 2348,
 "en": "Hold to tilt the Bembel, let go to stop. Serve when the apple wine reaches the line.",
 "ctx": "source/minigame2.c:214",
+"used": true
+},
+{
+"id": 2349,
+"en": "The changing of the guard",
+"ctx": "source/minigame2.c:324",
+"used": true
+},
+{
+"id": 2350,
+"en": "Syntagma Square, the Tomb of the Unknown Soldier. Move in time with the Evzones: STEP, KICK, STOMP when ",
+"ctx": "source/minigame2.c:325",
+"used": true
+},
+{
+"id": 2351,
+"en": "each sign reaches the line. 24 moves, slowly and solemnly. 4 mistakes allowed.",
+"ctx": "source/minigame2.c:326",
+"used": true
+},
+{
+"id": 2352,
+"en": "Step",
+"ctx": "source/minigame2.c:328",
+"used": true
+},
+{
+"id": 2353,
+"en": "Kick",
+"ctx": "source/minigame2.c:328",
+"used": true
+},
+{
+"id": 2354,
+"en": "Stomp",
+"ctx": "source/minigame2.c:328",
+"used": true
+},
+{
+"id": 2355,
+"en": "Moves: %d / 24 · mistakes: %d",
+"ctx": "source/minigame2.c:346",
+"used": true
+},
+{
+"id": 2356,
+"en": "←: step · →: kick · A/↓: stomp",
+"ctx": "source/minigame2.c:362",
+"used": true
+},
+{
+"id": 2357,
+"en": "Perfectly in step! The Evzones change guard every hour, day and night, in every weather.",
+"ctx": "source/minigame2.c:392",
+"used": true
+},
+{
+"id": 2358,
+"en": "Out of step… The Evzones train for months before their first guard duty.",
+"ctx": "source/minigame2.c:393",
+"used": true
+},
+{
+"id": 2359,
+"en": "Frappé",
+"ctx": "source/minigame2.c:423",
+"used": true
+},
+{
+"id": 2360,
+"en": "Water",
+"ctx": "source/minigame2.c:423",
+"used": true
+},
+{
+"id": 2361,
+"en": "Newspaper",
+"ctx": "source/minigame2.c:423",
+"used": true
+},
+{
+"id": 2362,
+"en": "Koulouri",
+"ctx": "source/minigame2.c:423",
+"used": true
+},
+{
+"id": 2363,
+"en": "Worry beads",
+"ctx": "source/minigame2.c:423",
+"used": true
+},
+{
+"id": 2364,
+"en": "Mati",
+"ctx": "source/minigame2.c:423",
+"used": true
+},
+{
+"id": 2365,
+"en": "Bus ticket",
+"ctx": "source/minigame2.c:424",
+"used": true
+},
+{
+"id": 2366,
+"en": "Chewing gum",
+"ctx": "source/minigame2.c:424",
+"used": true
+},
+{
+"id": 2367,
+"en": "(A frappé, please!)",
+"ctx": "source/minigame2.c:425",
+"used": true
+},
+{
+"id": 2368,
+"en": "(A water, please!)",
+"ctx": "source/minigame2.c:425",
+"used": true
+},
+{
+"id": 2369,
+"en": "(A newspaper, please!)",
+"ctx": "source/minigame2.c:425",
+"used": true
+},
+{
+"id": 2370,
+"en": "(A koulouri, the sesame bread ring, please!)",
+"ctx": "source/minigame2.c:426",
+"used": true
+},
+{
+"id": 2371,
+"en": "(Worry beads, please!)",
+"ctx": "source/minigame2.c:426",
+"used": true
+},
+{
+"id": 2372,
+"en": "(A little evil-eye charm, please!)",
+"ctx": "source/minigame2.c:427",
+"used": true
+},
+{
+"id": 2373,
+"en": "(A ticket, please!)",
+"ctx": "source/minigame2.c:427",
+"used": true
+},
+{
+"id": 2374,
+"en": "(Chewing gum, please!)",
+"ctx": "source/minigame2.c:428",
+"used": true
+},
+{
+"id": 2375,
+"en": "The periptero",
+"ctx": "source/minigame2.c:429",
+"used": true
+},
+{
+"id": 2376,
+"en": "Rush hour at the kiosk! Each customer asks in Greek: tap what they want. I'll whisper the meaning for ",
+"ctx": "source/minigame2.c:430",
+"used": true
+},
+{
+"id": 2377,
+"en": "the first ones. 15 customers in 60 seconds!",
+"ctx": "source/minigame2.c:431",
+"used": true
+},
+{
+"id": 2378,
+"en": "Fifteen happy customers! Ευχαριστώ (efcharistó) means thank you.",
+"ctx": "source/minigame2.c:480",
+"used": true
+},
+{
+"id": 2379,
+"en": "The queue reaches the next street… Σιγά σιγά (sigá sigá): slowly, slowly.",
+"ctx": "source/minigame2.c:481",
+"used": true
+},
+{
+"id": 2380,
+"en": "The port of Piraeus",
+"ctx": "source/minigame2.c:515",
+"used": true
+},
+{
+"id": 2381,
+"en": "Load three ships before noon! Move the crane with the stylus or ←/→, drop with A or a tap. Heavy (H) ",
+"ctx": "source/minigame2.c:516",
+"used": true
+},
+{
+"id": 2382,
+"en": "never on top of lighter, refrigerated (white) only on the two powered columns (plugs), and keep the ship level!",
+"ctx": "source/minigame2.c:517",
+"used": true
+},
+{
+"id": 2383,
+"en": "H",
+"ctx": "source/minigame2.c:554",
+"used": true
+},
+{
+"id": 2384,
+"en": "Ship %d/3 · containers %d/%d",
+"ctx": "source/minigame2.c:572",
+"used": true
+},
+{
+"id": 2385,
+"en": "Time: %d s · mistakes: %d/3",
+"ctx": "source/minigame2.c:574",
+"used": true
+},
+{
+"id": 2386,
+"en": "Heel",
+"ctx": "source/minigame2.c:576",
+"used": true
+},
+{
+"id": 2387,
+"en": "Three ships loaded and level! Piraeus is one of the largest container ports in the Mediterranean.",
+"ctx": "source/minigame2.c:631",
+"used": true
+},
+{
+"id": 2388,
+"en": "The harbour master stops the loading: the ship is not safe. Restack and try again!",
+"ctx": "source/minigame2.c:632",
+"used": true
+},
+{
+"id": 2389,
+"en": "The Tomb of the Unknown Soldier (1932), below the Parliament. The Evzones of the Presidential Guard watch over it day and night.",
+"ctx": "assets/scripts/zz_athenes.evs:6",
+"used": true
+},
+{
+"id": 2390,
+"en": "The square is called Syntagma, “Constitution”: in 1843, Athenians gathered here until King Otto granted one.",
+"ctx": "assets/scripts/zz_athenes.evs:7",
+"used": true
+},
+{
+"id": 2391,
+"en": "The Evzone doesn't move. Not even an eyelash.",
+"ctx": "assets/scripts/zz_athenes.evs:10",
+"used": true
+},
+{
+"id": 2392,
+"en": "His tsarouchia, the red clogs with black pompoms, weigh about three kilos each, with sixty nails in the soles. His white kilt, the fustanella, has 400 pleats: one for each year of Ottoman rule, as tradition has it.",
+"ctx": "assets/scripts/zz_athenes.evs:11",
+"used": true
+},
+{
+"id": 2393,
+"en": "Evzone sergeant",
+"ctx": "assets/scripts/zz_athenes.evs:15",
+"used": true
+},
+{
+"id": 2394,
+"en": "Every hour, the guard changes. Slow steps, a high kick, the clogs striking the marble: two men move as one.",
+"ctx": "assets/scripts/zz_athenes.evs:15",
+"used": true
+},
+{
+"id": 2395,
+"en": "A recruit is missing today. Follow the rhythm with me?",
+"ctx": "assets/scripts/zz_athenes.evs:16",
+"used": true
+},
+{
+"id": 2396,
+"en": "Another changing of the guard?",
+"ctx": "assets/scripts/zz_athenes.evs:19",
+"used": true
+},
+{
+"id": 2397,
+"en": "Not one step out of time. Μπράβο (brávo)! Take this, from the guard.",
+"ctx": "assets/scripts/zz_athenes.evs:28",
+"used": true
+},
+{
+"id": 2398,
+"en": "Μπράβο (brávo)! On Sundays at eleven, the whole company parades in ceremonial dress. Come and see.",
+"ctx": "assets/scripts/zz_athenes.evs:32",
+"used": true
+},
+{
+"id": 2399,
+"en": "Your clogs and the drum disagreed. It takes months of training. Again tomorrow?",
+"ctx": "assets/scripts/zz_athenes.evs:35",
+"used": true
+},
+{
+"id": 2400,
+"en": "Kiosk keeper",
+"ctx": "assets/scripts/zz_athenes.evs:40",
+"used": true
+},
+{
+"id": 2401,
+"en": "Γεια σας (yia sas, hello)! A periptero sells everything: newspapers, water, bus tickets, phone credit, chewing gum, worry beads…",
+"ctx": "assets/scripts/zz_athenes.evs:40",
+"used": true
+},
+{
+"id": 2402,
+"en": "My nephew didn't come. You'll hold the counter? The customers speak Greek, but I'll whisper the meaning.",
+"ctx": "assets/scripts/zz_athenes.evs:41",
+"used": true
+},
+{
+"id": 2403,
+"en": "Rush hour again! Lending me a hand?",
+"ctx": "assets/scripts/zz_athenes.evs:44",
+"used": true
+},
+{
+"id": 2404,
+"en": "Ευχαριστώ (efcharistó, thank you)! You speak kiosk now. Here, on the house.",
+"ctx": "assets/scripts/zz_athenes.evs:53",
+"used": true
+},
+{
+"id": 2405,
+"en": "Ευχαριστώ (efcharistó)! The queue is gone in record time.",
+"ctx": "assets/scripts/zz_athenes.evs:58",
+"used": true
+},
+{
+"id": 2406,
+"en": "Σιγά σιγά (sigá sigá), slowly, slowly. That's also a Greek proverb.",
+"ctx": "assets/scripts/zz_athenes.evs:61",
+"used": true
+},
+{
+"id": 2407,
+"en": "Ένα φραπέ μέτριο (éna frapé métrio): a medium-sweet frappé, please. Iced coffee whipped into foam.",
+"ctx": "assets/scripts/zz_athenes.evs:65",
+"used": true
+},
+{
+"id": 2408,
+"en": "It was invented by accident in 1957, at the Thessaloniki International Fair: a salesman had no hot water and shook his instant coffee with cold water.",
+"ctx": "assets/scripts/zz_athenes.evs:66",
+"used": true
+},
+{
+"id": 2409,
+"en": "Syntagma metro station. When the metro was dug in the 1990s, archaeologists found tens of thousands of objects. Some are displayed in the station itself.",
+"ctx": "assets/scripts/zz_athenes.evs:69",
+"used": true
+},
+{
+"id": 2410,
+"en": "28 October is Ochi Day (όχι, óchi, “no”). In 1940 Greece said no to Mussolini's ultimatum; every year, schoolchildren parade in the streets.",
+"ctx": "assets/scripts/zz_athenes.evs:72",
+"used": true
+},
+{
+"id": 2411,
+"en": "Not to be confused with the OXI of the 2015 referendum. Two famous Greek “no”s, seventy-five years apart.",
+"ctx": "assets/scripts/zz_athenes.evs:73",
+"used": true
+},
+{
+"id": 2412,
+"en": "The drachma: a coin name from ancient Greece, brought back in 1832 for the young Greek state, and replaced by the euro in 2002.",
+"ctx": "assets/scripts/zz_athenes.evs:78",
+"used": true
+},
+{
+"id": 2413,
+"en": "The Greek one-euro coin shows Athena's owl, copied from an ancient Athenian coin, the four-drachma piece.",
+"ctx": "assets/scripts/zz_athenes.evs:81",
+"used": true
+},
+{
+"id": 2414,
+"en": "The Bank of Greece has its own printing works: they print euro banknotes too.",
+"ctx": "assets/scripts/zz_athenes.evs:84",
+"used": true
+},
+{
+"id": 2415,
+"en": "On the notes of the Europa series, the first letter of the serial number shows the central bank that ordered them. Ours is Y.",
+"ctx": "assets/scripts/zz_athenes.evs:85",
+"used": true
+},
+{
+"id": 2416,
+"en": "A Y on your specimen? Then welcome home!",
+"ctx": "assets/scripts/zz_athenes.evs:87",
+"used": true
+},
+{
+"id": 2417,
+"en": "Anafiotika: in the 19th century, builders from the island of Anafi came to work on the royal palace and built themselves a little Cycladic village here, under the Acropolis.",
+"ctx": "assets/scripts/zz_athenes.evs:93",
+"used": true
+},
+{
+"id": 2418,
+"en": "Μιάου (miáou). Athens has thousands of street cats; neighbours and volunteers feed them, even among the ruins.",
+"ctx": "assets/scripts/zz_athenes.evs:96",
+"used": true
+},
+{
+"id": 2419,
+"en": "Yiayia",
+"ctx": "assets/scripts/zz_athenes.evs:99",
+"used": true
+},
+{
+"id": 2420,
+"en": "Έφαγες; (éfages?) Have you eaten? You've lost weight. Sit. Eat.",
+"ctx": "assets/scripts/zz_athenes.evs:99",
+"used": true
+},
+{
+"id": 2421,
+"en": "Yiayia fed your whole team until nobody could move. Everyone is back on form.",
+"ctx": "assets/scripts/zz_athenes.evs:101",
+"used": true
+},
+{
+"id": 2422,
+"en": "Γιαγιά (yiayiá) means grandmother. And a yiayia never believes you when you say you're full.",
+"ctx": "assets/scripts/zz_athenes.evs:102",
+"used": true
+},
+{
+"id": 2423,
+"en": "Neighbour",
+"ctx": "assets/scripts/zz_athenes.evs:105",
+"used": true
+},
+{
+"id": 2424,
+"en": "Χρόνια πολλά (chrónia pollá)! Many years! Today is my name day.",
+"ctx": "assets/scripts/zz_athenes.evs:105",
+"used": true
+},
+{
+"id": 2425,
+"en": "In Greece we often celebrate the feast of the saint we're named after more than our birthday. Half the street is called Giorgos: imagine Saint George's Day.",
+"ctx": "assets/scripts/zz_athenes.evs:106",
+"used": true
+},
+{
+"id": 2426,
+"en": "Ναι (nai) means yes! It sounds like “no” to tourists. And όχι (óchi) means no.",
+"ctx": "assets/scripts/zz_athenes.evs:109",
+"used": true
+},
+{
+"id": 2427,
+"en": "If I tilt my head back and click my tongue, that's also no. Easy!",
+"ctx": "assets/scripts/zz_athenes.evs:110",
+"used": true
+},
+{
+"id": 2428,
+"en": "Stallholder",
+"ctx": "assets/scripts/zz_athenes.evs:115",
+"used": true
+},
+{
+"id": 2429,
+"en": "Μάτι (máti), the eye! A blue glass eye protects you from the evil eye, the bad luck that comes from envy.",
+"ctx": "assets/scripts/zz_athenes.evs:115",
+"used": true
+},
+{
+"id": 2430,
+"en": "If someone compliments your Euromon, say “φτου φτου” (ftou ftou), as if spitting. It's for luck. Don't actually spit.",
+"ctx": "assets/scripts/zz_athenes.evs:116",
+"used": true
+},
+{
+"id": 2431,
+"en": "Cheesemonger",
+"ctx": "assets/scripts/zz_athenes.evs:119",
+"used": true
+},
+{
+"id": 2432,
+"en": "Feta is a protected designation of origin since 2002: real feta is made in Greece from sheep's milk, sometimes with a little goat's milk.",
+"ctx": "assets/scripts/zz_athenes.evs:119",
+"used": true
+},
+{
+"id": 2433,
+"en": "Germany and Denmark challenged it at the EU Court of Justice. In 2005 the Court said: feta is Greek.",
+"ctx": "assets/scripts/zz_athenes.evs:120",
+"used": true
+},
+{
+"id": 2434,
+"en": "Grill cook",
+"ctx": "assets/scripts/zz_athenes.evs:123",
+"used": true
+},
+{
+"id": 2435,
+"en": "Souvlaki! In Athens that's meat on a skewer. In Thessaloniki they call the same thing kalamaki, “little stick”.",
+"ctx": "assets/scripts/zz_athenes.evs:123",
+"used": true
+},
+{
+"id": 2436,
+"en": "Ask for a “souvlaki” in Thessaloniki and they'll give you a pita gyros. Families have split over less.",
+"ctx": "assets/scripts/zz_athenes.evs:124",
+"used": true
+},
+{
+"id": 2437,
+"en": "Musician",
+"ctx": "assets/scripts/zz_athenes.evs:127",
+"used": true
+},
+{
+"id": 2438,
+"en": "Everybody thinks the sirtaki is an old folk dance. It was invented for the film “Zorba the Greek” in 1964, on music by Mikis Theodorakis.",
+"ctx": "assets/scripts/zz_athenes.evs:127",
+"used": true
+},
+{
+"id": 2439,
+"en": "Slow at first, then faster and faster… Opa!",
+"ctx": "assets/scripts/zz_athenes.evs:128",
+"used": true
+},
+{
+"id": 2440,
+"en": "Monastiraki station. Line 1 follows the Athens–Piraeus railway, opened in 1869: the oldest line of the network.",
+"ctx": "assets/scripts/zz_athenes.evs:131",
+"used": true
+},
+{
+"id": 2441,
+"en": "Take the train to the port of Piraeus?",
+"ctx": "assets/scripts/zz_athenes.evs:132",
+"used": true
+},
+{
+"id": 2442,
+"en": "The Odeon of Herodes Atticus, built in 161 AD. In 1944 a young soprano who had studied at the Athens Conservatory sang Beethoven's “Fidelio” here: Maria Callas.",
+"ctx": "assets/scripts/zz_athenes.evs:144",
+"used": true
+},
+{
+"id": 2443,
+"en": "Callas and Beethoven both appear on the finalist designs for the next euro banknotes, on the 5 and 10 euro notes of the culture theme.",
+"ctx": "assets/scripts/zz_athenes.evs:145",
+"used": true
+},
+{
+"id": 2444,
+"en": "These white slabs are plaster casts. The originals have been in the British Museum in London since 1816.",
+"ctx": "assets/scripts/zz_athenes.evs:148",
+"used": true
+},
+{
+"id": 2445,
+"en": "Greece has officially asked for their return since 1983. The museum keeps their places ready, next to the original pieces.",
+"ctx": "assets/scripts/zz_athenes.evs:149",
+"used": true
+},
+{
+"id": 2446,
+"en": "An original block of the Parthenon frieze: riders of the Panathenaic procession, carved around 440 BC.",
+"ctx": "assets/scripts/zz_athenes.evs:152",
+"used": true
+},
+{
+"id": 2447,
+"en": "The Acropolis Museum opened in 2009. This top floor is turned to line up with the Parthenon, which you see through the glass.",
+"ctx": "assets/scripts/zz_athenes.evs:155",
+"used": true
+},
+{
+"id": 2448,
+"en": "The frieze runs all the way round, in its original order. Honey-coloured marble: here. White plaster: in London.",
+"ctx": "assets/scripts/zz_athenes.evs:156",
+"used": true
+},
+{
+"id": 2449,
+"en": "The Zappeion. Here, on 28 May 1979, Greece signed its treaty of accession to the European Communities.",
+"ctx": "assets/scripts/zz_athenes.evs:159",
+"used": true
+},
+{
+"id": 2450,
+"en": "It became the tenth member on 1 January 1981. The euro followed in 2001, a year before the coins and notes.",
+"ctx": "assets/scripts/zz_athenes.evs:160",
+"used": true
+},
+{
+"id": 2451,
+"en": "Melina Mercouri (1920–1994), actress, then Minister of Culture. She proposed the European Capital of Culture: Athens was the first, in 1985.",
+"ctx": "assets/scripts/zz_athenes.evs:163",
+"used": true
+},
+{
+"id": 2452,
+"en": "She also launched the campaign for the return of the Parthenon marbles.",
+"ctx": "assets/scripts/zz_athenes.evs:164",
+"used": true
+},
+{
+"id": 2453,
+"en": "The Panathenaic Stadium, the only large stadium in the world built entirely of marble. The first modern Olympic Games were held here in 1896.",
+"ctx": "assets/scripts/zz_athenes.evs:167",
+"used": true
+},
+{
+"id": 2454,
+"en": "Every two years, the Olympic flame is handed over here to the next host city.",
+"ctx": "assets/scripts/zz_athenes.evs:168",
+"used": true
+},
+{
+"id": 2455,
+"en": "Container terminal operated by COSCO Shipping. The Chinese group bought 51% of the Piraeus Port Authority in 2016, then 67% in 2021.",
+"ctx": "assets/scripts/zz_athenes.evs:179",
+"used": true
+},
+{
+"id": 2456,
+"en": "Port guard",
+"ctx": "assets/scripts/zz_athenes.evs:182",
+"used": true
+},
+{
+"id": 2457,
+"en": "The container terminal is closed to visitors. The passenger port is all yours.",
+"ctx": "assets/scripts/zz_athenes.evs:182",
+"used": true
+},
+{
+"id": 2458,
+"en": "Not this way, please: container terminal.",
+"ctx": "assets/scripts/zz_athenes.evs:185",
+"used": true
+},
+{
+"id": 2459,
+"en": "Piraeus station, terminus of Line 1. The building dates from 1929.",
+"ctx": "assets/scripts/zz_athenes.evs:189",
+"used": true
+},
+{
+"id": 2460,
+"en": "Take the train back to Athens?",
+"ctx": "assets/scripts/zz_athenes.evs:190",
+"used": true
+},
+{
+"id": 2461,
+"en": "Stones of the walls of Piraeus. In the 5th century BC, Themistocles made Piraeus the port of Athens, and the Long Walls linked the two cities.",
+"ctx": "assets/scripts/zz_athenes.evs:200",
+"used": true
+},
+{
+"id": 2462,
+"en": "Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), “The Children of Piraeus”! Manos Hadjidakis wrote it for the film “Never on Sunday” (1960), starring Melina Mercouri.",
+"ctx": "assets/scripts/zz_athenes.evs:203",
+"used": true
+},
+{
+"id": 2463,
+"en": "It won the Oscar for best song. In France, Dalida made it a hit: “Les Enfants du Pirée”.",
+"ctx": "assets/scripts/zz_athenes.evs:204",
+"used": true
+},
+{
+"id": 2464,
+"en": "Fisherman",
+"ctx": "assets/scripts/zz_athenes.evs:207",
+"used": true
+},
+{
+"id": 2465,
+"en": "Over there is Mikrolimano, the little harbour: fishing boats, and tavernas where the fish was swimming this morning.",
+"ctx": "assets/scripts/zz_athenes.evs:207",
+"used": true
+},
+{
+"id": 2466,
+"en": "This way to the Karaiskakis Stadium, home of Olympiacos. In 2024 the club won the UEFA Europa Conference League: the first European trophy for a Greek football club.",
+"ctx": "assets/scripts/zz_athenes.evs:210",
+"used": true
+},
+{
+"id": 2467,
+"en": "Ferries for the islands: Aegina, Hydra, the Cyclades, Crete… Piraeus is one of the busiest passenger ports in Europe.",
+"ctx": "assets/scripts/zz_athenes.evs:213",
+"used": true
+},
+{
+"id": 2468,
+"en": "Greek shipowners control about a fifth of the world's merchant fleet: more than any other country.",
+"ctx": "assets/scripts/zz_athenes.evs:216",
+"used": true
+},
+{
+"id": 2469,
+"en": "Dock foreman",
+"ctx": "assets/scripts/zz_athenes.evs:220",
+"used": true
+},
+{
+"id": 2470,
+"en": "You, intern! The ship leaves at noon and my crane driver is on strike. Ever loaded a container ship?",
+"ctx": "assets/scripts/zz_athenes.evs:220",
+"used": true
+},
+{
+"id": 2471,
+"en": "Heavy containers at the bottom, refrigerated ones on the powered rows, and keep her level, or she lists.",
+"ctx": "assets/scripts/zz_athenes.evs:221",
+"used": true
+},
+{
+"id": 2472,
+"en": "Another ship to load?",
+"ctx": "assets/scripts/zz_athenes.evs:224",
+"used": true
+},
+{
+"id": 2473,
+"en": "Straight as a die! Here's your pay. Don't spend it all on souvlaki.",
+"ctx": "assets/scripts/zz_athenes.evs:233",
+"used": true
+},
+{
+"id": 2474,
+"en": "Another ship out on time. The captain sends his regards.",
+"ctx": "assets/scripts/zz_athenes.evs:238",
+"used": true
+},
+{
+"id": 2475,
+"en": "She's listing like a bad mood. We'll restack. Again?",
+"ctx": "assets/scripts/zz_athenes.evs:241",
+"used": true
+},
+{
+"id": 2476,
+"en": "Bank of Greece – Museum",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2477,
+"en": "Acropolis Museum – Parthenon Gallery",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2478,
+"en": "Port of Piraeus",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2479,
+"en": "House – Plaka",
+"ctx": "map name",
 "used": true
 }
 ]

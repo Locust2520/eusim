@@ -48,6 +48,9 @@ static inline void quick_party(int sp, int lv)
                       flag_set(FLAG_ATELIER_SEEN, 1); flag_set(FLAG_NOTE_STUDIO_PASSED, 1); g_save.map = MAP_ATELIER_BCE; g_save.x = 9; g_save.y = 7; g_save.dir = 3; } \
     if (SCEN == 33) { flag_set(FLAG_INTRO_DONE, 1); g_save.badges = 0x03; flag_set(FLAG_BADGE_2, 1); \
                       g_save.map = MAP_FRANCFORT; g_save.x = 46; g_save.y = 12; g_save.dir = 0; } \
+    if (SCEN == 35 || SCEN == 36) flag_set(FLAG_CINE_ATHENES, 1); \
+    if (SCEN == 35) { flag_set(FLAG_INTRO_DONE, 1); g_save.map = MAP_ATHENES; g_save.x = 51; g_save.y = 12; g_save.dir = 1; } \
+    if (SCEN == 36) { flag_set(FLAG_INTRO_DONE, 1); g_save.map = MAP_ATHENES; g_save.x = 37; g_save.y = 38; g_save.dir = 1; } \
     if (SCEN == 2) { quick_party(SP_CECAGON, 40); quick_party(SP_EUROLO, 12); flag_set(FLAG_GOT_STARTER, 1); flag_set(FLAG_GOT_DEX, 1); \
                      g_save.map = MAP_LUXEMBOURG; g_save.x = 25; g_save.y = 10; } \
 } while (0)

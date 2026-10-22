@@ -20,9 +20,9 @@ C_SKIP = {'neutral', 'happy', 'angry', 'surprised', 'worried', 'sulk', 'schuman'
           'BGI1', 'BMP8', 'MAP1', 'UESU', 'SCR1', 'LNG1', 'scripts.bin', '%s.probe', '%s.tmp', '/eusim', '(trump)',
           'EUL1', 'EUN2', 'EU Simulator %.12s',
           'Oliver', 'Alex', 'Max', 'EU SIMULATOR', 'Zz', 'z', 'OK', 'Eurodex', 'EXP', 'FATAL ERROR',
-          '%s_slot%d.sav', 'sd:/eusim', 'fat:/eusim', '-Wformat-nonliteral', 'P', 'R', 'M', '…', '0,3 l', 'EURO'}
+          '%s_slot%d.sav', 'sd:/eusim', 'fat:/eusim', '-Wformat-nonliteral', 'P', 'R', 'M', '…', '0,3 l', 'EURO', 'C'}
 C_SKIP_FILES = {'source/keyboard.c': {13, 14, 15, 16}, 'source/lang.c': None, 'source/compat.c': None, 'source/langpick.c': None,
-                'source/mg_langs.c': None, 'source/note_render.c': None}
+                'source/mg_langs.c': None, 'source/note_render.c': None, 'source/mg_greek.c': None}
 
 
 def c_strings():

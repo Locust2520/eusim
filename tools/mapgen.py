@@ -17,7 +17,7 @@ LEGEND = {
     'q': 'tiles', 'o': 'floor', 'c': 'carpet', 'e': 'carpet_enc', 'd': 'dark', 'D': 'dark_enc',
     '#': 'wall_top', '|': 'wall', 'n': 'window', '_': 'doormat', 'b': 'bench_row', 'R': 'carpet_red',
     '^': 'stairs', 'x': 'counter', 'X': 'void', 'p': 'chair', '@': 'seat', '$': 'money', '&': 'cobweb',
-    'I': 'sign', 'J': 'sign_eu',
+    'I': 'sign', 'J': 'sign_eu', 'V': 'fence_v',
 }
 
 
@@ -465,7 +465,7 @@ def build_francfort():
     m.rect('water', 0, 31, 64, 4)
     for bx in (18, 36):
         bw = 4 if bx == 18 else 2
-        m.rect('dock', bx, 31, bw, 4).rect('fence', bx - 1, 31, 1, 4).rect('fence', bx + bw, 31, 1, 4)
+        m.rect('dock', bx, 31, bw, 4).rect('fence_v', bx - 1, 31, 1, 4).rect('fence_v', bx + bw, 31, 1, 4)
     m.rect('sign', 35, 30).ev('sign 35 30 ffm_steg')
     m.npc('ffm_couple', 'stagiaire_f', 39, 29, 'left', 'look', 'ffm_couple')
     m.npc('ffm_local', 'mamie', 10, 29, 'down', 'still', 'ffm_local')
@@ -604,21 +604,93 @@ def gym_room(mid, label, floor, leader, leader_script, trainers, outdoor, door, 
 
 
 def build_athenes():
-    def extra(m):
-        m.npc('ath_touriste', 'touriste', 20, 13, 'down', 'wander', 'ath_touriste')
-        m.ev('sign 24 11 ath_sign')
-        m.rect('pave', 30, 2, 8, 10)
-        m.npc('pire_guard', 'douanier', 33, 4, 'down', 'still', 'piree_guard', hide='POWERS_START')
-        m.ev('trigger 30 3 8 1 piree_block ifnot=POWERS_START')
-        m.ev('warp 37 2 piree 1 10 right')
-    m = city('athenes', "Athens – Plaka", 'athenes', 'ath_parc', 'acropole', (14, 3), 'arena_red', (5, 4), extra)
+    # 64 x 48. The original Plaka block (x < 40, y < 28) keeps its coordinates; Syntagma Square was added to the
+    # east, Anafiotika, Monastiraki, the museums and the marble stadium to the south.
+    m = add(M('athenes', "Athens – Plaka", 64, 48, 'grass', 'athenes', 'outdoor', 'ath_parc', 'athenes'))
+    m.border_trees()
+    m.rect('pave', 2, 12, 60, 3)
+    m.obj('gare', 3, 15)              # door 7,19
+    m.obj('cantine', 13, 16)          # door 16,19
+    m.obj('boutique', 21, 16)         # door 23,19
+    m.rect('pave', 2, 20, 30, 1)
+    m.obj('acropole', 14, 3)
+    m.obj('arena_red', 5, 4)
+    m.rect('dossiers', 28, 21, 8, 4)
+    gare('athenes', "Athens", m, (7, 19))
+    cantine('athenes', "Athens", m, (16, 19))
+    boutique('athenes', "Athens", m, (23, 19))
+    m.npc('ath_touriste', 'touriste', 20, 13, 'down', 'wander', 'ath_touriste')
+    m.ev('sign 24 11 ath_sign')
+    # the road to the container terminal (closed until the Great Powers arrive)
+    m.rect('pave', 30, 2, 8, 10).rect('fence_v', 38, 2, 1, 10)
+    m.npc('pire_guard', 'douanier', 33, 4, 'down', 'still', 'piree_guard', hide='POWERS_START')
+    m.ev('trigger 30 3 8 1 piree_block ifnot=POWERS_START')
+    m.ev('warp 37 2 piree 1 10 right')
     gym_room('gym_athenes', "Athens Arena – Amphitheatre", 'marble', 'varoufakis', 'gym4_leader',
              [('eco1', 'journaliste', 4, 8, 'right', 'still', 'gym4_t1', 'ath_economiste', 4),
               ('troika1', 'banquier', 11, 6, 'left', 'still', 'gym4_t2', 'troika_bce', 3),
               ('troika2', 'fonctionnaire', 11, 10, 'left', 'still', 'gym4_t3', 'troika_fmi', 3)],
              m, (8, 8), deco=lambda g: g.rect('bench_row', 2, 4, 4, 1).rect('bench_row', 10, 4, 4, 1))
-    house('maison_ath', 'House – Athens', m, (31, 19) if False else (28, 19),
-          [('grec', 'mamie', 3, 3, 'down', 'still', 'ath_mamie')]) if False else None
+    # Syntagma Square: Parliament, the Tomb of the Unknown Soldier and its Evzones
+    m.rect('pave', 40, 2, 22, 25)
+    m.obj('vouli', 46, 2)
+    m.obj('unknown_soldier', 48, 7).ev('sign 50 8 ath_tomb').ev('sign 51 8 ath_tomb')
+    m.obj('sentry_box', 46, 7).obj('sentry_box', 55, 7)
+    m.npc('evzone_l', 'evzone', 46, 9, 'down', 'still', 'ath_evzone')
+    m.npc('evzone_r', 'evzone', 55, 9, 'down', 'still', 'ath_evzone')
+    m.npc('evzone_sgt', 'evzone', 51, 11, 'down', 'still', 'ath_evzone_sergeant')
+    m.obj('periptero', 42, 9)
+    m.npc('kioskaris', 'kioskaris', 44, 10, 'left', 'still', 'ath_kiosk')
+    m.obj('fountain', 50, 17)
+    for x, y in ((43, 16), (58, 16), (43, 22)):
+        m.obj('orange_tree', x, y)
+    m.obj('cafe_table', 46, 19).obj('cafe_table', 53, 20)
+    m.npc('ath_frappe', 'stagiaire_f', 48, 19, 'left', 'still', 'ath_frappe')
+    m.obj('metro_entrance', 51, 23).ev('sign 51 24 ath_metro_syntagma').ev('sign 52 24 ath_metro_syntagma')
+    m.obj('bank_greece', 57, 21)      # door 59,24
+    m.rect('sign', 45, 25).ev('sign 45 25 ath_ochi_day')
+    bg = add(M('bank_greece_ath', "Bank of Greece – Museum", 12, 8, 'marble', 'labo', 'indoor', bg='101820'))
+    bgdx = interior_box(bg, 12, 8, 'm')
+    bg.rect('counter', 2, 3, 3, 1).ev('sign 2 3 ath_drachma').ev('sign 3 3 ath_drachma').ev('sign 4 3 ath_drachma')
+    bg.rect('counter', 7, 3, 3, 1).ev('sign 7 3 ath_owl').ev('sign 8 3 ath_owl').ev('sign 9 3 ath_owl')
+    bg.npc('bg_guide', 'fonctionnaire', 6, 5, 'down', 'still', 'ath_bank_guide')
+    link(m, 59, 24, bg, bgdx, 7)
+    # the way south
+    m.rect('pave', 2, 27, 60, 2)
+    # Anafiotika: a Cycladic village under the Acropolis
+    m.rect('path', 2, 30, 18, 10)
+    m.obj('cycladic_0', 3, 31).obj('cycladic_1', 7, 30).obj('cycladic_0', 11, 32).obj('cycladic_1', 15, 31)
+    m.rect('flowers_p', 3, 35, 3, 1).rect('flowers_p', 14, 35, 4, 1)
+    m.obj('cat_0', 6, 36).obj('cat_1', 13, 37).obj('cat_2', 18, 34)
+    m.rect('sign', 9, 36).ev('sign 9 36 ath_anafiotika')
+    m.ev('sign 6 36 ath_cats').ev('sign 13 37 ath_cats').ev('sign 18 34 ath_cats')
+    m.obj('house_white', 3, 41)       # door 5,44
+    house('yiayia_ath', "House – Plaka", m, (5, 44), [('yiayia', 'yiayia', 3, 3, 'down', 'still', 'ath_yiayia')])
+    m.npc('ath_nameday', 'mamie', 16, 39, 'down', 'still', 'ath_nameday')
+    m.npc('ath_nai', 'enfant', 12, 41, 'right', 'look', 'ath_nai')
+    # Monastiraki: the flea market and Line 1 to Piraeus
+    m.rect('pave', 22, 30, 18, 12)
+    for i, (x, y) in enumerate(((24, 31), (28, 31), (32, 31), (24, 35), (28, 35))):
+        m.obj(f'stall_{i % 2}', x, y)
+    m.npc('ath_mati', 'vendeur', 26, 33, 'down', 'still', 'ath_mati')
+    m.npc('ath_feta', 'agriculteur', 31, 37, 'down', 'still', 'ath_feta')
+    m.npc('ath_souvlaki', 'cantiniere', 36, 32, 'down', 'still', 'ath_souvlaki')
+    m.npc('ath_busker', 'touriste', 34, 39, 'up', 'still', 'ath_sirtaki')
+    m.obj('metro_entrance', 37, 36).ev('sign 37 37 ath_metro_piree').ev('sign 38 37 ath_metro_piree')
+    # Odeon, Acropolis Museum, Zappeion, Melina Mercouri, Panathenaic Stadium
+    m.obj('odeon', 42, 30).ev('sign 44 33 ath_odeon').ev('sign 45 33 ath_odeon')
+    m.obj('acropolis_museum', 50, 30)  # door 53,33
+    am = add(M('museum_acropole', "Acropolis Museum – Parthenon Gallery", 14, 8, 'marble', 'legend', 'indoor', bg='101820'))
+    amdx = interior_box(am, 14, 8, 'm')
+    for i, x in enumerate((1, 3, 5, 9, 11)):
+        am.obj('frieze_real' if i in (0, 3) else 'frieze_cast', x, 2)
+    am.ev('sign 5 2 ath_frieze').ev('sign 6 2 ath_frieze').ev('sign 1 2 ath_frieze_real').ev('sign 9 2 ath_frieze_real')
+    am.npc('am_curator', 'fonctionnaire_f', 7, 4, 'down', 'still', 'ath_museum_curator')
+    link(m, 53, 33, am, amdx, 7)
+    m.obj('zappeion', 42, 38).ev('sign 45 41 ath_zappeion').ev('sign 46 41 ath_zappeion')
+    m.obj('statue', 51, 38).ev('sign 51 39 ath_mercouri')
+    m.obj('stadium', 54, 38).ev('sign 57 42 ath_stadium').ev('sign 58 42 ath_stadium')
+    m.rect('dossiers', 22, 43, 14, 3)
     return m
 
 
@@ -735,15 +807,34 @@ def build_powers():
     hall.obj('long_table', 4, 3).obj('long_table', 14, 3)
     hall.npc('putin', 'putin', 22, 4, 'left', 'still', 'var_putin', hide='PUTIN_DONE')
     link(v, 28, 8, hall, hdx, 8)
-    p = add(M('piree', "Port of Piraeus – Container Terminal", 36, 22, 'pave', 'xi', 'outdoor', 'piree', 'athenes'))
-    p.rect('water', 0, 16, 36, 6).rect('dock', 0, 15, 36, 1)
+    # Piraeus, 64 x 32: the COSCO container terminal (original 36 x 22, closed until the Great Powers arrive) and,
+    # to the east, the passenger port reached by Line 1 from Monastiraki.
+    p = add(M('piree', "Port of Piraeus", 64, 32, 'pave', 'athenes', 'outdoor', 'piree', 'athenes'))
+    p.rect('water', 0, 16, 64, 16).rect('dock', 0, 15, 64, 1)
     for x in range(6, 32, 4):
         for y in (2, 7):
             p.obj(['container_red', 'container_blue', 'container_green', 'container_yellow'][(x // 4 + y) % 4], x, y)
     p.obj('boat', 26, 17)
-    p.npc('xi', 'xi', 18, 12, 'down', 'still', 'piree_xi', hide='XI_DONE')
-    p.npc('panda_g', 'fonctionnaire', 22, 12, 'left', 'still', 'piree_panda')
+    p.npc('xi', 'xi', 18, 12, 'down', 'still', 'piree_xi', show='POWERS_START', hide='XI_DONE')
+    p.npc('panda_g', 'fonctionnaire', 22, 12, 'left', 'still', 'piree_panda', show='POWERS_START')
     p.ev('warp 0 10 athenes 36 3 left')
+    p.ev('onload piree_onload')
+    p.rect('fence_v', 36, 0, 1, 9).rect('fence_v', 36, 11, 1, 4)
+    p.ev('sign 36 8 piree_cosco')
+    p.npc('cosco_guard', 'douanier', 37, 9, 'left', 'still', 'piree_gate_guard', hide='POWERS_START')
+    p.ev('trigger 36 9 1 2 piree_gate_block ifnot=POWERS_START')
+    p.obj('piraeus_station', 50, 1).ev('sign 53 5 piree_metro_back').ev('sign 54 5 piree_metro_back')
+    p.obj('ancient_wall', 44, 2).ev('sign 45 2 piree_walls').ev('sign 46 2 piree_walls')
+    p.obj('gantry_crane', 39, 8)
+    p.obj('container_blue', 45, 9).obj('container_red', 47, 9).obj('container_yellow', 45, 11)
+    p.npc('docker', 'docker', 44, 13, 'right', 'still', 'piree_docker')
+    p.npc('piree_busker', 'touriste', 49, 8, 'down', 'still', 'piree_busker')
+    p.obj('taverna', 58, 8).obj('cafe_table', 57, 12).obj('cafe_table', 60, 12)
+    p.npc('piree_fisher', 'agriculteur', 56, 13, 'right', 'still', 'piree_fisher')
+    p.rect('sign', 61, 5).ev('sign 61 5 piree_olympiacos')
+    p.rect('sign', 52, 14).ev('sign 52 14 piree_ferries')
+    p.rect('sign', 38, 14).ev('sign 38 14 piree_shipowners')
+    p.obj('ferry', 40, 18).obj('ferry', 52, 24)
     s = add(M('sommet', "“G-Everything” Summit – Plenary Hall", 20, 14, 'red_carpet', 'sommet_hall', 'indoor', bg='080810'))
     sdx = interior_box(s, 20, 14, 'R')
     s.rect('marble', 0, 2, 20, 12).rect('red_carpet', sdx, 3, 1, 11)

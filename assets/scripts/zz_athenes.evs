@@ -1,0 +1,243 @@
+# Athens extension (Syntagma, Anafiotika, Monastiraki, museums, stadium) and the port of Piraeus.
+# Greek words are written in Greek with their pronunciation and meaning, for players of every language.
+
+# ---------------------------------------------------------------- Syntagma Square
+script ath_tomb
+  say - "The Tomb of the Unknown Soldier (1932), below the Parliament. The Evzones of the Presidential Guard watch over it day and night."
+  say - "The square is called Syntagma, “Constitution”: in 1843, Athenians gathered here until King Otto granted one."
+end
+script ath_evzone
+  say - "The Evzone doesn't move. Not even an eyelash."
+  say - "His tsarouchia, the red clogs with black pompoms, weigh about three kilos each, with sixty nails in the soles. His white kilt, the fustanella, has 400 pleats: one for each year of Ottoman rule, as tradition has it."
+end
+script ath_evzone_sergeant
+  if flag EVZONES_DONE goto again
+  say "Evzone sergeant" "Every hour, the guard changes. Slow steps, a high kick, the clogs striking the marble: two men move as one."
+  say "Evzone sergeant" "A recruit is missing today. Follow the rhythm with me?"
+  goto play
+:again
+  ask "Evzone sergeant" "Another changing of the guard?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame evzones
+  if var RESULT == 0 goto missed
+  if flag EVZONES_DONE goto good
+  setflag EVZONES_DONE
+  say "Evzone sergeant" "Not one step out of time. Μπράβο (brávo)! Take this, from the guard."
+  giveitem x_expertise 2
+  goto fin
+:good
+  say "Evzone sergeant" "Μπράβο (brávo)! On Sundays at eleven, the whole company parades in ceremonial dress. Come and see."
+  goto fin
+:missed
+  say "Evzone sergeant" "Your clogs and the drum disagreed. It takes months of training. Again tomorrow?"
+:fin
+end
+script ath_kiosk
+  if flag PERIPTERO_DONE goto again
+  say "Kiosk keeper" "Γεια σας (yia sas, hello)! A periptero sells everything: newspapers, water, bus tickets, phone credit, chewing gum, worry beads…"
+  say "Kiosk keeper" "My nephew didn't come. You'll hold the counter? The customers speak Greek, but I'll whisper the meaning."
+  goto play
+:again
+  ask "Kiosk keeper" "Rush hour again! Lending me a hand?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame periptero
+  if var RESULT == 0 goto slow
+  if flag PERIPTERO_DONE goto good
+  setflag PERIPTERO_DONE
+  say "Kiosk keeper" "Ευχαριστώ (efcharistó, thank you)! You speak kiosk now. Here, on the house."
+  giveitem cafe 5
+  money 1000
+  goto fin
+:good
+  say "Kiosk keeper" "Ευχαριστώ (efcharistó)! The queue is gone in record time."
+  goto fin
+:slow
+  say "Kiosk keeper" "Σιγά σιγά (sigá sigá), slowly, slowly. That's also a Greek proverb."
+:fin
+end
+script ath_frappe
+  say "Student" "Ένα φραπέ μέτριο (éna frapé métrio): a medium-sweet frappé, please. Iced coffee whipped into foam."
+  say "Student" "It was invented by accident in 1957, at the Thessaloniki International Fair: a salesman had no hot water and shook his instant coffee with cold water."
+end
+script ath_metro_syntagma
+  say - "Syntagma metro station. When the metro was dug in the 1990s, archaeologists found tens of thousands of objects. Some are displayed in the station itself."
+end
+script ath_ochi_day
+  say - "28 October is Ochi Day (όχι, óchi, “no”). In 1940 Greece said no to Mussolini's ultimatum; every year, schoolchildren parade in the streets."
+  say - "Not to be confused with the OXI of the 2015 referendum. Two famous Greek “no”s, seventy-five years apart."
+end
+
+# ---------------------------------------------------------------- Bank of Greece
+script ath_drachma
+  say - "The drachma: a coin name from ancient Greece, brought back in 1832 for the young Greek state, and replaced by the euro in 2002."
+end
+script ath_owl
+  say - "The Greek one-euro coin shows Athena's owl, copied from an ancient Athenian coin, the four-drachma piece."
+end
+script ath_bank_guide
+  say "Guide" "The Bank of Greece has its own printing works: they print euro banknotes too."
+  say "Guide" "On the notes of the Europa series, the first letter of the serial number shows the central bank that ordered them. Ours is Y."
+  if !flag NOTE_PRINTED goto fin
+  say "Guide" "A Y on your specimen? Then welcome home!"
+:fin
+end
+
+# ---------------------------------------------------------------- Anafiotika, Plaka
+script ath_anafiotika
+  say - "Anafiotika: in the 19th century, builders from the island of Anafi came to work on the royal palace and built themselves a little Cycladic village here, under the Acropolis."
+end
+script ath_cats
+  say - "Μιάου (miáou). Athens has thousands of street cats; neighbours and volunteers feed them, even among the ruins."
+end
+script ath_yiayia
+  say "Yiayia" "Έφαγες; (éfages?) Have you eaten? You've lost weight. Sit. Eat."
+  heal
+  say - "Yiayia fed your whole team until nobody could move. Everyone is back on form."
+  say "Yiayia" "Γιαγιά (yiayiá) means grandmother. And a yiayia never believes you when you say you're full."
+end
+script ath_nameday
+  say "Neighbour" "Χρόνια πολλά (chrónia pollá)! Many years! Today is my name day."
+  say "Neighbour" "In Greece we often celebrate the feast of the saint we're named after more than our birthday. Half the street is called Giorgos: imagine Saint George's Day."
+end
+script ath_nai
+  say "Child" "Ναι (nai) means yes! It sounds like “no” to tourists. And όχι (óchi) means no."
+  say "Child" "If I tilt my head back and click my tongue, that's also no. Easy!"
+end
+
+# ---------------------------------------------------------------- Monastiraki
+script ath_mati
+  say "Stallholder" "Μάτι (máti), the eye! A blue glass eye protects you from the evil eye, the bad luck that comes from envy."
+  say "Stallholder" "If someone compliments your Euromon, say “φτου φτου” (ftou ftou), as if spitting. It's for luck. Don't actually spit."
+end
+script ath_feta
+  say "Cheesemonger" "Feta is a protected designation of origin since 2002: real feta is made in Greece from sheep's milk, sometimes with a little goat's milk."
+  say "Cheesemonger" "Germany and Denmark challenged it at the EU Court of Justice. In 2005 the Court said: feta is Greek."
+end
+script ath_souvlaki
+  say "Grill cook" "Souvlaki! In Athens that's meat on a skewer. In Thessaloniki they call the same thing kalamaki, “little stick”."
+  say "Grill cook" "Ask for a “souvlaki” in Thessaloniki and they'll give you a pita gyros. Families have split over less."
+end
+script ath_sirtaki
+  say "Musician" "Everybody thinks the sirtaki is an old folk dance. It was invented for the film “Zorba the Greek” in 1964, on music by Mikis Theodorakis."
+  say "Musician" "Slow at first, then faster and faster… Opa!"
+end
+script ath_metro_piree
+  say - "Monastiraki station. Line 1 follows the Athens–Piraeus railway, opened in 1869: the oldest line of the network."
+  ask - "Take the train to the port of Piraeus?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+  close
+  sfx TRAIN
+  loading 45
+  warp piree 53 6 down
+:fin
+end
+
+# ---------------------------------------------------------------- monuments and museums
+script ath_odeon
+  say - "The Odeon of Herodes Atticus, built in 161 AD. In 1944 a young soprano who had studied at the Athens Conservatory sang Beethoven's “Fidelio” here: Maria Callas."
+  say - "Callas and Beethoven both appear on the finalist designs for the next euro banknotes, on the 5 and 10 euro notes of the culture theme."
+end
+script ath_frieze
+  say - "These white slabs are plaster casts. The originals have been in the British Museum in London since 1816."
+  say - "Greece has officially asked for their return since 1983. The museum keeps their places ready, next to the original pieces."
+end
+script ath_frieze_real
+  say - "An original block of the Parthenon frieze: riders of the Panathenaic procession, carved around 440 BC."
+end
+script ath_museum_curator
+  say "Curator" "The Acropolis Museum opened in 2009. This top floor is turned to line up with the Parthenon, which you see through the glass."
+  say "Curator" "The frieze runs all the way round, in its original order. Honey-coloured marble: here. White plaster: in London."
+end
+script ath_zappeion
+  say - "The Zappeion. Here, on 28 May 1979, Greece signed its treaty of accession to the European Communities."
+  say - "It became the tenth member on 1 January 1981. The euro followed in 2001, a year before the coins and notes."
+end
+script ath_mercouri
+  say - "Melina Mercouri (1920–1994), actress, then Minister of Culture. She proposed the European Capital of Culture: Athens was the first, in 1985."
+  say - "She also launched the campaign for the return of the Parthenon marbles."
+end
+script ath_stadium
+  say - "The Panathenaic Stadium, the only large stadium in the world built entirely of marble. The first modern Olympic Games were held here in 1896."
+  say - "Every two years, the Olympic flame is handed over here to the next host city."
+end
+
+# ---------------------------------------------------------------- Piraeus
+script piree_onload
+  if !flag POWERS_START goto fin
+  music xi
+  call cine_piree
+:fin
+end
+script piree_cosco
+  say - "Container terminal operated by COSCO Shipping. The Chinese group bought 51% of the Piraeus Port Authority in 2016, then 67% in 2021."
+end
+script piree_gate_guard
+  say "Port guard" "The container terminal is closed to visitors. The passenger port is all yours."
+end
+script piree_gate_block
+  say "Port guard" "Not this way, please: container terminal."
+  move player "R"
+end
+script piree_metro_back
+  say - "Piraeus station, terminus of Line 1. The building dates from 1929."
+  ask - "Take the train back to Athens?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+  close
+  sfx TRAIN
+  loading 45
+  warp athenes 37 38 down
+:fin
+end
+script piree_walls
+  say - "Stones of the walls of Piraeus. In the 5th century BC, Themistocles made Piraeus the port of Athens, and the Long Walls linked the two cities."
+end
+script piree_busker
+  say "Musician" "Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), “The Children of Piraeus”! Manos Hadjidakis wrote it for the film “Never on Sunday” (1960), starring Melina Mercouri."
+  say "Musician" "It won the Oscar for best song. In France, Dalida made it a hit: “Les Enfants du Pirée”."
+end
+script piree_fisher
+  say "Fisherman" "Over there is Mikrolimano, the little harbour: fishing boats, and tavernas where the fish was swimming this morning."
+end
+script piree_olympiacos
+  say - "This way to the Karaiskakis Stadium, home of Olympiacos. In 2024 the club won the UEFA Europa Conference League: the first European trophy for a Greek football club."
+end
+script piree_ferries
+  say - "Ferries for the islands: Aegina, Hydra, the Cyclades, Crete… Piraeus is one of the busiest passenger ports in Europe."
+end
+script piree_shipowners
+  say - "Greek shipowners control about a fifth of the world's merchant fleet: more than any other country."
+end
+script piree_docker
+  if flag CONTENEURS_DONE goto again
+  say "Dock foreman" "You, intern! The ship leaves at noon and my crane driver is on strike. Ever loaded a container ship?"
+  say "Dock foreman" "Heavy containers at the bottom, refrigerated ones on the powered rows, and keep her level, or she lists."
+  goto play
+:again
+  ask "Dock foreman" "Another ship to load?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame conteneurs
+  if var RESULT == 0 goto list
+  if flag CONTENEURS_DONE goto good
+  setflag CONTENEURS_DONE
+  say "Dock foreman" "Straight as a die! Here's your pay. Don't spend it all on souvlaki."
+  money 2500
+  giveitem super_tampon 3
+  goto fin
+:good
+  say "Dock foreman" "Another ship out on time. The captain sends his regards."
+  goto fin
+:list
+  say "Dock foreman" "She's listing like a bad mood. We'll restack. Again?"
+:fin
+end

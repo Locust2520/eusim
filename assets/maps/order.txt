@@ -76,3 +76,6 @@ boerse_ffm
 geldmuseum_ffm
 goethe_ffm
 paulskirche_ffm
+bank_greece_ath
+museum_acropole
+yiayia_ath

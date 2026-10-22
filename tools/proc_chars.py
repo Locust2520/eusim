@@ -475,6 +475,28 @@ def compose(c, d, step):
         for y in range(17, 21):
             for x in range(bx, bx + 4):
                 img.putpixel((8 + x - (1 if dd == 'down' else 0), 7 + y + 1), col)
+    if c.accessory and c.accessory[0] in ('fez', 'helmet'):
+        # headwear above the hair: the Evzone's red fez with its black tassel, a docker's hard hat
+        col, out = pal['B'] + (255,), pal['O'] + (255,)
+        top = 8 - (1 if step else 0)
+        if c.accessory[0] == 'fez':
+            box = (12, top - 3, 19, top)
+        else:
+            box = (10, top - 2, 21, top + 2)
+        for y in range(box[1] - 1, box[3] + 2):
+            for x in range(box[0] - 1, box[2] + 2):
+                img.putpixel((x, y), out)
+        for y in range(box[1], box[3] + 1):
+            for x in range(box[0], box[2] + 1):
+                img.putpixel((x, y), col)
+        if c.accessory[0] == 'fez' and dd != 'up':
+            for k in range(5):   # the long black tassel falling to the side
+                img.putpixel((21 + k // 3, top - 2 + k), out)
+            for (x, y) in ((21, top + 3), (22, top + 3), (21, top + 4), (22, top + 4)):
+                img.putpixel((x, y), out)
+        if c.accessory[0] == 'helmet':
+            for x in range(8, 24):
+                img.putpixel((x, top + 3), out)
     if flip:
         img = img.transpose(Image.FLIP_LEFT_RIGHT)
     return img
@@ -560,6 +582,12 @@ CAST = [
     # city extensions
     Char('graveuse', 'bun', 'tan', 'black', jacket='e8e4dc', shirt='2a3a5a', pants='3a3a48', skirt='4a4a5a', glasses=True),
     Char('wirtin', 'bun', 'light', 'brown', jacket='3a6a3a', shirt='f8f8f8', pants='303040', skirt='2a4a2a'),
+    Char('evzone', 'short', 'light', 'black', jacket='f4f4f4', shirt='f4f4f4', pants='f0f0f0', shoes='b02020',
+         skirt='fafafa', accessory=('fez', 'c02020')),
+    Char('kioskaris', 'bald', 'tan', 'grey', jacket='5a7aa0', shirt='f0f0f0', pants='404048', glasses=True),
+    Char('docker', 'short', 'tan', 'black', jacket='f07820', shirt='303040', pants='3a4a6a', shoes='3a2a1a',
+         accessory=('helmet', 'f0d020')),
+    Char('yiayia', 'bun', 'tan', 'white', jacket='26262e', shirt='3a3a44', pants='26262e', skirt='26262e'),
 ]
 
 
