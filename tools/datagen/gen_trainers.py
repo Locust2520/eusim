@@ -12,168 +12,168 @@ def t(id, name, cls, party, intro, defeat, win='', sprite='fonctionnaire', portr
 
 
 # ---- chapter 1-2
-t('stagiaire_hugo', 'Hugo', 'Stagiaire', [['amendon', 4], ['pigeonix', 5]],
-  "Hé, le nouveau ! Ici, on règle tout par un débat. Montre-moi ce que tu vaux !",
-  "Argh… J'aurais dû relire mes notes de synthèse.", "Ha ! Retourne à la photocopieuse !", 'stagiaire', money=15, ai=0)
+t('stagiaire_hugo', 'Hugo', "Intern", [['amendon', 4], ['pigeonix', 5]],
+  "Hey, newbie! Here, we settle everything with a debate. Show me what you've got!",
+  "Argh… I should have reread my briefing notes.", "Ha! Back to the photocopier!", 'stagiaire', money=15, ai=0)
 for st, (rv, pl) in {'v': ('charbonnet', 'verdeal'), 'c': ('atomino', 'charbonnet'), 'a': ('verdeal', 'atomino')}.items():
     t(f'oliver1_{st}', 'Oliver', 'Rival', [[rv, 5]],
-      "Alors, {P}, on teste nos Euromons ? Mine is obviously better.", "What?! C'était un coup de chance !",
-      "Easy. Comme prévu.", 'oliver', 'oliver', 30, 1, 'rival')
+      "So, {P}, shall we test our Euromons? Mine is obviously better.", "What?! That was a lucky shot!",
+      "Easy. As expected.", 'oliver', 'oliver', 30, 1, 'rival')
     t(f'oliver2_{st}', 'Oliver', 'Rival', [['pigeonix', 8], ['erasmouse', 8], [rv, 10]],
-      "{P} ! Tu as déjà un badge ? Pas grave, je vais te le faire regretter.", "Not again… Bon, à Francfort, tu verras.",
-      "Ha ! Le Luxembourg me réussit.", 'oliver', 'oliver', 40, 1, 'rival')
+      "{P}! You already have a badge? Never mind, I'll make you regret it.", "Not again… Fine, you'll see in Frankfurt.",
+      "Ha! Luxembourg suits me.", 'oliver', 'oliver', 40, 1, 'rival')
     evo1 = {'charbonnet': 'hautfourno', 'atomino': 'euratome', 'verdeal': 'fit55'}[rv]
     t(f'oliver3_{st}', 'Oliver', 'Rival', [['pigeonix', 16], ['erasmouse', 17], ['eurolo', 16], [evo1, 19]],
-      "Je viens de visiter la BCE. J'ai tout compris à la politique monétaire. Presque tout.",
-      "Bloody hell… Tu progresses vraiment vite, {P}.", "Comme on dit à la City : time is money.", 'oliver', 'oliver', 60, 1, 'rival')
+      "I've just visited the ECB. I understood everything about monetary policy. Almost everything.",
+      "Bloody hell… You're really improving fast, {P}.", "As they say in the City: time is money.", 'oliver', 'oliver', 60, 1, 'rival')
     evo2 = {'charbonnet': 'hautfourno', 'atomino': 'euratome', 'verdeal': 'fit55'}[rv]
     t(f'oliver4_{st}', 'Oliver', 'Rival', [['pigeonix', 30], ['erasmusplus', 31], ['eurozone', 31], ['brexitt', 32], [evo2, 34]],
-      "{P}… c'est notre dernier débat. Après, je rentre à Londres. Pour de bon. Allez, one last time !",
-      "Good game, {P}. Au moins, je pars avec le panache.", "Je pars sur une victoire. C'est déjà ça.", 'oliver', 'oliver', 80, 2, 'rival')
+      "{P}… this is our last debate. After this, I'm going back to London. For good. Come on, one last time!",
+      "Good game, {P}. At least I'm leaving in style.", "I'm leaving on a win. That's something.", 'oliver', 'oliver', 80, 2, 'rival')
     final = {'charbonnet': 'cecagon', 'atomino': 'fissionix', 'verdeal': 'neutralis'}[rv]
     t(f'oliver5_{st}', 'Oliver', 'Rival', [['brexitt', 62], ['erasmusplus', 62], ['eurozone', 63], ['roamfree', 63], ['iact', 64], [final, 66]],
-      "{P} ! I'm back. Enfin… je demande à revenir. Rejoin ? Mais d'abord, un débat pour l'honneur !",
-      "Bon. Je remplis le formulaire d'adhésion. Il fait 35 chapitres…", "Ha ! Comme quoi, sortir rend plus fort. Ou pas.", 'oliver', 'oliver', 120, 2, 'rival')
-t('r1_stagiaire', 'Léa', 'Stagiaire', [['erasmouse', 5], ['amendon', 6]], "Moi aussi je suis stagiaire ! Non payée, comme toi. Débattons, ça console.",
-  "Bon… je retourne faire des photocopies.", "", 'stagiaire_f', money=20, ai=0)
-t('r1_fonctionnaire', 'M. Dupont', 'Fonctionnaire', [['paperasse_mon', 6], ['paperasse_mon', 6], ['comitologue', 7]],
-  "Halte ! Votre formulaire de randonnée A-38 est-il visé ?", "Bon, je vous le vise. Mais en triple exemplaire.", "", 'fonctionnaire', money=30)
-t('r1_agriculteur', 'Gérard', 'Agriculteur', [['agrikolo', 7], ['courbana', 7]],
-  "La PAC, c'est ma vie ! Et mon tracteur, c'est ma famille. Allez, on débat !", "Faudra que j'en parle au syndicat…", "", 'agriculteur', money=30)
-t('lux_banquier', 'Pierre-Henri', 'Banquier privé', [['eurolo', 9], ['valisette', 10]],
-  "Bienvenue au Luxembourg. Discrétion absolue. Ce débat n'a jamais eu lieu.", "Ce débat n'a définitivement jamais eu lieu.", "", 'banquier', money=60)
-t('lux_fiscaliste', 'Maître Klein', 'Fiscaliste', [['valisette', 10], ['paperasse_mon', 10], ['eurolo', 11]],
-  "Un rescrit fiscal ? Je vous en rédige un en cinq minutes. Mais d'abord, un débat.", "Mes montages… effondrés !", "", 'avocat', money=60)
-t('juncker', 'Jean-Claude Juncker', 'Champion d\'arène', [['eurolo', 12], ['inflaton', 12], ['spreadon', 14]],
-  "Ah, un jeune stagiaire ! Viens, viens, que je te tapote la joue. Puis on débat, comme au bon vieux temps de l'Eurogroupe.",
-  "Bravo ! Tu mérites le Badge Rescrit. Et ça, ce n'est pas confidentiel !", "Allez, ne fais pas cette tête, je plaisante… à moitié.",
+      "{P}! I'm back. Well… I'm asking to come back. Rejoin? But first, a debate for honour!",
+      "Right. I'm filling in the membership application. It's 35 chapters long…", "Ha! Turns out leaving makes you stronger. Or not.", 'oliver', 'oliver', 120, 2, 'rival')
+t('r1_stagiaire', 'Léa', "Intern", [['erasmouse', 5], ['amendon', 6]], "I'm an intern too! Unpaid, like you. Let's debate, it's comforting.",
+  "Well… back to the photocopies.", "", 'stagiaire_f', money=20, ai=0)
+t('r1_fonctionnaire', "Mr Dupont", "Civil servant", [['paperasse_mon', 6], ['paperasse_mon', 6], ['comitologue', 7]],
+  "Halt! Has your A-38 hiking form been stamped?", "Fine, I'll stamp it. But in triplicate.", "", 'fonctionnaire', money=30)
+t('r1_agriculteur', 'Gérard', "Farmer", [['agrikolo', 7], ['courbana', 7]],
+  "The CAP is my life! And my tractor is my family. Come on, let's debate!", "I'll have to raise this with the union…", "", 'agriculteur', money=30)
+t('lux_banquier', 'Pierre-Henri', "Private banker", [['eurolo', 9], ['valisette', 10]],
+  "Welcome to Luxembourg. Absolute discretion. This debate never happened.", "This debate definitely never happened.", "", 'banquier', money=60)
+t('lux_fiscaliste', "Counsel Klein", "Tax adviser", [['valisette', 10], ['paperasse_mon', 10], ['eurolo', 11]],
+  "A tax ruling? I'll draft you one in five minutes. But first, a debate.", "My arrangements… collapsed!", "", 'avocat', money=60)
+t('juncker', 'Jean-Claude Juncker', "Arena champion", [['eurolo', 12], ['inflaton', 12], ['spreadon', 14]],
+  "Ah, a young intern! Come, come, let me pat your cheek. Then we'll debate, like in the good old Eurogroup days.",
+  "Bravo! You deserve the Tax Ruling Badge. And that's not confidential!", "Come on, don't make that face, I'm joking… half joking.",
   'juncker', 'juncker', 100, 2, 'gym_leader')
-t('r2_touriste', 'Kevin', 'Touriste', [['roamy', 11], ['pigeonix', 11]], "Je fais la Moselle à vélo ! Et je débats en roaming, gratuitement !",
-  "Même sans frais d'itinérance, j'ai tout perdu.", "", 'touriste', money=40)
-t('r2_banquier', 'Hans', 'Analyste', [['inflaton', 12], ['eurolo', 12]], "Les marchés anticipent ma victoire à 87 %.",
-  "Les marchés se sont trompés. Comme d'habitude.", "", 'banquier', money=60)
-t('r2_vigneron', 'Jean-Marc', 'Vigneron', [['agrikolo', 12], ['fromajus', 12], ['courbana', 13]],
-  "Mon crémant est AOP. Mes Euromons aussi. Ou presque.", "Bon, je vous offre un verre quand même.", "", 'agriculteur', money=50)
-t('bce_trader', 'Karl', 'Trader', [['cryptou', 15], ['eurolo', 16]], "Achète bas, revends haut, débats fort !", "Krach ! Je suis à découvert !", "", 'banquier', money=80)
-t('bce_economiste', 'Dr. Sofia', 'Économiste', [['inflaton', 16], ['spreadon', 16]],
-  "Selon mon modèle, vous perdez. Mon modèle n'a jamais tort. Sauf en 2008.", "Je vais devoir réviser mes prévisions.", "", 'fonctionnaire_f', money=80)
-t('lagarde', 'Christine Lagarde', 'Championne d\'arène', [['cryptou', 17], ['inflaton', 18], ['eurozone', 20]],
-  "Bienvenue à la Banque centrale européenne. Ici, je fixe les taux… et le rythme du débat. Mes attaques dépendent du taux directeur du jour !",
-  "Formidable. Vous méritez le Badge Euro. Et rassurez-vous : je ne suis pas là pour réduire votre spread.",
-  "La stabilité des prix, c'est aussi la stabilité des victoires.", 'lagarde', 'lagarde', 110, 2, 'gym_leader')
-t('r3_militant', 'Inès', 'Militante climat', [['eolion', 16], ['solario', 17]], "Chaque débat perdu, c'est un degré de plus ! Allez !",
-  "Bon, au moins c'était neutre en carbone.", "", 'militant', money=40)
-t('r3_journaliste', 'Tom', 'Journaliste', [['fakeon', 17], ['pigeonix', 17]], "Une exclusivité ! « Un stagiaire perd lamentablement » !",
-  "Je change le titre : « Un stagiaire gagne lamentablement bien ».", "", 'journaliste', money=50)
-t('r3_viticulteur', 'Albert', 'Viticulteur', [['fromajus', 18], ['agrikolo', 18], ['tracteuron', 19]],
-  "Le Rhin, c'est la frontière ? Non, c'est le vin des deux côtés ! On trinque après le débat.", "Santé quand même !", "", 'agriculteur', money=50)
-t('stras_depute1', 'Député Muller', 'Eurodéputé', [['amendon', 21], ['amendomax', 22]], "J'ai déposé 2 000 amendements ce matin. Le premier vous concerne.",
-  "Mes amendements sont rejetés en bloc…", "", 'depute', money=80)
-t('stras_depute2', 'Députée Rossi', 'Eurodéputée', [['interpreton', 22], ['transhumon', 22]],
-  "La session a lieu à Strasbourg, nos malles sont arrivées, débattons !", "Je repars à Bruxelles. Avec mes malles.", "", 'deputee', money=80)
-t('metsola', 'Roberta Metsola', 'Championne d\'arène', [['amendomax', 23], ['interpreton', 23], ['spitzen', 25]],
-  "Silence dans l'hémicycle ! La séance est ouverte. Je donne la parole à… vous. Puis je vous la reprends.",
-  "Adopté ! Le Badge Hémicycle vous est attribué à la majorité absolue.", "La séance est levée. Revenez à la prochaine session.",
+t('r2_touriste', 'Kevin', "Tourist", [['roamy', 11], ['pigeonix', 11]], "I'm cycling the Moselle! And debating in roaming, for free!",
+  "Even without roaming charges, I've lost everything.", "", 'touriste', money=40)
+t('r2_banquier', 'Hans', "Analyst", [['inflaton', 12], ['eurolo', 12]], "The markets are pricing in my victory at 87%.",
+  "The markets were wrong. As usual.", "", 'banquier', money=60)
+t('r2_vigneron', 'Jean-Marc', "Winegrower", [['agrikolo', 12], ['fromajus', 12], ['courbana', 13]],
+  "My crémant is PDO. So are my Euromons. Almost.", "Well, I'll buy you a drink anyway.", "", 'agriculteur', money=50)
+t('bce_trader', 'Karl', 'Trader', [['cryptou', 15], ['eurolo', 16]], "Buy low, sell high, debate hard!", "Crash! I'm overdrawn!", "", 'banquier', money=80)
+t('bce_economiste', "Dr Sofia", "Economist", [['inflaton', 16], ['spreadon', 16]],
+  "According to my model, you lose. My model is never wrong. Except in 2008.", "I'll have to revise my forecasts.", "", 'fonctionnaire_f', money=80)
+t('lagarde', 'Christine Lagarde', "Arena title-holder", [['cryptou', 17], ['inflaton', 18], ['eurozone', 20]],
+  "Welcome to the European Central Bank. Here, I set the rates… and the pace of the debate. My attacks depend on today's key rate!",
+  "Wonderful. You deserve the Euro Badge. And don't worry: I'm not here to close your spread.",
+  "Price stability is also the stability of victories.", 'lagarde', 'lagarde', 110, 2, 'gym_leader')
+t('r3_militant', 'Inès', "Climate activist", [['eolion', 16], ['solario', 17]], "Every debate lost is one more degree! Come on!",
+  "Well, at least it was carbon-neutral.", "", 'militant', money=40)
+t('r3_journaliste', 'Tom', "Journalist", [['fakeon', 17], ['pigeonix', 17]], "An exclusive! “Intern loses miserably”!",
+  "I'm changing the headline: “Intern wins miserably well”.", "", 'journaliste', money=50)
+t('r3_viticulteur', 'Albert', "Winemaker", [['fromajus', 18], ['agrikolo', 18], ['tracteuron', 19]],
+  "Is the Rhine the border? No, it's wine on both sides! We'll drink a toast after the debate.", "Cheers anyway!", "", 'agriculteur', money=50)
+t('stras_depute1', "MEP Muller", "Member of Parliament", [['amendon', 21], ['amendomax', 22]], "I tabled 2,000 amendments this morning. The first one is about you.",
+  "My amendments were rejected en bloc…", "", 'depute', money=80)
+t('stras_depute2', "MEP Rossi", "MEP", [['interpreton', 22], ['transhumon', 22]],
+  "The session is in Strasbourg, our trunks have arrived, let's debate!", "I'm going back to Brussels. With my trunks.", "", 'deputee', money=80)
+t('metsola', 'Roberta Metsola', "Arena title-holder", [['amendomax', 23], ['interpreton', 23], ['spitzen', 25]],
+  "Silence in the hemicycle! The sitting is open. I give the floor to… you. Then I take it back.",
+  "Adopted! The Hemicycle Badge is awarded to you by an absolute majority.", "The sitting is closed. Come back for the next session.",
   'metsola', 'metsola', 120, 2, 'gym_leader')
-t('ath_economiste', 'Nikos', 'Économiste', [['inflaton', 26], ['referendo', 27]], "La dette, c'est comme la moussaka : ça se digère mal.",
-  "OXI à cette défaite !", "", 'journaliste', money=80)
-t('troika_bce', 'Agent Troïka (BCE)', 'Troïka', [['austerix', 27], ['eurozone', 27]], "Inspection des comptes ! Vos Euromons dépensent trop.",
-  "Rapport d'inspection : défavorable.", "", 'banquier', money=90)
-t('troika_fmi', 'Agent Troïka (FMI)', 'Troïka', [['spreadon', 27], ['hyperflaton', 28]], "Le Fonds monétaire international recommande… votre défaite.",
-  "Révision de nos prévisions : à la baisse.", "", 'fonctionnaire', money=90)
-t('varoufakis', 'Yanis Varoufakis', 'Champion d\'arène', [['erasmusplus', 28], ['manneken', 29], ['contractuel', 31]],
-  "Je suis arrivé à moto, sans cravate. Comme en 2015 face à l'Eurogroupe. On débat, et on vote : OXI ou NAI ?",
-  "OXI… pardon, NAI : tu as gagné. Prends le Badge OXI, camarade.", "Le peuple a parlé. Et le peuple, c'est moi.",
+t('ath_economiste', 'Nikos', "Economist", [['inflaton', 26], ['referendo', 27]], "Debt is like moussaka: hard to digest.",
+  "OXI to this defeat!", "", 'journaliste', money=80)
+t('troika_bce', "Troika agent (ECB)", "Troika", [['austerix', 27], ['eurozone', 27]], "Account inspection! Your Euromons spend too much.",
+  "Inspection report: unfavourable.", "", 'banquier', money=90)
+t('troika_fmi', "Troika agent (IMF)", "Troika", [['spreadon', 27], ['hyperflaton', 28]], "The International Monetary Fund recommends… your defeat.",
+  "Revision of our forecasts: downwards.", "", 'fonctionnaire', money=90)
+t('varoufakis', 'Yanis Varoufakis', "Arena champion", [['erasmusplus', 28], ['manneken', 29], ['contractuel', 31]],
+  "I came by motorbike, no tie. Like in 2015 against the Eurogroup. We debate, and then we vote: OXI or NAI?",
+  "OXI… sorry, NAI: you win. Take the OXI Badge, comrade.", "The people have spoken. And the people is me.",
   'varoufakis', 'varoufakis', 130, 2, 'gym_leader')
-t('lon_tabloid', 'Rédacteur en chef', 'Tabloïd', [['fakeon', 31], ['pigeonix', 31], ['trollbot', 32]],
-  "UNE : « Bruxelles veut interdire les bananes courbes » ! C'est faux ? Pas grave, ça fait vendre.",
-  "Demain en une : « Défaite historique ».", "", 'journaliste', money=90)
-t('lon_johnson', 'Boris Johnson', 'Ex-Premier ministre', [['pigeonix', 32], ['fakeon', 33], ['referendo', 34]],
-  "Hello ! J'étais correspondant à Bruxelles, vous savez. J'en ai écrit des choses… plus ou moins vraies. Get debate done !",
-  "Crikey. Bon, j'avais un autre article sur les concombres droits, de toute façon.", "", 'johnson', 'johnson', 120, 2)
-t('farage', 'Nigel Farage', 'Champion d\'arène', [['tribun', 34], ['vetoadmax', 34], ['brexitt', 36]],
-  "Vous ne riez plus maintenant, hein ? Bienvenue au pub. Un débat, une pinte, et l'Article 50.",
-  "Bon. Prenez le Badge Article 50. On n'en a plus besoin, nous.", "Take back control ! Du débat, en tout cas.",
+t('lon_tabloid', "Editor-in-chief", "Tabloid", [['fakeon', 31], ['pigeonix', 31], ['trollbot', 32]],
+  "FRONT PAGE: “Brussels wants to ban bent bananas”! It's false? Who cares, it sells.",
+  "Tomorrow's front page: “Historic defeat”.", "", 'journaliste', money=90)
+t('lon_johnson', 'Boris Johnson', "Former Prime Minister", [['pigeonix', 32], ['fakeon', 33], ['referendo', 34]],
+  "Hello! I was a Brussels correspondent, you know. I wrote things… more or less true. Get debate done!",
+  "Crikey. Well, I had another article about straight cucumbers anyway.", "", 'johnson', 'johnson', 120, 2)
+t('farage', 'Nigel Farage', "Arena champion", [['tribun', 34], ['vetoadmax', 34], ['brexitt', 36]],
+  "You're not laughing now, are you? Welcome to the pub. A debate, a pint, and Article 50.",
+  "Right. Take the Article 50 Badge. We don't need it any more.", "Take back control! Of the debate, at least.",
   'farage', 'farage', 140, 2, 'gym_leader')
-t('bud_douanier', 'Gábor', 'Garde-frontière', [['frontierex', 36], ['vetoad', 36]], "Contrôle ! Votre Euromon a-t-il un visa ?",
-  "Passez. Mais je le note.", "", 'douanier', money=90)
-t('bud_conseiller', 'Conseiller spécial', 'Conseiller', [['austerix', 37], ['demagogor', 37]],
-  "Le Premier ministre ne reçoit personne. Sauf ceux qui me battent. Et ça n'arrive jamais.", "Ça vient d'arriver.", "", 'depute', money=90)
-t('orban', 'Viktor Orbán', 'Champion d\'arène', [['vetoadmax', 38], ['frontierex', 38], ['austerix', 39], ['demagogor', 40]],
-  "Vous voulez mon accord ? L'unanimité est requise. Et je ne suis jamais d'accord. Attention : je peux poser mon VETO à chaque tour.",
-  "Bon… Je sors prendre un café. Pendant ce temps, prenez ce Badge Veto. Officiellement, je me suis abstenu.",
-  "Veto ! Veto ! Et re-veto !", 'orban', 'orban', 150, 3, 'gym_leader')
-t('lobby_sbire1', 'Lobbyiste du pétrole', 'Team Lobby', [['lobbyron', 36], ['diesgate', 37]], "Vous n'avez pas votre badge d'accès ? Ça tombe bien, nous non plus.",
-  "Je vais devoir déclarer cette rencontre au registre de transparence…", "", 'lobbyiste', money=100)
-t('lobby_sbire2', 'Lobbyiste de la tech', 'Team Lobby', [['botfarm', 37], ['trollbot', 36], ['algoritmo', 37]],
-  "Notre algorithme a prédit votre défaite. Accepter les cookies ?", "Erreur 403 : défaite.", "", 'lobbyiste_f', money=100)
+t('bud_douanier', 'Gábor', "Border guard", [['frontierex', 36], ['vetoad', 36]], "Check! Does your Euromon have a visa?",
+  "Go through. But I'm writing it down.", "", 'douanier', money=90)
+t('bud_conseiller', "Special adviser", "Adviser", [['austerix', 37], ['demagogor', 37]],
+  "The Prime Minister receives no one. Except those who beat me. And that never happens.", "It just happened.", "", 'depute', money=90)
+t('orban', 'Viktor Orbán', "Arena champion", [['vetoadmax', 38], ['frontierex', 38], ['austerix', 39], ['demagogor', 40]],
+  "You want my agreement? Unanimity is required. And I never agree. Careful: I can use my VETO every turn.",
+  "Fine… I'm stepping out for a coffee. Meanwhile, take this Veto Badge. Officially, I abstained.",
+  "Veto! Veto! And veto again!", 'orban', 'orban', 150, 3, 'gym_leader')
+t('lobby_sbire1', "Oil lobbyist", 'Team Lobby', [['lobbyron', 36], ['diesgate', 37]], "You don't have your access badge? Good, neither do we.",
+  "I'll have to declare this meeting in the transparency register…", "", 'lobbyiste', money=100)
+t('lobby_sbire2', "Tech lobbyist", 'Team Lobby', [['botfarm', 37], ['trollbot', 36], ['algoritmo', 37]],
+  "Our algorithm predicted your defeat. Accept cookies?", "Error 403: defeat.", "", 'lobbyiste_f', money=100)
 t('lobby_sbire3', 'Lobbyiste « de l\'étranger »', 'Team Lobby', [['valisette', 38], ['sacabillet', 38]],
-  "Une petite valise pour votre vote ? Non ? Alors un débat.", "Je n'ai jamais rien donné à personne. Notez-le.", "", 'lobbyiste', money=120)
-t('lobbychef', 'Le Lobbyiste en chef', 'Chef de la Team Lobby', [['sacabillet', 40], ['botfarm', 40], ['diesgate', 41], ['glyphosaure', 41], ['lobbyzilla', 43]],
-  "Bienvenue au cœur du pouvoir, stagiaire. Ici, on n'écrit pas les lois : on les « suggère ». Et toi, tu vas signer ma suggestion.",
-  "Impossible… Un simple stagiaire, non rémunéré… a vaincu le lobby. Je me retire. Dans le privé. Ah, j'y suis déjà.",
-  "Merci pour cette contribution à notre consultation publique.", 'lobbychef', None, 200, 3, 'boss')
-t('avocat_tech1', 'Avocat de Big Tech', 'Avocat', [['consentor', 40], ['iact', 40]], "Mon client conteste l'amende de 4,34 milliards. Et ce débat.",
-  "Nous ferons appel.", "", 'avocat', money=120)
-t('avocat_tech2', 'Juriste concurrence', 'Juriste', [['archivor', 41], ['appellatio', 41]], "Abus de position dominante ? Moi ? Je ne suis que dominant.",
-  "Amende acceptée…", "", 'avocat', money=120)
-t('vestager', 'Margrethe Vestager', 'Championne d\'arène', [['consentor', 42], ['iact', 42], ['appellatio', 43], ['ratifix', 44]],
-  "Google, Apple… j'ai infligé des milliards d'amendes. Votre équipe respecte-t-elle les règles de concurrence ? Vérifions.",
-  "Pas d'abus de position dominante détecté. Le Badge Amende est à vous.", "Amende ! 4 % de votre chiffre d'affaires.",
+  "A little suitcase for your vote? No? Then a debate.", "I never gave anything to anyone. Write that down.", "", 'lobbyiste', money=120)
+t('lobbychef', "The Chief Lobbyist", "Team Lobby boss", [['sacabillet', 40], ['botfarm', 40], ['diesgate', 41], ['glyphosaure', 41], ['lobbyzilla', 43]],
+  "Welcome to the heart of power, intern. Here, we don't write laws: we “suggest” them. And you're going to sign my suggestion.",
+  "Impossible… A mere unpaid intern… has defeated the lobby. I'm retiring. To the private sector. Oh, I'm already there.",
+  "Thank you for this contribution to our public consultation.", 'lobbychef', None, 200, 3, 'boss')
+t('avocat_tech1', "Big Tech lawyer", "Lawyer", [['consentor', 40], ['iact', 40]], "My client contests the €4.34 billion fine. And this debate.",
+  "We will appeal.", "", 'avocat', money=120)
+t('avocat_tech2', "Competition lawyer", "Legal expert", [['archivor', 41], ['appellatio', 41]], "Abuse of a dominant position? Me? I'm merely dominant.",
+  "Fine accepted…", "", 'avocat', money=120)
+t('vestager', 'Margrethe Vestager', "Arena title-holder", [['consentor', 42], ['iact', 42], ['appellatio', 43], ['ratifix', 44]],
+  "Google, Apple… I've imposed billions in fines. Does your team respect competition rules? Let's check.",
+  "No abuse of a dominant position detected. The Fine Badge is yours.", "Fined! 4% of your turnover.",
   'vestager', 'vestager', 160, 3, 'gym_leader')
 for i, (fl, party) in enumerate({'1a': [['assistome', 38]], '1b': [['assistome', 38], ['pailleplast', 38]],
                                  '2a': [['changheure', 39], ['assistome', 39]], '2b': [['manneken', 40], ['assistome', 40]],
                                  '3a': [['emploifictif', 41]], '3b': [['pailleplast', 41], ['emploifictif', 41]]}.items()):
-    t(f'fantome_{fl}', 'Assistant fantôme', 'Fantôme', party, "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
-      "Je retourne… à mon contrat… fictif…", "", 'fantome', money=60)
-t('fantome_boss', 'Le Contrat Vide', 'Esprit des emplois fictifs', [['changheure', 43], ['sacabillet', 43], ['emploifictif', 45]],
-  "JE SUIS… LA SOMME DE TOUS LES CONTRATS QUI N'ONT JAMAIS EU DE BUREAU…", "Mes… fiches de paie… s'effacent…", "", 'fantome', None, 150, 3, 'boss')
-t('par_enarque', 'Énarque', 'Haut fonctionnaire', [['titularis', 44], ['comitologue', 44]], "J'ai fait l'ENA. Enfin, l'INSP. Bref, je sais tout.",
-  "Je vais rédiger une note sur cet échec.", "", 'fonctionnaire_f', money=140)
-t('par_ministre', 'Ministre délégué', 'Ministre', [['spitzen', 44], ['schumark', 45]], "Je suis ministre depuis… ce matin. Débattons avant le prochain remaniement.",
-  "Remanié !", "", 'depute', money=140)
-t('macron', 'Emmanuel Macron', 'Champion d\'arène', [['erasmusplus', 45], ['spitzen', 46], ['eurozone', 46], ['schumark', 47], ['nobelix', 48]],
-  "Bienvenue à la Sorbonne ! Ici, j'ai parlé d'Europe souveraine en 2017… et en 2024. Je vais vous parler pendant deux heures. Et en même temps, débattre.",
-  "Formidable ! Vous incarnez l'autonomie stratégique. Prenez le Badge Sorbonne… et en même temps, mes félicitations.",
-  "Je dissous… votre équipe !", 'macron', 'macron', 180, 3, 'gym_leader')
+    t(f'fantome_{fl}', "Ghost assistant", "Ghost", party, "Boo… I've worked here… since 2009… well, on paper…",
+      "I'm going back… to my fictitious… contract…", "", 'fantome', money=60)
+t('fantome_boss', "The Empty Contract", "Spirit of fake jobs", [['changheure', 43], ['sacabillet', 43], ['emploifictif', 45]],
+  "I AM… THE SUM OF EVERY CONTRACT THAT NEVER HAD AN OFFICE…", "My… payslips… are fading…", "", 'fantome', None, 150, 3, 'boss')
+t('par_enarque', "ENA graduate", "Senior civil servant", [['titularis', 44], ['comitologue', 44]], "I went to the ENA. Well, the INSP. Anyway, I know everything.",
+  "I'll write a memo about this failure.", "", 'fonctionnaire_f', money=140)
+t('par_ministre', "Junior minister", "Minister", [['spitzen', 44], ['schumark', 45]], "I've been a minister since… this morning. Let's debate before the next reshuffle.",
+  "Reshuffled!", "", 'depute', money=140)
+t('macron', 'Emmanuel Macron', "Arena champion", [['erasmusplus', 45], ['spitzen', 46], ['eurozone', 46], ['schumark', 47], ['nobelix', 48]],
+  "Welcome to the Sorbonne! Here, I spoke about a sovereign Europe in 2017… and in 2024. I'll talk to you for two hours. And at the same time, debate.",
+  "Wonderful! You embody strategic autonomy. Take the Sorbonne Badge… and at the same time, my congratulations.",
+  "I dissolve… your team!", 'macron', 'macron', 180, 3, 'gym_leader')
 # Council (Elite 4) + champion
-t('merkel', 'Angela Merkel', 'Conseil européen', [['austerix', 50], ['titularis', 50], ['offshorion', 51], ['cecagon', 51], ['ratifix', 52]],
-  "Wir schaffen das. Ensemble, on y arrivera. Mais d'abord, vous devez me battre. Prenez votre temps : j'ai seize ans d'expérience.",
-  "Vous avez réussi. Wir haben es geschafft.", "", 'merkel', 'merkel', 220, 3, 'council')
-t('draghi', 'Mario Draghi', 'Conseil européen', [['eurozone', 51], ['hyperflaton', 51], ['mica', 52], ['troikat', 52], ['draghizord', 54]],
-  "Je ferai tout ce qu'il faut pour gagner ce débat. Whatever it takes. Et croyez-moi : ce sera suffisant.",
-  "Mon rapport recommandait 800 milliards d'investissements par an. Investissez-les dans votre équipe.", "", 'draghi', 'draghi', 220, 3, 'council')
-t('kallas', 'Kaja Kallas', 'Conseil européen', [['schengeon', 52], ['lisbonia' if False else 'trilogon', 52], ['pandiplo', 53], ['roamfree', 53], ['nobelix', 54]],
-  "Haute représentante pour les affaires étrangères. Ma diplomatie est ferme. Mon bouclier balte, aussi.",
-  "Une victoire nette. L'Europe aura besoin de gens comme vous face au reste du monde.", "", 'kallas', 'kallas', 220, 3, 'council')
-t('costa', 'António Costa', 'Président du Conseil européen', [['interpreton', 53], ['transhumax', 53], ['mercosaur', 54], ['trilogon', 54], ['schumark', 55], ['ratifix', 55]],
-  "Il est 23 h 59. Mon objectif : finir ce sommet avant minuit. Pour la première fois de l'histoire !",
-  "Il est… 4 h 37 du matin. Comme d'habitude. Bravo, vous pouvez monter au Berlaymont.", "", 'costa', 'costa', 230, 3, 'council')
-t('vdl', 'Ursula von der Leyen', 'Présidente de la Commission', [['neutralis', 56], ['eurozone', 56], ['iact', 57], ['lobbyzilla', 57], ['schumark', 57], ['emploifictif', 58]],
-  "Bienvenue au treizième étage du Berlaymont. J'habite ici, vous savez : j'ai une chambre à côté de mon bureau. Alors, voyons si vous méritez la directive.",
-  "Team Europe… Vous êtes le meilleur stagiaire que la Commission ait jamais eu. La directive sur l'heure est à vous !",
-  "Je vous enverrai un SMS. Ou peut-être pas.", 'vdl', 'vdl', 300, 3, 'champion')
+t('merkel', 'Angela Merkel', "European Council", [['austerix', 50], ['titularis', 50], ['offshorion', 51], ['cecagon', 51], ['ratifix', 52]],
+  "Wir schaffen das. Together, we'll get there. But first, you have to beat me. Take your time: I have sixteen years of experience.",
+  "You did it. Wir haben es geschafft.", "", 'merkel', 'merkel', 220, 3, 'council')
+t('draghi', 'Mario Draghi', "European Council", [['eurozone', 51], ['hyperflaton', 51], ['mica', 52], ['troikat', 52], ['draghizord', 54]],
+  "I'll do whatever it takes to win this debate. Whatever it takes. And believe me: it will be enough.",
+  "My report recommended 800 billion of investment a year. Invest it in your team.", "", 'draghi', 'draghi', 220, 3, 'council')
+t('kallas', 'Kaja Kallas', "European Council", [['schengeon', 52], ['lisbonia' if False else 'trilogon', 52], ['pandiplo', 53], ['roamfree', 53], ['nobelix', 54]],
+  "High Representative for Foreign Affairs. My diplomacy is firm. So is my Baltic shield.",
+  "A clear victory. Europe will need people like you facing the rest of the world.", "", 'kallas', 'kallas', 220, 3, 'council')
+t('costa', 'António Costa', "President of the European Council", [['interpreton', 53], ['transhumax', 53], ['mercosaur', 54], ['trilogon', 54], ['schumark', 55], ['ratifix', 55]],
+  "It's 11:59 p.m. My goal: finish this summit before midnight. For the first time in history!",
+  "It's… 4:37 in the morning. As usual. Well done, you may go up to the Berlaymont.", "", 'costa', 'costa', 230, 3, 'council')
+t('vdl', 'Ursula von der Leyen', "President of the Commission", [['neutralis', 56], ['eurozone', 56], ['iact', 57], ['lobbyzilla', 57], ['schumark', 57], ['emploifictif', 58]],
+  "Welcome to the thirteenth floor of the Berlaymont. I live here, you know: I have a bedroom next to my office. So, let's see whether you deserve the directive.",
+  "Team Europe… You're the best intern the Commission has ever had. The clock directive is yours!",
+  "I'll send you a text. Or maybe not.", 'vdl', 'vdl', 300, 3, 'champion')
 # Powers (chapter 11)
-t('vance_t', 'JD Vance', 'Vice-président', [['fakeon', 55], ['tarifaux', 56], ['demagogor', 57]],
-  "Je suis venu à Munich vous expliquer la démocratie. Maintenant, je viens à Anvers vous expliquer le débat.",
-  "Bon. Je retourne écrire un discours.", "", 'vance', 'vance', 200, 3, 'powers')
-t('trump', 'Donald Trump', 'Président américain', [['tarifaux', 58], ['fakeon', 59], ['brexitt', 59], ['lobbyzilla', 60], ['demagogor', 60], ['tarifator', 62]],
-  "TREMENDOUS ! Le plus beau débat de tous les temps, tout le monde le dit. Je mets 200 % de droits de douane sur vos Euromons. Peut-être 15. On verra.",
-  "C'ÉTAIT TRUQUÉ ! Bon… on fait un deal. 15 %. C'est mon dernier mot. Pour aujourd'hui.",
-  "J'ai gagné ! Comme toujours ! Personne ne gagne mieux que moi.", 'trump', 'trump', 300, 3, 'powers')
-t('putin', 'Vladimir Poutine', 'Président russe', [['gazoduc', 59], ['frontierex', 59], ['botfarm', 60], ['vetoadmax', 60], ['austerix', 61], ['censourson', 62]],
-  "Asseyez-vous. Non, plus loin. Encore plus loin. Voilà. À six mètres, la conversation est plus… stratégique. Vos attaques mettront un tour à arriver.",
-  "Le gaz… est coupé… de mon côté. Intéressant.", "L'hiver vient. Pour vous.", 'putin', 'putin', 300, 3, 'powers')
-t('xi', 'Xi Jinping', 'Président chinois', [['pandiplo', 59], ['terrara', 60], ['iact', 60], ['hyperflaton', 60], ['diesgate', 61], ['trilogon', 62]],
-  "Bienvenue. Nous sommes partenaires. Et concurrents. Et rivaux systémiques. Tout dépend du tour.",
-  "Hmm. Un partenaire à respecter. Je retire les contrôles sur les terres rares… pour l'instant.", "Contenu indisponible dans votre région.",
+t('vance_t', 'JD Vance', "Vice-President", [['fakeon', 55], ['tarifaux', 56], ['demagogor', 57]],
+  "I came to Munich to explain democracy to you. Now I've come to Antwerp to explain debating.",
+  "Right. I'm going back to writing a speech.", "", 'vance', 'vance', 200, 3, 'powers')
+t('trump', 'Donald Trump', "US President", [['tarifaux', 58], ['fakeon', 59], ['brexitt', 59], ['lobbyzilla', 60], ['demagogor', 60], ['tarifator', 62]],
+  "TREMENDOUS! The most beautiful debate of all time, everybody says so. I'm putting 200% tariffs on your Euromons. Maybe 15. We'll see.",
+  "IT WAS RIGGED! Fine… let's make a deal. 15%. That's my final word. For today.",
+  "I won! As always! Nobody wins better than me.", 'trump', 'trump', 300, 3, 'powers')
+t('putin', "Vladimir Putin", "Russian President", [['gazoduc', 59], ['frontierex', 59], ['botfarm', 60], ['vetoadmax', 60], ['austerix', 61], ['censourson', 62]],
+  "Sit down. No, further away. Even further. There. At six metres, the conversation is more… strategic. Your attacks will take a turn to arrive.",
+  "The gas… has been cut off… on my side. Interesting.", "Winter is coming. For you.", 'putin', 'putin', 300, 3, 'powers')
+t('xi', 'Xi Jinping', "Chinese President", [['pandiplo', 59], ['terrara', 60], ['iact', 60], ['hyperflaton', 60], ['diesgate', 61], ['trilogon', 62]],
+  "Welcome. We are partners. And competitors. And systemic rivals. It depends on the turn.",
+  "Hmm. A partner to be respected. I'm lifting the controls on rare earths… for now.", "Content unavailable in your region.",
   'xi', 'xi', 300, 3, 'powers')
-t('trump_final', 'Donald Trump', 'Sommet G-Tout', [['tarifator', 63], ['lobbyzilla', 63], ['demagogor', 64]],
-  "MOI D'ABORD. Le sommet, c'est mon idée. Enfin, je crois.", "Sad !", "", 'trump', 'trump', 200, 3, 'final')
-t('putin_final', 'Vladimir Poutine', 'Sommet G-Tout', [['gazoduc', 63], ['vetoadmax', 64], ['censourson', 64]],
-  "Je préférais la longue table.", "…", "", 'putin', 'putin', 200, 3, 'final')
-t('xi_final', 'Xi Jinping', 'Sommet G-Tout', [['terrara', 64], ['pandiplo', 64], ['trilogon', 65]],
-  "Le dernier mot sera… systémique.", "Nous reparlerons dans cinquante ans.", "", 'xi', 'xi', 200, 3, 'final')
+t('trump_final', 'Donald Trump', "G-Everything Summit", [['tarifator', 63], ['lobbyzilla', 63], ['demagogor', 64]],
+  "ME FIRST. The summit was my idea. Well, I think so.", "Sad!", "", 'trump', 'trump', 200, 3, 'final')
+t('putin_final', "Vladimir Putin", "G-Everything Summit", [['gazoduc', 63], ['vetoadmax', 64], ['censourson', 64]],
+  "I preferred the long table.", "…", "", 'putin', 'putin', 200, 3, 'final')
+t('xi_final', 'Xi Jinping', "G-Everything Summit", [['terrara', 64], ['pandiplo', 64], ['trilogon', 65]],
+  "The last word will be… systemic.", "We will talk again in fifty years.", "", 'xi', 'xi', 200, 3, 'final')
 
 json.dump(T, open(os.path.join(D, 'trainers.json'), 'w'), ensure_ascii=False, indent=1)
 

@@ -52,9 +52,9 @@ static int qty_picker(int price, int max)
             char buf[48];
             snprintf(buf, sizeof buf, "◀  × %d  ▶", q);
             ui_text_in(&g_bot, &font_main, 40, 64, 176, 24, buf, C_TEXT, C_SHADOW, 0);
-            snprintf(buf, sizeof buf, T("Total : %d €"), q * price);
+            snprintf(buf, sizeof buf, T("Total: %d €"), q * price);
             ui_text_in(&g_bot, &font_small, 40, 88, 176, 18, buf, C_BLUE, 0, 0);
-            ui_text_in(&g_bot, &font_small, 40, 106, 176, 20, "A : valider   B : annuler", C_BTN_SH, 0, 0);
+            ui_text_in(&g_bot, &font_small, 40, 106, 176, 20, "A: confirm   B: cancel", C_BTN_SH, 0, 0);
             redraw = false;
         }
         frame_wait();
@@ -82,8 +82,8 @@ static int qty_picker(int price, int max)
 void shop_open(int shop)
 {
     (void)shop;
-    static const char *const opts[3] = {"Acheter", "Vendre", "Au revoir"};
-    dlg_say("Vendeur", "Bienvenue à la Boutique du Parlementarium ! Tout est garanti conforme aux normes CE.");
+    static const char *const opts[3] = {"Buy", "Sell", "Goodbye"};
+    dlg_say("Shopkeeper", "Welcome to the Parlamentarium Shop! Everything is guaranteed to meet EC standards.");
     while (1) {
         int c = dlg_choice(opts, 3, true);
         if (c < 0 || c == 2)
@@ -100,7 +100,7 @@ void shop_open(int shop)
                 if (redraw) {
                     ui_backdrop(&g_bot);
                     char buf[48];
-                    snprintf(buf, sizeof buf, T("Votre budget : %lu €"), (unsigned long)g_save.money);
+                    snprintf(buf, sizeof buf, T("Your budget: %lu €"), (unsigned long)g_save.money);
                     canvas_frame(&g_bot, 4, 2, 248, 20, FRAME_DARK);
                     ui_text_in(&g_bot, &font_small, 4, 2, 247, 19, buf, C_GOLD, C_INK, 0);
                     for (int k = 0; k < 6 && scroll + k < n; k++) {
@@ -114,7 +114,7 @@ void shop_open(int shop)
                         ui_scrollbar(&g_bot, 243, 24, 119, n, 6, scroll);
                     canvas_frame(&g_bot, 4, 146, 248, 44, FRAME_DIALOG);
                     ui_text_wrapped(&g_bot, &font_small, 10, 149, 236, items[list[sel]].desc, C_TEXT, 0);
-                    snprintf(buf, sizeof buf, T("En stock dans votre sac : %d"), bag_count(list[sel]));
+                    snprintf(buf, sizeof buf, T("In your bag: %d"), bag_count(list[sel]));
                     canvas_text(&g_bot, &font_small, 12, 175, buf, C_BTN_SH, 0);
                     redraw = false;
                 }
@@ -146,7 +146,7 @@ void shop_open(int shop)
                     int maxq = MIN(99 - bag_count(it), price ? (int)(g_save.money / price) : 99);
                     if (maxq <= 0) {
                         sfx_play(SFX_ERROR);
-                        dlg_say("Vendeur", "Il semble que votre budget soit… sous plafond de dépenses.");
+                        dlg_say("Shopkeeper", "It seems your budget is… under the spending ceiling.");
                         dlg_close();
                     } else {
                         int q = qty_picker(price, maxq);
@@ -154,9 +154,9 @@ void shop_open(int shop)
                             g_save.money -= q * price;
                             bag_add(it, q);
                             sfx_play(SFX_COIN);
-                            dlg_say("Vendeur", q >= 10 && it == IT_TAMPON ?
-                                    "Merci ! Et voici un Super Tampon en cadeau, pour l'achat groupé !" :
-                                    "Merci pour votre achat ! Facture en triple exemplaire.");
+                            dlg_say("Shopkeeper", q >= 10 && it == IT_TAMPON ?
+                                    "Thank you! And here's a Super Stamp as a gift, for the bulk purchase!" :
+                                    "Thank you for your purchase! Invoice in triplicate.");
                             if (q >= 10 && it == IT_TAMPON)
                                 bag_add(IT_SUPER_TAMPON, 1);
                             dlg_close();
@@ -173,7 +173,7 @@ void shop_open(int shop)
             if (it < 0)
                 continue;
             if (items[it].kind == IK_KEY || items[it].price == 0) {
-                dlg_say("Vendeur", "Ça ? Ce n'est pas à vendre, c'est un objet d'importance stratégique !");
+                dlg_say("Shopkeeper", "That? It's not for sale, it's an item of strategic importance!");
                 continue;
             }
             int q = qty_picker(items[it].price / 2, bag_count(it));
@@ -181,11 +181,11 @@ void shop_open(int shop)
                 bag_take(it, q);
                 g_save.money += q * (items[it].price / 2);
                 sfx_play(SFX_COIN);
-                dlg_say("Vendeur", "Marché conclu !");
+                dlg_say("Shopkeeper", "Deal!");
             }
         }
     }
-    dlg_say("Vendeur", "Au revoir ! N'oubliez pas : le chargeur USB-C est vendu séparément.");
+    dlg_say("Shopkeeper", "Goodbye! Don't forget: the USB-C charger is sold separately.");
     dlg_close();
 }
 
@@ -195,7 +195,7 @@ static void draw_box_list(int sel, int scroll, bool party_side)
     ui_backdrop(&g_bot);
     canvas_frame(&g_bot, 4, 2, 248, 20, FRAME_DARK);
     char buf[48];
-    snprintf(buf, sizeof buf, party_side ? "ÉQUIPE → ARCHIVES (%d/%d)" : "ARCHIVES → ÉQUIPE (%d/%d)",
+    snprintf(buf, sizeof buf, party_side ? "TEAM → ARCHIVES (%d/%d)" : "ARCHIVES → TEAM (%d/%d)",
              party_side ? g_save.party_count : g_save.box_count, party_side ? PARTY_MAX : BOX_MAX);
     ui_text_in(&g_bot, &font_small, 4, 2, 247, 19, buf, C_GOLD, C_INK, 0);
     int n = party_side ? g_save.party_count : g_save.box_count;
@@ -206,19 +206,19 @@ static void draw_box_list(int sel, int scroll, bool party_side)
         canvas_frame(&g_bot, 4, y, 236, 24, scroll + k == sel ? FRAME_SELECT : FRAME_MENU);
         creature_icon_draw(&g_bot, m->species, 8, y);
         ui_text_in(&g_bot, &font_main, 40, y, 150, 23, mon_name(m), C_TEXT, 0, -1);
-        snprintf(buf, sizeof buf, T("N.%d"), m->level);
+        snprintf(buf, sizeof buf, T("Lv.%d"), m->level);
         ui_text_in(&g_bot, &font_small, 150, y, 86, 23, buf, C_BLUE, 0, 1);
     }
     if (n > 6)
         ui_scrollbar(&g_bot, 243, 24, 154, n, 6, scroll);
     if (n == 0)
-        ui_text_in(&g_bot, &font_main, 0, 60, 256, 60, "(vide)", C_BTN_LO, C_INK, 0);
-    ui_text_in(&g_bot, &font_small, 0, 178, 256, 14, "◀▶ côté   A : déplacer   B : quitter", C_BTN_LO, C_INK, 0);
+        ui_text_in(&g_bot, &font_main, 0, 60, 256, 60, "(empty)", C_BTN_LO, C_INK, 0);
+    ui_text_in(&g_bot, &font_small, 0, 178, 256, 14, "◀▶ side   A: move   B: quit", C_BTN_LO, C_INK, 0);
 }
 
 void archives_open(void)
 {
-    dlg_say("", "{P} allume le terminal des Archives. « Bienvenue dans le système de gestion documentaire. »");
+    dlg_say("", "{P} switches on the Archives terminal. “Welcome to the document management system.”");
     dlg_close();
     ui_bottom_push();
     bool party_side = true;
@@ -266,7 +266,7 @@ void archives_open(void)
             if (party_side) {
                 if (g_save.party_count <= 1) {
                     sfx_play(SFX_ERROR);
-                    dlg_say("", "Il faut garder au moins un Euromon dans l'équipe !");
+                    dlg_say("", "You must keep at least one Euromon in your team!");
                     dlg_close();
                 } else if (g_save.box_count >= BOX_MAX) {
                     sfx_play(SFX_ERROR);
@@ -280,7 +280,7 @@ void archives_open(void)
             } else {
                 if (g_save.party_count >= PARTY_MAX) {
                     sfx_play(SFX_ERROR);
-                    dlg_say("", "L'équipe est complète (6 Euromons maximum).");
+                    dlg_say("", "Your team is full (6 Euromons maximum).");
                     dlg_close();
                 } else {
                     Mon m = g_save.box[pick];
@@ -302,18 +302,18 @@ void archives_open(void)
 }
 
 // ---------------------------------------------------------------- badge case
-static const char *const badge_names[8] = {"Rescrit", "Euro", "Hémicycle", "OXI", "Article 50", "Veto", "Amende", "Sorbonne"};
-static const char *const badge_from[8] = {"Jean-Claude Juncker, Luxembourg", "Christine Lagarde, Francfort",
-                                          "Roberta Metsola, Strasbourg", "Yanis Varoufakis, Athènes",
-                                          "Farage & Johnson, Londres", "Viktor Orbán, Budapest",
-                                          "Margrethe Vestager, Bruxelles", "Emmanuel Macron, Paris"};
+static const char *const badge_names[8] = {"Tax Ruling", "Euro", "Hemicycle", "OXI", "Article 50", "Veto", "Fine", "Sorbonne"};
+static const char *const badge_from[8] = {"Jean-Claude Juncker, Luxembourg", "Christine Lagarde, Frankfurt",
+                                          "Roberta Metsola, Strasbourg", "Yanis Varoufakis, Athens",
+                                          "Farage & Johnson, London", "Viktor Orbán, Budapest",
+                                          "Margrethe Vestager, Brussels", "Emmanuel Macron, Paris"};
 
 void badge_case_open(void)
 {
     ui_bottom_push();
     ui_backdrop(&g_bot);
     canvas_frame(&g_bot, 4, 2, 248, 20, FRAME_DARK);
-    ui_text_in(&g_bot, &font_small, 4, 2, 247, 19, "ÉTUI À BADGES DES TRAITÉS", C_GOLD, C_INK, 0);
+    ui_text_in(&g_bot, &font_small, 4, 2, 247, 19, "TREATY BADGE CASE", C_GOLD, C_INK, 0);
     for (int b = 0; b < 8; b++) {
         int x = 6 + (b % 2) * 124, y = 26 + (b / 2) * 40;
         bool has = g_save.badges & (1 << b);
@@ -323,7 +323,7 @@ void badge_case_open(void)
         canvas_box(&g_bot, x + 6, y + 8, 22, 22, has ? C_GOLD : C_MGREY);
         ui_text_in(&g_bot, &font_main, x + 4, y, 26, 37, "★", has ? C_GOLD_D : C_MGREY, 0, 0);
         canvas_text(&g_bot, &font_small, x + 30, y + 3, has ? badge_names[b] : "???", C_TEXT, 0);
-        canvas_text(&g_bot, &font_small, x + 30, y + 18, has ? "obtenu" : "à conquérir", has ? C_TYPE0 + 5 : C_MGREY, 0);
+        canvas_text(&g_bot, &font_small, x + 30, y + 18, has ? "obtenu" : "to be won", has ? C_TYPE0 + 5 : C_MGREY, 0);
     }
     frame_wait();
     int sel = -1;
@@ -334,7 +334,7 @@ void badge_case_open(void)
                 sel = b;
         if (sel >= 0) {
             char buf[96];
-            snprintf(buf, sizeof buf, T("Badge %s — remis par %s."), tr(badge_names[sel]), tr(badge_from[sel]));
+            snprintf(buf, sizeof buf, T("%s Badge — awarded by %s."), tr(badge_names[sel]), tr(badge_from[sel]));
             dlg_say("", buf);
             dlg_close();
             sel = -1;
@@ -464,7 +464,7 @@ void evolve_mon(Mon *m, int into)
     oamSet(&oamMain, OAM_BATTLE, 96, 50, 0, PAL_BATTLE_FOE, SpriteSize_64x64, SpriteColorFormat_256Color, ga, -1,
            false, false, false, false, false);
     char buf[96];
-    snprintf(buf, sizeof buf, T("Quoi ? %s évolue !"), old_name);
+    snprintf(buf, sizeof buf, T("What? %s is evolving!"), old_name);
     // Post-battle evolution starts with both screens faded to black.
     gfx_fade_in(20, false);
     dlg_say("", buf);
@@ -491,7 +491,7 @@ void evolve_mon(Mon *m, int into)
            SpriteColorFormat_256Color, cancelled ? ga : gb, -1, false, false, false, false, false);
     gfx_fade_in(1, true);
     if (cancelled) {
-        snprintf(buf, sizeof buf, T("Vous avez reporté la réforme. %s n'a pas évolué."), old_name);
+        snprintf(buf, sizeof buf, T("You postponed the reform. %s did not evolve."), old_name);
         dlg_say("", buf);
     } else {
         int oldmax = mon_max_hp(m);
@@ -501,7 +501,7 @@ void evolve_mon(Mon *m, int into)
             m->hp = 1;
         dex_caught(into);
         sfx_cry(into);
-        snprintf(buf, sizeof buf, T("Félicitations ! %s a évolué en %s !"), old_name, species[into].name);
+        snprintf(buf, sizeof buf, T("Congratulations! %s evolved into %s!"), old_name, species[into].name);
         dlg_say("", buf);
         // learn moves of the new form at current level
         const u16 *l = species[into].learn;
@@ -510,29 +510,29 @@ void evolve_mon(Mon *m, int into)
                 int mv = l[i + 1];
                 int r = mon_learn(m, mv);
                 if (r >= 0) {
-                    snprintf(buf, sizeof buf, T("%s apprend %s !"), species[into].name, moves[l[i + 1]].name);
+                    snprintf(buf, sizeof buf, T("%s learned %s!"), species[into].name, moves[l[i + 1]].name);
                     dlg_say("", buf);
                 } else if (r == -2) {
-                    snprintf(buf, sizeof buf, T("%s veut apprendre %s, mais connaît déjà quatre attaques."),
+                    snprintf(buf, sizeof buf, T("%s wants to learn %s, but already knows four moves."),
                              mon_name(m), moves[mv].name);
                     dlg_say("", buf);
                     const char *opts[5];
                     for (int k = 0; k < 4; k++)
                         opts[k] = moves[m->moves[k]].name;
-                    opts[4] = "Ne pas apprendre";
-                    dlg_say("", "Quelle attaque oublier ?");
+                    opts[4] = "Don't learn it";
+                    dlg_say("", "Which move should be forgotten?");
                     int c = dlg_choice(opts, 5, true);
                     if (c >= 0 && c < 4) {
-                        snprintf(buf, sizeof buf, T("1, 2, 3… Hop ! %s oublie %s…"),
+                        snprintf(buf, sizeof buf, T("1, 2, 3… Poof! %s forgot %s…"),
                                  mon_name(m), moves[m->moves[c]].name);
                         dlg_say("", buf);
                         m->moves[c] = mv;
                         m->pp[c] = moves[mv].pp;
                         sfx_play(SFX_LEVELUP);
-                        snprintf(buf, sizeof buf, T("… et apprend %s !"), moves[mv].name);
+                        snprintf(buf, sizeof buf, T("… and learned %s!"), moves[mv].name);
                         dlg_say("", buf);
                     } else {
-                        snprintf(buf, sizeof buf, T("%s n'apprend pas %s."), mon_name(m), moves[mv].name);
+                        snprintf(buf, sizeof buf, T("%s did not learn %s."), mon_name(m), moves[mv].name);
                         dlg_say("", buf);
                     }
                 }
@@ -557,9 +557,9 @@ static void jukebox_top(const char *title, int idx, int n_heard, int t)
     canvas_rect(&g_top, 0, 0, 256, 192, 0);
     ui_backdrop(&g_top);
     ui_panel(&g_top, 12, 20, 232, 150, true);
-    ui_text_in(&g_top, &font_main, 12, 26, 232, 22, "Juke-box", C_GOLD, C_INK, 0);
+    ui_text_in(&g_top, &font_main, 12, 26, 232, 22, "Jukebox", C_GOLD, C_INK, 0);
     char buf[48];
-    snprintf(buf, sizeof buf, T("%d musiques sur %d"), n_heard, g_music_count);
+    snprintf(buf, sizeof buf, T("%d tracks out of %d"), n_heard, g_music_count);
     ui_text_in(&g_top, &font_small, 12, 48, 232, 14, buf, C_BTN_MID, C_INK, 0);
     // equaliser
     for (int b = 0; b < 16; b++) {
@@ -573,7 +573,7 @@ static void jukebox_top(const char *title, int idx, int n_heard, int t)
                  (unsigned long)(pos / rate % 60), (unsigned long)(total / rate / 60), (unsigned long)(total / rate % 60));
         ui_text_in(&g_top, &font_small, 12, 138, 232, 14, buf, C_BTN_MID, C_INK, 0);
     } else {
-        ui_text_in(&g_top, &font_small, 16, 70, 224, 16, "Choisis un morceau.", C_BTN_MID, C_INK, 0);
+        ui_text_in(&g_top, &font_small, 16, 70, 224, 16, "Pick a track.", C_BTN_MID, C_INK, 0);
     }
 }
 
@@ -595,7 +595,7 @@ void jukebox_open(void)
         if (redraw) {
             ui_backdrop(&g_bot);
             canvas_frame(&g_bot, 4, 2, 248, 20, FRAME_DARK);
-            ui_text_in(&g_bot, &font_small, 4, 2, 247, 19, "JUKE-BOX", C_GOLD, C_INK, 0);
+            ui_text_in(&g_bot, &font_small, 4, 2, 247, 19, "JUKEBOX", C_GOLD, C_INK, 0);
             for (int k = 0; k < VIS && scroll + k < n; k++) {
                 int i = list[scroll + k], y = 24 + k * 22;
                 canvas_frame(&g_bot, 4, y, 236, 21, scroll + k == sel ? FRAME_SELECT : FRAME_MENU);
@@ -605,7 +605,7 @@ void jukebox_open(void)
             }
             if (n > VIS)
                 ui_scrollbar(&g_bot, 243, 24, VIS * 22 - 1, n, VIS, scroll);
-            ui_text_in(&g_bot, &font_small, 0, 178, 256, 14, "A : écouter    B : retour", C_BTN_LO, C_INK, 0);
+            ui_text_in(&g_bot, &font_small, 0, 178, 256, 14, "A: listen    B: back", C_BTN_LO, C_INK, 0);
             redraw = false;
         }
         if ((t & 7) == 0)

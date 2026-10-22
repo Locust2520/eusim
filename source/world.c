@@ -414,13 +414,13 @@ void world_give_mon(int sp, int lv)
     mon_create(&m, sp, lv);
     int r = party_add(&m);
     char buf[128];
-    snprintf(buf, sizeof buf, T("{P} reçoit %s !"), species[sp].name);
+    snprintf(buf, sizeof buf, T("{P} received %s!"), species[sp].name);
     music_pause(true);
     sfx_play(SFX_CAPTURE_OK);
     dlg_say("", buf);
     music_pause(false);
     if (r == 1)
-        dlg_say("", "L'équipe est pleine : il part aux Archives.");
+        dlg_say("", "Your team is full: it goes to the Archives.");
 }
 
 void world_heal_party(void)
@@ -512,7 +512,7 @@ bool world_battle_wild(int sp, int lv, bool scripted)
 
 void world_blackout(void)
 {
-    dlg_say("", "{P} n'a plus d'Euromon en état de débattre…\f{P} retourne en courant à la cantine, la tête basse.");
+    dlg_say("", "{P} has no Euromon fit to debate…\f{P} runs back to the canteen, head down.");
     dlg_close();
     g_save.money /= 2;
     gfx_fade_out(30, false);
@@ -522,7 +522,7 @@ void world_blackout(void)
         set_default_heal_point();
     world_warp(g_save.heal_map, g_save.heal_x, g_save.heal_y, DIR_UP, false);
     gfx_fade_in(20, false);
-    dlg_say("Cantinière", "Allez, un bon café et ça repart ! Vos Euromons sont en pleine forme.");
+    dlg_say("Canteen lady", "There you go, a good coffee and you're off again! Your Euromons are in great shape.");
     dlg_close();
 }
 
@@ -537,10 +537,10 @@ int world_minigame(int id)
 
 void world_badge_ceremony(int b)
 {
-    static const char *const names[8] = {"Badge Rescrit", "Badge Euro", "Badge Hémicycle", "Badge OXI",
-                                         "Badge Article 50", "Badge Veto", "Badge Amende", "Badge Sorbonne"};
+    static const char *const names[8] = {"Tax Ruling Badge", "Euro Badge", "Hemicycle Badge", "OXI Badge",
+                                         "Article 50 Badge", "Veto Badge", "Fine Badge", "Sorbonne Badge"};
     char buf[96];
-    snprintf(buf, sizeof buf, T("{P} reçoit le %s !"), tr(names[(b - 1) & 7]));
+    snprintf(buf, sizeof buf, T("{P} received the %s!"), tr(names[(b - 1) & 7]));
     music_pause(true);
     sfx_play(SFX_LEVELUP);
     dlg_say("", buf);
@@ -556,12 +556,12 @@ void world_special(int id, int arg)
     case 2: {
         char buf[128];
         int n = dex_count_caught();
-        snprintf(buf, sizeof buf, T("Ton Eurodex compte %d Euromons capturés sur %d vus."), n, dex_count_seen());
+        snprintf(buf, sizeof buf, T("Your Eurodex has %d Euromons caught out of %d seen."), n, dex_count_seen());
         dlg_say("Jean Monnet", buf);
-        dlg_say("Jean Monnet", n < 10 ? "C'est un début ! Les petits pas font les grandes unions." :
-                               n < 40 ? "Pas mal ! Tu avances plus vite que la directive sur l'heure d'été." :
-                               n < 80 ? "Impressionnant ! Même la Commission n'a pas autant de dossiers." :
-                                        "Extraordinaire ! Tu es une véritable institution à toi seul.");
+        dlg_say("Jean Monnet", n < 10 ? "It's a start! Small steps make great unions." :
+                               n < 40 ? "Not bad! You're moving faster than the daylight saving directive." :
+                               n < 80 ? "Impressive! Not even the Commission has that many files." :
+                                        "Extraordinary! You're a real institution all by yourself.");
         break;
     }
     case 3: case 11: ending_run(); world_refresh(); break;
@@ -570,7 +570,7 @@ void world_special(int id, int arg)
     case 5: menu_save(); break;
     case 6: world_heal_party(); break;
     case 7: popup_timer = 160; break;
-    case 8: viewer_open("text/sources.txt", "Sources des faits"); world_refresh(); break;
+    case 8: viewer_open("text/sources.txt", "Fact sources"); world_refresh(); break;
     case 9:
         g_save.heal_map = g_save.map;
         g_save.heal_x = g_actors[PLAYER].tx;
@@ -639,7 +639,7 @@ static bool interact(void)
             flag_set(it->flag, true);
             bag_add(it->item, 1);
             char buf[96];
-            snprintf(buf, sizeof buf, T("{P} trouve : %s !"), items[it->item].name);
+            snprintf(buf, sizeof buf, T("{P} found: %s!"), items[it->item].name);
             sfx_play(SFX_COIN);
             dlg_say("", buf);
             dlg_close();
@@ -746,7 +746,7 @@ static bool check_encounter(void)
     if (g_save.repel > 0) {
         g_save.repel--;
         if (g_save.repel == 0)
-            dlg_notice("La Clause de non-sollicitation a expiré.");
+            dlg_notice("The Non-Solicitation Clause has expired.");
         return false;
     }
     const EncTable *e = &enc_tables[g_map.enc_table];
@@ -902,19 +902,19 @@ typedef struct { const char *label; int map, x, y; int flag; } TrainDest;
 void train_menu(void)
 {
     const TrainDest all[] = {
-        {"Bruxelles", MAP_BRUXELLES, 38, 26, FLAG_TRAIN_BRUXELLES},
+        {"Brussels", MAP_BRUXELLES, 38, 26, FLAG_TRAIN_BRUXELLES},
         {"Luxembourg", MAP_LUXEMBOURG, 32, 23, FLAG_TRAIN_LUXEMBOURG},
-        {"Francfort", MAP_FRANCFORT, 32, 22, FLAG_TRAIN_FRANCFORT},
+        {"Frankfurt", MAP_FRANCFORT, 32, 22, FLAG_TRAIN_FRANCFORT},
         {"Strasbourg", MAP_STRASBOURG, 8, 22, FLAG_TRAIN_STRASBOURG},
-        {"Athènes", MAP_ATHENES, 7, 20, FLAG_TRAIN_ATHENES},
-        {"Londres", MAP_LONDRES, 7, 20, FLAG_TRAIN_LONDRES},
+        {"Athens", MAP_ATHENES, 7, 20, FLAG_TRAIN_ATHENES},
+        {"London", MAP_LONDRES, 7, 20, FLAG_TRAIN_LONDRES},
         {"Budapest", MAP_BUDAPEST, 7, 20, FLAG_TRAIN_BUDAPEST},
         {"Paris", MAP_PARIS, 7, 20, FLAG_TRAIN_PARIS},
-        {"Anvers", MAP_ANVERS, 7, 16, FLAG_TRAIN_ANVERS},
-        {"Varsovie", MAP_VARSOVIE, 7, 21, FLAG_TRAIN_VARSOVIE},
+        {"Antwerp", MAP_ANVERS, 7, 16, FLAG_TRAIN_ANVERS},
+        {"Warsaw", MAP_VARSOVIE, 7, 21, FLAG_TRAIN_VARSOVIE},
         {"Rome", MAP_ROME, 6, 13, FLAG_TRAIN_ROME},
         {"Maastricht", MAP_MAASTRICHT, 6, 13, FLAG_TRAIN_MAASTRICHT},
-        {"Lisbonne", MAP_LISBONNE, 6, 13, FLAG_TRAIN_LISBONNE},
+        {"Lisbon", MAP_LISBONNE, 6, 13, FLAG_TRAIN_LISBONNE},
     };
     const TrainDest *list[16];
     int n = 0;
@@ -922,7 +922,7 @@ void train_menu(void)
         if (flag_get(all[i].flag) && all[i].map != g_save.map)
             list[n++] = &all[i];
     if (n == 0) {
-        dlg_say("Guichetier", "Aucune destination disponible pour l'instant.");
+        dlg_say("Ticket clerk", "No destination available for now.");
         dlg_close();
         return;
     }
@@ -934,8 +934,8 @@ void train_menu(void)
             opts[k++] = list[i]->label;
         int has_more = base + 5 < n;
         if (has_more)
-            opts[k++] = "Autres destinations…";
-        opts[k++] = "Annuler";
+            opts[k++] = "Other destinations…";
+        opts[k++] = "Cancel";
         int c = dlg_choice(opts, k, true);
         if (c < 0 || c == k - 1)
             return;
@@ -947,7 +947,7 @@ void train_menu(void)
             return;
         const TrainDest *d = list[base + c];
         sfx_play(SFX_TRAIN);
-        dlg_say("Guichetier", "En voiture ! Le train part… avec seulement quelques minutes de retard.");
+        dlg_say("Ticket clerk", "All aboard! The train is leaving… only a few minutes late.");
         dlg_close();
         loading_screen(70);
         world_warp(d->map, d->x, d->y, DIR_DOWN, false);

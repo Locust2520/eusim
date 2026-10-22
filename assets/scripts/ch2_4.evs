@@ -1,46 +1,46 @@
 # ---------------------------------------------------------------- Route 1
 script r1_sign
-  say - "Route 1 — Forêt des Ardennes. Luxembourg : 3 heures à pied, 12 minutes en rescrit fiscal."
+  say - "Route 1 — Ardennes Forest. Luxembourg: 3 hours on foot, 12 minutes by tax ruling."
 end
 script r1_rando
-  say "Randonneur" "La forêt des Ardennes s'étend sur trois pays. Les sangliers, eux, n'ont jamais montré leur passeport."
+  say "Hiker" "The Ardennes forest stretches across three countries. The wild boars have never shown their passports."
 end
 script r1_t1
-  say "Léa" "Un jour, on sera payées. Un jour…"
+  say "Léa" "One day, we'll get paid. One day…"
 end
 script r1_t2
-  say "M. Dupont" "N'oubliez pas de remplir le formulaire de satisfaction. Il fait 12 pages."
+  say "Mr Dupont" "Don't forget to fill in the satisfaction form. It's 12 pages long."
 end
 script r1_t3
-  say "Gérard" "La PAC, c'est un tiers du budget européen. Et ma moissonneuse, c'est un tiers de mon crédit."
+  say "Gérard" "The CAP is a third of the European budget. And my combine harvester is a third of my loan."
 end
 
 # ---------------------------------------------------------------- Luxembourg
 script lux_sign
-  say - "Luxembourg-Kirchberg. Cour de justice de l'UE, Cour des comptes, Banque européenne d'investissement. Et beaucoup de banques tout court."
+  say - "Luxembourg-Kirchberg. EU Court of Justice, Court of Auditors, European Investment Bank. And lots of plain old banks."
 end
 script lux_sign_schengen
-  say - "Vers Schengen, village de la Moselle où fut signé l'accord de 1985. Suivez le chemin au sud."
+  say - "To Schengen, the Moselle village where the 1985 agreement was signed. Follow the path south."
 end
 script lux_schengen
   if flag SCHENGEN_SEEN goto fin
   setflag SCHENGEN_SEEN
-  say - "Un petit chemin descend vers la Moselle… et vers Schengen."
+  say - "A little path leads down to the Moselle… and to Schengen."
 :fin
   warp schengen 11 1 down
 end
 script lux_touriste
-  say "Touriste" "Les transports en commun sont gratuits ici ! J'ai fait 14 fois le tour de la ville en tram. Pour rien. Gratuitement."
+  say "Tourist" "Public transport is free here! I've been round the city 14 times by tram. For nothing. For free."
 end
 script lux_mamie
-  say "Mamie" "Mon mari était fonctionnaire européen. Il travaillait à la Cour des comptes. Il comptait même les moutons pour s'endormir."
+  say "Granny" "My husband was a European civil servant. He worked at the Court of Auditors. He even counted sheep to fall asleep."
 end
 script cjue_juge
-  say "Juge" "La Cour de justice de l'Union européenne siège ici depuis 1952. Nos arrêts s'imposent aux 27 États. Même le lundi matin."
+  say "Judge" "The Court of Justice of the European Union has sat here since 1952. Our judgments bind all 27 states. Even on Monday mornings."
 end
 script cjue_greffier
-  say "Greffier" "J'ai traduit un arrêt en 24 langues. Dans la version maltaise, il y a une coquille. Personne ne l'a vue en dix ans."
-  ask "Greffier" "Et voilà la pile du jour. Il faut tamponner quinze arrêts valides avant la fermeture du greffe. Attention, de mauvais documents s'y sont glissés ! Tu me donnes un coup de main ?"
+  say "Registrar" "I translated a judgment into 24 languages. The Maltese version has a typo. Nobody has spotted it in ten years."
+  ask "Registrar" "And here's today's pile. We need fifteen valid rulings stamped before the registry closes. Watch out, some bad documents have slipped in! Can you give me a hand?"
   yesno -> TMP
   if var TMP == 0 goto refus
   close
@@ -48,27 +48,27 @@ script cjue_greffier
   if var RESULT == 0 goto rate
   if flag STAMP_DONE goto deja
   setflag STAMP_DONE
-  say "Greffier" "Quinze arrêts, quinze tampons ! La Cour te remercie. Prends ces tampons qualifiés, ils sont bien plus efficaces."
+  say "Registrar" "Fifteen rulings, fifteen stamps! The Court thanks you. Take these qualified stamps, they work much better."
   giveitem tampon_qualifie 3
   goto fin
 :deja
   call stamp_repeat_reward
   goto fin
 :rate
-  say "Greffier" "Le greffe ne peut pas valider cette pile. Il faut quinze bons arrêts et aucun mauvais document tamponné. Réessaie quand tu veux."
+  say "Registrar" "The registry cannot approve this pile. We need fifteen valid rulings and no bad documents stamped. Try again whenever you like."
   goto fin
 :refus
-  say "Greffier" "Tant pis. Je les tamponnerai moi-même. En trois exemplaires."
+  say "Registrar" "Never mind. I'll stamp them myself. In triplicate."
 :fin
 end
 script lux_exit_block
-  say "Douanier luxembourgeois" "La route de la Moselle est réservée aux titulaires du Badge Rescrit. Voyez M. Juncker, à l'Arène dorée."
+  say "Luxembourg customs officer" "The Moselle road is reserved for holders of the Tax Ruling Badge. See Mr Juncker at the Golden Arena."
   move player "L"
 end
 script oliver_lux
   show R oliver neutral
-  say "Oliver" "{P} ! Toujours là ? Moi, j'ai déjà visité trois banques et ouvert deux comptes. Pour le folklore."
-  say "Oliver" "Débat !"
+  say "Oliver" "{P}! Still here? I've already visited three banks and opened two accounts. For the folklore."
+  say "Oliver" "Debate!"
   close
   hide all
   if var STARTER == 1 goto c
@@ -83,106 +83,106 @@ script oliver_lux
 :fin
   setflag OLIVER_LUX_DONE
   show R oliver worried
-  say "Oliver" "Bon, OK, tu progresses. Je file à Francfort voir la BCE. Ils ont promis de m'expliquer les taux d'intérêt."
+  say "Oliver" "Fine, OK, you're improving. I'm off to Frankfurt to see the ECB. They promised to explain interest rates to me."
   hidenpc lux_oliver
 end
 script gym1_t1
-  say "Pierre-Henri" "Ici, au Luxembourg, la discrétion est une vertu. Et une industrie."
+  say "Pierre-Henri" "Here in Luxembourg, discretion is a virtue. And an industry."
 end
 script gym1_t2
-  say "Maître Klein" "Les rescrits fiscaux étaient légaux, vous savez. C'est juste que personne ne devait les lire. LuxLeaks, 2014, quel malheur."
+  say "Counsel Klein" "Tax rulings were legal, you know. It's just that nobody was supposed to read them. LuxLeaks, 2014, what a misfortune."
 end
 script gym1_leader
   if flag BADGE_1 goto apres
   show R juncker happy
-  say "Jean-Claude Juncker" "Ah, le petit stagiaire de Schuman ! Viens, viens. Moi aussi j'ai commencé petit. Puis Premier ministre pendant dix-huit ans."
+  say "Jean-Claude Juncker" "Ah, Schuman's little intern! Come, come. I started small too. Then I was Prime Minister for eighteen years."
   expr R neutral
-  say "Jean-Claude Juncker" "J'ai présidé l'Eurogroupe, puis la Commission. J'en ai vu, des sommets. Et j'ai tapoté beaucoup de joues."
+  say "Jean-Claude Juncker" "I chaired the Eurogroup, then the Commission. I've seen my share of summits. And I've patted a lot of cheeks."
   expr R happy
-  say "Jean-Claude Juncker" "Une fois, en 2011, j'ai dit : « Quand ça devient sérieux, il faut mentir. » Alors je ne vais pas te dire que je vais te laisser gagner."
+  say "Jean-Claude Juncker" "Once, in 2011, I said: “When it becomes serious, you have to lie.” So I won't tell you I'm going to let you win."
   close
   hide all
   battle juncker
   show R juncker happy
-  say "Jean-Claude Juncker" "Formidable ! Tu as gagné le Badge Rescrit. Il est officiel, celui-là, pas confidentiel !"
+  say "Jean-Claude Juncker" "Wonderful! You've won the Tax Ruling Badge. This one's official, not confidential!"
   badge 1
   setflag TRAIN_LUXEMBOURG
   chapter 2
-  say "Jean-Claude Juncker" "La route de la Moselle t'est ouverte. Francfort t'attend, et Christine Lagarde ne plaisante pas avec les taux."
+  say "Jean-Claude Juncker" "The Moselle road is open to you. Frankfurt awaits, and Christine Lagarde doesn't joke about rates."
   goto fin
 :apres
   show R juncker happy
-  say "Jean-Claude Juncker" "Tu repasses me voir ? Viens ici que je te tapote la joue. C'est la tradition luxembourgeoise. Enfin, la mienne."
+  say "Jean-Claude Juncker" "Back to see me? Come here so I can pat your cheek. It's a Luxembourg tradition. Well, mine."
 :fin
 end
 
 # ---------------------------------------------------------------- Schengen
 script schengen_monument
-  say - "Ici, le 14 juin 1985, à bord du bateau Princesse Marie-Astrid, cinq pays ont signé l'accord de Schengen sur la suppression des contrôles aux frontières."
+  say - "Here, on 14 June 1985, aboard the boat Princesse Marie-Astrid, five countries signed the Schengen Agreement abolishing border checks."
 end
 script schengen_capitaine
-  say "Capitaine" "Le Princesse Marie-Astrid ! C'est sur ce genre de bateau qu'on a aboli les frontières. Ironique, sur une rivière qui en est une."
-  say "Capitaine" "On dit qu'un Euromon rare, Schengéon, rôde dans les dossiers du village. Il ne s'arrête jamais à la douane."
+  say "Captain" "The Princesse Marie-Astrid! It was on a boat like this that borders were abolished. Ironic, on a river that is one."
+  say "Captain" "They say a rare Euromon, Schengeon, roams the village's files. It never stops at customs."
 end
 
 # ---------------------------------------------------------------- Route 2 / Francfort
 script r2_sign
-  say - "Route 2 — Vallée de la Moselle. Trois pays en vingt kilomètres. Pensez à changer de langue."
+  say - "Route 2 — Moselle Valley. Three countries in twenty kilometres. Remember to switch languages."
 end
 script r2_t1
-  say "Kevin" "Le roaming gratuit, c'est le plus beau cadeau de l'Union. J'ai posté 4 000 photos de la Moselle."
+  say "Kevin" "Free roaming is the Union's greatest gift. I've posted 4,000 photos of the Moselle."
 end
 script r2_t2
-  say "Hans" "Selon mes calculs, vous allez gagner le prochain badge. Mais mes calculs sont rarement justes."
+  say "Hans" "According to my calculations, you'll win the next badge. But my calculations are rarely right."
 end
 script r2_t3
-  say "Jean-Marc" "Le crémant de Luxembourg, c'est AOP ! Comme mon Fromajus."
+  say "Jean-Marc" "Luxembourg crémant is PDO! Like my Cheeson."
 end
 script ffm_sign_bce
-  say - "Banque centrale européenne. Mission : la stabilité des prix. Objectif d'inflation : 2 % à moyen terme. Moyen terme : non précisé."
+  say - "European Central Bank. Mission: price stability. Inflation target: 2% over the medium term. Medium term: not specified."
 end
 script ffm_npc1
-  say "Trader" "Les marchés sont nerveux. Ils sont toujours nerveux. C'est leur métier."
+  say "Trader" "The markets are nervous. They're always nervous. It's their job."
 end
 script ffm_epargnant
-  say "Épargnant" "J'ai toujours mon matelas de deutschemarks. On ne sait jamais."
+  say "Saver" "I still have my mattress full of Deutschmarks. You never know."
 end
 script ffm_exit_block
-  say "Garde" "La route du Rhin est fermée aux stagiaires sans Badge Euro. Allez voir Mme Lagarde à la BCE."
+  say "Guard" "The Rhine road is closed to interns without the Euro Badge. Go and see Ms Lagarde at the ECB."
   move player "U"
 end
 script gym2_t1
-  say "Karl" "Je spéculais sur ta défaite. J'ai perdu ma chemise. Et ma cravate."
+  say "Karl" "I was betting on your defeat. I lost my shirt. And my tie."
 end
 script gym2_t2
-  say "Dr. Sofia" "Le choc était exogène. Totalement exogène."
+  say "Dr Sofia" "The shock was exogenous. Totally exogenous."
 end
 script gym2_leader
   if flag BADGE_2 goto apres
   show R lagarde neutral
-  say "Christine Lagarde" "Bienvenue à la Banque centrale européenne. Ici, chaque mot que je prononce fait bouger les marchés. Alors je choisis mes mots."
+  say "Christine Lagarde" "Welcome to the European Central Bank. Here, every word I say moves the markets. So I choose my words."
   expr R happy
-  say "Christine Lagarde" "Un jour de mars 2020, j'ai dit que nous n'étions « pas là pour réduire les spreads ». Les marchés italiens ont plongé. On apprend."
+  say "Christine Lagarde" "One day in March 2020, I said we were “not here to close spreads”. Italian markets plunged. You live and learn."
   expr R neutral
-  say "Christine Lagarde" "Dans mon arène, la puissance de mes attaques suit le taux directeur du moment. Prêt pour un peu de politique monétaire ?"
+  say "Christine Lagarde" "In my arena, the power of my attacks follows the current key interest rate. Ready for a little monetary policy?"
   close
   hide all
   battle lagarde
   show R lagarde happy
-  say "Christine Lagarde" "Remarquable. Votre stratégie était… prévisible, au bon sens du terme. Voici le Badge Euro."
+  say "Christine Lagarde" "Remarkable. Your strategy was… predictable, in the good sense. Here is the Euro Badge."
   badge 2
   setflag TRAIN_FRANCFORT
   chapter 3
-  say "Christine Lagarde" "Strasbourg est au sud, après les vignobles du Rhin. Roberta Metsola préside le Parlement. Ne lui coupez jamais la parole."
+  say "Christine Lagarde" "Strasbourg is to the south, past the Rhine vineyards. Roberta Metsola presides over Parliament. Never interrupt her."
   goto fin
 :apres
   show R lagarde happy
-  say "Christine Lagarde" "Les taux sont stables aujourd'hui. Profitez-en, ça ne dure jamais."
+  say "Christine Lagarde" "Rates are stable today. Make the most of it, it never lasts."
 :fin
 end
 script oliver_ffm
   show R oliver neutral
-  say "Oliver" "La BCE m'a tout expliqué : l'inflation, les taux, le bilan… Je n'ai rien compris. Allez, débat, pour me détendre !"
+  say "Oliver" "The ECB explained everything to me: inflation, rates, the balance sheet… I didn't understand a thing. Come on, a debate, to relax!"
   close
   hide all
   if var STARTER == 1 goto c
@@ -197,53 +197,53 @@ script oliver_ffm
 :fin
   setflag OLIVER_FFM_DONE
   show R oliver worried
-  say "Oliver" "Hmm. Tu sais, chez moi, à Londres, certains parlent de quitter l'Union. Ce serait ridicule, non ? …Non ?"
+  say "Oliver" "Hmm. You know, back home in London, some people talk about leaving the Union. That would be ridiculous, wouldn't it? …Wouldn't it?"
   hidenpc ffm_oliver
 end
 
 # ---------------------------------------------------------------- Route 3 / Strasbourg
 script r3_t1
-  say "Inès" "Le Pacte vert a été présenté en décembre 2019. Depuis, on se bat pour chaque virgule."
+  say "Inès" "The Green Deal was presented in December 2019. Since then, we've been fighting over every comma."
 end
 script r3_t2
-  say "Tom" "Mon prochain article : « La Commission veut interdire les débats perdus ». C'est faux, mais ça buzzera."
+  say "Tom" "My next article: “Commission wants to ban lost debates”. It's false, but it'll go viral."
 end
 script r3_t3
-  say "Albert" "Le vin d'Alsace et le vin du Bade se regardent par-dessus le Rhin. Avant, c'était les canons. Le progrès !"
+  say "Albert" "Alsace wine and Baden wine look at each other across the Rhine. It used to be cannons. Progress!"
 end
 script stras_sign
-  say - "Strasbourg, siège officiel du Parlement européen. 12 sessions plénières par an. 720 députés. Des milliers de malles."
+  say - "Strasbourg, official seat of the European Parliament. 12 plenary sessions a year. 720 MEPs. Thousands of trunks."
 end
 script stras_depute
-  say "Eurodéputée" "Je fais Bruxelles–Strasbourg douze fois par an depuis 2014. Ça me fait… 132 déménagements. Mes malles ont plus de points de fidélité que moi."
+  say "MEP" "I've done Brussels–Strasbourg twelve times a year since 2014. That makes… 132 moves. My trunks have more loyalty points than I do."
 end
 script stras_malles
   if flag MALLES_DONE goto fin
-  say "Fonctionnaire" "Au secours ! La session commence dans 2 minutes et les malles des députés ne sont pas chargées ! Tu peux m'aider ?"
+  say "Civil servant" "Help! The session starts in 2 minutes and the MEPs' trunks aren't loaded! Can you help me?"
   yesno -> TMP
   if var TMP == 0 goto refus
   close
   minigame malles
   if var RESULT == 0 goto rate
   setflag MALLES_DONE
-  say "Fonctionnaire" "Toutes les malles sont à bord ! Tiens, prends ça, c'est la récompense officielle du service logistique."
+  say "Civil servant" "All the trunks are on board! Here, take this, it's the logistics department's official reward."
   giveitem super_tampon 5
   goto fin
 :rate
-  say "Fonctionnaire" "Raté… Bon, on dira que la session commence en retard. Comme d'habitude. Réessaie quand tu veux !"
+  say "Civil servant" "Missed… Oh well, we'll say the session is starting late. As usual. Try again whenever you like!"
   goto fin
 :refus
-  say "Fonctionnaire" "Bon… je vais encore pleurer dans une malle."
+  say "Civil servant" "Well… I'll go and cry in a trunk again."
 :fin
 end
 script gym3_t1
-  say "Député Muller" "Mes 2 000 amendements… rejetés en bloc. Il faudra recommencer en commission."
+  say "MEP Muller" "My 2,000 amendments… rejected en bloc. We'll have to start again in committee."
 end
 script gym3_t2
-  say "Députée Rossi" "Pour le traité de Lisbonne, j'avais une malle entière de notes. Elle est restée à Bruxelles."
+  say "MEP Rossi" "For the Lisbon Treaty, I had a whole trunk of notes. It stayed in Brussels."
 end
 script gym3_huissier
-  say "Huissier" "Silence dans l'hémicycle ! Mme la Présidente n'accepte les débats qu'après un vote. Voulez-vous tenter un vote en plénière ?"
+  say "Usher" "Silence in the hemicycle! Madam President only accepts debates after a vote. Would you like to attempt a plenary vote?"
   if flag VOTE_DONE goto deja
   yesno -> TMP
   if var TMP == 0 goto fin
@@ -251,43 +251,43 @@ script gym3_huissier
   minigame vote
   if var RESULT == 0 goto rate
   setflag VOTE_DONE
-  say "Huissier" "Adopté à la majorité ! La Présidente vous recevra."
+  say "Usher" "Adopted by a majority! The President will receive you."
   goto fin
 :rate
-  say "Huissier" "Rejeté… Le quorum n'était pas atteint. Recommencez !"
+  say "Usher" "Rejected… There was no quorum. Try again!"
   goto fin
 :deja
-  say "Huissier" "Votre vote a été enregistré. La Présidente vous attend."
+  say "Usher" "Your vote has been recorded. The President is waiting for you."
 :fin
 end
 script gym3_leader
   if flag BADGE_3 goto apres
   if !flag VOTE_DONE goto vote
   show R metsola neutral
-  say "Roberta Metsola" "La séance est ouverte. Présidente du Parlement depuis 2022, réélue en 2024 : j'ai l'habitude de faire respecter le temps de parole."
+  say "Roberta Metsola" "The sitting is open. President of Parliament since 2022, re-elected in 2024: I'm used to enforcing speaking time."
   expr R happy
-  say "Roberta Metsola" "Vous avez trente secondes. Ah, c'est déjà fini. Bon, débattons !"
+  say "Roberta Metsola" "You have thirty seconds. Ah, time's already up. Right, let's debate!"
   close
   hide all
   battle metsola
   show R metsola happy
-  say "Roberta Metsola" "Le résultat est clair : adopté ! Le Badge Hémicycle vous revient."
+  say "Roberta Metsola" "The result is clear: adopted! The Hemicycle Badge is yours."
   badge 3
   setflag TRAIN_STRASBOURG
   setflag TRAIN_UNLOCKED
   setflag TRAIN_ATHENES
   chapter 4
-  say "Roberta Metsola" "Et voici le Pass Interrail européen. Avec lui, toutes les gares vous sont ouvertes. Votre prochain badge est à Athènes."
+  say "Roberta Metsola" "And here's the European Interrail Pass. With it, every station is open to you. Your next badge is in Athens."
   giveitem pass_interrail
   expr R worried
-  say "Roberta Metsola" "On dit que Yanis Varoufakis y donne des cours… à moto. Prenez le train à la gare de Strasbourg."
+  say "Roberta Metsola" "They say Yanis Varoufakis teaches there… on a motorbike. Take the train at Strasbourg station."
   goto fin
 :vote
   show R metsola neutral
-  say "Roberta Metsola" "Un débat ? Pas sans un vote de la plénière. Voyez l'huissier."
+  say "Roberta Metsola" "A debate? Not without a plenary vote. See the usher."
   goto fin
 :apres
   show R metsola happy
-  say "Roberta Metsola" "La prochaine session est dans un mois. N'oubliez pas vos malles !"
+  say "Roberta Metsola" "The next session is in a month. Don't forget your trunks!"
 :fin
 end

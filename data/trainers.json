@@ -2,7 +2,7 @@
  {
   "id": "stagiaire_hugo",
   "name": "Hugo",
-  "cls": "Stagiaire",
+  "cls": "Intern",
   "party": [
    [
     "amendon",
@@ -13,9 +13,9 @@
     5
    ]
   ],
-  "intro": "Hé, le nouveau ! Ici, on règle tout par un débat. Montre-moi ce que tu vaux !",
-  "defeat": "Argh… J'aurais dû relire mes notes de synthèse.",
-  "win": "Ha ! Retourne à la photocopieuse !",
+  "intro": "Hey, newbie! Here, we settle everything with a debate. Show me what you've got!",
+  "defeat": "Argh… I should have reread my briefing notes.",
+  "win": "Ha! Back to the photocopier!",
   "sprite": "stagiaire",
   "portrait": null,
   "money": 15,
@@ -32,9 +32,9 @@
     5
    ]
   ],
-  "intro": "Alors, {P}, on teste nos Euromons ? Mine is obviously better.",
-  "defeat": "What?! C'était un coup de chance !",
-  "win": "Easy. Comme prévu.",
+  "intro": "So, {P}, shall we test our Euromons? Mine is obviously better.",
+  "defeat": "What?! That was a lucky shot!",
+  "win": "Easy. As expected.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 30,
@@ -59,9 +59,9 @@
     10
    ]
   ],
-  "intro": "{P} ! Tu as déjà un badge ? Pas grave, je vais te le faire regretter.",
-  "defeat": "Not again… Bon, à Francfort, tu verras.",
-  "win": "Ha ! Le Luxembourg me réussit.",
+  "intro": "{P}! You already have a badge? Never mind, I'll make you regret it.",
+  "defeat": "Not again… Fine, you'll see in Frankfurt.",
+  "win": "Ha! Luxembourg suits me.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 40,
@@ -90,9 +90,9 @@
     19
    ]
   ],
-  "intro": "Je viens de visiter la BCE. J'ai tout compris à la politique monétaire. Presque tout.",
-  "defeat": "Bloody hell… Tu progresses vraiment vite, {P}.",
-  "win": "Comme on dit à la City : time is money.",
+  "intro": "I've just visited the ECB. I understood everything about monetary policy. Almost everything.",
+  "defeat": "Bloody hell… You're really improving fast, {P}.",
+  "win": "As they say in the City: time is money.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 60,
@@ -125,9 +125,9 @@
     34
    ]
   ],
-  "intro": "{P}… c'est notre dernier débat. Après, je rentre à Londres. Pour de bon. Allez, one last time !",
-  "defeat": "Good game, {P}. Au moins, je pars avec le panache.",
-  "win": "Je pars sur une victoire. C'est déjà ça.",
+  "intro": "{P}… this is our last debate. After this, I'm going back to London. For good. Come on, one last time!",
+  "defeat": "Good game, {P}. At least I'm leaving in style.",
+  "win": "I'm leaving on a win. That's something.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 80,
@@ -164,9 +164,9 @@
     66
    ]
   ],
-  "intro": "{P} ! I'm back. Enfin… je demande à revenir. Rejoin ? Mais d'abord, un débat pour l'honneur !",
-  "defeat": "Bon. Je remplis le formulaire d'adhésion. Il fait 35 chapitres…",
-  "win": "Ha ! Comme quoi, sortir rend plus fort. Ou pas.",
+  "intro": "{P}! I'm back. Well… I'm asking to come back. Rejoin? But first, a debate for honour!",
+  "defeat": "Right. I'm filling in the membership application. It's 35 chapters long…",
+  "win": "Ha! Turns out leaving makes you stronger. Or not.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 120,
@@ -183,9 +183,9 @@
     5
    ]
   ],
-  "intro": "Alors, {P}, on teste nos Euromons ? Mine is obviously better.",
-  "defeat": "What?! C'était un coup de chance !",
-  "win": "Easy. Comme prévu.",
+  "intro": "So, {P}, shall we test our Euromons? Mine is obviously better.",
+  "defeat": "What?! That was a lucky shot!",
+  "win": "Easy. As expected.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 30,
@@ -210,9 +210,9 @@
     10
    ]
   ],
-  "intro": "{P} ! Tu as déjà un badge ? Pas grave, je vais te le faire regretter.",
-  "defeat": "Not again… Bon, à Francfort, tu verras.",
-  "win": "Ha ! Le Luxembourg me réussit.",
+  "intro": "{P}! You already have a badge? Never mind, I'll make you regret it.",
+  "defeat": "Not again… Fine, you'll see in Frankfurt.",
+  "win": "Ha! Luxembourg suits me.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 40,
@@ -241,9 +241,9 @@
     19
    ]
   ],
-  "intro": "Je viens de visiter la BCE. J'ai tout compris à la politique monétaire. Presque tout.",
-  "defeat": "Bloody hell… Tu progresses vraiment vite, {P}.",
-  "win": "Comme on dit à la City : time is money.",
+  "intro": "I've just visited the ECB. I understood everything about monetary policy. Almost everything.",
+  "defeat": "Bloody hell… You're really improving fast, {P}.",
+  "win": "As they say in the City: time is money.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 60,
@@ -276,9 +276,9 @@
     34
    ]
   ],
-  "intro": "{P}… c'est notre dernier débat. Après, je rentre à Londres. Pour de bon. Allez, one last time !",
-  "defeat": "Good game, {P}. Au moins, je pars avec le panache.",
-  "win": "Je pars sur une victoire. C'est déjà ça.",
+  "intro": "{P}… this is our last debate. After this, I'm going back to London. For good. Come on, one last time!",
+  "defeat": "Good game, {P}. At least I'm leaving in style.",
+  "win": "I'm leaving on a win. That's something.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 80,
@@ -315,9 +315,9 @@
     66
    ]
   ],
-  "intro": "{P} ! I'm back. Enfin… je demande à revenir. Rejoin ? Mais d'abord, un débat pour l'honneur !",
-  "defeat": "Bon. Je remplis le formulaire d'adhésion. Il fait 35 chapitres…",
-  "win": "Ha ! Comme quoi, sortir rend plus fort. Ou pas.",
+  "intro": "{P}! I'm back. Well… I'm asking to come back. Rejoin? But first, a debate for honour!",
+  "defeat": "Right. I'm filling in the membership application. It's 35 chapters long…",
+  "win": "Ha! Turns out leaving makes you stronger. Or not.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 120,
@@ -334,9 +334,9 @@
     5
    ]
   ],
-  "intro": "Alors, {P}, on teste nos Euromons ? Mine is obviously better.",
-  "defeat": "What?! C'était un coup de chance !",
-  "win": "Easy. Comme prévu.",
+  "intro": "So, {P}, shall we test our Euromons? Mine is obviously better.",
+  "defeat": "What?! That was a lucky shot!",
+  "win": "Easy. As expected.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 30,
@@ -361,9 +361,9 @@
     10
    ]
   ],
-  "intro": "{P} ! Tu as déjà un badge ? Pas grave, je vais te le faire regretter.",
-  "defeat": "Not again… Bon, à Francfort, tu verras.",
-  "win": "Ha ! Le Luxembourg me réussit.",
+  "intro": "{P}! You already have a badge? Never mind, I'll make you regret it.",
+  "defeat": "Not again… Fine, you'll see in Frankfurt.",
+  "win": "Ha! Luxembourg suits me.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 40,
@@ -392,9 +392,9 @@
     19
    ]
   ],
-  "intro": "Je viens de visiter la BCE. J'ai tout compris à la politique monétaire. Presque tout.",
-  "defeat": "Bloody hell… Tu progresses vraiment vite, {P}.",
-  "win": "Comme on dit à la City : time is money.",
+  "intro": "I've just visited the ECB. I understood everything about monetary policy. Almost everything.",
+  "defeat": "Bloody hell… You're really improving fast, {P}.",
+  "win": "As they say in the City: time is money.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 60,
@@ -427,9 +427,9 @@
     34
    ]
   ],
-  "intro": "{P}… c'est notre dernier débat. Après, je rentre à Londres. Pour de bon. Allez, one last time !",
-  "defeat": "Good game, {P}. Au moins, je pars avec le panache.",
-  "win": "Je pars sur une victoire. C'est déjà ça.",
+  "intro": "{P}… this is our last debate. After this, I'm going back to London. For good. Come on, one last time!",
+  "defeat": "Good game, {P}. At least I'm leaving in style.",
+  "win": "I'm leaving on a win. That's something.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 80,
@@ -466,9 +466,9 @@
     66
    ]
   ],
-  "intro": "{P} ! I'm back. Enfin… je demande à revenir. Rejoin ? Mais d'abord, un débat pour l'honneur !",
-  "defeat": "Bon. Je remplis le formulaire d'adhésion. Il fait 35 chapitres…",
-  "win": "Ha ! Comme quoi, sortir rend plus fort. Ou pas.",
+  "intro": "{P}! I'm back. Well… I'm asking to come back. Rejoin? But first, a debate for honour!",
+  "defeat": "Right. I'm filling in the membership application. It's 35 chapters long…",
+  "win": "Ha! Turns out leaving makes you stronger. Or not.",
   "sprite": "oliver",
   "portrait": "oliver",
   "money": 120,
@@ -478,7 +478,7 @@
  {
   "id": "r1_stagiaire",
   "name": "Léa",
-  "cls": "Stagiaire",
+  "cls": "Intern",
   "party": [
    [
     "erasmouse",
@@ -489,8 +489,8 @@
     6
    ]
   ],
-  "intro": "Moi aussi je suis stagiaire ! Non payée, comme toi. Débattons, ça console.",
-  "defeat": "Bon… je retourne faire des photocopies.",
+  "intro": "I'm an intern too! Unpaid, like you. Let's debate, it's comforting.",
+  "defeat": "Well… back to the photocopies.",
   "win": "",
   "sprite": "stagiaire_f",
   "portrait": null,
@@ -500,8 +500,8 @@
  },
  {
   "id": "r1_fonctionnaire",
-  "name": "M. Dupont",
-  "cls": "Fonctionnaire",
+  "name": "Mr Dupont",
+  "cls": "Civil servant",
   "party": [
    [
     "paperasse_mon",
@@ -516,8 +516,8 @@
     7
    ]
   ],
-  "intro": "Halte ! Votre formulaire de randonnée A-38 est-il visé ?",
-  "defeat": "Bon, je vous le vise. Mais en triple exemplaire.",
+  "intro": "Halt! Has your A-38 hiking form been stamped?",
+  "defeat": "Fine, I'll stamp it. But in triplicate.",
   "win": "",
   "sprite": "fonctionnaire",
   "portrait": null,
@@ -528,7 +528,7 @@
  {
   "id": "r1_agriculteur",
   "name": "Gérard",
-  "cls": "Agriculteur",
+  "cls": "Farmer",
   "party": [
    [
     "agrikolo",
@@ -539,8 +539,8 @@
     7
    ]
   ],
-  "intro": "La PAC, c'est ma vie ! Et mon tracteur, c'est ma famille. Allez, on débat !",
-  "defeat": "Faudra que j'en parle au syndicat…",
+  "intro": "The CAP is my life! And my tractor is my family. Come on, let's debate!",
+  "defeat": "I'll have to raise this with the union…",
   "win": "",
   "sprite": "agriculteur",
   "portrait": null,
@@ -551,7 +551,7 @@
  {
   "id": "lux_banquier",
   "name": "Pierre-Henri",
-  "cls": "Banquier privé",
+  "cls": "Private banker",
   "party": [
    [
     "eurolo",
@@ -562,8 +562,8 @@
     10
    ]
   ],
-  "intro": "Bienvenue au Luxembourg. Discrétion absolue. Ce débat n'a jamais eu lieu.",
-  "defeat": "Ce débat n'a définitivement jamais eu lieu.",
+  "intro": "Welcome to Luxembourg. Absolute discretion. This debate never happened.",
+  "defeat": "This debate definitely never happened.",
   "win": "",
   "sprite": "banquier",
   "portrait": null,
@@ -573,8 +573,8 @@
  },
  {
   "id": "lux_fiscaliste",
-  "name": "Maître Klein",
-  "cls": "Fiscaliste",
+  "name": "Counsel Klein",
+  "cls": "Tax adviser",
   "party": [
    [
     "valisette",
@@ -589,8 +589,8 @@
     11
    ]
   ],
-  "intro": "Un rescrit fiscal ? Je vous en rédige un en cinq minutes. Mais d'abord, un débat.",
-  "defeat": "Mes montages… effondrés !",
+  "intro": "A tax ruling? I'll draft you one in five minutes. But first, a debate.",
+  "defeat": "My arrangements… collapsed!",
   "win": "",
   "sprite": "avocat",
   "portrait": null,
@@ -601,7 +601,7 @@
  {
   "id": "juncker",
   "name": "Jean-Claude Juncker",
-  "cls": "Champion d'arène",
+  "cls": "Arena champion",
   "party": [
    [
     "eurolo",
@@ -616,9 +616,9 @@
     14
    ]
   ],
-  "intro": "Ah, un jeune stagiaire ! Viens, viens, que je te tapote la joue. Puis on débat, comme au bon vieux temps de l'Eurogroupe.",
-  "defeat": "Bravo ! Tu mérites le Badge Rescrit. Et ça, ce n'est pas confidentiel !",
-  "win": "Allez, ne fais pas cette tête, je plaisante… à moitié.",
+  "intro": "Ah, a young intern! Come, come, let me pat your cheek. Then we'll debate, like in the good old Eurogroup days.",
+  "defeat": "Bravo! You deserve the Tax Ruling Badge. And that's not confidential!",
+  "win": "Come on, don't make that face, I'm joking… half joking.",
   "sprite": "juncker",
   "portrait": "juncker",
   "money": 100,
@@ -628,7 +628,7 @@
  {
   "id": "r2_touriste",
   "name": "Kevin",
-  "cls": "Touriste",
+  "cls": "Tourist",
   "party": [
    [
     "roamy",
@@ -639,8 +639,8 @@
     11
    ]
   ],
-  "intro": "Je fais la Moselle à vélo ! Et je débats en roaming, gratuitement !",
-  "defeat": "Même sans frais d'itinérance, j'ai tout perdu.",
+  "intro": "I'm cycling the Moselle! And debating in roaming, for free!",
+  "defeat": "Even without roaming charges, I've lost everything.",
   "win": "",
   "sprite": "touriste",
   "portrait": null,
@@ -651,7 +651,7 @@
  {
   "id": "r2_banquier",
   "name": "Hans",
-  "cls": "Analyste",
+  "cls": "Analyst",
   "party": [
    [
     "inflaton",
@@ -662,8 +662,8 @@
     12
    ]
   ],
-  "intro": "Les marchés anticipent ma victoire à 87 %.",
-  "defeat": "Les marchés se sont trompés. Comme d'habitude.",
+  "intro": "The markets are pricing in my victory at 87%.",
+  "defeat": "The markets were wrong. As usual.",
   "win": "",
   "sprite": "banquier",
   "portrait": null,
@@ -674,7 +674,7 @@
  {
   "id": "r2_vigneron",
   "name": "Jean-Marc",
-  "cls": "Vigneron",
+  "cls": "Winegrower",
   "party": [
    [
     "agrikolo",
@@ -689,8 +689,8 @@
     13
    ]
   ],
-  "intro": "Mon crémant est AOP. Mes Euromons aussi. Ou presque.",
-  "defeat": "Bon, je vous offre un verre quand même.",
+  "intro": "My crémant is PDO. So are my Euromons. Almost.",
+  "defeat": "Well, I'll buy you a drink anyway.",
   "win": "",
   "sprite": "agriculteur",
   "portrait": null,
@@ -712,8 +712,8 @@
     16
    ]
   ],
-  "intro": "Achète bas, revends haut, débats fort !",
-  "defeat": "Krach ! Je suis à découvert !",
+  "intro": "Buy low, sell high, debate hard!",
+  "defeat": "Crash! I'm overdrawn!",
   "win": "",
   "sprite": "banquier",
   "portrait": null,
@@ -723,8 +723,8 @@
  },
  {
   "id": "bce_economiste",
-  "name": "Dr. Sofia",
-  "cls": "Économiste",
+  "name": "Dr Sofia",
+  "cls": "Economist",
   "party": [
    [
     "inflaton",
@@ -735,8 +735,8 @@
     16
    ]
   ],
-  "intro": "Selon mon modèle, vous perdez. Mon modèle n'a jamais tort. Sauf en 2008.",
-  "defeat": "Je vais devoir réviser mes prévisions.",
+  "intro": "According to my model, you lose. My model is never wrong. Except in 2008.",
+  "defeat": "I'll have to revise my forecasts.",
   "win": "",
   "sprite": "fonctionnaire_f",
   "portrait": null,
@@ -747,7 +747,7 @@
  {
   "id": "lagarde",
   "name": "Christine Lagarde",
-  "cls": "Championne d'arène",
+  "cls": "Arena title-holder",
   "party": [
    [
     "cryptou",
@@ -762,9 +762,9 @@
     20
    ]
   ],
-  "intro": "Bienvenue à la Banque centrale européenne. Ici, je fixe les taux… et le rythme du débat. Mes attaques dépendent du taux directeur du jour !",
-  "defeat": "Formidable. Vous méritez le Badge Euro. Et rassurez-vous : je ne suis pas là pour réduire votre spread.",
-  "win": "La stabilité des prix, c'est aussi la stabilité des victoires.",
+  "intro": "Welcome to the European Central Bank. Here, I set the rates… and the pace of the debate. My attacks depend on today's key rate!",
+  "defeat": "Wonderful. You deserve the Euro Badge. And don't worry: I'm not here to close your spread.",
+  "win": "Price stability is also the stability of victories.",
   "sprite": "lagarde",
   "portrait": "lagarde",
   "money": 110,
@@ -774,7 +774,7 @@
  {
   "id": "r3_militant",
   "name": "Inès",
-  "cls": "Militante climat",
+  "cls": "Climate activist",
   "party": [
    [
     "eolion",
@@ -785,8 +785,8 @@
     17
    ]
   ],
-  "intro": "Chaque débat perdu, c'est un degré de plus ! Allez !",
-  "defeat": "Bon, au moins c'était neutre en carbone.",
+  "intro": "Every debate lost is one more degree! Come on!",
+  "defeat": "Well, at least it was carbon-neutral.",
   "win": "",
   "sprite": "militant",
   "portrait": null,
@@ -797,7 +797,7 @@
  {
   "id": "r3_journaliste",
   "name": "Tom",
-  "cls": "Journaliste",
+  "cls": "Journalist",
   "party": [
    [
     "fakeon",
@@ -808,8 +808,8 @@
     17
    ]
   ],
-  "intro": "Une exclusivité ! « Un stagiaire perd lamentablement » !",
-  "defeat": "Je change le titre : « Un stagiaire gagne lamentablement bien ».",
+  "intro": "An exclusive! “Intern loses miserably”!",
+  "defeat": "I'm changing the headline: “Intern wins miserably well”.",
   "win": "",
   "sprite": "journaliste",
   "portrait": null,
@@ -820,7 +820,7 @@
  {
   "id": "r3_viticulteur",
   "name": "Albert",
-  "cls": "Viticulteur",
+  "cls": "Winemaker",
   "party": [
    [
     "fromajus",
@@ -835,8 +835,8 @@
     19
    ]
   ],
-  "intro": "Le Rhin, c'est la frontière ? Non, c'est le vin des deux côtés ! On trinque après le débat.",
-  "defeat": "Santé quand même !",
+  "intro": "Is the Rhine the border? No, it's wine on both sides! We'll drink a toast after the debate.",
+  "defeat": "Cheers anyway!",
   "win": "",
   "sprite": "agriculteur",
   "portrait": null,
@@ -846,8 +846,8 @@
  },
  {
   "id": "stras_depute1",
-  "name": "Député Muller",
-  "cls": "Eurodéputé",
+  "name": "MEP Muller",
+  "cls": "Member of Parliament",
   "party": [
    [
     "amendon",
@@ -858,8 +858,8 @@
     22
    ]
   ],
-  "intro": "J'ai déposé 2 000 amendements ce matin. Le premier vous concerne.",
-  "defeat": "Mes amendements sont rejetés en bloc…",
+  "intro": "I tabled 2,000 amendments this morning. The first one is about you.",
+  "defeat": "My amendments were rejected en bloc…",
   "win": "",
   "sprite": "depute",
   "portrait": null,
@@ -869,8 +869,8 @@
  },
  {
   "id": "stras_depute2",
-  "name": "Députée Rossi",
-  "cls": "Eurodéputée",
+  "name": "MEP Rossi",
+  "cls": "MEP",
   "party": [
    [
     "interpreton",
@@ -881,8 +881,8 @@
     22
    ]
   ],
-  "intro": "La session a lieu à Strasbourg, nos malles sont arrivées, débattons !",
-  "defeat": "Je repars à Bruxelles. Avec mes malles.",
+  "intro": "The session is in Strasbourg, our trunks have arrived, let's debate!",
+  "defeat": "I'm going back to Brussels. With my trunks.",
   "win": "",
   "sprite": "deputee",
   "portrait": null,
@@ -893,7 +893,7 @@
  {
   "id": "metsola",
   "name": "Roberta Metsola",
-  "cls": "Championne d'arène",
+  "cls": "Arena title-holder",
   "party": [
    [
     "amendomax",
@@ -908,9 +908,9 @@
     25
    ]
   ],
-  "intro": "Silence dans l'hémicycle ! La séance est ouverte. Je donne la parole à… vous. Puis je vous la reprends.",
-  "defeat": "Adopté ! Le Badge Hémicycle vous est attribué à la majorité absolue.",
-  "win": "La séance est levée. Revenez à la prochaine session.",
+  "intro": "Silence in the hemicycle! The sitting is open. I give the floor to… you. Then I take it back.",
+  "defeat": "Adopted! The Hemicycle Badge is awarded to you by an absolute majority.",
+  "win": "The sitting is closed. Come back for the next session.",
   "sprite": "metsola",
   "portrait": "metsola",
   "money": 120,
@@ -920,7 +920,7 @@
  {
   "id": "ath_economiste",
   "name": "Nikos",
-  "cls": "Économiste",
+  "cls": "Economist",
   "party": [
    [
     "inflaton",
@@ -931,8 +931,8 @@
     27
    ]
   ],
-  "intro": "La dette, c'est comme la moussaka : ça se digère mal.",
-  "defeat": "OXI à cette défaite !",
+  "intro": "Debt is like moussaka: hard to digest.",
+  "defeat": "OXI to this defeat!",
   "win": "",
   "sprite": "journaliste",
   "portrait": null,
@@ -942,8 +942,8 @@
  },
  {
   "id": "troika_bce",
-  "name": "Agent Troïka (BCE)",
-  "cls": "Troïka",
+  "name": "Troika agent (ECB)",
+  "cls": "Troika",
   "party": [
    [
     "austerix",
@@ -954,8 +954,8 @@
     27
    ]
   ],
-  "intro": "Inspection des comptes ! Vos Euromons dépensent trop.",
-  "defeat": "Rapport d'inspection : défavorable.",
+  "intro": "Account inspection! Your Euromons spend too much.",
+  "defeat": "Inspection report: unfavourable.",
   "win": "",
   "sprite": "banquier",
   "portrait": null,
@@ -965,8 +965,8 @@
  },
  {
   "id": "troika_fmi",
-  "name": "Agent Troïka (FMI)",
-  "cls": "Troïka",
+  "name": "Troika agent (IMF)",
+  "cls": "Troika",
   "party": [
    [
     "spreadon",
@@ -977,8 +977,8 @@
     28
    ]
   ],
-  "intro": "Le Fonds monétaire international recommande… votre défaite.",
-  "defeat": "Révision de nos prévisions : à la baisse.",
+  "intro": "The International Monetary Fund recommends… your defeat.",
+  "defeat": "Revision of our forecasts: downwards.",
   "win": "",
   "sprite": "fonctionnaire",
   "portrait": null,
@@ -989,7 +989,7 @@
  {
   "id": "varoufakis",
   "name": "Yanis Varoufakis",
-  "cls": "Champion d'arène",
+  "cls": "Arena champion",
   "party": [
    [
     "erasmusplus",
@@ -1004,9 +1004,9 @@
     31
    ]
   ],
-  "intro": "Je suis arrivé à moto, sans cravate. Comme en 2015 face à l'Eurogroupe. On débat, et on vote : OXI ou NAI ?",
-  "defeat": "OXI… pardon, NAI : tu as gagné. Prends le Badge OXI, camarade.",
-  "win": "Le peuple a parlé. Et le peuple, c'est moi.",
+  "intro": "I came by motorbike, no tie. Like in 2015 against the Eurogroup. We debate, and then we vote: OXI or NAI?",
+  "defeat": "OXI… sorry, NAI: you win. Take the OXI Badge, comrade.",
+  "win": "The people have spoken. And the people is me.",
   "sprite": "varoufakis",
   "portrait": "varoufakis",
   "money": 130,
@@ -1015,8 +1015,8 @@
  },
  {
   "id": "lon_tabloid",
-  "name": "Rédacteur en chef",
-  "cls": "Tabloïd",
+  "name": "Editor-in-chief",
+  "cls": "Tabloid",
   "party": [
    [
     "fakeon",
@@ -1031,8 +1031,8 @@
     32
    ]
   ],
-  "intro": "UNE : « Bruxelles veut interdire les bananes courbes » ! C'est faux ? Pas grave, ça fait vendre.",
-  "defeat": "Demain en une : « Défaite historique ».",
+  "intro": "FRONT PAGE: “Brussels wants to ban bent bananas”! It's false? Who cares, it sells.",
+  "defeat": "Tomorrow's front page: “Historic defeat”.",
   "win": "",
   "sprite": "journaliste",
   "portrait": null,
@@ -1043,7 +1043,7 @@
  {
   "id": "lon_johnson",
   "name": "Boris Johnson",
-  "cls": "Ex-Premier ministre",
+  "cls": "Former Prime Minister",
   "party": [
    [
     "pigeonix",
@@ -1058,8 +1058,8 @@
     34
    ]
   ],
-  "intro": "Hello ! J'étais correspondant à Bruxelles, vous savez. J'en ai écrit des choses… plus ou moins vraies. Get debate done !",
-  "defeat": "Crikey. Bon, j'avais un autre article sur les concombres droits, de toute façon.",
+  "intro": "Hello! I was a Brussels correspondent, you know. I wrote things… more or less true. Get debate done!",
+  "defeat": "Crikey. Well, I had another article about straight cucumbers anyway.",
   "win": "",
   "sprite": "johnson",
   "portrait": "johnson",
@@ -1070,7 +1070,7 @@
  {
   "id": "farage",
   "name": "Nigel Farage",
-  "cls": "Champion d'arène",
+  "cls": "Arena champion",
   "party": [
    [
     "tribun",
@@ -1085,9 +1085,9 @@
     36
    ]
   ],
-  "intro": "Vous ne riez plus maintenant, hein ? Bienvenue au pub. Un débat, une pinte, et l'Article 50.",
-  "defeat": "Bon. Prenez le Badge Article 50. On n'en a plus besoin, nous.",
-  "win": "Take back control ! Du débat, en tout cas.",
+  "intro": "You're not laughing now, are you? Welcome to the pub. A debate, a pint, and Article 50.",
+  "defeat": "Right. Take the Article 50 Badge. We don't need it any more.",
+  "win": "Take back control! Of the debate, at least.",
   "sprite": "farage",
   "portrait": "farage",
   "money": 140,
@@ -1097,7 +1097,7 @@
  {
   "id": "bud_douanier",
   "name": "Gábor",
-  "cls": "Garde-frontière",
+  "cls": "Border guard",
   "party": [
    [
     "frontierex",
@@ -1108,8 +1108,8 @@
     36
    ]
   ],
-  "intro": "Contrôle ! Votre Euromon a-t-il un visa ?",
-  "defeat": "Passez. Mais je le note.",
+  "intro": "Check! Does your Euromon have a visa?",
+  "defeat": "Go through. But I'm writing it down.",
   "win": "",
   "sprite": "douanier",
   "portrait": null,
@@ -1119,8 +1119,8 @@
  },
  {
   "id": "bud_conseiller",
-  "name": "Conseiller spécial",
-  "cls": "Conseiller",
+  "name": "Special adviser",
+  "cls": "Adviser",
   "party": [
    [
     "austerix",
@@ -1131,8 +1131,8 @@
     37
    ]
   ],
-  "intro": "Le Premier ministre ne reçoit personne. Sauf ceux qui me battent. Et ça n'arrive jamais.",
-  "defeat": "Ça vient d'arriver.",
+  "intro": "The Prime Minister receives no one. Except those who beat me. And that never happens.",
+  "defeat": "It just happened.",
   "win": "",
   "sprite": "depute",
   "portrait": null,
@@ -1143,7 +1143,7 @@
  {
   "id": "orban",
   "name": "Viktor Orbán",
-  "cls": "Champion d'arène",
+  "cls": "Arena champion",
   "party": [
    [
     "vetoadmax",
@@ -1162,9 +1162,9 @@
     40
    ]
   ],
-  "intro": "Vous voulez mon accord ? L'unanimité est requise. Et je ne suis jamais d'accord. Attention : je peux poser mon VETO à chaque tour.",
-  "defeat": "Bon… Je sors prendre un café. Pendant ce temps, prenez ce Badge Veto. Officiellement, je me suis abstenu.",
-  "win": "Veto ! Veto ! Et re-veto !",
+  "intro": "You want my agreement? Unanimity is required. And I never agree. Careful: I can use my VETO every turn.",
+  "defeat": "Fine… I'm stepping out for a coffee. Meanwhile, take this Veto Badge. Officially, I abstained.",
+  "win": "Veto! Veto! And veto again!",
   "sprite": "orban",
   "portrait": "orban",
   "money": 150,
@@ -1173,7 +1173,7 @@
  },
  {
   "id": "lobby_sbire1",
-  "name": "Lobbyiste du pétrole",
+  "name": "Oil lobbyist",
   "cls": "Team Lobby",
   "party": [
    [
@@ -1185,8 +1185,8 @@
     37
    ]
   ],
-  "intro": "Vous n'avez pas votre badge d'accès ? Ça tombe bien, nous non plus.",
-  "defeat": "Je vais devoir déclarer cette rencontre au registre de transparence…",
+  "intro": "You don't have your access badge? Good, neither do we.",
+  "defeat": "I'll have to declare this meeting in the transparency register…",
   "win": "",
   "sprite": "lobbyiste",
   "portrait": null,
@@ -1196,7 +1196,7 @@
  },
  {
   "id": "lobby_sbire2",
-  "name": "Lobbyiste de la tech",
+  "name": "Tech lobbyist",
   "cls": "Team Lobby",
   "party": [
    [
@@ -1212,8 +1212,8 @@
     37
    ]
   ],
-  "intro": "Notre algorithme a prédit votre défaite. Accepter les cookies ?",
-  "defeat": "Erreur 403 : défaite.",
+  "intro": "Our algorithm predicted your defeat. Accept cookies?",
+  "defeat": "Error 403: defeat.",
   "win": "",
   "sprite": "lobbyiste_f",
   "portrait": null,
@@ -1235,8 +1235,8 @@
     38
    ]
   ],
-  "intro": "Une petite valise pour votre vote ? Non ? Alors un débat.",
-  "defeat": "Je n'ai jamais rien donné à personne. Notez-le.",
+  "intro": "A little suitcase for your vote? No? Then a debate.",
+  "defeat": "I never gave anything to anyone. Write that down.",
   "win": "",
   "sprite": "lobbyiste",
   "portrait": null,
@@ -1246,8 +1246,8 @@
  },
  {
   "id": "lobbychef",
-  "name": "Le Lobbyiste en chef",
-  "cls": "Chef de la Team Lobby",
+  "name": "The Chief Lobbyist",
+  "cls": "Team Lobby boss",
   "party": [
    [
     "sacabillet",
@@ -1270,9 +1270,9 @@
     43
    ]
   ],
-  "intro": "Bienvenue au cœur du pouvoir, stagiaire. Ici, on n'écrit pas les lois : on les « suggère ». Et toi, tu vas signer ma suggestion.",
-  "defeat": "Impossible… Un simple stagiaire, non rémunéré… a vaincu le lobby. Je me retire. Dans le privé. Ah, j'y suis déjà.",
-  "win": "Merci pour cette contribution à notre consultation publique.",
+  "intro": "Welcome to the heart of power, intern. Here, we don't write laws: we “suggest” them. And you're going to sign my suggestion.",
+  "defeat": "Impossible… A mere unpaid intern… has defeated the lobby. I'm retiring. To the private sector. Oh, I'm already there.",
+  "win": "Thank you for this contribution to our public consultation.",
   "sprite": "lobbychef",
   "portrait": null,
   "money": 200,
@@ -1281,8 +1281,8 @@
  },
  {
   "id": "avocat_tech1",
-  "name": "Avocat de Big Tech",
-  "cls": "Avocat",
+  "name": "Big Tech lawyer",
+  "cls": "Lawyer",
   "party": [
    [
     "consentor",
@@ -1293,8 +1293,8 @@
     40
    ]
   ],
-  "intro": "Mon client conteste l'amende de 4,34 milliards. Et ce débat.",
-  "defeat": "Nous ferons appel.",
+  "intro": "My client contests the €4.34 billion fine. And this debate.",
+  "defeat": "We will appeal.",
   "win": "",
   "sprite": "avocat",
   "portrait": null,
@@ -1304,8 +1304,8 @@
  },
  {
   "id": "avocat_tech2",
-  "name": "Juriste concurrence",
-  "cls": "Juriste",
+  "name": "Competition lawyer",
+  "cls": "Legal expert",
   "party": [
    [
     "archivor",
@@ -1316,8 +1316,8 @@
     41
    ]
   ],
-  "intro": "Abus de position dominante ? Moi ? Je ne suis que dominant.",
-  "defeat": "Amende acceptée…",
+  "intro": "Abuse of a dominant position? Me? I'm merely dominant.",
+  "defeat": "Fine accepted…",
   "win": "",
   "sprite": "avocat",
   "portrait": null,
@@ -1328,7 +1328,7 @@
  {
   "id": "vestager",
   "name": "Margrethe Vestager",
-  "cls": "Championne d'arène",
+  "cls": "Arena title-holder",
   "party": [
    [
     "consentor",
@@ -1347,9 +1347,9 @@
     44
    ]
   ],
-  "intro": "Google, Apple… j'ai infligé des milliards d'amendes. Votre équipe respecte-t-elle les règles de concurrence ? Vérifions.",
-  "defeat": "Pas d'abus de position dominante détecté. Le Badge Amende est à vous.",
-  "win": "Amende ! 4 % de votre chiffre d'affaires.",
+  "intro": "Google, Apple… I've imposed billions in fines. Does your team respect competition rules? Let's check.",
+  "defeat": "No abuse of a dominant position detected. The Fine Badge is yours.",
+  "win": "Fined! 4% of your turnover.",
   "sprite": "vestager",
   "portrait": "vestager",
   "money": 160,
@@ -1358,16 +1358,16 @@
  },
  {
   "id": "fantome_1a",
-  "name": "Assistant fantôme",
-  "cls": "Fantôme",
+  "name": "Ghost assistant",
+  "cls": "Ghost",
   "party": [
    [
     "assistome",
     38
    ]
   ],
-  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
-  "defeat": "Je retourne… à mon contrat… fictif…",
+  "intro": "Boo… I've worked here… since 2009… well, on paper…",
+  "defeat": "I'm going back… to my fictitious… contract…",
   "win": "",
   "sprite": "fantome",
   "portrait": null,
@@ -1377,8 +1377,8 @@
  },
  {
   "id": "fantome_1b",
-  "name": "Assistant fantôme",
-  "cls": "Fantôme",
+  "name": "Ghost assistant",
+  "cls": "Ghost",
   "party": [
    [
     "assistome",
@@ -1389,8 +1389,8 @@
     38
    ]
   ],
-  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
-  "defeat": "Je retourne… à mon contrat… fictif…",
+  "intro": "Boo… I've worked here… since 2009… well, on paper…",
+  "defeat": "I'm going back… to my fictitious… contract…",
   "win": "",
   "sprite": "fantome",
   "portrait": null,
@@ -1400,8 +1400,8 @@
  },
  {
   "id": "fantome_2a",
-  "name": "Assistant fantôme",
-  "cls": "Fantôme",
+  "name": "Ghost assistant",
+  "cls": "Ghost",
   "party": [
    [
     "changheure",
@@ -1412,8 +1412,8 @@
     39
    ]
   ],
-  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
-  "defeat": "Je retourne… à mon contrat… fictif…",
+  "intro": "Boo… I've worked here… since 2009… well, on paper…",
+  "defeat": "I'm going back… to my fictitious… contract…",
   "win": "",
   "sprite": "fantome",
   "portrait": null,
@@ -1423,8 +1423,8 @@
  },
  {
   "id": "fantome_2b",
-  "name": "Assistant fantôme",
-  "cls": "Fantôme",
+  "name": "Ghost assistant",
+  "cls": "Ghost",
   "party": [
    [
     "manneken",
@@ -1435,8 +1435,8 @@
     40
    ]
   ],
-  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
-  "defeat": "Je retourne… à mon contrat… fictif…",
+  "intro": "Boo… I've worked here… since 2009… well, on paper…",
+  "defeat": "I'm going back… to my fictitious… contract…",
   "win": "",
   "sprite": "fantome",
   "portrait": null,
@@ -1446,16 +1446,16 @@
  },
  {
   "id": "fantome_3a",
-  "name": "Assistant fantôme",
-  "cls": "Fantôme",
+  "name": "Ghost assistant",
+  "cls": "Ghost",
   "party": [
    [
     "emploifictif",
     41
    ]
   ],
-  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
-  "defeat": "Je retourne… à mon contrat… fictif…",
+  "intro": "Boo… I've worked here… since 2009… well, on paper…",
+  "defeat": "I'm going back… to my fictitious… contract…",
   "win": "",
   "sprite": "fantome",
   "portrait": null,
@@ -1465,8 +1465,8 @@
  },
  {
   "id": "fantome_3b",
-  "name": "Assistant fantôme",
-  "cls": "Fantôme",
+  "name": "Ghost assistant",
+  "cls": "Ghost",
   "party": [
    [
     "pailleplast",
@@ -1477,8 +1477,8 @@
     41
    ]
   ],
-  "intro": "Bouh… Je travaille ici… depuis 2009… enfin, sur le papier…",
-  "defeat": "Je retourne… à mon contrat… fictif…",
+  "intro": "Boo… I've worked here… since 2009… well, on paper…",
+  "defeat": "I'm going back… to my fictitious… contract…",
   "win": "",
   "sprite": "fantome",
   "portrait": null,
@@ -1488,8 +1488,8 @@
  },
  {
   "id": "fantome_boss",
-  "name": "Le Contrat Vide",
-  "cls": "Esprit des emplois fictifs",
+  "name": "The Empty Contract",
+  "cls": "Spirit of fake jobs",
   "party": [
    [
     "changheure",
@@ -1504,8 +1504,8 @@
     45
    ]
   ],
-  "intro": "JE SUIS… LA SOMME DE TOUS LES CONTRATS QUI N'ONT JAMAIS EU DE BUREAU…",
-  "defeat": "Mes… fiches de paie… s'effacent…",
+  "intro": "I AM… THE SUM OF EVERY CONTRACT THAT NEVER HAD AN OFFICE…",
+  "defeat": "My… payslips… are fading…",
   "win": "",
   "sprite": "fantome",
   "portrait": null,
@@ -1515,8 +1515,8 @@
  },
  {
   "id": "par_enarque",
-  "name": "Énarque",
-  "cls": "Haut fonctionnaire",
+  "name": "ENA graduate",
+  "cls": "Senior civil servant",
   "party": [
    [
     "titularis",
@@ -1527,8 +1527,8 @@
     44
    ]
   ],
-  "intro": "J'ai fait l'ENA. Enfin, l'INSP. Bref, je sais tout.",
-  "defeat": "Je vais rédiger une note sur cet échec.",
+  "intro": "I went to the ENA. Well, the INSP. Anyway, I know everything.",
+  "defeat": "I'll write a memo about this failure.",
   "win": "",
   "sprite": "fonctionnaire_f",
   "portrait": null,
@@ -1538,8 +1538,8 @@
  },
  {
   "id": "par_ministre",
-  "name": "Ministre délégué",
-  "cls": "Ministre",
+  "name": "Junior minister",
+  "cls": "Minister",
   "party": [
    [
     "spitzen",
@@ -1550,8 +1550,8 @@
     45
    ]
   ],
-  "intro": "Je suis ministre depuis… ce matin. Débattons avant le prochain remaniement.",
-  "defeat": "Remanié !",
+  "intro": "I've been a minister since… this morning. Let's debate before the next reshuffle.",
+  "defeat": "Reshuffled!",
   "win": "",
   "sprite": "depute",
   "portrait": null,
@@ -1562,7 +1562,7 @@
  {
   "id": "macron",
   "name": "Emmanuel Macron",
-  "cls": "Champion d'arène",
+  "cls": "Arena champion",
   "party": [
    [
     "erasmusplus",
@@ -1585,9 +1585,9 @@
     48
    ]
   ],
-  "intro": "Bienvenue à la Sorbonne ! Ici, j'ai parlé d'Europe souveraine en 2017… et en 2024. Je vais vous parler pendant deux heures. Et en même temps, débattre.",
-  "defeat": "Formidable ! Vous incarnez l'autonomie stratégique. Prenez le Badge Sorbonne… et en même temps, mes félicitations.",
-  "win": "Je dissous… votre équipe !",
+  "intro": "Welcome to the Sorbonne! Here, I spoke about a sovereign Europe in 2017… and in 2024. I'll talk to you for two hours. And at the same time, debate.",
+  "defeat": "Wonderful! You embody strategic autonomy. Take the Sorbonne Badge… and at the same time, my congratulations.",
+  "win": "I dissolve… your team!",
   "sprite": "macron",
   "portrait": "macron",
   "money": 180,
@@ -1597,7 +1597,7 @@
  {
   "id": "merkel",
   "name": "Angela Merkel",
-  "cls": "Conseil européen",
+  "cls": "European Council",
   "party": [
    [
     "austerix",
@@ -1620,8 +1620,8 @@
     52
    ]
   ],
-  "intro": "Wir schaffen das. Ensemble, on y arrivera. Mais d'abord, vous devez me battre. Prenez votre temps : j'ai seize ans d'expérience.",
-  "defeat": "Vous avez réussi. Wir haben es geschafft.",
+  "intro": "Wir schaffen das. Together, we'll get there. But first, you have to beat me. Take your time: I have sixteen years of experience.",
+  "defeat": "You did it. Wir haben es geschafft.",
   "win": "",
   "sprite": "merkel",
   "portrait": "merkel",
@@ -1632,7 +1632,7 @@
  {
   "id": "draghi",
   "name": "Mario Draghi",
-  "cls": "Conseil européen",
+  "cls": "European Council",
   "party": [
    [
     "eurozone",
@@ -1655,8 +1655,8 @@
     54
    ]
   ],
-  "intro": "Je ferai tout ce qu'il faut pour gagner ce débat. Whatever it takes. Et croyez-moi : ce sera suffisant.",
-  "defeat": "Mon rapport recommandait 800 milliards d'investissements par an. Investissez-les dans votre équipe.",
+  "intro": "I'll do whatever it takes to win this debate. Whatever it takes. And believe me: it will be enough.",
+  "defeat": "My report recommended 800 billion of investment a year. Invest it in your team.",
   "win": "",
   "sprite": "draghi",
   "portrait": "draghi",
@@ -1667,7 +1667,7 @@
  {
   "id": "kallas",
   "name": "Kaja Kallas",
-  "cls": "Conseil européen",
+  "cls": "European Council",
   "party": [
    [
     "schengeon",
@@ -1690,8 +1690,8 @@
     54
    ]
   ],
-  "intro": "Haute représentante pour les affaires étrangères. Ma diplomatie est ferme. Mon bouclier balte, aussi.",
-  "defeat": "Une victoire nette. L'Europe aura besoin de gens comme vous face au reste du monde.",
+  "intro": "High Representative for Foreign Affairs. My diplomacy is firm. So is my Baltic shield.",
+  "defeat": "A clear victory. Europe will need people like you facing the rest of the world.",
   "win": "",
   "sprite": "kallas",
   "portrait": "kallas",
@@ -1702,7 +1702,7 @@
  {
   "id": "costa",
   "name": "António Costa",
-  "cls": "Président du Conseil européen",
+  "cls": "President of the European Council",
   "party": [
    [
     "interpreton",
@@ -1729,8 +1729,8 @@
     55
    ]
   ],
-  "intro": "Il est 23 h 59. Mon objectif : finir ce sommet avant minuit. Pour la première fois de l'histoire !",
-  "defeat": "Il est… 4 h 37 du matin. Comme d'habitude. Bravo, vous pouvez monter au Berlaymont.",
+  "intro": "It's 11:59 p.m. My goal: finish this summit before midnight. For the first time in history!",
+  "defeat": "It's… 4:37 in the morning. As usual. Well done, you may go up to the Berlaymont.",
   "win": "",
   "sprite": "costa",
   "portrait": "costa",
@@ -1741,7 +1741,7 @@
  {
   "id": "vdl",
   "name": "Ursula von der Leyen",
-  "cls": "Présidente de la Commission",
+  "cls": "President of the Commission",
   "party": [
    [
     "neutralis",
@@ -1768,9 +1768,9 @@
     58
    ]
   ],
-  "intro": "Bienvenue au treizième étage du Berlaymont. J'habite ici, vous savez : j'ai une chambre à côté de mon bureau. Alors, voyons si vous méritez la directive.",
-  "defeat": "Team Europe… Vous êtes le meilleur stagiaire que la Commission ait jamais eu. La directive sur l'heure est à vous !",
-  "win": "Je vous enverrai un SMS. Ou peut-être pas.",
+  "intro": "Welcome to the thirteenth floor of the Berlaymont. I live here, you know: I have a bedroom next to my office. So, let's see whether you deserve the directive.",
+  "defeat": "Team Europe… You're the best intern the Commission has ever had. The clock directive is yours!",
+  "win": "I'll send you a text. Or maybe not.",
   "sprite": "vdl",
   "portrait": "vdl",
   "money": 300,
@@ -1780,7 +1780,7 @@
  {
   "id": "vance_t",
   "name": "JD Vance",
-  "cls": "Vice-président",
+  "cls": "Vice-President",
   "party": [
    [
     "fakeon",
@@ -1795,8 +1795,8 @@
     57
    ]
   ],
-  "intro": "Je suis venu à Munich vous expliquer la démocratie. Maintenant, je viens à Anvers vous expliquer le débat.",
-  "defeat": "Bon. Je retourne écrire un discours.",
+  "intro": "I came to Munich to explain democracy to you. Now I've come to Antwerp to explain debating.",
+  "defeat": "Right. I'm going back to writing a speech.",
   "win": "",
   "sprite": "vance",
   "portrait": "vance",
@@ -1807,7 +1807,7 @@
  {
   "id": "trump",
   "name": "Donald Trump",
-  "cls": "Président américain",
+  "cls": "US President",
   "party": [
    [
     "tarifaux",
@@ -1834,9 +1834,9 @@
     62
    ]
   ],
-  "intro": "TREMENDOUS ! Le plus beau débat de tous les temps, tout le monde le dit. Je mets 200 % de droits de douane sur vos Euromons. Peut-être 15. On verra.",
-  "defeat": "C'ÉTAIT TRUQUÉ ! Bon… on fait un deal. 15 %. C'est mon dernier mot. Pour aujourd'hui.",
-  "win": "J'ai gagné ! Comme toujours ! Personne ne gagne mieux que moi.",
+  "intro": "TREMENDOUS! The most beautiful debate of all time, everybody says so. I'm putting 200% tariffs on your Euromons. Maybe 15. We'll see.",
+  "defeat": "IT WAS RIGGED! Fine… let's make a deal. 15%. That's my final word. For today.",
+  "win": "I won! As always! Nobody wins better than me.",
   "sprite": "trump",
   "portrait": "trump",
   "money": 300,
@@ -1845,8 +1845,8 @@
  },
  {
   "id": "putin",
-  "name": "Vladimir Poutine",
-  "cls": "Président russe",
+  "name": "Vladimir Putin",
+  "cls": "Russian President",
   "party": [
    [
     "gazoduc",
@@ -1873,9 +1873,9 @@
     62
    ]
   ],
-  "intro": "Asseyez-vous. Non, plus loin. Encore plus loin. Voilà. À six mètres, la conversation est plus… stratégique. Vos attaques mettront un tour à arriver.",
-  "defeat": "Le gaz… est coupé… de mon côté. Intéressant.",
-  "win": "L'hiver vient. Pour vous.",
+  "intro": "Sit down. No, further away. Even further. There. At six metres, the conversation is more… strategic. Your attacks will take a turn to arrive.",
+  "defeat": "The gas… has been cut off… on my side. Interesting.",
+  "win": "Winter is coming. For you.",
   "sprite": "putin",
   "portrait": "putin",
   "money": 300,
@@ -1885,7 +1885,7 @@
  {
   "id": "xi",
   "name": "Xi Jinping",
-  "cls": "Président chinois",
+  "cls": "Chinese President",
   "party": [
    [
     "pandiplo",
@@ -1912,9 +1912,9 @@
     62
    ]
   ],
-  "intro": "Bienvenue. Nous sommes partenaires. Et concurrents. Et rivaux systémiques. Tout dépend du tour.",
-  "defeat": "Hmm. Un partenaire à respecter. Je retire les contrôles sur les terres rares… pour l'instant.",
-  "win": "Contenu indisponible dans votre région.",
+  "intro": "Welcome. We are partners. And competitors. And systemic rivals. It depends on the turn.",
+  "defeat": "Hmm. A partner to be respected. I'm lifting the controls on rare earths… for now.",
+  "win": "Content unavailable in your region.",
   "sprite": "xi",
   "portrait": "xi",
   "money": 300,
@@ -1924,7 +1924,7 @@
  {
   "id": "trump_final",
   "name": "Donald Trump",
-  "cls": "Sommet G-Tout",
+  "cls": "G-Everything Summit",
   "party": [
    [
     "tarifator",
@@ -1939,8 +1939,8 @@
     64
    ]
   ],
-  "intro": "MOI D'ABORD. Le sommet, c'est mon idée. Enfin, je crois.",
-  "defeat": "Sad !",
+  "intro": "ME FIRST. The summit was my idea. Well, I think so.",
+  "defeat": "Sad!",
   "win": "",
   "sprite": "trump",
   "portrait": "trump",
@@ -1950,8 +1950,8 @@
  },
  {
   "id": "putin_final",
-  "name": "Vladimir Poutine",
-  "cls": "Sommet G-Tout",
+  "name": "Vladimir Putin",
+  "cls": "G-Everything Summit",
   "party": [
    [
     "gazoduc",
@@ -1966,7 +1966,7 @@
     64
    ]
   ],
-  "intro": "Je préférais la longue table.",
+  "intro": "I preferred the long table.",
   "defeat": "…",
   "win": "",
   "sprite": "putin",
@@ -1978,7 +1978,7 @@
  {
   "id": "xi_final",
   "name": "Xi Jinping",
-  "cls": "Sommet G-Tout",
+  "cls": "G-Everything Summit",
   "party": [
    [
     "terrara",
@@ -1993,8 +1993,8 @@
     65
    ]
   ],
-  "intro": "Le dernier mot sera… systémique.",
-  "defeat": "Nous reparlerons dans cinquante ans.",
+  "intro": "The last word will be… systemic.",
+  "defeat": "We will talk again in fifty years.",
   "win": "",
   "sprite": "xi",
   "portrait": "xi",

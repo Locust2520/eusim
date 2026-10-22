@@ -8,4 +8,4 @@ cat = [e for e in json.load(open(os.path.join(ROOT, 'assets/i18n/catalog.json'),
 for code in sys.argv[1:]:
     tr = mklang.load(code)
     miss = [e for e in cat if e['id'] not in tr]
-    print(code, len(miss), ' | '.join(f"{e['id']}:{e['fr'][:22]}" for e in miss))
+    print(code, len(miss), ' | '.join(f"{e['id']}:{e['en'][:22]}" for e in miss))

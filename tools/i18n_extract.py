@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Collect every French string the player can see into assets/i18n/catalog.json.
+"""Collect every English (source language) string the player can see into assets/i18n/catalog.json.
 
 Sources: script strings, on-screen C string literals, game data and map names.
-Each entry has a stable id, French source text and source context. Translations live in
-assets/i18n/<code>*.txt as id/text lines; tools/mklang.py validates placeholders and English coverage.
+Each entry has a stable id, English source text and source context. Translations live in
+assets/i18n/<code>*.txt as id/text lines (French included); tools/mklang.py validates placeholders.
 """
 import glob
 import json
@@ -19,9 +19,9 @@ C_SKIP = {'neutral', 'happy', 'angry', 'surprised', 'worried', 'sulk', 'schuman'
           'victory_trainer', 'victory_wild', 'battle_trainer', 'battle_legend', 'battle_wild', 'SLD1', 'ICN1',
           'BGI1', 'BMP8', 'MAP1', 'UESU', 'SCR1', 'LNG1', 'scripts.bin', '%s.probe', '%s.tmp', '/eusim', '(trump)',
           'EUL1', 'EUN2', 'EU Simulator %.12s',
-          'Oliver', 'Alex', 'Max', 'EU SIMULATOR', 'Zz', 'z', 'OK', 'Eurodex', 'EXP', 'ERREUR FATALE',
+          'Oliver', 'Alex', 'Max', 'EU SIMULATOR', 'Zz', 'z', 'OK', 'Eurodex', 'EXP', 'FATAL ERROR',
           '%s_slot%d.sav', 'sd:/eusim', 'fat:/eusim', '-Wformat-nonliteral', 'P', 'R', 'M', '…'}
-C_SKIP_FILES = {'source/keyboard.c': {11, 12}, 'source/lang.c': None, 'source/compat.c': None, 'source/langpick.c': None,
+C_SKIP_FILES = {'source/keyboard.c': {13, 14, 15, 16}, 'source/lang.c': None, 'source/compat.c': None, 'source/langpick.c': None,
                 'source/mg_langs.c': None}
 
 
@@ -111,7 +111,7 @@ def map_names():
 def main():
     # ids are stable: existing entries keep theirs, new strings are appended, vanished ones are flagged
     old = json.load(open(OUT, encoding='utf-8')) if os.path.exists(OUT) else []
-    by_text = {e['fr']: e for e in old}
+    by_text = {e['en']: e for e in old}
     cat = list(old)
     for e in cat:
         e['used'] = False
@@ -120,18 +120,18 @@ def main():
             continue
         e = by_text.get(s)
         if e is None:
-            e = {'id': len(cat), 'fr': s, 'ctx': ctx}
+            e = {'id': len(cat), 'en': s, 'ctx': ctx}
             by_text[s] = e
             cat.append(e)
         e['used'] = True
         e['ctx'] = e.get('ctx') or ctx
     json.dump(cat, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
     used = [e for e in cat if e['used']]
-    print('catalogue', len(used), 'strings', sum(len(e['fr']) for e in used), 'chars')
+    print('catalogue', len(used), 'strings', sum(len(e['en']) for e in used), 'chars')
     # compact listing for translators: id<TAB>text (\n and \f escaped)
     with open(os.path.join(ROOT, 'assets', 'i18n', 'catalog.txt'), 'w', encoding='utf-8') as f:
         for e in used:
-            f.write(f"{e['id']}\t{e['fr']}".replace('\n', '\\n').replace('\f', '\\f') + '\n')
+            f.write(f"{e['id']}\t{e['en']}".replace('\n', '\\n').replace('\f', '\\f') + '\n')
 
 
 if __name__ == '__main__':

@@ -58,7 +58,7 @@ static int mon_max_hp(Mon *m) { return 20 + m->species; }
 ''' + function('source/mon.c', 'int mon_learn(Mon *m, int move)') + r'''
 static int dlg_choice(const char **opts, int count, bool cancellable) {
     assert(count == 5 && cancellable);
-    assert(strcmp(opts[4], "Ne pas apprendre") == 0);
+    assert(strcmp(opts[4], "Don't learn it") == 0);
     for (int i = 0; i < 4; i++)
         assert(strcmp(opts[i], moves[i].name) == 0);
     choices++;

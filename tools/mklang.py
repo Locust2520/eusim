@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """Build nitrofs/lang/<code>.bin from assets/i18n/catalog.json + assets/i18n/<code>.txt.
 
-<code>.txt: one "id<TAB>translation" per line, \\n and \\f written as backslash sequences. Lines starting
-with '#' are comments. Each translation is checked against its French source: same printf conversions in
-the same order, same {P}/{V0}.. placeholders. Invalid or empty translations fall back to English.
-Incomplete English fails the build.
+English is the source language: it has no table, and the game shows the English source for any missing or
+invalid translation. French is an ordinary translation (fr-*.txt).
 
-.bin: 'LNG1', u32 n, n x (u32 fnv1a(French), u32 offset) sorted by hash, then NUL-terminated UTF-8 strings.
+<code>.txt: one "id<TAB>translation" per line, \\n and \\f written as backslash sequences. Lines starting
+with '#' are comments. Each translation is checked against its English source: same printf conversions in
+the same order, same {P}/{V0}.. placeholders. Invalid or empty translations are left out (English shows).
+
+.bin: 'LNG1', u32 n, n x (u32 fnv1a(English), u32 offset) sorted by hash, then NUL-terminated UTF-8 strings.
 """
 import glob
 import json
@@ -59,10 +61,10 @@ def load_file(path, code):
     return tr
 
 
-def check(fr, t):
-    if FMT.findall(fr) != FMT.findall(t):
+def check(src, t):
+    if FMT.findall(src) != FMT.findall(t):
         return 'printf conversions differ'
-    if sorted(PH.findall(fr)) != sorted(PH.findall(t)):
+    if sorted(PH.findall(src)) != sorted(PH.findall(t)):
         return 'placeholders differ'
     return None
 
@@ -75,17 +77,17 @@ def validated_translations(code, by_id, fallback=None, require_complete=False):
         entry = by_id.get(i)
         if not entry:
             continue
-        err = check(entry['fr'], t) if t.strip() else 'empty translation'
+        err = check(entry['en'], t) if t.strip() else 'empty translation'
         if err:
             bad.append(f'{code} #{i}: {err}')
         else:
             translations[i] = t
     missing = sorted(set(by_id) - set(translations))
     if require_complete and (bad or missing):
-        details = bad + [f'{code} #{i}: missing translation: {by_id[i]["fr"]!r}' for i in missing]
+        details = bad + [f'{code} #{i}: missing translation: {by_id[i]["en"]!r}' for i in missing]
         raise ValueError('\n'.join(details))
     for err in bad:
-        print(err + '; using English', file=sys.stderr)
+        print(err + '; English shown instead', file=sys.stderr)
     return translations, len(set(own) & set(by_id)), len(bad)
 
 
@@ -93,15 +95,14 @@ def main():
     with open(os.path.join(I18N, 'catalog.json'), encoding='utf-8') as source:
         cat = json.load(source)
     by_id = {e['id']: e for e in cat if e.get('used', True)}
-    en, _, _ = validated_translations('en', by_id, require_complete=True)
     os.makedirs(OUT, exist_ok=True)
     report = []
     codes = sorted({c for c in (os.path.basename(p)[:-4].split('-')[0] for p in glob.glob(os.path.join(I18N, '*.txt')))
-                    if re.fullmatch(r'[a-z]{2}', c)})
+                    if re.fullmatch(r'[a-z]{2}', c) and c != 'en'})
     for code in codes:
-        translations, own, bad = validated_translations(code, by_id, en if code != 'fr' else None)
-        # Include identity translations: they intentionally override the English fallback.
-        entries = [(fnv(by_id[i]['fr'].encode('utf-8')), t.encode('utf-8') + b'\0')
+        translations, own, bad = validated_translations(code, by_id)
+        # Identity translations (proper names…) are kept: they document that the text was reviewed.
+        entries = [(fnv(by_id[i]['en'].encode('utf-8')), t.encode('utf-8') + b'\0')
                    for i, t in translations.items()]
         entries.sort()
         hashes = [h for h, _ in entries]

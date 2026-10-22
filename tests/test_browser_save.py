@@ -48,9 +48,9 @@ int main(void) {
     browser_save_init();
     assert(sizeof(SaveData)==4600);
     assert(!save_available() && backend==BK_NONE && g_frame==75);
-    assert(!strcmp(save_backend(),"aucune"));
+    assert(!strcmp(save_backend(),"none"));
     browser.ready=1;
-    assert(save_available() && !strcmp(save_backend(),"navigateur"));
+    assert(save_available() && !strcmp(save_backend(),"browser"));
     SlotInfo info;
     for(int i=0;i<3;i++) assert(!save_slot_info(i,&info));
     SaveData originals[3];

@@ -91,7 +91,7 @@ void game_main(void)
             if (slot < 0)
                 continue;
             if (!save_load(slot)) {
-                dlg_notice("Sauvegarde illisible !");
+                dlg_notice("Unreadable save file!");
                 continue;
             }
         }

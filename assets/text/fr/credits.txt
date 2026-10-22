@@ -1,26 +1,26 @@
 # EU SIMULATOR
-The internship of your life
+Le stage de ta vie
 
-An unofficial parody game.
-No affiliation with the European Union,
-its institutions, or Nintendo.
+Jeu parodique non officiel.
+Aucune affiliation avec l'Union européenne,
+ses institutions, ni avec Nintendo.
 
-# Design and programming
-The EU Simulator contributors
-with l'Ordinatrice (AI assistant)
+# Conception, programmation
+Les contributeurs d'EU Simulator
+avec l'Ordinatrice (assistante IA)
 
-# Engine
+# Moteur
 C + libnds, BlocksDS (zlib, MIT, CC0)
-Tested in melonDS
+Testé sous melonDS
 
-# Music
-Tracks generated with BeepLoop
-Ode to Joy: L. van Beethoven (public domain)
-Sound effects: custom PSG synthesis
+# Musique
+Morceaux générés avec BeepLoop
+Ode à la joie : L. van Beethoven (domaine public)
+Effets sonores : synthèse PSG maison
 
-# Fonts (SIL Open Font License 1.1)
-Mona menu icons — Monad ABXY, © 2025
-Source font under SIL OFL 1.1
+# Polices (SIL Open Font License 1.1)
+Icônes de menu Mona — Monad ABXY, © 2025
+Police source sous SIL OFL 1.1
 https://github.com/MonadABXY/mona-font
 Handjet — David Březina, Rosetta
 Galmuri — Lee Minseo (quiple)
@@ -28,17 +28,17 @@ Pixelify Sans — Stefie Justprince
 Jersey 10 — Sarah Cadigan-Fried
 
 # Illustrations
-Cutscenes, backgrounds and portraits
-generated with AI (OpenAI), retouched
-and pixelated for the game
+Cinématiques, fonds et portraits
+générés par IA (OpenAI), retouchés
+et pixellisés pour le jeu
 
-# Map of Europe
-Natural Earth (public domain)
+# Carte de l'Europe
+Natural Earth (domaine public)
 
 # Portraits
-AI-generated pixel art caricatures
-based on freely licensed photographs
-(derivative works, same licences):
+Caricatures pixel art générées par IA
+à partir de photos sous licence libre
+(œuvres dérivées, mêmes licences) :
 
 Michel Barnier — Florian David Pm
 (CC BY-SA 4.0, Wikimedia Commons)
@@ -120,36 +120,38 @@ Guy Verhofstadt — European Parliament
 Margrethe Vestager — Christian Ursilva
 (CC BY-SA 4.0, Wikimedia Commons)
 
-No reference photograph: Bardella, Breton,
-Erdoğan, Musk, Putin, Rutte, Tusk, Vance,
+Sans photo de référence : Bardella, Breton,
+Erdoğan, Musk, Poutine, Rutte, Tusk, Vance,
 Xi Jinping, Zelensky
 
-# Euromons, scenery and characters
-Procedural pixel art
+# Euromons, décors et personnages
+Pixel art procédural
 
-# Trees, bushes, rocks and flowers
-Tuxemon "Core Outdoor Nature":
+# Arbres, buissons, rochers, fleurs
+Tuxemon « Core Outdoor Nature » :
 rubberduck, Buch, luke83, Past the Future,
 George_, Midi (CC BY-SA 4.0 / CC BY 3.0),
-recoloured for the game (CC BY-SA 4.0)
+recolorés pour le jeu (CC BY-SA 4.0)
 
 # Licence
-Free software: code under GNU GPL v3,
-images, music and text under CC BY-SA 4.0.
-You may modify and share the game,
-provided it remains free.
-Details: CREDITS.md and LICENSE.
+Jeu libre : code sous GNU GPL v3,
+images, musique et textes sous CC BY-SA 4.0.
+Vous pouvez le modifier et le partager,
+à condition qu'il reste libre.
+Détail : CREDITS.md et LICENSE.
 
-# Disclaimer
-Real people are caricatured based on
-their public actions and statements.
-Anyone implicated in a legal case
-is presumed innocent until a final
-conviction has been handed down.
+# Avertissement
+Les personnalités réelles sont caricaturées
+à partir de leurs actes et déclarations publics.
+Toute personne mise en cause dans une affaire
+judiciaire est présumée innocente tant qu'elle
+n'a pas été définitivement condamnée.
 
-# Thanks
+# Remerciements
 Robert Schuman, Jean Monnet,
-and the 27 countries still debating.
+et les 27 pays qui débattent encore.
 
-# And the clock-change directive?
-Still in committee.
+# Et la directive sur l'heure ?
+Toujours en comité.
+
+

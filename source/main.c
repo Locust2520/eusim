@@ -99,7 +99,7 @@ void fatal(const char *fmt, ...)
     gfx_brightness(false, 0);
     gfx_brightness(true, 0);
     canvas_clear(&g_bot, C_RED_D);
-    canvas_text(&g_bot, &font_small, 4, 4, "ERREUR FATALE", C_WHITE, 0);
+    canvas_text(&g_bot, &font_small, 4, 4, "FATAL ERROR", C_WHITE, 0);
     canvas_text(&g_bot, &font_small, 4, 20, buf, C_WHITE, 0);
     while (1) {
         swiWaitForVBlank();
@@ -124,7 +124,7 @@ int main(int argc, char **argv)
     irqSet(IRQ_VBLANK, vblank_irq);
     irqEnable(IRQ_VBLANK);
     if (!fs_init())
-        fatal("NitroFS introuvable.\nLancez la ROM depuis une carte\nou un émulateur récent.");
+        fatal("NitroFS not found.\nStart the ROM from a flashcard\nor a recent emulator.");
     script_init();
     save_new_game();
     frame_hook_add(portrait_update);

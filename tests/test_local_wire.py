@@ -89,7 +89,7 @@ bool failed(const char *s){error=s;return false;}
         source += r'''
 int main(void){
  dsi=true;assert(prepare_wifi(false));assert(flags_seen==8);assert(wifi_dsi);assert(internet_calls==1);
- assert(!prepare_wifi(true));assert(strstr(error,"Redémarrez"));assert(init_calls==1);
+ assert(!prepare_wifi(true));assert(strstr(error,"Restart"));assert(init_calls==1);
  wifi_initialized=false;assert(prepare_wifi(true));assert(flags_seen==4);assert(!wifi_dsi);assert(wifi_local_only);
  assert(!prepare_wifi(false));assert(init_calls==2);
  wifi_initialized=false;dsi=false;assert(prepare_wifi(false));assert(flags_seen==8);assert(!wifi_dsi);

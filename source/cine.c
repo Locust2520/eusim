@@ -106,9 +106,9 @@ static void bottom_panel(void)
 {
     ui_backdrop(&g_bot);
     ui_panel(&g_bot, 16, 54, 224, 70, true);
-    ui_text_in(&g_bot, &font_small, 16, 60, 224, 16, "— CINÉMATIQUE —", C_GOLD_D, C_INK, 0);
+    ui_text_in(&g_bot, &font_small, 16, 60, 224, 16, "— CUTSCENE —", C_GOLD_D, C_INK, 0);
     ui_text_wrapped(&g_bot, &font_main, 24, 78, 208, title, C_GOLD, C_INK);
-    ui_text_in(&g_bot, &font_small, 0, 160, 256, 14, "A : suivant    START : passer", C_BTN_LO, C_INK, 0);
+    ui_text_in(&g_bot, &font_small, 0, 160, 256, 14, "A: next    START: skip", C_BTN_LO, C_INK, 0);
 }
 
 // Load slides/<name>.sld (or the _alex/_max variant for the player's gender) into the bitmap.

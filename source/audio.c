@@ -810,22 +810,22 @@ void audio_tick(void)
 // Order = jukebox order. The "heard" bits live in the save (vars 60..63), so the jukebox only lists
 // what the player has already met in the game.
 const MusicInfo g_music_list[] = {
-    {"title", "Écran titre"}, {"intro", "Le professeur Schuman"}, {"labo", "Le laboratoire"},
-    {"home", "Ton studio"}, {"bruxelles", "Bruxelles"}, {"cantine", "La cantine"}, {"shop", "La boutique"},
-    {"gare", "La gare"}, {"route", "Sur la route"}, {"battle_wild", "Combat : Euromon sauvage"},
-    {"encounter", "Regard croisé"}, {"battle_trainer", "Combat : dresseur"}, {"rival", "Combat : Oliver"},
-    {"victory", "Victoire"}, {"victory_wild", "Victoire (sauvage)"}, {"victory_trainer", "Victoire (dresseur)"},
-    {"evolution", "Évolution"}, {"luxembourg", "Luxembourg"}, {"gym", "L'arène"},
-    {"battle_gym", "Combat : arène"}, {"gym_leader", "Combat : chef d'arène"}, {"schengen", "Schengen"},
-    {"francfort", "Francfort"}, {"strasbourg", "Strasbourg"}, {"minigame", "Mini-jeu"},
-    {"athenes", "Athènes"}, {"londres", "Londres"}, {"sad", "Au revoir, Oliver"}, {"budapest", "Budapest"},
-    {"lobby", "La Team Lobby"}, {"boss", "Combat : boss"}, {"ghost", "L'aile fantôme"}, {"paris", "Paris"},
-    {"council_hall", "Le Conseil européen"}, {"council", "Combat : Conseil"},
-    {"champion_hall", "Le 13ᵉ étage"}, {"champion", "Combat : la Présidente"},
-    {"powers_map", "Les Grandes Puissances"}, {"trump", "Anvers"}, {"putin", "Varsovie"}, {"xi", "Le Pirée"},
-    {"powers", "Combat : Grandes Puissances"}, {"sommet_hall", "Le Sommet G-Tout"}, {"final", "Combat final"},
-    {"ending", "Épilogue"}, {"legend", "Lieux légendaires"}, {"battle_legend", "Combat : légendaire"},
-    {"battle_final", "Combat final (variante)"},
+    {"title", "Title screen"}, {"intro", "Meet Professor Schuman"}, {"labo", "The laboratory"},
+    {"home", "Your studio"}, {"bruxelles", "Brussels"}, {"cantine", "The canteen"}, {"shop", "The shop"},
+    {"gare", "The station"}, {"route", "On the road"}, {"battle_wild", "Battle: wild Euromon"},
+    {"encounter", "Eye contact"}, {"battle_trainer", "Battle: trainer"}, {"rival", "Battle: Oliver"},
+    {"victory", "Victory"}, {"victory_wild", "Victory (wild)"}, {"victory_trainer", "Victory (trainer)"},
+    {"evolution", "Evolution"}, {"luxembourg", "Luxembourg"}, {"gym", "The arena"},
+    {"battle_gym", "Battle: arena"}, {"gym_leader", "Battle: arena leader"}, {"schengen", "Schengen"},
+    {"francfort", "Frankfurt"}, {"strasbourg", "Strasbourg"}, {"minigame", "Minigame"},
+    {"athenes", "Athens"}, {"londres", "London"}, {"sad", "Goodbye, Oliver"}, {"budapest", "Budapest"},
+    {"lobby", "The Team Lobby"}, {"boss", "Battle: boss"}, {"ghost", "The ghost wing"}, {"paris", "Paris"},
+    {"council_hall", "The European Council"}, {"council", "Battle: Council"},
+    {"champion_hall", "The 13th floor"}, {"champion", "Battle: the President"},
+    {"powers_map", "The Great Powers"}, {"trump", "Antwerp"}, {"putin", "Warsaw"}, {"xi", "Piraeus"},
+    {"powers", "Battle: Great Powers"}, {"sommet_hall", "The G-Everything Summit"}, {"final", "Final battle"},
+    {"ending", "Epilogue"}, {"legend", "Legendary places"}, {"battle_legend", "Battle: legendary"},
+    {"battle_final", "Final battle (variant)"},
 };
 const int g_music_count = sizeof g_music_list / sizeof g_music_list[0];
 

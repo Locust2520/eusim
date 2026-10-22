@@ -1,77 +1,77 @@
 # ---------------------------------------------------------------- Athènes
 script ath_sign
-  say - "Athènes. Berceau de la démocratie, de la philosophie… et du référendum du 5 juillet 2015."
+  say - "Athens. Cradle of democracy, of philosophy… and of the referendum of 5 July 2015."
 end
 script ath_touriste
-  say "Touriste" "L'Acropole a 2 500 ans. Elle a survécu aux Perses, aux Ottomans et à la Troïka."
+  say "Tourist" "The Acropolis is 2,500 years old. It survived the Persians, the Ottomans and the Troika."
 end
 script piree_guard
-  say "Douanier grec" "Le port du Pirée ? Fermé aux visiteurs. Il appartient à… des partenaires. Très partenaires."
+  say "Greek customs officer" "The port of Piraeus? Closed to visitors. It belongs to… partners. Very much partners."
 end
 script piree_block
-  say "Douanier grec" "Désolé, accès au port réservé. Revenez quand la situation sera… plus diplomatique."
+  say "Greek customs officer" "Sorry, port access is restricted. Come back when the situation is… more diplomatic."
   move player "D"
 end
 script gym4_t1
-  say "Nikos" "En 2015, j'ai voté OXI. Et après… c'est compliqué."
+  say "Nikos" "In 2015, I voted OXI. And afterwards… it's complicated."
 end
 script gym4_t2
-  say "Agent Troïka (BCE)" "Notre rapport recommande encore plus de rigueur. Même pour vos Euromons."
+  say "Troika agent (ECB)" "Our report recommends even more austerity. Even for your Euromons."
 end
 script gym4_t3
-  say "Agent Troïka (FMI)" "Nous reconnaissons quelques erreurs dans nos prévisions. Entre nous."
+  say "Troika agent (IMF)" "We acknowledge a few errors in our forecasts. Between us."
 end
 script gym4_leader
   if flag BADGE_4 goto apres
   show R varoufakis neutral
-  say "Yanis Varoufakis" "Tu viens pour un badge ? Je suis arrivé ici à moto, en blouson de cuir, sans cravate. Comme aux réunions de l'Eurogroupe en 2015."
+  say "Yanis Varoufakis" "Here for a badge? I came here by motorbike, in a leather jacket, no tie. Like at the Eurogroup meetings in 2015."
   expr R happy
-  say "Yanis Varoufakis" "Ministre des Finances pendant six mois. J'ai démissionné après le référendum : 61 % pour le OXI. La démocratie est belle, et têtue."
+  say "Yanis Varoufakis" "Finance minister for six months. I resigned after the referendum: 61% for OXI. Democracy is beautiful, and stubborn."
   expr R angry
-  say "Yanis Varoufakis" "La Troïka m'attendait au tournant. Toi, tu as battu ses agents. Montre-moi si tu es plus fort que l'austérité !"
+  say "Yanis Varoufakis" "The Troika was waiting for me. You beat its agents. Show me if you're stronger than austerity!"
   close
   hide all
   battle varoufakis
   show R varoufakis happy
-  say "Yanis Varoufakis" "NAI ! Euh, je veux dire : bravo. Voici le Badge OXI, camarade."
+  say "Yanis Varoufakis" "NAI! Er, I mean: well done. Here's the OXI Badge, comrade."
   badge 4
   setflag TRAIN_LONDRES
   chapter 5
-  say "Yanis Varoufakis" "Ton prochain badge est à Londres. Mais dépêche-toi : là-bas, on parle de plus en plus d'une certaine porte de sortie."
+  say "Yanis Varoufakis" "Your next badge is in London. But hurry: over there, there's more and more talk of a certain exit door."
   goto fin
 :apres
   show R varoufakis happy
-  say "Yanis Varoufakis" "Je repars donner une conférence. Sur la dette. À moto."
+  say "Yanis Varoufakis" "I'm off to give another lecture. On debt. On a motorbike."
 :fin
 end
 
 # ---------------------------------------------------------------- Londres (Brexit)
 script lon_sign
-  say - "Westminster. Ici, le 23 juin 2016, le Royaume-Uni a voté à 51,9 % pour quitter l'Union européenne."
+  say - "Westminster. Here, on 23 June 2016, the United Kingdom voted by 51.9% to leave the European Union."
 end
 script lon_garde
-  say "Garde royal" "…"
-  say "Garde royal" "…"
-  say "Garde royal" "(Il ne bouge pas. Même pour le Brexit.)"
+  say "Royal guard" "…"
+  say "Royal guard" "…"
+  say "Royal guard" "(He doesn't move. Not even for Brexit.)"
 end
 script gym5_t1
-  say "Rédacteur en chef" "Demain, on titre sur les concombres trop droits. Ça a marché pendant vingt ans."
+  say "Editor-in-chief" "Tomorrow's headline: cucumbers that are too straight. It's worked for twenty years."
 end
 script gym5_johnson
   show R johnson happy
-  say "Boris Johnson" "Dans les années 1990, j'étais correspondant à Bruxelles pour le Daily Telegraph. J'ai écrit des choses… imaginatives. Get Brexit done !"
+  say "Boris Johnson" "In the 1990s, I was the Daily Telegraph's Brussels correspondent. I wrote some… imaginative things. Get Brexit done!"
 end
 script gym5_leader
   if flag BADGE_5 goto apres
   show R farage happy
-  say "Nigel Farage" "Bienvenue au pub ! Une pinte ? Moi, j'ai passé vingt ans au Parlement européen à expliquer qu'il ne fallait pas y être."
+  say "Nigel Farage" "Welcome to the pub! A pint? I spent twenty years in the European Parliament explaining that we shouldn't be there."
   expr R angry
-  say "Nigel Farage" "Le 28 juin 2016, j'ai lancé aux eurodéputés : « Vous ne riez plus maintenant, hein ? ». Ils n'ont pas ri. Toi non plus, tu ne vas pas rire."
+  say "Nigel Farage" "On 28 June 2016, I told the MEPs: “You're not laughing now, are you?” They didn't laugh. You won't laugh either."
   close
   hide all
   battle farage
   show R farage worried
-  say "Nigel Farage" "Bon. Vous avez gagné. Prenez ce Badge Article 50. Nous, on l'a déjà utilisé."
+  say "Nigel Farage" "Right. You won. Take this Article 50 Badge. We've already used ours."
   badge 5
   chapter 6
   hide all
@@ -79,7 +79,7 @@ script gym5_leader
   goto fin
 :apres
   show R farage happy
-  say "Nigel Farage" "Vous êtes encore là ? On a quitté, vous savez."
+  say "Nigel Farage" "Still here? We've left, you know."
 :fin
 end
 
@@ -90,7 +90,7 @@ script brexit_event
   music sad
   call cine_brexit
   show L oliver worried
-  say "Oliver" "Je dois rentrer. Je n'ai plus le droit d'être stagiaire au Parlement. Mais avant… un dernier débat. Pour l'honneur."
+  say "Oliver" "I have to go home. I'm no longer allowed to be an intern at Parliament. But before that… one last debate. For honour."
   close
   hide all
   if var STARTER == 1 goto c
@@ -104,62 +104,62 @@ script brexit_event
   battle oliver4_a nolose
 :fin
   show L oliver worried
-  say "Oliver" "Merci, {P}. Garde un œil sur la directive pour moi. Et sur l'heure d'été. Chez nous, on ne la changera jamais, bien sûr."
-  say "Oliver" "Goodbye. Ou plutôt… see you later. Qui sait ?"
+  say "Oliver" "Thank you, {P}. Keep an eye on the directive for me. And on summer time. Back home, we'll never change it, of course."
+  say "Oliver" "Goodbye. Or rather… see you later. Who knows?"
   hide all
-  say - "Oliver est parti. Le train de Londres n'apparaîtra plus au guichet. La prochaine étape : Budapest, sur le Danube."
+  say - "Oliver is gone. The London train will no longer appear at the ticket office. Next stop: Budapest, on the Danube."
 end
 
 # ---------------------------------------------------------------- Budapest
 script bud_sign
-  say - "Országház, le Parlement hongrois, sur les rives du Danube. Le plus grand bâtiment de Hongrie. Et le plus grand veto."
+  say - "Országház, the Hungarian Parliament, on the banks of the Danube. The largest building in Hungary. And the largest veto."
 end
 script bud_magyar_npc
   if flag BADGE_6 goto apres
-  say "Jeune Hongroise" "On dit que l'opposition gagne du terrain. Un certain Péter Magyar fait campagne dans tout le pays."
+  say "Young Hungarian woman" "They say the opposition is gaining ground. A certain Péter Magyar is campaigning all over the country."
   goto fin
 :apres
   show R magyar happy
-  say "Péter Magyar" "Les Hongrois ont voté le 12 avril 2026. Mon parti, Tisza, a obtenu la majorité des deux tiers. Une nouvelle page s'ouvre !"
+  say "Péter Magyar" "Hungarians voted on 12 April 2026. My party, Tisza, won a two-thirds majority. A new page is turning!"
 :fin
 end
 script gym6_t1
-  say "Gábor" "Nous avons construit une clôture. Elle sert surtout à faire des photos."
+  say "Gábor" "We built a fence. It's mostly used for photos."
 end
 script gym6_t2
-  say "Conseiller spécial" "Le Premier ministre va sortir prendre un café. C'est une technique de négociation."
+  say "Special adviser" "The Prime Minister is about to step out for a coffee. It's a negotiating technique."
 end
 script gym6_leader
   if flag BADGE_6 goto apres
   show R orban neutral
-  say "Viktor Orbán" "Vous venez chercher un accord ? Ici, il faut l'unanimité. Et je ne suis jamais d'accord."
+  say "Viktor Orbán" "Looking for an agreement? Here, unanimity is required. And I never agree."
   expr R happy
-  say "Viktor Orbán" "En 2024, j'ai présidé le Conseil de l'Union avec le slogan « Make Europe Great Again ». Ça ne vous rappelle rien ?"
+  say "Viktor Orbán" "In 2024, I held the Presidency of the Council of the Union with the slogan “Make Europe Great Again”. Ring any bells?"
   expr R angry
-  say "Viktor Orbán" "Dans mon arène, je peux poser mon VETO à chaque tour. Et parfois… je sors prendre un café. Comme en décembre 2023, pendant le vote sur l'Ukraine."
+  say "Viktor Orbán" "In my arena, I can use my VETO every turn. And sometimes… I step out for a coffee. Like in December 2023, during the vote on Ukraine."
   close
   hide all
   battle orban
   show R orban worried
-  say "Viktor Orbán" "…Bon. Je m'abstiens. Prenez ce Badge Veto. Officiellement, je n'étais pas dans la salle."
+  say "Viktor Orbán" "…Fine. I abstain. Take this Veto Badge. Officially, I wasn't in the room."
   badge 6
   chapter 7
   hide all
-  say - "Quelques mois plus tard, le 12 avril 2026, les Hongrois votent. Le parti Tisza de Péter Magyar l'emporte avec une majorité des deux tiers."
+  say - "A few months later, on 12 April 2026, Hungarians vote. Péter Magyar's Tisza party wins with a two-thirds majority."
   call cine_magyar
   show L magyar happy
-  say "Péter Magyar" "Orbán a reconnu sa défaite : « douloureux, mais clair ». Merci, stagiaire. Retournez à Bruxelles : il paraît que la DG Concurrence a un problème… de lobby."
+  say "Péter Magyar" "Orbán acknowledged his defeat: “painful, but clear”. Thank you, intern. Go back to Brussels: apparently DG Competition has a… lobby problem."
   setflag TRAIN_BRUXELLES
   goto fin
 :apres
   show R orban sulk
-  say "Viktor Orbán" "Je suis parti prendre un café. Revenez plus tard. Beaucoup plus tard."
+  say "Viktor Orbán" "I've stepped out for a coffee. Come back later. Much later."
 :fin
 end
 
 # ---------------------------------------------------------------- Team Lobby (place Lux)
 script lux_barman
-  say "Barman" "Place Lux, le jeudi soir, tout Bruxelles vient boire un verre. Les députés, les assistants… et les lobbyistes. Surtout les lobbyistes."
+  say "Bartender" "On Place Lux, on Thursday evenings, the whole of Brussels comes for a drink. MEPs, assistants… and lobbyists. Especially lobbyists."
 end
 script lux_guard
   if !flag BADGE_6 goto ferme
@@ -168,19 +168,19 @@ script lux_guard
   setflag CINE_QATARGATE
   call cine_qatargate
 :vu
-  say "Lobbyiste" "Le sous-sol ? Réservé aux membres. Vous êtes inscrit au registre de transparence ? Non ? Moi non plus. Entrez donc."
+  say "Lobbyist" "The basement? Members only. Are you on the transparency register? No? Me neither. Come on in."
   goto fin
 :ferme
-  say "Lobbyiste" "Circulez, stagiaire. Ici, on cause affaires entre grandes personnes."
+  say "Lobbyist" "Move along, intern. Here, the grown-ups are talking business."
   move player "D"
 :fin
 end
 script lobby_t1
-  say "Lobbyiste du pétrole" "La transition énergétique ? Nous la soutenons. À partir de 2080."
+  say "Oil lobbyist" "The energy transition? We support it. From 2080 onwards."
 end
 script lobby_t2
-  say "Lobbyiste de la tech" "Nous respectons le RGPD. Nous avons même un bandeau cookies de 47 pages."
-  ask "Lobbyiste de la tech" "Je parie que tu ne sauras pas tous les refuser. Personne n'y arrive. On essaie ?"
+  say "Tech lobbyist" "We respect the GDPR. We even have a 47-page cookie banner."
+  ask "Tech lobbyist" "I bet you can't refuse them all. Nobody can. Shall we try?"
   yesno -> TMP
   if var TMP == 0 goto fin
   close
@@ -188,77 +188,77 @@ script lobby_t2
   if var RESULT == 0 goto rate
   if flag COOKIES_DONE goto deja
   setflag COOKIES_DONE
-  say "Lobbyiste de la tech" "Impossible… Tu as tout refusé ?! Bon. Voici un avis juridique. Gratuit. Ne le dis à personne."
+  say "Tech lobbyist" "Impossible… You refused everything?! Fine. Here's a legal opinion. Free of charge. Don't tell anyone."
   giveitem avis_juridique 3
   goto fin
 :deja
-  say "Lobbyiste de la tech" "Encore toi ! Nos bandeaux n'ont aucune chance."
+  say "Tech lobbyist" "You again! Our banners don't stand a chance."
   goto fin
 :rate
-  say "Lobbyiste de la tech" "Merci d'avoir accepté nos 437 partenaires ! Tes données sont entre de bonnes mains. Les nôtres."
+  say "Tech lobbyist" "Thanks for accepting our 437 partners! Your data is in good hands. Ours."
 :fin
 end
 script lobby_t3
-  say "Lobbyiste" "Les valises ? Ce sont des valises de documentation. Très documentées."
+  say "Lobbyist" "The suitcases? They're documentation suitcases. Very well documented."
 end
 script lobby_kaili
   show R kaili worried
-  say "Eva Kaili" "En décembre 2022, la police belge a trouvé des sacs de billets dans plusieurs appartements à Bruxelles. On a appelé ça le « Qatargate »."
-  say "Eva Kaili" "J'étais vice-présidente du Parlement. J'ai toujours contesté les accusations. À la date de ce jeu, aucun jugement définitif n'a été rendu dans cette affaire."
+  say "Eva Kaili" "In December 2022, Belgian police found bags of banknotes in several flats in Brussels. It was called “Qatargate”."
+  say "Eva Kaili" "I was Vice-President of Parliament. I have always contested the accusations. As of this game, no final judgment has been handed down in this case."
   hide all
-  say - "Note : toute personne mise en cause est présumée innocente tant qu'elle n'a pas été jugée."
+  say - "Note: anyone implicated is presumed innocent until proven guilty."
 end
 script lobby_chef
   if flag LOBBY_DEFEATED goto fin
-  say "Le Lobbyiste en chef" "Tiens, tiens. Le stagiaire. Tu sais combien nous sommes à Bruxelles ? 25 000. Et toi, tu es un."
-  say "Le Lobbyiste en chef" "Ta directive sur l'heure d'été ? J'ai des clients qui vendent des horloges. Elle restera bloquée. À moins que…"
+  say "The Chief Lobbyist" "Well, well. The intern. Do you know how many of us there are in Brussels? 25,000. And you are one."
+  say "The Chief Lobbyist" "Your daylight saving directive? I have clients who sell clocks. It will stay blocked. Unless…"
   close
   battle lobbychef
-  say "Le Lobbyiste en chef" "Bien joué. Je déclare officiellement ma défaite au registre de transparence. Et je file dans le privé. Ah, j'y suis déjà."
+  say "The Chief Lobbyist" "Well played. I am officially declaring my defeat in the transparency register. And I'm off to the private sector. Oh, I'm already there."
   setflag LOBBY_DEFEATED
   hidenpc chef_lobby
   sfx DOOR
-  say - "La Team Lobby se disperse. Les enquêtes de la DG Concurrence peuvent reprendre !"
+  say - "Team Lobby scatters. DG Competition's investigations can resume!"
 :fin
 end
 
 # ---------------------------------------------------------------- DG COMP (Vestager)
 script gym7_t1
-  say "Avocat de Big Tech" "Nous allons faire appel. Puis appel de l'appel."
+  say "Big Tech lawyer" "We will appeal. Then appeal the appeal."
 end
 script gym7_t2
-  say "Juriste concurrence" "Abus de position dominante… Le mot « abus » est fort."
+  say "Competition lawyer" "Abuse of a dominant position… “Abuse” is a strong word."
 end
 script gym7_leader
   if flag BADGE_7 goto apres
   show R vestager happy
-  say "Margrethe Vestager" "Merci de nous avoir débarrassés de la Team Lobby. Mes dossiers avancent enfin !"
+  say "Margrethe Vestager" "Thank you for ridding us of Team Lobby. My files are finally moving!"
   expr R neutral
-  say "Margrethe Vestager" "Google : 2,4 milliards d'euros d'amende en 2017, 4,3 milliards en 2018. Apple : 13 milliards d'aides fiscales à rembourser, confirmé par la Cour en 2024."
-  say "Margrethe Vestager" "Votre équipe respecte-t-elle les règles de concurrence ? Je vais vérifier. Personnellement."
+  say "Margrethe Vestager" "Google: €2.4 billion fine in 2017, €4.3 billion in 2018. Apple: €13 billion of tax aid to repay, confirmed by the Court in 2024."
+  say "Margrethe Vestager" "Does your team respect competition rules? I'm going to check. Personally."
   close
   hide all
   battle vestager
   show R vestager happy
-  say "Margrethe Vestager" "Aucune infraction constatée. Le Badge Amende est à vous. Et prenez ceci aussi : le badge de l'OLAF, l'Office antifraude."
+  say "Margrethe Vestager" "No infringement found. The Fine Badge is yours. And take this too: the OLAF badge, from the Anti-Fraud Office."
   badge 7
   giveitem badge_olaf
   setflag OLAF_BADGE
   chapter 8
   expr R worried
-  say "Margrethe Vestager" "On signale des… présences étranges dans une aile du Parlement. Des assistants que personne ne voit jamais. Avec ce badge, vous les verrez."
+  say "Margrethe Vestager" "There are reports of… strange presences in one wing of Parliament. Assistants nobody ever sees. With this badge, you'll see them."
   goto fin
 :apres
   show R vestager happy
-  say "Margrethe Vestager" "Pas d'amende pour vous aujourd'hui. Profitez-en."
+  say "Margrethe Vestager" "No fine for you today. Enjoy it."
 :fin
 end
 
 # ---------------------------------------------------------------- Tour des assistants fantômes
 script tour_entry
   if flag OLAF_BADGE goto voir
-  say - "Un couloir froid… On entend des claviers taper tout seuls. Mais il n'y a personne. Il faudrait un moyen de voir l'invisible."
-  say - "Mieux vaut redescendre pour l'instant."
+  say - "A cold corridor… You can hear keyboards typing by themselves. But there's nobody there. You'd need a way to see the invisible."
+  say - "Better go back down for now."
   warp parlement_hall 14 3 down
   goto fin
 :voir
@@ -266,46 +266,46 @@ script tour_entry
 :fin
 end
 script tour_t1a
-  say "Assistant fantôme" "Mon bureau ? Je ne l'ai jamais trouvé…"
+  say "Ghost assistant" "My office? I never found it…"
 end
 script tour_t1b
-  say "Assistant fantôme" "J'étais payé pour assister… un parti. Pas un député."
+  say "Ghost assistant" "I was paid to assist… a party. Not an MEP."
 end
 script tour_t2a
-  say "Assistant fantôme" "Hou… Le changement d'heure me fait apparaître deux fois par an…"
+  say "Ghost assistant" "Boo… The clock change makes me appear twice a year…"
 end
 script tour_t2b
-  say "Assistant fantôme" "Mon contrat dit « assistant local ». Local de quoi ? Mystère."
+  say "Ghost assistant" "My contract says “local assistant”. Local to what? A mystery."
 end
 script tour_t3a
-  say "Assistant fantôme" "Je disparais… enfin…"
+  say "Ghost assistant" "I'm disappearing… at last…"
 end
 script tour_t3b
-  say "Assistant fantôme" "Merci… de m'avoir libéré de ce contrat…"
+  say "Ghost assistant" "Thank you… for freeing me from this contract…"
 end
 script tour_lepen
   show R lepen neutral
-  say "Marine Le Pen" "L'affaire des assistants parlementaires du FN : le système rémunérait des employés du parti avec l'argent du Parlement européen."
-  say "Marine Le Pen" "J'ai été condamnée en première instance le 31 mars 2025, puis en appel le 7 juillet 2026 : trois ans dont un ferme sous bracelet et quinze mois d'inéligibilité."
+  say "Marine Le Pen" "The FN parliamentary assistants affair: the scheme paid party employees with European Parliament money."
+  say "Marine Le Pen" "I was convicted at first instance on 31 March 2025, then on appeal on 7 July 2026: three years, one of them to be served under an electronic tag, and fifteen months of ineligibility."
   hide all
-  say - "Avec cette peine en appel, sa candidature à la présidentielle de 2027 redevient théoriquement possible. Un dernier recours en cassation reste envisageable."
+  say - "With this appeal sentence, her candidacy for the 2027 presidential election becomes theoretically possible again. A final appeal to the Court of Cassation remains possible."
 end
 script tour_bayrou
   show R bayrou neutral
-  say "François Bayrou" "L'affaire des assistants du MoDem, c'est autre chose. En février 2024, j'ai été relaxé « au bénéfice du doute ». Le parquet a fait appel."
-  say "François Bayrou" "Ensuite, j'ai été Premier ministre… de décembre 2024 à septembre 2025. Le temps passe vite à Matignon."
+  say "François Bayrou" "The MoDem assistants affair is something else. In February 2024, I was acquitted “given the benefit of the doubt”. The prosecution appealed."
+  say "François Bayrou" "Then I was Prime Minister… from December 2024 to September 2025. Time flies at Matignon."
   hide all
-  say - "Les assistants fantômes ne font pas de politique : ils hantent tous les partis qui les ont mal employés."
+  say - "Ghost assistants don't do politics: they haunt every party that misused them."
 end
 script tour_boss
   if flag GHOST_BOSS_DONE goto fin
-  say "Le Contrat Vide" "JE SUIS… L'ESPRIT DE TOUS LES CONTRATS SANS BUREAU… DE TOUS LES PARTIS… DE TOUTES LES LÉGISLATURES…"
+  say "The Empty Contract" "I AM… THE SPIRIT OF EVERY CONTRACT WITHOUT AN OFFICE… OF EVERY PARTY… OF EVERY LEGISLATURE…"
   close
   battle fantome_boss
   setflag GHOST_BOSS_DONE
   hidenpc fant_boss
-  say - "Le Contrat Vide se dissipe dans un nuage de fiches de paie. L'aile fantôme est enfin calme."
-  say - "Un message de Roberta Metsola arrive : « Merci ! Le dernier badge vous attend à Paris, à la Sorbonne. »"
+  say - "The Empty Contract dissolves in a cloud of payslips. The ghost wing is calm at last."
+  say - "A message from Roberta Metsola arrives: “Thank you! The last badge awaits you in Paris, at the Sorbonne.”"
   setflag TRAIN_PARIS
   chapter 9
 :fin
@@ -313,36 +313,36 @@ end
 
 # ---------------------------------------------------------------- Paris
 script par_sign
-  say - "La Sorbonne. Ici, Emmanuel Macron a prononcé deux grands discours sur l'Europe, en 2017 et en 2024. Le second a duré presque deux heures."
+  say - "The Sorbonne. Here, Emmanuel Macron gave two major speeches on Europe, in 2017 and in 2024. The second one lasted almost two hours."
 end
 script par_touriste
-  say "Touriste" "J'ai demandé mon chemin en anglais. On m'a répondu en français. Avec un sourire. Très léger."
+  say "Tourist" "I asked for directions in English. They answered in French. With a smile. A very faint one."
 end
 script gym8_t1
-  say "Énarque" "J'ai rédigé une note de synthèse sur ma défaite. Elle fait 80 pages."
+  say "ENA graduate" "I wrote a briefing note on my defeat. It's 80 pages long."
 end
 script gym8_t2
-  say "Ministre délégué" "Je viens d'être remanié pendant le combat. C'est un record."
+  say "Junior minister" "I just got reshuffled during the battle. That's a record."
 end
 script gym8_leader
   if flag BADGE_8 goto apres
   show R macron happy
-  say "Emmanuel Macron" "Bienvenue à la Sorbonne ! Ici, j'ai parlé d'Europe souveraine en 2017. Puis d'une Europe qui « peut mourir », en 2024."
+  say "Emmanuel Macron" "Welcome to the Sorbonne! Here, I spoke about a sovereign Europe in 2017. Then about a Europe that “could die”, in 2024."
   expr R neutral
-  say "Emmanuel Macron" "En 2019, j'ai dit que l'OTAN était en état de « mort cérébrale ». En 2024, j'ai dissous l'Assemblée nationale. J'aime les décisions… surprenantes."
+  say "Emmanuel Macron" "In 2019, I said NATO was “brain-dead”. In 2024, I dissolved the National Assembly. I like… surprising decisions."
   expr R happy
-  say "Emmanuel Macron" "Alors débattons, et en même temps, réfléchissons. Autonomie stratégique !"
+  say "Emmanuel Macron" "So let's debate, and at the same time, let's think. Strategic autonomy!"
   close
   hide all
   battle macron
   show R macron happy
-  say "Emmanuel Macron" "Magnifique ! Vous avez l'étoffe d'une grande Européenne… ou d'un grand Européen. Et en même temps des deux. Le Badge Sorbonne est à vous."
+  say "Emmanuel Macron" "Magnificent! You have the makings of a great European. And at the same time, of an even greater one. The Sorbonne Badge is yours."
   badge 8
   chapter 10
-  say "Emmanuel Macron" "Avec huit badges, le Conseil européen vous attend au bâtiment Europa, à Bruxelles. Bonne chance : leurs sommets finissent rarement avant 5 h du matin."
+  say "Emmanuel Macron" "With eight badges, the European Council awaits you at the Europa building in Brussels. Good luck: their summits rarely end before 5 a.m."
   goto fin
 :apres
   show R macron happy
-  say "Emmanuel Macron" "Je vous parlerais bien d'Europe pendant deux heures, mais vous avez un Conseil à convaincre."
+  say "Emmanuel Macron" "I'd happily talk to you about Europe for two hours, but you have a Council to convince."
 :fin
 end

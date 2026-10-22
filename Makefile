@@ -1,7 +1,7 @@
 # EU Simulator — BlocksDS build
 NAME          := EU_Simulator
 GAME_TITLE    := EU Simulator
-GAME_SUBTITLE := Le stage de ta vie
+GAME_SUBTITLE := The internship of your life
 GAME_AUTHOR   := Parodie non officielle
 GAME_ICON     := assets/icon.bmp
 SOURCEDIRS    := source

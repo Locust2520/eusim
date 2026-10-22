@@ -1,16 +1,16 @@
 # ---------------------------------------------------------------- shared services
 script cantine_heal
   show R cantiniere neutral
-  say "Cantinière" "Bienvenue à la cantine ! Un café, un sandwich, et vos Euromons repartent comme en 40… euh, comme en 57."
-  ask "Cantinière" "Je m'occupe de votre équipe ?"
+  say "Canteen lady" "Welcome to the canteen! A coffee, a sandwich, and your Euromons are good as new… well, as good as 1957."
+  ask "Canteen lady" "Shall I look after your team?"
   yesno -> TMP
   if var TMP == 0 goto non
   close
   heal
-  say "Cantinière" "Et voilà ! Tout le monde est en pleine forme. Le café, lui, est toujours tiède."
+  say "Canteen lady" "There you go! Everyone's in great shape. The coffee, however, is still lukewarm."
   goto fin
 :non
-  say "Cantinière" "Comme vous voulez. Mais ne venez pas pleurer au prochain débat !"
+  say "Canteen lady" "As you wish. But don't come crying at the next debate!"
 :fin
 end
 
@@ -24,73 +24,73 @@ end
 
 script gare_guichet
   if !flag TRAIN_UNLOCKED goto ferme
-  say "Guichetier" "Bonjour ! Gare européenne, guichet unique. Votre Pass Interrail, s'il vous plaît… Parfait. Où allons-nous ?"
+  say "Ticket clerk" "Hello! European station, one-stop counter. Your Interrail Pass, please… Perfect. Where are we going?"
   close
   special train
   goto fin
 :ferme
-  say "Guichetier" "Désolé, les trains internationaux sont réservés aux détenteurs du Pass Interrail. Il paraît qu'on le gagne à Strasbourg."
+  say "Ticket clerk" "Sorry, international trains are reserved for Interrail Pass holders. Apparently you can win one in Strasbourg."
 :fin
 end
 
 # generic city flavour NPCs
 script cantine_npc_bxl
-  say "Fonctionnaire" "Je mange ici depuis 1993. Le menu n'a changé qu'une fois : à l'arrivée de l'euro."
+  say "Civil servant" "I've been eating here since 1993. The menu has changed only once: when the euro arrived."
 end
 script cantine_npc_lux
-  say "Banquier" "Ici, même le café est domicilié fiscalement ailleurs."
+  say "Banker" "Here, even the coffee is tax-resident somewhere else."
 end
 script cantine_npc_ffm
-  say "Économiste" "Le prix du sandwich a pris 12 % depuis 2021. Mon modèle prévoyait 2 %. Mon modèle a faim."
+  say "Economist" "The price of a sandwich has gone up 12% since 2021. My model predicted 2%. My model is hungry."
 end
 script cantine_npc_stras
-  say "Assistant parlementaire" "Quatre jours par mois ici, le reste à Bruxelles. Mes plantes vertes ne me reconnaissent plus."
+  say "Parliamentary assistant" "Four days a month here, the rest in Brussels. My houseplants don't recognise me any more."
 end
 script cantine_npc_athenes
-  say "Serveuse" "Un café frappé ? C'est la seule chose que la Troïka n'a jamais réussi à réformer."
+  say "Waitress" "An iced frappé? It's the only thing the Troika never managed to reform."
 end
 script cantine_npc_londres
-  say "Gentleman" "Avant, on se plaignait de Bruxelles. Maintenant, on se plaint de ne plus pouvoir se plaindre de Bruxelles."
+  say "Gentleman" "We used to complain about Brussels. Now we complain that we can't complain about Brussels any more."
 end
 script cantine_npc_budapest
-  say "Étudiant" "Ici on mange du goulash. Et on débat, discrètement."
+  say "Student" "Here we eat goulash. And we debate, discreetly."
 end
 script cantine_npc_paris
-  say "Philosophe" "Je pense, donc je déjeune. Et je déjeune longtemps : c'est Paris."
+  say "Philosopher" "I think, therefore I lunch. And I lunch for a long time: this is Paris."
 end
 script shop_npc_bxl
-  say "Cliente" "Je cherche un chargeur… Ah non, c'est vrai, c'est USB-C partout maintenant. Quel bonheur."
+  say "Customer" "I'm looking for a charger… Oh no, that's right, it's USB-C everywhere now. What bliss."
 end
 script shop_npc_lux
-  say "Cliente" "Les prix sont hors taxes. Évidemment."
+  say "Customer" "Prices exclude VAT. Obviously."
 end
 script shop_npc_ffm
-  say "Client" "Je paie tout en espèces. Les Allemands adorent les espèces."
+  say "Shopper" "I pay for everything in cash. Germans love cash."
 end
 script shop_npc_stras
-  say "Cliente" "Je viens acheter des Tampons. Ma cheffe veut tamponner l'Euromon du changement d'heure."
+  say "Customer" "I've come to buy Stamps. My boss wants to stamp the clock change Euromon."
 end
 script shop_npc_athenes
-  say "Client" "Tout est à moitié prix ! Ah non, c'est la TVA qui a doublé."
+  say "Shopper" "Everything's half price! Oh no, it's the VAT that has doubled."
 end
 script shop_npc_londres
-  say "Client" "Le prix est en livres, en euros, ou en promesses électorales ?"
+  say "Shopper" "Is the price in pounds, in euros, or in election promises?"
 end
 script shop_npc_budapest
-  say "Cliente" "Le vendeur m'a demandé mon avis sur le gouvernement. J'ai dit : « veto »."
+  say "Customer" "The shopkeeper asked my opinion of the government. I said: “veto”."
 end
 script shop_npc_paris
-  say "Client" "Une baguette, un Tampon, et une manifestation, s'il vous plaît."
+  say "Shopper" "A baguette, a Stamp, and a protest march, please."
 end
 script gare_npc_bxl
   if flag POSTGAME goto oliver
-  say "Voyageuse" "Mon train pour Strasbourg a quatre heures de retard. Le Parlement aussi, d'ailleurs."
+  say "Traveller" "My train to Strasbourg is four hours late. So is Parliament, for that matter."
   goto fin
 :oliver
   if flag OLIVER_REJOIN goto fin2
   show R oliver happy
-  say "Oliver" "{P} ! Surprise ! J'ai pris l'Eurostar. Avec un passeport, un formulaire et deux heures de queue. Je viens demander… à revenir. Rejoin ?"
-  say "Oliver" "Mais d'abord, un débat. Comme au bon vieux temps !"
+  say "Oliver" "{P}! Surprise! I took the Eurostar. With a passport, a form and two hours of queuing. I've come to ask… to come back. Rejoin?"
+  say "Oliver" "But first, a debate. Like in the good old days!"
   close
   hide all
   if var STARTER == 1 goto c
@@ -105,55 +105,55 @@ script gare_npc_bxl
 :suite
   setflag OLIVER_REJOIN
   show R oliver happy
-  say "Oliver" "Quel stage ! Bon, il paraît que pour réadhérer il faut négocier 35 chapitres. Je commence demain. Cheers, {P} !"
+  say "Oliver" "What an internship! Apparently, to rejoin you have to negotiate 35 chapters. I start tomorrow. Cheers, {P}!"
   goto fin
 :fin2
   show R oliver happy
-  say "Oliver" "Chapitre 1 sur 35 : « libre circulation des marchandises ». Ça avance !"
+  say "Oliver" "Chapter 1 of 35: “free movement of goods”. We're getting there!"
 :fin
 end
 script gare_npc_lux
-  say "Voyageur" "Au Luxembourg, les transports en commun sont gratuits depuis 2020. Même pour les stagiaires !"
+  say "Passenger" "In Luxembourg, public transport has been free since 2020. Even for interns!"
 end
 script gare_npc_ffm
-  say "Voyageur" "Je fais la navette Francfort–Bruxelles. Je connais chaque vache de la ligne par son prénom."
+  say "Passenger" "I commute Frankfurt–Brussels. I know every cow on the line by name."
 end
 script gare_npc_stras
-  say "Voyageuse" "Ces malles en fer sont toutes à des eurodéputés. Elles voyagent plus que moi."
+  say "Traveller" "These iron trunks all belong to MEPs. They travel more than I do."
 end
 script gare_npc_athenes
-  say "Voyageur" "Le train pour le Pirée ? Fermé. Il paraît que quelqu'un a racheté le port."
+  say "Passenger" "The train to Piraeus? Cancelled. Apparently someone bought the port."
 end
 script gare_npc_londres
-  say "Voyageuse" "L'Eurostar demande maintenant un passeport. On a repris le contrôle. Des files d'attente."
+  say "Traveller" "The Eurostar now requires a passport. We took back control. Of the queues."
 end
 script gare_npc_budapest
-  say "Voyageur" "Le Danube traverse dix pays. Moi, j'essaie juste d'en traverser un sans contrôle."
+  say "Passenger" "The Danube flows through ten countries. I'm just trying to cross one without a check."
 end
 script gare_npc_paris
-  say "Voyageuse" "Grève à la SNCF. Ah non, c'est juste mardi."
+  say "Traveller" "Strike at the railways. Oh no, it's just Tuesday."
 end
 script gare_npc_anvers
-  say "Docker" "Anvers, deuxième port d'Europe. On voit passer de tout. Même des droits de douane."
+  say "Docker" "Antwerp, Europe's second-biggest port. We see everything go by. Even tariffs."
 end
 script gare_npc_varsovie
-  say "Voyageuse" "Il fait si froid sans gaz que les pingouins demandent l'asile."
+  say "Traveller" "It's so cold without gas that the penguins are asking for asylum."
 end
 script gare_npc_rome
-  say "Voyageur" "Tous les chemins mènent à Rome. Les trains aussi, avec du retard."
+  say "Passenger" "All roads lead to Rome. So do the trains, late."
 end
 script gare_npc_maastricht
-  say "Voyageuse" "C'est ici qu'on a signé le traité en 1992. Il y avait du soleil. C'était bien la seule fois."
+  say "Traveller" "This is where the treaty was signed in 1992. The sun was shining. It was the only time."
 end
 script gare_npc_lisbonne
-  say "Voyageur" "Lisbonne, 2007 : on a signé un traité qui ressemblait beaucoup à une Constitution. Chut."
+  say "Passenger" "Lisbon, 2007: we signed a treaty that looked a lot like a Constitution. Shh."
 end
 
 script fete_europe
   setflag FETE_EUROPE
   music ending
-  say - "Aujourd'hui, c'est le 9 mai : la Fête de l'Europe ! Des drapeaux flottent partout dans le quartier européen."
-  say - "Un Euromon rare, attiré par les festivités, surgit d'une pile de dossiers !"
+  say - "Today is 9 May: Europe Day! Flags are flying all over the European quarter."
+  say - "A rare Euromon, drawn by the festivities, leaps out of a pile of files!"
   wild schumark 25
-  say - "Bonne Fête de l'Europe ! Rendez-vous l'année prochaine."
+  say - "Happy Europe Day! See you next year."
 end

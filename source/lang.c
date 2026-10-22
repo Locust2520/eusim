@@ -1,4 +1,5 @@
-// Runtime translation: FNV-1a hash of the French text -> translated text, binary search in a sorted table.
+// Runtime translation: FNV-1a hash of the English source text -> translated text, binary search in a sorted table.
+// English is the source language: it needs no table, and any missing translation falls back to it.
 #include "lang.h"
 #include "fs.h"
 #include "data.h"
@@ -15,8 +16,6 @@ int g_lang = LANG_DEFAULT; // English
 // 'LNG1', u32 count, count x {u32 hash, u32 offset}, then the UTF-8 strings (NUL-terminated)
 static u8 *table;
 static u32 count;
-static u8 *english;
-static u32 english_count;
 
 static u32 fnv(const char *s)
 {
@@ -47,12 +46,9 @@ static const char *lookup(const u8 *data, u32 n, u32 h)
 
 const char *tr(const char *s)
 {
-    if (!s || !s[0] || !strcmp(g_langs[g_lang].code, "fr"))
+    if (!s || !s[0] || g_lang == LANG_DEFAULT)
         return s;
-    u32 h = fnv(s);
-    const char *translated = lookup(table, count, h);
-    if (!translated)
-        translated = lookup(english, english_count, h);
+    const char *translated = lookup(table, count, fnv(s));
     return translated ? translated : s;
 }
 
@@ -64,9 +60,9 @@ int lang_index(const char *code)
     return -1;
 }
 
-// French originals of the game data, kept so the language can be changed more than once
-static const char **fr_strings;
-static int fr_n;
+// English originals of the game data, kept so the language can be changed more than once
+static const char **src_strings;
+static int src_n;
 
 #define DATA_FIELDS(X)                                                                   \
     for (int i = 0; i < NUM_TYPES; i++) X(type_names[i]);                               \
@@ -81,17 +77,17 @@ static int fr_n;
 static void swap_data(void)
 {
     int k = 0;
-    if (!fr_strings) {
-#define COUNT(f) fr_n++
+    if (!src_strings) {
+#define COUNT(f) src_n++
         DATA_FIELDS(COUNT)
 #undef COUNT
-        fr_strings = malloc(sizeof(char *) * fr_n);
-#define SAVE(f) fr_strings[k++] = (f)
+        src_strings = malloc(sizeof(char *) * src_n);
+#define SAVE(f) src_strings[k++] = (f)
         DATA_FIELDS(SAVE)
 #undef SAVE
         k = 0;
     }
-#define SET(f) (f) = tr(fr_strings[k++])
+#define SET(f) (f) = tr(src_strings[k++])
     DATA_FIELDS(SET)
 #undef SET
 }
@@ -133,27 +129,17 @@ void lang_set(int index)
     free(table);
     table = NULL;
     count = 0;
-    if (!english)
-        english = load_table("en", &english_count);
-    if (index != LANG_DEFAULT && strcmp(g_langs[index].code, "fr") != 0)
+    if (index != LANG_DEFAULT)
         table = load_table(g_langs[index].code, &count);
     swap_data();
 }
 
 void *lang_load_text(const char *path, u32 *size)
 {
-    // Selected translation, then English; explicit French uses the original file.
-    if (!strncmp(path, "text/", 5) && strcmp(g_langs[g_lang].code, "fr") != 0) {
+    // Selected translation, then the English original.
+    if (!strncmp(path, "text/", 5) && g_lang != LANG_DEFAULT) {
         char p[64];
         snprintf(p, sizeof p, "text/%s/%s", g_langs[g_lang].code, path + 5);
-        void *d = fs_try_load(p, size);
-        if (d)
-            return d;
-    }
-    if (!strncmp(path, "text/", 5) && strcmp(g_langs[g_lang].code, "fr") != 0 &&
-        g_lang != LANG_DEFAULT) {
-        char p[64];
-        snprintf(p, sizeof p, "text/en/%s", path + 5);
         void *d = fs_try_load(p, size);
         if (d)
             return d;

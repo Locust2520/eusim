@@ -19,7 +19,7 @@
 #include "gen/font_data.h"
 
 static int panel_sel = -1;    // keyboard cursor on panel (-1 = none)
-static const char *const panel_labels[6] = {"Équipe", "Sac", "Eurodex", "Carte", "Rapport", "Options"};
+static const char *const panel_labels[6] = {"Team", "Bag", "Eurodex", "Map", "Report", "Options"};
 
 #define BTN_X(i) (6 + ((i) % 2) * 124)
 #define BTN_Y(i) (47 + ((i) / 2) * 48)
@@ -116,11 +116,11 @@ void draw_hp_bar(Canvas *c, int x, int y, int w, int hp, int max)
 {
     int pct = max ? hp * 100 / max : 0;
     u8 col = pct > 50 ? C_GREEN : pct > 20 ? C_YELLOW : C_RED;
-    canvas_text(c, &font_small, x, y - 2, "PV", C_GOLD_D, 0);
+    canvas_text(c, &font_small, x, y - 2, "HP", C_GOLD_D, 0);
     canvas_bar(c, x + 16, y, w - 16, 6, hp, max, col);
 }
 
-static const char *const status_short[6] = {"", "LOB", "SCA", "GEL", "SOM", "BLO"};
+static const char *const status_short[6] = {"", "LOB", "SCN", "FRZ", "SLP", "BLK"};
 static const u8 status_col[6] = {0, C_TYPE0 + 13, C_RED, C_YELLOW, C_MGREY, C_BLUE_L};
 
 void draw_type_badge(Canvas *c, int x, int y, int type)
@@ -149,7 +149,7 @@ static void draw_mon_row(int i, int y, bool sel, bool move_src)
     creature_icon_draw(&g_bot, m->species, 10, y + 2);
     char buf[32];
     canvas_text(&g_bot, &font_main, 42, y + 1, mon_name(m), move_src ? C_WHITE : C_TEXT, move_src ? C_INK : C_SHADOW);
-    snprintf(buf, sizeof buf, T("N.%d"), m->level);
+    snprintf(buf, sizeof buf, T("Lv.%d"), m->level);
     canvas_text_right(&g_bot, &font_small, 150, y + 3, buf, move_src ? C_GOLD : C_BTN_SH, 0);
     int mx = mon_max_hp(m);
     draw_hp_bar(&g_bot, 156, y + 6, 88, m->hp, mx);
@@ -160,7 +160,7 @@ static void draw_mon_row(int i, int y, bool sel, bool move_src)
         ui_text_in(&g_bot, &font_small, 122, y + 14, 28, 11, status_short[m->status], C_WHITE, C_INK, 0);
     } else if (m->hp == 0) {
         canvas_rect(&g_bot, 122, y + 14, 28, 11, C_RED_D);
-        ui_text_in(&g_bot, &font_small, 122, y + 14, 28, 11, "K.O.", C_WHITE, C_INK, 0);
+        ui_text_in(&g_bot, &font_small, 122, y + 14, 28, 11, "KO", C_WHITE, C_INK, 0);
     }
 }
 
@@ -172,12 +172,12 @@ void mon_summary(Mon *m)
     creature_big_draw(&g_bot, m->species, 8, 4);
     char buf[64];
     canvas_text(&g_bot, &font_main, 80, 4, mon_name(m), C_TEXT, C_SHADOW);
-    snprintf(buf, sizeof buf, T("N.%d   n°%03d"), m->level, species[m->species].num);
+    snprintf(buf, sizeof buf, T("Lv.%d   No.%03d"), m->level, species[m->species].num);
     canvas_text(&g_bot, &font_small, 80, 23, buf, C_BTN_SH, 0);
     draw_type_badge(&g_bot, 80, 42, species[m->species].type1);
     if (species[m->species].type2 != species[m->species].type1)
         draw_type_badge(&g_bot, 128, 42, species[m->species].type2);
-    static const char *const sn[6] = {"PV", "Argumentation", "Résilience", "Expertise", "Diplomatie", "Réactivité"};
+    static const char *const sn[6] = {"HP", "Argument", "Resilience", "Expertise", "Diplomacy", "Reactivity"};
     for (int s = 0; s < 6; s++) {
         int v = s == 0 ? mon_max_hp(m) : mon_stat(m, s);
         if (s == 0)
@@ -194,7 +194,7 @@ void mon_summary(Mon *m)
     canvas_text(&g_bot, &font_small, 12, 144, "Exp.", C_TEXT, 0);
     snprintf(buf, sizeof buf, "%lu", (unsigned long)m->exp);
     canvas_text_right(&g_bot, &font_small, 116, 144, buf, C_BLUE, 0);
-    canvas_text(&g_bot, &font_small, 12, 156, "Suivant", C_TEXT, 0);
+    canvas_text(&g_bot, &font_small, 12, 156, "Next", C_TEXT, 0);
     snprintf(buf, sizeof buf, "%lu", (unsigned long)(m->level >= 100 ? 0 : next - m->exp));
     canvas_text_right(&g_bot, &font_small, 116, 156, buf, C_BLUE, 0);
     for (int k = 0; k < 4; k++) {
@@ -210,7 +210,7 @@ void mon_summary(Mon *m)
         ui_text_in(&g_bot, &font_small, 134, y, 246 - font_width(&font_small, buf) - 4 - 134, 24, mv->name, C_TEXT, 0, -1);
         ui_text_in(&g_bot, &font_small, 196, y, 54, 24, buf, m->pp[k] ? C_BTN_SH : C_RED, 0, 1);
     }
-    ui_text_in(&g_bot, &font_small, 126, 174, 126, 16, "B : retour", C_BTN_LO, C_INK, 0);
+    ui_text_in(&g_bot, &font_small, 126, 174, 126, 16, "B: back", C_BTN_LO, C_INK, 0);
     frame_wait();
     while (!(g_kdown & (KEY_B | KEY_A)) && !g_touch_down)
         frame_wait();
@@ -250,7 +250,7 @@ int party_menu(int mode, const char *prompt)
             ui_backdrop(&g_bot);
             for (int i = 0; i < g_save.party_count; i++)
                 draw_mon_row(i, 1 + i * 30, i == sel, i == move_src);
-            ui_text_in(&g_bot, &font_small, 0, 180, 256, 12, prompt ? prompt : (move_src >= 0 ? "Déplacer" : "A : choisir   B : retour"), C_GOLD, C_INK, 0);
+            ui_text_in(&g_bot, &font_small, 0, 180, 256, 12, prompt ? prompt : (move_src >= 0 ? "Move" : "A: choose   B: back"), C_GOLD, C_INK, 0);
             redraw = false;
         }
         frame_wait();
@@ -284,7 +284,7 @@ int party_menu(int mode, const char *prompt)
                 redraw = true;
                 continue;
             }
-            static const char *const opts[3] = {"Résumé", "Déplacer", "Retour"};
+            static const char *const opts[3] = {"Summary", "Move", "Back"};
             int c = dlg_choice(opts, 3, true);
             if (c == 0)
                 mon_summary(&g_save.party[pick]);
@@ -307,7 +307,7 @@ int party_menu(int mode, const char *prompt)
 }
 
 // ---------------------------------------------------------------- bag
-static const char *const pockets[4] = {"Soins", "Tampons", "Combat", "Clés"};
+static const char *const pockets[4] = {"Healing", "Stamps", "Battle", "Keys"};
 
 static int pocket_of(int kind)
 {
@@ -325,12 +325,12 @@ static bool use_item_field(int it)
     if (d->kind == IK_REPEL) {
         g_save.repel = d->param;
         bag_take(it, 1);
-        dlg_say("", "Les Euromons sauvages vous laisseront tranquille un moment.");
+        dlg_say("", "Wild Euromons will leave you alone for a while.");
         dlg_close();
         return true;
     }
     if (d->kind == IK_HEAL || d->kind == IK_STATUS || d->kind == IK_REVIVE || d->kind == IK_PP || d->kind == IK_EVO) {
-        int i = party_menu(1, "Sur quel Euromon ?");
+        int i = party_menu(1, "On which Euromon?");
         if (i < 0)
             return false;
         Mon *m = &g_save.party[i];
@@ -340,21 +340,21 @@ static bool use_item_field(int it)
         if (d->kind == IK_HEAL && m->hp > 0 && m->hp < mx) {
             int h = d->param >= 999 ? mx : d->param;
             m->hp = MIN(mx, m->hp + h);
-            snprintf(buf, sizeof buf, T("%s récupère des PV."), mon_name(m));
+            snprintf(buf, sizeof buf, T("%s regains HP."), mon_name(m));
             ok = true;
         } else if (d->kind == IK_STATUS && m->status && m->hp > 0) {
             m->status = 0;
-            snprintf(buf, sizeof buf, T("%s va mieux."), mon_name(m));
+            snprintf(buf, sizeof buf, T("%s feels better."), mon_name(m));
             ok = true;
         } else if (d->kind == IK_REVIVE && m->hp == 0) {
             m->hp = d->param >= 999 ? mx : mx / 2;
-            snprintf(buf, sizeof buf, T("%s reprend du service !"), mon_name(m));
+            snprintf(buf, sizeof buf, T("%s is back in service!"), mon_name(m));
             ok = true;
         } else if (d->kind == IK_PP) {
             for (int k = 0; k < 4; k++)
                 if (m->moves[k] != 0xFFFF)
                     m->pp[k] = moves[m->moves[k]].pp;
-            snprintf(buf, sizeof buf, T("Les PP de %s sont restaurés."), mon_name(m));
+            snprintf(buf, sizeof buf, T("%s's PP has been restored."), mon_name(m));
             ok = true;
         } else if (d->kind == IK_EVO) {
             const SpeciesData *s = &species[m->species];
@@ -363,9 +363,9 @@ static bool use_item_field(int it)
                 evolve_mon(m, s->evo_into);
                 return true;
             }
-            snprintf(buf, sizeof buf, T("Ça n'a aucun effet."));
+            snprintf(buf, sizeof buf, T("It has no effect."));
         } else
-            snprintf(buf, sizeof buf, T("Ça n'aura aucun effet."));
+            snprintf(buf, sizeof buf, T("It won't have any effect."));
         if (ok) {
             bag_take(it, 1);
             sfx_play(SFX_HEAL);
@@ -374,7 +374,7 @@ static bool use_item_field(int it)
         dlg_close();
         return ok;
     }
-    dlg_say("", d->kind == IK_KEY ? d->desc : "Ce n'est pas le moment d'utiliser ça.");
+    dlg_say("", d->kind == IK_KEY ? d->desc : "This isn't the time to use that.");
     dlg_close();
     return false;
 }
@@ -417,7 +417,7 @@ int bag_menu(int mode)
             if (n > 6)
                 ui_scrollbar(&g_bot, 243, 28, 119, n, 6, scroll);
             if (n == 0)
-                ui_text_in(&g_bot, &font_main, 0, 60, 256, 60, "(vide)", C_BTN_LO, C_INK, 0);
+                ui_text_in(&g_bot, &font_main, 0, 60, 256, 60, "(empty)", C_BTN_LO, C_INK, 0);
             canvas_frame(&g_bot, 4, 150, 248, 40, FRAME_DIALOG);
             if (n > 0) {
                 // wrap description
@@ -479,7 +479,7 @@ int bag_menu(int mode)
                 result = list[pick];
                 break;
             }
-            static const char *const opts[2] = {"Utiliser", "Retour"};
+            static const char *const opts[2] = {"Use", "Back"};
             if (dlg_choice(opts, 2, true) == 0)
                 use_item_field(list[pick]);
             redraw = true;
@@ -503,7 +503,7 @@ static void dex_entry(int sp)
     canvas_frame(&g_bot, 4, 4, 248, 100, FRAME_MENU);
     creature_big_draw(&g_bot, sp, 10, 10);
     char buf[64];
-    snprintf(buf, sizeof buf, "n°%03d  %s", s->num, s->name);
+    snprintf(buf, sizeof buf, "No.%03d  %s", s->num, s->name);
     canvas_text(&g_bot, &font_main, 84, 8, buf, C_TEXT, C_SHADOW);
     canvas_text(&g_bot, &font_small, 84, 28, caught ? s->category : "???", C_BTN_SH, 0);
     if (caught) {
@@ -512,7 +512,7 @@ static void dex_entry(int sp)
             draw_type_badge(&g_bot, 132, 48, s->type2);
     }
     canvas_frame(&g_bot, 4, 108, 248, 80, FRAME_DIALOG);
-    const char *t = caught ? s->dex : "Capturez cet Euromon pour lire sa fiche.";
+    const char *t = caught ? s->dex : "Capture this Euromon to read its entry.";
     char line[80];
     int y = 116;
     while (*t && y < 180) {
@@ -552,7 +552,7 @@ void dex_menu(void)
         if (redraw) {
             ui_backdrop(&g_bot);
             char buf[48];
-            snprintf(buf, sizeof buf, T("EURODEX   Vus : %d   Capturés : %d"), dex_count_seen(), dex_count_caught());
+            snprintf(buf, sizeof buf, T("EURODEX   Seen: %d   Caught: %d"), dex_count_seen(), dex_count_caught());
             canvas_frame(&g_bot, 4, 2, 248, 21, FRAME_DARK);
             ui_text_in(&g_bot, &font_small, 4, 2, 247, 20, buf, C_GOLD, C_INK, 0);
             for (int k = 0; k < 8 && scroll + k < NUM_SPECIES; k++) {
@@ -630,13 +630,13 @@ void map_menu(void)
 void menu_save(void)
 {
     if (!save_available()) {
-        dlg_say("", "Aucun support de sauvegarde détecté.\fSur DS (DS Pico, R4…), lancez le jeu depuis la carte SD. Sur émulateur, activez le DLDI / la carte SD, ou utilisez les sauvegardes d'état.");
+        dlg_say("", "No save medium detected.\fOn a DS (DS Pico, R4…), launch the game from the SD card. On an emulator, enable DLDI / the SD card, or use save states.");
         dlg_close();
         return;
     }
     char q[96];
-    snprintf(q, sizeof q, T("Rédiger un rapport de progression (emplacement %d) ?"), g_save_slot + 1);
-    static const char *const opts[3] = {"Sauvegarder", "Autre emplacement…", "Annuler"};
+    snprintf(q, sizeof q, T("Write a progress report (slot %d)?"), g_save_slot + 1);
+    static const char *const opts[3] = {"Save", "Another slot…", "Cancel"};
     dlg_say_nowait("", q);
     int c = dlg_choice(opts, 3, true);
     if (c == 1) {
@@ -656,10 +656,10 @@ void menu_save(void)
     char buf[96];
     if (ok) {
         sfx_play(SFX_SAVE);
-        snprintf(buf, sizeof buf, T("Rapport transmis en 24 langues. Partie sauvegardée (emplacement %d) !"), g_save_slot + 1);
+        snprintf(buf, sizeof buf, T("Report sent in 24 languages. Game saved (slot %d)!"), g_save_slot + 1);
     } else {
         sfx_play(SFX_ERROR);
-        snprintf(buf, sizeof buf, T("Échec de la sauvegarde. Réessayez."));
+        snprintf(buf, sizeof buf, T("Save failed. Please try again."));
     }
     dlg_say("", buf);
     dlg_close();
@@ -674,16 +674,16 @@ void menu_open(int id)
     case 3: map_menu(); break;
     case 4: menu_save(); break;
     case 5: {
-        static const char *const opts[4] = {"Réglages", "Débat multijoueur", "Sources des faits", "Retour au titre"};
+        static const char *const opts[4] = {"Settings", "Multiplayer debate", "Fact sources", "Back to title"};
         int c = dlg_choice(opts, 4, true);
         if (c == 0)
             scene_options(true);
         else if (c == 1)
             multiplayer_open();
         else if (c == 2)
-            viewer_open("text/sources.txt", "Sources des faits");
+            viewer_open("text/sources.txt", "Fact sources");
         else if (c == 3) {
-            dlg_say("", "Retourner à l'écran titre ? Ce qui n'est pas sauvegardé sera perdu.");
+            dlg_say("", "Return to the title screen? Anything not saved will be lost.");
             if (dlg_yesno())
                 world_special(16, 0);
             dlg_close();

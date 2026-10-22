@@ -7,11 +7,11 @@ EU = {'Austria', 'Belgium', 'Bulgaria', 'Croatia', 'Cyprus', 'Czechia', 'Denmark
       'Germany', 'Greece', 'Hungary', 'Ireland', 'Italy', 'Latvia', 'Lithuania', 'Luxembourg', 'Malta', 'Netherlands',
       'Poland', 'Portugal', 'Romania', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'Czech Republic'}
 CITIES = [  # key, label, lon, lat
-    ('bruxelles', 'Bruxelles', 4.35, 50.85), ('luxembourg', 'Luxembourg', 6.13, 49.61),
-    ('francfort', 'Francfort', 8.68, 50.11), ('strasbourg', 'Strasbourg', 7.75, 48.58),
-    ('paris', 'Paris', 2.35, 48.86), ('londres', 'Londres', -0.13, 51.51), ('athenes', 'Athènes', 23.73, 37.98),
-    ('budapest', 'Budapest', 19.04, 47.5), ('anvers', 'Anvers', 4.40, 51.22), ('varsovie', 'Varsovie', 21.0, 52.23),
-    ('rome', 'Rome', 12.5, 41.9), ('lisbonne', 'Lisbonne', -9.14, 38.72), ('maastricht', 'Maastricht', 5.69, 50.85),
+    ('bruxelles', "Brussels", 4.35, 50.85), ('luxembourg', 'Luxembourg', 6.13, 49.61),
+    ('francfort', "Frankfurt", 8.68, 50.11), ('strasbourg', 'Strasbourg', 7.75, 48.58),
+    ('paris', 'Paris', 2.35, 48.86), ('londres', "London", -0.13, 51.51), ('athenes', "Athens", 23.73, 37.98),
+    ('budapest', 'Budapest', 19.04, 47.5), ('anvers', "Antwerp", 4.40, 51.22), ('varsovie', "Warsaw", 21.0, 52.23),
+    ('rome', 'Rome', 12.5, 41.9), ('lisbonne', "Lisbon", -9.14, 38.72), ('maastricht', 'Maastricht', 5.69, 50.85),
 ]
 
 

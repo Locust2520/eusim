@@ -2,16 +2,16 @@
 script stamp_repeat_reward
   if flag STAMP_SECOND_DONE goto hasard
   setflag STAMP_SECOND_DONE
-  say "Greffier" "Encore quinze arrêts en règle ! Pour cette deuxième réussite, voici un tampon qualifié."
+  say "Registrar" "Another fifteen rulings in order! For your second success, here is a qualified stamp."
   giveitem tampon_qualifie 1
   goto fin
 :hasard
   random 2 -> TMP
   if var TMP == 0 goto aucun
-  say "Greffier" "Impeccable ! Il me reste un tampon qualifié pour toi. Le Luxembourg aime les gens méthodiques."
+  say "Registrar" "Flawless! I have one qualified stamp left for you. Luxembourg loves methodical people."
   giveitem tampon_qualifie 1
   goto fin
 :aucun
-  say "Greffier" "Impeccable ! Mais je n'ai pas de tampon pour toi cette fois. Repasse me donner un coup de main !"
+  say "Registrar" "Flawless! But I have no stamp for you this time. Come back and give me a hand again!"
 :fin
 end

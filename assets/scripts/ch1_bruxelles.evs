@@ -3,12 +3,12 @@ script studio_onload
   if flag INTRO_DONE goto done
   setflag INTRO_DONE
   call cine_prologue
-  say - "Premier jour de stage au Parlement européen ! Le professeur Schuman t'attend dans le hall du Parlement."
+  say - "First day of your internship at the European Parliament! Professor Schuman is waiting for you in the Parliament hall."
 :done
 end
 
 script studio_pc
-  say - "Ton ordinateur affiche 437 courriels non lus. Ils ont tous pour objet « Réunion de coordination sur les réunions »."
+  say - "Your computer shows 437 unread emails. They're all titled “Coordination meeting about meetings”."
 end
 
 script studio_jukebox
@@ -16,96 +16,96 @@ script studio_jukebox
   special jukebox
   goto fin
 :panne
-  say - "Un vieux juke-box, débranché. Une étiquette : « À rebrancher après votre premier badge. — Le service technique »"
+  say - "An old jukebox, unplugged. A label: “To be plugged back in after your first badge. — Technical services”"
 :fin
 end
 
 script bxl_sign_parc
-  say - "Parc Léopold. Attention : les piles de dossiers abritent des Euromons sauvages. Ne pas nourrir les Amendons."
+  say - "Leopold Park. Warning: the piles of files are home to wild Euromons. Do not feed the Amendons."
 end
 
 script bxl_sign_berlaymont
-  say - "Berlaymont — Commission européenne. Accès réservé. 13ᵉ étage : bureau (et chambre) de la Présidente."
+  say - "Berlaymont — European Commission. Restricted access. 13th floor: the President's office (and bedroom)."
 end
 
 script bxl_statue
-  say - "« L'Europe ne se fera pas d'un coup, ni dans une construction d'ensemble : elle se fera par des réalisations concrètes. » — Robert Schuman, 9 mai 1950."
+  say - "“Europe will not be made all at once, or according to a single plan. It will be built through concrete achievements.” — Robert Schuman, 9 May 1950."
 end
 
 script bxl_lobbyist
-  say "Lobbyiste" "Bonjour ! Je ne fais pas de lobbying. Je fais du « partage d'expertise ». Un petit four ? Il est au saumon. Norvégien."
+  say "Lobbyist" "Hello! I don't do lobbying. I do “expertise sharing”. A canapé? It's salmon. Norwegian."
 end
 
 script bxl_tourist
-  say "Touriste" "Excuse me, où est le Manneken-Pis ? On m'a dit qu'il était plus grand… On m'a beaucoup menti sur ce voyage."
+  say "Tourist" "Excuse me, where's the Manneken Pis? They told me it was bigger… They've told me a lot of lies on this trip."
 end
 
 script bxl_kid
-  say "Enfant" "Quand je serai grand, je serai interprète ! En 24 langues. Ou alors pompier, c'est plus calme."
+  say "Child" "When I grow up, I'll be an interpreter! In 24 languages. Or a firefighter, it's calmer."
 end
 
 script bxl_journaliste
-  say "Journaliste" "Je couvre l'Union européenne depuis vingt ans. Mon titre préféré : « Bruxelles dit non ». Il marche à chaque fois."
+  say "Journalist" "I've been covering the European Union for twenty years. My favourite headline: “Brussels says no”. It works every time."
 end
 
 script bxl_hugo
-  say "Hugo" "Tu as gagné… Paraît que la directive sur l'heure d'été est bloquée au Conseil depuis 2019. Bon courage, hein."
+  say "Hugo" "You won… Apparently the daylight saving directive has been stuck in the Council since 2019. Good luck with that."
 end
 
 script bxl_agent_route
-  say "Agent de sécurité" "La route des Ardennes ? Pas sans Euromon ! Les dossiers sauvages sont agressifs en cette saison budgétaire."
+  say "Security guard" "The Ardennes road? Not without a Euromon! Wild files are aggressive in budget season."
 end
 
 script bxl_exit_block
-  say "Agent de sécurité" "Halte ! Personne ne quitte Bruxelles sans Euromon. Allez d'abord voir le professeur Schuman, au Parlement."
+  say "Security guard" "Halt! Nobody leaves Brussels without a Euromon. Go and see Professor Schuman at Parliament first."
   move player "L"
 end
 
 script berlaymont_locked
-  say "Garde" "Le 13ᵉ étage ? Seuls ceux qui ont convaincu le Conseil européen peuvent monter. Et il faut d'abord les huit badges."
+  say "Guard" "The 13th floor? Only those who have convinced the European Council may go up. And you need the eight badges first."
   move player "D"
 end
 
 script europa_locked
-  say "Garde" "Le bâtiment Europa accueille le Conseil européen. Il vous faut les huit badges des traités pour être reçu."
+  say "Guard" "The Europa building hosts the European Council. You need the eight treaty badges to be received."
   move player "D"
 end
 
 script dgcomp_locked
   if !flag BADGE_6 goto pas_pret
-  say "Huissière" "La commissaire est… très occupée. On dit que la Team Lobby bloque toutes ses enquêtes. Ça se passe sous le bar de la place Lux."
+  say "Head usher" "The commissioner is… very busy. They say Team Lobby is blocking all her investigations. It's happening under the bar on Place Lux."
   goto fin
 :pas_pret
-  say "Huissière" "La DG Concurrence ne reçoit que les stagiaires expérimentés. Revenez avec au moins six badges."
+  say "Head usher" "DG Competition only receives experienced interns. Come back with at least six badges."
 :fin
   move player "D"
 end
 
 script parl_agent
   if flag GOT_STARTER goto apres
-  say "Agent du Parlement" "Bienvenue au Parlement européen ! Le professeur Schuman vous attend au fond du hall."
+  say "Parliament officer" "Welcome to the European Parliament! Professor Schuman is waiting for you at the back of the hall."
   goto fin
 :apres
-  say "Agent du Parlement" "L'escalier à droite mène aux étages… On dit qu'une aile est hantée. Je n'y vais jamais, moi."
+  say "Parliament officer" "The stairs on the right lead to the upper floors… They say one wing is haunted. I never go there, myself."
 :fin
 end
 
 script lab_intro
   setflag OLIVER_AT_LAB
   show L schuman happy
-  say "Professeur Schuman" "Ah, {P} ! Te voilà enfin ! Ponctuel… à une heure près. Satané changement d'heure."
+  say "Professor Schuman" "Ah, {P}! There you are at last! Punctual… give or take an hour. Blasted clock change."
   show R oliver neutral
-  say "Oliver" "Hi ! Je suis arrivé il y a une heure. Moi, je suis à l'heure de Londres."
+  say "Oliver" "Hi! I arrived an hour ago. I'm on London time, you see."
   close
   hide all
-  cine "Le laboratoire du professeur"
+  cine "The professor's laboratory"
   slide s02_labo_01_oeufs zoom_in fade
-  say "Professeur Schuman" "Bien. Vous allez travailler avec des Euromons. Les dossiers de ce Parlement en sont pleins."
-  say "Professeur Schuman" "J'en ai trois ici, tout jeunes. Ils sont nés de grandes idées européennes. Choisis le tien, {P}."
-  say "Oliver" "Ils sortent… de chemises cartonnées ?"
-  say "Professeur Schuman" "À Bruxelles, tout ce qui compte commence dans une chemise cartonnée, Oliver. Même l'Europe."
-  say "Professeur Schuman" "VERDEAL, né du Pacte vert. CHARBONNET, issu de la CECA de 1951. Ou ATOMINO, tout droit sorti d'Euratom."
-  choice "Verdeal (type Vert)" "Charbonnet (type Industrie)" "Atomino (type Énergie)" -> STARTER
+  say "Professor Schuman" "Right. You're going to work with Euromons. This Parliament's files are full of them."
+  say "Professor Schuman" "I have three here, very young. They were born from great European ideas. Choose yours, {P}."
+  say "Oliver" "They come out of… cardboard folders?"
+  say "Professor Schuman" "In Brussels, everything that matters starts in a cardboard folder, Oliver. Even Europe."
+  say "Professor Schuman" "GREENDEER, born of the Green Deal. COALBONNET, from the 1951 ECSC. Or ATOMINO, straight out of Euratom."
+  choice "GreenDeer (Green type)" "Coalbonnet (Industry type)" "Atomino (Energy type)" -> STARTER
   close
   if var STARTER == 1 goto c
   if var STARTER == 2 goto a
@@ -119,11 +119,11 @@ script lab_intro
 :suite
   setflag GOT_STARTER
   setflag TRAIN_BRUXELLES
-  say "Professeur Schuman" "Excellent choix ! Prends-en soin. Un Euromon bien traité vaut mieux que dix traités mal ratifiés."
+  say "Professor Schuman" "Excellent choice! Take good care of it. One well-treated Euromon is worth ten badly ratified treaties."
   slide s02_labo_02_duel zoom_in flash
-  say "Oliver" "Alors je prends celui qui bat le tien. That's just smart negotiation."
-  say "Professeur Schuman" "Oliver ! Ce n'est pas très… communautaire."
-  say "Oliver" "Allez, {P}, un petit débat pour voir qui est le meilleur stagiaire ?"
+  say "Oliver" "Then I'll take the one that beats yours. That's just smart negotiation."
+  say "Professor Schuman" "Oliver! That's not very… communitarian."
+  say "Oliver" "Come on, {P}, a little debate to see who's the best intern?"
   cine end
   if var STARTER == 1 goto bc
   if var STARTER == 2 goto ba
@@ -140,20 +140,20 @@ script lab_intro
   show R oliver neutral
   if var RESULT == 0 goto perdu
   focus R
-  say "Oliver" "What ?! J'ai perdu contre un stagiaire continental ?! C'était… un galop d'essai."
+  say "Oliver" "What?! I lost to a continental intern?! That was… a trial run."
   goto suite2
 :perdu
   focus R
-  say "Oliver" "Ha ! Comme prévu. Ne le prends pas mal, {P}, c'est culturel."
+  say "Oliver" "Ha! As expected. Don't take it badly, {P}, it's cultural."
 :suite2
   focus L
-  say "Professeur Schuman" "Bravo à tous les deux. Maintenant, la mission : faire adopter la directive sur la fin du changement d'heure."
+  say "Professor Schuman" "Well done, both of you. Now, the mission: get the directive ending the clock change adopted."
   expr L worried
-  say "Professeur Schuman" "Le Parlement l'a votée en mars 2019. Depuis, elle dort au Conseil. Il vous faudra les huit badges des traités pour être pris au sérieux."
+  say "Professor Schuman" "Parliament voted for it in March 2019. Since then, it's been sleeping in the Council. You'll need the eight treaty badges to be taken seriously."
   expr L neutral
-  say "Professeur Schuman" "Le premier badge vous attend au Luxembourg, chez Jean-Claude Juncker. Prenez la route des Ardennes, à l'est."
+  say "Professor Schuman" "The first badge awaits you in Luxembourg, with Jean-Claude Juncker. Take the Ardennes road, to the east."
   focus R
-  say "Oliver" "Le Luxembourg ? Easy. J'y serai avant toi. See you, loser… euh, collègue !"
+  say "Oliver" "Luxembourg? Easy. I'll be there before you. See you, loser… er, colleague!"
   hide R
   move oliver_bxl "D3" nowait
   call monnet_gift
@@ -163,12 +163,12 @@ script monnet_gift
   if flag GOT_DEX goto fin
   setflag GOT_DEX
   show R monnet happy
-  say "Jean Monnet" "Un instant, {P} ! Je suis Jean Monnet. J'ai inventé la méthode des petits pas. Voici un grand pas : l'EURODEX."
+  say "Jean Monnet" "One moment, {P}! I'm Jean Monnet. I invented the small-steps method. Here's a big step: the EURODEX."
   giveitem eurodex
-  say "Jean Monnet" "Il enregistre chaque Euromon que tu rencontres. Et voici de quoi les tamponner officiellement."
+  say "Jean Monnet" "It records every Euromon you meet. And here's what you need to stamp them officially."
   giveitem tampon 5
   giveitem cafe 3
-  say "Jean Monnet" "Affaiblis un Euromon sauvage, puis lance un Tampon officiel depuis le SAC. L'Europe compte sur toi !"
+  say "Jean Monnet" "Weaken a wild Euromon, then throw an Official Stamp from the BAG. Europe is counting on you!"
 :fin
 end
 
@@ -176,10 +176,10 @@ script schuman_lab
   if !flag GOT_STARTER goto debut
   show L schuman happy
   if badge 8 goto huit
-  say "Professeur Schuman" "Courage, {P} ! Chaque badge est une petite pierre. Comme pour l'Europe : des réalisations concrètes."
+  say "Professor Schuman" "Courage, {P}! Each badge is a small stone. Just like Europe: concrete achievements."
   goto fin
 :huit
-  say "Professeur Schuman" "Huit badges ! Le Conseil européen t'attend au bâtiment Europa. Je suis si fier."
+  say "Professor Schuman" "Eight badges! The European Council awaits you at the Europa building. I'm so proud."
   goto fin
 :debut
   call lab_intro
@@ -189,15 +189,15 @@ end
 script monnet_lab
   show R monnet neutral
   if !flag GOT_DEX goto rien
-  say "Jean Monnet" "Montre-moi ton Eurodex…"
+  say "Jean Monnet" "Show me your Eurodex…"
   special dex_rating
   goto fin
 :rien
-  say "Jean Monnet" "Parle d'abord au professeur Schuman, jeune stagiaire."
+  say "Jean Monnet" "Talk to Professor Schuman first, young intern."
 :fin
 end
 
 script oliver_bxl
   show R oliver neutral
-  say "Oliver" "Le professeur est là-bas. Fais vite, je m'ennuie."
+  say "Oliver" "The professor's over there. Hurry up, I'm bored."
 end

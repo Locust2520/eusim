@@ -1,7 +1,7 @@
 [
  {
   "id": "amendement",
-  "name": "Amendement",
+  "name": "Amendment",
   "type": "TECHNO",
   "cat": "phys",
   "power": 40,
@@ -11,11 +11,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Modifie le texte adverse, un alinéa à la fois."
+  "desc": "Changes the opponent's text, one paragraph at a time."
  },
  {
   "id": "paperasse",
-  "name": "Paperasse",
+  "name": "Paperwork",
   "type": "TECHNO",
   "cat": "phys",
   "power": 50,
@@ -25,11 +25,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Ensevelit la cible sous les formulaires."
+  "desc": "Buries the target under forms."
  },
  {
   "id": "note_de_service",
-  "name": "Note de service",
+  "name": "Memo",
   "type": "TECHNO",
   "cat": "spec",
   "power": 60,
@@ -39,11 +39,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une note interne, très ferme."
+  "desc": "A very firm internal memo."
  },
  {
   "id": "reunion",
-  "name": "Réunion",
+  "name": "Meeting",
   "type": "TECHNO",
   "cat": "status",
   "power": 0,
@@ -53,11 +53,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une réunion de coordination qui endort tout le monde."
+  "desc": "A coordination meeting that puts everyone to sleep."
  },
  {
   "id": "tampon_sec",
-  "name": "Tampon sec",
+  "name": "Dry Stamp",
   "type": "TECHNO",
   "cat": "phys",
   "power": 70,
@@ -67,11 +67,11 @@
   "chance": 20,
   "param": 0,
   "priority": 0,
-  "desc": "Un coup de tampon net et officiel."
+  "desc": "A clean, official stamp."
  },
  {
   "id": "comitologie",
-  "name": "Comitologie",
+  "name": "Comitology",
   "type": "TECHNO",
   "cat": "status",
   "power": 0,
@@ -81,11 +81,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Personne ne comprend la procédure. Pas même la cible."
+  "desc": "Nobody understands the procedure. Not even the target."
  },
  {
   "id": "relire",
-  "name": "Relecture",
+  "name": "Proofreading",
   "type": "TECHNO",
   "cat": "status",
   "power": 0,
@@ -95,7 +95,7 @@
   "chance": 0,
   "param": 22,
   "priority": 0,
-  "desc": "Relit son dossier. Augmente beaucoup la Résilience."
+  "desc": "Rereads its file. Sharply raises Resilience."
  },
  {
   "id": "directive",
@@ -109,11 +109,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un texte contraignant à transposer d'urgence."
+  "desc": "A binding text to be transposed urgently."
  },
  {
   "id": "reglement",
-  "name": "Règlement",
+  "name": "Regulation",
   "type": "TECHNO",
   "cat": "phys",
   "power": 120,
@@ -123,7 +123,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Directement applicable dans tous les États membres."
+  "desc": "Directly applicable in all member states."
  },
  {
   "id": "trilogue",
@@ -137,11 +137,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Parlement, Conseil, Commission : frappe 2 à 5 fois."
+  "desc": "Parliament, Council, Commission: hits 2 to 5 times."
  },
  {
   "id": "procedure_urgence",
-  "name": "Urgence",
+  "name": "Urgency",
   "type": "TECHNO",
   "cat": "phys",
   "power": 40,
@@ -151,11 +151,11 @@
   "chance": 0,
   "param": 0,
   "priority": 1,
-  "desc": "Procédure d'urgence : agit en premier."
+  "desc": "Urgent procedure: goes first."
  },
  {
   "id": "pause_cafe",
-  "name": "Pause café",
+  "name": "Coffee Break",
   "type": "TECHNO",
   "cat": "status",
   "power": 0,
@@ -165,11 +165,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un café à la cantine. Restaure la moitié des PV."
+  "desc": "A canteen coffee. Restores half the HP."
  },
  {
   "id": "plagiat",
-  "name": "Plagiat",
+  "name": "Plagiarism",
   "type": "TECHNO",
   "cat": "status",
   "power": 0,
@@ -179,11 +179,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Recopie la dernière attaque de l'adversaire."
+  "desc": "Copies the opponent's last move."
  },
  {
   "id": "rapport_annuel",
-  "name": "Rapport annuel",
+  "name": "Annual Report",
   "type": "TECHNO",
   "cat": "spec",
   "power": 100,
@@ -193,11 +193,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Charge un tour, puis assomme avec 400 pages."
+  "desc": "Charges for one turn, then knocks out with 400 pages."
  },
  {
   "id": "integration",
-  "name": "Intégration",
+  "name": "Integration",
   "type": "FEDERAL",
   "cat": "spec",
   "power": 40,
@@ -207,11 +207,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un petit pas vers une union sans cesse plus étroite."
+  "desc": "A small step towards an ever closer union."
  },
  {
   "id": "subsidiarite",
-  "name": "Subsidiarité",
+  "name": "Subsidiarity",
   "type": "FEDERAL",
   "cat": "status",
   "power": 0,
@@ -221,11 +221,11 @@
   "chance": 0,
   "param": 41,
   "priority": 0,
-  "desc": "Agit au bon niveau. Augmente la Diplomatie."
+  "desc": "Acts at the right level. Raises Diplomacy."
  },
  {
   "id": "etats_unis_europe",
-  "name": "États-Unis UE",
+  "name": "United States EU",
   "type": "FEDERAL",
   "cat": "spec",
   "power": 110,
@@ -235,7 +235,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Le grand rêve fédéral, lancé à pleine puissance."
+  "desc": "The great federal dream, launched at full power."
  },
  {
   "id": "team_europe",
@@ -249,11 +249,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Tous ensemble ! Une charge solidaire."
+  "desc": "All together! A charge of solidarity."
  },
  {
   "id": "marche_unique",
-  "name": "Marché unique",
+  "name": "Single Market",
   "type": "FEDERAL",
   "cat": "spec",
   "power": 80,
@@ -263,11 +263,11 @@
   "chance": 20,
   "param": 41,
   "priority": 0,
-  "desc": "Abolit les frontières… et la Diplomatie adverse."
+  "desc": "Abolishes borders… and the opponent's Diplomacy."
  },
  {
   "id": "drapeau_etoile",
-  "name": "Douze étoiles",
+  "name": "Twelve Stars",
   "type": "FEDERAL",
   "cat": "spec",
   "power": 60,
@@ -277,11 +277,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Douze étoiles dorées qui ne ratent jamais."
+  "desc": "Twelve golden stars that never miss."
  },
  {
   "id": "spitzen",
-  "name": "Tête de liste",
+  "name": "Lead Candidate",
   "type": "FEDERAL",
   "cat": "phys",
   "power": 90,
@@ -291,11 +291,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une campagne de Spitzenkandidat. Critiques fréquents."
+  "desc": "A Spitzenkandidat campaign. High critical-hit rate."
  },
  {
   "id": "elargissement",
-  "name": "Élargissement",
+  "name": "Enlargement",
   "type": "FEDERAL",
   "cat": "status",
   "power": 0,
@@ -305,7 +305,7 @@
   "chance": 0,
   "param": 12,
   "priority": 0,
-  "desc": "Accueille de nouveaux membres. Argumentation +2."
+  "desc": "Welcomes new members. Argument +2."
  },
  {
   "id": "veto",
@@ -319,11 +319,11 @@
   "chance": 0,
   "param": 0,
   "priority": 3,
-  "desc": "Bloque toute attaque ce tour-ci. L'unanimité, c'est sacré."
+  "desc": "Blocks any attack this turn. Unanimity is sacred."
  },
  {
   "id": "frontiere",
-  "name": "Frontière",
+  "name": "Border",
   "type": "SOUVERAIN",
   "cat": "phys",
   "power": 60,
@@ -333,7 +333,7 @@
   "chance": 30,
   "param": 51,
   "priority": 0,
-  "desc": "Rétablit un contrôle. Peut baisser la Réactivité."
+  "desc": "Restores checks. May lower Reactivity."
  },
  {
   "id": "opt_out",
@@ -347,11 +347,11 @@
   "chance": 0,
   "param": 22,
   "priority": 0,
-  "desc": "S'exempte des règles communes. Résilience +2."
+  "desc": "Exempts itself from the common rules. Resilience +2."
  },
  {
   "id": "referendum",
-  "name": "Référendum",
+  "name": "Referendum",
   "type": "SOUVERAIN",
   "cat": "spec",
   "power": 85,
@@ -361,7 +361,7 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "Une question simple, des conséquences compliquées."
+  "desc": "A simple question, complicated consequences."
  },
  {
   "id": "article_7",
@@ -375,7 +375,7 @@
   "chance": 100,
   "param": 12,
   "priority": 0,
-  "desc": "Suspend des droits. Argumentation adverse -2."
+  "desc": "Suspends rights. Opponent's Argument -2."
  },
  {
   "id": "article_50",
@@ -389,11 +389,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Quitte le combat… si les négociations aboutissent."
+  "desc": "Leaves the battle… if the negotiations succeed."
  },
  {
   "id": "rabais",
-  "name": "Rabais",
+  "name": "Rebate",
   "type": "SOUVERAIN",
   "cat": "phys",
   "power": 75,
@@ -403,11 +403,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "« I want my money back ! » Récupère des PV."
+  "desc": "“I want my money back!” Regains HP."
  },
  {
   "id": "souverainete",
-  "name": "Souveraineté",
+  "name": "Sovereignty",
   "type": "SOUVERAIN",
   "cat": "phys",
   "power": 100,
@@ -417,11 +417,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Reprend le contrôle avec fracas."
+  "desc": "Takes back control, with a crash."
  },
  {
   "id": "concurrence",
-  "name": "Concurrence",
+  "name": "Competition",
   "type": "LIBERAL",
   "cat": "phys",
   "power": 55,
@@ -431,11 +431,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Libre et non faussée, mais ça fait mal."
+  "desc": "Free and undistorted, but it hurts."
  },
  {
   "id": "libre_echange",
-  "name": "Libre-échange",
+  "name": "Free Trade",
   "type": "LIBERAL",
   "cat": "spec",
   "power": 70,
@@ -445,11 +445,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un accord commercial à droits nuls."
+  "desc": "A zero-tariff trade agreement."
  },
  {
   "id": "deregulation",
-  "name": "Dérégulation",
+  "name": "Deregulation",
   "type": "LIBERAL",
   "cat": "status",
   "power": 0,
@@ -459,7 +459,7 @@
   "chance": 0,
   "param": 22,
   "priority": 0,
-  "desc": "Supprime les protections. Résilience adverse -2."
+  "desc": "Removes protections. Opponent's Resilience -2."
  },
  {
   "id": "start_up",
@@ -473,11 +473,11 @@
   "chance": 0,
   "param": 0,
   "priority": 1,
-  "desc": "Disruptive et rapide. Agit en premier."
+  "desc": "Disruptive and fast. Goes first."
  },
  {
   "id": "main_invisible",
-  "name": "Main invisible",
+  "name": "Invisible Hand",
   "type": "LIBERAL",
   "cat": "phys",
   "power": 85,
@@ -487,11 +487,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "On ne la voit pas venir. Ne rate jamais."
+  "desc": "You never see it coming. Never misses."
  },
  {
   "id": "en_meme_temps",
-  "name": "En même temps",
+  "name": "At the Same Time",
   "type": "LIBERAL",
   "cat": "spec",
   "power": 45,
@@ -501,11 +501,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "De droite et de gauche, frappe 2 à 5 fois."
+  "desc": "From the right and the left, hits 2 to 5 times."
  },
  {
   "id": "macronomie",
-  "name": "Ruissellement",
+  "name": "Trickle-down",
   "type": "LIBERAL",
   "cat": "spec",
   "power": 95,
@@ -515,11 +515,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Fait ruisseler des euros sur le terrain."
+  "desc": "Makes euros trickle down onto the field."
  },
  {
   "id": "greve",
-  "name": "Grève",
+  "name": "Strike",
   "type": "SOCIAL",
   "cat": "status",
   "power": 0,
@@ -529,11 +529,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Tout s'arrête. Gèle les fonds de la cible."
+  "desc": "Everything stops. Freezes the target's funds."
  },
  {
   "id": "pilier_social",
-  "name": "Pilier social",
+  "name": "Social Pillar",
   "type": "SOCIAL",
   "cat": "phys",
   "power": 65,
@@ -543,11 +543,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un pilier européen des droits sociaux bien solide."
+  "desc": "A rock-solid European pillar of social rights."
  },
  {
   "id": "salaire_minimum",
-  "name": "Salaire minimum",
+  "name": "Minimum Wage",
   "type": "SOCIAL",
   "cat": "spec",
   "power": 75,
@@ -557,11 +557,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Directive de 2022 sur des salaires adéquats."
+  "desc": "2022 directive on adequate wages."
  },
  {
   "id": "manif",
-  "name": "Manifestation",
+  "name": "Protest",
   "type": "SOCIAL",
   "cat": "phys",
   "power": 90,
@@ -571,11 +571,11 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "Une marée de pancartes. Peut intimider."
+  "desc": "A sea of placards. May intimidate."
  },
  {
   "id": "solidarite",
-  "name": "Solidarité",
+  "name": "Solidarity",
   "type": "SOCIAL",
   "cat": "status",
   "power": 0,
@@ -585,7 +585,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Mutualise l'effort. Restaure la moitié des PV."
+  "desc": "Shares the effort. Restores half the HP."
  },
  {
   "id": "oxi",
@@ -599,7 +599,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Le « non » grec de juillet 2015. Contrecoup assuré."
+  "desc": "The Greek “no” of July 2015. Recoil guaranteed."
  },
  {
   "id": "erasmus",
@@ -613,11 +613,11 @@
   "chance": 30,
   "param": 31,
   "priority": 0,
-  "desc": "Un échange qui ouvre l'esprit. Peut monter l'Expertise."
+  "desc": "An exchange that broadens the mind. May raise Expertise."
  },
  {
   "id": "pacte_vert",
-  "name": "Pacte vert",
+  "name": "Green Deal",
   "type": "VERT",
   "cat": "spec",
   "power": 60,
@@ -627,11 +627,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Le Green Deal de 2019 en pleine figure."
+  "desc": "The 2019 Green Deal, right in the face."
  },
  {
   "id": "reboisement",
-  "name": "Reboisement",
+  "name": "Reforestation",
   "type": "VERT",
   "cat": "status",
   "power": 0,
@@ -641,11 +641,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Replante. Restaure la moitié des PV."
+  "desc": "Replants. Restores half the HP."
  },
  {
   "id": "taxe_carbone",
-  "name": "Taxe carbone",
+  "name": "Carbon Tax",
   "type": "VERT",
   "cat": "spec",
   "power": 80,
@@ -655,11 +655,11 @@
   "chance": 20,
   "param": 31,
   "priority": 0,
-  "desc": "Mécanisme d'ajustement aux frontières. Peut baisser l'Expertise."
+  "desc": "Carbon border adjustment mechanism. May lower Expertise."
  },
  {
   "id": "neutralite",
-  "name": "Neutralité 2050",
+  "name": "Neutral 2050",
   "type": "VERT",
   "cat": "spec",
   "power": 110,
@@ -669,7 +669,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Zéro émission nette, en un seul coup."
+  "desc": "Net zero emissions, in a single blow."
  },
  {
   "id": "compost",
@@ -683,11 +683,11 @@
   "chance": 20,
   "param": 0,
   "priority": 0,
-  "desc": "Ça sent fort. Peut exposer à l'influence."
+  "desc": "It smells strong. May expose to influence."
  },
  {
   "id": "bouchon_attache",
-  "name": "Bouchon attaché",
+  "name": "Tethered Cap",
   "type": "VERT",
   "cat": "phys",
   "power": 55,
@@ -697,7 +697,7 @@
   "chance": 50,
   "param": 0,
   "priority": 0,
-  "desc": "Directive 2019/904 : le bouchon ne lâche plus la cible."
+  "desc": "Directive 2019/904: the cap won't let go of the target."
  },
  {
   "id": "fit_for_55",
@@ -711,11 +711,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "-55 % d'émissions d'ici 2030, et ça cogne."
+  "desc": "-55% emissions by 2030, and it hits hard."
  },
  {
   "id": "velo",
-  "name": "Vélo",
+  "name": "Bicycle",
   "type": "VERT",
   "cat": "phys",
   "power": 40,
@@ -725,11 +725,11 @@
   "chance": 0,
   "param": 0,
   "priority": 1,
-  "desc": "Une piste cyclable express. Agit en premier."
+  "desc": "An express cycle lane. Goes first."
  },
  {
   "id": "charbon",
-  "name": "Charbon",
+  "name": "Coal",
   "type": "INDUSTRIE",
   "cat": "phys",
   "power": 45,
@@ -739,11 +739,11 @@
   "chance": 10,
   "param": 0,
   "priority": 0,
-  "desc": "La CECA de 1951 en boulet. Peut créer un scandale."
+  "desc": "The 1951 ECSC as a cannonball. May cause a scandal."
  },
  {
   "id": "acier",
-  "name": "Acier",
+  "name": "Steel",
   "type": "INDUSTRIE",
   "cat": "phys",
   "power": 70,
@@ -753,11 +753,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un poing en acier européen."
+  "desc": "A fist of European steel."
  },
  {
   "id": "haut_fourneau",
-  "name": "Haut-fourneau",
+  "name": "Blast Furnace",
   "type": "INDUSTRIE",
   "cat": "spec",
   "power": 90,
@@ -767,11 +767,11 @@
   "chance": 20,
   "param": 0,
   "priority": 0,
-  "desc": "Chaleur extrême. Peut déclencher un scandale."
+  "desc": "Extreme heat. May trigger a scandal."
  },
  {
   "id": "delocalisation",
-  "name": "Délocalisation",
+  "name": "Offshoring",
   "type": "INDUSTRIE",
   "cat": "phys",
   "power": 60,
@@ -781,7 +781,7 @@
   "chance": 50,
   "param": 51,
   "priority": 0,
-  "desc": "Part ailleurs. Peut baisser la Réactivité adverse."
+  "desc": "Moves elsewhere. May lower the opponent's Reactivity."
  },
  {
   "id": "airbus",
@@ -795,11 +795,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un champion européen en piqué."
+  "desc": "A European champion in a nosedive."
  },
  {
   "id": "chaine_montage",
-  "name": "Chaîne",
+  "name": "Assembly Line",
   "type": "INDUSTRIE",
   "cat": "phys",
   "power": 20,
@@ -809,11 +809,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Chaîne de montage : frappe 2 à 5 fois."
+  "desc": "Production line: hits 2 to 5 times."
  },
  {
   "id": "plan_industriel",
-  "name": "Plan industriel",
+  "name": "Industrial Plan",
   "type": "INDUSTRIE",
   "cat": "status",
   "power": 0,
@@ -823,11 +823,11 @@
   "chance": 0,
   "param": 12,
   "priority": 0,
-  "desc": "Relance l'outil productif. Argumentation +2."
+  "desc": "Revives production. Argument +2."
  },
  {
   "id": "etincelle",
-  "name": "Étincelle",
+  "name": "Spark",
   "type": "ENERGIE",
   "cat": "spec",
   "power": 40,
@@ -837,7 +837,7 @@
   "chance": 10,
   "param": 0,
   "priority": 0,
-  "desc": "Petit court-circuit. Peut geler les fonds."
+  "desc": "A little short circuit. May freeze funds."
  },
  {
   "id": "fission",
@@ -851,11 +851,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Euratom, 1957. L'énergie de l'atome."
+  "desc": "Euratom, 1957. The power of the atom."
  },
  {
   "id": "eolienne",
-  "name": "Éolienne",
+  "name": "Wind Turbine",
   "type": "ENERGIE",
   "cat": "spec",
   "power": 60,
@@ -865,11 +865,11 @@
   "chance": 20,
   "param": 0,
   "priority": 0,
-  "desc": "Des pales qui tournent… et la tête aussi."
+  "desc": "Blades that spin… and heads too."
  },
  {
   "id": "robinet_gaz",
-  "name": "Robinet du gaz",
+  "name": "Gas Tap",
   "type": "ENERGIE",
   "cat": "status",
   "power": 0,
@@ -879,7 +879,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Coupe l'approvisionnement. Gèle les fonds."
+  "desc": "Cuts off supply. Freezes funds."
  },
  {
   "id": "repowereu",
@@ -893,11 +893,11 @@
   "chance": 0,
   "param": 32,
   "priority": 0,
-  "desc": "Plan de 2022 pour se sevrer. Expertise +2."
+  "desc": "2022 plan to kick the habit. Expertise +2."
  },
  {
   "id": "surtension",
-  "name": "Surtension",
+  "name": "Power Surge",
   "type": "ENERGIE",
   "cat": "phys",
   "power": 80,
@@ -907,7 +907,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une décharge brutale, avec contrecoup."
+  "desc": "A brutal discharge, with recoil."
  },
  {
   "id": "fusion",
@@ -921,11 +921,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Le réacteur ITER à pleine puissance."
+  "desc": "The ITER reactor at full power."
  },
  {
   "id": "plafond_prix",
-  "name": "Plafond de prix",
+  "name": "Price Cap",
   "type": "ENERGIE",
   "cat": "status",
   "power": 0,
@@ -935,11 +935,11 @@
   "chance": 0,
   "param": 32,
   "priority": 0,
-  "desc": "Plafonne l'adversaire. Expertise -2."
+  "desc": "Puts a cap on the opponent. Expertise -2."
  },
  {
   "id": "mise_en_demeure",
-  "name": "Mise en demeure",
+  "name": "Formal Notice",
   "type": "JURIDIQUE",
   "cat": "spec",
   "power": 50,
@@ -949,11 +949,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Premier avertissement officiel."
+  "desc": "First official warning."
  },
  {
   "id": "infraction",
-  "name": "Infraction",
+  "name": "Infringement",
   "type": "JURIDIQUE",
   "cat": "phys",
   "power": 70,
@@ -963,11 +963,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une procédure d'infraction bien sentie."
+  "desc": "A well-aimed infringement procedure."
  },
  {
   "id": "arret_cjue",
-  "name": "Arrêt de la CJUE",
+  "name": "CJEU Ruling",
   "type": "JURIDIQUE",
   "cat": "spec",
   "power": 95,
@@ -977,11 +977,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Luxembourg a tranché. Pas d'appel possible."
+  "desc": "Luxembourg has ruled. No appeal possible."
  },
  {
   "id": "amende",
-  "name": "Amende",
+  "name": "Fine",
   "type": "JURIDIQUE",
   "cat": "phys",
   "power": 85,
@@ -991,11 +991,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une amende milliardaire. Des pièces volent partout."
+  "desc": "A billion-euro fine. Coins fly everywhere."
  },
  {
   "id": "enquete_olaf",
-  "name": "Enquête OLAF",
+  "name": "OLAF Probe",
   "type": "JURIDIQUE",
   "cat": "spec",
   "power": 75,
@@ -1005,11 +1005,11 @@
   "chance": 10,
   "param": 0,
   "priority": 0,
-  "desc": "L'office antifraude enquête. Peut bloquer la cible."
+  "desc": "The Anti-Fraud Office investigates. May block the target."
  },
  {
   "id": "rgpd",
-  "name": "RGPD",
+  "name": "GDPR",
   "type": "JURIDIQUE",
   "cat": "status",
   "power": 0,
@@ -1019,11 +1019,11 @@
   "chance": 0,
   "param": 72,
   "priority": 0,
-  "desc": "Protège les données. Esquive adverse -2."
+  "desc": "Protects data. Opponent's Evasion -2."
  },
  {
   "id": "jurisprudence",
-  "name": "Jurisprudence",
+  "name": "Case Law",
   "type": "JURIDIQUE",
   "cat": "status",
   "power": 0,
@@ -1033,7 +1033,7 @@
   "chance": 0,
   "param": 32,
   "priority": 0,
-  "desc": "S'appuie sur les précédents. Expertise +2."
+  "desc": "Relies on precedent. Expertise +2."
  },
  {
   "id": "dsa",
@@ -1047,11 +1047,11 @@
   "chance": 30,
   "param": 31,
   "priority": 0,
-  "desc": "Règlement sur les services numériques. Peut baisser l'Expertise."
+  "desc": "Digital Services Act. May lower Expertise."
  },
  {
   "id": "piece_euro",
-  "name": "Pièce d'euro",
+  "name": "Euro Coin",
   "type": "MONETAIRE",
   "cat": "phys",
   "power": 40,
@@ -1061,11 +1061,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un lancer de pièce de 2 €. Pile ou face ?"
+  "desc": "A €2 coin toss. Heads or tails?"
  },
  {
   "id": "taux_directeur",
-  "name": "Taux directeur",
+  "name": "Key Rate",
   "type": "MONETAIRE",
   "cat": "spec",
   "power": 70,
@@ -1075,11 +1075,11 @@
   "chance": 30,
   "param": 51,
   "priority": 0,
-  "desc": "Remonte les taux. Peut ralentir la cible."
+  "desc": "Raises rates. May slow the target."
  },
  {
   "id": "quantitative",
-  "name": "Planche à billets",
+  "name": "Money Printer",
   "type": "MONETAIRE",
   "cat": "spec",
   "power": 90,
@@ -1089,11 +1089,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Assouplissement quantitatif à volonté."
+  "desc": "Quantitative easing at will."
  },
  {
   "id": "austerite",
-  "name": "Austérité",
+  "name": "Austerity",
   "type": "MONETAIRE",
   "cat": "status",
   "power": 0,
@@ -1103,7 +1103,7 @@
   "chance": 0,
   "param": 12,
   "priority": 0,
-  "desc": "Serrez-vous la ceinture. Argumentation adverse -2."
+  "desc": "Tighten your belts. Opponent's Argument -2."
  },
  {
   "id": "whatever",
@@ -1117,7 +1117,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "« Quoi qu'il en coûte » (Draghi, juillet 2012). Réussit toujours."
+  "desc": "“Whatever it takes” (Draghi, July 2012). Always succeeds."
  },
  {
   "id": "inflation",
@@ -1131,7 +1131,7 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "Grignote le pouvoir d'achat, tour après tour."
+  "desc": "Eats away at purchasing power, turn after turn."
  },
  {
   "id": "spread",
@@ -1145,11 +1145,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "L'écart de taux s'envole. Critiques fréquents."
+  "desc": "The rate gap soars. High critical-hit rate."
  },
  {
   "id": "plan_relance",
-  "name": "Plan de relance",
+  "name": "Recovery Plan",
   "type": "MONETAIRE",
   "cat": "status",
   "power": 0,
@@ -1159,11 +1159,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "NextGenerationEU, 750 Md€. Restaure la moitié des PV."
+  "desc": "NextGenerationEU, €750bn. Restores half the HP."
  },
  {
   "id": "tracteur",
-  "name": "Tracteur",
+  "name": "Tractor",
   "type": "AGRICOLE",
   "cat": "phys",
   "power": 65,
@@ -1173,11 +1173,11 @@
   "chance": 30,
   "param": 51,
   "priority": 0,
-  "desc": "Bloque la route. Peut ralentir la cible."
+  "desc": "Blocks the road. May slow the target."
  },
  {
   "id": "pac",
-  "name": "PAC",
+  "name": "CAP",
   "type": "AGRICOLE",
   "cat": "spec",
   "power": 75,
@@ -1187,11 +1187,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Politique agricole commune : récupère des PV."
+  "desc": "Common Agricultural Policy: regains HP."
  },
  {
   "id": "lisier",
-  "name": "Lisier",
+  "name": "Slurry",
   "type": "AGRICOLE",
   "cat": "phys",
   "power": 50,
@@ -1201,11 +1201,11 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "Épandu devant la préfecture. Peut contaminer."
+  "desc": "Spread in front of the prefecture. May contaminate."
  },
  {
   "id": "aop",
-  "name": "AOP",
+  "name": "PDO",
   "type": "AGRICOLE",
   "cat": "status",
   "power": 0,
@@ -1215,11 +1215,11 @@
   "chance": 0,
   "param": 22,
   "priority": 0,
-  "desc": "Appellation protégée. Résilience +2."
+  "desc": "Protected designation. Resilience +2."
  },
  {
   "id": "moisson",
-  "name": "Moisson",
+  "name": "Harvest",
   "type": "AGRICOLE",
   "cat": "phys",
   "power": 90,
@@ -1229,7 +1229,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une récolte record, en pleine tête."
+  "desc": "A record harvest, straight to the head."
  },
  {
   "id": "glyphosate",
@@ -1243,11 +1243,11 @@
   "chance": 40,
   "param": 0,
   "priority": 0,
-  "desc": "Réautorisé dix ans en 2023. Peut empoisonner d'influence."
+  "desc": "Reauthorised for ten years in 2023. May poison with influence."
  },
  {
   "id": "banane_courbe",
-  "name": "Banane courbe",
+  "name": "Bent Banana",
   "type": "AGRICOLE",
   "cat": "phys",
   "power": 55,
@@ -1257,7 +1257,7 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "Règlement de 1994 sur la qualité des bananes. Déroutant."
+  "desc": "1994 regulation on banana quality. Confusing."
  },
  {
   "id": "cookie",
@@ -1271,7 +1271,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un bandeau impossible à fermer. Gèle la cible."
+  "desc": "A banner you can't close. Freezes the target."
  },
  {
   "id": "bug",
@@ -1285,11 +1285,11 @@
   "chance": 20,
   "param": 0,
   "priority": 0,
-  "desc": "Erreur 404. Peut désinformer."
+  "desc": "Error 404. May misinform."
  },
  {
   "id": "algorithme",
-  "name": "Algorithme",
+  "name": "Algorithm",
   "type": "NUMERIQUE",
   "cat": "spec",
   "power": 80,
@@ -1299,7 +1299,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une recommandation personnalisée, très personnalisée."
+  "desc": "A personalised recommendation, very personalised."
  },
  {
   "id": "usb_c",
@@ -1313,7 +1313,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Le chargeur universel, obligatoire depuis 2024."
+  "desc": "The universal charger, mandatory since 2024."
  },
  {
   "id": "fake_news",
@@ -1327,7 +1327,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une rumeur virale. Désinforme la cible."
+  "desc": "A viral rumour. Misinforms the target."
  },
  {
   "id": "roaming",
@@ -1341,11 +1341,11 @@
   "chance": 0,
   "param": 0,
   "priority": 1,
-  "desc": "Plus de frais d'itinérance ! Agit en premier."
+  "desc": "No more roaming charges! Goes first."
  },
  {
   "id": "ia_act",
-  "name": "IA Act",
+  "name": "AI Act",
   "type": "NUMERIQUE",
   "cat": "spec",
   "power": 100,
@@ -1355,11 +1355,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Premier règlement mondial sur l'IA (2024)."
+  "desc": "The world's first AI regulation (2024)."
  },
  {
   "id": "troll",
-  "name": "Trollage",
+  "name": "Trolling",
   "type": "NUMERIQUE",
   "cat": "phys",
   "power": 45,
@@ -1369,11 +1369,11 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "Un commentaire désagréable. Peut décontenancer."
+  "desc": "A nasty comment. May disconcert."
  },
  {
   "id": "poignee_main",
-  "name": "Poignée de main",
+  "name": "Handshake",
   "type": "DIPLO",
   "cat": "phys",
   "power": 50,
@@ -1383,11 +1383,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Ferme et prolongée, devant les photographes."
+  "desc": "Firm and prolonged, in front of the photographers."
  },
  {
   "id": "sommet_nocturne",
-  "name": "Sommet nocturne",
+  "name": "Night summit",
   "type": "DIPLO",
   "cat": "status",
   "power": 0,
@@ -1397,11 +1397,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Négociations jusqu'à 5 h du matin. Endort la cible."
+  "desc": "Negotiations until 5 a.m. Puts the target to sleep."
  },
  {
   "id": "compromis",
-  "name": "Compromis",
+  "name": "Compromise",
   "type": "DIPLO",
   "cat": "spec",
   "power": 70,
@@ -1411,7 +1411,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Tout le monde perd un peu, vous gagnez des PV."
+  "desc": "Everyone loses a little, you gain HP."
  },
  {
   "id": "sanctions",
@@ -1425,11 +1425,11 @@
   "chance": 30,
   "param": 41,
   "priority": 0,
-  "desc": "Un nouveau paquet de sanctions. Peut baisser la Diplomatie."
+  "desc": "A new sanctions package. May lower Diplomacy."
  },
  {
   "id": "canape",
-  "name": "Canapé",
+  "name": "Sofa",
   "type": "DIPLO",
   "cat": "status",
   "power": 0,
@@ -1439,11 +1439,11 @@
   "chance": 0,
   "param": 0,
   "priority": 3,
-  "desc": "Sofagate (Ankara, 2021) : la cible perd son tour. 1er tour seulement."
+  "desc": "Sofagate (Ankara, 2021): the target loses its turn. First turn only."
  },
  {
   "id": "interprete",
-  "name": "Interprétariat",
+  "name": "Interpreting",
   "type": "DIPLO",
   "cat": "spec",
   "power": 60,
@@ -1453,11 +1453,11 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "Traduit en 24 langues. Quelque chose se perd."
+  "desc": "Translated into 24 languages. Something gets lost."
  },
  {
   "id": "accord",
-  "name": "Accord",
+  "name": "Agreement",
   "type": "DIPLO",
   "cat": "phys",
   "power": 95,
@@ -1467,7 +1467,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un accord historique, signé à l'arraché."
+  "desc": "A historic agreement, signed at the last minute."
  },
  {
   "id": "soft_power",
@@ -1481,11 +1481,11 @@
   "chance": 0,
   "param": 42,
   "priority": 0,
-  "desc": "Le charme européen. Diplomatie +2."
+  "desc": "European charm. Diplomacy +2."
  },
  {
   "id": "petits_fours",
-  "name": "Petits fours",
+  "name": "Canapés",
   "type": "LOBBY",
   "cat": "status",
   "power": 0,
@@ -1495,11 +1495,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un cocktail place Lux. La cible passe sous influence."
+  "desc": "A cocktail party on Place Lux. The target falls under influence."
  },
  {
   "id": "valise",
-  "name": "Valise",
+  "name": "Suitcase",
   "type": "LOBBY",
   "cat": "phys",
   "power": 60,
@@ -1509,11 +1509,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une valise bien remplie, lancée avec élan."
+  "desc": "A well-filled suitcase, thrown with gusto."
  },
  {
   "id": "sac_billets",
-  "name": "Sac de billets",
+  "name": "Bag of Cash",
   "type": "LOBBY",
   "cat": "phys",
   "power": 90,
@@ -1523,11 +1523,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Des billets partout. Le terrain en est couvert."
+  "desc": "Banknotes everywhere. The field is covered with them."
  },
  {
   "id": "note_position",
-  "name": "Note de position",
+  "name": "Position Paper",
   "type": "LOBBY",
   "cat": "spec",
   "power": 70,
@@ -1537,11 +1537,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un amendement clé en main, déjà rédigé."
+  "desc": "A ready-made key amendment, already drafted."
  },
  {
   "id": "pantouflage",
-  "name": "Pantouflage",
+  "name": "Revolving Job",
   "type": "LOBBY",
   "cat": "status",
   "power": 0,
@@ -1551,7 +1551,7 @@
   "chance": 0,
   "param": 52,
   "priority": 0,
-  "desc": "Passe dans le privé. Réactivité +2."
+  "desc": "Moves to the private sector. Reactivity +2."
  },
  {
   "id": "influence",
@@ -1565,11 +1565,11 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "Un mot glissé à la bonne oreille."
+  "desc": "A word in the right ear."
  },
  {
   "id": "porte_tournante",
-  "name": "Porte tournante",
+  "name": "Revolving Door",
   "type": "LOBBY",
   "cat": "phys",
   "power": 80,
@@ -1579,7 +1579,7 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "On ne sait plus qui travaille pour qui."
+  "desc": "Nobody knows who works for whom any more."
  },
  {
   "id": "slogan",
@@ -1593,11 +1593,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Trois mots, aucune nuance."
+  "desc": "Three words, zero nuance."
  },
  {
   "id": "bus_rouge",
-  "name": "Bus rouge",
+  "name": "Red Bus",
   "type": "POPULISTE",
   "cat": "phys",
   "power": 85,
@@ -1607,11 +1607,11 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "« 350 millions par semaine ! » Peut désinformer."
+  "desc": "“350 million a week!” May misinform."
  },
  {
   "id": "megaphone",
-  "name": "Mégaphone",
+  "name": "Megaphone",
   "type": "POPULISTE",
   "cat": "spec",
   "power": 75,
@@ -1621,11 +1621,11 @@
   "chance": 20,
   "param": 0,
   "priority": 0,
-  "desc": "Crie plus fort que tout le monde."
+  "desc": "Shouts louder than everyone else."
  },
  {
   "id": "euromythe",
-  "name": "Euromythe",
+  "name": "Euromyth",
   "type": "POPULISTE",
   "cat": "status",
   "power": 0,
@@ -1635,7 +1635,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une légende sur Bruxelles, très convaincante."
+  "desc": "A legend about Brussels, very convincing."
  },
  {
   "id": "tremendous",
@@ -1649,11 +1649,11 @@
   "chance": 0,
   "param": 13,
   "priority": 0,
-  "desc": "Le meilleur coup de tous les temps. Argumentation +3."
+  "desc": "The best move of all time. Argument +3."
  },
  {
   "id": "droits_douane",
-  "name": "Droits de douane",
+  "name": "Tariffs",
   "type": "POPULISTE",
   "cat": "phys",
   "power": 80,
@@ -1663,11 +1663,11 @@
   "chance": 50,
   "param": 22,
   "priority": 0,
-  "desc": "Liberation Day (2 avril 2025). Peut baisser la Résilience."
+  "desc": "Liberation Day (2 April 2025). May lower Resilience."
  },
  {
   "id": "tweet_majuscules",
-  "name": "Post majuscules",
+  "name": "Caps Lock Post",
   "type": "POPULISTE",
   "cat": "spec",
   "power": 95,
@@ -1677,7 +1677,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "UN MESSAGE ÉCRIT ENTIÈREMENT EN MAJUSCULES."
+  "desc": "A MESSAGE WRITTEN ENTIRELY IN CAPITAL LETTERS."
  },
  {
   "id": "laughing",
@@ -1691,11 +1691,11 @@
   "chance": 50,
   "param": 41,
   "priority": 0,
-  "desc": "« You're not laughing now! » (2016). Peut baisser la Diplomatie."
+  "desc": "“You're not laughing now!” (2016). May lower Diplomacy."
  },
  {
   "id": "emploi_fictif",
-  "name": "Emploi fictif",
+  "name": "Fake Job",
   "type": "FANTOME",
   "cat": "spec",
   "power": 60,
@@ -1705,11 +1705,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un travail qui n'existe pas, mais qui coûte."
+  "desc": "A job that doesn't exist, but costs money."
  },
  {
   "id": "disparition",
-  "name": "Disparition",
+  "name": "Vanishing",
   "type": "FANTOME",
   "cat": "status",
   "power": 0,
@@ -1719,11 +1719,11 @@
   "chance": 0,
   "param": 72,
   "priority": 0,
-  "desc": "Introuvable au bureau. Esquive +2."
+  "desc": "Nowhere to be found at the office. Evasion +2."
  },
  {
   "id": "sms_efface",
-  "name": "SMS effacé",
+  "name": "Deleted Text",
   "type": "FANTOME",
   "cat": "status",
   "power": 0,
@@ -1733,11 +1733,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Aucun message ne subsiste. Annule les bonus adverses."
+  "desc": "No message remains. Cancels the opponent's boosts."
  },
  {
   "id": "hantise",
-  "name": "Hantise",
+  "name": "Haunting",
   "type": "FANTOME",
   "cat": "spec",
   "power": 80,
@@ -1747,11 +1747,11 @@
   "chance": 20,
   "param": 0,
   "priority": 0,
-  "desc": "Un dossier qui revient hanter son auteur."
+  "desc": "A file that comes back to haunt its author."
  },
  {
   "id": "fantome_payroll",
-  "name": "Fiche de paie",
+  "name": "Payslip",
   "type": "FANTOME",
   "cat": "phys",
   "power": 70,
@@ -1761,11 +1761,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Un salaire versé pour rien. Récupère des PV."
+  "desc": "A salary paid for nothing. Regains HP."
  },
  {
   "id": "ectoplasme",
-  "name": "Ectoplasme",
+  "name": "Ectoplasm",
   "type": "FANTOME",
   "cat": "spec",
   "power": 100,
@@ -1775,7 +1775,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Une apparition spectaculaire au Parlement."
+  "desc": "A spectacular apparition in Parliament."
  },
  {
   "id": "constitution",
@@ -1789,11 +1789,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Rejetée en 2005… mais d'une puissance folle."
+  "desc": "Rejected in 2005… but insanely powerful."
  },
  {
   "id": "traite_rome",
-  "name": "Traité de Rome",
+  "name": "Treaty of Rome",
   "type": "JURIDIQUE",
   "cat": "phys",
   "power": 120,
@@ -1803,7 +1803,7 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "1957 : la fondation de la CEE."
+  "desc": "1957: the founding of the EEC."
  },
  {
   "id": "traite_maastricht",
@@ -1817,11 +1817,11 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "1992 : l'Union et la monnaie unique."
+  "desc": "1992: the Union and the single currency."
  },
  {
   "id": "traite_lisbonne",
-  "name": "Lisbonne",
+  "name": "Lisbon",
   "type": "JURIDIQUE",
   "cat": "spec",
   "power": 120,
@@ -1831,11 +1831,11 @@
   "chance": 30,
   "param": 41,
   "priority": 0,
-  "desc": "2007 : le traité qui a remplacé la Constitution."
+  "desc": "2007: the treaty that replaced the Constitution."
  },
  {
   "id": "terres_rares",
-  "name": "Terres rares",
+  "name": "Rare Earths",
   "type": "INDUSTRIE",
   "cat": "spec",
   "power": 90,
@@ -1845,11 +1845,11 @@
   "chance": 30,
   "param": 0,
   "priority": 0,
-  "desc": "Restreint les exportations. Peut geler les fonds."
+  "desc": "Restricts exports. May freeze funds."
  },
  {
   "id": "longue_table",
-  "name": "Longue table",
+  "name": "Long Table",
   "type": "SOUVERAIN",
   "cat": "status",
   "power": 0,
@@ -1859,11 +1859,11 @@
   "chance": 0,
   "param": 72,
   "priority": 0,
-  "desc": "Reçoit au bout d'une table de six mètres. Esquive +2."
+  "desc": "Receives you at the end of a six-metre table. Evasion +2."
  },
  {
   "id": "rival_systemique",
-  "name": "Rival systémique",
+  "name": "Systemic Rival",
   "type": "DIPLO",
   "cat": "spec",
   "power": 85,
@@ -1873,11 +1873,11 @@
   "chance": 30,
   "param": 42,
   "priority": 0,
-  "desc": "Partenaire, concurrent, rival. Peut baisser la Diplomatie."
+  "desc": "Partner, competitor, rival. May lower Diplomacy."
  },
  {
   "id": "chantage_groenland",
-  "name": "Groenland",
+  "name": "Greenland",
   "type": "POPULISTE",
   "cat": "phys",
   "power": 100,
@@ -1887,6 +1887,6 @@
   "chance": 0,
   "param": 0,
   "priority": 0,
-  "desc": "Tente d'acheter une île entière. Gros dégâts."
+  "desc": "Tries to buy an entire island. Heavy damage."
  }
 ]

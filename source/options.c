@@ -17,9 +17,9 @@
 
 void scene_options(bool in_game)
 {
-    static const char *const labels[NOPT] = {"Langue", "Vitesse du texte", "Son du texte", "Volume musique",
-                                             "Animations de combat", "Prénom"};
-    static const char *const speeds[3] = {"Lente", "Normale", "Rapide"};
+    static const char *const labels[NOPT] = {"Language", "Text speed", "Text sound", "Music volume",
+                                             "Battle animations", "First name"};
+    static const char *const speeds[3] = {"Slow", "Normal", "Fast"};
     int sel = 0;
     int count = in_game ? NOPT : NOPT - 1;
     bool redraw = true;
@@ -38,13 +38,13 @@ void scene_options(bool in_game)
                 else if (i == 1)
                     snprintf(val, sizeof val, "%s", tr(speeds[g_save.opt_text_speed]));
                 else if (i == 2)
-                    snprintf(val, sizeof val, "%s", tr(g_save.opt_text_mute ? "Non" : "Oui"));
+                    snprintf(val, sizeof val, "%s", tr(g_save.opt_text_mute ? "No" : "Yes"));
                 else if (i == 3) {
                     val[0] = 0;
                     for (int k = 0; k < 4; k++)
                         strcat(val, k < g_save.opt_music ? "★" : "·");
                 } else if (i == 4)
-                    snprintf(val, sizeof val, "%s", tr(g_save.opt_battle_anim ? "Oui" : "Non"));
+                    snprintf(val, sizeof val, "%s", tr(g_save.opt_battle_anim ? "Yes" : "No"));
                 else
                     snprintf(val, sizeof val, "%s", g_save.player_name);
                 ui_text_in(&g_bot, &font_main, 150, y, 74, OPT_H, val, C_TEXT, C_SHADOW, 0);
@@ -54,7 +54,7 @@ void scene_options(bool in_game)
                 } else
                     ui_button(&g_bot, 226, y + 4, 18, 16, "▶", BTN_DARK, &font_small);
             }
-            ui_button(&g_bot, 72, 162, 112, 26, "Retour", BTN_DARK, &font_main);
+            ui_button(&g_bot, 72, 162, 112, 26, "Back", BTN_DARK, &font_main);
             redraw = false;
         }
         frame_wait();
@@ -89,7 +89,7 @@ void scene_options(bool in_game)
             } else if (sel == 4)
                 g_save.opt_battle_anim = !g_save.opt_battle_anim;
             else {
-                keyboard_input("Ton prénom (10 lettres max.) :", g_save.player_name, sizeof g_save.player_name, 10);
+                keyboard_input("Your first name (10 letters max.):", g_save.player_name, sizeof g_save.player_name, 10);
                 redraw = true;
                 continue;
             }
@@ -164,7 +164,7 @@ static void viewer(const char *path, const char *title)
     ui_backdrop(&g_top);
     ui_panel(&g_top, 16, 66, 224, 60, false);
     ui_text_in(&g_top, &font_main, 16, 72, 224, 24, title, C_BLUE, C_SHADOW, 0);
-    ui_text_in(&g_top, &font_small, 16, 98, 224, 18, "↑↓ / stylet : défiler    B : retour", C_BTN_SH, 0, 0);
+    ui_text_in(&g_top, &font_small, 16, 98, 224, 18, "↑↓ / stylus: scroll    B: back", C_BTN_SH, 0, 0);
     int drag_y = -1;
     while (1) {
         if (redraw) {
@@ -215,13 +215,13 @@ static void viewer(const char *path, const char *title)
 
 void scene_credits(void)
 {
-    static const char *const opts[3] = {"Crédits", "Sources des faits", "Retour"};
+    static const char *const opts[3] = {"Credits", "Fact sources", "Back"};
     while (1) {
         int c = dlg_choice(opts, 3, true);
         if (c == 0)
-            viewer("text/credits.txt", "Crédits");
+            viewer("text/credits.txt", "Credits");
         else if (c == 1)
-            viewer("text/sources.txt", "Sources des faits");
+            viewer("text/sources.txt", "Fact sources");
         else
             break;
     }

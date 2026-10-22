@@ -328,7 +328,7 @@ done:
 
 bool dlg_yesno(void)
 {
-    static const char *const yn[2] = {"Oui", "Non"};
+    static const char *const yn[2] = {"Yes", "No"};
     return dlg_choice(yn, 2, true) == 0;
 }
 
@@ -340,7 +340,7 @@ void dlg_notice(const char *text)
     ui_backdrop(&g_bot);
     ui_panel(&g_bot, 12, 52, 232, 88, false);
     ui_text_wrapped(&g_bot, &font_main, 22, 62, 212, tmp, C_TEXT, C_SHADOW);
-    ui_text_in(&g_bot, &font_small, 12, 120, 232, 16, "Touchez ou appuyez sur A", C_MGREY, 0, 0);
+    ui_text_in(&g_bot, &font_small, 12, 120, 232, 16, "Tap or press A", C_MGREY, 0, 0);
     frame_wait();
     while (!input_confirm())
         frame_wait();

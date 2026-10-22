@@ -1,59 +1,59 @@
 [
  {
   "id": "tampon",
-  "name": "Tampon officiel",
+  "name": "Official Stamp",
   "kind": "ball",
   "price": 200,
   "param": 10,
-  "desc": "Tamponne un Euromon affaibli pour l'enregistrer."
+  "desc": "Stamps a weakened Euromon to register it."
  },
  {
   "id": "super_tampon",
-  "name": "Super Tampon",
+  "name": "Super Stamp",
   "kind": "ball",
   "price": 600,
   "param": 15,
-  "desc": "Encre renforcée. Plus efficace qu'un tampon simple."
+  "desc": "Reinforced ink. More effective than a plain stamp."
  },
  {
   "id": "tampon_qualifie",
-  "name": "Tampon qualifié",
+  "name": "Qualified Stamp",
   "kind": "ball",
   "price": 1200,
   "param": 20,
-  "desc": "Majorité qualifiée : très bonne chance de capture."
+  "desc": "Qualified majority: very good chance of capture."
  },
  {
   "id": "tampon_unanime",
-  "name": "Tampon unanime",
+  "name": "Unanimous Stamp",
   "kind": "ball",
   "price": 0,
   "param": 255,
-  "desc": "L'unanimité ! Capture garantie. Extrêmement rare."
+  "desc": "Unanimity! Guaranteed capture. Extremely rare."
  },
  {
   "id": "cafe",
-  "name": "Café cantine",
+  "name": "Canteen Coffee",
   "kind": "heal",
   "price": 200,
   "param": 20,
-  "desc": "Restaure 20 PV. Tiède, mais efficace."
+  "desc": "Restores 20 HP. Lukewarm, but effective."
  },
  {
   "id": "sandwich",
-  "name": "Sandwich club",
+  "name": "Club Sandwich",
   "kind": "heal",
   "price": 500,
   "param": 50,
-  "desc": "Restaure 50 PV. Le préféré des stagiaires."
+  "desc": "Restores 50 HP. The interns' favourite."
  },
  {
   "id": "gaufre",
-  "name": "Gaufre de Bruxelles",
+  "name": "Brussels Waffle",
   "kind": "heal",
   "price": 900,
   "param": 120,
-  "desc": "Restaure 120 PV. Sucre glace inclus."
+  "desc": "Restores 120 HP. Icing sugar included."
  },
  {
   "id": "kniddelen",
@@ -61,103 +61,103 @@
   "kind": "heal",
   "price": 1500,
   "param": 200,
-  "desc": "Spécialité luxembourgeoise. Restaure 200 PV."
+  "desc": "A Luxembourg speciality. Restores 200 HP."
  },
  {
   "id": "menu_complet",
-  "name": "Menu complet",
+  "name": "Full Menu",
   "kind": "heal",
   "price": 2500,
   "param": 999,
-  "desc": "Entrée, plat, dessert : restaure tous les PV."
+  "desc": "Starter, main, dessert: restores all HP."
  },
  {
   "id": "avis_juridique",
-  "name": "Avis juridique",
+  "name": "Legal Opinion",
   "kind": "status",
   "price": 300,
   "param": 0,
-  "desc": "Soigne tous les problèmes de statut."
+  "desc": "Cures all status problems."
  },
  {
   "id": "reveil",
-  "name": "Réveil-matin",
+  "name": "Alarm Clock",
   "kind": "status",
   "price": 150,
   "param": 0,
-  "desc": "Réveille un Euromon endormi par un sommet."
+  "desc": "Wakes a Euromon put to sleep by a summit."
  },
  {
   "id": "motion_relance",
-  "name": "Motion de relance",
+  "name": "Revival Motion",
   "kind": "revive",
   "price": 1500,
   "param": 50,
-  "desc": "Remet un Euromon K.O. en état de débattre."
+  "desc": "Brings a fainted Euromon back into the debate."
  },
  {
   "id": "motion_unanime",
-  "name": "Relance unanime",
+  "name": "Unanimous Revival",
   "kind": "revive",
   "price": 0,
   "param": 999,
-  "desc": "Ranime un Euromon K.O. avec tous ses PV."
+  "desc": "Revives a fainted Euromon with all its HP."
  },
  {
   "id": "pause_syndicale",
-  "name": "Pause syndicale",
+  "name": "Union Break",
   "kind": "pp",
   "price": 1200,
   "param": 0,
-  "desc": "Restaure tous les PP d'un Euromon."
+  "desc": "Restores all of a Euromon's PP."
  },
  {
   "id": "x_argument",
-  "name": "Argumentaire",
+  "name": "Talking Points",
   "kind": "battle",
   "price": 500,
   "param": 11,
-  "desc": "En combat : augmente l'Argumentation."
+  "desc": "In battle: raises Argument."
  },
  {
   "id": "x_resilience",
-  "name": "Gilet pare-balles",
+  "name": "Bulletproof Vest",
   "kind": "battle",
   "price": 500,
   "param": 21,
-  "desc": "En combat : augmente la Résilience."
+  "desc": "In battle: raises Resilience."
  },
  {
   "id": "x_expertise",
-  "name": "Rapport d'expert",
+  "name": "Expert Report",
   "kind": "battle",
   "price": 500,
   "param": 31,
-  "desc": "En combat : augmente l'Expertise."
+  "desc": "In battle: raises Expertise."
  },
  {
   "id": "x_diplomatie",
-  "name": "Carnet d'adresses",
+  "name": "Address Book",
   "kind": "battle",
   "price": 500,
   "param": 41,
-  "desc": "En combat : augmente la Diplomatie."
+  "desc": "In battle: raises Diplomacy."
  },
  {
   "id": "x_reactivite",
-  "name": "Double expresso",
+  "name": "Double Espresso",
   "kind": "battle",
   "price": 500,
   "param": 51,
-  "desc": "En combat : augmente la Réactivité."
+  "desc": "In battle: raises Reactivity."
  },
  {
   "id": "non_sollicitation",
-  "name": "Non-sollicitation",
+  "name": "Non-solicitation",
   "kind": "repel",
   "price": 400,
   "param": 100,
-  "desc": "Clause anti-démarchage : éloigne les Euromons 100 pas."
+  "desc": "Anti-canvassing clause: keeps Euromons away for 100 steps."
  },
  {
   "id": "ratification",
@@ -165,23 +165,23 @@
   "kind": "evo",
   "price": 2000,
   "param": 0,
-  "desc": "Fait évoluer certains Euromons. Il faut 27 signatures."
+  "desc": "Makes certain Euromons evolve. Requires 27 signatures."
  },
  {
   "id": "pierre_solaire",
-  "name": "Panneau solaire",
+  "name": "Solar Panel",
   "kind": "evo",
   "price": 2000,
   "param": 0,
-  "desc": "Fait évoluer certains Euromons énergétiques."
+  "desc": "Makes certain energy Euromons evolve."
  },
  {
   "id": "cle_usb",
-  "name": "Clé USB-C",
+  "name": "USB-C Key",
   "kind": "evo",
   "price": 2000,
   "param": 0,
-  "desc": "Fait évoluer certains Euromons numériques."
+  "desc": "Makes certain digital Euromons evolve."
  },
  {
   "id": "eurodex",
@@ -189,47 +189,47 @@
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Encyclopédie des Euromons, offerte par Jean Monnet."
+  "desc": "Encyclopedia of Euromons, a gift from Jean Monnet."
  },
  {
   "id": "badge_acces",
-  "name": "Badge d'accès",
+  "name": "Access Badge",
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Ouvre les portes du Parlement. Couleur : stagiaire."
+  "desc": "Opens Parliament's doors. Colour: intern."
  },
  {
   "id": "badge_olaf",
-  "name": "Badge OLAF",
+  "name": "OLAF Badge",
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Permet de voir les assistants fantômes."
+  "desc": "Lets you see the ghost assistants."
  },
  {
   "id": "passeport",
-  "name": "Passeport européen",
+  "name": "European Passport",
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Bordeaux, 32 pages, toutes les frontières s'ouvrent."
+  "desc": "Burgundy, 32 pages, every border opens."
  },
  {
   "id": "pass_interrail",
-  "name": "Pass Interrail",
+  "name": "Interrail Pass",
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Voyagez en train dans toute l'Europa."
+  "desc": "Travel by train all over Europe."
  },
  {
   "id": "repowereu_item",
-  "name": "Kit REPowerEU",
+  "name": "REPowerEU Kit",
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Pour rallumer le chauffage quand le gaz est coupé."
+  "desc": "To turn the heating back on when the gas is cut off."
  },
  {
   "id": "cognac",
@@ -237,38 +237,38 @@
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Une bouteille précieuse. Surtaxée depuis 2024…"
+  "desc": "A precious bottle. Surtaxed since 2024…"
  },
  {
   "id": "carte_cantine",
-  "name": "Carte de cantine",
+  "name": "Canteen Card",
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Crédit : 3,40 €. Suffisant pour un café."
+  "desc": "Credit: €3.40. Enough for a coffee."
  },
  {
   "id": "directive_heure",
-  "name": "Directive heure",
+  "name": "Clock Directive",
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "La directive sur la fin du changement d'heure (2019)."
+  "desc": "The directive ending the clock change (2019)."
  },
  {
   "id": "malle_fer",
-  "name": "Malle en fer",
+  "name": "Iron Trunk",
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Une malle du déménagement Bruxelles–Strasbourg."
+  "desc": "A trunk from the Brussels–Strasbourg move."
  },
  {
   "id": "etui_badges",
-  "name": "Étui à badges",
+  "name": "Badge Case",
   "kind": "key",
   "price": 0,
   "param": 0,
-  "desc": "Contient les badges des traités."
+  "desc": "Holds the treaty badges."
  }
 ]

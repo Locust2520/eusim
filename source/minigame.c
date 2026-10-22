@@ -22,12 +22,12 @@ static void top_panel(const char *title, const char *rule, int secs_left, int sc
     ui_text_in(&g_top, &font_small, 8, 31, 239, 18, rule, C_TEXT, 0, 0);
     char buf[48];
     canvas_frame(&g_top, 40, 70, 176, 58, FRAME_DIALOG);
-    snprintf(buf, sizeof buf, T("Temps : %d s"), secs_left);
+    snprintf(buf, sizeof buf, T("Time: %d s"), secs_left);
     ui_text_in(&g_top, &font_main, 40, 74, 175, 24, buf, secs_left <= 5 ? C_RED : C_TEXT, C_SHADOW, 0);
     if (goal < 0)   // percentage games: score = % of the time on target
-        snprintf(buf, sizeof buf, T("Zone verte : %d %%"), score);
+        snprintf(buf, sizeof buf, T("Green zone: %d %%"), score);
     else
-        snprintf(buf, sizeof buf, T("Score : %d / %d"), score, goal);
+        snprintf(buf, sizeof buf, T("Score: %d / %d"), score, goal);
     ui_text_in(&g_top, &font_main, 40, 98, 175, 24, buf, C_BLUE, C_SHADOW, 0);
 }
 
@@ -39,7 +39,7 @@ static bool intro(const char *title, const char *text)
     ui_backdrop(&g_top);
     canvas_frame(&g_top, 8, 8, 240, 46, FRAME_GOLD);
     ui_text_in(&g_top, &font_main, 8, 10, 239, 22, title, C_BLUE, C_SHADOW, 0);
-    ui_text_in(&g_top, &font_small, 8, 31, 239, 18, "Mini-jeu", C_TEXT, 0, 0);
+    ui_text_in(&g_top, &font_small, 8, 31, 239, 18, "Minigame", C_TEXT, 0, 0);
     music_play("minigame");
     dlg_say("", text);
     dlg_close();
@@ -73,7 +73,7 @@ static int outro(bool ok, const char *win, const char *lose)
 // ---------------------------------------------------------------- vote: tap the seats that light up
 static int mg_vote(void)
 {
-    intro("Vote en plénière", "Les députés arrivent dans l'hémicycle ! Touchez chaque siège qui s'allume en jaune avant qu'il ne s'éteigne. 25 votes en 30 secondes !");
+    intro("Plenary vote", "The MEPs are arriving in the hemicycle! Tap each seat that lights up yellow before it goes out. 25 votes in 30 seconds!");
     int sx[48], sy[48], life[48];
     int n = 0;
     for (int r = 0; r < 4; r++) {
@@ -96,7 +96,7 @@ static int mg_vote(void)
         }
         ui_backdrop(&g_bot);
         canvas_rect(&g_bot, 108, 160, 40, 24, C_GOLD_D);
-        canvas_text_center(&g_bot, &font_small, 128, 166, "Présidence", C_WHITE, 0);
+        canvas_text_center(&g_bot, &font_small, 128, 166, "Presidency", C_WHITE, 0);
         for (int k = 0; k < n; k++) {
             u8 c = life[k] ? (life[k] < 25 && (life[k] & 4) ? C_GOLD_D : C_YELLOW) : C_BLUE_L;
             canvas_rect(&g_bot, sx[k] - 5, sy[k] - 5, 11, 11, C_TEXT);
@@ -117,18 +117,18 @@ static int mg_vote(void)
                 sfx_play(SFX_BUMP);
         }
         if (frames % 15 == 0)
-            top_panel("Vote en plénière", "Touchez les sièges jaunes !", frames / 60, score, goal);
+            top_panel("Plenary vote", "Tap the yellow seats!", frames / 60, score, goal);
         frame_wait();
         frames--;
     }
-    return outro(score >= goal, "Adopté à une large majorité ! Applaudissements sur tous les bancs.",
-                 "Le quorum n'est pas atteint. La séance est suspendue…");
+    return outro(score >= goal, "Adopted by a large majority! Applause from all sides.",
+                 "No quorum. The sitting is suspended…");
 }
 
 // ---------------------------------------------------------------- tampon: approve valid documents, let fakes pass
 static int mg_tampon(void)
 {
-    intro("Le Tampon", "Tamponnez 15 arrêts valides en 30 secondes. Laissez passer les papiers marqués « FAUX » : en tamponner un fait perdre la manche !");
+    intro("The Stamp", "Stamp 15 valid rulings in 30 seconds. Let papers marked “FAKE” pass: stamping one loses the round!");
     int x[6], y[6], st[6];
     bool valid[6];
     for (int i = 0; i < 6; i++)
@@ -157,7 +157,7 @@ static int mg_tampon(void)
             u8 label_color = valid[i] ? C_GREEN : C_RED;
             canvas_rect(&g_bot, x[i] + 2, y[i] + 2, 36, 13, label_color);
             ui_text_in(&g_bot, &font_small, x[i] + 2, y[i] + 2, 36, 13,
-                       valid[i] ? "ARRÊT" : "FAUX", C_WHITE, C_INK, 0);
+                       valid[i] ? "RULING" : "FAKE", C_WHITE, C_INK, 0);
             for (int l = 0; l < 4; l++)
                 canvas_hline(&g_bot, x[i] + 5, y[i] + 20 + l * 7, 28, C_LGREY);
             if (st[i]) {
@@ -184,19 +184,19 @@ static int mg_tampon(void)
                 }
         }
         if (frames % 15 == 0)
-            top_panel("Le Tampon", "ARRÊT : tamponner. FAUX : laisser passer.", frames / 60, score, goal);
+            top_panel("The Stamp", "RULING: stamp. FAKE: let it pass.", frames / 60, score, goal);
         frame_wait();
         frames--;
     }
-    return outro(score >= goal, "Quinze arrêts valides tamponnés ! L'administration est fière de vous.",
-                 mistake ? "Un mauvais document a été tamponné ! Il faut vérifier avant de valider…"
-                         : "Les quinze arrêts valides ne sont pas prêts. Le greffe ferme, il faudra réessayer…");
+    return outro(score >= goal, "Fifteen valid rulings stamped! The administration is proud of you.",
+                 mistake ? "You stamped a bad document! Check before you approve…"
+                         : "The fifteen valid rulings are not ready. The registry is closing. Try again…");
 }
 
 // ---------------------------------------------------------------- cookies: refuse banners before they pile up
 static int mg_cookies(void)
 {
-    intro("Bandeaux cookies", "Des bandeaux cookies envahissent l'écran ! Touchez « Refuser » sur chacun. Si six bandeaux s'accumulent, c'est perdu. Tenez 25 secondes !");
+    intro("Cookie banners", "Cookie banners are invading the screen! Tap “Reject” on each one. If six banners pile up, you lose. Hold out for 25 seconds!");
     int bx[8], by[8];
     bool on[8] = {0};
     int frames = 25 * 60, spawn = 30, score = 0;
@@ -214,18 +214,18 @@ static int mg_cookies(void)
         }
         int count = 0;
         canvas_clear(&g_bot, C_PANEL);
-        canvas_text_center(&g_bot, &font_small, 128, 90, "(un site internet quelconque)", C_LGREY, 0);
+        canvas_text_center(&g_bot, &font_small, 128, 90, "(some random website)", C_LGREY, 0);
         for (int i = 0; i < 8; i++) {
             if (!on[i])
                 continue;
             count++;
             canvas_frame(&g_bot, bx[i], by[i], 108, 44, FRAME_MENU);
-            canvas_text(&g_bot, &font_small, bx[i] + 7, by[i] + 2, "Nous respectons", C_TEXT, 0);
-            canvas_text(&g_bot, &font_small, bx[i] + 7, by[i] + 12, "votre vie privée", C_TEXT, 0);
+            canvas_text(&g_bot, &font_small, bx[i] + 7, by[i] + 2, "We respect", C_TEXT, 0);
+            canvas_text(&g_bot, &font_small, bx[i] + 7, by[i] + 12, "your privacy", C_TEXT, 0);
             canvas_rect(&g_bot, bx[i] + 5, by[i] + 27, 48, 13, C_GREEN);
-            ui_text_in(&g_bot, &font_small, bx[i] + 5, by[i] + 27, 48, 13, "Accepter", C_WHITE, C_INK, 0);
+            ui_text_in(&g_bot, &font_small, bx[i] + 5, by[i] + 27, 48, 13, "Accept", C_WHITE, C_INK, 0);
             canvas_rect(&g_bot, bx[i] + 55, by[i] + 27, 48, 13, C_RED);
-            ui_text_in(&g_bot, &font_small, bx[i] + 55, by[i] + 27, 48, 13, "Refuser", C_WHITE, C_INK, 0);
+            ui_text_in(&g_bot, &font_small, bx[i] + 55, by[i] + 27, 48, 13, "Reject", C_WHITE, C_INK, 0);
         }
         if (count >= 6)
             lost = true;
@@ -254,18 +254,18 @@ static int mg_cookies(void)
             }
         }
         if (frames % 15 == 0)
-            top_panel("Bandeaux cookies", "Refusez tout ! (ne cliquez pas sur Accepter)", frames / 60, score, 99);
+            top_panel("Cookie banners", "Reject everything! (don't tap Accept)", frames / 60, score, 99);
         frame_wait();
         frames--;
     }
-    return outro(!lost, "Tous les cookies refusés ! Le RGPD est fier de vous.",
-                 "Submergé par les bandeaux… Vous avez accepté 437 partenaires publicitaires.");
+    return outro(!lost, "All cookies rejected! The GDPR is proud of you.",
+                 "Overwhelmed by banners… You've accepted 437 advertising partners.");
 }
 
 // ---------------------------------------------------------------- sommet: wake up the 27 leaders (mic or tap)
 static int mg_sommet(void)
 {
-    intro("Sommet nocturne", "Il est 3 h du matin, les 27 chefs d'État s'endorment ! Soufflez dans le micro (ou touchez la tête qui dort) pour les réveiller. 27 réveils avant l'aube !");
+    intro("Night summit", "It's 3 a.m. and the 27 heads of state are falling asleep! Blow into the microphone (or tap the sleeping head) to wake them up. 27 wake-ups before dawn!");
     mic_start();
     int asleep = -1, score = 0, goal = 27, frames = 45 * 60, sleep_timer = 20;
     int cx[27], cy[27];
@@ -282,7 +282,7 @@ static int mg_sommet(void)
         canvas_rect(&g_bot, 62, 62, 132, 68, RGB15(0, 0, 0) ? 0 : C_GOLD);
         int hour = 3 + (45 * 60 - frames) / (60 * 15);
         char buf[16];
-        snprintf(buf, sizeof buf, "%d h %02d", hour, ((45 * 60 - frames) / 15) % 60);
+        snprintf(buf, sizeof buf, "%d:%02d", hour, ((45 * 60 - frames) / 15) % 60);
         canvas_text_center(&g_bot, &font_main, 128, 88, buf, C_TEXT, 0);
         for (int i = 0; i < 27; i++) {
             bool z = i == asleep;
@@ -311,19 +311,19 @@ static int mg_sommet(void)
             sleep_timer = 15 + rng_range(25);
         }
         if (frames % 15 == 0)
-            top_panel("Sommet nocturne", "Soufflez / touchez la tête endormie !", frames / 60, score, goal);
+            top_panel("Night summit", "Blow / tap the sleeping head!", frames / 60, score, goal);
         frame_wait();
         frames--;
     }
     mic_stop();
-    return outro(score >= goal, "Tous réveillés ! Accord trouvé à 4 h 37. Comme d'habitude.",
-                 "Le soleil se lève sur une table de dirigeants endormis. Le sommet est reporté.");
+    return outro(score >= goal, "Everyone's awake! Agreement reached at 4:37 a.m. As usual.",
+                 "The sun rises over a table of sleeping leaders. The summit is postponed.");
 }
 
 // ---------------------------------------------------------------- malles: tap trunks in numeric order
 static int mg_malles(void)
 {
-    intro("Les malles de Strasbourg", "Chargez les malles des députés dans le train, dans l'ordre : 1, 2, 3… jusqu'à 10. Vous avez 30 secondes !");
+    intro("The Strasbourg trunks", "Load the MEPs' trunks onto the train, in order: 1, 2, 3… up to 10. You have 30 seconds!");
     int mx[10], my[10];
     bool done[10] = {0};
     for (int i = 0; i < 10; i++) {
@@ -341,7 +341,7 @@ static int mg_malles(void)
     while (frames > 0 && next < 10) {
         canvas_clear(&g_bot, C_MGREY);
         canvas_rect(&g_bot, 0, 170, 256, 22, C_DGREY);
-        canvas_text_center(&g_bot, &font_small, 128, 174, "Quai — TGV Strasbourg ⇄ Bruxelles", C_WHITE, 0);
+        canvas_text_center(&g_bot, &font_small, 128, 174, "Platform — TGV Strasbourg ⇄ Brussels", C_WHITE, 0);
         for (int i = 0; i < 10; i++) {
             if (done[i])
                 continue;
@@ -366,12 +366,12 @@ static int mg_malles(void)
                 }
         }
         if (frames % 15 == 0)
-            top_panel("Les malles", "Touchez les malles dans l'ordre !", MAX(0, frames / 60), next, 10);
+            top_panel("The trunks", "Tap the trunks in order!", MAX(0, frames / 60), next, 10);
         frame_wait();
         frames--;
     }
-    return outro(next >= 10, "Toutes les malles sont dans le train ! La session peut commencer.",
-                 "Le train est parti sans les malles. Les députés siégeront en pyjama.");
+    return outro(next >= 10, "All the trunks are on the train! The session can begin.",
+                 "The train left without the trunks. The MEPs will sit in their pyjamas.");
 }
 
 // ================================================================ computer terminals (5 mini-games)
@@ -419,25 +419,25 @@ static void shuffle(int *a, int n)
 
 // ---------------------------------------------------------------- courriels: read real mail, bin the spam
 static const struct { const char *from, *subj; bool spam; } mails[] = {
-    {"Prince Mbeki III", "Héritage de 4 M€ à partager", true},
-    {"Lobby du diesel", "Invitation : dîner au homard", true},
-    {"Service RH", "Réunion de coordination sur les réunions", true},
-    {"SuperPromo", "Votre téléphone gratuit vous attend", true},
-    {"Qatar Events", "Une petite valise pour vous ?", true},
-    {"Banque Sécurité", "Confirmez votre mot de passe ici", true},
-    {"Newsletter", "47 nouveautés passionnantes du RGPD", true},
-    {"Roberta Metsola", "Ordre du jour de la plénière", false},
-    {"Maman", "Tu manges bien à Bruxelles ?", false},
-    {"Cantine", "Menu du jour : waterzooi", false},
-    {"Greffe de la Cour", "Arrêt à notifier avant midi", false},
-    {"Commission", "Vote du budget demain", false},
-    {"Jean Monnet", "Ton Eurodex a été mis à jour", false},
-    {"Oliver", "Débat ce soir ? Je vais gagner.", false},
+    {"Prince Mbeki III", "4M€ Inheritance to Share", true},
+    {"Diesel Lobby", "Invitation: Lobster Dinner", true},
+    {"HR Department", "Coordination Meeting About Meetings", true},
+    {"SuperPromo", "Your Free Phone Is Waiting", true},
+    {"Qatar Events", "A Little Suitcase For You?", true},
+    {"SecureBank", "Confirm Your Password Here", true},
+    {"Newsletter", "47 Exciting GDPR Updates", true},
+    {"Roberta Metsola", "Plenary Agenda", false},
+    {"Mum", "Are You Eating Well in Brussels?", false},
+    {"Canteen", "Today's Menu: Waterzooi", false},
+    {"Court Registry", "Ruling Must Be Notified by Noon", false},
+    {"Commission", "Budget Vote Tomorrow", false},
+    {"Jean Monnet", "Your Eurodex Has Been Updated", false},
+    {"Oliver", "Debate Tonight? I'm Going to Win.", false},
 };
 
 static int mg_courriels(void)
 {
-    intro("Boîte de réception", "437 courriels non lus ! Touchez un vrai courriel pour le lire, et la croix rouge pour jeter un spam. Traitez-en 20 avant que la boîte ne déborde !");
+    intro("Inbox", "437 unread emails! Tap a real email to read it, and the red cross to bin spam. Clear 20 before the inbox overflows!");
     int q[8], n = 0;
     int score = 0, goal = 20, errors = 0, frames = 40 * 60, spawn = 10, flash = 0;
     bool lost = false, overflow = false;
@@ -459,7 +459,7 @@ static int mg_courriels(void)
         }
         canvas_clear(&g_bot, C_PANEL);
         canvas_rect(&g_bot, 0, 0, 256, 16, C_BLUE);
-        ui_text_in(&g_bot, &font_small, 0, 0, 200, 16, "Boîte de réception", C_WHITE, 0, -1);
+        ui_text_in(&g_bot, &font_small, 0, 0, 200, 16, "Inbox", C_WHITE, 0, -1);
         char buf[16];
         snprintf(buf, sizeof buf, "%d / 7", n);
         canvas_text_right(&g_bot, &font_small, 250, 3, buf, n >= 6 ? C_YELLOW : C_WHITE, 0);
@@ -499,57 +499,57 @@ static int mg_courriels(void)
             }
         }
         if (frames % 15 == 0 || flash == 19) {
-            top_panel("Boîte de réception", "Lire : touchez · Spam : croix rouge", frames / 60, score, goal);
-            snprintf(buf, sizeof buf, T("Erreurs : %d / 3"), errors);
+            top_panel("Inbox", "Read: tap · Spam: red cross", frames / 60, score, goal);
+            snprintf(buf, sizeof buf, T("Mistakes: %d / 3"), errors);
             top_extra(buf, errors ? C_RED : C_TEXT);
         }
         frame_wait();
         frames--;
     }
-    return outro(!lost && score >= goal, "Boîte vide ! Pour la première fois depuis 2019. Savourez, ça ne durera pas.",
-                 overflow ? "La boîte déborde ! Le serveur de la Commission vient de planter. Encore."
-                          : "Vous avez jeté le courriel de la présidente et répondu au prince. Ça arrive aux meilleurs.");
+    return outro(!lost && score >= goal, "Empty inbox! First time since 2019. Enjoy it, it won't last.",
+                 overflow ? "Inbox overflowing! The Commission's server just crashed. Again."
+                          : "You binned the President's email and replied to the prince. Happens to the best of us.");
 }
 
 // ---------------------------------------------------------------- désinfox: true or false about the EU
 static const struct { const char *q, *why; bool vrai; } intox[] = {
-    {"Depuis 2024, les nouveaux téléphones vendus dans l'UE doivent avoir un port USB-C.",
-     "Vrai : la directive sur le chargeur universel s'applique depuis fin 2024.", true},
-    {"L'UE interdit de vendre des bananes trop courbées.",
-     "Faux : un règlement de 1994 classait les bananes par qualité. Les courbées restent en vente.", false},
-    {"Le drapeau européen a 12 étoiles parce qu'il y avait 12 pays membres.",
-     "Faux : 12 est un symbole de perfection. Le drapeau date de 1955, bien avant les 12 pays.", false},
-    {"Le Parlement européen siège une semaine par mois à Strasbourg.",
-     "Vrai : 12 sessions par an à Strasbourg, avec les malles qui vont avec.", true},
-    {"Les commissaires européens sont élus directement par les citoyens.",
-     "Faux : ils sont proposés par les gouvernements puis approuvés par le Parlement.", false},
-    {"L'Union européenne compte 24 langues officielles.",
-     "Vrai : de l'irlandais au maltais, tous les textes sont traduits dans les 24.", true},
-    {"Tous les pays de l'UE utilisent l'euro.",
-     "Faux : en 2026, 21 pays sur 27 l'utilisent. La Bulgarie est la dernière arrivée.", false},
-    {"Les frais d'itinérance mobile ont été supprimés dans l'UE en 2017.",
-     "Vrai : depuis juin 2017, on appelle partout « comme à la maison ».", true},
-    {"L'hymne européen est l'Ode à la joie de Beethoven.",
-     "Vrai : sans paroles officielles, pour ne fâcher aucune langue.", true},
-    {"Le Luxembourg est le plus petit pays de l'UE.",
-     "Faux : c'est Malte, environ 316 km².", false},
-    {"L'Union européenne a reçu le prix Nobel de la paix.",
-     "Vrai : en 2012, pour 60 ans de paix et de réconciliation.", true},
-    {"Le RGPD protège les données personnelles depuis 2018.",
-     "Vrai : il s'applique depuis le 25 mai 2018. D'où les bandeaux cookies…", true},
-    {"Les concombres tordus sont interdits à la vente dans l'UE.",
-     "Faux : la norme sur leur courbure a été supprimée en 2009.", false},
-    {"Les bouchons doivent rester attachés aux bouteilles en plastique.",
-     "Vrai : obligatoire depuis juillet 2024, pour qu'ils ne finissent plus dans la nature.", true},
-    {"La Suisse est membre de l'Union européenne.",
-     "Faux : elle est dans l'espace Schengen, mais pas dans l'UE.", false},
-    {"La Banque centrale européenne a son siège à Bruxelles.",
-     "Faux : elle est à Francfort, en Allemagne.", false},
+    {"Since 2024, new phones sold in the EU must have a USB-C port.",
+     "True: the universal charger directive has applied since late 2024.", true},
+    {"The EU bans selling bananas that are too curved.",
+     "False: a 1994 regulation classified bananas by quality. Curved ones are still sold.", false},
+    {"The European flag has 12 stars because there were 12 member states.",
+     "False: 12 is a symbol of perfection. The flag dates from 1955, long before there were 12 members.", false},
+    {"The European Parliament sits one week a month in Strasbourg.",
+     "True: 12 sessions a year in Strasbourg, trunks included.", true},
+    {"European commissioners are elected directly by citizens.",
+     "False: they're nominated by governments, then approved by Parliament.", false},
+    {"The European Union has 24 official languages.",
+     "True: from Irish to Maltese, every text is translated into all 24.", true},
+    {"All EU countries use the euro.",
+     "False: in 2026, 21 out of 27 countries use it. Bulgaria is the latest to join.", false},
+    {"Mobile roaming charges were abolished in the EU in 2017.",
+     "True: since June 2017, it's “roam like at home” everywhere.", true},
+    {"The European anthem is Beethoven's Ode to Joy.",
+     "True: with no official lyrics, so as not to upset any language.", true},
+    {"Luxembourg is the smallest EU country.",
+     "False: that's Malta, about 316 km².", false},
+    {"The European Union received the Nobel Peace Prize.",
+     "True: in 2012, for 60 years of peace and reconciliation.", true},
+    {"GDPR has protected personal data since 2018.",
+     "True: it's applied since 25 May 2018. Hence the cookie banners…", true},
+    {"Crooked cucumbers are banned from sale in the EU.",
+     "False: the standard on their curvature was scrapped in 2009.", false},
+    {"Caps must stay attached to plastic bottles.",
+     "True: mandatory since July 2024, so they stop ending up in nature.", true},
+    {"Switzerland is a member of the European Union.",
+     "False: it's in the Schengen Area, but not in the EU.", false},
+    {"The European Central Bank is headquartered in Brussels.",
+     "False: it's in Frankfurt, Germany.", false},
 };
 
 static int mg_desinfox(void)
 {
-    intro("Désinfox", "Les rumeurs sur l'Europe circulent plus vite que les directives ! Pour chaque affirmation, touchez VRAI ou FAUX. Il faut 7 bonnes réponses sur 10.");
+    intro("Fact Check", "Rumours about Europe spread faster than directives! For each statement, tap TRUE or FALSE. You need 7 correct answers out of 10.");
     int order[ARRAY_LEN(intox)];
     for (unsigned i = 0; i < ARRAY_LEN(intox); i++)
         order[i] = i;
@@ -561,8 +561,8 @@ static int mg_desinfox(void)
         ui_backdrop(&g_bot);
         canvas_frame(&g_bot, 6, 6, 244, 110, FRAME_DIALOG);
         ui_text_wrapped(&g_bot, &font_main, 16, 14, 224, intox[k].q, C_TEXT, C_SHADOW);
-        ui_button(&g_bot, 10, 128, 112, 54, "VRAI", BTN_GREEN, &font_main);
-        ui_button(&g_bot, 134, 128, 112, 54, "FAUX", BTN_RED, &font_main);
+        ui_button(&g_bot, 10, 128, 112, 54, "TRUE", BTN_GREEN, &font_main);
+        ui_button(&g_bot, 134, 128, 112, 54, "FALSE", BTN_RED, &font_main);
         while (t > 0 && ans < 0) {
             canvas_bar(&g_bot, 16, 108, 224, 5, t, 12 * 60, t < 180 ? C_RED : C_GOLD);
             if (touch_in(10, 128, 112, 54) || (g_kdown & KEY_LEFT))
@@ -570,7 +570,7 @@ static int mg_desinfox(void)
             if (touch_in(134, 128, 112, 54) || (g_kdown & KEY_RIGHT))
                 ans = 0;
             if (t % 15 == 0 || t == 12 * 60) {
-                top_panel("Désinfox", "Vrai ou faux ?", t / 60, score, 7);
+                top_panel("Fact Check", "True or false?", t / 60, score, 7);
                 snprintf(buf, sizeof buf, T("Question %d / 10"), qi + 1);
                 top_extra(buf, C_TEXT);
             }
@@ -583,34 +583,34 @@ static int mg_desinfox(void)
         sfx_play(ok ? SFX_SELECT : SFX_ERROR);
         ui_backdrop(&g_bot);
         canvas_frame(&g_bot, 6, 6, 244, 180, FRAME_DIALOG);
-        ui_text_in(&g_bot, &font_main, 6, 10, 244, 22, ok ? "Bonne réponse !" : ans < 0 ? "Trop tard !" : "Raté !",
+        ui_text_in(&g_bot, &font_main, 6, 10, 244, 22, ok ? "Correct!" : ans < 0 ? "Too late!" : "Wrong!",
                    ok ? C_GREEN : C_RED, C_SHADOW, 0);
         ui_text_wrapped(&g_bot, &font_main, 16, 40, 224, intox[k].why, C_TEXT, C_SHADOW);
-        ui_text_in(&g_bot, &font_small, 6, 166, 244, 14, "Touchez pour continuer", C_MGREY, 0, 0);
-        top_panel("Désinfox", "Vrai ou faux ?", MAX(0, t / 60), score, 7);
+        ui_text_in(&g_bot, &font_small, 6, 166, 244, 14, "Tap to continue", C_MGREY, 0, 0);
+        top_panel("Fact Check", "True or false?", MAX(0, t / 60), score, 7);
         for (int w = 0; w < 420; w++) {
             frame_wait();
             if (w > 20 && input_confirm())
                 break;
         }
     }
-    return outro(score >= 7, "Bravo ! Toutes ces intox sont démontées. Les fact-checkeurs veulent vous recruter.",
-                 "Trop d'intox ont circulé… Le compte « VraieEurope2027 » gagne 10 000 abonnés.");
+    return outro(score >= 7, "Well done! Every piece of fake news is debunked. The fact-checkers want to hire you.",
+                 "Too much fake news got through… The account “RealEurope2027” gains 10,000 followers.");
 }
 
 // ---------------------------------------------------------------- langues: route each message to the right booth
 extern const char *const g_mg_lang_msgs[24][2];
 static const char *const lang_names[24] = {
-    N_("Bulgare"), N_("Tchèque"), N_("Danois"), N_("Allemand"), N_("Grec"), N_("Anglais"), N_("Espagnol"),
-    N_("Estonien"), N_("Finnois"), N_("Français"), N_("Irlandais"), N_("Croate"), N_("Hongrois"), N_("Italien"),
-    N_("Lituanien"), N_("Letton"), N_("Maltais"), N_("Néerlandais"), N_("Polonais"), N_("Portugais"),
-    N_("Roumain"), N_("Slovaque"), N_("Slovène"), N_("Suédois")};
+    N_("Bulgarian"), N_("Czech"), N_("Danish"), N_("German"), N_("Greek"), N_("English"), N_("Spanish"),
+    N_("Estonian"), N_("Finnish"), N_("French"), N_("Irish"), N_("Croatian"), N_("Hungarian"), N_("Italian"),
+    N_("Lithuanian"), N_("Latvian"), N_("Maltese"), N_("Dutch"), N_("Polish"), N_("Portuguese"),
+    N_("Romanian"), N_("Slovak"), N_("Slovenian"), N_("Swedish")};
 // look-alike groups, so the wrong booths are tempting: slavic, germanic, romance, finno-ugric, baltic, misc
 static const u8 lang_family[24] = {0, 0, 1, 1, 6, 5, 2, 3, 3, 2, 5, 0, 3, 2, 4, 4, 5, 1, 0, 2, 2, 0, 0, 1};
 
 static int mg_langues(void)
 {
-    intro("Service de traduction", "Des messages arrivent de toute l'Europe ! Lisez chacun et envoyez-le à la bonne cabine de traduction. 12 messages en 45 secondes. Une erreur coûte 3 secondes !");
+    intro("Translation Service", "Messages are arriving from all over Europe! Read each one and send it to the right translation booth. 12 messages in 45 seconds. A mistake costs 3 seconds!");
     int score = 0, goal = 12, frames = 45 * 60;
     while (frames > 0 && score < goal) {
         int correct = rng_range(24), opts[6], n = 1;
@@ -633,7 +633,7 @@ static int mg_langues(void)
             if (redraw) {
                 redraw = false;
                 ui_backdrop(&g_bot);
-                ui_text_in(&g_bot, &font_small, 0, 2, 256, 16, "Cabines de traduction", C_GOLD, C_INK, 0);
+                ui_text_in(&g_bot, &font_small, 0, 2, 256, 16, "Translation Booths", C_GOLD, C_INK, 0);
                 for (int i = 0; i < 6; i++) {
                     BtnStyle st = BTN_NORMAL;
                     if (chosen >= 0 && opts[i] == correct)
@@ -644,7 +644,7 @@ static int mg_langues(void)
                 }
             }
             if (frames % 15 == 0 || fb == 0) {
-                top_panel("Service de traduction", "Envoyez le message à la bonne cabine", frames / 60, score, goal);
+                top_panel("Translation Service", "Send the message to the right booth", frames / 60, score, goal);
                 canvas_frame(&g_top, 8, 132, 240, 58, FRAME_DIALOG);
                 const Font *f = font_width(&font_main, msg) > 440 ? &font_small : &font_main;
                 text_wrap_raw(&g_top, f, 18, 140, 220, msg, C_TEXT, C_SHADOW);
@@ -673,8 +673,8 @@ static int mg_langues(void)
             frames--;
         }
     }
-    return outro(score >= goal, "Tous les messages sont arrivés à bon port ! La DG Traduction vous propose un poste. En 24 langues.",
-                 "Un message slovaque est parti chez les Slovènes… L'incident diplomatique est en cours de traduction.");
+    return outro(score >= goal, "Every message got where it belonged! DG Translation offers you a job. In 24 languages.",
+                 "A Slovak message went to the Slovenian booth… The diplomatic incident is being translated.");
 }
 
 // ---------------------------------------------------------------- taux: keep inflation near 2 %
@@ -684,17 +684,17 @@ static void fmt_pct(char *out, int n, int bp)
 }
 
 static const struct { const char *text; int delta; } chocs[] = {
-    {"Crise énergétique ! Les prix s'envolent.", 300},
-    {"Confinement : plus personne n'achète rien.", -250},
-    {"Plan de relance géant voté cette nuit !", 220},
-    {"Krach boursier à Francfort !", -200},
-    {"Pénurie de puces électroniques !", 160},
-    {"Les ménages épargnent tout leur argent.", -150},
+    {"Energy crisis! Prices are soaring.", 300},
+    {"Lockdown: nobody's buying anything anymore.", -250},
+    {"Giant recovery plan passed overnight!", 220},
+    {"Stock market crash in Frankfurt!", -200},
+    {"Computer chip shortage!", 160},
+    {"Households are saving every penny.", -150},
 };
 
 static int mg_taux(void)
 {
-    intro("Taux directeur", "Vous présidez la BCE ! L'inflation grimpe ? Montez le taux. Elle chute ? Baissez-le. Gardez-la dans la zone verte (autour de 2 %) au moins la moitié du temps. 40 secondes !");
+    intro("Key Rate", "You're running the ECB! Inflation rising? Raise the rate. Falling? Lower it. Keep it in the green zone (around 2%) at least half the time. 40 seconds!");
     enum { HN = 232 };
     s16 hist[HN];
     int hn = 0;
@@ -748,17 +748,17 @@ static int mg_taux(void)
         canvas_text(&g_bot, &font_small, 14, 10, "8 %", C_MGREY, 0);
         canvas_text(&g_bot, &font_small, 14, TY(0) - 11, "0 %", C_MGREY, 0);
         fmt_pct(v, sizeof v, infl);
-        snprintf(buf, sizeof buf, T("Inflation : %s"), v);
+        snprintf(buf, sizeof buf, T("Inflation: %s"), v);
         ui_text_in(&g_bot, &font_small, 8, 129, 120, 16, buf, infl >= 150 && infl <= 250 ? C_GREEN : C_RED, 0, -1);
         fmt_pct(v, sizeof v, rate);
-        snprintf(buf, sizeof buf, T("Taux : %s"), v);
+        snprintf(buf, sizeof buf, T("Rate: %s"), v);
         ui_text_in(&g_bot, &font_small, 128, 129, 120, 16, buf, C_BLUE, 0, 1);
-        ui_button(&g_bot, 8, 146, 116, 42, "Baisser", BTN_NORMAL, &font_main);
-        ui_button(&g_bot, 132, 146, 116, 42, "Monter", BTN_NORMAL, &font_main);
+        ui_button(&g_bot, 8, 146, 116, 42, "Lower", BTN_NORMAL, &font_main);
+        ui_button(&g_bot, 132, 146, 116, 42, "Raise", BTN_NORMAL, &font_main);
 #undef TY
         if (frames % 15 == 0) {
             int pct = inband * 100 / MAX(1, t + 1);
-            top_panel("Taux directeur", "Objectif : la moitié du temps dans le vert", frames / 60, pct, -50);
+            top_panel("Key Rate", "Goal: stay in the green half the time", frames / 60, pct, -50);
             if (news && t - (ev * 8 * 60) < 4 * 60)
                 top_extra(chocs[order[news - 1]].text, C_RED);
         }
@@ -766,8 +766,8 @@ static int mg_taux(void)
         frames--;
     }
     int pct = inband * 100 / total;
-    return outro(pct >= 50, "Inflation maîtrisée ! Les marchés applaudissent, les épargnants dorment tranquilles.",
-                 "L'inflation vous a échappé… Le prix du café à la cantine vient de doubler.");
+    return outro(pct >= 50, "Inflation under control! Markets applaud, savers sleep soundly.",
+                 "Inflation got away from you… The canteen coffee just doubled in price.");
 }
 
 // ---------------------------------------------------------------- usb-c: bring old devices into line
@@ -802,7 +802,7 @@ static void draw_port(int cx, int y, int type)
 
 static int mg_usbc(void)
 {
-    intro("Chargeur universel", "Depuis 2024, l'USB-C est obligatoire ! Touchez les appareils qui ont encore un vieux port pour les mettre en conformité. Surtout pas ceux en USB-C ! 20 appareils en 30 secondes.");
+    intro("Universal Charger", "Since 2024, USB-C is mandatory! Tap the devices that still have an old port to bring them up to code. Not the USB-C ones! 20 devices in 30 seconds.");
     int type[9], life[9], ok[9];
     for (int i = 0; i < 9; i++)
         life[i] = ok[i] = 0;
@@ -859,16 +859,16 @@ static int mg_usbc(void)
             }
         }
         if (frames % 15 == 0) {
-            top_panel("Chargeur universel", "Touchez les vieux ports, pas l'USB-C !", frames / 60, score, goal);
-            snprintf(buf, sizeof buf, T("Erreurs : %d / 3"), errors);
+            top_panel("Universal Charger", "Tap old ports, not USB-C!", frames / 60, score, goal);
+            snprintf(buf, sizeof buf, T("Mistakes: %d / 3"), errors);
             top_extra(buf, errors ? C_RED : C_TEXT);
         }
         frame_wait();
         frames--;
     }
-    return outro(!lost && score >= goal, "Tous conformes ! Un seul chargeur pour tout le monde. Les tiroirs de câbles d'Europe respirent.",
-                 lost ? "Vous avez « mis en conformité » un appareil déjà en USB-C. Il a maintenant trois adaptateurs."
-                      : "Trop de vieux câbles ont échappé à la directive… Le tiroir à câbles déborde.");
+    return outro(!lost && score >= goal, "All compliant! One charger for everyone. Europe's cable drawers can breathe again.",
+                 lost ? "You “brought into compliance” a device that was already USB-C. It now has three adapters."
+                      : "Too many old cables escaped the directive… The cable drawer is overflowing.");
 }
 
 int minigame_run(int id)

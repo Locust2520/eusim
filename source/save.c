@@ -88,10 +88,10 @@ const char *save_backend(void)
 {
     detect();
     switch (backend) {
-    case BK_BROWSER: return "navigateur";
-    case BK_FILE: return "carte SD";
-    case BK_EEPROM: return "cartouche";
-    default: return "aucune";
+    case BK_BROWSER: return "browser";
+    case BK_FILE: return "SD card";
+    case BK_EEPROM: return "cartridge";
+    default: return "none";
     }
 }
 

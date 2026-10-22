@@ -10,46 +10,46 @@
 #include "gen/font_data.h"
 
 static const char *const hints[] = {
-    "Le saviez-vous ? Le Parlement déménage à Strasbourg douze fois par an, malles comprises.",
-    "Il y a 24 langues officielles dans l'UE. Votre stagiaire en parle une et demie.",
-    "Astuce : les bouchons attachés à la bouteille ne se perdent plus (directive 2019/904).",
-    "Chargement… comme la fin du changement d'heure : votée en 2019, toujours en attente.",
-    "Le drapeau européen a 12 étoiles. Ce n'est pas le nombre de pays : c'est un symbole de perfection.",
-    "La Déclaration Schuman date du 9 mai 1950. Le 9 mai, c'est la Fête de l'Europe !",
-    "Les pièces en euros sont arrivées dans les poches le 1er janvier 2002.",
-    "Depuis juin 2017, plus de frais d'itinérance en Europe. Appelez votre mère depuis Lisbonne !",
-    "Le chargeur universel USB-C est obligatoire depuis fin 2024. Adieu le tiroir à câbles.",
-    "Erasmus est né en 1987. Des millions d'étudiants ont depuis appris à cuisiner des pâtes.",
-    "L'accord de Schengen a été signé en 1985 sur un bateau, sur la Moselle, au Luxembourg.",
-    "Le Parlement européen compte 720 députés depuis 2024.",
-    "Astuce : la cantine soigne toute votre équipe. Le café, lui, ne soigne rien.",
-    "Astuce : courez en maintenant B. Les couloirs du Berlaymont sont longs.",
-    "Le règlement sur la courbure des bananes (1994) existe… mais il parle surtout de qualité.",
-    "Le RGPD (2018) vous a offert des bandeaux cookies. Beaucoup de bandeaux cookies.",
-    "Le prix Nobel de la paix a été attribué à l'Union européenne en 2012.",
-    "Le Traité de Rome (1957) a créé la Communauté économique européenne.",
-    "Le Traité de Maastricht (1992) a créé l'Union européenne et prévu l'euro.",
-    "Le Traité de Lisbonne (2007) contient l'article 50. Un seul pays l'a utilisé.",
-    "Le Royaume-Uni a quitté l'UE le 31 janvier 2020. Oliver ne s'en est toujours pas remis.",
-    "Astuce : les Tampons officiels capturent mieux les Euromons affaiblis.",
-    "Astuce : un Euromon endormi par un Sommet nocturne est plus facile à capturer.",
-    "Le Berlaymont a été désamianté de 1991 à 2004. La réunion de chantier a été longue.",
-    "La Cour de justice de l'UE siège au Luxembourg, sur le plateau du Kirchberg.",
-    "La BCE est à Francfort. Sa tour a coûté plus cher que prévu. Inflation, sans doute.",
-    "Simone Veil fut la première présidente du Parlement européen élu, en 1979.",
-    "La Commission a 27 commissaires : un par pays. Même pour la politique des pêches de l'Autriche.",
-    "Astuce : appuyez sur X pour ouvrir le menu.",
-    "Le Danube traverse dix pays. Vos chaussures, seulement deux.",
-    "Le jour de l'Europe, un Euromon rare apparaît. Essayez le 9 mai !",
-    "Les traductions de l'UE représentent des millions de pages par an.",
-    "L'hymne européen est l'Ode à la joie de Beethoven, sans paroles officielles.",
-    "Astuce : les attaques de type Juridique sont super efficaces contre le Lobby.",
-    "Astuce : le Veto bloque une attaque, mais pas votre détermination.",
-    "Le Brexit a duré si longtemps qu'on a inventé le mot « Brextension ».",
-    "Il existe un bureau de liaison du Parlement dans chaque État membre.",
-    "Astuce : parlez à tout le monde. Même au pigeon de la place Lux.",
-    "Le Danemark a une exemption sur l'euro. Il garde sa couronne, et ses vikings.",
-    "Chargement des 27 avis nationaux… 26 sur 27… On attend la Hongrie.",
+    "Did you know? Parliament moves to Strasbourg twelve times a year, trunks included.",
+    "The EU has 24 official languages. Your intern speaks one and a half.",
+    "Tip: caps attached to the bottle no longer get lost (Directive 2019/904).",
+    "Loading… like the end of the clock change: voted in 2019, still pending.",
+    "The European flag has 12 stars. It's not the number of countries: it's a symbol of perfection.",
+    "The Schuman Declaration dates from 9 May 1950. 9 May is Europe Day!",
+    "Euro coins arrived in people's pockets on 1 January 2002.",
+    "Since June 2017, no more roaming charges in Europe. Call your mum from Lisbon!",
+    "The universal USB-C charger has been mandatory since late 2024. Farewell, drawer of cables.",
+    "Erasmus was born in 1987. Since then, millions of students have learned to cook pasta.",
+    "The Schengen Agreement was signed in 1985 on a boat on the Moselle, in Luxembourg.",
+    "The European Parliament has had 720 MEPs since 2024.",
+    "Tip: the canteen heals your whole team. Coffee, on the other hand, heals nothing.",
+    "Tip: hold B to run. The Berlaymont's corridors are long.",
+    "The regulation on banana curvature (1994) exists… but it's mostly about quality.",
+    "The GDPR (2018) gave you cookie banners. Lots of cookie banners.",
+    "The Nobel Peace Prize was awarded to the European Union in 2012.",
+    "The Treaty of Rome (1957) created the European Economic Community.",
+    "The Maastricht Treaty (1992) created the European Union and planned the euro.",
+    "The Treaty of Lisbon (2007) contains Article 50. Only one country has used it.",
+    "The United Kingdom left the EU on 31 January 2020. Oliver still hasn't got over it.",
+    "Tip: Official Stamps capture weakened Euromons better.",
+    "Tip: a Euromon put to sleep by a Night Summit is easier to capture.",
+    "The Berlaymont was cleared of asbestos from 1991 to 2004. The site meeting was a long one.",
+    "The EU Court of Justice sits in Luxembourg, on the Kirchberg plateau.",
+    "The ECB is in Frankfurt. Its tower cost more than planned. Inflation, no doubt.",
+    "Simone Veil was the first President of the elected European Parliament, in 1979.",
+    "The Commission has 27 commissioners: one per country. Even for Austria's fisheries policy.",
+    "Tip: press X to open the menu.",
+    "The Danube flows through ten countries. Your shoes, only two.",
+    "On Europe Day, a rare Euromon appears. Try 9 May!",
+    "EU translations amount to millions of pages a year.",
+    "The European anthem is Beethoven's Ode to Joy, with no official lyrics.",
+    "Tip: Legal-type moves are super effective against Lobby.",
+    "Tip: Veto blocks an attack, but not your determination.",
+    "Brexit lasted so long that the word “Brextension” was invented.",
+    "Parliament has a liaison office in every member state.",
+    "Tip: talk to everyone. Even the pigeon on Place Lux.",
+    "Denmark has an opt-out from the euro. It keeps its krone, and its Vikings.",
+    "Loading 27 national opinions… 26 out of 27… Waiting for Hungary.",
 };
 
 static SpriteSheet stars, sofa;
@@ -80,7 +80,7 @@ void loading_screen(int min_frames)
     const char *hint = hints[rng_range(ARRAY_LEN(hints))];
     ui_backdrop(&g_bot);
     canvas_frame(&g_bot, 12, 50, 232, 92, FRAME_DIALOG);
-    ui_text_in(&g_bot, &font_main, 12, 56, 232, 20, "Le saviez-vous ?", C_BLUE, C_SHADOW, 0);
+    ui_text_in(&g_bot, &font_main, 12, 56, 232, 20, "Did you know?", C_BLUE, C_SHADOW, 0);
     canvas_hline(&g_bot, 40, 77, 176, C_GOLD);
     // wrap hint manually into the panel
     {
@@ -105,7 +105,7 @@ void loading_screen(int min_frames)
             y += 12;
         }
     }
-    canvas_text_center(&g_top, &font_small, 128, 170, "Chargement…", C_WHITE, C_BLUE_D);
+    canvas_text_center(&g_top, &font_small, 128, 170, "Loading…", C_WHITE, C_BLUE_D);
 
     bool sofa_mode = (g_kheld & KEY_L) != 0;
     for (int t = 0; t < min_frames + 16; t++) {

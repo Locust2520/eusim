@@ -58,8 +58,8 @@ static bool fail(const char *message) { error=message; return false; }
 static bool step(u32 start, int seconds)
 {
     frame_wait();
-    if ((g_kdown & KEY_B) || (lobby_wait && touch_in(50,146,156,34))) return fail("Débat annulé.");
-    if (g_frame-start>(u32)seconds*60) return fail("La console ne répond plus.");
+    if ((g_kdown & KEY_B) || (lobby_wait && touch_in(50,146,156,34))) return fail("Debate cancelled.");
+    if (g_frame-start>(u32)seconds*60) return fail("The console is not responding.");
     return true;
 }
 bool local_link_ok(void)
@@ -68,7 +68,7 @@ bool local_link_ok(void)
     if (host_side) return !!(Wifi_MultiplayerGetClientMask() & (1 << peer_aid));
     return Wifi_AssocStatus()==ASSOCSTATUS_ASSOCIATED;
 }
-const char *local_link_error(void) { return error ? error : "L'autre joueur a quitté le débat."; }
+const char *local_link_error(void) { return error ? error : "The other player left the debate."; }
 int local_link_seat(void) { return host_side ? 0 : 1; }
 u32 local_link_seed(void) { return wire.cookie; }
 void local_link_close(void)
@@ -85,7 +85,7 @@ bool local_link_open(bool host, void (*draw_wait)(void))
     Wifi_MultiplayerFromHostSetPacketHandler(from_host);
     Wifi_MultiplayerFromClientSetPacketHandler(from_client);
     int result = host ? Wifi_MultiplayerHostMode(1,0,0) : Wifi_MultiplayerClientMode(0);
-    if (result<0) return fail("Impossible de créer la connexion.");
+    if (result<0) return fail("Could not create the connection.");
     u32 start=g_frame;
     while (!Wifi_LibraryModeReady()) { draw_waiting(); if (!step(start,10)) return false; }
     if (host) {
@@ -96,7 +96,7 @@ bool local_link_open(bool host, void (*draw_wait)(void))
         static const int channels[]={1,6,11}; Wifi_SetChannel(channels[rng_range(3)]);
         Wifi_MultiplayerAllowNewClients(true);
         char name[33]; snprintf(name,sizeof name,"EU Simulator %.12s",g_save.player_name);
-        if (Wifi_BeaconStart(name,LOCAL_GAME)<0) return fail("Impossible de créer la connexion.");
+        if (Wifi_BeaconStart(name,LOCAL_GAME)<0) return fail("Could not create the connection.");
         start=g_frame;
         while (!peer_aid) {
             draw_waiting(); if (!step(start,300)) return false;
@@ -116,11 +116,11 @@ bool local_link_open(bool host, void (*draw_wait)(void))
             if (selection>=count) selection=MAX(0,count-1);
             draw_waiting();
             if (count) {
-                ui_backdrop(&g_bot); ui_header(&g_bot,4,4,248,"Parties à proximité");
+                ui_backdrop(&g_bot); ui_header(&g_bot,4,4,248,"Nearby games");
                 int first=MAX(0,selection-4);
                 for (int i=first;i<count && i<first+5;i++)
                     ui_button(&g_bot,8,34+(i-first)*21,240,20,hosts[i].ssid,i==selection?BTN_SELECTED:BTN_NORMAL,&font_small);
-                ui_button(&g_bot,50,146,156,34,"Annuler (B)",BTN_DARK,&font_main);
+                ui_button(&g_bot,50,146,156,34,"Cancel (B)",BTN_DARK,&font_main);
             }
             if (!step(start,300)) return false;
             if (count && (g_krep & KEY_UP)) selection=(selection+count-1)%count;
@@ -131,12 +131,12 @@ bool local_link_open(bool host, void (*draw_wait)(void))
             if (pick<0) continue;
             const u8 *meta=(const u8 *)hosts[pick].nintendo.name;
             if (hosts[pick].nintendo.name_len!=8 || get(meta)!=LINK_BUILD)
-                return fail("Les versions du jeu sont différentes.");
+                return fail("The game versions differ.");
             local_wire_init(&wire,get(meta+4),LINK_BUILD);
-            if (Wifi_ConnectOpenAP(&hosts[pick])!=WIFI_RETURN_OK) return fail("Impossible de créer la connexion.");
+            if (Wifi_ConnectOpenAP(&hosts[pick])!=WIFI_RETURN_OK) return fail("Could not create the connection.");
             u32 connecting=g_frame;
             while (Wifi_AssocStatus()!=ASSOCSTATUS_ASSOCIATED) {
-                if (Wifi_AssocStatus()==ASSOCSTATUS_CANNOTCONNECT) return fail("L'autre joueur a quitté le débat.");
+                if (Wifi_AssocStatus()==ASSOCSTATUS_CANNOTCONNECT) return fail("The other player left the debate.");
                 draw_waiting(); if (!step(connecting,30)) return false;
             }
             connected=true;
@@ -146,10 +146,10 @@ bool local_link_open(bool host, void (*draw_wait)(void))
 }
 bool local_link_exchange(int kind, const void *out, int size, void *in, int *received)
 {
-    if (!local_wire_offer(&wire,kind,out,size)) return fail("Les débats ne sont plus synchronisés.");
+    if (!local_wire_offer(&wire,kind,out,size)) return fail("The debates are out of sync.");
     u32 start=g_frame;
     while (!local_wire_take(&wire,in,received)) {
-        if (!local_link_ok()) return fail(wire.failed ? "Les débats ne sont plus synchronisés." : "L'autre joueur a quitté le débat.");
+        if (!local_link_ok()) return fail(wire.failed ? "The debates are out of sync." : "The other player left the debate.");
         if (!step(start,300)) return false;
     }
     return true;

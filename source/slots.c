@@ -26,7 +26,7 @@ static void draw_card(int i, const SlotInfo *si, BtnStyle st)
     ui_panel(&g_bot, CARD_X + 6 + p, y + 8 + p, 26, 28, true);
     ui_text_in(&g_bot, &font_main, CARD_X + 6 + p, y + 8 + p, 26, 28, buf, C_GOLD, C_INK, 0);
     if (!si->used) {
-        ui_text_in(&g_bot, &font_main, CARD_X + 40 + p, y + p, CARD_W - 48, CARD_H, "— Emplacement vide —", ink, 0, -1);
+        ui_text_in(&g_bot, &font_main, CARD_X + 40 + p, y + p, CARD_W - 48, CARD_H, "— Empty slot —", ink, 0, -1);
         return;
     }
     canvas_text(&g_bot, &font_main, CARD_X + 42 + p, y + 4 + p, si->name, ink, 0);
@@ -36,7 +36,7 @@ static void draw_card(int i, const SlotInfo *si, BtnStyle st)
     for (int b = 0; b < 8; b++)
         canvas_text(&g_bot, &font_small, CARD_X + 42 + b * 10 + p, y + 25 + p, "★",
                     (si->badges >> b) & 1 ? C_GOLD_D : C_LGREY, 0);
-    snprintf(buf, sizeof buf, T("Eurodex : %d"), si->dex);
+    snprintf(buf, sizeof buf, T("Eurodex: %d"), si->dex);
     canvas_text_right(&g_bot, &font_small, CARD_X + CARD_W - 10 + p, y + 25 + p, buf, ink, 0);
 }
 
@@ -55,8 +55,8 @@ int slot_picker(int mode)
     ui_bottom_push();
     bool redraw = true;
     int result = -1;
-    static const char *const titles[3] = {"Continuer : choisir une partie", "Nouvelle partie : emplacement",
-                                          "Sauvegarder dans…"};
+    static const char *const titles[3] = {"Continue: choose a game", "New game: slot",
+                                          "Save to…"};
     while (1) {
         if (redraw) {
             ui_backdrop(&g_bot);
@@ -65,7 +65,7 @@ int slot_picker(int mode)
                 BtnStyle st = (mode == 0 && !si[i].used) ? BTN_DISABLED : i == sel ? BTN_SELECTED : BTN_NORMAL;
                 draw_card(i, &si[i], st);
             }
-            ui_text_in(&g_bot, &font_small, 0, 178, 256, 13, "A : choisir   B : retour", C_BTN_LO, C_INK, 0);
+            ui_text_in(&g_bot, &font_small, 0, 178, 256, 13, "A: choose   B: back", C_BTN_LO, C_INK, 0);
             redraw = false;
         }
         frame_wait();
@@ -94,7 +94,7 @@ int slot_picker(int mode)
             for (int k = 0; k < 6; k++)
                 frame_wait();
             if (mode != 0 && si[pick].used && (mode == 1 || pick != g_save_slot)) {
-                dlg_say_nowait("", "Cet emplacement contient déjà une partie. L'écraser ?");
+                dlg_say_nowait("", "This slot already contains a game. Overwrite it?");
                 bool yes = dlg_yesno();
                 dlg_close();
                 if (!yes) {

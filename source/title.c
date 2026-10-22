@@ -49,7 +49,7 @@ static void bg_tile4(int layer)
         dmaCopy(m, m + b * 1024, 2048);
 }
 
-static const char *const items[4] = {"Nouvelle partie", "Continuer", "Options", "Crédits & sources"};
+static const char *const items[4] = {"New game", "Continue", "Options", "Credits & sources"};
 static const int item_icon[4] = {ICON_STAR, ICON_SAVE, ICON_OPTIONS, ICON_DEX};
 #define MENU_X 24
 #define MENU_W 208
@@ -59,7 +59,7 @@ static const int item_icon[4] = {ICON_STAR, ICON_SAVE, ICON_OPTIONS, ICON_DEX};
 static void draw_menu(int sel, bool has_save, int pressed)
 {
     ui_backdrop(&g_bot);
-    ui_header(&g_bot, 40, 4, 176, "Menu principal");
+    ui_header(&g_bot, 40, 4, 176, "Main menu");
     canvas_frame(&g_bot, MENU_X - 6, MENU_Y(0) - 8, MENU_W + 12, 4 * MENU_H + 16, FRAME_DIALOG);
     for (int i = 0; i < 4; i++) {
         int y = MENU_Y(i);
@@ -72,7 +72,7 @@ static void draw_menu(int sel, bool has_save, int pressed)
         ui_text_in(&g_bot, &font_main, MENU_X + 48, y, MENU_W - 52, MENU_H, items[i], off ? C_MGREY : C_INK,
                    off ? 0 : C_SHADOW, -1);
     }
-    ui_text_in(&g_bot, &font_small, 0, 176, 256, 14, "Parodie non officielle · v1.0.1", C_BTN_LO, C_INK, 0);
+    ui_text_in(&g_bot, &font_small, 0, 176, 256, 14, "Unofficial parody · v1.0.1", C_BTN_LO, C_INK, 0);
 }
 
 static void draw_press_start(bool on)
@@ -80,10 +80,10 @@ static void draw_press_start(bool on)
     ui_backdrop(&g_bot);
     ui_panel(&g_bot, 28, 24, 200, 64, true);
     ui_text_in(&g_bot, &font_main, 28, 30, 200, 20, "EU SIMULATOR", C_GOLD, C_INK, 0);
-    ui_text_in(&g_bot, &font_small, 28, 54, 200, 16, "Le stage de ta vie", C_BTN_MID, C_INK, 0);
+    ui_text_in(&g_bot, &font_small, 28, 54, 200, 16, "The internship of your life", C_BTN_MID, C_INK, 0);
     if (on)
-        ui_button(&g_bot, 48, 110, 160, 30, "APPUYEZ SUR START", BTN_SELECTED, &font_main);
-    ui_text_in(&g_bot, &font_small, 0, 176, 256, 14, "Parodie non officielle · v1.0.1", C_BTN_LO, C_INK, 0);
+        ui_button(&g_bot, 48, 110, 160, 30, "PRESS START", BTN_SELECTED, &font_main);
+    ui_text_in(&g_bot, &font_small, 0, 176, 256, 14, "Unofficial parody · v1.0.1", C_BTN_LO, C_INK, 0);
 }
 
 int scene_title(void)
@@ -158,7 +158,7 @@ int scene_title(void)
         if (!menu) {
             if ((t % 20) == 0) {
                 int ph = (t / 20) % 4;
-                ui_button(&g_bot, 48, 110, 160, 30, "APPUYEZ SUR START", ph == 0 ? BTN_NORMAL : BTN_SELECTED, &font_main);
+                ui_button(&g_bot, 48, 110, 160, 30, "PRESS START", ph == 0 ? BTN_NORMAL : BTN_SELECTED, &font_main);
             }
             if (g_kdown & (KEY_START | KEY_A) || g_touch_down) {
                 sfx_play(SFX_SELECT);

@@ -151,7 +151,7 @@ static int type_eff(int mtype, int s) // returns x4 (0,1,2,4,8,16)
 }
 
 // ---------------------------------------------------------------- drawing
-static const char *const st_short[6] = {"", "LOB", "SCA", "GEL", "SOM", "BLO"};
+static const char *const st_short[6] = {"", "LOB", "SCN", "FRZ", "SLP", "BLK"};
 static const u8 st_col[6] = {0, C_TYPE0 + 13, C_RED, C_BLUE_L, C_MGREY, C_TYPE0 + 7};
 
 static void status_tag(int x, int y, int status)
@@ -173,7 +173,7 @@ static void draw_infobox(int s)
         canvas_frame(&g_top, 4, 4, 132, 36, FRAME_MENU);
         draw_type_ribbon(&g_top, 6, 6, 3, 31, type1(s), type2(s));
         canvas_text(&g_top, &font_main, 13, 4, pname(1), C_TEXT, C_SHADOW);
-        snprintf(buf, sizeof buf, T("N.%d"), m->level);
+        snprintf(buf, sizeof buf, T("Lv.%d"), m->level);
         canvas_text_right(&g_top, &font_small, 128, 7, buf, C_BTN_SH, 0);
         if (is_wild && dex_is_caught(m->species))
             canvas_text(&g_top, &font_small, 96, 7, "★", C_GOLD_D, 0);
@@ -187,7 +187,7 @@ static void draw_infobox(int s)
         canvas_frame(&g_top, 120, 86, 132, 47, FRAME_MENU);
         draw_type_ribbon(&g_top, 246, 88, 3, 42, type1(s), type2(s));
         canvas_text(&g_top, &font_main, 126, 86, pname(0), C_TEXT, C_SHADOW);
-        snprintf(buf, sizeof buf, T("N.%d"), m->level);
+        snprintf(buf, sizeof buf, T("Lv.%d"), m->level);
         canvas_text_right(&g_top, &font_small, 242, 89, buf, C_BTN_SH, 0);
         draw_hp_bar(&g_top, 148, 104, 94, m->hp, mx);
         snprintf(buf, sizeof buf, "%d/%d", m->hp, mx);
@@ -280,8 +280,8 @@ static void draw_main_menu(int sel)
     // big DÉBATTRE button
     ui_button(&g_bot, 24, 12, 206, 94, NULL, sel == 0 ? BTN_SELECTED : BTN_RED, NULL);
     ui_icon(&g_bot, 24 + (206 - 36) / 2, 26, ICON_FIGHT, 3);
-    ui_text_in(&g_bot, &font_main, 24, 66, 206, 26, "DÉBATTRE", sel == 0 ? C_INK : C_WHITE, sel == 0 ? C_GLD_HI : C_RED_D, 0);
-    static const char *const lab[3] = {"SAC", "FUIR", "ÉQUIPE"};
+    ui_text_in(&g_bot, &font_main, 24, 66, 206, 26, "DEBATE", sel == 0 ? C_INK : C_WHITE, sel == 0 ? C_GLD_HI : C_RED_D, 0);
+    static const char *const lab[3] = {"BAG", "RUN", "TEAM"};
     static const int ic[3] = {ICON_BAG, ICON_RUN, ICON_TEAM};
     for (int i = 0; i < 3; i++) {
         bool on = sel == i + 1;
@@ -351,12 +351,12 @@ static void draw_move_menu(int sel)
             // effectiveness hint
             if (mv->cat != CAT_STATUS && dex_is_seen(side[1].mon->species)) {
                 int e = type_eff(mv->type, 1);
-                const char *h = e == 0 ? "Aucun effet" : e > 4 ? "Super efficace" : e < 4 ? "Peu efficace" : "";
+                const char *h = e == 0 ? "No effect" : e > 4 ? "Super effective" : e < 4 ? "Not very effective" : "";
                 ui_text_in(&g_bot, &font_small, x, y + 46, 121, 16, h, e > 4 ? C_TYPE0 + 5 : C_BTN_SH, 0, 0);
             }
         }
     }
-    ui_button(&g_bot, 86, 156, 84, 30, "Retour", BTN_DARK, &font_main);
+    ui_button(&g_bot, 86, 156, 84, 30, "Back", BTN_DARK, &font_main);
 }
 
 static int move_menu(void)
@@ -398,7 +398,7 @@ static int move_menu(void)
                 continue;
             if (m->pp[pick] == 0) {
                 sfx_play(SFX_ERROR);
-                msg("Plus de PP pour cette attaque !");
+                msg("No PP left for this move!");
                 dlg_close();
                 draw_move_menu(sel);
                 continue;
@@ -447,7 +447,7 @@ static void send_out(int s, int idx, bool announce)
     load_mon_gfx(s);
     if (s == 0) {
         if (announce)
-            msg("À toi, %s !", pname(0));
+            msg("Your turn, %s!", pname(0));
         fx_throw_tampon(ALLY_HOME_X + 32, ALLY_HOME_Y + 40);
         ally_x = ALLY_HOME_X;
         ally_visible = true;
@@ -457,10 +457,10 @@ static void send_out(int s, int idx, bool announce)
         draw_infobox(0);
     } else {
         if (announce) {
-            if (is_link) msg("L'autre joueur envoie %s !", pname(1));
+            if (is_link) msg("The other player sends out %s!", pname(1));
             else {
                 const TrainerData *t = &trainers[trainer_id];
-                msg("%s envoie %s !", t->name, pname(1));
+                msg("%s sends out %s!", t->name, pname(1));
             }
         }
         foe_x = FOE_HOME_X;
@@ -530,26 +530,26 @@ static bool try_status(int target, int st, bool announce_fail)
         return false;
     if (m->status) {
         if (announce_fail)
-            msg("Mais %s a déjà un problème…", pname(target));
+            msg("But %s already has a problem…", pname(target));
         return false;
     }
     // type immunities
     if (st == STATUS_LOBBY && (type1(target) == TYPE_LOBBY || type2(target) == TYPE_LOBBY)) {
         if (announce_fail)
-            msg("%s est déjà du côté des lobbies !", pname(target));
+            msg("%s is already on the lobbies' side!", pname(target));
         return false;
     }
     if (st == STATUS_GEL && (type1(target) == TYPE_MONETAIRE || type2(target) == TYPE_MONETAIRE)) {
         if (announce_fail)
-            msg("On ne gèle pas les fonds d'un banquier central !");
+            msg("You can't freeze a central banker's funds!");
         return false;
     }
     m->status = st;
     if (st == STATUS_SOMMEIL)
         m->sleep_turns = 1 + battle_random(3);
-    static const char *const txt[6] = {"", "%s est sous l'influence d'un lobby !", "%s est pris dans un scandale !",
-                                       "Les fonds de %s sont gelés !", "%s s'endort en plein sommet nocturne !",
-                                       "%s est bloqué en commission !"};
+    static const char *const txt[6] = {"", "%s is under a lobby's influence!", "%s is caught in a scandal!",
+                                       "%s's funds are frozen!", "%s falls asleep in the middle of a night summit!",
+                                       "%s is stuck in committee!"};
     fx_status(target, st);
     msg(txt[st], pname(target));
     draw_infobox(target);
@@ -558,17 +558,17 @@ static bool try_status(int target, int st, bool announce_fail)
 
 static void stat_change(int target, int stat, int n, bool self)
 {
-    static const char *const sn[8] = {"", "Argumentation", "Résilience", "Expertise", "Diplomatie",
-                                      "Réactivité", "Précision", "Esquive"};
+    static const char *const sn[8] = {"", "Argument", "Resilience", "Expertise", "Diplomacy",
+                                      "Reactivity", "Accuracy", "Evasion"};
     Side *s = &side[target];
     int old = s->stage[stat];
     int nv = CLAMP(old + n, -6, 6);
     const char *st = tr(sn[stat]);
     if (nv == old) {
         if (n > 0)
-            msg("%s : %s ne peut plus monter !", pname(target), st);
+            msg("%s: %s won't go any higher!", pname(target), st);
         else
-            msg("%s : %s ne peut plus baisser !", pname(target), st);
+            msg("%s: %s won't go any lower!", pname(target), st);
         return;
     }
     s->stage[stat] = nv;
@@ -576,9 +576,9 @@ static void stat_change(int target, int stat, int n, bool self)
     fx_stat(target, n > 0);
     int a = abs(nv - old);
     if (n > 0)
-        msg(a >= 2 ? "%s : %s augmente beaucoup !" : "%s : %s augmente !", pname(target), st);
+        msg(a >= 2 ? "%s: %s rose sharply!" : "%s: %s rose!", pname(target), st);
     else
-        msg(a >= 2 ? "%s : %s baisse beaucoup !" : "%s : %s baisse !", pname(target), st);
+        msg(a >= 2 ? "%s: %s fell harshly!" : "%s: %s fell!", pname(target), st);
     (void)self;
 }
 
@@ -608,42 +608,42 @@ static void use_move(int a, int slot, int move_override)
         ma->pp[slot]--;
     side[a].last_move = move;
     if (a == 0 || !is_trainer || gimmick != GIM_TRUMP)
-        msg("%s utilise %s !", pname(a), mv->name);
+        msg("%s uses %s!", pname(a), mv->name);
     else
-        msg("(trump)%s utilise %s !", pname(a), mv->name);
+        msg("(trump)%s uses %s!", pname(a), mv->name);
 
     // charge moves: first turn charges
     if (mv->effect == EF_CHARGE && side[a].charge_move < 0) {
         side[a].charge_move = move;
-        msg("%s prépare un dossier de 400 pages…", pname(a));
+        msg("%s is preparing a 400-page report…", pname(a));
         return;
     }
     side[a].charge_move = -1;
 
     if (mv->effect == EF_STEAL_TURN && !side[a].first_turn) {
-        msg("Mais personne ne tombe deux fois dans le piège du canapé !");
+        msg("But nobody falls for the sofa trick twice!");
         return;
     }
     if (mv->effect == EF_COPY) {
         if (side[d].last_move >= 0 && moves[side[d].last_move].effect != EF_COPY) {
-            msg("%s plagie l'adversaire !", pname(a));
+            msg("%s plagiarises the opponent!", pname(a));
             use_move(a, -1, side[d].last_move);
         } else
-            msg("Mais il n'y a rien à plagier…");
+            msg("But there's nothing to plagiarise…");
         return;
     }
     if (mv->effect == EF_LEAVE) {
         if (is_wild && a == 0) {
-            msg("%s invoque l'Article 50 et quitte le débat !", pname(a));
+            msg("%s invokes Article 50 and leaves the debate!", pname(a));
             result = BATTLE_FLED;
             return;
         }
         if (is_wild && a == 1) {
-            msg("%s invoque l'Article 50 et s'en va !", pname(a));
+            msg("%s invokes Article 50 and walks away!", pname(a));
             result = BATTLE_FLED;
             return;
         }
-        msg("%s invoque l'Article 50… mais les négociations vont durer des années !", pname(a));
+        msg("%s invokes Article 50… but the negotiations will drag on for years!", pname(a));
         stat_change(a, STAT_SPE, 2, true);
         return;
     }
@@ -652,18 +652,18 @@ static void use_move(int a, int slot, int move_override)
     if (mv->cat != CAT_STATUS || mv->effect == EF_STAT_DOWN || mv->effect == EF_GEL || mv->effect == EF_SOMMEIL ||
         mv->effect == EF_LOBBY || mv->effect == EF_SCANDALE || mv->effect == EF_CONFUSE || mv->effect == EF_BLOQUE) {
         if (side[d].protect) {
-            msg("%s se protège avec un veto !", pname(d));
+            msg("%s protects itself with a veto!", pname(d));
             return;
         }
     }
     // Orbán's veto gimmick
     if (gimmick == GIM_VETO && a == 0 && battle_random(100) < 25) {
         sfx_play(SFX_GAVEL);
-        msg("« VETO ! » L'adversaire bloque la décision à l'unanimité requise.");
+        msg("“VETO!” The opponent blocks the decision: unanimity required.");
         return;
     }
     if (!accuracy_check(a, d, move)) {
-        msg("Mais l'attaque de %s rate la cible !", pname(a));
+        msg("But %s's attack misses!", pname(a));
         side[a].last_move_ok = 0;
         return;
     }
@@ -681,21 +681,21 @@ static void use_move(int a, int slot, int move_override)
         case EF_BLOQUE: try_status(d, STATUS_BLOQUE, true); break;
         case EF_CONFUSE:
             if (side[d].confuse)
-                msg("%s est déjà désinformé !", pname(d));
+                msg("%s is already misinformed!", pname(d));
             else {
                 side[d].confuse = 2 + battle_random(4);
-                msg("%s est désinformé !", pname(d));
+                msg("%s is misinformed!", pname(d));
             }
             break;
         case EF_HEAL_HALF: {
             int mx = mon_max_hp(ma);
             if (ma->hp >= mx) {
-                msg("Mais les PV de %s sont déjà au max !", pname(a));
+                msg("But %s's HP is already full!", pname(a));
                 break;
             }
             sfx_play(SFX_HEAL);
             animate_hp(a, ma->hp, MIN(mx, ma->hp + mx / 2));
-            msg("%s récupère des PV !", pname(a));
+            msg("%s regains HP!", pname(a));
             break;
         }
         case EF_REST: {
@@ -704,40 +704,40 @@ static void use_move(int a, int slot, int move_override)
             ma->sleep_turns = 2;
             sfx_play(SFX_HEAL);
             animate_hp(a, ma->hp, mx);
-            msg("%s fait une sieste réparatrice !", pname(a));
+            msg("%s takes a restorative nap!", pname(a));
             break;
         }
         case EF_PROTECT:
             if (side[a].protect_chain && battle_random(2)) {
-                msg("Mais le veto ne passe pas cette fois !");
+                msg("But the veto doesn't work this time!");
                 side[a].protect_chain = 0;
             } else {
                 side[a].protect = 1;
                 side[a].protect_chain++;
-                msg("%s brandit son droit de veto !", pname(a));
+                msg("%s brandishes its right of veto!", pname(a));
             }
             break;
         case EF_HAZE:
             memset(side[0].stage, 0, sizeof side[0].stage);
             memset(side[1].stage, 0, sizeof side[1].stage);
-            msg("Clause de sauvegarde ! Toutes les modifications sont annulées.");
+            msg("Safeguard clause! All changes are cancelled.");
             break;
         case EF_ERASE:
             memset(side[d].stage, 0, sizeof side[d].stage);
             sfx_play(SFX_SMS);
-            msg("Les messages de %s ont été effacés… Plus aucune trace !", pname(d));
+            msg("%s's messages have been deleted… Not a trace left!", pname(d));
             break;
         case EF_PAY_DAY:
             money_bonus += ma->level * 5;
             sfx_play(SFX_COIN);
-            msg("Des fonds structurels pleuvent sur le terrain !");
+            msg("Structural funds rain down on the field!");
             break;
         case EF_STEAL_TURN:
             side[d].flinch = 1;
-            msg("%s se retrouve assis sur le canapé !", pname(d));
+            msg("%s ends up sitting on the sofa!", pname(d));
             break;
         default:
-            msg("Mais rien ne se passe…");
+            msg("But nothing happens…");
         }
         return;
     }
@@ -754,7 +754,7 @@ static void use_move(int a, int slot, int move_override)
     for (i = 0; i < hits && md->hp > 0; i++) {
         int dmg = calc_damage(a, d, move, &crit, &eff);
         if (eff == 0) {
-            msg("Ça n'affecte pas %s…", pname(d));
+            msg("It doesn't affect %s…", pname(d));
             return;
         }
         fx_move(a, mv->type, mv->cat);
@@ -770,14 +770,14 @@ static void use_move(int a, int slot, int move_override)
         apply_damage(d, dmg);
         total += dmg;
         if (crit)
-            msg("Coup critique !");
+            msg("Critical hit!");
     }
     if (hits > 1)
-        msg("Touché %d fois !", i);
+        msg("Hit %d times!", i);
     if (eff > 4)
-        msg("C'est super efficace !");
+        msg("It's super effective!");
     else if (eff < 4)
-        msg("Ce n'est pas très efficace…");
+        msg("It's not very effective…");
 
     // secondary effects
     int ch = mv->chance ? mv->chance : 100;
@@ -791,7 +791,7 @@ static void use_move(int a, int slot, int move_override)
         case EF_CONFUSE:
             if (!side[d].confuse) {
                 side[d].confuse = 2 + battle_random(4);
-                msg("%s est désinformé !", pname(d));
+                msg("%s is misinformed!", pname(d));
             }
             break;
         case EF_FLINCH: side[d].flinch = 1; break;
@@ -800,7 +800,7 @@ static void use_move(int a, int slot, int move_override)
         case EF_TRAP:
             if (!side[d].trap) {
                 side[d].trap = 2 + battle_random(4);
-                msg("%s est pris dans une procédure sans fin !", pname(d));
+                msg("%s is caught in an endless procedure!", pname(d));
             }
             break;
         }
@@ -808,18 +808,18 @@ static void use_move(int a, int slot, int move_override)
     if (mv->effect == EF_DRAIN && total > 0) {
         int mx = mon_max_hp(ma);
         animate_hp(a, ma->hp, MIN(mx, ma->hp + MAX(1, total / 2)));
-        msg("%s ponctionne des fonds !", pname(a));
+        msg("%s siphons off funds!", pname(a));
     }
     if (mv->effect == EF_RECOIL && total > 0 && ma->hp > 0) {
         apply_damage(a, MAX(1, total / 4));
-        msg("%s subit le contrecoup !", pname(a));
+        msg("%s is hit by recoil!", pname(a));
     }
     if (mv->effect == EF_SELF_DESTRUCT) {
         apply_damage(a, ma->hp);
     }
     if (mv->effect == EF_PAY_DAY) {
         money_bonus += ma->level * 5;
-        msg("Des pièces s'éparpillent partout !");
+        msg("Coins scatter everywhere!");
     }
 }
 
@@ -831,42 +831,42 @@ static bool can_act(int s)
         return false;
     if (side[s].flinch) {
         side[s].flinch = 0;
-        msg("%s est trop déstabilisé pour agir !", pname(s));
+        msg("%s is too destabilised to act!", pname(s));
         return false;
     }
     if (m->status == STATUS_SOMMEIL) {
         if (m->sleep_turns > 0) {
             m->sleep_turns--;
-            msg("%s dort profondément… (on est à 4 h du matin)", pname(s));
+            msg("%s is sound asleep… (it's 4 a.m.)", pname(s));
             return false;
         }
         m->status = 0;
-        msg("%s se réveille ! Le sommet est terminé.", pname(s));
+        msg("%s wakes up! The summit is over.", pname(s));
         draw_infobox(s);
     }
     if (m->status == STATUS_BLOQUE) {
         if (battle_random(5) == 0) {
             m->status = 0;
-            msg("%s sort enfin de commission !", pname(s));
+            msg("%s finally gets out of committee!", pname(s));
             draw_infobox(s);
         } else {
-            msg("%s est bloqué en commission !", pname(s));
+            msg("%s is stuck in committee!", pname(s));
             return false;
         }
     }
     if (m->status == STATUS_GEL && battle_random(4) == 0) {
-        msg("Les fonds de %s sont gelés ! Impossible d'agir.", pname(s));
+        msg("%s's funds are frozen! It can't act.", pname(s));
         return false;
     }
     if (side[s].confuse) {
         side[s].confuse--;
         if (side[s].confuse == 0) {
-            msg("%s a vérifié ses sources !", pname(s));
+            msg("%s checked its sources!", pname(s));
         } else {
-            msg("%s est désinformé…", pname(s));
+            msg("%s is misinformed…", pname(s));
             if (battle_random(2) == 0) {
                 int dmg = ((2 * m->level / 5 + 2) * 40 * eff_stat(s, STAT_ATK) / eff_stat(s, STAT_DEF)) / 50 + 2;
-                msg("Il relaie une fausse information et se discrédite lui-même !");
+                msg("It shares fake news and discredits itself!");
                 if (s == 0) ally_shake = 10; else foe_shake = 10;
                 sfx_play(SFX_HIT);
                 apply_damage(s, MIN(dmg, m->hp));
@@ -875,7 +875,7 @@ static bool can_act(int s)
         }
     }
     if (gimmick == GIM_COFFEE && s == 1 && battle_random(100) < 15) {
-        msg("Orbán est sorti prendre un café ! Son Euromon attend, désemparé.");
+        msg("Orbán stepped out for a coffee! His Euromon waits, helpless.");
         return false;
     }
     return true;
@@ -890,16 +890,16 @@ static void end_of_turn(int s)
         return;
     int mx = mon_max_hp(m);
     if (m->status == STATUS_LOBBY) {
-        msg("%s subit l'influence des lobbies !", pname(s));
+        msg("%s suffers the lobbies' influence!", pname(s));
         if (s == 0) ally_flash = 10; else foe_flash = 10;
         apply_damage(s, MAX(1, mx / 8));
     } else if (m->status == STATUS_SCANDALE) {
-        msg("Le scandale éclabousse %s !", pname(s));
+        msg("The scandal splashes %s!", pname(s));
         apply_damage(s, MAX(1, mx / 16));
     }
     if (side[s].trap && m->hp > 0) {
         side[s].trap--;
-        msg("%s est englué dans la procédure !", pname(s));
+        msg("%s is bogged down in procedure!", pname(s));
         apply_damage(s, MAX(1, mx / 8));
     }
 }
@@ -962,7 +962,7 @@ static bool faint_check(int s)
         ally_y = ALLY_HOME_Y;
     }
     draw_infobox(s);
-    msg("%s est K.O. !", pname(s));
+    msg("%s fainted!", pname(s));
     side[s].mon->status = 0;
     return true;
 }
@@ -978,23 +978,23 @@ static void learn_new_moves(Mon *m, int from_level)
         int r = mon_learn(m, mv);
         if (r >= 0) {
             sfx_play(SFX_LEVELUP);
-            msg("%s apprend %s !", mon_name(m), moves[mv].name);
+            msg("%s learned %s!", mon_name(m), moves[mv].name);
         } else if (r == -2) {
-            msg("%s veut apprendre %s, mais connaît déjà quatre attaques.", mon_name(m), moves[mv].name);
+            msg("%s wants to learn %s, but already knows four moves.", mon_name(m), moves[mv].name);
             const char *opts[5];
             for (int k = 0; k < 4; k++)
                 opts[k] = moves[m->moves[k]].name;
-            opts[4] = "Ne pas apprendre";
-            msg("Quelle attaque oublier ?");
+            opts[4] = "Don't learn it";
+            msg("Which move should be forgotten?");
             int c = dlg_choice(opts, 5, true);
             if (c >= 0 && c < 4) {
-                msg("1, 2, 3… Hop ! %s oublie %s…", mon_name(m), moves[m->moves[c]].name);
+                msg("1, 2, 3… Poof! %s forgot %s…", mon_name(m), moves[m->moves[c]].name);
                 m->moves[c] = mv;
                 m->pp[c] = moves[mv].pp;
                 sfx_play(SFX_LEVELUP);
-                msg("… et apprend %s !", moves[mv].name);
+                msg("… and learned %s!", moves[mv].name);
             } else
-                msg("%s n'apprend pas %s.", mon_name(m), moves[mv].name);
+                msg("%s did not learn %s.", mon_name(m), moves[mv].name);
         }
     }
 }
@@ -1017,7 +1017,7 @@ static void gain_exp(void)
         if (!participants[i] || m->hp == 0 || m->level >= 100)
             continue;
         int gain = MAX(1, total / n);
-        msg("%s gagne %d points d'expérience !", mon_name(m), gain);
+        msg("%s gained %d experience points!", mon_name(m), gain);
         int start_level = m->level;
         u32 target = m->exp + gain;
         // animate exp bar for active mon
@@ -1037,7 +1037,7 @@ static void gain_exp(void)
                 if (m == side[0].mon)
                     draw_infobox(0);
                 sfx_play(SFX_LEVELUP);
-                msg("%s monte au niveau %d !", mon_name(m), m->level);
+                msg("%s grew to level %d!", mon_name(m), m->level);
             }
         }
         if (m->level > start_level)
@@ -1050,7 +1050,7 @@ static bool try_capture(int item)
 {
     const ItemData *it = &items[item];
     Mon *m = side[1].mon;
-    msg("{P} lance un %s !", it->name);
+    msg("{P} throws a %s!", it->name);
     fx_throw_ball_to_foe(foe_x + 32, foe_y + 32);
     foe_visible = false;
     bwait(10);
@@ -1100,24 +1100,24 @@ static bool try_capture(int item)
     if (shakes >= 4) {
         sfx_play(SFX_CAPTURE_OK);
         fx_ball_stars();
-        msg("Et voilà ! %s est enregistré au Journal officiel !", pname(1));
+        msg("Gotcha! %s is published in the Official Journal!", pname(1));
         bool new_entry = !dex_is_caught(m->species);
         Mon copy = *m;
         int r2 = party_add(&copy);
         if (new_entry)
-            msg("Les données de %s sont ajoutées à l'Eurodex.", pname(1));
+            msg("%s's data has been added to the Eurodex.", pname(1));
         if (r2 == 1)
-            msg("%s est envoyé aux Archives.", pname(1));
+            msg("%s was sent to the Archives.", pname(1));
         fx_clear();
         return true;
     }
     fx_clear();
     foe_visible = true;
     foe_flash = 10;
-    static const char *const fail[4] = {"Oh non ! %s s'est libéré !", "Raah ! Ça y était presque !",
-                                        "Mince ! Il manquait juste un tampon !", "Argh ! Un vice de procédure !"};
+    static const char *const fail[4] = {"Oh no! %s broke free!", "Argh! It was so close!",
+                                        "Darn! Just one more stamp!", "Argh! A procedural flaw!"};
     if (m->species == SP_CONSTITUTIO)
-        msg("%s a été rejeté par référendum ! Impossible de le capturer.", pname(1));
+        msg("%s was rejected by referendum! It can't be captured.", pname(1));
     else
         msg(fail[MIN(shakes, 3)], pname(1));
     return false;
@@ -1128,7 +1128,7 @@ static bool use_battle_item(int item)
     const ItemData *it = &items[item];
     if (it->kind == IK_BALL) {
         if (is_trainer) {
-            msg("On ne capture pas l'Euromon d'un autre dresseur ! Ce serait un scandale.");
+            msg("You can't capture another trainer's Euromon! It would be a scandal.");
             return false;
         }
         bag_take(item, 1);
@@ -1139,12 +1139,12 @@ static bool use_battle_item(int item)
     }
     if (it->kind == IK_BATTLE) {
         bag_take(item, 1);
-        msg("{P} utilise %s !", it->name);
+        msg("{P} used %s!", it->name);
         stat_change(0, CLAMP(it->param / 10, 1, 7), MAX(1, it->param % 10), true);
         return true;
     }
     if (it->kind == IK_HEAL || it->kind == IK_STATUS || it->kind == IK_REVIVE || it->kind == IK_PP) {
-        int i = party_menu(1, "Sur quel Euromon ?");
+        int i = party_menu(1, "On which Euromon?");
         if (i < 0)
             return false;
         Mon *m = &g_save.party[i];
@@ -1157,7 +1157,7 @@ static bool use_battle_item(int item)
                 animate_hp(0, m->hp, MIN(mx, m->hp + h));
             else
                 m->hp = MIN(mx, m->hp + h);
-            msg("%s récupère des PV.", mon_name(m));
+            msg("%s regains HP.", mon_name(m));
             return true;
         }
         if (it->kind == IK_STATUS && m->status && m->hp > 0) {
@@ -1165,19 +1165,19 @@ static bool use_battle_item(int item)
             m->status = 0;
             if (m == side[0].mon)
                 draw_infobox(0);
-            msg("%s va mieux.", mon_name(m));
+            msg("%s feels better.", mon_name(m));
             return true;
         }
         if (it->kind == IK_REVIVE && m->hp == 0) {
             bag_take(item, 1);
             m->hp = it->param >= 999 ? mx : mx / 2;
-            msg("%s reprend du service !", mon_name(m));
+            msg("%s is back in service!", mon_name(m));
             return true;
         }
-        msg("Ça n'aura aucun effet.");
+        msg("It won't have any effect.");
         return false;
     }
-    msg("Ce n'est pas le moment !");
+    msg("This isn't the time for that!");
     return false;
 }
 
@@ -1190,7 +1190,7 @@ static int choose_switch(bool forced)
                 g_party_menu_default = k;
                 break;
             }
-        int i = party_menu(1, forced ? "Qui envoyer au débat ?" : "Qui envoyer ?");
+        int i = party_menu(1, forced ? "Who goes into the debate?" : "Who goes next?");
         if (i < 0) {
             if (is_link) return -1;
             if (forced)
@@ -1198,14 +1198,14 @@ static int choose_switch(bool forced)
             return -1;
         }
         if (g_save.party[i].hp == 0) {
-            msg("%s n'est plus en état de débattre !", mon_name(&g_save.party[i]));
+            msg("%s can't debate any more!", mon_name(&g_save.party[i]));
             dlg_close();
             continue;
         }
         if (i == player_idx && side[0].mon->hp > 0) {
             if (!forced)
                 return -1;
-            msg("%s est déjà sur le terrain !", mon_name(&g_save.party[i]));
+            msg("%s is already on the field!", mon_name(&g_save.party[i]));
             dlg_close();
             continue;
         }
@@ -1215,7 +1215,7 @@ static int choose_switch(bool forced)
 
 static void withdraw_ally(void)
 {
-    msg("Reviens, %s !", pname(0));
+    msg("Come back, %s!", pname(0));
     for (int i = 0; i < 12; i++) {
         ally_x -= 8;
         bframe();
@@ -1237,12 +1237,12 @@ static void gimmick_turn_start(void)
 {
     if (gimmick == GIM_RIVAL_SYS) {
         static const int rot[3] = {TYPE_DIPLO, TYPE_INDUSTRIE, TYPE_SOUVERAIN};
-        static const char *const lab[3] = {"partenaire", "concurrent", "rival systémique"};
+        static const char *const lab[3] = {"partenaire", "concurrent", "systemic rival"};
         static int k;
         k = (k + 1) % 3;
         side[1].type_override = rot[k];
         draw_infobox(1);
-        msg("L'Euromon adverse se présente désormais comme… %s ! (type %s)", tr(lab[k]), type_names[rot[k]]);
+        msg("The opposing Euromon now presents itself as… a %s! (%s type)", tr(lab[k]), type_names[rot[k]]);
     }
 }
 
@@ -1327,7 +1327,7 @@ static int run_battle(void)
             portrait_show(SIDE_RIGHT, t->portrait, "neutral");
         portrait_set_y(20);
         bwait(20);
-        msg("%s %s veut débattre !", t->cls, t->name);
+        msg("%s %s wants to debate!", t->cls, t->name);
         portrait_hide(SIDE_RIGHT);
         bwait(16);
         portrait_set_y(38);
@@ -1341,9 +1341,9 @@ static int run_battle(void)
         draw_infobox(1);
         if (foe_party[0].shiny) {
             fx_ball_stars();
-            msg("Oh ! Un %s chromatique !", pname(1));
+            msg("Oh! A shiny %s!", pname(1));
         }
-        msg("Un %s sauvage apparaît !", pname(1));
+        msg("A wild %s appeared!", pname(1));
     }
     send_out(0, first, true);
     dlg_close();
@@ -1353,7 +1353,7 @@ static int run_battle(void)
         // ---- player choice
         int p_action = -1, p_slot = -1, p_item = -1, p_switch = -1;
         while (p_action < 0) {
-            dlg_say_nowait("", "Que doit faire {P} ?");
+            dlg_say_nowait("", "What will {P} do?");
             if (side[0].charge_move >= 0) {
                 p_action = 0;
                 p_slot = -2;
@@ -1380,7 +1380,7 @@ static int run_battle(void)
                 }
             } else if (c == 2) {
                 if (is_trainer) {
-                    msg("On ne quitte pas un débat officiel ! Ce serait un aveu de faiblesse.");
+                    msg("You can't walk out of an official debate! It would be an admission of weakness.");
                     continue;
                 }
                 run_attempts++;
@@ -1388,11 +1388,11 @@ static int run_battle(void)
                 int odds = ps * 32 / fs + 30 * run_attempts;
                 if (odds > 255 || battle_random(256) < odds) {
                     sfx_play(SFX_WHOOSH);
-                    msg("Vous prenez la fuite par la sortie de secours !");
+                    msg("You flee through the emergency exit!");
                     result = BATTLE_FLED;
                     break;
                 }
-                msg("Impossible de fuir : la séance n'est pas levée !");
+                msg("You can't run: the session hasn't been adjourned!");
                 p_action = 3; // lose turn
             }
         }
@@ -1449,9 +1449,9 @@ static int run_battle(void)
                     if (p_slot >= 0 && p_slot < 4 && side[0].mon->pp[p_slot])
                         side[0].mon->pp[p_slot]--;
                     side[0].delayed_move = now;
-                    msg("%s lance son argument… La table est si longue qu'il mettra un tour à arriver !", pname(0));
+                    msg("%s makes its argument… The table is so long it will take a whole turn to arrive!", pname(0));
                     if (queued >= 0) {
-                        msg("L'argument du tour précédent atteint enfin l'autre bout de la table !");
+                        msg("Last turn's argument finally reaches the other end of the table!");
                         use_move(0, -1, queued);
                     }
                 } else if (p_slot == 4)
@@ -1489,13 +1489,13 @@ static int run_battle(void)
             }
             if (is_trainer) {
                 const TrainerData *t = &trainers[trainer_id];
-                msg("%s va envoyer %s.", t->name, species[foe_party[nx].species].name);
+                msg("%s is about to send out %s.", t->name, species[foe_party[nx].species].name);
                 int healthy = 0;
                 for (int k = 0; k < g_save.party_count; k++)
                     healthy += g_save.party[k].hp > 0;
                 if (healthy > 1) {
-                    static const char *const sw[2] = {"Continuer", "Changer d'Euromon"};
-                    dlg_say_nowait("", "Changer d'Euromon ?");
+                    static const char *const sw[2] = {"Continue", "Switch Euromon"};
+                    dlg_say_nowait("", "Switch Euromon?");
                     if (dlg_choice(sw, 2, true) == 1) {
                         int i = choose_switch(false);
                         if (i >= 0) {
@@ -1530,13 +1530,13 @@ static int run_battle(void)
             dlg_say(who, t->defeat);
             int money = t->money * foe_party[foe_count - 1].level;
             g_save.money += money + money_bonus;
-            msg("{P} remporte %d € pour ce débat !", money + money_bonus);
+            msg("{P} won %d € for this debate!", money + money_bonus);
             portrait_hide(SIDE_RIGHT);
         } else {
             music_play("victory_wild");
             if (money_bonus) {
                 g_save.money += money_bonus;
-                msg("{P} ramasse %d € de fonds structurels.", money_bonus);
+                msg("{P} picks up %d € in structural funds.", money_bonus);
             }
         }
     } else if (result == BATTLE_LOST) {
@@ -1710,7 +1710,7 @@ int battle_multiplayer(void)
         !team_decode(other, n, foe_party, &foe_count) ||
         !team_decode(own, 1 + own[0] * 32, g_save.party, &count)) {
         g_save = backup;
-        msg("Équipe ou connexion invalide."); return BATTLE_FLED;
+        msg("Invalid team or connection."); return BATTLE_FLED;
     }
     is_link = true; is_trainer = is_wild = false; gimmick = GIM_NONE;
     link_rng = link_seed() ? link_seed() : 0x9e3779b9;
@@ -1735,7 +1735,7 @@ int battle_multiplayer(void)
             int c = main_menu();
             if (c == 0) { int slot = move_menu(); if (slot >= 0) { action[0] = 0; action[1] = slot; } }
             else if (c == 3) { int idx = choose_switch(false); if (idx >= 0) { action[0] = 1; action[1] = idx; } }
-            else if (c == 1) msg("Les objets ne sont pas autorisés dans un débat amical.");
+            else if (c == 1) msg("Items are not allowed in a friendly debate.");
             else if (c == 2 || c < 0) { action[0] = 2; action[1] = 0; }
         }
         if (!link_exchange(LINK_ACTION, action, 2, in, &n) || n != 2) break;
@@ -1776,9 +1776,9 @@ int battle_multiplayer(void)
         }
         dlg_close();
     }
-    if (result == BATTLE_WON) msg("Vous remportez ce débat amical !");
-    else if (result == BATTLE_LOST) msg("L'autre joueur remporte ce débat amical !");
-    else msg("Débat terminé ou connexion interrompue.");
+    if (result == BATTLE_WON) msg("You win this friendly debate!");
+    else if (result == BATTLE_LOST) msg("The other player wins this friendly debate!");
+    else msg("Debate ended or connection interrupted.");
     dlg_close(); gfx_fade_out(20, false); teardown_scene();
     g_save = backup; is_link = false;
     return result;

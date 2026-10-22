@@ -130,7 +130,7 @@ def link(outdoor, door_x, door_y, inner, in_x, in_y):
 
 
 def cantine(city, label, outdoor, door):
-    m = add(M(f'cantine_{city}', f'Cantine – {label}', 12, 9, 'tiles', 'cantine', 'indoor', bg='101820'))
+    m = add(M(f'cantine_{city}', f'Canteen – {label}', 12, 9, 'tiles', 'cantine', 'indoor', bg='101820'))
     dx = interior_box(m, 12, 9, 'q')
     m.obj('heal_counter', 4, 3)
     m.rect('counter', 3, 3)
@@ -147,7 +147,7 @@ def cantine(city, label, outdoor, door):
 
 
 def boutique(city, label, outdoor, door):
-    m = add(M(f'boutique_{city}', f'Boutique – {label}', 10, 8, 'floor', 'shop', 'indoor', bg='101820'))
+    m = add(M(f'boutique_{city}', f'Shop – {label}', 10, 8, 'floor', 'shop', 'indoor', bg='101820'))
     dx = interior_box(m, 10, 8, 'o')
     m.rect('counter', 1, 3, 3, 1)
     m.rect('counter', 3, 2)
@@ -173,7 +173,7 @@ def house(mid, label, outdoor, door, npcs):
 
 
 def gare(city, label, outdoor, door):
-    m = add(M(f'gare_{city}', f'Gare – {label}', 12, 8, 'marble', 'gare', 'indoor', bg='101820'))
+    m = add(M(f'gare_{city}', f'Station – {label}', 12, 8, 'marble', 'gare', 'indoor', bg='101820'))
     dx = interior_box(m, 12, 8, 'm')
     m.rect('counter', 2, 3, 4, 1)
     m.obj('bench', 7, 5)
@@ -186,7 +186,7 @@ def gare(city, label, outdoor, door):
 
 # ---------------------------------------------------------------- BRUXELLES
 def build_bruxelles():
-    m = add(M('bruxelles', 'Bruxelles – Quartier européen', 44, 36, 'grass', 'bruxelles', 'outdoor', 'none', 'bruxelles'))
+    m = add(M('bruxelles', "Brussels – European Quarter", 44, 36, 'grass', 'bruxelles', 'outdoor', 'none', 'bruxelles'))
     m.border_trees(gaps=[('e', 16, 4)])
     # main avenues
     m.rect('road', 2, 16, 42, 2)
@@ -222,17 +222,17 @@ def build_bruxelles():
     m.obj('house_grey', 26, 28)        # place Lux bar (door 29,31)
     m.obj('lamp', 32, 27)
     m.enc = 'bxl_parc'
-    studio = add(M('studio', 'Ton studio (Ixelles)', 10, 8, 'floor', 'home', 'indoor', bg='101820'))
+    studio = add(M('studio', "Your studio (Ixelles)", 10, 8, 'floor', 'home', 'indoor', bg='101820'))
     dx = interior_box(studio, 10, 8, 'o')
     studio.obj('bookshelf', 0, 1).obj('desk', 6, 2).obj('plant', 9, 1).obj('pc', 1, 1).obj('sofa', 2, 5)
     studio.obj('jukebox', 8, 1)
     studio.ev('sign 6 2 studio_ordi').ev('sign 7 2 studio_ordi').ev('sign 8 2 studio_jukebox').ev('onload studio_onload')
     link(m, 5, 23, studio, dx, 7)
-    cantine('bxl', 'Bruxelles', m, (12, 23))
-    boutique('bxl', 'Bruxelles', m, (18, 23))
-    gare('bxl', 'Bruxelles-Luxembourg', m, (38, 25))
+    cantine('bxl', "Brussels", m, (12, 23))
+    boutique('bxl', "Brussels", m, (18, 23))
+    gare('bxl', 'Brussels-Luxembourg', m, (38, 25))
     # Parlement hall (Schuman lab) + ghost tower stairs
-    p = add(M('parlement_hall', 'Parlement européen – Hall', 16, 12, 'marble', 'labo', 'indoor', bg='101820'))
+    p = add(M('parlement_hall', "European Parliament – Hall", 16, 12, 'marble', 'labo', 'indoor', bg='101820'))
     pdx = interior_box(p, 16, 12, 'm')
     p.rect('red_carpet', pdx, 3, 1, 8)
     p.obj('podium', 7, 2).obj('plant', 0, 2).obj('plant', 15, 2).obj('bookshelf', 1, 2).obj('bookshelf', 2, 2)
@@ -246,7 +246,7 @@ def build_bruxelles():
     p.ev('warp 14 2 tour_fantome_1 2 9 down')
     link(m, 28, 25, p, pdx, 11)
     # Berlaymont (champion) and Europa (Council) — locked doors handled by triggers
-    b13 = add(M('berlaymont_13', 'Berlaymont – 13ᵉ étage', 14, 12, 'carpet_red', 'champion_hall', 'indoor', bg='101820'))
+    b13 = add(M('berlaymont_13', "Berlaymont – 13th floor", 14, 12, 'carpet_red', 'champion_hall', 'indoor', bg='101820'))
     bdx = interior_box(b13, 14, 12, 'R')
     b13.rect('marble', 0, 2, 14, 10).rect('red_carpet', bdx, 3, 1, 9)
     b13.obj('desk', 5, 3).obj('plant', 0, 2).obj('plant', 13, 2).obj('flag', 3, 2).obj('flag', 10, 2)
@@ -254,7 +254,7 @@ def build_bruxelles():
     b13.npc('michel_b', 'michel', 2, 6, 'right', 'still', 'michel_berlaymont')
     link(m, 30, 9, b13, bdx, 11)
     m.ev('trigger 30 10 1 1 berlaymont_locked ifnot=COUNCIL_DONE')
-    eu = add(M('europa_hall', 'Bâtiment Europa – Conseil européen', 16, 30, 'marble', 'council_hall', 'indoor', bg='101820'))
+    eu = add(M('europa_hall', "Europa Building – European Council", 16, 30, 'marble', 'council_hall', 'indoor', bg='101820'))
     edx = interior_box(eu, 16, 30, 'm')
     eu.rect('red_carpet', edx, 2, 1, 27)
     for i, (who, y) in enumerate((('merkel', 24), ('draghi', 17), ('kallas', 10), ('costa', 3))):
@@ -267,7 +267,7 @@ def build_bruxelles():
     link(m, 11, 10, eu, edx, 29)
     m.ev('trigger 11 11 1 1 europa_locked ifnot=BADGE_8')
     # DG COMP gym (Vestager) & place Lux bar (lobby hideout)
-    g7 = add(M('gym_dgcomp', 'DG Concurrence – Arène', 14, 14, 'marble', 'gym', 'indoor', bg='101820'))
+    g7 = add(M('gym_dgcomp', "DG Competition – Arena", 14, 14, 'marble', 'gym', 'indoor', bg='101820'))
     gdx = interior_box(g7, 14, 14, 'm')
     for y in (4, 7, 10):
         g7.rect('counter', 2, y, 4, 1).rect('counter', 8, y, 4, 1)
@@ -276,7 +276,7 @@ def build_bruxelles():
     g7.npc('avocat2', 'avocat', 10, 5, 'left', 'still', 'gym7_t2', trainer='avocat_tech2', range=3)
     link(m, 37, 31, g7, gdx, 13)
     m.ev('trigger 37 32 1 1 dgcomp_locked ifnot=LOBBY_DEFEATED')
-    lux = add(M('place_lux_bar', 'Place Lux – Le Cocktail', 10, 8, 'floor', 'lobby', 'indoor', bg='101820'))
+    lux = add(M('place_lux_bar', "Place Lux – The Cocktail", 10, 8, 'floor', 'lobby', 'indoor', bg='101820'))
     ldx = interior_box(lux, 10, 8, 'o')
     lux.rect('counter', 1, 3, 4, 1).obj('plant', 9, 2).obj('sofa', 6, 5)
     lux.npc('barman', 'vendeur', 2, 2, 'down', 'still', 'lux_barman')
@@ -301,7 +301,7 @@ def build_bruxelles():
 
 # ---------------------------------------------------------------- ROUTE 1 (Ardennes)
 def build_route1():
-    m = add(M('route1', 'Route 1 – Forêt des Ardennes', 60, 20, 'grass', 'route', 'outdoor', 'route1'))
+    m = add(M('route1', "Route 1 – Ardennes Forest", 60, 20, 'grass', 'route', 'outdoor', 'route1'))
     m.border_trees(gaps=[('w', 8, 4), ('e', 8, 4)], kind='pine')
     m.rect('path', 0, 9, 60, 2)
     m.rect('dossiers', 6, 4, 6, 4).rect('dossiers', 20, 12, 8, 4).rect('dossiers', 36, 4, 6, 4).rect('dossiers', 47, 12, 6, 4)
@@ -321,7 +321,7 @@ def build_route1():
 
 # ---------------------------------------------------------------- LUXEMBOURG
 def build_luxembourg():
-    m = add(M('luxembourg', 'Luxembourg – Plateau du Kirchberg', 40, 28, 'grass', 'luxembourg', 'outdoor', 'lux_parc',
+    m = add(M('luxembourg', "Luxembourg – Kirchberg Plateau", 40, 28, 'grass', 'luxembourg', 'outdoor', 'lux_parc',
               'luxembourg'))
     m.border_trees(gaps=[('w', 12, 4), ('e', 12, 4), ('s', 18, 4)])
     m.rect('road', 0, 13, 40, 2).rect('pave', 0, 11, 40, 2).rect('pave', 0, 15, 40, 2)
@@ -337,9 +337,9 @@ def build_luxembourg():
     cantine('lux', 'Luxembourg', m, (33, 7))
     boutique('lux', 'Luxembourg', m, (18, 7))
     gare('lux', 'Luxembourg', m, (32, 22))
-    house('maison_lux', 'Maison – Luxembourg', m, (6, 21),
+    house('maison_lux', "House – Luxembourg", m, (6, 21),
           [('mamie_lux', 'mamie', 3, 3, 'down', 'still', 'lux_mamie')])
-    c = add(M('cjue_hall', 'Cour de justice de l\'UE', 14, 10, 'marble', 'labo', 'indoor', bg='101820'))
+    c = add(M('cjue_hall', "Court of Justice of the EU", 14, 10, 'marble', 'labo', 'indoor', bg='101820'))
     cdx = interior_box(c, 14, 10, 'm')
     c.rect('counter', 3, 3, 8, 1).obj('bookshelf', 0, 1).obj('bookshelf', 13, 1)
     c.obj('pc', 12, 1)   # Euromon archives
@@ -348,7 +348,7 @@ def build_luxembourg():
     c.npc('greffier', 'fonctionnaire', 2, 6, 'right', 'look', 'cjue_greffier')
     link(m, 9, 9, c, cdx, 9)
     # Gym 1 Juncker: maze of filing cabinets ("rescrits")
-    g = add(M('gym_lux', 'Arène du Luxembourg – Salle des rescrits', 14, 16, 'carpet_red', 'gym', 'indoor', bg='101820'))
+    g = add(M('gym_lux', "Luxembourg Arena – Tax Ruling Hall", 14, 16, 'carpet_red', 'gym', 'indoor', bg='101820'))
     gdx = interior_box(g, 14, 16, 'R')
     for (x, y) in ((2, 4), (4, 4), (8, 4), (10, 4), (2, 8), (6, 8), (10, 8), (4, 11), (8, 11)):
         g.obj('cabinet', x, y)
@@ -365,7 +365,7 @@ def build_luxembourg():
     m.ev('warp 39 13 route2 1 9 right').ev('warp 39 14 route2 1 10 right')
     m.ev('item 36 25 super_tampon ITEM_LUX1')
     # Schengen village (boat)
-    s = add(M('schengen', 'Schengen – Bords de Moselle', 24, 16, 'grass', 'schengen', 'outdoor', 'schengen', 'luxembourg'))
+    s = add(M('schengen', "Schengen – Moselle Banks", 24, 16, 'grass', 'schengen', 'outdoor', 'schengen', 'luxembourg'))
     s.border_trees(gaps=[('n', 10, 4)])
     s.rect('water', 0, 10, 24, 4).rect('dock', 9, 9, 6, 2).rect('path', 10, 0, 4, 9)
     s.obj('boat', 15, 10)
@@ -380,7 +380,7 @@ def build_luxembourg():
 
 # ---------------------------------------------------------------- ROUTE 2 + FRANCFORT
 def build_route2():
-    m = add(M('route2', 'Route 2 – Vallée de la Moselle', 50, 20, 'grass', 'route', 'outdoor', 'route2'))
+    m = add(M('route2', "Route 2 – Moselle Valley", 50, 20, 'grass', 'route', 'outdoor', 'route2'))
     m.border_trees(gaps=[('w', 8, 4), ('e', 8, 4)])
     m.rect('path', 0, 9, 50, 2).rect('water', 0, 15, 50, 3).rect('sand', 0, 14, 50, 1)
     m.rect('dossiers', 8, 3, 8, 4).rect('dossiers', 28, 11, 6, 3).rect('dossiers', 38, 3, 6, 4)
@@ -396,7 +396,7 @@ def build_route2():
 
 
 def build_francfort():
-    m = add(M('francfort', 'Francfort – Quartier des banques', 40, 28, 'pave', 'francfort', 'outdoor', 'ffm_parc',
+    m = add(M('francfort', "Frankfurt – Banking District", 40, 28, 'pave', 'francfort', 'outdoor', 'ffm_parc',
               'francfort'))
     m.border_trees(gaps=[('w', 12, 4), ('s', 18, 4)])
     m.rect('road', 0, 13, 40, 2)
@@ -406,11 +406,11 @@ def build_francfort():
     m.obj('gare', 28, 17)            # door 32,21
     m.obj('house_brick', 4, 17)      # door 6,20
     m.rect('grass', 12, 18, 12, 8).rect('dossiers', 13, 20, 5, 4).rect('water', 19, 20, 3, 3)
-    cantine('ffm', 'Francfort', m, (7, 8))
-    boutique('ffm', 'Francfort', m, (30, 8))
-    gare('ffm', 'Francfort', m, (32, 21))
-    house('maison_ffm', 'Maison – Francfort', m, (6, 20), [('epargnant', 'banquier', 4, 3, 'down', 'still', 'ffm_epargnant')])
-    g = add(M('gym_bce', 'Tour de la BCE – Salle des marchés', 14, 16, 'carpet', 'gym', 'indoor', bg='101820'))
+    cantine('ffm', "Frankfurt", m, (7, 8))
+    boutique('ffm', "Frankfurt", m, (30, 8))
+    gare('ffm', "Frankfurt", m, (32, 21))
+    house('maison_ffm', "House – Frankfurt", m, (6, 20), [('epargnant', 'banquier', 4, 3, 'down', 'still', 'ffm_epargnant')])
+    g = add(M('gym_bce', "ECB Tower – Trading Floor", 14, 16, 'carpet', 'gym', 'indoor', bg='101820'))
     gdx = interior_box(g, 14, 16, 'c')
     for y in (4, 8, 12):
         g.obj('desk', 2, y).obj('desk', 10, y)
@@ -431,7 +431,7 @@ def build_francfort():
 
 
 def build_route3():
-    m = add(M('route3', 'Route 3 – Vignobles du Rhin', 20, 50, 'grass', 'route', 'outdoor', 'route3'))
+    m = add(M('route3', "Route 3 – Rhine Vineyards", 20, 50, 'grass', 'route', 'outdoor', 'route3'))
     m.border_trees(gaps=[('n', 8, 4), ('s', 8, 4)])
     m.rect('path', 9, 0, 2, 50)
     m.rect('dossiers', 3, 6, 5, 6).rect('dossiers', 12, 18, 5, 6).rect('dossiers', 3, 30, 5, 6).rect('dossiers', 12, 40, 5, 4)
@@ -447,7 +447,7 @@ def build_route3():
 
 # ---------------------------------------------------------------- STRASBOURG
 def build_strasbourg():
-    m = add(M('strasbourg', 'Strasbourg – Quartier européen', 40, 30, 'grass', 'strasbourg', 'outdoor', 'stras_parc',
+    m = add(M('strasbourg', "Strasbourg – European Quarter", 40, 30, 'grass', 'strasbourg', 'outdoor', 'stras_parc',
               'strasbourg'))
     m.border_trees(gaps=[('n', 18, 4)])
     m.rect('path', 18, 0, 4, 14).rect('pave', 0, 14, 40, 3).rect('water', 0, 24, 40, 3).rect('sand', 0, 23, 40, 1)
@@ -462,11 +462,11 @@ def build_strasbourg():
     cantine('stras', 'Strasbourg', m, (7, 6))
     boutique('stras', 'Strasbourg', m, (13, 7))
     gare('stras', 'Strasbourg', m, (8, 21))
-    hs = house('maison_stras', 'Maison – Strasbourg', m, (32, 20),
+    hs = house('maison_stras', "House – Strasbourg", m, (32, 20),
                [('dem_stras', 'deputee', 3, 3, 'down', 'still', 'stras_depute')])
     hs.obj('pc', 7, 1)   # Euromon archives
     hs.ev('sign 5 2 stras_ordi').ev('sign 6 2 stras_ordi')   # MEP's desk computer
-    g = add(M('gym_hemicycle', 'Hémicycle – Session plénière', 18, 16, 'carpet', 'gym', 'indoor', bg='101820'))
+    g = add(M('gym_hemicycle', "Hemicycle – Plenary Session", 18, 16, 'carpet', 'gym', 'indoor', bg='101820'))
     gdx = interior_box(g, 18, 16, 'c')
     for y in (5, 8, 11):
         g.rect('bench_row', 2, y, 6, 1).rect('bench_row', 10, y, 6, 1)
@@ -525,13 +525,13 @@ def build_athenes():
         m.npc('pire_guard', 'douanier', 33, 4, 'down', 'still', 'piree_guard', hide='POWERS_START')
         m.ev('trigger 30 3 8 1 piree_block ifnot=POWERS_START')
         m.ev('warp 37 2 piree 1 10 right')
-    m = city('athenes', 'Athènes – Plaka', 'athenes', 'ath_parc', 'acropole', (14, 3), 'arena_red', (5, 4), extra)
-    gym_room('gym_athenes', 'Arène d\'Athènes – Amphithéâtre', 'marble', 'varoufakis', 'gym4_leader',
+    m = city('athenes', "Athens – Plaka", 'athenes', 'ath_parc', 'acropole', (14, 3), 'arena_red', (5, 4), extra)
+    gym_room('gym_athenes', "Athens Arena – Amphitheatre", 'marble', 'varoufakis', 'gym4_leader',
              [('eco1', 'journaliste', 4, 8, 'right', 'still', 'gym4_t1', 'ath_economiste', 4),
               ('troika1', 'banquier', 11, 6, 'left', 'still', 'gym4_t2', 'troika_bce', 3),
               ('troika2', 'fonctionnaire', 11, 10, 'left', 'still', 'gym4_t3', 'troika_fmi', 3)],
              m, (8, 8), deco=lambda g: g.rect('bench_row', 2, 4, 4, 1).rect('bench_row', 10, 4, 4, 1))
-    house('maison_ath', 'Maison – Athènes', m, (31, 19) if False else (28, 19),
+    house('maison_ath', 'House – Athens', m, (31, 19) if False else (28, 19),
           [('grec', 'mamie', 3, 3, 'down', 'still', 'ath_mamie')]) if False else None
     return m
 
@@ -542,8 +542,8 @@ def build_londres():
         m.rect('water', 2, 24, 36, 2)
         m.npc('lon_garde', 'agent', 20, 13, 'down', 'still', 'lon_garde')
         m.ev('sign 30 11 lon_sign')
-    m = city('londres', 'Londres – Westminster', 'londres', 'lon_parc', 'westminster', (16, 2), 'arena_blue', (5, 4), extra)
-    gym_room('gym_londres', 'The Brexit Arms – Pub-arène', 'floor', 'farage', 'gym5_leader',
+    m = city('londres', "London – Westminster", 'londres', 'lon_parc', 'westminster', (16, 2), 'arena_blue', (5, 4), extra)
+    gym_room('gym_londres', "The Brexit Arms – Pub Arena", 'floor', 'farage', 'gym5_leader',
              [('hooligan', 'populo' if False else 'journaliste', 4, 8, 'right', 'still', 'gym5_t1', 'lon_tabloid', 4),
               ('johnson_g', 'johnson', 11, 5, 'left', 'still', 'gym5_johnson', 'lon_johnson', 3)],
              m, (8, 8), deco=lambda g: g.rect('counter', 2, 3, 5, 1).obj('sofa', 10, 10))
@@ -555,9 +555,9 @@ def build_budapest():
         m.rect('water', 2, 22, 36, 3)
         m.npc('bud_magyar', 'fonctionnaire', 30, 13, 'down', 'still', 'bud_magyar_npc')
         m.ev('sign 26 11 bud_sign')
-    m = city('budapest', 'Budapest – Rives du Danube', 'budapest', 'bud_parc', 'parliament_bud', (14, 2), None, None, extra)
+    m = city('budapest', "Budapest – Banks of the Danube", 'budapest', 'bud_parc', 'parliament_bud', (14, 2), None, None, extra)
     # Orbán's arena is inside the Parliament
-    gym_room('gym_budapest', 'Országház – Salle du Veto', 'carpet_red', 'orban', 'gym6_leader',
+    gym_room('gym_budapest', "Országház – Veto Hall", 'carpet_red', 'orban', 'gym6_leader',
              [('bud_t1', 'douanier', 4, 9, 'right', 'still', 'gym6_t1', 'bud_douanier', 4),
               ('bud_t2', 'depute', 11, 6, 'left', 'still', 'gym6_t2', 'bud_conseiller', 4)],
              m, (20, 7), deco=lambda g: g.obj('long_table', 3, 4))
@@ -569,8 +569,8 @@ def build_paris():
         m.obj('eiffel', 32, 2)
         m.npc('par_mime', 'touriste', 24, 13, 'down', 'wander', 'par_touriste')
         m.ev('sign 12 11 par_sign')
-    m = city('paris', 'Paris – Quartier latin', 'paris', 'par_parc', 'sorbonne', (14, 2), None, None, extra)
-    gym_room('gym_paris', 'Grand amphithéâtre de la Sorbonne', 'floor', 'macron', 'gym8_leader',
+    m = city('paris', "Paris – Latin Quarter", 'paris', 'par_parc', 'sorbonne', (14, 2), None, None, extra)
+    gym_room('gym_paris', "Great Amphitheatre of the Sorbonne", 'floor', 'macron', 'gym8_leader',
              [('par_t1', 'fonctionnaire_f', 4, 9, 'right', 'still', 'gym8_t1', 'par_enarque', 4),
               ('par_t2', 'depute', 11, 6, 'left', 'still', 'gym8_t2', 'par_ministre', 4)],
              m, (19, 6), deco=lambda g: [g.rect('bench_row', 2, y, 12, 1) for y in (5, 8, 11) if False])
@@ -580,7 +580,7 @@ def build_paris():
 # ---------------------------------------------------------------- dungeons
 def build_tour_fantome():
     for i in (1, 2, 3):
-        m = add(M(f'tour_fantome_{i}', f'Parlement – Aile fantôme, {i}ᵉ étage', 18, 12, 'dark', 'ghost', 'indoor dark',
+        m = add(M(f'tour_fantome_{i}', f'Parliament – Ghost Wing, {["1st", "2nd", "3rd"][i - 1]} floor', 18, 12, 'dark', 'ghost', 'indoor dark',
                   'fantome' if i < 3 else 'none', bg='080810'))
         m.rect('dark', 0, 0, 18, 12).rect('wall_top', 0, 0, 18, 1).rect('wall', 0, 1, 18, 1)
         m.rect('dark_enc', 4, 4, 10, 6)
@@ -607,7 +607,7 @@ def build_tour_fantome():
 
 
 def build_lobby_qg():
-    m = add(M('lobby_qg', 'QG de la Team Lobby – Sous-sol', 20, 14, 'carpet_red', 'lobby', 'indoor', bg='101018'))
+    m = add(M('lobby_qg', "Team Lobby HQ – Basement", 20, 14, 'carpet_red', 'lobby', 'indoor', bg='101018'))
     m.rect('carpet_red', 0, 0, 20, 14).rect('wall_top', 0, 0, 20, 1).rect('wall', 0, 1, 20, 1)
     m.rect('stairs', 2, 2)
     m.ev('warp 2 2 place_lux_bar 8 3 down')
@@ -624,7 +624,7 @@ def build_lobby_qg():
 
 # ---------------------------------------------------------------- geopolitics (chapter 11)
 def build_powers():
-    a = add(M('anvers', 'Port d\'Anvers – Golf de la Liberté', 40, 28, 'golf', 'trump', 'outdoor', 'anvers', 'anvers'))
+    a = add(M('anvers', "Port of Antwerp – Liberty Golf Course", 40, 28, 'golf', 'trump', 'outdoor', 'anvers', 'anvers'))
     a.border_trees()
     a.rect('green', 6, 4, 14, 10).rect('sand', 22, 6, 4, 3).rect('water', 28, 4, 8, 6)
     a.obj('golf_flag', 12, 6).obj('golf_cart', 20, 14)
@@ -635,21 +635,21 @@ def build_powers():
     a.npc('vance', 'vance', 16, 11, 'down', 'still', 'anvers_vance', trainer='vance_t', range=3)
     a.npc('rutte', 'rutte', 24, 12, 'left', 'still', 'anvers_rutte')
     a.npc('trump', 'trump', 13, 8, 'down', 'still', 'anvers_trump', hide='TRUMP_DONE')
-    gare('anvers', 'Anvers', a, (7, 15))
-    v = add(M('varsovie', 'Varsovie – Plaine de l\'Est', 40, 28, 'snow', 'putin', 'outdoor', 'varsovie', 'varsovie'))
+    gare('anvers', "Antwerp", a, (7, 15))
+    v = add(M('varsovie', "Warsaw – Eastern Plain", 40, 28, 'snow', 'putin', 'outdoor', 'varsovie', 'varsovie'))
     v.border_trees(kind='pine')
     v.rect('snow_enc', 6, 4, 10, 6).rect('snow_enc', 24, 18, 10, 6).rect('pave', 2, 13, 36, 2)
     v.obj('palac_kultury', 22, 2)
     v.obj('gare', 3, 16)
     v.npc('zelensky', 'zelensky', 18, 14, 'down', 'still', 'var_zelensky')
     v.npc('tusk', 'fonctionnaire', 12, 14, 'down', 'still', 'var_tusk')
-    gare('varsovie', 'Varsovie', v, (7, 20))
-    hall = add(M('salle_table', 'Palais – La longue table', 24, 9, 'marble', 'putin', 'indoor', bg='101018'))
+    gare('varsovie', "Warsaw", v, (7, 20))
+    hall = add(M('salle_table', "Palace – The Long Table", 24, 9, 'marble', 'putin', 'indoor', bg='101018'))
     hdx = interior_box(hall, 24, 9, 'm')
     hall.obj('long_table', 4, 3).obj('long_table', 14, 3)
     hall.npc('putin', 'putin', 22, 4, 'left', 'still', 'var_putin', hide='PUTIN_DONE')
     link(v, 28, 8, hall, hdx, 8)
-    p = add(M('piree', 'Port du Pirée – Terminal conteneurs', 36, 22, 'pave', 'xi', 'outdoor', 'piree', 'athenes'))
+    p = add(M('piree', "Port of Piraeus – Container Terminal", 36, 22, 'pave', 'xi', 'outdoor', 'piree', 'athenes'))
     p.rect('water', 0, 16, 36, 6).rect('dock', 0, 15, 36, 1)
     for x in range(6, 32, 4):
         for y in (2, 7):
@@ -658,7 +658,7 @@ def build_powers():
     p.npc('xi', 'xi', 18, 12, 'down', 'still', 'piree_xi', hide='XI_DONE')
     p.npc('panda_g', 'fonctionnaire', 22, 12, 'left', 'still', 'piree_panda')
     p.ev('warp 0 10 athenes 36 3 left')
-    s = add(M('sommet', 'Sommet « G-Tout » – Salle plénière', 20, 14, 'red_carpet', 'sommet_hall', 'indoor', bg='080810'))
+    s = add(M('sommet', "“G-Everything” Summit – Plenary Hall", 20, 14, 'red_carpet', 'sommet_hall', 'indoor', bg='080810'))
     sdx = interior_box(s, 20, 14, 'R')
     s.rect('marble', 0, 2, 20, 12).rect('red_carpet', sdx, 3, 1, 11)
     s.obj('long_table', 5, 4)
@@ -668,8 +668,8 @@ def build_powers():
     s.ev('trigger 8 8 5 1 sommet_final ifnot=GAME_CLEARED')
     s.ev(f'warp {sdx} 13 bruxelles 30 10 down')
     # legendary sites (postgame)
-    for cid, lbl, leg in (('rome', 'Rome – Capitole', 'romulus'), ('maastricht', 'Maastricht – Bords de Meuse', 'maastrichtor'),
-                          ('lisbonne', 'Lisbonne – Monastère des Hiéronymites', 'lisbonia')):
+    for cid, lbl, leg in (('rome', "Rome – Capitol", 'romulus'), ('maastricht', "Maastricht – Banks of the Meuse", 'maastrichtor'),
+                          ('lisbonne', "Lisbon – Jerónimos Monastery", 'lisbonia')):
         m = add(M(cid, lbl, 24, 18, 'pave', 'legend', 'outdoor', 'none', cid))
         m.border_trees()
         m.obj('gare', 2, 8)
@@ -686,8 +686,8 @@ def build_powers():
             sx, sy = 9, 3
             m.obj('bench', 3, 4).obj('bench', 6, 4)
             m.rect('flowers_p', 2, 14, 10, 1)
-            house('maison_maastricht', 'Maison – Maastricht', m, (19, 5), [])
-            house('maison_maastricht2', 'Maison – Maastricht', m, (19, 13), [])
+            house('maison_maastricht', "House – Maastricht", m, (19, 5), [])
+            house('maison_maastricht2', "House – Maastricht", m, (19, 13), [])
         else:
             m.obj('jeronimos', 10, 2)
             m.rect('sand', 2, 13, 20, 1).rect('water', 2, 14, 20, 2)

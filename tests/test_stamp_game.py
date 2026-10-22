@@ -33,9 +33,9 @@ static void ui_text_in(int *canvas, int *font, int x, int y, int w, int h,
                        const char *label, int color, int shadow, int align) {
     assert(count < 6);
     papers[count].x = x - 2; papers[count].y = y - 2;
-    papers[count].valid = !strcmp(label, "ARRÊT");
+    papers[count].valid = !strcmp(label, "RULING");
     papers[count].stamped = false;
-    if (!papers[count].valid) { assert(!strcmp(label, "FAUX")); fake_seen++; }
+    if (!papers[count].valid) { assert(!strcmp(label, "FAKE")); fake_seen++; }
     count++;
 }
 static void canvas_text(int *canvas, int *font, int x, int y,
@@ -62,10 +62,10 @@ static bool touch_ready(void) {
 #define g_touch_down touch_ready()
 #define MIN(a,b) ((a)<(b)?(a):(b))
 static int intro(const char *title, const char *rule) {
-    assert(strstr(rule, "15") && strstr(rule, "FAUX")); return 1;
+    assert(strstr(rule, "15") && strstr(rule, "FAKE")); return 1;
 }
 static void top_panel(const char *title, const char *rule, int secs, int score, int goal) {
-    assert(goal == 15 && score <= 15 && strstr(rule, "FAUX"));
+    assert(goal == 15 && score <= 15 && strstr(rule, "FAKE"));
 }
 static void sfx_play(int sound) {
     if (sound == SFX_STAMP) good_stamps++; else bad_stamps++;
@@ -73,7 +73,7 @@ static void sfx_play(int sound) {
 static void frame_wait(void) { assert(++ticks <= 1800); }
 static int outro(bool won, const char *win, const char *lose) {
     if (won) assert(good_stamps == 15 && !bad_stamps);
-    if (bad_stamps) assert(strstr(lose, "mauvais"));
+    if (bad_stamps) assert(strstr(lose, "bad document"));
     return won;
 }
 ''' + function('source/minigame.c', 'static int mg_tampon(void)') + r'''
@@ -146,7 +146,7 @@ static int rng_range(int n) { assert(n == 2); coin_calls++; return coin; }
 #define T(s) (s)
 ''' + stubs + '\n' + source + r'''
 int main(void) {
-    for (int i = 0; i < 96; i++) items[i].name = "Tampon";
+    for (int i = 0; i < 96; i++) items[i].name = "Stamp";
     script_init();
     minigame_win = 0; script_run(GREFFIER);
     assert(reward_count == 0 && !flag_get(FIRST) && !flag_get(SECOND));
@@ -162,7 +162,7 @@ int main(void) {
         coin = i % 2; int before = reward_count;
         script_run(GREFFIER);
         assert(reward_count == before + coin);
-        if (!coin) assert(strstr(last_message, "cette fois"));
+        if (!coin) assert(strstr(last_message, "this time"));
     }
     assert(reward_count == 54 && coin_calls == 100);
     int played = rounds;

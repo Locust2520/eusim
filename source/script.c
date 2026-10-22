@@ -73,9 +73,9 @@ static void give_item_msg(int item, int n)
     bag_add(item, n);
     char buf[128];
     if (n > 1)
-        snprintf(buf, sizeof buf, T("{P} obtient %d × %s !"), n, items[item].name);
+        snprintf(buf, sizeof buf, T("{P} obtained %d × %s!"), n, items[item].name);
     else
-        snprintf(buf, sizeof buf, T("{P} obtient : %s !"), items[item].name);
+        snprintf(buf, sizeof buf, T("{P} obtained: %s!"), items[item].name);
     music_pause(true);
     sfx_play(SFX_LEVELUP);
     dlg_say("", buf);

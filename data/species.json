@@ -2,7 +2,7 @@
  {
   "id": "verdeal",
   "num": 1,
-  "name": "Verdeal",
+  "name": "GreenDeer",
   "types": [
    "VERT"
   ],
@@ -63,8 +63,8 @@
     "neutralite"
    ]
   ],
-  "dex": "Né avec le Pacte vert de 2019. Une pousse jaillit chaque fois qu'une norme d'émission est votée.",
-  "category": "Pacte vert",
+  "dex": "Born with the 2019 Green Deal. A sprout shoots up every time an emissions standard is voted.",
+  "category": "Green Deal",
   "color": "green",
   "shape": "quadruped"
  },
@@ -128,8 +128,8 @@
     "neutralite"
    ]
   ],
-  "dex": "Il s'entraîne pour réduire ses émissions de 55 % d'ici 2030. Il compte chaque calorie.",
-  "category": "Objectif climat",
+  "dex": "It trains to cut its emissions by 55% by 2030. It counts every calorie.",
+  "category": "Climate Goal",
   "color": "green",
   "shape": "quadruped"
  },
@@ -211,15 +211,15 @@
     "fit_for_55"
    ]
   ],
-  "dex": "Il vise la neutralité carbone en 2050. D'ici là, il plante un arbre à chaque pas.",
-  "category": "Neutralité",
+  "dex": "It aims for carbon neutrality in 2050. Until then, it plants a tree with every step.",
+  "category": "Neutrality",
   "color": "green",
   "shape": "quadruped"
  },
  {
   "id": "charbonnet",
   "num": 4,
-  "name": "Charbonnet",
+  "name": "Coalbonnet",
   "types": [
    "INDUSTRIE"
   ],
@@ -276,15 +276,15 @@
     "airbus"
    ]
   ],
-  "dex": "Petit tas de charbon de la CECA de 1951. Il noircit tout ce qu'il touche, avec enthousiasme.",
-  "category": "Charbon",
+  "dex": "A small heap of coal from the 1951 ECSC. It blackens everything it touches, enthusiastically.",
+  "category": "Coal",
   "color": "black",
   "shape": "biped"
  },
  {
   "id": "hautfourno",
   "num": 5,
-  "name": "Hautfourno",
+  "name": "Furnacio",
   "types": [
    "INDUSTRIE"
   ],
@@ -337,15 +337,15 @@
     "airbus"
    ]
   ],
-  "dex": "Sa cheminée crache des étincelles quand il s'énerve. Il rêve de plein emploi.",
-  "category": "Haut-fourneau",
+  "dex": "Its chimney spits sparks when it gets angry. It dreams of full employment.",
+  "category": "Blast Furnace",
   "color": "orange",
   "shape": "biped"
  },
  {
   "id": "cecagon",
   "num": 6,
-  "name": "CECAgon",
+  "name": "Steelagon",
   "types": [
    "INDUSTRIE",
    "FEDERAL"
@@ -420,8 +420,8 @@
     "spitzen"
    ]
   ],
-  "dex": "Forgé dans le charbon et l'acier mis en commun. Il est la preuve que la paix se fabrique.",
-  "category": "Acier commun",
+  "dex": "Forged in pooled coal and steel. It is proof that peace can be manufactured.",
+  "category": "Pooled Steel",
   "color": "grey",
   "shape": "biped"
  },
@@ -485,8 +485,8 @@
     "fusion"
    ]
   ],
-  "dex": "Un petit atome curieux, né du traité Euratom de 1957. Il ne tient pas en place.",
-  "category": "Atome",
+  "dex": "A curious little atom, born of the 1957 Euratom treaty. It can't sit still.",
+  "category": "Atom",
   "color": "yellow",
   "shape": "blob"
  },
@@ -546,8 +546,8 @@
     "fusion"
    ]
   ],
-  "dex": "Ses électrons tournent si vite qu'il éclaire une pièce entière. Sobriété en option.",
-  "category": "Réacteur",
+  "dex": "Its electrons spin so fast it lights up a whole room. Energy saving optional.",
+  "category": "Reactor",
   "color": "yellow",
   "shape": "blob"
  },
@@ -629,7 +629,7 @@
     "fission"
    ]
   ],
-  "dex": "Il se divise en deux quand il est contrarié. Les Verts et lui ne s'adressent plus la parole.",
+  "dex": "It splits in two when it's upset. It and the Greens are no longer on speaking terms.",
   "category": "Fission",
   "color": "cyan",
   "shape": "blob"
@@ -637,7 +637,7 @@
  {
   "id": "tampono",
   "num": 10,
-  "name": "Tampono",
+  "name": "Stampon",
   "types": [
    "JURIDIQUE"
   ],
@@ -698,15 +698,15 @@
     "arret_cjue"
    ]
   ],
-  "dex": "Un tampon vivant qui valide tout ce qu'il croise. Il a déjà tamponné son propre dresseur.",
-  "category": "Tampon",
+  "dex": "A living stamp that approves everything it meets. It has already stamped its own trainer.",
+  "category": "Stamp",
   "color": "brown",
   "shape": "object"
  },
  {
   "id": "paraphor",
   "num": 11,
-  "name": "Paraphor",
+  "name": "Initialor",
   "types": [
    "JURIDIQUE"
   ],
@@ -763,8 +763,8 @@
     "arret_cjue"
    ]
   ],
-  "dex": "Il paraphe chaque page en bas à droite. Il lui faut quatre heures par traité.",
-  "category": "Parapheur",
+  "dex": "It initials every page at the bottom right. It needs four hours per treaty.",
+  "category": "Signature Book",
   "color": "red",
   "shape": "object"
  },
@@ -846,7 +846,7 @@
     "spitzen"
    ]
   ],
-  "dex": "Il ne bouge que lorsque 27 parlements nationaux ont dit oui. Il dort donc beaucoup.",
+  "dex": "It only moves when 27 national parliaments have said yes. So it sleeps a lot.",
   "category": "Ratification",
   "color": "red",
   "shape": "object"
@@ -919,8 +919,8 @@
     "reglement"
    ]
   ],
-  "dex": "Il se reproduit par milliers à chaque texte de loi. Le Parlement en reçoit parfois 2000 par rapport.",
-  "category": "Amendement",
+  "dex": "It multiplies by the thousand with every bill. Parliament sometimes receives 2,000 per report.",
+  "category": "Amendment",
   "color": "white",
   "shape": "insect"
  },
@@ -1002,8 +1002,8 @@
     "directive"
    ]
   ],
-  "dex": "Il dépose tant d'amendements qu'il bloque toute la séance. Une technique bien rodée.",
-  "category": "Obstruction",
+  "dex": "It tables so many amendments that it blocks the whole sitting. A well-honed technique.",
+  "category": "Filibuster",
   "color": "white",
   "shape": "insect"
  },
@@ -1071,8 +1071,8 @@
     "ia_act"
    ]
   ],
-  "dex": "Il apparaît devant chaque porte depuis le RGPD de 2018. Le refuser ne suffit jamais.",
-  "category": "Bandeau cookie",
+  "dex": "It has appeared in front of every door since the 2018 GDPR. Rejecting it is never enough.",
+  "category": "Cookie Banner",
   "color": "tan",
   "shape": "blob"
  },
@@ -1154,15 +1154,15 @@
     "arret_cjue"
    ]
   ],
-  "dex": "Il demande votre accord pour tout, puis pour l'accord lui-même. Il est très poli.",
-  "category": "Consentement",
+  "dex": "It asks for your consent to everything, then for consent to the consent itself. It's very polite.",
+  "category": "Consent",
   "color": "tan",
   "shape": "blob"
  },
  {
   "id": "usbece",
   "num": 17,
-  "name": "Usbécé",
+  "name": "Usbeecee",
   "types": [
    "NUMERIQUE"
   ],
@@ -1216,15 +1216,15 @@
     "ia_act"
    ]
   ],
-  "dex": "Obligatoire sur tous les appareils depuis fin 2024. Il a mis au chômage un tiroir entier de câbles.",
-  "category": "Chargeur",
+  "dex": "Mandatory on all devices since late 2024. It put a whole drawer of cables out of work.",
+  "category": "Charger",
   "color": "grey",
   "shape": "serpent"
  },
  {
   "id": "bouchatach",
   "num": 18,
-  "name": "Bouchatach",
+  "name": "Tethercap",
   "types": [
    "VERT"
   ],
@@ -1282,15 +1282,15 @@
     "neutralite"
    ]
   ],
-  "dex": "Il ne quitte plus sa bouteille depuis juillet 2024. Il vous frappe le nez quand vous buvez.",
-  "category": "Bouchon",
+  "dex": "It hasn't left its bottle since July 2024. It hits your nose when you drink.",
+  "category": "Bottle Cap",
   "color": "blue",
   "shape": "object"
  },
  {
   "id": "pailleplast",
   "num": 19,
-  "name": "Pailleplast",
+  "name": "Strawraith",
   "types": [
    "VERT",
    "FANTOME"
@@ -1365,15 +1365,15 @@
     "neutralite"
    ]
   ],
-  "dex": "Interdit depuis 2021, on le croyait disparu. Il hante les fast-foods la nuit.",
-  "category": "Paille disparue",
+  "dex": "Banned since 2021, it was thought extinct. It haunts fast-food restaurants at night.",
+  "category": "Lost Straw",
   "color": "pink",
   "shape": "serpent"
  },
  {
   "id": "courbana",
   "num": 20,
-  "name": "Courbana",
+  "name": "Curvanana",
   "types": [
    "AGRICOLE"
   ],
@@ -1427,8 +1427,8 @@
     "moisson"
    ]
   ],
-  "dex": "Un règlement de 1994 fixe sa qualité. Il passe sa vie à mesurer sa propre courbure.",
-  "category": "Banane",
+  "dex": "A 1994 regulation sets its quality. It spends its life measuring its own curvature.",
+  "category": "Banana",
   "color": "yellow",
   "shape": "serpent"
  },
@@ -1496,8 +1496,8 @@
     "ia_act"
    ]
   ],
-  "dex": "Il voyage partout sans frais depuis juin 2017. Il appelle sa mère depuis chaque frontière.",
-  "category": "Itinérance",
+  "dex": "It travels everywhere at no extra cost since June 2017. It calls its mum from every border.",
+  "category": "Free roaming",
   "color": "cyan",
   "shape": "flyer"
  },
@@ -1579,8 +1579,8 @@
     "ia_act"
    ]
   ],
-  "dex": "Il a visité les 27 pays en un week-end et a tout posté en direct. Sans surcoût.",
-  "category": "Sans frontières",
+  "dex": "It visited all 27 countries in one weekend and live-posted everything. No surcharge.",
+  "category": "Borderless",
   "color": "cyan",
   "shape": "flyer"
  },
@@ -1644,8 +1644,8 @@
     "oxi"
    ]
   ],
-  "dex": "Ce petit rongeur part un semestre à l'étranger et revient bilingue. Né en 1987.",
-  "category": "Étudiant",
+  "dex": "This little rodent goes abroad for a semester and comes back bilingual. Born in 1987.",
+  "category": "Student",
   "color": "beige",
   "shape": "quadruped"
  },
@@ -1727,15 +1727,15 @@
     "oxi"
    ]
   ],
-  "dex": "Il a habité dans 12 colocations et cuisine des pâtes dans 9 langues.",
-  "category": "Échange",
+  "dex": "It has lived in 12 flatshares and cooks pasta in 9 languages.",
+  "category": "Exchange",
   "color": "beige",
   "shape": "quadruped"
  },
  {
   "id": "eurolo",
   "num": 25,
-  "name": "Eurolo",
+  "name": "Eurorolo",
   "types": [
    "MONETAIRE"
   ],
@@ -1792,8 +1792,8 @@
     "quantitative"
    ]
   ],
-  "dex": "Une pièce de 2 € qui roule partout depuis 2002. Elle a 27 faces nationales possibles.",
-  "category": "Pièce",
+  "dex": "A €2 coin that has rolled everywhere since 2002. It has 27 possible national sides.",
+  "category": "Coin",
   "color": "gold",
   "shape": "object"
  },
@@ -1875,15 +1875,15 @@
     "etats_unis_europe"
    ]
   ],
-  "dex": "Vingt pays partagent sa force. Quand l'un tousse, les autres ont la fièvre.",
-  "category": "Monnaie unique",
+  "dex": "Twenty countries share its strength. When one coughs, the others get a fever.",
+  "category": "Single Currency",
   "color": "gold",
   "shape": "object"
  },
  {
   "id": "schengeon",
   "num": 27,
-  "name": "Schengéon",
+  "name": "Schengeon",
   "types": [
    "DIPLO"
   ],
@@ -1937,15 +1937,15 @@
     "accord"
    ]
   ],
-  "dex": "Né sur un bateau sur la Moselle en 1985. Aucune frontière ne le retient.",
-  "category": "Libre circulation",
+  "dex": "Born on a boat on the Moselle in 1985. No border can hold it back.",
+  "category": "Free Movement",
   "color": "blue",
   "shape": "flyer"
  },
  {
   "id": "glyphosaure",
   "num": 28,
-  "name": "Glyphosaure",
+  "name": "Glyphosaur",
   "types": [
    "AGRICOLE",
    "LOBBY"
@@ -2020,7 +2020,7 @@
     "sac_billets"
    ]
   ],
-  "dex": "Réautorisé pour dix ans en 2023. Les herbes folles tremblent à son passage.",
+  "dex": "Reauthorised for ten years in 2023. Weeds tremble as it passes.",
   "category": "Herbicide",
   "color": "olive",
   "shape": "quadruped"
@@ -2085,8 +2085,8 @@
     "sac_billets"
    ]
   ],
-  "dex": "Il traîne dans les couloirs avec une mallette plus grande que lui. Il ne fait pas de lobbying, il « informe ».",
-  "category": "Démarcheur",
+  "dex": "It roams the corridors with a briefcase bigger than itself. It doesn't lobby, it “informs”.",
+  "category": "Canvasser",
   "color": "black",
   "shape": "humanoid"
  },
@@ -2146,8 +2146,8 @@
     "sac_billets"
    ]
   ],
-  "dex": "Il connaît le numéro de chaque assistant parlementaire. Et leurs allergies.",
-  "category": "Influenceur",
+  "dex": "It knows the number of every parliamentary assistant. And their allergies.",
+  "category": "Influencer",
   "color": "black",
   "shape": "humanoid"
  },
@@ -2225,8 +2225,8 @@
     "souverainete"
    ]
   ],
-  "dex": "Un des 25 000 lobbyistes de Bruxelles, en version géante. Il réécrit les lois en dormant.",
-  "category": "Méga-lobby",
+  "dex": "One of Brussels' 25,000 lobbyists, in giant form. It rewrites laws in its sleep.",
+  "category": "Mega-lobby",
   "color": "black",
   "shape": "humanoid"
  },
@@ -2298,8 +2298,8 @@
     "reglement"
    ]
   ],
-  "dex": "Une malle en fer qui fait Bruxelles–Strasbourg douze fois par an. Elle a le mal des transports.",
-  "category": "Malle en fer",
+  "dex": "An iron trunk that goes Brussels–Strasbourg twelve times a year. It gets travel sick.",
+  "category": "Iron Trunk",
   "color": "grey",
   "shape": "object"
  },
@@ -2381,15 +2381,15 @@
     "accord"
    ]
   ],
-  "dex": "Il transporte un parlement entier dans son ventre. Coût du voyage : à ne pas demander.",
-  "category": "Déménagement",
+  "dex": "It carries an entire parliament in its belly. Cost of the trip: don't ask.",
+  "category": "Relocation",
   "color": "grey",
   "shape": "object"
  },
  {
   "id": "changheure",
   "num": 34,
-  "name": "Changheure",
+  "name": "Clockback",
   "types": [
    "TECHNO",
    "FANTOME"
@@ -2464,15 +2464,15 @@
     "ectoplasme"
    ]
   ],
-  "dex": "Le Parlement a voté sa disparition en 2019. Il revient pourtant deux fois par an.",
-  "category": "Changement d'heure",
+  "dex": "Parliament voted to abolish it in 2019. Yet it still comes back twice a year.",
+  "category": "Clock Change",
   "color": "purple",
   "shape": "object"
  },
  {
   "id": "diesgate",
   "num": 35,
-  "name": "Diesgate",
+  "name": "Dieselgate",
   "types": [
    "INDUSTRIE",
    "LOBBY"
@@ -2547,8 +2547,8 @@
     "airbus"
    ]
   ],
-  "dex": "Il triche aux contrôles depuis 2015 : propre au banc d'essai, enfumé sur la route.",
-  "category": "Fraude",
+  "dex": "It has cheated on tests since 2015: clean on the test bench, smoky on the road.",
+  "category": "Fraud",
   "color": "grey",
   "shape": "object"
  },
@@ -2609,15 +2609,15 @@
     "etats_unis_europe"
    ]
   ],
-  "dex": "Il fait campagne pour la présidence… puis un autre est nommé à sa place.",
-  "category": "Tête de liste",
+  "dex": "It campaigns for the presidency… then someone else is appointed instead.",
+  "category": "Lead Candidate",
   "color": "blue",
   "shape": "humanoid"
  },
  {
   "id": "interpreton",
   "num": 37,
-  "name": "Interpréton",
+  "name": "Interpreton",
   "types": [
    "DIPLO"
   ],
@@ -2671,8 +2671,8 @@
     "accord"
    ]
   ],
-  "dex": "Il parle 24 langues et toujours avec deux secondes de retard.",
-  "category": "Interprète",
+  "dex": "It speaks 24 languages, always with a two-second delay.",
+  "category": "Interpreter",
   "color": "teal",
   "shape": "humanoid"
  },
@@ -2754,7 +2754,7 @@
     "accord"
    ]
   ],
-  "dex": "Trois têtes : Parlement, Conseil, Commission. Elles se mettent d'accord vers 4 h du matin.",
+  "dex": "Three heads: Parliament, Council, Commission. They reach agreement around 4 a.m.",
   "category": "Trilogue",
   "color": "purple",
   "shape": "blob"
@@ -2762,7 +2762,7 @@
  {
   "id": "comitologue",
   "num": 39,
-  "name": "Comitologue",
+  "name": "Comitologist",
   "types": [
    "TECHNO"
   ],
@@ -2824,15 +2824,15 @@
     "reglement"
    ]
   ],
-  "dex": "Personne ne sait exactement ce qu'il fait. Il siège pourtant dans 300 comités.",
-  "category": "Comitologie",
+  "dex": "Nobody knows exactly what it does. Yet it sits on 300 committees.",
+  "category": "Comitology",
   "color": "grey",
   "shape": "humanoid"
  },
  {
   "id": "paperasse_mon",
   "num": 40,
-  "name": "Paperassor",
+  "name": "Redtapor",
   "types": [
    "TECHNO"
   ],
@@ -2897,8 +2897,8 @@
     "reglement"
    ]
   ],
-  "dex": "Une pile de formulaires en triple exemplaire. Il manque toujours une page.",
-  "category": "Formulaire",
+  "dex": "A pile of forms in triplicate. There's always one page missing.",
+  "category": "Form",
   "color": "white",
   "shape": "object"
  },
@@ -2980,7 +2980,7 @@
     "directive"
    ]
   ],
-  "dex": "Il garde tout, même les post-it de 1958. Classement : alphabétique et émotionnel.",
+  "dex": "It keeps everything, even sticky notes from 1958. Filing system: alphabetical and emotional.",
   "category": "Archives",
   "color": "brown",
   "shape": "object"
@@ -2988,7 +2988,7 @@
  {
   "id": "agrikolo",
   "num": 42,
-  "name": "Agrikolo",
+  "name": "Agricolo",
   "types": [
    "AGRICOLE"
   ],
@@ -3045,15 +3045,15 @@
     "moisson"
    ]
   ],
-  "dex": "Il touche une aide de la PAC pour chaque hectare. Il compte ses hectares tous les matins.",
-  "category": "Petit fermier",
+  "dex": "It gets a CAP payment for each hectare. It counts its hectares every morning.",
+  "category": "Small Farmer",
   "color": "green",
   "shape": "biped"
  },
  {
   "id": "pactor",
   "num": 43,
-  "name": "PACtor",
+  "name": "CAPtor",
   "types": [
    "AGRICOLE"
   ],
@@ -3106,15 +3106,15 @@
     "moisson"
    ]
   ],
-  "dex": "Il absorbe un tiers du budget européen sans broncher. Il a toujours faim.",
-  "category": "PAC",
+  "dex": "It swallows a third of the European budget without flinching. It's always hungry.",
+  "category": "CAP",
   "color": "green",
   "shape": "biped"
  },
  {
   "id": "megapac",
   "num": 44,
-  "name": "MégaPAC",
+  "name": "MegaCAP",
   "types": [
    "AGRICOLE",
    "SOUVERAIN"
@@ -3189,15 +3189,15 @@
     "souverainete"
    ]
   ],
-  "dex": "Quand il bloque l'autoroute avec ses tracteurs, même le Conseil négocie.",
-  "category": "Politique agricole",
+  "dex": "When it blocks the motorway with its tractors, even the Council negotiates.",
+  "category": "Farm Policy",
   "color": "green",
   "shape": "biped"
  },
  {
   "id": "tracteuron",
   "num": 45,
-  "name": "Tracteuron",
+  "name": "Tractoron",
   "types": [
    "AGRICOLE",
    "INDUSTRIE"
@@ -3272,15 +3272,15 @@
     "moisson"
    ]
   ],
-  "dex": "Il se gare devant le Parlement à chaque réforme. Klaxon garanti.",
-  "category": "Manifestation",
+  "dex": "It parks in front of Parliament at every reform. Horn-honking guaranteed.",
+  "category": "Protest",
   "color": "red",
   "shape": "object"
  },
  {
   "id": "fromajus",
   "num": 46,
-  "name": "Fromajus",
+  "name": "Cheeson",
   "types": [
    "AGRICOLE"
   ],
@@ -3337,15 +3337,15 @@
     "moisson"
    ]
   ],
-  "dex": "Un petit fromage au lait cru qui sent très fort. Il est fier de son terroir.",
-  "category": "Fromage",
+  "dex": "A little raw-milk cheese that smells very strong. It's proud of its terroir.",
+  "category": "Cheese",
   "color": "yellow",
   "shape": "blob"
  },
  {
   "id": "appellatio",
   "num": 47,
-  "name": "Appellatio",
+  "name": "PDOsaur",
   "types": [
    "AGRICOLE",
    "JURIDIQUE"
@@ -3420,15 +3420,15 @@
     "moisson"
    ]
   ],
-  "dex": "Protégé par une appellation d'origine. Toute imitation est poursuivie en justice.",
-  "category": "AOP",
+  "dex": "Protected by a designation of origin. Any imitation is taken to court.",
+  "category": "PDO",
   "color": "yellow",
   "shape": "blob"
  },
  {
   "id": "pralinou",
   "num": 48,
-  "name": "Pralinou",
+  "name": "Pralino",
   "types": [
    "SOCIAL"
   ],
@@ -3482,7 +3482,7 @@
     "oxi"
    ]
   ],
-  "dex": "Un chocolat belge très gentil. Il fond quand on lui fait un compliment.",
+  "dex": "A very kind Belgian chocolate. It melts when you pay it a compliment.",
   "category": "Praline",
   "color": "brown",
   "shape": "blob"
@@ -3490,7 +3490,7 @@
  {
   "id": "frituron",
   "num": 49,
-  "name": "Frituron",
+  "name": "Fryon",
   "types": [
    "SOCIAL",
    "INDUSTRIE"
@@ -3565,8 +3565,8 @@
     "airbus"
    ]
   ],
-  "dex": "Cuit deux fois, comme il se doit. Il refuse catégoriquement d'être appelé « French ».",
-  "category": "Frite belge",
+  "dex": "Fried twice, as it should be. It flatly refuses to be called “French”.",
+  "category": "Belgian Fry",
   "color": "yellow",
   "shape": "insect"
  },
@@ -3631,7 +3631,7 @@
     "tweet_majuscules"
    ]
   ],
-  "dex": "Il vit place du Luxembourg et vole les frites des lobbyistes. Il connaît tous les ragots.",
+  "dex": "It lives on Place du Luxembourg and steals lobbyists' fries. It knows all the gossip.",
   "category": "Pigeon",
   "color": "grey",
   "shape": "flyer"
@@ -3706,8 +3706,8 @@
     "oxi"
    ]
   ],
-  "dex": "Une petite statue de 55 cm qui a plus de costumes que tout le Parlement.",
-  "category": "Petit bonhomme",
+  "dex": "A little 55 cm statue with more costumes than the whole of Parliament.",
+  "category": "Little Fellow",
   "color": "bronze",
   "shape": "humanoid"
  },
@@ -3789,7 +3789,7 @@
     "rapport_annuel"
    ]
   ],
-  "dex": "Neuf sphères d'acier reliées en cristal, depuis l'Expo 58. Il brille la nuit sur Bruxelles.",
+  "dex": "Nine steel spheres linked as a crystal, since Expo 58. It shines over Brussels at night.",
   "category": "Atomium",
   "color": "silver",
   "shape": "blob"
@@ -3797,7 +3797,7 @@
  {
   "id": "stagion",
   "num": 53,
-  "name": "Stagion",
+  "name": "Internix",
   "types": [
    "SOCIAL"
   ],
@@ -3854,15 +3854,15 @@
     "oxi"
    ]
   ],
-  "dex": "Il travaille beaucoup et n'est pas payé. Il dit que c'est « une expérience formatrice ».",
-  "category": "Stagiaire",
+  "dex": "It works a lot and isn't paid. It says it's “a learning experience”.",
+  "category": "Intern",
   "color": "blue",
   "shape": "humanoid"
  },
  {
   "id": "contractuel",
   "num": 54,
-  "name": "Contractuel",
+  "name": "Tempurion",
   "types": [
    "SOCIAL",
    "TECHNO"
@@ -3940,15 +3940,15 @@
     "oxi"
    ]
   ],
-  "dex": "Son contrat finit dans trois mois. Il le renouvelle depuis six ans.",
-  "category": "Agent temporaire",
+  "dex": "Its contract ends in three months. It has been renewing it for six years.",
+  "category": "Temp Agent",
   "color": "blue",
   "shape": "humanoid"
  },
  {
   "id": "titularis",
   "num": 55,
-  "name": "Titularis",
+  "name": "Tenuris",
   "types": [
    "TECHNO",
    "FEDERAL"
@@ -4023,15 +4023,15 @@
     "spitzen"
    ]
   ],
-  "dex": "Il a réussi le concours EPSO. Il ne craint plus rien, sauf la réforme des retraites.",
-  "category": "Fonctionnaire",
+  "dex": "It passed the EPSO competition. It fears nothing any more, except pension reform.",
+  "category": "Civil servant",
   "color": "navy",
   "shape": "humanoid"
  },
  {
   "id": "populo",
   "num": 56,
-  "name": "Populo",
+  "name": "Grumbleon",
   "types": [
    "POPULISTE"
   ],
@@ -4092,15 +4092,15 @@
     "tweet_majuscules"
    ]
   ],
-  "dex": "Il est contre. Peu importe quoi, il est contre.",
-  "category": "Râleur",
+  "dex": "It's against. Against what doesn't matter, it's against.",
+  "category": "Grumbler",
   "color": "red",
   "shape": "biped"
  },
  {
   "id": "tribun",
   "num": 57,
-  "name": "Tribun",
+  "name": "Tribunon",
   "types": [
    "POPULISTE"
   ],
@@ -4157,15 +4157,15 @@
     "tweet_majuscules"
    ]
   ],
-  "dex": "Il monte sur toutes les tables pour haranguer la foule. Même à la cantine.",
-  "category": "Orateur",
+  "dex": "It climbs onto every table to harangue the crowd. Even in the canteen.",
+  "category": "Orator",
   "color": "red",
   "shape": "biped"
  },
  {
   "id": "demagogor",
   "num": 58,
-  "name": "Démagogor",
+  "name": "Demagogor",
   "types": [
    "POPULISTE",
    "SOUVERAIN"
@@ -4240,8 +4240,8 @@
     "souverainete"
    ]
   ],
-  "dex": "Il promet tout à tout le monde. Ses promesses s'évaporent à l'aube.",
-  "category": "Démagogue",
+  "dex": "It promises everything to everyone. Its promises evaporate at dawn.",
+  "category": "Demagogue",
   "color": "red",
   "shape": "biped"
  },
@@ -4323,8 +4323,8 @@
     "tweet_majuscules"
    ]
   ],
-  "dex": "Il change de forme selon la personne qui le regarde. Il est très partagé.",
-  "category": "Fausse info",
+  "dex": "It changes shape depending on who's looking at it. It's very widely shared.",
+  "category": "Fake News",
   "color": "orange",
   "shape": "flyer"
  },
@@ -4392,8 +4392,8 @@
     "ia_act"
    ]
   ],
-  "dex": "Un petit robot qui commente tout en majuscules. Il n'a jamais dormi.",
-  "category": "Faux compte",
+  "dex": "A little robot that comments on everything in capitals. It has never slept.",
+  "category": "Fake Account",
   "color": "grey",
   "shape": "object"
  },
@@ -4475,15 +4475,15 @@
     "ia_act"
    ]
   ],
-  "dex": "Dix mille comptes dans une seule boîte. Les élections le connaissent bien.",
-  "category": "Usine à trolls",
+  "dex": "Ten thousand accounts in a single box. Elections know it well.",
+  "category": "Troll Farm",
   "color": "grey",
   "shape": "object"
  },
  {
   "id": "algoritmo",
   "num": 62,
-  "name": "Algoritmo",
+  "name": "Algorithmo",
   "types": [
    "NUMERIQUE"
   ],
@@ -4544,15 +4544,15 @@
     "ia_act"
    ]
   ],
-  "dex": "Il apprend de tout ce que vous faites. Il sait déjà ce que vous allez capturer.",
-  "category": "Algorithme",
+  "dex": "It learns from everything you do. It already knows what you're going to catch.",
+  "category": "Algorithm",
   "color": "cyan",
   "shape": "serpent"
  },
  {
   "id": "iact",
   "num": 63,
-  "name": "IAct",
+  "name": "AIAct",
   "types": [
    "NUMERIQUE",
    "JURIDIQUE"
@@ -4627,8 +4627,8 @@
     "amende"
    ]
   ],
-  "dex": "Le premier règlement mondial sur l'intelligence artificielle (2024) l'a mis en règle.",
-  "category": "IA régulée",
+  "dex": "The world's first regulation on artificial intelligence (2024) brought it into line.",
+  "category": "Regulated AI",
   "color": "cyan",
   "shape": "serpent"
  },
@@ -4692,7 +4692,7 @@
     "quantitative"
    ]
   ],
-  "dex": "Il gonfle un peu chaque mois. Les ménages le surveillent de près.",
+  "dex": "It swells a little every month. Households keep a close eye on it.",
   "category": "Inflation",
   "color": "pink",
   "shape": "blob"
@@ -4750,7 +4750,7 @@
     "quantitative"
    ]
   ],
-  "dex": "Si gros qu'il bouche les rues. La BCE monte les taux pour le faire maigrir.",
+  "dex": "So big it blocks the streets. The ECB raises rates to make it slim down.",
   "category": "Hyperinflation",
   "color": "pink",
   "shape": "blob"
@@ -4833,8 +4833,8 @@
     "tweet_majuscules"
    ]
   ],
-  "dex": "Il s'étire à chaque déclaration maladroite d'un banquier central.",
-  "category": "Écart de taux",
+  "dex": "It stretches with every clumsy statement by a central banker.",
+  "category": "Rate Gap",
   "color": "red",
   "shape": "serpent"
  },
@@ -4919,8 +4919,8 @@
     "quantitative"
    ]
   ],
-  "dex": "Il vaut une fortune le matin et rien le soir. Il adore les montagnes russes.",
-  "category": "Cryptomonnaie",
+  "dex": "It's worth a fortune in the morning and nothing at night. It loves roller coasters.",
+  "category": "Cryptocurrency",
   "color": "orange",
   "shape": "object"
  },
@@ -5002,15 +5002,15 @@
     "quantitative"
    ]
   ],
-  "dex": "Le règlement MiCA l'a obligé à porter une cravate. Il est plus calme, maintenant.",
-  "category": "Crypto régulée",
+  "dex": "The MiCA regulation made it wear a tie. It's calmer now.",
+  "category": "Regulated Crypto",
   "color": "orange",
   "shape": "object"
  },
  {
   "id": "austerix",
   "num": 69,
-  "name": "Austérix",
+  "name": "Austerix",
   "types": [
    "MONETAIRE",
    "SOUVERAIN"
@@ -5081,15 +5081,15 @@
     "souverainete"
    ]
   ],
-  "dex": "Il ne dépense jamais rien, pas même son énergie. Son cri : « Schwarze Null ! »",
-  "category": "Équilibre budgétaire",
+  "dex": "It never spends anything, not even its energy. Its cry: “Schwarze Null!”",
+  "category": "Balanced Budget",
   "color": "black",
   "shape": "biped"
  },
  {
   "id": "troikat",
   "num": 70,
-  "name": "Troïkat",
+  "name": "Troicat",
   "types": [
    "MONETAIRE",
    "DIPLO"
@@ -5160,8 +5160,8 @@
     "accord"
    ]
   ],
-  "dex": "Trois chats : BCE, Commission, FMI. Ils inspectent ensemble les comptes des autres.",
-  "category": "Troïka",
+  "dex": "Three cats: ECB, Commission, IMF. Together they inspect other people's accounts.",
+  "category": "Troika",
   "color": "grey",
   "shape": "quadruped"
  },
@@ -5225,7 +5225,7 @@
     "souverainete"
    ]
   ],
-  "dex": "Un crapaud qui croasse « non ! » à chaque proposition. Il suffit de lui pour tout bloquer.",
+  "dex": "A toad that croaks “no!” at every proposal. It takes just one to block everything.",
   "category": "Veto",
   "color": "green",
   "shape": "quadruped"
@@ -5308,15 +5308,15 @@
     "souverainete"
    ]
   ],
-  "dex": "Il exige l'unanimité pour chaque décision, puis la refuse lui-même.",
-  "category": "Unanimité",
+  "dex": "It demands unanimity for every decision, then refuses it itself.",
+  "category": "Unanimity",
   "color": "green",
   "shape": "quadruped"
  },
  {
   "id": "frontierex",
   "num": 73,
-  "name": "Frontièrex",
+  "name": "Borderix",
   "types": [
    "SOUVERAIN"
   ],
@@ -5366,8 +5366,8 @@
     "souverainete"
    ]
   ],
-  "dex": "Il réapparaît dès qu'on parle de contrôles aux frontières. Il a sa guérite personnelle.",
-  "category": "Barrière",
+  "dex": "It reappears whenever border checks are mentioned. It has its own sentry box.",
+  "category": "Barrier",
   "color": "brown",
   "shape": "object"
  },
@@ -5449,15 +5449,15 @@
     "tweet_majuscules"
    ]
   ],
-  "dex": "Il a voulu partir en 2016, est parti en 2020, et regrette parfois. Il quitte souvent les combats.",
-  "category": "Sortie",
+  "dex": "It wanted to leave in 2016, left in 2020, and sometimes regrets it. It often leaves battles.",
+  "category": "Exit",
   "color": "navy",
   "shape": "flyer"
  },
  {
   "id": "referendo",
   "num": 75,
-  "name": "Référendo",
+  "name": "Referendo",
   "types": [
    "POPULISTE",
    "SOUVERAIN"
@@ -5532,7 +5532,7 @@
     "souverainete"
    ]
   ],
-  "dex": "Une urne qui pose des questions simples aux problèmes compliqués.",
+  "dex": "A ballot box that asks simple questions about complicated problems.",
   "category": "Consultation",
   "color": "white",
   "shape": "object"
@@ -5540,7 +5540,7 @@
  {
   "id": "assistome",
   "num": 76,
-  "name": "Assistome",
+  "name": "Ghostaide",
   "types": [
    "FANTOME"
   ],
@@ -5589,15 +5589,15 @@
     "ectoplasme"
    ]
   ],
-  "dex": "Payé par le Parlement, il n'y a jamais mis les pieds. Personne ne l'a jamais vu travailler.",
-  "category": "Assistant fantôme",
+  "dex": "Paid by Parliament, it has never set foot there. Nobody has ever seen it work.",
+  "category": "Ghost assistant",
   "color": "lavender",
   "shape": "humanoid"
  },
  {
   "id": "emploifictif",
   "num": 77,
-  "name": "Emploifictif",
+  "name": "Ghostjob",
   "types": [
    "FANTOME",
    "LOBBY"
@@ -5664,15 +5664,15 @@
     "ectoplasme"
    ]
   ],
-  "dex": "Il porte un badge, un contrat et une fiche de paie. Mais aucun bureau.",
-  "category": "Emploi fictif",
+  "dex": "It has a badge, a contract and a payslip. But no office.",
+  "category": "Fake Job",
   "color": "lavender",
   "shape": "humanoid"
  },
  {
   "id": "sacabillet",
   "num": 78,
-  "name": "Sacabillet",
+  "name": "Cashbag",
   "types": [
    "LOBBY",
    "FANTOME"
@@ -5739,15 +5739,15 @@
     "ectoplasme"
    ]
   ],
-  "dex": "Retrouvé plein de billets dans un appartement bruxellois en décembre 2022.",
-  "category": "Sac de billets",
+  "dex": "Found full of banknotes in a Brussels flat in December 2022.",
+  "category": "Bag of Cash",
   "color": "green",
   "shape": "object"
  },
  {
   "id": "valisette",
   "num": 79,
-  "name": "Valisette",
+  "name": "Caseling",
   "types": [
    "LOBBY"
   ],
@@ -5801,15 +5801,15 @@
     "sac_billets"
    ]
   ],
-  "dex": "Une petite valise qui passe de main en main au pied du Parlement.",
-  "category": "Mallette",
+  "dex": "A small suitcase that passes from hand to hand at the foot of Parliament.",
+  "category": "Briefcase",
   "color": "brown",
   "shape": "object"
  },
  {
   "id": "gazoduc",
   "num": 80,
-  "name": "Gazoduc",
+  "name": "Pipelino",
   "types": [
    "ENERGIE",
    "SOUVERAIN"
@@ -5884,7 +5884,7 @@
     "fusion"
    ]
   ],
-  "dex": "Long de 1200 km sous la mer. Son robinet est contrôlé par quelqu'un d'autre.",
+  "dex": "1,200 km long under the sea. Its tap is controlled by someone else.",
   "category": "Pipeline",
   "color": "grey",
   "shape": "serpent"
@@ -5892,7 +5892,7 @@
  {
   "id": "eolion",
   "num": 81,
-  "name": "Éolion",
+  "name": "Windion",
   "types": [
    "ENERGIE",
    "VERT"
@@ -5970,8 +5970,8 @@
     "fission"
    ]
   ],
-  "dex": "Ses pales tournent dès qu'on souffle sur lui. Il déteste les jours sans vent.",
-  "category": "Éolienne",
+  "dex": "Its blades spin as soon as you blow on it. It hates windless days.",
+  "category": "Wind Turbine",
   "color": "white",
   "shape": "flyer"
  },
@@ -6053,8 +6053,8 @@
     "neutralite"
    ]
   ],
-  "dex": "Il vit au large de la mer du Nord et alimente des villes entières.",
-  "category": "Éolien en mer",
+  "dex": "It lives off the North Sea coast and powers entire cities.",
+  "category": "Offshore Wind",
   "color": "white",
   "shape": "flyer"
  },
@@ -6136,15 +6136,15 @@
     "neutralite"
    ]
   ],
-  "dex": "Il dort la nuit et travaille dur le jour, surtout en Espagne.",
-  "category": "Panneau solaire",
+  "dex": "It sleeps at night and works hard by day, especially in Spain.",
+  "category": "Solar Panel",
   "color": "blue",
   "shape": "object"
  },
  {
   "id": "plafonnor",
   "num": 84,
-  "name": "Plafonnor",
+  "name": "Capnor",
   "types": [
    "ENERGIE",
    "MONETAIRE"
@@ -6215,15 +6215,15 @@
     "fusion"
    ]
   ],
-  "dex": "Il empêche les prix de monter trop haut. Il a mal au cou à force de pousser.",
-  "category": "Plafond de prix",
+  "dex": "It stops prices from rising too high. Its neck hurts from all the pushing.",
+  "category": "Price Cap",
   "color": "red",
   "shape": "object"
  },
  {
   "id": "tarifaux",
   "num": 85,
-  "name": "Tarifaux",
+  "name": "Tariffix",
   "types": [
    "POPULISTE"
   ],
@@ -6284,15 +6284,15 @@
     "tweet_majuscules"
    ]
   ],
-  "dex": "Il taxe tout ce qui passe devant lui. Même les feuilles mortes.",
-  "category": "Droit de douane",
+  "dex": "It taxes everything that passes in front of it. Even dead leaves.",
+  "category": "Tariff",
   "color": "orange",
   "shape": "quadruped"
  },
  {
   "id": "tarifator",
   "num": 86,
-  "name": "Tarifator",
+  "name": "Tariffator",
   "types": [
    "POPULISTE",
    "MONETAIRE"
@@ -6367,15 +6367,15 @@
     "tweet_majuscules"
    ]
   ],
-  "dex": "Il brandit un tableau de taxes géant. Les chiffres changent chaque matin.",
-  "category": "Guerre commerciale",
+  "dex": "It brandishes a giant board of taxes. The figures change every morning.",
+  "category": "Trade War",
   "color": "orange",
   "shape": "quadruped"
  },
  {
   "id": "terrara",
   "num": 87,
-  "name": "Terrara",
+  "name": "Rarium",
   "types": [
    "INDUSTRIE",
    "NUMERIQUE"
@@ -6450,8 +6450,8 @@
     "haut_fourneau"
    ]
   ],
-  "dex": "Un petit caillou dont dépendent tous les téléphones. Ses exportations sont surveillées.",
-  "category": "Terres rares",
+  "dex": "A little pebble that every phone depends on. Its exports are being watched.",
+  "category": "Rare Earths",
   "color": "purple",
   "shape": "object"
  },
@@ -6516,15 +6516,15 @@
     "accord"
    ]
   ],
-  "dex": "Prêté pour quelques années à un zoo européen. Il mange du bambou et des accords commerciaux.",
-  "category": "Panda diplomate",
+  "dex": "On loan to a European zoo for a few years. It eats bamboo and trade agreements.",
+  "category": "Panda Diplomat",
   "color": "white",
   "shape": "quadruped"
  },
  {
   "id": "censourson",
   "num": 89,
-  "name": "Censourson",
+  "name": "Censorcub",
   "types": [
    "FANTOME",
    "POPULISTE"
@@ -6595,15 +6595,15 @@
     "ectoplasme"
    ]
   ],
-  "dex": "Cet ourson jaune n'est visible dans aucune région. Sa fiche a été retirée.",
-  "category": "Contenu indisponible",
+  "dex": "This yellow bear cub is not visible in any region. Its entry has been removed.",
+  "category": "Content Unavailable",
   "color": "yellow",
   "shape": "quadruped"
  },
  {
   "id": "pigeon_lux",
   "num": 90,
-  "name": "Kirchbergeon",
+  "name": "Kirchgeon",
   "types": [
    "JURIDIQUE",
    "DIPLO"
@@ -6678,8 +6678,8 @@
     "arret_cjue"
    ]
   ],
-  "dex": "Il niche sur les tours de la Cour de justice au Kirchberg et roucoule en latin.",
-  "category": "Pigeon juriste",
+  "dex": "It nests on the Court of Justice towers in Kirchberg and coos in Latin.",
+  "category": "Lawyer Pigeon",
   "color": "grey",
   "shape": "flyer"
  },
@@ -6761,8 +6761,8 @@
     "etats_unis_europe"
    ]
   ],
-  "dex": "Il récite la déclaration du 9 mai 1950 à qui veut l'entendre. Il apparaît à la Fête de l'Europe.",
-  "category": "Déclaration",
+  "dex": "It recites the declaration of 9 May 1950 to anyone who will listen. It appears on Europe Day.",
+  "category": "Declaration",
   "color": "blue",
   "shape": "humanoid"
  },
@@ -6844,15 +6844,15 @@
     "spitzen"
    ]
   ],
-  "dex": "Une médaille remise à l'Union européenne en 2012. Elle brille de fierté.",
-  "category": "Prix Nobel",
+  "dex": "A medal awarded to the European Union in 2012. It shines with pride.",
+  "category": "Nobel Prize",
   "color": "gold",
   "shape": "object"
  },
  {
   "id": "bruxellair",
   "num": 93,
-  "name": "Brumelle",
+  "name": "Drizzels",
   "types": [
    "TECHNO",
    "VERT"
@@ -6927,8 +6927,8 @@
     "fit_for_55"
    ]
   ],
-  "dex": "Un petit nuage bruxellois. Il pleut sur vous 200 jours par an.",
-  "category": "Crachin",
+  "dex": "A little Brussels cloud. It rains on you 200 days a year.",
+  "category": "Drizzle",
   "color": "grey",
   "shape": "flyer"
  },
@@ -7010,8 +7010,8 @@
     "oxi"
    ]
   ],
-  "dex": "Un déjeuner de travail qui dure trois heures. On y décide plus qu'en séance.",
-  "category": "Déjeuner d'affaires",
+  "dex": "A three-hour working lunch. More gets decided there than in the chamber.",
+  "category": "Business Lunch",
   "color": "red",
   "shape": "blob"
  },
@@ -7093,8 +7093,8 @@
     "moisson"
    ]
   ],
-  "dex": "Il est en négociation depuis 1999. Quand il avance d'un pas, les tracteurs le repoussent.",
-  "category": "Accord commercial",
+  "dex": "It has been under negotiation since 1999. When it takes one step forward, the tractors push it back.",
+  "category": "Trade Deal",
   "color": "green",
   "shape": "quadruped"
  },
@@ -7176,15 +7176,15 @@
     "spitzen"
    ]
   ],
-  "dex": "Né le 25 mars 1957 au Capitole. Il a fondé la Communauté économique européenne.",
-  "category": "Traité de Rome",
+  "dex": "Born on 25 March 1957 on the Capitol. It founded the European Economic Community.",
+  "category": "Treaty of Rome",
   "color": "marble",
   "shape": "humanoid"
  },
  {
   "id": "maastrichtor",
   "num": 97,
-  "name": "Maastrichtor",
+  "name": "Maastrix",
   "types": [
    "MONETAIRE",
    "FEDERAL"
@@ -7259,8 +7259,8 @@
     "spitzen"
    ]
   ],
-  "dex": "Né aux Pays-Bas en 1992. Il a créé l'Union et rêvé l'euro.",
-  "category": "Traité de Maastricht",
+  "dex": "Born in the Netherlands in 1992. It created the Union and dreamed up the euro.",
+  "category": "Maastricht Treaty",
   "color": "gold",
   "shape": "serpent"
  },
@@ -7342,8 +7342,8 @@
     "accord"
    ]
   ],
-  "dex": "Signé en 2007, il a repris l'essentiel d'une constitution qui n'a jamais vu le jour.",
-  "category": "Traité de Lisbonne",
+  "dex": "Signed in 2007, it took over most of a constitution that never saw the light of day.",
+  "category": "Treaty of Lisbon",
   "color": "blue",
   "shape": "flyer"
  },
@@ -7425,7 +7425,7 @@
     "ectoplasme"
    ]
   ],
-  "dex": "Rejeté par référendum en France et aux Pays-Bas en 2005. Il fuit dès qu'on l'approche.",
+  "dex": "Rejected by referendum in France and the Netherlands in 2005. It flees as soon as you approach.",
   "category": "Constitution",
   "color": "white",
   "shape": "flyer"
@@ -7508,7 +7508,7 @@
     "directive"
    ]
   ],
-  "dex": "Il ne connaît qu'une attaque, et elle réussit toujours. Il a sauvé l'euro en une phrase.",
+  "dex": "It knows only one move, and it always succeeds. It saved the euro with one sentence.",
   "category": "Whatever it takes",
   "color": "navy",
   "shape": "humanoid"

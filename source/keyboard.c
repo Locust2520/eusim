@@ -1,5 +1,6 @@
 // On-screen keyboard (bottom screen) for naming: touch or d-pad.
 #include "scenes.h"
+#include "lang.h"
 #include "canvas.h"
 #include "gfx.h"
 #include "ui.h"
@@ -8,8 +9,17 @@
 #include "dialog.h"
 #include "gen/font_data.h"
 
-static const char *const rows_upper[4] = {"AZERTYUIOP", "QSDFGHJKLM", "WXCVBNÉÈÀÇ", "-'.ÔÏÜÖÄ "};
-static const char *const rows_lower[4] = {"azertyuiop", "qsdfghjklm", "wxcvbnéèàç", "-'.ôïüöä "};
+// QWERTY by default, AZERTY when the game is in French
+static const char *const qwerty_upper[4] = {"QWERTYUIOP", "ASDFGHJKL'", "ZXCVBNMÉÈÀ", "-.ÇÔÏÜÖÄ "};
+static const char *const qwerty_lower[4] = {"qwertyuiop", "asdfghjkl'", "zxcvbnméèà", "-.çôïüöä "};
+static const char *const azerty_upper[4] = {"AZERTYUIOP", "QSDFGHJKLM", "WXCVBNÉÈÀÇ", "-'.ÔÏÜÖÄ "};
+static const char *const azerty_lower[4] = {"azertyuiop", "qsdfghjklm", "wxcvbnéèàç", "-'.ôïüöä "};
+
+static const char *const *layout(bool upper)
+{
+    bool fr = !strcmp(g_langs[g_lang].code, "fr");
+    return fr ? (upper ? azerty_upper : azerty_lower) : (upper ? qwerty_upper : qwerty_lower);
+}
 
 #define KX 8
 #define KY 64
@@ -55,7 +65,7 @@ static void draw(const char *prompt, const char *name, int cx, int cy, bool uppe
     int w = canvas_text(&g_bot, &font_main, 18, 27, name, C_TEXT, C_SHADOW);
     if ((g_frame / 16) % 2 == 0)
         canvas_rect(&g_bot, 19 + w, 30, 2, 13, C_BLUE);
-    const char *const *rows = upper ? rows_upper : rows_lower;
+    const char *const *rows = layout(upper);
     for (int r = 0; r < 4; r++) {
         int n = row_len(rows[r]);
         for (int c = 0; c < n; c++) {
@@ -68,7 +78,7 @@ static void draw(const char *prompt, const char *name, int cx, int cy, bool uppe
         }
     }
     // special keys row
-    static const char *const sp[3] = {"Maj/min", "Effacer", "OK"};
+    static const char *const sp[3] = {"Shift", "Delete", "OK"};
     for (int i = 0; i < 3; i++) {
         int x = 8 + i * 82, y = KY + 4 * KH + 4;
         bool sel = (cy == 4 && cx == i);
@@ -119,7 +129,7 @@ bool keyboard_input(const char *prompt, char *out, size_t capacity, int maxlen)
         bool redraw = false;
         int act = -2; // -2 none, -1 char, 0 shift, 1 del, 2 ok
         char typed[8] = {0};
-        const char *const *rows = upper ? rows_upper : rows_lower;
+        const char *const *rows = layout(upper);
         if (g_krep & KEY_RIGHT) { cx++; redraw = true; }
         if (g_krep & KEY_LEFT) { cx--; redraw = true; }
         if (g_krep & KEY_DOWN) { cy = (cy + 1) % 5; redraw = true; }

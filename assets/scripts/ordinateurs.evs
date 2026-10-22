@@ -2,50 +2,50 @@
 # The separate EU-branded machines open the Euromon archives via their PC tile behavior.
 
 script studio_ordi
-  ask - "Ton ordinateur. 437 courriels non lus clignotent dans un coin de l'écran."
-  choice "Boîte mail" "Éteindre" -> TMP
+  ask - "Your computer. 437 unread emails blink in the corner of the screen."
+  choice "Mailbox" "Shut Down" -> TMP
   if var TMP == 1 goto fin
   close
   minigame courriels
   if var RESULT == 0 goto rate
   if flag PC_MAIL_DONE goto deja
   setflag PC_MAIL_DONE
-  say - "Une notification s'affiche : « Félicitations pour votre productivité ! » Un colis t'attendait sous le bureau."
+  say - "A notification pops up: “Congratulations on your productivity!” A parcel was waiting under the desk."
   giveitem x_reactivite 2
   goto fin
 :deja
-  say - "Boîte vide. Trois secondes plus tard : « Re: Réunion de coordination sur les réunions »."
+  say - "Empty inbox. Three seconds later: “Re: Coordination Meeting About Meetings”."
   goto fin
 :rate
-  say - "Le serveur de messagerie affiche un sablier. Il l'affichera sans doute jusqu'à demain."
+  say - "The mail server shows a loading icon. It'll probably still be showing it tomorrow."
   goto fin
 :fin
 end
 
 script parl_ordi
-  ask - "Un ordinateur du service de presse. L'écran affiche : « Cellule Désinfox – rumeurs à vérifier : 2 384 »."
-  choice "Désinfox" "Éteindre" -> TMP
+  ask - "A press office computer. The screen reads: “Fact Check Unit – rumours to verify: 2,384”."
+  choice "Fact Check" "Shut Down" -> TMP
   if var TMP == 1 goto fin
   close
   minigame desinfox
   if var RESULT == 0 goto rate
   if flag PC_INTOX_DONE goto deja
   setflag PC_INTOX_DONE
-  say "Agent du Parlement" "Du beau travail de vérification ! Le service de presse t'offre ces rapports d'expert. Sourcés, eux."
+  say "Parliament officer" "Great fact-checking work! The press office gives you these expert reports. Sourced, for once."
   giveitem x_expertise 2
   goto fin
 :deja
-  say - "Toutes les rumeurs du jour sont vérifiées. Il en arrivera d'autres d'ici le déjeuner."
+  say - "All today's rumours are checked. More will arrive by lunchtime."
   goto fin
 :rate
-  say - "Une intox vient d'être partagée 40 000 fois. Le démenti, lui, 12 fois."
+  say - "A piece of fake news was just shared 40,000 times. The correction, 12 times."
   goto fin
 :fin
 end
 
 script cjue_ordi
-  say - "Le terminal de la DG Traduction. Un voyant rouge clignote : « Messages en attente d'aiguillage »."
-  ask "Greffier" "Les interprètes sont débordés ! Tu peux trier les messages et les envoyer à la bonne cabine ?"
+  say - "The DG Translation terminal. A red light is blinking: “Messages awaiting routing”."
+  ask "Registrar" "The interpreters are swamped! Can you sort the messages and send them to the right booth?"
   yesno -> TMP
   if var TMP == 0 goto fin
   close
@@ -53,21 +53,21 @@ script cjue_ordi
   if var RESULT == 0 goto rate
   if flag PC_LANG_DONE goto deja
   setflag PC_LANG_DONE
-  say "Greffier" "Vingt-quatre langues, aucune erreur d'aiguillage ! Prends ce carnet d'adresses, tous les interprètes de la Cour y sont."
+  say "Registrar" "Twenty-four languages, no routing errors! Take this address book, every interpreter at the Court is in it."
   giveitem x_diplomatie 2
   goto fin
 :deja
-  say "Greffier" "Tu reconnais le slovène du slovaque mieux que la moitié du Conseil."
+  say "Registrar" "You can tell Slovenian from Slovak better than half the Council."
   goto fin
 :rate
-  say "Greffier" "Un message maltais est arrivé en cabine irlandaise. Ils en discutent encore. Réessaie quand tu veux."
+  say "Registrar" "A Maltese message arrived in the Irish booth. They're still discussing it. Try again whenever you like."
   goto fin
 :fin
 end
 
 script bce_ordi
-  say - "Un terminal Bloomberg, encore chaud. Sur un post-it : « Objectif : 2 %. Pas 1,9. Pas 2,1. 2. »"
-  ask - "Prendre les commandes de la politique monétaire de la zone euro ?"
+  say - "A Bloomberg terminal, still warm. On a sticky note: “Target: 2%. Not 1.9. Not 2.1. 2.”"
+  ask - "Take charge of the eurozone's monetary policy?"
   yesno -> TMP
   if var TMP == 0 goto fin
   close
@@ -75,21 +75,21 @@ script bce_ordi
   if var RESULT == 0 goto rate
   if flag PC_TAUX_DONE goto deja
   setflag PC_TAUX_DONE
-  say - "Les marchés saluent ta prudence. Une prime de stabilité tombe sur ton compte !"
+  say - "The markets applaud your caution. A stability bonus lands in your account!"
   money 3000
   goto fin
 :deja
-  say - "Inflation à 2 %. Quelque part à Francfort, un économiste verse une larme de joie."
+  say - "Inflation at 2%. Somewhere in Frankfurt, an economist sheds a tear of joy."
   goto fin
 :rate
-  say - "Le terminal affiche un graphique en forme de montagnes russes. Personne n'a rien vu. Recommence vite."
+  say - "The terminal shows a rollercoaster-shaped graph. Nobody saw anything. Start again quickly."
   goto fin
 :fin
 end
 
 script stras_ordi
-  say - "L'ordinateur de l'eurodéputée. Sur le bureau, un enchevêtrement de 14 chargeurs différents."
-  ask "Eurodéputée" "J'ai voté la directive USB-C ! Mais mes collègues ont encore de vieux appareils… Tu m'aides à les mettre en conformité ?"
+  say - "The MEP's computer. On the desk, a tangle of 14 different chargers."
+  ask "MEP" "I voted for the USB-C directive! But my colleagues still have old devices… Can you help me bring them up to code?"
   yesno -> TMP
   if var TMP == 0 goto fin
   close
@@ -97,14 +97,14 @@ script stras_ordi
   if var RESULT == 0 goto rate
   if flag PC_USBC_DONE goto deja
   setflag PC_USBC_DONE
-  say "Eurodéputée" "Un seul chargeur pour tous ! Tiens, prends cette clé USB-C. Il paraît qu'elle fait évoluer certains Euromons numériques."
+  say "MEP" "One charger for everyone! Here, take this USB-C stick. Apparently it evolves certain digital Euromon."
   giveitem cle_usb 1
   goto fin
 :deja
-  say "Eurodéputée" "Le tiroir à câbles est enfin vide. Je ne sais plus quoi y ranger."
+  say "MEP" "The cable drawer is finally empty. I don't know what to put in it anymore."
   goto fin
 :rate
-  say "Eurodéputée" "Il reste des câbles Lightning partout… On réessaie quand tu veux."
+  say "MEP" "There are still Lightning cables everywhere… Try again whenever you like."
   goto fin
 :fin
 end

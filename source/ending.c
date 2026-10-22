@@ -75,7 +75,7 @@ void ending_run(void)
             for (int k = 0; k < 30; k++)
                 canvas_pixel(&g_top, (k * 97 + off / 3) % 256, (k * 53) % 192, C_LGREY);
             canvas_text_center(&g_top, &font_main, 128, 20, "EU SIMULATOR", C_GOLD, C_BLUE_D);
-            canvas_text_center(&g_top, &font_small, 128, 40, "Merci d'avoir joué !", C_WHITE, 0);
+            canvas_text_center(&g_top, &font_small, 128, 40, "Thanks for playing!", C_WHITE, 0);
             int i = (off / 120) % MAX(1, g_save.party_count);
             if (g_save.party_count) {
                 creature_big_draw(&g_top, g_save.party[i].species, 96, 70);
@@ -87,7 +87,7 @@ void ending_run(void)
             off += 3;
     }
     free(txt);
-    canvas_text_center(&g_bot, &font_main, 128, 90, "FIN… ou presque.", C_GOLD, 0);
+    canvas_text_center(&g_bot, &font_main, 128, 90, "THE END… or almost.", C_GOLD, 0);
     for (int i = 0; i < 180 && !(g_kdown & (KEY_A | KEY_START)); i++)
         frame_wait();
     gfx_fade_out(30, false);
