@@ -107,7 +107,7 @@ static int nibble(const u8 *px, int w, int x, int y)
 }
 
 // ---------------------------------------------------------------- paper and frame
-static void guilloche(Canvas *c, int x0, int y0, int w, int h, bool back)
+static void guilloche(Canvas *c, int x0, int y0, int w, int h, bool back, bool gold)
 {
     int cx = back ? w / 4 : w * 3 / 4, cy = h / 2;
     for (int y = 0; y < h; y++)
@@ -125,7 +125,7 @@ static void guilloche(Canvas *c, int x0, int y0, int w, int h, bool back)
             else if (diag < 4)
                 col = C(P_TINT + 1);
             if (x < 6 || y < 6 || x >= w - 6 || y >= h - 6)
-                col = ((x + y) & 3) ? C(P_RAMP + 3) : C(P_RAMP + 5);
+                col = gold ? (((x + y) & 3) ? C(P_FOIL + 2) : C(P_STAR)) : ((x + y) & 3) ? C(P_RAMP + 3) : C(P_RAMP + 5);
             put(c, x0 + x, y0 + y, col);
         }
     for (int x = 0; x < w; x++) {
@@ -333,7 +333,7 @@ void note_draw(Canvas *c, int x, int y, const SaveExtra *n, const NoteArt *art, 
     scratch.px = malloc(256 * 192);
     if (!scratch.px)
         return;
-    guilloche(c, x, y, w, h, back);
+    guilloche(c, x, y, w, h, back, n->note_pad & 1);
     char val[8];
     snprintf(val, sizeof val, "%d", note_values[dn]);
     int foil_x = x + w * 68 / 100, foil_w = 16;

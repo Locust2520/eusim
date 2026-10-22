@@ -492,6 +492,7 @@ bool note_studio(void)
             n.magic = SAVE_EXTRA_MAGIC;
             n.version = SAVE_EXTRA_VERSION;
             n.note_serial = rng_next() % 1000000000u;
+            n.note_pad = flag_get(FLAG_ALBUM_DONE) ? 1 : 0;   // gold edition once the jury's album is complete
             g_save_extra = n;
             print_animation(&n);
             if (!bag_count(IT_BILLET_SPECIMEN))

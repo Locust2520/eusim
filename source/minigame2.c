@@ -657,10 +657,483 @@ int mg_conteneurs(void)
                     "The harbour master stops the loading: the ship is not safe. Restack and try again!");
 }
 
-// ================================================================ placeholders (implemented city by city)
-int mg_tapis(void) { return mg_outro(true, "", ""); }
-int mg_cigognes(void) { return mg_outro(true, "", ""); }
-int mg_douane(void) { return mg_outro(true, "", ""); }
-int mg_echecs(void) { return mg_outro(true, "", ""); }
-int mg_schuman(void) { return mg_outro(true, "", ""); }
-int mg_casemates(void) { return mg_outro(true, "", ""); }
+// ================================================================ Brussels: the flower carpet
+// Every two years in August, a carpet of begonias covers the Grand-Place (the first in 1971).
+// Copy the design shown on the top screen, flower by flower.
+#define CW 12
+#define CH 8
+static const char *const carpets[3][CH] = {
+    {"yyyyyyyyyyyy", "yrrryyyyrrry", "yrwrryyrrwry", "yrrrrrrrrrry", "yyrrrrrrrryy", "yyyrrrrrryyy", "yyyyyrryyyyy", "yyyyyyyyyyyy"},
+    {"oooooooooooo", "oyyywwwwyyyo", "oywwwrrwwwyo", "owwrrrrrrwwo", "owwrrrrrrwwo", "oywwwrrwwwyo", "oyyywwwwyyyo", "oooooooooooo"},
+    {"rrrrrrrrrrrr", "ryyyyyyyyyyr", "ryrrwwwwrryr", "rywwoooowwyr", "rywwoooowwyr", "ryrrwwwwrryr", "ryyyyyyyyyyr", "rrrrrrrrrrrr"},
+};
+
+static int flower_col(char c)
+{
+    switch (c) {
+    case 'r': return C_DYN + 0;
+    case 'y': return C_DYN + 1;
+    case 'w': return C_DYN + 2;
+    default: return C_DYN + 3;
+    }
+}
+
+int mg_tapis(void)
+{
+    static const u16 pal[5] = {RGB8(220, 40, 60), RGB8(250, 210, 50), RGB8(250, 250, 244), RGB8(240, 130, 40),
+                               RGB8(60, 120, 70)};
+    static const char cols[4] = {'r', 'y', 'w', 'o'};
+    static const char *const names[4] = {"Red", "Yellow", "White", "Orange"};
+    mg_intro("The flower carpet",
+             "Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. "
+             "Press Done when it matches. Three carpets in 90 seconds!");
+    dyn_palette(pal, 5);
+    int done = 0, frames = 90 * 60, sel = 0;
+    while (done < 3 && frames > 0) {
+        char grid[CH][CW];
+        memset(grid, 'y', sizeof grid);
+        bool redraw = true;
+        while (frames > 0) {
+            if (redraw) {
+                canvas_clear(&g_top, C_NAVY1);
+                for (int y = 0; y < CH; y++)
+                    for (int x = 0; x < CW; x++)
+                        canvas_rect(&g_top, 32 + x * 16, 36 + y * 16, 15, 15, flower_col(carpets[done][y][x]));
+                ui_text_in(&g_top, &font_small, 0, 176, 256, 14, "The design", C_PANEL, 0, 1);
+                ui_backdrop(&g_bot);
+                canvas_rect(&g_bot, 8, 4, CW * 20, CH * 16, C_DYN + 4);
+                for (int y = 0; y < CH; y++)
+                    for (int x = 0; x < CW; x++) {
+                        disc(&g_bot, 18 + x * 20, 12 + y * 16, 6, flower_col(grid[y][x]));
+                        canvas_pixel(&g_bot, 18 + x * 20, 12 + y * 16, C_DYN + 4);
+                    }
+                for (int i = 0; i < 4; i++)
+                    ui_button(&g_bot, 4 + i * 50, 140, 48, 46, names[i], i == sel ? BTN_SELECTED : BTN_NORMAL, &font_small);
+                ui_button(&g_bot, 206, 140, 46, 46, "Done", BTN_GREEN, &font_small);
+                redraw = false;
+            }
+            if (frames % 15 == 0)
+                top_header("The flower carpet", frames / 60, done, 3);
+            frame_wait();
+            frames--;
+            if (g_touch_held && g_touch_y < 4 + CH * 16 && g_touch_x >= 8 && g_touch_x < 8 + CW * 20) {
+                int x = (g_touch_x - 8) / 20, y = (g_touch_y - 4) / 16;
+                if (grid[y][x] != cols[sel]) {
+                    grid[y][x] = cols[sel];
+                    disc(&g_bot, 18 + x * 20, 12 + y * 16, 6, flower_col(cols[sel]));
+                    sfx_play(SFX_BLIP);
+                }
+            }
+            for (int i = 0; i < 4; i++)
+                if (touch_released_in(4 + i * 50, 140, 48, 46) && sel != i) {
+                    sel = i;
+                    redraw = true;
+                    sfx_play(SFX_CURSOR);
+                }
+            if (g_kdown & KEY_L) { sel = (sel + 3) % 4; redraw = true; }
+            if (g_kdown & KEY_R) { sel = (sel + 1) % 4; redraw = true; }
+            if (touch_released_in(206, 140, 46, 46) || (g_kdown & KEY_START)) {
+                int ok = 0;
+                for (int y = 0; y < CH; y++)
+                    for (int x = 0; x < CW; x++)
+                        ok += grid[y][x] == carpets[done][y][x];
+                if (ok * 100 >= CW * CH * 92) {
+                    sfx_play(SFX_LEVELUP);
+                    done++;
+                    break;
+                }
+                sfx_play(SFX_ERROR);
+                frames -= 180;
+            }
+        }
+    }
+    return mg_outro(done >= 3, "Three carpets of begonias! Belgium grows most of the world's tuberous begonias, around Ghent.",
+                    "The tourists are arriving and the carpet is not finished… Next time!");
+}
+
+// ================================================================ Strasbourg: the storks
+// Guide each stork to an empty nest on the roofs of the Petite France, away from the power lines.
+int mg_cigognes(void)
+{
+    static const u16 pal[6] = {RGB8(140, 200, 240), RGB8(200, 80, 60), RGB8(240, 220, 190), RGB8(110, 76, 50),
+                               RGB8(250, 250, 250), RGB8(40, 40, 50)};
+    enum { SKY, ROOF, WALL, NEST, STORK, WIRE };
+    mg_intro("The storks of Alsace",
+             "The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or "
+             "↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.");
+    dyn_palette(pal, 6);
+    static const int nest_x[5] = {60, 104, 148, 192, 236}, nest_y[5] = {130, 116, 138, 112, 126};
+    bool full[5] = {0};
+    int landed = 0, lost = 0, goal = 10;
+    while (landed < goal && lost < 3) {
+        int wy[3], wx0[3], wx1[3];
+        for (int i = 0; i < 3; i++) {
+            wy[i] = 50 + rng_range(70);
+            wx0[i] = 40 + rng_range(120);
+            wx1[i] = wx0[i] + 40 + rng_range(50);
+        }
+        if (full[0] && full[1] && full[2] && full[3] && full[4])
+            memset(full, 0, sizeof full);   // the young ones have left: the nests are free again
+        int sx = 0, sy = 40 + rng_range(40);   // in 1/16 px for x
+        bool done = false;
+        while (!done) {
+            int target = g_touch_held ? g_touch_y : sy + ((g_kheld & KEY_DOWN) ? 3 : 0) - ((g_kheld & KEY_UP) ? 3 : 0);
+            sy += CLAMP(target - sy, -2, 2);
+            sy = CLAMP(sy, 12, 150);
+            sx += 22;
+            int x = sx / 16;
+            canvas_clear(&g_bot, C_DYN + SKY);
+            for (int k = 0; k < 5; k++) {   // roofs and nests
+                int xs[3] = {nest_x[k] - 22, nest_x[k], nest_x[k] + 22}, ys[3] = {192, nest_y[k] + 6, 192};
+                fill_poly(&g_bot, xs, ys, 3, C_DYN + ROOF);
+                canvas_rect(&g_bot, nest_x[k] - 9, nest_y[k], 18, 6, C_DYN + NEST);
+                if (full[k])
+                    disc(&g_bot, nest_x[k], nest_y[k] - 4, 5, C_DYN + STORK);
+            }
+            for (int i = 0; i < 3; i++)
+                canvas_hline(&g_bot, wx0[i], wy[i], wx1[i] - wx0[i], C_DYN + WIRE);
+            disc(&g_bot, x, sy, 5, C_DYN + STORK);   // the stork: white body, black wings, red bill
+            canvas_rect(&g_bot, x - 9, sy - 2, 7, 3, C_DYN + WIRE);
+            canvas_rect(&g_bot, x + 4, sy - 2, 6, 2, C_DYN + ROOF);
+            if (g_frame % 10 == 0) {
+                canvas_clear(&g_top, C_NAVY1);
+                char buf[48];
+                snprintf(buf, sizeof buf, T("Storks home: %d / %d · lost: %d / 3"), landed, goal, lost);
+                ui_text_in(&g_top, &font_main, 0, 80, 256, 22, buf, C_WHITE, C_BLUE_D, 1);
+            }
+            frame_wait();
+            for (int i = 0; i < 3; i++)
+                if (x >= wx0[i] && x <= wx1[i] && abs(sy - wy[i]) < 4) {
+                    sfx_play(SFX_ERROR);
+                    lost++;
+                    done = true;
+                }
+            for (int k = 0; k < 5 && !done; k++)
+                if (!full[k] && abs(x - nest_x[k]) < 7 && abs(sy - (nest_y[k] - 4)) < 7) {
+                    full[k] = true;
+                    landed++;
+                    sfx_play(SFX_LEVELUP);
+                    done = true;
+                }
+            if (!done && x > 262) {
+                lost++;
+                sfx_play(SFX_BUMP);
+                done = true;
+            }
+        }
+    }
+    return mg_outro(landed >= goal, "Ten storks in their nests! In Alsace, a stork on your roof is said to bring luck.",
+                    "Too many storks flew on to the next village… They'll be back next spring.");
+}
+
+// ================================================================ London: post-Brexit customs
+// Since 2021, travellers from the UK may not bring meat or dairy into the EU, nor most fresh fruit without a
+// plant-health certificate (bananas, pineapples, coconuts and dates are the exceptions).
+int mg_douane(void)
+{
+    static const struct { const char *name; bool banned; } food[10] = {
+        {"Ham sandwich", true}, {"Cheese", true}, {"Milk", true}, {"Salami", true}, {"Apple", true},
+        {"Banana", false}, {"Chocolate bar", false}, {"Crisps", false}, {"Biscuits", false}, {"Water", false}};
+    mg_intro("EU customs",
+             "The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. "
+             "Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.");
+    int checked = 0, mistakes = 0, frames = 50 * 60, goal = 20;
+    while (checked < goal && mistakes <= 2 && frames > 0) {
+        int item = rng_range(10);
+        int slide = 0;
+        int verdict = -1;
+        while (verdict < 0 && frames > 0) {
+            slide = MIN(slide + 8, 64);
+            canvas_clear(&g_top, C_NAVY1);
+            ui_text_in(&g_top, &font_small, 8, 40, 240, 14, "Meat, dairy, most fruit: confiscate.", C_RED_HI, 0, 1);
+            ui_text_in(&g_top, &font_small, 8, 56, 240, 14, "Bananas, sweets, crisps, water: let through.", C_GREEN_HI, 0, 1);
+            top_header("EU customs", frames / 60, checked, goal);
+            ui_backdrop(&g_bot);
+            canvas_rect(&g_bot, 0, 60, 256, 50, C_DGREY);                     // the conveyor belt
+            for (int x = (g_frame * 2) % 16; x < 256; x += 16)
+                canvas_vline(&g_bot, x, 60, 50, C_MGREY);
+            int bx = 64 + 64 - slide;
+            canvas_rect(&g_bot, bx, 54, 128, 56, C_BLUE_L);                  // the open lunchbox
+            canvas_box(&g_bot, bx, 54, 128, 56, C_TEXT);
+            ui_text_in(&g_bot, &font_main, bx + 4, 70, 120, 24, food[item].name, C_TEXT, C_WHITE, 1);
+            ui_button(&g_bot, 8, 128, 116, 56, "Let through", BTN_GREEN, &font_main);
+            ui_button(&g_bot, 132, 128, 116, 56, "Confiscate", BTN_RED, &font_main);
+            frame_wait();
+            frames--;
+            if (touch_released_in(8, 128, 116, 56) || (g_kdown & KEY_A))
+                verdict = 0;
+            if (touch_released_in(132, 128, 116, 56) || (g_kdown & KEY_B))
+                verdict = 1;
+        }
+        if (verdict < 0)
+            break;
+        checked++;
+        if ((verdict == 1) == food[item].banned)
+            sfx_play(verdict ? SFX_STAMP : SFX_SELECT);
+        else {
+            mistakes++;
+            sfx_play(SFX_ERROR);
+        }
+    }
+    return mg_outro(checked >= goal && mistakes <= 2,
+                    "All the lunchboxes checked! Within the EU's single market, food travels freely; at its borders, it is checked.",
+                    "A salami slipped through… or a banana was wrongly seized. Rules first, sandwich later!");
+}
+
+// ================================================================ Budapest: chess in the baths
+// Three positions, white to play and checkmate in one move.
+static const struct {
+    const char *rows[8];   // rank 8 first; uppercase = white, lowercase = black
+    int moves[2][4];       // accepted mating moves: from file, from rank, to file, to rank (0-based; -1 = none)
+} puzzles[3] = {
+    {{"......k.", ".....ppp", "........", "........", "........", "........", "........", "R.....K."},
+     {{0, 0, 0, 7}, {-1, -1, -1, -1}}},                                      // back-rank mate: Ra8#
+    {{".......k", "........", "......K.", "........", "........", "........", "........", "Q......."},
+     {{0, 0, 0, 7}, {0, 0, 6, 6}}},                                          // Qa8# or Qg7#
+    {{"......rk", "......pp", "........", "......N.", "........", "........", "........", "K......."},
+     {{6, 4, 5, 6}, {-1, -1, -1, -1}}},                                      // smothered mate: Nf7#
+};
+
+static void board_draw(int p, int sel_f, int sel_r)
+{
+    for (int r = 0; r < 8; r++)
+        for (int f = 0; f < 8; f++) {
+            int x = 48 + f * 20, y = 12 + (7 - r) * 20;
+            u8 col = (f + r) % 2 ? C_LGREY : C_MGREY;
+            if (f == sel_f && r == sel_r)
+                col = C_YELLOW;
+            canvas_rect(&g_bot, x, y, 20, 20, col);
+            char pc = puzzles[p].rows[7 - r][f];
+            if (pc == '.')
+                continue;
+            bool white = pc >= 'A' && pc <= 'Z';
+            disc(&g_bot, x + 10, y + 10, 8, white ? C_WHITE : C_TEXT);
+            char letter[2] = {(char)(white ? pc : pc - 32), 0};
+            canvas_text_n(&g_bot, &font_small, x + 7, y + 5, letter, 1, white ? C_TEXT : C_WHITE, 0);
+        }
+    for (int f = 0; f < 8; f++) {
+        char c[2] = {(char)('a' + f), 0};
+        canvas_text_n(&g_bot, &font_small, 55 + f * 20, 174, c, 1, C_PANEL, 0);
+    }
+}
+
+int mg_echecs(void)
+{
+    mg_intro("Chess in the baths",
+             "Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move "
+             "that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!");
+    int solved = 0, frames = 90 * 60;
+    while (solved < 3 && frames > 0) {
+        int sel_f = -1, sel_r = -1;
+        bool redraw = true;
+        while (frames > 0) {
+            if (redraw) {
+                ui_backdrop(&g_bot);
+                board_draw(solved, sel_f, sel_r);
+                canvas_clear(&g_top, C_NAVY1);
+                ui_text_in(&g_top, &font_main, 0, 60, 256, 22, "White to play and mate in one", C_GOLD, C_BLUE_D, 1);
+                ui_text_in(&g_top, &font_small, 0, 90, 256, 14, "K king · Q queen · R rook · B bishop · N knight · P pawn",
+                           C_PANEL, 0, 1);
+                redraw = false;
+            }
+            if (frames % 15 == 0)
+                top_header("Chess in the baths", frames / 60, solved, 3);
+            frame_wait();
+            frames--;
+            if (!g_touch_up || g_touch_x < 48 || g_touch_x >= 208 || g_touch_y < 12 || g_touch_y >= 172)
+                continue;
+            int f = (g_touch_x - 48) / 20, r = 7 - (g_touch_y - 12) / 20;
+            char pc = puzzles[solved].rows[7 - r][f];
+            if (pc >= 'A' && pc <= 'Z') {
+                sel_f = f;
+                sel_r = r;
+                sfx_play(SFX_CURSOR);
+                redraw = true;
+            } else if (sel_f >= 0) {
+                bool mate = false;
+                for (int k = 0; k < 2; k++) {
+                    const int *m = puzzles[solved].moves[k];
+                    mate |= m[0] == sel_f && m[1] == sel_r && m[2] == f && m[3] == r;
+                }
+                if (mate) {
+                    sfx_play(SFX_LEVELUP);
+                    solved++;
+                    break;
+                }
+                sfx_play(SFX_ERROR);
+                frames -= 600;
+                sel_f = sel_r = -1;
+                redraw = true;
+            }
+        }
+    }
+    return mg_outro(solved >= 3, "Three checkmates! In the baths, the loser traditionally gets out of the water first.",
+                    "The water went cold before the mate… Look for the move that leaves the king no square at all.");
+}
+
+// ================================================================ Paris: the Schuman Declaration
+// Put the sentences of the declaration of 9 May 1950 (official English text, abridged) back in order.
+int mg_schuman(void)
+{
+    static const char *const parts[6] = {
+        "World peace cannot be safeguarded",
+        "without creative efforts proportionate to the dangers which threaten it.",
+        "Europe will not be made all at once, or according to a single plan.",
+        "Built through concrete achievements which first create a de facto solidarity.",
+        "Franco-German coal and steel will be placed under a common High Authority…",
+        "…so that war between France and Germany becomes materially impossible."};
+    mg_intro("The Schuman Declaration",
+             "9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the "
+             "sentences in the right order before the press conference. 60 seconds.");
+    int order[6] = {0, 1, 2, 3, 4, 5};
+    shuffle_ints:
+    for (int i = 5; i > 0; i--) {
+        int j = rng_range(i + 1), t = order[i];
+        order[i] = order[j];
+        order[j] = t;
+    }
+    if (order[0] == 0 && order[1] == 1)
+        goto shuffle_ints;
+    int next = 0, frames = 60 * 60;
+    bool redraw = true;
+    while (next < 6 && frames > 0) {
+        if (redraw) {
+            canvas_clear(&g_top, C_PANEL);
+            int y = 30;
+            for (int i = 0; i < next; i++)
+                y = ui_text_wrapped(&g_top, &font_small, 10, y, 236, parts[i], C_TEXT, 0) + 2;
+            ui_backdrop(&g_bot);
+            for (int k = 0; k < 6; k++) {
+                int i = order[k], by = 1 + k * 32;
+                if (i < next)
+                    continue;
+                ui_panel(&g_bot, 2, by, 252, 31, false);
+                ui_text_wrapped(&g_bot, &font_small, 6, by + 3, 244, parts[i], C_TEXT, 0);
+            }
+            redraw = false;
+        }
+        if (frames % 15 == 0)
+            top_header("The Schuman Declaration", frames / 60, next, 6);
+        frame_wait();
+        frames--;
+        for (int k = 0; k < 6; k++) {
+            int i = order[k], by = 1 + k * 32;
+            if (i < next || !touch_released_in(2, by, 252, 31))
+                continue;
+            if (i == next) {
+                next++;
+                sfx_play(SFX_PAPER);
+            } else {
+                sfx_play(SFX_ERROR);
+                frames -= 300;
+            }
+            redraw = true;
+        }
+    }
+    return mg_outro(next >= 6,
+                    "The declaration is ready! The European Coal and Steel Community followed in 1951. Every 9 May is Europe Day.",
+                    "The journalists are waiting and the pages are still in a mess… Peace first, then concrete achievements!");
+}
+
+// ================================================================ Luxembourg: the Bock casemates
+// Find the lost visitor in the dark galleries, then the way out, before the torch burns down.
+#define MZW 15
+#define MZH 11
+static const s8 step_dx[4] = {0, 0, -1, 1}, step_dy[4] = {1, -1, 0, 0};
+
+int mg_casemates(void)
+{
+    static const u16 pal[4] = {RGB8(20, 18, 16), RGB8(120, 100, 76), RGB8(170, 146, 110), RGB8(250, 220, 120)};
+    enum { DARK, ROCK, FLOOR, LIGHT };
+    mg_intro("The Bock casemates",
+             "The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! "
+             "Move with the +Control Pad, or tap next to your character. 75 seconds.");
+    dyn_palette(pal, 4);
+    static u8 maze[MZH][MZW];
+    static u8 seen[MZH][MZW];
+    memset(maze, 1, sizeof maze);
+    memset(seen, 0, sizeof seen);
+    // depth-first maze on the odd cells
+    int stack[(MZW / 2) * (MZH / 2) + 2][2], sp = 0;
+    stack[sp][0] = 1; stack[sp][1] = 1; sp++;
+    maze[1][1] = 0;
+    while (sp) {
+        int cx = stack[sp - 1][0], cy = stack[sp - 1][1];
+        int dirs[4] = {0, 1, 2, 3}, opts = 0, pick[4];
+        for (int k = 0; k < 4; k++) {
+            int nx = cx + step_dx[dirs[k]] * 2, ny = cy + step_dy[dirs[k]] * 2;
+            if (nx > 0 && ny > 0 && nx < MZW - 1 && ny < MZH - 1 && maze[ny][nx])
+                pick[opts++] = k;
+        }
+        if (!opts) {
+            sp--;
+            continue;
+        }
+        int k = pick[rng_range(opts)];
+        int nx = cx + step_dx[k] * 2, ny = cy + step_dy[k] * 2;
+        maze[cy + step_dy[k]][cx + step_dx[k]] = 0;
+        maze[ny][nx] = 0;
+        stack[sp][0] = nx; stack[sp][1] = ny; sp++;
+    }
+    int px = 1, py = 1, vx = MZW - 2, vy = 1, ex = MZW - 2, ey = MZH - 2;
+    bool found = false, out = false;
+    int frames = 75 * 60;
+    while (!out && frames > 0) {
+        int radius = 1 + frames * 3 / (75 * 60);   // the torch burns down: 3 cells, then 2, then 1
+        for (int y = 0; y < MZH; y++)
+            for (int x = 0; x < MZW; x++)
+                if (abs(x - px) + abs(y - py) <= radius + 1)
+                    seen[y][x] = 1;
+        canvas_clear(&g_bot, C_DYN + DARK);
+        for (int y = 0; y < MZH; y++)
+            for (int x = 0; x < MZW; x++) {
+                int d = abs(x - px) + abs(y - py);
+                if (d > radius + 1)
+                    continue;
+                u8 col = maze[y][x] ? C_DYN + ROCK : (d <= radius ? C_DYN + LIGHT : C_DYN + FLOOR);
+                canvas_rect(&g_bot, 8 + x * 16, 8 + y * 16, 16, 16, col);
+            }
+        if (abs(ex - px) + abs(ey - py) <= radius + 1)
+            canvas_rect(&g_bot, 8 + ex * 16 + 3, 8 + ey * 16 + 2, 10, 14, C_GREEN);
+        if (!found && abs(vx - px) + abs(vy - py) <= radius + 1)
+            disc(&g_bot, 8 + vx * 16 + 8, 8 + vy * 16 + 8, 5, C_BLUE_L);
+        disc(&g_bot, 8 + px * 16 + 8, 8 + py * 16 + 8, 5, C_RED);
+        if (frames % 10 == 0) {   // the explored galleries
+            canvas_clear(&g_top, C_NAVY1);
+            for (int y = 0; y < MZH; y++)
+                for (int x = 0; x < MZW; x++)
+                    if (seen[y][x])
+                        canvas_rect(&g_top, 68 + x * 8, 50 + y * 8, 8, 8, maze[y][x] ? C_DGREY : C_LGREY);
+            canvas_rect(&g_top, 68 + px * 8 + 2, 50 + py * 8 + 2, 4, 4, C_RED);
+            ui_text_in(&g_top, &font_small, 0, 150, 256, 14, found ? "The visitor follows you: now the exit!"
+                                                                    : "Somewhere in the dark, someone is calling…",
+                       C_PANEL, 0, 1);
+            top_header("The Bock casemates", frames / 60, found ? 1 : 0, 1);
+        }
+        frame_wait();
+        frames--;
+        int dx = 0, dy = 0;
+        if (g_krep & KEY_LEFT) dx = -1;
+        else if (g_krep & KEY_RIGHT) dx = 1;
+        else if (g_krep & KEY_UP) dy = -1;
+        else if (g_krep & KEY_DOWN) dy = 1;
+        if (g_touch_down) {
+            int tx = (g_touch_x - 8) / 16 - px, ty = (g_touch_y - 8) / 16 - py;
+            if (abs(tx) > abs(ty)) dx = tx > 0 ? 1 : -1;
+            else if (ty) dy = ty > 0 ? 1 : -1;
+        }
+        if ((dx || dy) && !maze[py + dy][px + dx]) {
+            px += dx;
+            py += dy;
+            sfx_play(SFX_BLIP);
+        }
+        if (!found && px == vx && py == vy) {
+            found = true;
+            sfx_play(SFX_SELECT);
+        }
+        if (found && px == ex && py == ey)
+            out = true;
+    }
+    return mg_outro(out, "Out in the daylight, with the visitor! Up to 35,000 people sheltered in these galleries during the bombings.",
+                    "The torch went out… The guide follows your voice and leads you both out.");
+}

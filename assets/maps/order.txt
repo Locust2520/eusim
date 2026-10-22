@@ -79,3 +79,11 @@ paulskirche_ffm
 bank_greece_ath
 museum_acropole
 yiayia_ath
+british_museum_lon
+casemates_lux
+cathedrale_stras
+conseil_europe
+ferry_lon
+ruin_bar_bud
+salon_horloge
+boulangerie_par

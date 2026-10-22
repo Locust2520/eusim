@@ -143,6 +143,7 @@ end
 script ath_odeon
   say - "The Odeon of Herodes Atticus, built in 161 AD. In 1944 a young soprano who had studied at the Athens Conservatory sang Beethoven's “Fidelio” here: Maria Callas."
   say - "Callas and Beethoven both appear on the finalist designs for the next euro banknotes, on the 5 and 10 euro notes of the culture theme."
+  call card_callas
 end
 script ath_frieze
   say - "These white slabs are plaster casts. The originals have been in the British Museum in London since 1816."

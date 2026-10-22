@@ -184,6 +184,14 @@ script atelier_jury
 end
 
 script atelier_eleni
+  if !flag ALBUM_DONE goto normal
+  if flag ALBUM_REWARD goto normal
+  setflag ALBUM_REWARD
+  say "Eleni" "All twelve postcards! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… and the six birds. You've seen more of Europe than the jury."
+  say "Eleni" "From now on, my press prints your specimens in the gold edition. And take this, from the studio."
+  giveitem ratification 1
+  money 5000
+:normal
   if flag NOTE_STUDIO_PASSED goto passed
   say "Eleni" "Kaliméra! I'm Eleni, intaglio engraver. I learnt the trade at the Bank of Greece printing works, in Athens."
   say "Eleni" "Officially, the ECB doesn't print a single note: it designs them, and printing works across Europe produce them."
@@ -209,6 +217,8 @@ script atelier_eleni
   if var RESULT == 0 goto later
   say "Eleni" "There you are, engraved! See the serial number? The first letter, Y, is the code of the Bank of Greece. My little signature."
   say "Eleni" "Show it around. And save your game in Report, so that your note stays with you."
+  if flag ALBUM_DONE goto fin
+  say "Eleni" "One more thing: the jury sent postcards of the twelve motifs all over Europe. If you find them all, come back: I'll engrave a gold edition."
   goto fin
 :failed
   say "Eleni" "A fake got through. Feel, look, tilt: it only takes a few seconds. Come back when you're ready."

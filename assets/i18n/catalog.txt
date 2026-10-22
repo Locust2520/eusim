@@ -2412,3 +2412,233 @@
 2477	Acropolis Museum – Parthenon Gallery
 2478	Port of Piraeus
 2479	House – Plaka
+2480	Jury postcards: %d of 12.
+2481	That's all twelve motifs! Eleni, in the ECB studio in Frankfurt, will want to see them.
+2482	All twelve postcards! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… and the six birds. You've seen more of Europe than the jury.
+2483	From now on, my press prints your specimens in the gold edition. And take this, from the studio.
+2484	One more thing: the jury sent postcards of the twelve motifs all over Europe. If you find them all, come back: I'll engrave a gold edition.
+2485	Brussels Town Hall, built in the 15th century. On top of its 96-metre tower, Saint Michael slays the dragon.
+2486	The Grand-Place around it is a UNESCO World Heritage site since 1998.
+2487	The guild houses: bakers, boatmen, brewers… each trade had its own house, gilded to show off its wealth.
+2488	Manneken-Pis: 55 centimetres of bronze. He owns more than a thousand costumes, kept in his own wardrobe museum.
+2489	Official dresser
+2490	Today he's dressed as… himself. Tomorrow, a fireman. Next week, an astronaut. It's a full-time job, dressing a statue.
+2491	Fritkot owner
+2492	Real Belgian fries are fried twice: once to cook them, once to make them crisp.
+2493	Hungry? Try a mitraillette: half a baguette, meat, sauce, and fries inside. Yes, inside.
+2494	Waffle seller
+2495	Brussels waffle: light, rectangular, dusted with sugar. Liège waffle: denser, with pearl sugar caramelised inside.
+2496	Choosing between them has divided families for generations. I sell both. Very diplomatic.
+2497	Brussels walls are covered with dozens of comic-strip murals. Belgium takes its comics as seriously as its chocolate.
+2498	This way to the Galeries Royales Saint-Hubert (1847), one of the oldest covered shopping arcades in Europe.
+2499	In 1912, in these arcades, the chocolatier Jean Neuhaus invented the filled chocolate: the praline.
+2500	Grand-Place / Grote Markt. In Brussels, every street name is written in French and Dutch: the capital region is officially bilingual.
+2501	Belgium has three official languages: Dutch, French and German.
+2502	Brussels native
+2503	Allez, une fois! That's how they imagine we talk in Brussels. And, well… sometimes we do.
+2504	Gardener
+2505	Every two years in August, a carpet of begonias covers the Grand-Place. The first one was laid in 1971.
+2506	Hundreds of thousands of flowers, laid by hand in a few hours. I'm one volunteer short. Will you plant with me?
+2507	Another carpet? The begonias are waiting.
+2508	Magnificent! Even the guild houses look jealous. Here, from the city.
+2509	Another masterpiece. In a few days the flowers will be gone, but the photos will stay.
+2510	The pattern got a bit… abstract. Magritte would have liked it.
+2511	The Grand Duchess Charlotte Bridge, nicknamed the Red Bridge, links the old town to the Kirchberg plateau, high above the Alzette valley.
+2512	The Grand Ducal Palace, in the heart of the old town. Luxembourg is the only grand duchy left in the world.
+2513	The guard marches eight steps, turns, marches eight steps back. It's very relaxing to watch.
+2514	The European Court of Auditors: the EU's financial watchdog. It checks how European money is spent, euro by euro.
+2515	On one of the finalist designs for the next banknotes, it appears on the back of the 200 euro note.
+2516	Since 29 February 2020, all public transport in Luxembourg is free: buses, trams, trains. The first country in the world to do it.
+2517	The Gëlle Fra, the golden lady of the Monument of Remembrance, honours the Luxembourgers who fell in the world wars.
+2518	The occupying forces tore it down in 1940; it was fully restored and set back on its column in 1985.
+2519	The Schueberfouer! A funfair since 1340, founded by John the Blind, Count of Luxembourg. Every year at the end of summer.
+2520	Luxembourger
+2521	Moien! That's hello in Luxembourgish. Here we have three administrative languages: Luxembourgish, French and German.
+2522	Most of us switch between them in the same sentence. Sometimes English sneaks in too.
+2523	On a wall: “Mir wëlle bleiwe wat mir sinn” (“We want to remain what we are”), the national motto.
+2524	Welcome to the Bock casemates: 17 kilometres of tunnels dug into the rock, part of a UNESCO World Heritage site.
+2525	During the bombings of the Second World War, up to 35,000 people sheltered here.
+2526	A visitor got lost in the dark galleries with my last torch. Can you find the way out and bring him back?
+2527	Another tour of the galleries?
+2528	Both of you out in one piece! The fortress was called the “Gibraltar of the North”. Take this for your trouble.
+2529	You know the galleries better than the soldiers of 1700.
+2530	The torch went out… Don't worry, I know the way. Let's try again.
+2531	The Pont de l'Europe crosses the Rhine. On the other side: Kehl, in Germany. Since 2017 a tram even crosses the border.
+2532	Commuter
+2533	I live in Kehl and work in Strasbourg. Every morning I change country in four minutes. Nobody checks my passport.
+2534	Here sits the Council of Europe, founded in 1949: 46 member states, and the European Court of Human Rights. It is not part of the EU.
+2535	Don't mix it up with the European Council (the EU heads of state and government) or the Council of the EU (the ministers). Even journalists do.
+2536	The blue flag with twelve gold stars was first adopted by the Council of Europe, in 1955. The EU took it up later.
+2537	A portrait of Bertha von Suttner (1843–1914), author of the novel “Lay Down Your Arms!” and the first woman to receive the Nobel Peace Prize, in 1905.
+2538	She is the 200 euro figure of the ECB's “European culture” finalist designs.
+2539	Europe's anthem is the prelude to the “Ode to Joy”, from Beethoven's Ninth Symphony. The Council of Europe adopted it in 1972, the EU in 1985.
+2540	It has no official words: in Europe, we all hum it in the same language.
+2541	The cathedral's spire rises to 142 metres. From 1647 to 1874, it was the tallest building in the world.
+2542	The astronomical clock. Its mechanism dates from 1842. Every day at half past twelve, the twelve apostles parade before Christ.
+2543	The cathedral is built of pink sandstone from the Vosges. That's why it blushes at sunset.
+2544	The Christkindelsmärik has been held here since 1570: one of the oldest Christmas markets in Europe.
+2545	Winstub cook
+2546	Flammekueche! Thin dough, cream, onions, bacon, baked in a wood oven in two minutes. In French they say tarte flambée.
+2547	The Oaths of Strasbourg, sworn here in 842 by two grandsons of Charlemagne, are among the oldest texts in Old French and Old High German.
+2548	Each king swore in the other's language, so that the other's army could understand. Interpreting has a long history here.
+2549	Ornithologist
+2550	The white stork is the emblem of Alsace. In 1974 only nine pairs were left in the region.
+2551	Thanks to a reintroduction programme, there are several hundred pairs today. And the white stork is on a finalist design for the 50 euro note!
+2552	The new arrivals are looking for their nests. Can you guide them, away from the power lines?
+2553	More storks are coming in. Guide them again?
+2554	Every couple is home! Here, for the stork protection fund… I mean, for you.
+2555	The roofs of the Petite France are full of clattering beaks. That's the sound of spring here.
+2556	Some of them got tangled near the wires… They're fine, just a little vexed. Again?
+2557	Room 18: sculptures from the Parthenon in Athens, removed by Lord Elgin's agents between 1801 and 1812 and bought by the British Museum in 1816.
+2558	Greece has asked for their return since 1983. In Athens, the Acropolis Museum keeps their places ready.
+2559	Greek visitor
+2560	I came all the way from Athens to see our marbles. Then I'll go back to the Acropolis Museum and look at the white copies of these.
+2561	One frieze, two cities. Maybe one day, one city again.
+2562	A red telephone box, the K6 model designed in 1935. Today some of them house defibrillators, others little libraries.
+2563	The London Underground opened in 1863: the first underground railway in the world. “Mind the gap!”
+2564	After Brexit, the UK left Erasmus. In December 2025 it agreed to rejoin from 2027. My little sister will get to study in Bologna!
+2565	Dutch customs officer
+2566	Since 1 January 2021 the UK is outside the EU's customs and veterinary rules: travellers may no longer bring meat or dairy into the EU.
+2567	That month, my colleagues in Hook of Holland had to confiscate ham sandwiches. “Welcome to the Brexit, sir, I'm sorry.”
+2568	The morning ferry is boarding. Help me check the lunchboxes?
+2569	Another ferry, another hundred lunchboxes. Help me again?
+2570	Not a single ham sandwich got through. Here, have a cheese-free, ham-free reward.
+2571	Efficient and polite. You'd make a fine customs officer.
+2572	A salami crossed the Channel… The veterinary inspectors will want a word.
+2573	Lorry driver
+2574	Before Brexit I crossed with my lorry without stopping. Now: customs declarations, health certificates, checks. I've read more forms than novels.
+2575	A campaign bus. In 2016 its side promised £350 million a week for the National Health Service.
+2576	In 2017 the head of the UK Statistics Authority called that figure a “clear misuse of official statistics”.
+2577	Birdwatcher
+2578	Northern gannets dive into the sea at almost a hundred kilometres an hour. The largest colony in the world is on the Bass Rock, in Scotland.
+2579	The ECB put one on a finalist design for the 200 euro note: open sea, wings folded, splash.
+2580	Chess player
+2581	Széchenyi Thermal Bath, 1913: one of the largest medicinal baths in Europe. We play chess here, up to our shoulders in hot water.
+2582	Hungary gave the world Judit Polgár, the strongest woman player ever: grandmaster at fifteen, and she beat Kasparov in 2002.
+2583	Three positions, checkmate in one move each. Can you find them before the water gets cold?
+2584	New positions on the floating board. Another round?
+2585	Three checkmates! You play like a grandmaster in a bathrobe. Take this.
+2586	Checkmate, checkmate, checkmate. The steam makes you think faster.
+2587	The water got cold… Next time, look for the move that leaves the king nowhere to go.
+2588	Ruin bars: old courtyards of the former Jewish quarter, turned into bars with mismatched furniture. The first ones opened in the early 2000s.
+2589	Barman
+2590	Egészségedre! That's cheers in Hungarian. Try saying it after the second glass of fröccs: wine and soda water.
+2591	Lángos seller
+2592	Lángos: fried dough, garlic, sour cream and grated cheese. Not a diet. A tradition.
+2593	The Rubik's Cube was invented in Budapest in 1974 by Ernő Rubik, to teach space to his students. I've solved it in two minutes. Or one face of it.
+2594	Shoes on the Danube Bank (2005). Sixty pairs of iron shoes remember the Jews of Budapest shot on this bank by Arrow Cross militiamen in 1944 and 1945, and thrown into the river.
+2595	The Chain Bridge, opened in 1849: the first permanent bridge between Buda and Pest, designed by the English engineer William Tierney Clark.
+2596	Its stone lions have no tongues… as legend has it. Look closely.
+2597	Fisherman's Bastion, on Castle Hill: seven towers, for the seven Magyar tribes who settled in the Carpathian Basin.
+2598	Bee-eaters! The most colourful birds of Europe. They dig their nests in sandy riverbanks and catch bees in flight.
+2599	Hungary has some of the largest colonies. On the ECB's finalist designs, a colony of them decorates the 20 euro note.
+2600	Linguist
+2601	Hungarian is not related to its neighbours' languages: it belongs to the Uralic family, like Finnish and Estonian.
+2602	And the family name comes first: Rubik Ernő, Polgár Judit. Easy to remember, hard to pronounce.
+2603	László Bíró, born in Budapest, patented the modern ballpoint pen in 1938. In many countries a pen is still called a “biro”.
+2604	The Salon de l'Horloge. On 9 May 1950 at 6 p.m., Robert Schuman, French foreign minister, read a declaration here proposing to pool French and German coal and steel.
+2605	It led to the European Coal and Steel Community in 1951, the first step of today's EU. Every 9 May is Europe Day.
+2606	The archives have mixed up the pages of the declaration! The journalists are arriving. Can you put the sentences back in order?
+2607	The pages are shuffled again. Help me?
+2608	Word for word! Mr Schuman would have shaken your hand. Take this, from the ministry.
+2609	Perfectly ordered. Europe will not be made all at once, but you're quick.
+2610	Not quite… Remember: first peace, then concrete achievements, then coal and steel.
+2611	Marie Curie, born Maria Skłodowska in Warsaw, became the first woman professor at the Sorbonne in 1906. She won two Nobel Prizes, in physics and in chemistry.
+2612	She is the 20 euro figure of the ECB's “European culture” finalist designs.
+2613	Baker
+2614	Since 2022 the craft of the French baguette is on UNESCO's list of intangible cultural heritage. Flour, water, salt, yeast. And a bit of patience.
+2615	Un café, s'il vous plaît! In Paris, a “café” is an espresso. If you want a big cup, you have to say so. Loudly.
+2616	Bouquiniste
+2617	We have sold second-hand books on these quays since the 16th century. Hundreds of green boxes, along kilometres of the Seine.
+2618	Notre-Dame de Paris. Damaged by fire on 15 April 2019, it reopened on 7 December 2024 after five years of work.
+2619	Visitor
+2620	The new oak frame was cut by hand, like in the Middle Ages. Carpenters from all over Europe came to help.
+2621	Some winters a wallcreeper comes down from the mountains to the cliffs of the Meuse valley. A grey bird with crimson wings, like a butterfly.
+2622	It's the bird of the 5 euro note on the ECB's finalist designs: a mountain spring and a wallcreeper.
+2623	Angler
+2624	See that blue flash on the Moselle? A kingfisher. It dives from a branch and comes back up with a fish.
+2625	On the ECB's finalist designs it's the bird of the 10 euro note, by a waterfall.
+2626	Antwerp is Europe's second-largest port. And along the Scheldt, right next to the cranes, avocets nest in the nature reserves.
+2627	Black and white, with an upturned bill: the bird of the 100 euro note on the ECB's finalist designs, at a river mouth.
+2628	Warsaw resident
+2629	Maria Skłodowska, Marie Curie, was born here in Warsaw, in 1867. She named the element polonium after her country.
+2630	Our Old Town was razed in 1944 and rebuilt stone by stone: it has been on UNESCO's list since 1980.
+2631	Leonardo da Vinci lived in Rome from 1513 to 1516, at the Vatican, before leaving for France.
+2632	He is the 100 euro figure of the ECB's “European culture” finalist designs.
+2633	Professor
+2634	The Treaty of Lisbon, signed here in 2007, created Article 50: the procedure to leave the EU. The UK was the first to use it.
+2635	Also from Lisbon: the pastéis de nata, after the recipe of the Jerónimos monks. Much more popular than Article 50.
+2636	Old sailor
+2637	In 1571 the Battle of Lepanto was fought in the Gulf of Patras, here in Greece. A young Spanish soldier lost the use of his left hand there.
+2638	His name was Miguel de Cervantes. He went on to write Don Quixote. He's the 50 euro figure of the ECB's culture designs!
+2639	In a corner, a postcard stamped by the ECB's design jury: one of the twelve motifs of the future banknotes. You keep it.
+2640	British Museum – Room 18
+2641	Bock Casemates – Entrance
+2642	Strasbourg Cathedral
+2643	Palais de l'Europe – Council of Europe
+2644	Ferry Terminal – EU Customs
+2645	Ruin Bar – Budapest
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Boulangerie – Paris
+2648	Red
+2649	Yellow
+2650	White
+2651	Orange
+2652	The flower carpet
+2653	Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. 
+2654	Press Done when it matches. Three carpets in 90 seconds!
+2655	The design
+2656	Three carpets of begonias! Belgium grows most of the world's tuberous begonias, around Ghent.
+2657	The tourists are arriving and the carpet is not finished… Next time!
+2658	The storks of Alsace
+2659	The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or 
+2660	↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.
+2661	Storks home: %d / %d · lost: %d / 3
+2662	Ten storks in their nests! In Alsace, a stork on your roof is said to bring luck.
+2663	Too many storks flew on to the next village… They'll be back next spring.
+2664	Ham sandwich
+2665	Milk
+2666	Salami
+2667	Apple
+2668	Chocolate bar
+2669	Crisps
+2670	Biscuits
+2671	EU customs
+2672	The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. 
+2673	Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.
+2674	Meat, dairy, most fruit: confiscate.
+2675	Bananas, sweets, crisps, water: let through.
+2676	Let through
+2677	Confiscate
+2678	All the lunchboxes checked! Within the EU's single market, food travels freely; at its borders, it is checked.
+2679	A salami slipped through… or a banana was wrongly seized. Rules first, sandwich later!
+2680	R.....K.
+2681	......K.
+2682	Q.......
+2683	......N.
+2684	K.......
+2685	Chess in the baths
+2686	Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move 
+2687	that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!
+2688	White to play and mate in one
+2689	K king · Q queen · R rook · B bishop · N knight · P pawn
+2690	Three checkmates! In the baths, the loser traditionally gets out of the water first.
+2691	The water went cold before the mate… Look for the move that leaves the king no square at all.
+2692	World peace cannot be safeguarded
+2694	Europe will not be made all at once, or according to a single plan.
+2698	The Schuman Declaration
+2699	9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the 
+2700	sentences in the right order before the press conference. 60 seconds.
+2701	The declaration is ready! The European Coal and Steel Community followed in 1951. Every 9 May is Europe Day.
+2702	The journalists are waiting and the pages are still in a mess… Peace first, then concrete achievements!
+2703	The Bock casemates
+2704	The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! 
+2705	Move with the +Control Pad, or tap next to your character. 75 seconds.
+2706	The visitor follows you: now the exit!
+2707	Somewhere in the dark, someone is calling…
+2708	Out in the daylight, with the visitor! Up to 35,000 people sheltered in these galleries during the bombings.
+2709	The torch went out… The guide follows your voice and leads you both out.
+2710	without creative efforts proportionate to the dangers which threaten it.
+2713	Built through concrete achievements which first create a de facto solidarity.
+2714	Franco-German coal and steel will be placed under a common High Authority…
+2715	…so that war between France and Germany becomes materially impossible.

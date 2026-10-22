@@ -570,6 +570,22 @@ void world_special(int id, int arg)
     case 23: jukebox_open(); world_refresh(); break;
     case 24: g_save.vars[VAR_RESULT] = note_studio(); world_refresh(); break;
     case 25: note_view(); break;
+    case 27: {
+        static const int cards[12] = {FLAG_CARD_CALLAS, FLAG_CARD_BEETHOVEN, FLAG_CARD_CURIE, FLAG_CARD_CERVANTES,
+                                      FLAG_CARD_LEONARDO, FLAG_CARD_SUTTNER, FLAG_CARD_WALLCREEPER, FLAG_CARD_KINGFISHER,
+                                      FLAG_CARD_BEE_EATER, FLAG_CARD_STORK, FLAG_CARD_AVOCET, FLAG_CARD_GANNET};
+        int n = 0;
+        for (int i = 0; i < 12; i++)
+            n += flag_get(cards[i]);
+        char buf[96];
+        snprintf(buf, sizeof buf, T("Jury postcards: %d of 12."), n);
+        dlg_say("", buf);
+        if (n == 12) {
+            flag_set(FLAG_ALBUM_DONE, true);
+            dlg_say("", "That's all twelve motifs! Eleni, in the ECB studio in Frankfurt, will want to see them.");
+        }
+        break;
+    }
     case 26: {
         int code = keypad_code(arg ? arg : 4);
         g_save.vars[VAR_RESULT] = code < 0 ? 0 : code;

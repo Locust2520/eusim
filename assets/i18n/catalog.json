@@ -14878,5 +14878,1421 @@
 "en": "House – Plaka",
 "ctx": "map name",
 "used": true
+},
+{
+"id": 2480,
+"en": "Jury postcards: %d of 12.",
+"ctx": "source/world.c:581",
+"used": true
+},
+{
+"id": 2481,
+"en": "That's all twelve motifs! Eleni, in the ECB studio in Frankfurt, will want to see them.",
+"ctx": "source/world.c:585",
+"used": true
+},
+{
+"id": 2482,
+"en": "All twelve postcards! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… and the six birds. You've seen more of Europe than the jury.",
+"ctx": "assets/scripts/zz_francfort.evs:190",
+"used": true
+},
+{
+"id": 2483,
+"en": "From now on, my press prints your specimens in the gold edition. And take this, from the studio.",
+"ctx": "assets/scripts/zz_francfort.evs:191",
+"used": true
+},
+{
+"id": 2484,
+"en": "One more thing: the jury sent postcards of the twelve motifs all over Europe. If you find them all, come back: I'll engrave a gold edition.",
+"ctx": "assets/scripts/zz_francfort.evs:221",
+"used": true
+},
+{
+"id": 2485,
+"en": "Brussels Town Hall, built in the 15th century. On top of its 96-metre tower, Saint Michael slays the dragon.",
+"ctx": "assets/scripts/zz_villes.evs:7",
+"used": true
+},
+{
+"id": 2486,
+"en": "The Grand-Place around it is a UNESCO World Heritage site since 1998.",
+"ctx": "assets/scripts/zz_villes.evs:8",
+"used": true
+},
+{
+"id": 2487,
+"en": "The guild houses: bakers, boatmen, brewers… each trade had its own house, gilded to show off its wealth.",
+"ctx": "assets/scripts/zz_villes.evs:11",
+"used": true
+},
+{
+"id": 2488,
+"en": "Manneken-Pis: 55 centimetres of bronze. He owns more than a thousand costumes, kept in his own wardrobe museum.",
+"ctx": "assets/scripts/zz_villes.evs:14",
+"used": true
+},
+{
+"id": 2489,
+"en": "Official dresser",
+"ctx": "assets/scripts/zz_villes.evs:17",
+"used": true
+},
+{
+"id": 2490,
+"en": "Today he's dressed as… himself. Tomorrow, a fireman. Next week, an astronaut. It's a full-time job, dressing a statue.",
+"ctx": "assets/scripts/zz_villes.evs:17",
+"used": true
+},
+{
+"id": 2491,
+"en": "Fritkot owner",
+"ctx": "assets/scripts/zz_villes.evs:20",
+"used": true
+},
+{
+"id": 2492,
+"en": "Real Belgian fries are fried twice: once to cook them, once to make them crisp.",
+"ctx": "assets/scripts/zz_villes.evs:20",
+"used": true
+},
+{
+"id": 2493,
+"en": "Hungry? Try a mitraillette: half a baguette, meat, sauce, and fries inside. Yes, inside.",
+"ctx": "assets/scripts/zz_villes.evs:21",
+"used": true
+},
+{
+"id": 2494,
+"en": "Waffle seller",
+"ctx": "assets/scripts/zz_villes.evs:24",
+"used": true
+},
+{
+"id": 2495,
+"en": "Brussels waffle: light, rectangular, dusted with sugar. Liège waffle: denser, with pearl sugar caramelised inside.",
+"ctx": "assets/scripts/zz_villes.evs:24",
+"used": true
+},
+{
+"id": 2496,
+"en": "Choosing between them has divided families for generations. I sell both. Very diplomatic.",
+"ctx": "assets/scripts/zz_villes.evs:25",
+"used": true
+},
+{
+"id": 2497,
+"en": "Brussels walls are covered with dozens of comic-strip murals. Belgium takes its comics as seriously as its chocolate.",
+"ctx": "assets/scripts/zz_villes.evs:28",
+"used": true
+},
+{
+"id": 2498,
+"en": "This way to the Galeries Royales Saint-Hubert (1847), one of the oldest covered shopping arcades in Europe.",
+"ctx": "assets/scripts/zz_villes.evs:31",
+"used": true
+},
+{
+"id": 2499,
+"en": "In 1912, in these arcades, the chocolatier Jean Neuhaus invented the filled chocolate: the praline.",
+"ctx": "assets/scripts/zz_villes.evs:32",
+"used": true
+},
+{
+"id": 2500,
+"en": "Grand-Place / Grote Markt. In Brussels, every street name is written in French and Dutch: the capital region is officially bilingual.",
+"ctx": "assets/scripts/zz_villes.evs:35",
+"used": true
+},
+{
+"id": 2501,
+"en": "Belgium has three official languages: Dutch, French and German.",
+"ctx": "assets/scripts/zz_villes.evs:36",
+"used": true
+},
+{
+"id": 2502,
+"en": "Brussels native",
+"ctx": "assets/scripts/zz_villes.evs:39",
+"used": true
+},
+{
+"id": 2503,
+"en": "Allez, une fois! That's how they imagine we talk in Brussels. And, well… sometimes we do.",
+"ctx": "assets/scripts/zz_villes.evs:39",
+"used": true
+},
+{
+"id": 2504,
+"en": "Gardener",
+"ctx": "assets/scripts/zz_villes.evs:43",
+"used": true
+},
+{
+"id": 2505,
+"en": "Every two years in August, a carpet of begonias covers the Grand-Place. The first one was laid in 1971.",
+"ctx": "assets/scripts/zz_villes.evs:43",
+"used": true
+},
+{
+"id": 2506,
+"en": "Hundreds of thousands of flowers, laid by hand in a few hours. I'm one volunteer short. Will you plant with me?",
+"ctx": "assets/scripts/zz_villes.evs:44",
+"used": true
+},
+{
+"id": 2507,
+"en": "Another carpet? The begonias are waiting.",
+"ctx": "assets/scripts/zz_villes.evs:47",
+"used": true
+},
+{
+"id": 2508,
+"en": "Magnificent! Even the guild houses look jealous. Here, from the city.",
+"ctx": "assets/scripts/zz_villes.evs:56",
+"used": true
+},
+{
+"id": 2509,
+"en": "Another masterpiece. In a few days the flowers will be gone, but the photos will stay.",
+"ctx": "assets/scripts/zz_villes.evs:61",
+"used": true
+},
+{
+"id": 2510,
+"en": "The pattern got a bit… abstract. Magritte would have liked it.",
+"ctx": "assets/scripts/zz_villes.evs:64",
+"used": true
+},
+{
+"id": 2511,
+"en": "The Grand Duchess Charlotte Bridge, nicknamed the Red Bridge, links the old town to the Kirchberg plateau, high above the Alzette valley.",
+"ctx": "assets/scripts/zz_villes.evs:70",
+"used": true
+},
+{
+"id": 2512,
+"en": "The Grand Ducal Palace, in the heart of the old town. Luxembourg is the only grand duchy left in the world.",
+"ctx": "assets/scripts/zz_villes.evs:73",
+"used": true
+},
+{
+"id": 2513,
+"en": "The guard marches eight steps, turns, marches eight steps back. It's very relaxing to watch.",
+"ctx": "assets/scripts/zz_villes.evs:77",
+"used": true
+},
+{
+"id": 2514,
+"en": "The European Court of Auditors: the EU's financial watchdog. It checks how European money is spent, euro by euro.",
+"ctx": "assets/scripts/zz_villes.evs:80",
+"used": true
+},
+{
+"id": 2515,
+"en": "On one of the finalist designs for the next banknotes, it appears on the back of the 200 euro note.",
+"ctx": "assets/scripts/zz_villes.evs:81",
+"used": true
+},
+{
+"id": 2516,
+"en": "Since 29 February 2020, all public transport in Luxembourg is free: buses, trams, trains. The first country in the world to do it.",
+"ctx": "assets/scripts/zz_villes.evs:84",
+"used": true
+},
+{
+"id": 2517,
+"en": "The Gëlle Fra, the golden lady of the Monument of Remembrance, honours the Luxembourgers who fell in the world wars.",
+"ctx": "assets/scripts/zz_villes.evs:87",
+"used": true
+},
+{
+"id": 2518,
+"en": "The occupying forces tore it down in 1940; it was fully restored and set back on its column in 1985.",
+"ctx": "assets/scripts/zz_villes.evs:88",
+"used": true
+},
+{
+"id": 2519,
+"en": "The Schueberfouer! A funfair since 1340, founded by John the Blind, Count of Luxembourg. Every year at the end of summer.",
+"ctx": "assets/scripts/zz_villes.evs:91",
+"used": true
+},
+{
+"id": 2520,
+"en": "Luxembourger",
+"ctx": "assets/scripts/zz_villes.evs:94",
+"used": true
+},
+{
+"id": 2521,
+"en": "Moien! That's hello in Luxembourgish. Here we have three administrative languages: Luxembourgish, French and German.",
+"ctx": "assets/scripts/zz_villes.evs:94",
+"used": true
+},
+{
+"id": 2522,
+"en": "Most of us switch between them in the same sentence. Sometimes English sneaks in too.",
+"ctx": "assets/scripts/zz_villes.evs:95",
+"used": true
+},
+{
+"id": 2523,
+"en": "On a wall: “Mir wëlle bleiwe wat mir sinn” (“We want to remain what we are”), the national motto.",
+"ctx": "assets/scripts/zz_villes.evs:98",
+"used": true
+},
+{
+"id": 2524,
+"en": "Welcome to the Bock casemates: 17 kilometres of tunnels dug into the rock, part of a UNESCO World Heritage site.",
+"ctx": "assets/scripts/zz_villes.evs:102",
+"used": true
+},
+{
+"id": 2525,
+"en": "During the bombings of the Second World War, up to 35,000 people sheltered here.",
+"ctx": "assets/scripts/zz_villes.evs:103",
+"used": true
+},
+{
+"id": 2526,
+"en": "A visitor got lost in the dark galleries with my last torch. Can you find the way out and bring him back?",
+"ctx": "assets/scripts/zz_villes.evs:104",
+"used": true
+},
+{
+"id": 2527,
+"en": "Another tour of the galleries?",
+"ctx": "assets/scripts/zz_villes.evs:107",
+"used": true
+},
+{
+"id": 2528,
+"en": "Both of you out in one piece! The fortress was called the “Gibraltar of the North”. Take this for your trouble.",
+"ctx": "assets/scripts/zz_villes.evs:116",
+"used": true
+},
+{
+"id": 2529,
+"en": "You know the galleries better than the soldiers of 1700.",
+"ctx": "assets/scripts/zz_villes.evs:120",
+"used": true
+},
+{
+"id": 2530,
+"en": "The torch went out… Don't worry, I know the way. Let's try again.",
+"ctx": "assets/scripts/zz_villes.evs:123",
+"used": true
+},
+{
+"id": 2531,
+"en": "The Pont de l'Europe crosses the Rhine. On the other side: Kehl, in Germany. Since 2017 a tram even crosses the border.",
+"ctx": "assets/scripts/zz_villes.evs:129",
+"used": true
+},
+{
+"id": 2532,
+"en": "Commuter",
+"ctx": "assets/scripts/zz_villes.evs:132",
+"used": true
+},
+{
+"id": 2533,
+"en": "I live in Kehl and work in Strasbourg. Every morning I change country in four minutes. Nobody checks my passport.",
+"ctx": "assets/scripts/zz_villes.evs:132",
+"used": true
+},
+{
+"id": 2534,
+"en": "Here sits the Council of Europe, founded in 1949: 46 member states, and the European Court of Human Rights. It is not part of the EU.",
+"ctx": "assets/scripts/zz_villes.evs:135",
+"used": true
+},
+{
+"id": 2535,
+"en": "Don't mix it up with the European Council (the EU heads of state and government) or the Council of the EU (the ministers). Even journalists do.",
+"ctx": "assets/scripts/zz_villes.evs:136",
+"used": true
+},
+{
+"id": 2536,
+"en": "The blue flag with twelve gold stars was first adopted by the Council of Europe, in 1955. The EU took it up later.",
+"ctx": "assets/scripts/zz_villes.evs:137",
+"used": true
+},
+{
+"id": 2537,
+"en": "A portrait of Bertha von Suttner (1843–1914), author of the novel “Lay Down Your Arms!” and the first woman to receive the Nobel Peace Prize, in 1905.",
+"ctx": "assets/scripts/zz_villes.evs:140",
+"used": true
+},
+{
+"id": 2538,
+"en": "She is the 200 euro figure of the ECB's “European culture” finalist designs.",
+"ctx": "assets/scripts/zz_villes.evs:141",
+"used": true
+},
+{
+"id": 2539,
+"en": "Europe's anthem is the prelude to the “Ode to Joy”, from Beethoven's Ninth Symphony. The Council of Europe adopted it in 1972, the EU in 1985.",
+"ctx": "assets/scripts/zz_villes.evs:145",
+"used": true
+},
+{
+"id": 2540,
+"en": "It has no official words: in Europe, we all hum it in the same language.",
+"ctx": "assets/scripts/zz_villes.evs:146",
+"used": true
+},
+{
+"id": 2541,
+"en": "The cathedral's spire rises to 142 metres. From 1647 to 1874, it was the tallest building in the world.",
+"ctx": "assets/scripts/zz_villes.evs:150",
+"used": true
+},
+{
+"id": 2542,
+"en": "The astronomical clock. Its mechanism dates from 1842. Every day at half past twelve, the twelve apostles parade before Christ.",
+"ctx": "assets/scripts/zz_villes.evs:153",
+"used": true
+},
+{
+"id": 2543,
+"en": "The cathedral is built of pink sandstone from the Vosges. That's why it blushes at sunset.",
+"ctx": "assets/scripts/zz_villes.evs:156",
+"used": true
+},
+{
+"id": 2544,
+"en": "The Christkindelsmärik has been held here since 1570: one of the oldest Christmas markets in Europe.",
+"ctx": "assets/scripts/zz_villes.evs:159",
+"used": true
+},
+{
+"id": 2545,
+"en": "Winstub cook",
+"ctx": "assets/scripts/zz_villes.evs:162",
+"used": true
+},
+{
+"id": 2546,
+"en": "Flammekueche! Thin dough, cream, onions, bacon, baked in a wood oven in two minutes. In French they say tarte flambée.",
+"ctx": "assets/scripts/zz_villes.evs:162",
+"used": true
+},
+{
+"id": 2547,
+"en": "The Oaths of Strasbourg, sworn here in 842 by two grandsons of Charlemagne, are among the oldest texts in Old French and Old High German.",
+"ctx": "assets/scripts/zz_villes.evs:165",
+"used": true
+},
+{
+"id": 2548,
+"en": "Each king swore in the other's language, so that the other's army could understand. Interpreting has a long history here.",
+"ctx": "assets/scripts/zz_villes.evs:166",
+"used": true
+},
+{
+"id": 2549,
+"en": "Ornithologist",
+"ctx": "assets/scripts/zz_villes.evs:170",
+"used": true
+},
+{
+"id": 2550,
+"en": "The white stork is the emblem of Alsace. In 1974 only nine pairs were left in the region.",
+"ctx": "assets/scripts/zz_villes.evs:170",
+"used": true
+},
+{
+"id": 2551,
+"en": "Thanks to a reintroduction programme, there are several hundred pairs today. And the white stork is on a finalist design for the 50 euro note!",
+"ctx": "assets/scripts/zz_villes.evs:171",
+"used": true
+},
+{
+"id": 2552,
+"en": "The new arrivals are looking for their nests. Can you guide them, away from the power lines?",
+"ctx": "assets/scripts/zz_villes.evs:173",
+"used": true
+},
+{
+"id": 2553,
+"en": "More storks are coming in. Guide them again?",
+"ctx": "assets/scripts/zz_villes.evs:176",
+"used": true
+},
+{
+"id": 2554,
+"en": "Every couple is home! Here, for the stork protection fund… I mean, for you.",
+"ctx": "assets/scripts/zz_villes.evs:185",
+"used": true
+},
+{
+"id": 2555,
+"en": "The roofs of the Petite France are full of clattering beaks. That's the sound of spring here.",
+"ctx": "assets/scripts/zz_villes.evs:189",
+"used": true
+},
+{
+"id": 2556,
+"en": "Some of them got tangled near the wires… They're fine, just a little vexed. Again?",
+"ctx": "assets/scripts/zz_villes.evs:192",
+"used": true
+},
+{
+"id": 2557,
+"en": "Room 18: sculptures from the Parthenon in Athens, removed by Lord Elgin's agents between 1801 and 1812 and bought by the British Museum in 1816.",
+"ctx": "assets/scripts/zz_villes.evs:198",
+"used": true
+},
+{
+"id": 2558,
+"en": "Greece has asked for their return since 1983. In Athens, the Acropolis Museum keeps their places ready.",
+"ctx": "assets/scripts/zz_villes.evs:199",
+"used": true
+},
+{
+"id": 2559,
+"en": "Greek visitor",
+"ctx": "assets/scripts/zz_villes.evs:202",
+"used": true
+},
+{
+"id": 2560,
+"en": "I came all the way from Athens to see our marbles. Then I'll go back to the Acropolis Museum and look at the white copies of these.",
+"ctx": "assets/scripts/zz_villes.evs:202",
+"used": true
+},
+{
+"id": 2561,
+"en": "One frieze, two cities. Maybe one day, one city again.",
+"ctx": "assets/scripts/zz_villes.evs:203",
+"used": true
+},
+{
+"id": 2562,
+"en": "A red telephone box, the K6 model designed in 1935. Today some of them house defibrillators, others little libraries.",
+"ctx": "assets/scripts/zz_villes.evs:206",
+"used": true
+},
+{
+"id": 2563,
+"en": "The London Underground opened in 1863: the first underground railway in the world. “Mind the gap!”",
+"ctx": "assets/scripts/zz_villes.evs:209",
+"used": true
+},
+{
+"id": 2564,
+"en": "After Brexit, the UK left Erasmus. In December 2025 it agreed to rejoin from 2027. My little sister will get to study in Bologna!",
+"ctx": "assets/scripts/zz_villes.evs:212",
+"used": true
+},
+{
+"id": 2565,
+"en": "Dutch customs officer",
+"ctx": "assets/scripts/zz_villes.evs:216",
+"used": true
+},
+{
+"id": 2566,
+"en": "Since 1 January 2021 the UK is outside the EU's customs and veterinary rules: travellers may no longer bring meat or dairy into the EU.",
+"ctx": "assets/scripts/zz_villes.evs:216",
+"used": true
+},
+{
+"id": 2567,
+"en": "That month, my colleagues in Hook of Holland had to confiscate ham sandwiches. “Welcome to the Brexit, sir, I'm sorry.”",
+"ctx": "assets/scripts/zz_villes.evs:217",
+"used": true
+},
+{
+"id": 2568,
+"en": "The morning ferry is boarding. Help me check the lunchboxes?",
+"ctx": "assets/scripts/zz_villes.evs:218",
+"used": true
+},
+{
+"id": 2569,
+"en": "Another ferry, another hundred lunchboxes. Help me again?",
+"ctx": "assets/scripts/zz_villes.evs:221",
+"used": true
+},
+{
+"id": 2570,
+"en": "Not a single ham sandwich got through. Here, have a cheese-free, ham-free reward.",
+"ctx": "assets/scripts/zz_villes.evs:230",
+"used": true
+},
+{
+"id": 2571,
+"en": "Efficient and polite. You'd make a fine customs officer.",
+"ctx": "assets/scripts/zz_villes.evs:235",
+"used": true
+},
+{
+"id": 2572,
+"en": "A salami crossed the Channel… The veterinary inspectors will want a word.",
+"ctx": "assets/scripts/zz_villes.evs:238",
+"used": true
+},
+{
+"id": 2573,
+"en": "Lorry driver",
+"ctx": "assets/scripts/zz_villes.evs:242",
+"used": true
+},
+{
+"id": 2574,
+"en": "Before Brexit I crossed with my lorry without stopping. Now: customs declarations, health certificates, checks. I've read more forms than novels.",
+"ctx": "assets/scripts/zz_villes.evs:242",
+"used": true
+},
+{
+"id": 2575,
+"en": "A campaign bus. In 2016 its side promised £350 million a week for the National Health Service.",
+"ctx": "assets/scripts/zz_villes.evs:245",
+"used": true
+},
+{
+"id": 2576,
+"en": "In 2017 the head of the UK Statistics Authority called that figure a “clear misuse of official statistics”.",
+"ctx": "assets/scripts/zz_villes.evs:246",
+"used": true
+},
+{
+"id": 2577,
+"en": "Birdwatcher",
+"ctx": "assets/scripts/zz_villes.evs:249",
+"used": true
+},
+{
+"id": 2578,
+"en": "Northern gannets dive into the sea at almost a hundred kilometres an hour. The largest colony in the world is on the Bass Rock, in Scotland.",
+"ctx": "assets/scripts/zz_villes.evs:249",
+"used": true
+},
+{
+"id": 2579,
+"en": "The ECB put one on a finalist design for the 200 euro note: open sea, wings folded, splash.",
+"ctx": "assets/scripts/zz_villes.evs:250",
+"used": true
+},
+{
+"id": 2580,
+"en": "Chess player",
+"ctx": "assets/scripts/zz_villes.evs:257",
+"used": true
+},
+{
+"id": 2581,
+"en": "Széchenyi Thermal Bath, 1913: one of the largest medicinal baths in Europe. We play chess here, up to our shoulders in hot water.",
+"ctx": "assets/scripts/zz_villes.evs:257",
+"used": true
+},
+{
+"id": 2582,
+"en": "Hungary gave the world Judit Polgár, the strongest woman player ever: grandmaster at fifteen, and she beat Kasparov in 2002.",
+"ctx": "assets/scripts/zz_villes.evs:258",
+"used": true
+},
+{
+"id": 2583,
+"en": "Three positions, checkmate in one move each. Can you find them before the water gets cold?",
+"ctx": "assets/scripts/zz_villes.evs:259",
+"used": true
+},
+{
+"id": 2584,
+"en": "New positions on the floating board. Another round?",
+"ctx": "assets/scripts/zz_villes.evs:262",
+"used": true
+},
+{
+"id": 2585,
+"en": "Three checkmates! You play like a grandmaster in a bathrobe. Take this.",
+"ctx": "assets/scripts/zz_villes.evs:271",
+"used": true
+},
+{
+"id": 2586,
+"en": "Checkmate, checkmate, checkmate. The steam makes you think faster.",
+"ctx": "assets/scripts/zz_villes.evs:275",
+"used": true
+},
+{
+"id": 2587,
+"en": "The water got cold… Next time, look for the move that leaves the king nowhere to go.",
+"ctx": "assets/scripts/zz_villes.evs:278",
+"used": true
+},
+{
+"id": 2588,
+"en": "Ruin bars: old courtyards of the former Jewish quarter, turned into bars with mismatched furniture. The first ones opened in the early 2000s.",
+"ctx": "assets/scripts/zz_villes.evs:282",
+"used": true
+},
+{
+"id": 2589,
+"en": "Barman",
+"ctx": "assets/scripts/zz_villes.evs:285",
+"used": true
+},
+{
+"id": 2590,
+"en": "Egészségedre! That's cheers in Hungarian. Try saying it after the second glass of fröccs: wine and soda water.",
+"ctx": "assets/scripts/zz_villes.evs:285",
+"used": true
+},
+{
+"id": 2591,
+"en": "Lángos seller",
+"ctx": "assets/scripts/zz_villes.evs:288",
+"used": true
+},
+{
+"id": 2592,
+"en": "Lángos: fried dough, garlic, sour cream and grated cheese. Not a diet. A tradition.",
+"ctx": "assets/scripts/zz_villes.evs:288",
+"used": true
+},
+{
+"id": 2593,
+"en": "The Rubik's Cube was invented in Budapest in 1974 by Ernő Rubik, to teach space to his students. I've solved it in two minutes. Or one face of it.",
+"ctx": "assets/scripts/zz_villes.evs:291",
+"used": true
+},
+{
+"id": 2594,
+"en": "Shoes on the Danube Bank (2005). Sixty pairs of iron shoes remember the Jews of Budapest shot on this bank by Arrow Cross militiamen in 1944 and 1945, and thrown into the river.",
+"ctx": "assets/scripts/zz_villes.evs:294",
+"used": true
+},
+{
+"id": 2595,
+"en": "The Chain Bridge, opened in 1849: the first permanent bridge between Buda and Pest, designed by the English engineer William Tierney Clark.",
+"ctx": "assets/scripts/zz_villes.evs:297",
+"used": true
+},
+{
+"id": 2596,
+"en": "Its stone lions have no tongues… as legend has it. Look closely.",
+"ctx": "assets/scripts/zz_villes.evs:298",
+"used": true
+},
+{
+"id": 2597,
+"en": "Fisherman's Bastion, on Castle Hill: seven towers, for the seven Magyar tribes who settled in the Carpathian Basin.",
+"ctx": "assets/scripts/zz_villes.evs:301",
+"used": true
+},
+{
+"id": 2598,
+"en": "Bee-eaters! The most colourful birds of Europe. They dig their nests in sandy riverbanks and catch bees in flight.",
+"ctx": "assets/scripts/zz_villes.evs:304",
+"used": true
+},
+{
+"id": 2599,
+"en": "Hungary has some of the largest colonies. On the ECB's finalist designs, a colony of them decorates the 20 euro note.",
+"ctx": "assets/scripts/zz_villes.evs:305",
+"used": true
+},
+{
+"id": 2600,
+"en": "Linguist",
+"ctx": "assets/scripts/zz_villes.evs:309",
+"used": true
+},
+{
+"id": 2601,
+"en": "Hungarian is not related to its neighbours' languages: it belongs to the Uralic family, like Finnish and Estonian.",
+"ctx": "assets/scripts/zz_villes.evs:309",
+"used": true
+},
+{
+"id": 2602,
+"en": "And the family name comes first: Rubik Ernő, Polgár Judit. Easy to remember, hard to pronounce.",
+"ctx": "assets/scripts/zz_villes.evs:310",
+"used": true
+},
+{
+"id": 2603,
+"en": "László Bíró, born in Budapest, patented the modern ballpoint pen in 1938. In many countries a pen is still called a “biro”.",
+"ctx": "assets/scripts/zz_villes.evs:313",
+"used": true
+},
+{
+"id": 2604,
+"en": "The Salon de l'Horloge. On 9 May 1950 at 6 p.m., Robert Schuman, French foreign minister, read a declaration here proposing to pool French and German coal and steel.",
+"ctx": "assets/scripts/zz_villes.evs:318",
+"used": true
+},
+{
+"id": 2605,
+"en": "It led to the European Coal and Steel Community in 1951, the first step of today's EU. Every 9 May is Europe Day.",
+"ctx": "assets/scripts/zz_villes.evs:319",
+"used": true
+},
+{
+"id": 2606,
+"en": "The archives have mixed up the pages of the declaration! The journalists are arriving. Can you put the sentences back in order?",
+"ctx": "assets/scripts/zz_villes.evs:323",
+"used": true
+},
+{
+"id": 2607,
+"en": "The pages are shuffled again. Help me?",
+"ctx": "assets/scripts/zz_villes.evs:326",
+"used": true
+},
+{
+"id": 2608,
+"en": "Word for word! Mr Schuman would have shaken your hand. Take this, from the ministry.",
+"ctx": "assets/scripts/zz_villes.evs:335",
+"used": true
+},
+{
+"id": 2609,
+"en": "Perfectly ordered. Europe will not be made all at once, but you're quick.",
+"ctx": "assets/scripts/zz_villes.evs:339",
+"used": true
+},
+{
+"id": 2610,
+"en": "Not quite… Remember: first peace, then concrete achievements, then coal and steel.",
+"ctx": "assets/scripts/zz_villes.evs:342",
+"used": true
+},
+{
+"id": 2611,
+"en": "Marie Curie, born Maria Skłodowska in Warsaw, became the first woman professor at the Sorbonne in 1906. She won two Nobel Prizes, in physics and in chemistry.",
+"ctx": "assets/scripts/zz_villes.evs:346",
+"used": true
+},
+{
+"id": 2612,
+"en": "She is the 20 euro figure of the ECB's “European culture” finalist designs.",
+"ctx": "assets/scripts/zz_villes.evs:347",
+"used": true
+},
+{
+"id": 2613,
+"en": "Baker",
+"ctx": "assets/scripts/zz_villes.evs:351",
+"used": true
+},
+{
+"id": 2614,
+"en": "Since 2022 the craft of the French baguette is on UNESCO's list of intangible cultural heritage. Flour, water, salt, yeast. And a bit of patience.",
+"ctx": "assets/scripts/zz_villes.evs:351",
+"used": true
+},
+{
+"id": 2615,
+"en": "Un café, s'il vous plaît! In Paris, a “café” is an espresso. If you want a big cup, you have to say so. Loudly.",
+"ctx": "assets/scripts/zz_villes.evs:354",
+"used": true
+},
+{
+"id": 2616,
+"en": "Bouquiniste",
+"ctx": "assets/scripts/zz_villes.evs:357",
+"used": true
+},
+{
+"id": 2617,
+"en": "We have sold second-hand books on these quays since the 16th century. Hundreds of green boxes, along kilometres of the Seine.",
+"ctx": "assets/scripts/zz_villes.evs:357",
+"used": true
+},
+{
+"id": 2618,
+"en": "Notre-Dame de Paris. Damaged by fire on 15 April 2019, it reopened on 7 December 2024 after five years of work.",
+"ctx": "assets/scripts/zz_villes.evs:360",
+"used": true
+},
+{
+"id": 2619,
+"en": "Visitor",
+"ctx": "assets/scripts/zz_villes.evs:363",
+"used": true
+},
+{
+"id": 2620,
+"en": "The new oak frame was cut by hand, like in the Middle Ages. Carpenters from all over Europe came to help.",
+"ctx": "assets/scripts/zz_villes.evs:363",
+"used": true
+},
+{
+"id": 2621,
+"en": "Some winters a wallcreeper comes down from the mountains to the cliffs of the Meuse valley. A grey bird with crimson wings, like a butterfly.",
+"ctx": "assets/scripts/zz_villes.evs:368",
+"used": true
+},
+{
+"id": 2622,
+"en": "It's the bird of the 5 euro note on the ECB's finalist designs: a mountain spring and a wallcreeper.",
+"ctx": "assets/scripts/zz_villes.evs:369",
+"used": true
+},
+{
+"id": 2623,
+"en": "Angler",
+"ctx": "assets/scripts/zz_villes.evs:373",
+"used": true
+},
+{
+"id": 2624,
+"en": "See that blue flash on the Moselle? A kingfisher. It dives from a branch and comes back up with a fish.",
+"ctx": "assets/scripts/zz_villes.evs:373",
+"used": true
+},
+{
+"id": 2625,
+"en": "On the ECB's finalist designs it's the bird of the 10 euro note, by a waterfall.",
+"ctx": "assets/scripts/zz_villes.evs:374",
+"used": true
+},
+{
+"id": 2626,
+"en": "Antwerp is Europe's second-largest port. And along the Scheldt, right next to the cranes, avocets nest in the nature reserves.",
+"ctx": "assets/scripts/zz_villes.evs:378",
+"used": true
+},
+{
+"id": 2627,
+"en": "Black and white, with an upturned bill: the bird of the 100 euro note on the ECB's finalist designs, at a river mouth.",
+"ctx": "assets/scripts/zz_villes.evs:379",
+"used": true
+},
+{
+"id": 2628,
+"en": "Warsaw resident",
+"ctx": "assets/scripts/zz_villes.evs:383",
+"used": true
+},
+{
+"id": 2629,
+"en": "Maria Skłodowska, Marie Curie, was born here in Warsaw, in 1867. She named the element polonium after her country.",
+"ctx": "assets/scripts/zz_villes.evs:383",
+"used": true
+},
+{
+"id": 2630,
+"en": "Our Old Town was razed in 1944 and rebuilt stone by stone: it has been on UNESCO's list since 1980.",
+"ctx": "assets/scripts/zz_villes.evs:384",
+"used": true
+},
+{
+"id": 2631,
+"en": "Leonardo da Vinci lived in Rome from 1513 to 1516, at the Vatican, before leaving for France.",
+"ctx": "assets/scripts/zz_villes.evs:387",
+"used": true
+},
+{
+"id": 2632,
+"en": "He is the 100 euro figure of the ECB's “European culture” finalist designs.",
+"ctx": "assets/scripts/zz_villes.evs:388",
+"used": true
+},
+{
+"id": 2633,
+"en": "Professor",
+"ctx": "assets/scripts/zz_villes.evs:392",
+"used": true
+},
+{
+"id": 2634,
+"en": "The Treaty of Lisbon, signed here in 2007, created Article 50: the procedure to leave the EU. The UK was the first to use it.",
+"ctx": "assets/scripts/zz_villes.evs:392",
+"used": true
+},
+{
+"id": 2635,
+"en": "Also from Lisbon: the pastéis de nata, after the recipe of the Jerónimos monks. Much more popular than Article 50.",
+"ctx": "assets/scripts/zz_villes.evs:393",
+"used": true
+},
+{
+"id": 2636,
+"en": "Old sailor",
+"ctx": "assets/scripts/zz_villes.evs:396",
+"used": true
+},
+{
+"id": 2637,
+"en": "In 1571 the Battle of Lepanto was fought in the Gulf of Patras, here in Greece. A young Spanish soldier lost the use of his left hand there.",
+"ctx": "assets/scripts/zz_villes.evs:396",
+"used": true
+},
+{
+"id": 2638,
+"en": "His name was Miguel de Cervantes. He went on to write Don Quixote. He's the 50 euro figure of the ECB's culture designs!",
+"ctx": "assets/scripts/zz_villes.evs:397",
+"used": true
+},
+{
+"id": 2639,
+"en": "In a corner, a postcard stamped by the ECB's design jury: one of the twelve motifs of the future banknotes. You keep it.",
+"ctx": "assets/scripts/zz_villes.evs:477",
+"used": true
+},
+{
+"id": 2640,
+"en": "British Museum – Room 18",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2641,
+"en": "Bock Casemates – Entrance",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2642,
+"en": "Strasbourg Cathedral",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2643,
+"en": "Palais de l'Europe – Council of Europe",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2644,
+"en": "Ferry Terminal – EU Customs",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2645,
+"en": "Ruin Bar – Budapest",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2646,
+"en": "Quai d'Orsay – Salon de l'Horloge",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2647,
+"en": "Boulangerie – Paris",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2648,
+"en": "Red",
+"ctx": "source/minigame2.c:687",
+"used": true
+},
+{
+"id": 2649,
+"en": "Yellow",
+"ctx": "source/minigame2.c:687",
+"used": true
+},
+{
+"id": 2650,
+"en": "White",
+"ctx": "source/minigame2.c:687",
+"used": true
+},
+{
+"id": 2651,
+"en": "Orange",
+"ctx": "source/minigame2.c:687",
+"used": true
+},
+{
+"id": 2652,
+"en": "The flower carpet",
+"ctx": "source/minigame2.c:688",
+"used": true
+},
+{
+"id": 2653,
+"en": "Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. ",
+"ctx": "source/minigame2.c:689",
+"used": true
+},
+{
+"id": 2654,
+"en": "Press Done when it matches. Three carpets in 90 seconds!",
+"ctx": "source/minigame2.c:690",
+"used": true
+},
+{
+"id": 2655,
+"en": "The design",
+"ctx": "source/minigame2.c:703",
+"used": true
+},
+{
+"id": 2656,
+"en": "Three carpets of begonias! Belgium grows most of the world's tuberous begonias, around Ghent.",
+"ctx": "source/minigame2.c:751",
+"used": true
+},
+{
+"id": 2657,
+"en": "The tourists are arriving and the carpet is not finished… Next time!",
+"ctx": "source/minigame2.c:752",
+"used": true
+},
+{
+"id": 2658,
+"en": "The storks of Alsace",
+"ctx": "source/minigame2.c:762",
+"used": true
+},
+{
+"id": 2659,
+"en": "The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or ",
+"ctx": "source/minigame2.c:763",
+"used": true
+},
+{
+"id": 2660,
+"en": "↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.",
+"ctx": "source/minigame2.c:764",
+"used": true
+},
+{
+"id": 2661,
+"en": "Storks home: %d / %d · lost: %d / 3",
+"ctx": "source/minigame2.c:802",
+"used": true
+},
+{
+"id": 2662,
+"en": "Ten storks in their nests! In Alsace, a stork on your roof is said to bring luck.",
+"ctx": "source/minigame2.c:826",
+"used": true
+},
+{
+"id": 2663,
+"en": "Too many storks flew on to the next village… They'll be back next spring.",
+"ctx": "source/minigame2.c:827",
+"used": true
+},
+{
+"id": 2664,
+"en": "Ham sandwich",
+"ctx": "source/minigame2.c:836",
+"used": true
+},
+{
+"id": 2665,
+"en": "Milk",
+"ctx": "source/minigame2.c:836",
+"used": true
+},
+{
+"id": 2666,
+"en": "Salami",
+"ctx": "source/minigame2.c:836",
+"used": true
+},
+{
+"id": 2667,
+"en": "Apple",
+"ctx": "source/minigame2.c:836",
+"used": true
+},
+{
+"id": 2668,
+"en": "Chocolate bar",
+"ctx": "source/minigame2.c:837",
+"used": true
+},
+{
+"id": 2669,
+"en": "Crisps",
+"ctx": "source/minigame2.c:837",
+"used": true
+},
+{
+"id": 2670,
+"en": "Biscuits",
+"ctx": "source/minigame2.c:837",
+"used": true
+},
+{
+"id": 2671,
+"en": "EU customs",
+"ctx": "source/minigame2.c:838",
+"used": true
+},
+{
+"id": 2672,
+"en": "The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. ",
+"ctx": "source/minigame2.c:839",
+"used": true
+},
+{
+"id": 2673,
+"en": "Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.",
+"ctx": "source/minigame2.c:840",
+"used": true
+},
+{
+"id": 2674,
+"en": "Meat, dairy, most fruit: confiscate.",
+"ctx": "source/minigame2.c:849",
+"used": true
+},
+{
+"id": 2675,
+"en": "Bananas, sweets, crisps, water: let through.",
+"ctx": "source/minigame2.c:850",
+"used": true
+},
+{
+"id": 2676,
+"en": "Let through",
+"ctx": "source/minigame2.c:860",
+"used": true
+},
+{
+"id": 2677,
+"en": "Confiscate",
+"ctx": "source/minigame2.c:861",
+"used": true
+},
+{
+"id": 2678,
+"en": "All the lunchboxes checked! Within the EU's single market, food travels freely; at its borders, it is checked.",
+"ctx": "source/minigame2.c:880",
+"used": true
+},
+{
+"id": 2679,
+"en": "A salami slipped through… or a banana was wrongly seized. Rules first, sandwich later!",
+"ctx": "source/minigame2.c:881",
+"used": true
+},
+{
+"id": 2680,
+"en": "R.....K.",
+"ctx": "source/minigame2.c:890",
+"used": true
+},
+{
+"id": 2681,
+"en": "......K.",
+"ctx": "source/minigame2.c:892",
+"used": true
+},
+{
+"id": 2682,
+"en": "Q.......",
+"ctx": "source/minigame2.c:892",
+"used": true
+},
+{
+"id": 2683,
+"en": "......N.",
+"ctx": "source/minigame2.c:894",
+"used": true
+},
+{
+"id": 2684,
+"en": "K.......",
+"ctx": "source/minigame2.c:894",
+"used": true
+},
+{
+"id": 2685,
+"en": "Chess in the baths",
+"ctx": "source/minigame2.c:923",
+"used": true
+},
+{
+"id": 2686,
+"en": "Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move ",
+"ctx": "source/minigame2.c:924",
+"used": true
+},
+{
+"id": 2687,
+"en": "that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!",
+"ctx": "source/minigame2.c:925",
+"used": true
+},
+{
+"id": 2688,
+"en": "White to play and mate in one",
+"ctx": "source/minigame2.c:935",
+"used": true
+},
+{
+"id": 2689,
+"en": "K king · Q queen · R rook · B bishop · N knight · P pawn",
+"ctx": "source/minigame2.c:936",
+"used": true
+},
+{
+"id": 2690,
+"en": "Three checkmates! In the baths, the loser traditionally gets out of the water first.",
+"ctx": "source/minigame2.c:971",
+"used": true
+},
+{
+"id": 2691,
+"en": "The water went cold before the mate… Look for the move that leaves the king no square at all.",
+"ctx": "source/minigame2.c:972",
+"used": true
+},
+{
+"id": 2692,
+"en": "World peace cannot be safeguarded",
+"ctx": "source/minigame2.c:980",
+"used": true
+},
+{
+"id": 2693,
+"en": "without the making of creative efforts proportionate to the dangers which threaten it.",
+"ctx": "source/minigame2.c:981",
+"used": false
+},
+{
+"id": 2694,
+"en": "Europe will not be made all at once, or according to a single plan.",
+"ctx": "source/minigame2.c:982",
+"used": true
+},
+{
+"id": 2695,
+"en": "It will be built through concrete achievements which first create a de facto solidarity.",
+"ctx": "source/minigame2.c:983",
+"used": false
+},
+{
+"id": 2696,
+"en": "The French Government proposes that Franco-German production of coal and steel be placed under a common High Authority…",
+"ctx": "source/minigame2.c:984",
+"used": false
+},
+{
+"id": 2697,
+"en": "…so that any war between France and Germany becomes not merely unthinkable, but materially impossible.",
+"ctx": "source/minigame2.c:985",
+"used": false
+},
+{
+"id": 2698,
+"en": "The Schuman Declaration",
+"ctx": "source/minigame2.c:986",
+"used": true
+},
+{
+"id": 2699,
+"en": "9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the ",
+"ctx": "source/minigame2.c:987",
+"used": true
+},
+{
+"id": 2700,
+"en": "sentences in the right order before the press conference. 60 seconds.",
+"ctx": "source/minigame2.c:988",
+"used": true
+},
+{
+"id": 2701,
+"en": "The declaration is ready! The European Coal and Steel Community followed in 1951. Every 9 May is Europe Day.",
+"ctx": "source/minigame2.c:1035",
+"used": true
+},
+{
+"id": 2702,
+"en": "The journalists are waiting and the pages are still in a mess… Peace first, then concrete achievements!",
+"ctx": "source/minigame2.c:1036",
+"used": true
+},
+{
+"id": 2703,
+"en": "The Bock casemates",
+"ctx": "source/minigame2.c:1047",
+"used": true
+},
+{
+"id": 2704,
+"en": "The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! ",
+"ctx": "source/minigame2.c:1048",
+"used": true
+},
+{
+"id": 2705,
+"en": "Move with the +Control Pad, or tap next to your character. 75 seconds.",
+"ctx": "source/minigame2.c:1049",
+"used": true
+},
+{
+"id": 2706,
+"en": "The visitor follows you: now the exit!",
+"ctx": "source/minigame2.c:1107",
+"used": true
+},
+{
+"id": 2707,
+"en": "Somewhere in the dark, someone is calling…",
+"ctx": "source/minigame2.c:1108",
+"used": true
+},
+{
+"id": 2708,
+"en": "Out in the daylight, with the visitor! Up to 35,000 people sheltered in these galleries during the bombings.",
+"ctx": "source/minigame2.c:1136",
+"used": true
+},
+{
+"id": 2709,
+"en": "The torch went out… The guide follows your voice and leads you both out.",
+"ctx": "source/minigame2.c:1137",
+"used": true
+},
+{
+"id": 2710,
+"en": "without creative efforts proportionate to the dangers which threaten it.",
+"ctx": "source/minigame2.c:980",
+"used": true
+},
+{
+"id": 2711,
+"en": "Franco-German production of coal and steel will be placed under a common High Authority…",
+"ctx": "source/minigame2.c:983",
+"used": false
+},
+{
+"id": 2712,
+"en": "…making any war between France and Germany not merely unthinkable, but materially impossible.",
+"ctx": "source/minigame2.c:984",
+"used": false
+},
+{
+"id": 2713,
+"en": "Built through concrete achievements which first create a de facto solidarity.",
+"ctx": "source/minigame2.c:982",
+"used": true
+},
+{
+"id": 2714,
+"en": "Franco-German coal and steel will be placed under a common High Authority…",
+"ctx": "source/minigame2.c:983",
+"used": true
+},
+{
+"id": 2715,
+"en": "…so that war between France and Germany becomes materially impossible.",
+"ctx": "source/minigame2.c:984",
+"used": true
 }
 ]

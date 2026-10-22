@@ -131,6 +131,7 @@ events
   npc docker docker 44 13 right still piree_docker
   npc piree_busker touriste 49 8 down still piree_busker
   npc piree_fisher agriculteur 56 13 right still piree_fisher
+  npc piree_sailor mamie 48 13 down still piree_cervantes
   sign 61 5 piree_olympiacos
   sign 52 14 piree_ferries
   sign 38 14 piree_shipowners

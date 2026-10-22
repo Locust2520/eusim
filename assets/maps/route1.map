@@ -160,6 +160,7 @@ events
   npc r1_fonc fonctionnaire 33 6 down still r1_t2 trainer=r1_fonctionnaire range=3
   npc r1_agri agriculteur 50 10 left still r1_t3 trainer=r1_agriculteur range=4
   npc r1_rando touriste 10 12 up wander r1_rando
+  npc r1_birder militant 56 6 down still r1_birder
   sign 3 8 r1_sign
   item 12 15 cafe ITEM_R1A
   item 46 3 tampon ITEM_R1B

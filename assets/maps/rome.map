@@ -121,4 +121,5 @@ objects
   statue 15 9
 events
   sign 15 11 rome_legend
+  npc rome_guide fonctionnaire_f 20 14 left still rome_leonardo
   door 6 12 gare_rome 6 6 up

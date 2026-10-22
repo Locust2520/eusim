@@ -584,6 +584,451 @@ def ancient_wall():
     return Obj(im, ['####'])
 
 
+# ---------------------------------------------------------------- Brussels
+def guild_house(variant):
+    """Guild houses of the Grand-Place: stepped or scrolled gables, gilded statues and balconies."""
+    wall = (rgb('d8c4a0'), rgb('c8b090'), rgb('e0d0b0'))[variant % 3]
+    o = gable_house(3, 6, wall, None, None, stepped=True)
+    d = ImageDraw.Draw(o.img)
+    for x in range(4, 44, 8):
+        d.line([(x, 34), (x + 4, 34)], fill=P['gold'])                  # gilded cornices
+    d.rectangle([20, 8 + variant * 4, 27, 14 + variant * 4], fill=P['gold'], outline=K)   # gilded figure
+    return o
+
+
+def town_hall():
+    """Brussels Town Hall (15th century) and its 96 m tower topped by Saint Michael slaying the dragon."""
+    w, h = 4, 8
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    stone = rgb('d4c4a8')
+    d.rectangle([24, 4, 39, 60], fill=stone, outline=K)                 # tower
+    d.polygon([(24, 18), (32, 2), (40, 18)], fill=rgb('8a98a8'), outline=K)
+    d.rectangle([30, 0, 33, 4], fill=P['gold'])                          # Saint Michael
+    for y in range(22, 58, 8):
+        d.rectangle([28, y, 35, y + 4], fill=P['gl3'])
+    d.rectangle([0, 56, W - 1, H - 1], fill=stone, outline=K)
+    for x in range(4, W - 4, 8):
+        d.rectangle([x, 62, x + 4, 74], fill=P['gl3'], outline=K)
+        d.pieslice([x, 58, x + 4, 66], 180, 360, fill=P['gl3'])
+    for x in range(2, W - 4, 6):
+        d.arc([x, H - 22, x + 6, H - 10], 180, 360, fill=K)
+    door(d, W // 2 - 6, H - 16, False, 12)
+    return obj(im, w, h)
+
+
+def manneken():
+    """Manneken-Pis: 55 cm of bronze and more than a thousand costumes."""
+    im = new(16, 32)
+    d = ImageDraw.Draw(im)
+    d.rectangle([2, 20, 13, 31], fill=P['c3'], outline=K)
+    d.rectangle([4, 22, 11, 26], fill=P['w1'])
+    d.ellipse([5, 3, 10, 8], fill=rgb('7a5a3a'))
+    d.rectangle([5, 8, 10, 16], fill=rgb('7a5a3a'))
+    d.line([(10, 13), (12, 22)], fill=P['w2'])
+    return Obj(im, ['.', '#'], ['1', '0'])
+
+
+def fritkot():
+    """A fritkot: the Belgian chip stand. Try the mitraillette."""
+    im = new(32, 32)
+    d = ImageDraw.Draw(im)
+    d.rectangle([2, 8, 29, 31], fill=rgb('f0d040'), outline=K)
+    d.rectangle([0, 4, 31, 9], fill=P['fr'], outline=K)
+    d.rectangle([5, 12, 26, 20], fill=rgb('fff4d0'), outline=K)
+    d.polygon([(10, 24), (16, 30), (22, 24)], fill=P['fr'], outline=K)   # cone of chips
+    for x in (12, 15, 18):
+        d.line([(x, 24), (x + 1, 19)], fill=rgb('f0c040'), width=2)
+    return Obj(im, ['##', '##'], ['11', '00'])
+
+
+def waffle_stand():
+    im = new(32, 32)
+    d = ImageDraw.Draw(im)
+    d.rectangle([2, 10, 29, 31], fill=P['wd1'], outline=K)
+    for x in range(0, 32, 8):
+        d.rectangle([x, 2, x + 3, 9], fill=P['fp'])
+        d.rectangle([x + 4, 2, x + 7, 9], fill=P['wh'])
+    d.rectangle([7, 13, 24, 23], fill=rgb('e0b060'), outline=K)          # a waffle
+    for k in range(9, 23, 4):
+        d.line([(k, 13), (k, 23)], fill=rgb('b08030'))
+        d.line([(7, k + 2), (24, k + 2)], fill=rgb('b08030'))
+    return Obj(im, ['##', '##'], ['11', '00'])
+
+
+def comic_wall():
+    """One of the comic-strip murals that cover Brussels walls."""
+    im = new(64, 32)
+    d = ImageDraw.Draw(im)
+    d.rectangle([0, 0, 63, 31], fill=rgb('e8dcc8'), outline=K)
+    for i, (x, col) in enumerate(((3, rgb('f0d040')), (24, rgb('7ab0e0')), (45, rgb('f08070')))):
+        d.rectangle([x, 3, x + 17, 26], fill=col, outline=K)
+        d.ellipse([x + 4, 6, x + 12, 14], fill=P['wh'], outline=K)         # a speech bubble
+        d.ellipse([x + 6, 15, x + 12, 21], fill=rgb('f4d0b0'), outline=K)
+    return obj(im, 4, 2)
+
+
+def galeries():
+    """The Galeries Royales Saint-Hubert (1847), one of Europe's first covered shopping arcades."""
+    w, h = 6, 3
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    d.rectangle([0, 10, W - 1, H - 1], fill=rgb('e8dcc0'), outline=K)
+    d.chord([20, 0, W - 21, 30], 180, 360, fill=P['gl1'], outline=K)
+    for x in range(26, W - 24, 6):
+        d.line([(x, 4), (x, 15)], fill=P['mt1'])
+    d.rectangle([W // 2 - 10, 18, W // 2 + 10, H - 1], fill=P['gl0'], outline=K)
+    for x in (6, W - 18):
+        d.rectangle([x, 22, x + 10, 36], fill=P['gl3'], outline=K)
+    return obj(im, w, h)
+
+
+# ---------------------------------------------------------------- Luxembourg
+def court_auditors():
+    """The European Court of Auditors on the Kirchberg plateau."""
+    o = T.building(6, 4, 'rg', 'wl', glass=True)
+    label(o.img, 'COURT OF AUDITORS', 48, 6, 'eu')
+    return o
+
+
+def ducal_palace():
+    """The Grand Ducal Palace: a Renaissance facade in the old town; a soldier guards the door."""
+    w, h = 6, 4
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    stone = rgb('d8c8a8')
+    d.rectangle([0, 8, W - 1, H - 1], fill=stone, outline=K)
+    d.polygon([(0, 8), (8, 0), (16, 8)], fill=rgb('7a8898'), outline=K)   # corner turrets
+    d.polygon([(W - 17, 8), (W - 9, 0), (W - 1, 8)], fill=rgb('7a8898'), outline=K)
+    for y in (14, 32):
+        for x in range(6, W - 6, 12):
+            d.rectangle([x, y, x + 6, y + 10], fill=P['gl3'], outline=K)
+            for k in range(3):
+                d.point((x + 1 + k * 2, y - 2), fill=rgb('a89878'))
+    door(d, W // 2 - 7, H - 16, False, 14)
+    return obj(im, w, h)
+
+
+def casemates():
+    """The Bock casemates: 17 km of tunnels dug into the rock, UNESCO World Heritage."""
+    w, h = 4, 3
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    d.rectangle([0, 0, W - 1, H - 1], fill=rgb('a89878'), outline=K)
+    for y in range(4, H, 7):
+        for x in range(-(y % 14), W, 14):
+            d.rectangle([x + 1, y, x + 12, y + 5], outline=rgb('7a6a50'))
+    d.rectangle([W // 2 - 8, H - 22, W // 2 + 7, H - 1], fill=rgb('2a2420'))
+    d.pieslice([W // 2 - 8, H - 30, W // 2 + 7, H - 14], 180, 360, fill=rgb('2a2420'))
+    return obj(im, w, h, [(2, h - 1)])
+
+
+def gelle_fra():
+    """The Gëlle Fra, the golden lady of the Monument of Remembrance."""
+    im = new(16, 64)
+    d = ImageDraw.Draw(im)
+    d.rectangle([4, 16, 11, 60], fill=rgb('c8c0b0'), outline=K)
+    d.rectangle([1, 58, 14, 63], fill=P['c3'], outline=K)
+    d.ellipse([5, 2, 10, 7], fill=P['gold'], outline=K)
+    d.polygon([(4, 8), (11, 8), (12, 16), (3, 16)], fill=P['gold'], outline=K)
+    d.line([(10, 8), (15, 2)], fill=P['gold'], width=2)                  # holding up a laurel wreath
+    return Obj(im, ['.', '.', '#', '#'], ['1', '1', '0', '0'])
+
+
+def tram_stop():
+    im = new(32, 32)
+    d = ImageDraw.Draw(im)
+    d.rectangle([2, 6, 29, 9], fill=P['mt0'], outline=K)
+    d.rectangle([4, 9, 27, 26], fill=P['gl1'], outline=K)
+    d.rectangle([3, 26, 28, 31], fill=P['c3'])
+    d.rectangle([22, 0, 29, 6], fill=rgb('d03030'), outline=K)           # stop sign
+    return Obj(im, ['##', '##'], ['11', '00'])
+
+
+def fair_stand():
+    """A stand of the Schueberfouer, the funfair held in Luxembourg since 1340."""
+    im = new(32, 32)
+    d = ImageDraw.Draw(im)
+    for x in range(0, 32, 8):
+        d.rectangle([x, 2, x + 3, 10], fill=P['gold'])
+        d.rectangle([x + 4, 2, x + 7, 10], fill=P['fr'])
+    d.rectangle([2, 10, 29, 31], fill=P['wd2'], outline=K)
+    for x in (8, 15, 22):
+        d.ellipse([x - 3, 14, x + 3, 20], fill=(P['fr'], P['fb'], P['fy'])[x % 3])   # balloons
+    return Obj(im, ['##', '##'], ['11', '00'])
+
+
+# ---------------------------------------------------------------- Strasbourg
+def cathedral():
+    """Strasbourg Cathedral: pink sandstone, 142 m spire, the world's tallest building from 1647 to 1874."""
+    w, h = 6, 10
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    pink, dark = rgb('c87c70'), rgb('9a5a52')
+    d.rectangle([4, 64, W - 5, H - 1], fill=pink, outline=K)                 # facade
+    d.rectangle([W - 34, 20, W - 10, 66], fill=pink, outline=K)              # north tower
+    d.polygon([(W - 34, 22), (W - 22, 0), (W - 10, 22)], fill=pink, outline=K)   # the single spire
+    for y in range(26, 64, 6):
+        d.line([(W - 32, y), (W - 12, y)], fill=dark)
+    d.ellipse([W // 2 - 18, 74, W // 2 + 6, 98], fill=rgb('5a6aa0'), outline=K)   # rose window
+    for k in range(8):
+        a = k * math.pi / 4
+        d.line([(W // 2 - 6, 86), (W // 2 - 6 + 11 * math.cos(a), 86 + 11 * math.sin(a))], fill=dark)
+    for x in range(8, W - 8, 6):
+        d.line([(x, 102), (x, H - 18)], fill=dark)
+    door(d, W // 2 - 13, H - 16, False, 14)
+    return obj(im, w, h, [(2, h - 1)])
+
+
+def fachwerk_stork():
+    """A half-timbered house of the Petite France with a stork's nest on the roof."""
+    o = fachwerk(1)
+    d = ImageDraw.Draw(o.img)
+    d.ellipse([16, 2, 34, 12], fill=rgb('7a5a3a'), outline=K)            # nest
+    d.ellipse([20, -6, 30, 6], fill=P['wh'], outline=K)                  # the stork
+    d.line([(29, 0), (36, 3)], fill=P['fr'], width=2)
+    d.rectangle([22, 0, 26, 3], fill=K)
+    return o
+
+
+def covered_bridge_tower():
+    """One of the towers of the Ponts Couverts (13th-century fortifications on the Ill)."""
+    im = new(32, 64)
+    d = ImageDraw.Draw(im)
+    d.rectangle([4, 14, 27, 63], fill=rgb('b89878'), outline=K)
+    d.polygon([(2, 16), (16, 0), (29, 16)], fill=rgb('8a4a3a'), outline=K)
+    for y in (24, 40):
+        d.rectangle([13, y, 18, y + 8], fill=rgb('3a2a20'))
+    return Obj(im, ['..', '##', '##', '##'], ['11', '00', '00', '00'])
+
+
+def palais_europe():
+    """The Palais de l'Europe, seat of the Council of Europe (46 member states) — not an EU institution."""
+    w, h = 8, 4
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    d.rectangle([0, 10, W - 1, H - 1], fill=rgb('8a6a50'), outline=K)
+    for y in range(14, H - 16, 6):
+        d.line([(1, y), (W - 2, y)], fill=rgb('c8a878'))
+    d.rectangle([W // 2 - 20, 20, W // 2 + 20, H - 1], fill=P['gl1'], outline=K)
+    for x in range(4, W - 4, 6):                                          # the flags of the member states
+        d.line([(x, 10), (x, 0)], fill=P['mt0'])
+        d.rectangle([x + 1, 0, x + 4, 3], fill=(P['fr'], P['eu2'], P['fy'], P['l2'], P['wh'])[x % 5])
+    door(d, W // 2 - 7, H - 16, True, 14)
+    return obj(im, w, h, [(4, h - 1)])
+
+
+# ---------------------------------------------------------------- London
+def british_museum():
+    w, h = 8, 5
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    stone = rgb('e4dcc8')
+    d.polygon([(10, 22), (W // 2, 4), (W - 11, 22)], fill=stone, outline=K)
+    d.rectangle([4, 22, W - 5, 28], fill=stone, outline=K)
+    columns(d, 8, W - 6, 28, H - 10, 10)
+    d.rectangle([0, H - 10, W - 1, H - 1], fill=P['c3'], outline=K)
+    door(d, W // 2 - 7, H - 16, False, 14)
+    label(im, 'BRITISH MUSEUM', W // 2, 12, 'rg0')
+    return obj(im, w, h, [(4, h - 1)])
+
+
+def phone_box():
+    im = new(16, 32)
+    d = ImageDraw.Draw(im)
+    d.rectangle([2, 4, 13, 31], fill=rgb('d02828'), outline=K)
+    d.rectangle([1, 2, 14, 6], fill=rgb('d02828'), outline=K)
+    for y in (9, 15, 21):
+        d.rectangle([4, y, 11, y + 4], fill=P['gl1'])
+    d.line([(4, 7), (11, 7)], fill=P['wh'])
+    return Obj(im, ['.', '#'], ['1', '0'])
+
+
+def double_decker(campaign=False):
+    """A red double-decker bus; the campaign one carries a slogan that did not survive fact-checking."""
+    im = new(64, 32)
+    d = ImageDraw.Draw(im)
+    d.rectangle([1, 2, 62, 27], fill=rgb('d02828'), outline=K)
+    for y in (5, 16):
+        for x in range(4, 58, 8):
+            d.rectangle([x, y, x + 5, y + 5], fill=P['gl1'])
+    if campaign:
+        d.rectangle([6, 13, 57, 15], fill=P['wh'])
+    for x in (12, 50):
+        d.ellipse([x - 5, 23, x + 5, 31], fill=K)
+    return obj(im, 4, 2)
+
+
+def tube_entrance():
+    im = new(32, 32)
+    d = ImageDraw.Draw(im)
+    d.rectangle([0, 14, 31, 31], fill=P['c3'], outline=K)
+    for y in range(18, 30, 4):
+        d.line([(4, y), (27, y)], fill=rgb('8a8a90'))
+    d.ellipse([8, 0, 23, 14], fill=rgb('d02828'))                         # the roundel
+    d.ellipse([11, 3, 20, 11], fill=P['wh'])
+    d.rectangle([6, 6, 25, 9], fill=P['eu'])
+    return Obj(im, ['##', '##'], ['11', '00'])
+
+
+def ferry_terminal():
+    o = T.building(6, 4, 'rg', 'wl', door_x=3, glass=True)
+    label(o.img, 'FERRIES', 48, 6, 'eu')
+    return o
+
+
+# ---------------------------------------------------------------- Budapest
+def szechenyi():
+    """The Széchenyi Thermal Bath (1913), where people play chess in the hot water."""
+    w, h = 9, 5
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    yellow = rgb('f0d070')
+    d.rectangle([0, 14, W - 1, H - 1], fill=yellow, outline=K)
+    d.chord([W // 2 - 18, 0, W // 2 + 18, 30], 180, 360, fill=rgb('5a8a7a'), outline=K)   # dome
+    for x in range(6, W - 8, 12):
+        d.rectangle([x, 22, x + 6, 36], fill=P['gl3'], outline=K)
+        d.pieslice([x, 18, x + 6, 26], 180, 360, fill=P['gl3'])
+    d.rectangle([4, H - 30, W - 5, H - 1], fill=P['w1'], outline=K)        # the steaming outdoor pool
+    for x in range(10, W - 10, 14):
+        d.arc([x, H - 26, x + 6, H - 18], 200, 340, fill=P['w3'])
+    return obj(im, w, h)
+
+
+def bridge_tower():
+    """A pier of the Chain Bridge (1849), the first permanent bridge between Buda and Pest."""
+    im = new(48, 64)
+    d = ImageDraw.Draw(im)
+    stone = rgb('d8ccb0')
+    d.rectangle([2, 10, 45, 63], fill=stone, outline=K)
+    d.rectangle([14, 30, 33, 63], fill=rgb('5a5a64'))
+    d.pieslice([14, 20, 33, 40], 180, 360, fill=rgb('5a5a64'))
+    d.rectangle([0, 6, 47, 12], fill=stone, outline=K)
+    for x in (4, 40):
+        d.line([(x, 6), (x - 4 if x < 24 else x + 4, 0)], fill=K, width=2)  # the chains
+    return Obj(im, ['...', '#.#', '#.#', '#.#'], ['111', '000', '000', '000'])
+
+
+def lion():
+    """The stone lions guarding the Chain Bridge."""
+    im = new(32, 32)
+    d = ImageDraw.Draw(im)
+    d.rectangle([2, 22, 29, 31], fill=P['c3'], outline=K)
+    d.ellipse([4, 10, 24, 24], fill=rgb('c8bca0'), outline=K)
+    d.ellipse([16, 4, 30, 18], fill=rgb('b8ac90'), outline=K)
+    d.ellipse([20, 8, 28, 15], fill=rgb('c8bca0'))
+    return Obj(im, ['##', '##'], ['11', '00'])
+
+
+def fishermans_bastion():
+    """Fisherman's Bastion on Buda's Castle Hill: seven turrets for the seven Magyar tribes."""
+    w, h = 7, 4
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    white = rgb('f0ece0')
+    d.rectangle([0, 28, W - 1, H - 1], fill=white, outline=K)
+    for k in range(7):
+        x = 4 + k * 15
+        d.rectangle([x, 14, x + 10, 30], fill=white, outline=K)
+        d.polygon([(x - 1, 15), (x + 5, 2), (x + 11, 15)], fill=rgb('8a6a50'), outline=K)
+    for x in range(6, W - 6, 10):
+        d.arc([x, 34, x + 8, 50], 180, 360, fill=K)
+    return obj(im, w, h)
+
+
+def ruin_bar():
+    """A ruin bar (romkocsma): an old courtyard building turned into a bar, fairy lights and odd furniture."""
+    o = T.building(5, 4, 'rg', 'br', door_x=2)
+    d = ImageDraw.Draw(o.img)
+    for x in range(2, 78, 6):
+        d.point((x, 34 + (x // 6) % 2), fill=(P['fy'], P['fr'], P['fb'])[x % 3])
+    d.line([(10, 40), (20, 50)], fill=K)                                 # cracks in the plaster
+    d.line([(60, 38), (66, 46)], fill=K)
+    return o
+
+
+def shoes_memorial():
+    """Shoes on the Danube Bank (2005): iron shoes in memory of the Jews shot into the river in 1944-45."""
+    im = new(48, 16)
+    d = ImageDraw.Draw(im)
+    for x in range(2, 46, 7):
+        d.rectangle([x, 8 + (x % 3), x + 5, 11 + (x % 3)], fill=rgb('6a6a70'), outline=K)
+    return Obj(im, ['###'])
+
+
+# ---------------------------------------------------------------- Paris
+def notre_dame():
+    """Notre-Dame de Paris, reopened on 7 December 2024 after the 2019 fire."""
+    w, h = 7, 7
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    stone = rgb('e0d8c4')
+    for x0 in (2, W - 32):
+        d.rectangle([x0, 0, x0 + 29, H - 1], fill=stone, outline=K)       # the two towers
+        for y in (8, 22):
+            d.rectangle([x0 + 8, y, x0 + 12, y + 10], fill=rgb('4a4a58'))
+            d.rectangle([x0 + 17, y, x0 + 21, y + 10], fill=rgb('4a4a58'))
+    d.rectangle([30, 26, W - 31, H - 1], fill=stone, outline=K)
+    d.ellipse([W // 2 - 12, 34, W // 2 + 12, 58], fill=rgb('5a6aa0'), outline=K)   # rose window
+    d.rectangle([2, 62, W - 3, 66], fill=rgb('c8bca8'), outline=K)          # gallery of kings
+    for x in range(4, W - 4, 4):
+        d.point((x, 64), fill=K)
+    for x in (14, W // 2 - 7, W - 26):
+        d.rectangle([x, H - 22, x + 12, H - 1], fill=rgb('5a4a3a'), outline=K)
+        d.pieslice([x, H - 28, x + 12, H - 16], 180, 360, fill=rgb('5a4a3a'))
+    return obj(im, w, h)
+
+
+def bouquiniste():
+    """A bouquiniste's green box on the Seine quays: second-hand books since the 16th century."""
+    im = new(32, 16)
+    d = ImageDraw.Draw(im)
+    d.rectangle([1, 2, 30, 13], fill=rgb('2a6a4a'), outline=K)
+    d.rectangle([1, 0, 30, 3], fill=rgb('1e5a3c'), outline=K)
+    for x in range(4, 28, 3):
+        d.rectangle([x, 5, x + 1, 11], fill=(P['fr'], P['fy'], P['wh'], P['fb'])[x % 4])
+    return Obj(im, ['##'])
+
+
+def quai_orsay():
+    """The French Foreign Ministry on the Quai d'Orsay; in its Salon de l'Horloge, Robert Schuman read his
+    declaration on 9 May 1950."""
+    w, h = 8, 5
+    im = new(w * 16, h * 16)
+    d = ImageDraw.Draw(im)
+    W, H = w * 16, h * 16
+    stone = rgb('ece4d0')
+    d.rectangle([0, 8, W - 1, H - 1], fill=stone, outline=K)
+    d.rectangle([0, 4, W - 1, 10], fill=rgb('7a8898'), outline=K)         # mansard roof
+    for y in (16, 36):
+        for x in range(6, W - 6, 11):
+            d.rectangle([x, y, x + 6, y + 12], fill=P['gl3'], outline=K)
+    d.ellipse([W // 2 - 6, 12, W // 2 + 6, 24], fill=P['wh'], outline=K)  # the clock
+    d.line([(W // 2, 18), (W // 2, 14)], fill=K)
+    door(d, W // 2 - 7, H - 16, False, 14)
+    for x in (W // 2 - 20, W // 2 + 14):                                  # French and EU flags
+        d.rectangle([x, 26, x + 6, 30], fill=P['eu2'])
+    return obj(im, w, h, [(4, h - 1)])
+
+
+def boulangerie():
+    o = T.building(5, 4, 'rb', 'wl', door_x=2)
+    d = ImageDraw.Draw(o.img)
+    d.rectangle([46, 40, 74, 50], fill=rgb('2a4a6a'), outline=K)          # shop sign with a baguette
+    d.line([(50, 45), (70, 45)], fill=rgb('e0b060'), width=3)
+    return o
+
+
 # ---------------------------------------------------------------- ECB studio
 def intaglio_press():
     im = new(48, 32)
@@ -691,3 +1136,37 @@ def register():
     O['ancient_wall'] = ancient_wall()
     O['frieze_real'] = frieze(True)
     O['frieze_cast'] = frieze(False)
+    for i in range(3):
+        O[f'guild_{i}'] = guild_house(i)
+    O['town_hall'] = town_hall()
+    O['manneken'] = manneken()
+    O['fritkot'] = fritkot()
+    O['waffle_stand'] = waffle_stand()
+    O['comic_wall'] = comic_wall()
+    O['galeries'] = galeries()
+    O['court_auditors'] = court_auditors()
+    O['ducal_palace'] = ducal_palace()
+    O['casemates'] = casemates()
+    O['gelle_fra'] = gelle_fra()
+    O['tram_stop'] = tram_stop()
+    O['fair_stand'] = fair_stand()
+    O['cathedral'] = cathedral()
+    O['fachwerk_stork'] = fachwerk_stork()
+    O['bridge_tower_ill'] = covered_bridge_tower()
+    O['palais_europe'] = palais_europe()
+    O['british_museum'] = british_museum()
+    O['phone_box'] = phone_box()
+    O['bus'] = double_decker()
+    O['campaign_bus'] = double_decker(True)
+    O['tube'] = tube_entrance()
+    O['ferry_terminal'] = ferry_terminal()
+    O['szechenyi'] = szechenyi()
+    O['chain_tower'] = bridge_tower()
+    O['lion'] = lion()
+    O['bastion'] = fishermans_bastion()
+    O['ruin_bar'] = ruin_bar()
+    O['shoes'] = shoes_memorial()
+    O['notre_dame'] = notre_dame()
+    O['bouquiniste'] = bouquiniste()
+    O['quai_orsay'] = quai_orsay()
+    O['boulangerie'] = boulangerie()

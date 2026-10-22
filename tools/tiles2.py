@@ -185,7 +185,7 @@ def cjue():
     for x in range(8, W - 8, 12):
         d.rectangle([x, H - 40, x + 4, H - 20], fill=P['gl0'])
     door(d, W // 2 - 7, H - 16, True, 14)
-    label(im, 'COUR DE JUSTICE', W // 2, H - 47)
+    label(im, 'COURT OF JUSTICE', W // 2, H - 47)
     return Obj(im, beh_grid(w, h, [(5, h - 1)]), None, [(5, h - 1)])
 
 

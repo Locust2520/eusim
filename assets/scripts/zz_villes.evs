@@ -1,0 +1,479 @@
+# City extensions: Brussels (Grand-Place), Luxembourg (Ville-Haute, Bock), Strasbourg (Grande Île, Petite France,
+# Council of Europe), London (British Museum, ferry terminal), Budapest (baths, Chain Bridge, Buda), Paris (Quai d'Orsay,
+# the Seine, Notre-Dame), smaller additions elsewhere, and the jury's twelve postcards.
+
+# ---------------------------------------------------------------- Brussels: the Grand-Place
+script bxl_town_hall
+  say - "Brussels Town Hall, built in the 15th century. On top of its 96-metre tower, Saint Michael slays the dragon."
+  say - "The Grand-Place around it is a UNESCO World Heritage site since 1998."
+end
+script bxl_guild_houses
+  say - "The guild houses: bakers, boatmen, brewers… each trade had its own house, gilded to show off its wealth."
+end
+script bxl_manneken
+  say - "Manneken-Pis: 55 centimetres of bronze. He owns more than a thousand costumes, kept in his own wardrobe museum."
+end
+script bxl_manneken_dresser
+  say "Official dresser" "Today he's dressed as… himself. Tomorrow, a fireman. Next week, an astronaut. It's a full-time job, dressing a statue."
+end
+script bxl_fritkot
+  say "Fritkot owner" "Real Belgian fries are fried twice: once to cook them, once to make them crisp."
+  say "Fritkot owner" "Hungry? Try a mitraillette: half a baguette, meat, sauce, and fries inside. Yes, inside."
+end
+script bxl_waffles
+  say "Waffle seller" "Brussels waffle: light, rectangular, dusted with sugar. Liège waffle: denser, with pearl sugar caramelised inside."
+  say "Waffle seller" "Choosing between them has divided families for generations. I sell both. Very diplomatic."
+end
+script bxl_comics
+  say - "Brussels walls are covered with dozens of comic-strip murals. Belgium takes its comics as seriously as its chocolate."
+end
+script bxl_galeries
+  say - "This way to the Galeries Royales Saint-Hubert (1847), one of the oldest covered shopping arcades in Europe."
+  say - "In 1912, in these arcades, the chocolatier Jean Neuhaus invented the filled chocolate: the praline."
+end
+script bxl_bilingual
+  say - "Grand-Place / Grote Markt. In Brussels, every street name is written in French and Dutch: the capital region is officially bilingual."
+  say - "Belgium has three official languages: Dutch, French and German."
+end
+script bxl_une_fois
+  say "Brussels native" "Allez, une fois! That's how they imagine we talk in Brussels. And, well… sometimes we do."
+end
+script bxl_flower_carpet
+  if flag TAPIS_DONE goto again
+  say "Gardener" "Every two years in August, a carpet of begonias covers the Grand-Place. The first one was laid in 1971."
+  say "Gardener" "Hundreds of thousands of flowers, laid by hand in a few hours. I'm one volunteer short. Will you plant with me?"
+  goto play
+:again
+  ask "Gardener" "Another carpet? The begonias are waiting."
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame tapis
+  if var RESULT == 0 goto wilted
+  if flag TAPIS_DONE goto good
+  setflag TAPIS_DONE
+  say "Gardener" "Magnificent! Even the guild houses look jealous. Here, from the city."
+  giveitem super_tampon 2
+  money 1500
+  goto fin
+:good
+  say "Gardener" "Another masterpiece. In a few days the flowers will be gone, but the photos will stay."
+  goto fin
+:wilted
+  say "Gardener" "The pattern got a bit… abstract. Magritte would have liked it."
+:fin
+end
+
+# ---------------------------------------------------------------- Luxembourg: the Ville-Haute and the Bock
+script lux_red_bridge
+  say - "The Grand Duchess Charlotte Bridge, nicknamed the Red Bridge, links the old town to the Kirchberg plateau, high above the Alzette valley."
+end
+script lux_palace
+  say - "The Grand Ducal Palace, in the heart of the old town. Luxembourg is the only grand duchy left in the world."
+end
+script lux_palace_guard
+  say "Guard" "…"
+  say - "The guard marches eight steps, turns, marches eight steps back. It's very relaxing to watch."
+end
+script lux_auditors
+  say - "The European Court of Auditors: the EU's financial watchdog. It checks how European money is spent, euro by euro."
+  say - "On one of the finalist designs for the next banknotes, it appears on the back of the 200 euro note."
+end
+script lux_tram
+  say - "Since 29 February 2020, all public transport in Luxembourg is free: buses, trams, trains. The first country in the world to do it."
+end
+script lux_gelle_fra
+  say - "The Gëlle Fra, the golden lady of the Monument of Remembrance, honours the Luxembourgers who fell in the world wars."
+  say - "The occupying forces tore it down in 1940; it was fully restored and set back on its column in 1985."
+end
+script lux_schueberfouer
+  say "Stallholder" "The Schueberfouer! A funfair since 1340, founded by John the Blind, Count of Luxembourg. Every year at the end of summer."
+end
+script lux_moien
+  say "Luxembourger" "Moien! That's hello in Luxembourgish. Here we have three administrative languages: Luxembourgish, French and German."
+  say "Luxembourger" "Most of us switch between them in the same sentence. Sometimes English sneaks in too."
+end
+script lux_casemates_motto
+  say - "On a wall: “Mir wëlle bleiwe wat mir sinn” (“We want to remain what we are”), the national motto."
+end
+script lux_casemates_guide
+  if flag CASEMATES_DONE goto again
+  say "Guide" "Welcome to the Bock casemates: 17 kilometres of tunnels dug into the rock, part of a UNESCO World Heritage site."
+  say "Guide" "During the bombings of the Second World War, up to 35,000 people sheltered here."
+  say "Guide" "A visitor got lost in the dark galleries with my last torch. Can you find the way out and bring him back?"
+  goto play
+:again
+  ask "Guide" "Another tour of the galleries?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame casemates
+  if var RESULT == 0 goto lost
+  if flag CASEMATES_DONE goto good
+  setflag CASEMATES_DONE
+  say "Guide" "Both of you out in one piece! The fortress was called the “Gibraltar of the North”. Take this for your trouble."
+  giveitem x_diplomatie 2
+  goto fin
+:good
+  say "Guide" "You know the galleries better than the soldiers of 1700."
+  goto fin
+:lost
+  say "Guide" "The torch went out… Don't worry, I know the way. Let's try again."
+:fin
+end
+
+# ---------------------------------------------------------------- Strasbourg
+script stras_pont_europe
+  say - "The Pont de l'Europe crosses the Rhine. On the other side: Kehl, in Germany. Since 2017 a tram even crosses the border."
+end
+script stras_tram_kehl
+  say "Commuter" "I live in Kehl and work in Strasbourg. Every morning I change country in four minutes. Nobody checks my passport."
+end
+script stras_councils
+  say - "Here sits the Council of Europe, founded in 1949: 46 member states, and the European Court of Human Rights. It is not part of the EU."
+  say - "Don't mix it up with the European Council (the EU heads of state and government) or the Council of the EU (the ministers). Even journalists do."
+  say - "The blue flag with twelve gold stars was first adopted by the Council of Europe, in 1955. The EU took it up later."
+end
+script stras_suttner
+  say - "A portrait of Bertha von Suttner (1843–1914), author of the novel “Lay Down Your Arms!” and the first woman to receive the Nobel Peace Prize, in 1905."
+  say - "She is the 200 euro figure of the ECB's “European culture” finalist designs."
+  call card_suttner
+end
+script stras_ode_to_joy
+  say "Usher" "Europe's anthem is the prelude to the “Ode to Joy”, from Beethoven's Ninth Symphony. The Council of Europe adopted it in 1972, the EU in 1985."
+  say "Usher" "It has no official words: in Europe, we all hum it in the same language."
+  call card_beethoven
+end
+script stras_spire
+  say - "The cathedral's spire rises to 142 metres. From 1647 to 1874, it was the tallest building in the world."
+end
+script stras_clock
+  say - "The astronomical clock. Its mechanism dates from 1842. Every day at half past twelve, the twelve apostles parade before Christ."
+end
+script stras_cathedral_guide
+  say "Guide" "The cathedral is built of pink sandstone from the Vosges. That's why it blushes at sunset."
+end
+script stras_christkindel
+  say "Stallholder" "The Christkindelsmärik has been held here since 1570: one of the oldest Christmas markets in Europe."
+end
+script stras_winstub
+  say "Winstub cook" "Flammekueche! Thin dough, cream, onions, bacon, baked in a wood oven in two minutes. In French they say tarte flambée."
+end
+script stras_oaths
+  say - "The Oaths of Strasbourg, sworn here in 842 by two grandsons of Charlemagne, are among the oldest texts in Old French and Old High German."
+  say - "Each king swore in the other's language, so that the other's army could understand. Interpreting has a long history here."
+end
+script stras_storks
+  if flag CIGOGNES_DONE goto again
+  say "Ornithologist" "The white stork is the emblem of Alsace. In 1974 only nine pairs were left in the region."
+  say "Ornithologist" "Thanks to a reintroduction programme, there are several hundred pairs today. And the white stork is on a finalist design for the 50 euro note!"
+  call card_stork
+  say "Ornithologist" "The new arrivals are looking for their nests. Can you guide them, away from the power lines?"
+  goto play
+:again
+  ask "Ornithologist" "More storks are coming in. Guide them again?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame cigognes
+  if var RESULT == 0 goto lost
+  if flag CIGOGNES_DONE goto good
+  setflag CIGOGNES_DONE
+  say "Ornithologist" "Every couple is home! Here, for the stork protection fund… I mean, for you."
+  giveitem pierre_solaire 1
+  goto fin
+:good
+  say "Ornithologist" "The roofs of the Petite France are full of clattering beaks. That's the sound of spring here."
+  goto fin
+:lost
+  say "Ornithologist" "Some of them got tangled near the wires… They're fine, just a little vexed. Again?"
+:fin
+end
+
+# ---------------------------------------------------------------- London
+script lon_marbles
+  say - "Room 18: sculptures from the Parthenon in Athens, removed by Lord Elgin's agents between 1801 and 1812 and bought by the British Museum in 1816."
+  say - "Greece has asked for their return since 1983. In Athens, the Acropolis Museum keeps their places ready."
+end
+script lon_greek_visitor
+  say "Greek visitor" "I came all the way from Athens to see our marbles. Then I'll go back to the Acropolis Museum and look at the white copies of these."
+  say "Greek visitor" "One frieze, two cities. Maybe one day, one city again."
+end
+script lon_phone_box
+  say - "A red telephone box, the K6 model designed in 1935. Today some of them house defibrillators, others little libraries."
+end
+script lon_tube
+  say - "The London Underground opened in 1863: the first underground railway in the world. “Mind the gap!”"
+end
+script lon_erasmus
+  say "Student" "After Brexit, the UK left Erasmus. In December 2025 it agreed to rejoin from 2027. My little sister will get to study in Bologna!"
+end
+script lon_customs
+  if flag DOUANE_DONE goto again
+  say "Dutch customs officer" "Since 1 January 2021 the UK is outside the EU's customs and veterinary rules: travellers may no longer bring meat or dairy into the EU."
+  say "Dutch customs officer" "That month, my colleagues in Hook of Holland had to confiscate ham sandwiches. “Welcome to the Brexit, sir, I'm sorry.”"
+  say "Dutch customs officer" "The morning ferry is boarding. Help me check the lunchboxes?"
+  goto play
+:again
+  ask "Dutch customs officer" "Another ferry, another hundred lunchboxes. Help me again?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame douane
+  if var RESULT == 0 goto missed
+  if flag DOUANE_DONE goto good
+  setflag DOUANE_DONE
+  say "Dutch customs officer" "Not a single ham sandwich got through. Here, have a cheese-free, ham-free reward."
+  giveitem sandwich 5
+  money 1200
+  goto fin
+:good
+  say "Dutch customs officer" "Efficient and polite. You'd make a fine customs officer."
+  goto fin
+:missed
+  say "Dutch customs officer" "A salami crossed the Channel… The veterinary inspectors will want a word."
+:fin
+end
+script lon_trucker
+  say "Lorry driver" "Before Brexit I crossed with my lorry without stopping. Now: customs declarations, health certificates, checks. I've read more forms than novels."
+end
+script lon_campaign_bus
+  say - "A campaign bus. In 2016 its side promised £350 million a week for the National Health Service."
+  say - "In 2017 the head of the UK Statistics Authority called that figure a “clear misuse of official statistics”."
+end
+script lon_gannets
+  say "Birdwatcher" "Northern gannets dive into the sea at almost a hundred kilometres an hour. The largest colony in the world is on the Bass Rock, in Scotland."
+  say "Birdwatcher" "The ECB put one on a finalist design for the 200 euro note: open sea, wings folded, splash."
+  call card_gannet
+end
+
+# ---------------------------------------------------------------- Budapest
+script bud_chess
+  if flag ECHECS_DONE goto again
+  say "Chess player" "Széchenyi Thermal Bath, 1913: one of the largest medicinal baths in Europe. We play chess here, up to our shoulders in hot water."
+  say "Chess player" "Hungary gave the world Judit Polgár, the strongest woman player ever: grandmaster at fifteen, and she beat Kasparov in 2002."
+  say "Chess player" "Three positions, checkmate in one move each. Can you find them before the water gets cold?"
+  goto play
+:again
+  ask "Chess player" "New positions on the floating board. Another round?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame echecs
+  if var RESULT == 0 goto lost
+  if flag ECHECS_DONE goto good
+  setflag ECHECS_DONE
+  say "Chess player" "Three checkmates! You play like a grandmaster in a bathrobe. Take this."
+  giveitem x_expertise 3
+  goto fin
+:good
+  say "Chess player" "Checkmate, checkmate, checkmate. The steam makes you think faster."
+  goto fin
+:lost
+  say "Chess player" "The water got cold… Next time, look for the move that leaves the king nowhere to go."
+:fin
+end
+script bud_ruin_bar
+  say "Student" "Ruin bars: old courtyards of the former Jewish quarter, turned into bars with mismatched furniture. The first ones opened in the early 2000s."
+end
+script bud_ruin_barman
+  say "Barman" "Egészségedre! That's cheers in Hungarian. Try saying it after the second glass of fröccs: wine and soda water."
+end
+script bud_langos
+  say "Lángos seller" "Lángos: fried dough, garlic, sour cream and grated cheese. Not a diet. A tradition."
+end
+script bud_rubik
+  say "Child" "The Rubik's Cube was invented in Budapest in 1974 by Ernő Rubik, to teach space to his students. I've solved it in two minutes. Or one face of it."
+end
+script bud_shoes
+  say - "Shoes on the Danube Bank (2005). Sixty pairs of iron shoes remember the Jews of Budapest shot on this bank by Arrow Cross militiamen in 1944 and 1945, and thrown into the river."
+end
+script bud_chain_bridge
+  say - "The Chain Bridge, opened in 1849: the first permanent bridge between Buda and Pest, designed by the English engineer William Tierney Clark."
+  say - "Its stone lions have no tongues… as legend has it. Look closely."
+end
+script bud_bastion
+  say - "Fisherman's Bastion, on Castle Hill: seven towers, for the seven Magyar tribes who settled in the Carpathian Basin."
+end
+script bud_bee_eaters
+  say "Birdwatcher" "Bee-eaters! The most colourful birds of Europe. They dig their nests in sandy riverbanks and catch bees in flight."
+  say "Birdwatcher" "Hungary has some of the largest colonies. On the ECB's finalist designs, a colony of them decorates the 20 euro note."
+  call card_bee_eater
+end
+script bud_language
+  say "Linguist" "Hungarian is not related to its neighbours' languages: it belongs to the Uralic family, like Finnish and Estonian."
+  say "Linguist" "And the family name comes first: Rubik Ernő, Polgár Judit. Easy to remember, hard to pronounce."
+end
+script bud_biro
+  say - "László Bíró, born in Budapest, patented the modern ballpoint pen in 1938. In many countries a pen is still called a “biro”."
+end
+
+# ---------------------------------------------------------------- Paris
+script par_salon_horloge
+  say - "The Salon de l'Horloge. On 9 May 1950 at 6 p.m., Robert Schuman, French foreign minister, read a declaration here proposing to pool French and German coal and steel."
+  say - "It led to the European Coal and Steel Community in 1951, the first step of today's EU. Every 9 May is Europe Day."
+end
+script par_schuman_guide
+  if flag SCHUMAN_DONE goto again
+  say "Guide" "The archives have mixed up the pages of the declaration! The journalists are arriving. Can you put the sentences back in order?"
+  goto play
+:again
+  ask "Guide" "The pages are shuffled again. Help me?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame schuman
+  if var RESULT == 0 goto lost
+  if flag SCHUMAN_DONE goto good
+  setflag SCHUMAN_DONE
+  say "Guide" "Word for word! Mr Schuman would have shaken your hand. Take this, from the ministry."
+  giveitem ratification 1
+  goto fin
+:good
+  say "Guide" "Perfectly ordered. Europe will not be made all at once, but you're quick."
+  goto fin
+:lost
+  say "Guide" "Not quite… Remember: first peace, then concrete achievements, then coal and steel."
+:fin
+end
+script par_curie
+  say - "Marie Curie, born Maria Skłodowska in Warsaw, became the first woman professor at the Sorbonne in 1906. She won two Nobel Prizes, in physics and in chemistry."
+  say - "She is the 20 euro figure of the ECB's “European culture” finalist designs."
+  call card_curie
+end
+script par_baguette
+  say "Baker" "Since 2022 the craft of the French baguette is on UNESCO's list of intangible cultural heritage. Flour, water, salt, yeast. And a bit of patience."
+end
+script par_cafe
+  say "Customer" "Un café, s'il vous plaît! In Paris, a “café” is an espresso. If you want a big cup, you have to say so. Loudly."
+end
+script par_bouquiniste
+  say "Bouquiniste" "We have sold second-hand books on these quays since the 16th century. Hundreds of green boxes, along kilometres of the Seine."
+end
+script par_notre_dame
+  say - "Notre-Dame de Paris. Damaged by fire on 15 April 2019, it reopened on 7 December 2024 after five years of work."
+end
+script par_notre_dame_visitor
+  say "Visitor" "The new oak frame was cut by hand, like in the Middle Ages. Carpenters from all over Europe came to help."
+end
+
+# ---------------------------------------------------------------- smaller additions
+script r1_birder
+  say "Birdwatcher" "Some winters a wallcreeper comes down from the mountains to the cliffs of the Meuse valley. A grey bird with crimson wings, like a butterfly."
+  say "Birdwatcher" "It's the bird of the 5 euro note on the ECB's finalist designs: a mountain spring and a wallcreeper."
+  call card_wallcreeper
+end
+script r2_birder
+  say "Angler" "See that blue flash on the Moselle? A kingfisher. It dives from a branch and comes back up with a fish."
+  say "Angler" "On the ECB's finalist designs it's the bird of the 10 euro note, by a waterfall."
+  call card_kingfisher
+end
+script anv_birder
+  say "Birdwatcher" "Antwerp is Europe's second-largest port. And along the Scheldt, right next to the cranes, avocets nest in the nature reserves."
+  say "Birdwatcher" "Black and white, with an upturned bill: the bird of the 100 euro note on the ECB's finalist designs, at a river mouth."
+  call card_avocet
+end
+script var_curie
+  say "Warsaw resident" "Maria Skłodowska, Marie Curie, was born here in Warsaw, in 1867. She named the element polonium after her country."
+  say "Warsaw resident" "Our Old Town was razed in 1944 and rebuilt stone by stone: it has been on UNESCO's list since 1980."
+end
+script rome_leonardo
+  say "Guide" "Leonardo da Vinci lived in Rome from 1513 to 1516, at the Vatican, before leaving for France."
+  say "Guide" "He is the 100 euro figure of the ECB's “European culture” finalist designs."
+  call card_leonardo
+end
+script lis_article50
+  say "Professor" "The Treaty of Lisbon, signed here in 2007, created Article 50: the procedure to leave the EU. The UK was the first to use it."
+  say "Professor" "Also from Lisbon: the pastéis de nata, after the recipe of the Jerónimos monks. Much more popular than Article 50."
+end
+script piree_cervantes
+  say "Old sailor" "In 1571 the Battle of Lepanto was fought in the Gulf of Patras, here in Greece. A young Spanish soldier lost the use of his left hand there."
+  say "Old sailor" "His name was Miguel de Cervantes. He went on to write Don Quixote. He's the 50 euro figure of the ECB's culture designs!"
+  call card_cervantes
+end
+
+# ---------------------------------------------------------------- the jury's twelve postcards
+# Each motif of the finalist designs is waiting somewhere in Europe. Collect all twelve for Eleni, in the ECB studio.
+script card_callas
+  if flag CARD_CALLAS goto fin
+  setflag CARD_CALLAS
+  call card_got
+:fin
+end
+script card_beethoven
+  if flag CARD_BEETHOVEN goto fin
+  setflag CARD_BEETHOVEN
+  call card_got
+:fin
+end
+script card_curie
+  if flag CARD_CURIE goto fin
+  setflag CARD_CURIE
+  call card_got
+:fin
+end
+script card_cervantes
+  if flag CARD_CERVANTES goto fin
+  setflag CARD_CERVANTES
+  call card_got
+:fin
+end
+script card_leonardo
+  if flag CARD_LEONARDO goto fin
+  setflag CARD_LEONARDO
+  call card_got
+:fin
+end
+script card_suttner
+  if flag CARD_SUTTNER goto fin
+  setflag CARD_SUTTNER
+  call card_got
+:fin
+end
+script card_wallcreeper
+  if flag CARD_WALLCREEPER goto fin
+  setflag CARD_WALLCREEPER
+  call card_got
+:fin
+end
+script card_kingfisher
+  if flag CARD_KINGFISHER goto fin
+  setflag CARD_KINGFISHER
+  call card_got
+:fin
+end
+script card_bee_eater
+  if flag CARD_BEE_EATER goto fin
+  setflag CARD_BEE_EATER
+  call card_got
+:fin
+end
+script card_stork
+  if flag CARD_STORK goto fin
+  setflag CARD_STORK
+  call card_got
+:fin
+end
+script card_avocet
+  if flag CARD_AVOCET goto fin
+  setflag CARD_AVOCET
+  call card_got
+:fin
+end
+script card_gannet
+  if flag CARD_GANNET goto fin
+  setflag CARD_GANNET
+  call card_got
+:fin
+end
+script card_got
+  sfx STAR
+  say - "In a corner, a postcard stamped by the ECB's design jury: one of the twelve motifs of the future banknotes. You keep it."
+  special album
+end

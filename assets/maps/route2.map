@@ -148,7 +148,8 @@ events
   npc r2_t3 agriculteur 42 10 left still r2_t3 trainer=r2_vigneron range=4
   item 24 12 sandwich ITEM_R2A
   sign 3 8 r2_sign
-  warp 0 9 luxembourg 38 13 left
-  warp 0 10 luxembourg 38 14 left
+  npc r2_angler agriculteur 20 13 down still r2_birder
+  warp 0 9 luxembourg 58 13 left
+  warp 0 10 luxembourg 58 14 left
   warp 49 9 francfort 1 13 right
   warp 49 10 francfort 1 14 right

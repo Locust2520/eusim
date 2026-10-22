@@ -168,5 +168,6 @@ events
   npc vance vance 16 11 down still anvers_vance trainer=vance_t range=3
   npc rutte rutte 24 12 left still anvers_rutte
   npc trump trump 13 8 down still anvers_trump hide=TRUMP_DONE
+  npc anv_birder militant 32 11 up still anv_birder
   door 7 15 gare_anvers 6 6 up
   onload cine_anvers

@@ -46,6 +46,9 @@ void game_main(void)
 #if SCEN == 21
     { extern int minigame_run(int); minigame_run(12); minigame_run(11); }
 #endif
+#if SCEN == 38
+    { extern void note_ending(void); note_ending(); }
+#endif
 #if SCEN == 34
     { extern int minigame_run(int); minigame_run(QGAME); }
 #endif

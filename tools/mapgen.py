@@ -187,7 +187,7 @@ def gare(city, label, outdoor, door):
 
 # ---------------------------------------------------------------- BRUXELLES
 def build_bruxelles():
-    m = add(M('bruxelles', "Brussels – European Quarter", 44, 36, 'grass', 'bruxelles', 'outdoor', 'none', 'bruxelles'))
+    m = add(M('bruxelles', "Brussels – European Quarter", 44, 56, 'grass', 'bruxelles', 'outdoor', 'none', 'bruxelles'))
     m.border_trees(gaps=[('e', 16, 4)])
     # main avenues
     m.rect('road', 2, 16, 42, 2)
@@ -297,7 +297,28 @@ def build_bruxelles():
     m.ev('item 5 31 tampon ITEM_BXL1').ev('item 40 29 cafe ITEM_BXL2')
     m.ev('trigger 42 16 1 2 bxl_exit_block ifnot=GOT_STARTER')
     m.ev('warp 43 16 route1 1 9 right').ev('warp 43 17 route1 1 10 right')
+    extend_bruxelles(m)
     return m
+
+
+def extend_bruxelles(m):
+    """South of the European Quarter: the Grand-Place and the Ilot Sacré (rows 34+ were the old tree border)."""
+    m.rect('path', 22, 32, 4, 6)
+    m.rect('pave', 4, 38, 36, 15)
+    m.obj('guild_0', 6, 38).obj('guild_1', 9, 38).obj('town_hall', 18, 38).obj('guild_1', 25, 38).obj('guild_0', 28, 38)
+    m.obj('guild_1', 31, 38)
+    m.ev('sign 19 45 bxl_town_hall').ev('sign 20 45 bxl_town_hall').ev('sign 7 43 bxl_guild_houses')
+    m.obj('manneken', 36, 44).ev('sign 36 45 bxl_manneken')
+    m.npc('bxl_dresser', 'fonctionnaire_f', 37, 46, 'left', 'still', 'bxl_manneken_dresser')
+    m.obj('fritkot', 6, 47).npc('bxl_frites', 'cantiniere', 8, 48, 'left', 'still', 'bxl_fritkot')
+    m.obj('waffle_stand', 32, 48).npc('bxl_gaufre', 'vendeur', 34, 49, 'left', 'still', 'bxl_waffles')
+    m.obj('comic_wall', 12, 50).ev('sign 13 51 bxl_comics').ev('sign 14 51 bxl_comics')
+    m.rect('sign', 24, 50).ev('sign 24 50 bxl_galeries')
+    m.rect('sign', 21, 46).ev('sign 21 46 bxl_bilingual')
+    m.npc('bxl_gardener', 'agriculteur', 16, 46, 'down', 'still', 'bxl_flower_carpet')
+    m.npc('bxl_belgian', 'mamie', 28, 46, 'down', 'still', 'bxl_une_fois')
+    m.rect('flowers_r', 12, 44, 3, 1).rect('flowers_y', 26, 44, 2, 1)
+
 
 
 # ---------------------------------------------------------------- ROUTE 1 (Ardennes)
@@ -314,6 +335,7 @@ def build_route1():
     m.npc('r1_fonc', 'fonctionnaire', 33, 6, 'down', 'still', 'r1_t2', trainer='r1_fonctionnaire', range=3)
     m.npc('r1_agri', 'agriculteur', 50, 10, 'left', 'still', 'r1_t3', trainer='r1_agriculteur', range=4)
     m.npc('r1_rando', 'touriste', 10, 12, 'up', 'wander', 'r1_rando')
+    m.npc('r1_birder', 'militant', 56, 6, 'down', 'still', 'r1_birder')
     m.ev('sign 3 8 r1_sign').ev('item 12 15 cafe ITEM_R1A').ev('item 46 3 tampon ITEM_R1B')
     m.ev('warp 0 9 bruxelles 42 16 left').ev('warp 0 10 bruxelles 42 17 left')
     m.ev('warp 59 9 luxembourg 1 13 right').ev('warp 59 10 luxembourg 1 14 right')
@@ -322,10 +344,10 @@ def build_route1():
 
 # ---------------------------------------------------------------- LUXEMBOURG
 def build_luxembourg():
-    m = add(M('luxembourg', "Luxembourg – Kirchberg Plateau", 40, 28, 'grass', 'luxembourg', 'outdoor', 'lux_parc',
+    m = add(M('luxembourg', "Luxembourg – Kirchberg Plateau", 60, 28, 'grass', 'luxembourg', 'outdoor', 'lux_parc',
               'luxembourg'))
     m.border_trees(gaps=[('w', 12, 4), ('e', 12, 4), ('s', 18, 4)])
-    m.rect('road', 0, 13, 40, 2).rect('pave', 0, 11, 40, 2).rect('pave', 0, 15, 40, 2)
+    m.rect('road', 0, 13, 60, 2).rect('pave', 0, 11, 60, 2).rect('pave', 0, 15, 60, 2)
     m.rect('pave', 18, 17, 4, 11)
     m.obj('cjue', 4, 3)              # door 9,9
     m.obj('arena_gold', 22, 4)       # door 25,8
@@ -362,8 +384,9 @@ def build_luxembourg():
     m.npc('lux_oliver', 'oliver', 26, 9, 'down', 'still', 'oliver_lux', hide='OLIVER_LUX_DONE', show='GOT_STARTER')
     m.ev('trigger 20 27 2 1 lux_schengen')
     m.ev('warp 0 13 route1 58 9 left').ev('warp 0 14 route1 58 10 left')
-    m.ev('trigger 39 13 1 2 lux_exit_block ifnot=BADGE_1')
-    m.ev('warp 39 13 route2 1 9 right').ev('warp 39 14 route2 1 10 right')
+    m.ev('trigger 59 13 1 2 lux_exit_block ifnot=BADGE_1')
+    m.ev('warp 59 13 route2 1 9 right').ev('warp 59 14 route2 1 10 right')
+    extend_luxembourg(m)
     m.ev('item 36 25 super_tampon ITEM_LUX1')
     # Schengen village (boat)
     s = add(M('schengen', "Schengen – Moselle Banks", 24, 16, 'grass', 'schengen', 'outdoor', 'schengen', 'luxembourg'))
@@ -379,6 +402,29 @@ def build_luxembourg():
     return m
 
 
+def extend_luxembourg(m):
+    """East of the Kirchberg: the Alzette valley under the Red Bridge, then the Ville-Haute and the Bock."""
+    m.rect('water', 41, 2, 3, 24).rect('dock', 41, 11, 3, 6)
+    m.rect('fence', 41, 10, 3, 1).rect('fence', 41, 17, 3, 1)
+    m.rect('sign', 40, 10).ev('sign 40 10 lux_red_bridge')
+    m.rect('pave', 44, 2, 14, 24)
+    m.obj('ducal_palace', 45, 2).ev('sign 48 5 lux_palace').ev('sign 49 5 lux_palace')
+    m.npc('lux_palace_guard', 'agent', 51, 6, 'down', 'still', 'lux_palace_guard')
+    m.obj('court_auditors', 52, 18).ev('sign 54 21 lux_auditors').ev('sign 55 21 lux_auditors')
+    m.obj('tram_stop', 45, 8).ev('sign 45 9 lux_tram').ev('sign 46 9 lux_tram')
+    m.obj('gelle_fra', 45, 18).ev('sign 45 21 lux_gelle_fra')
+    m.obj('casemates', 47, 21)        # door 49,23
+    m.npc('lux_casemate_guide', 'fonctionnaire', 51, 23, 'left', 'still', 'lux_casemates_guide')
+    m.obj('fair_stand', 54, 8).npc('lux_fair', 'vendeur', 56, 9, 'left', 'still', 'lux_schueberfouer')
+    m.npc('lux_moien', 'mamie', 50, 12, 'down', 'still', 'lux_moien')
+    cm = add(M('casemates_lux', "Bock Casemates – Entrance", 12, 9, 'dark', 'ghost', 'indoor', bg='080810'))
+    cmdx = interior_box(cm, 12, 9, 'd')
+    cm.rect('rock', 1, 3, 2, 3).rect('rock', 9, 3, 2, 3)
+    cm.ev('sign 6 2 lux_casemates_motto').ev('sign 5 2 lux_casemates_motto')
+    cm.npc('cm_guide', 'fonctionnaire', 6, 4, 'down', 'still', 'lux_casemates_guide')
+    link(m, 49, 23, cm, cmdx, 8)
+
+
 # ---------------------------------------------------------------- ROUTE 2 + FRANCFORT
 def build_route2():
     m = add(M('route2', "Route 2 – Moselle Valley", 50, 20, 'grass', 'route', 'outdoor', 'route2'))
@@ -391,7 +437,8 @@ def build_route2():
     m.npc('r2_t2', 'banquier', 30, 7, 'down', 'still', 'r2_t2', trainer='r2_banquier', range=3)
     m.npc('r2_t3', 'agriculteur', 42, 10, 'left', 'still', 'r2_t3', trainer='r2_vigneron', range=4)
     m.ev('item 24 12 sandwich ITEM_R2A').ev('sign 3 8 r2_sign')
-    m.ev('warp 0 9 luxembourg 38 13 left').ev('warp 0 10 luxembourg 38 14 left')
+    m.npc('r2_angler', 'agriculteur', 20, 13, 'down', 'still', 'r2_birder')
+    m.ev('warp 0 9 luxembourg 58 13 left').ev('warp 0 10 luxembourg 58 14 left')
     m.ev('warp 49 9 francfort 1 13 right').ev('warp 49 10 francfort 1 14 right')
     return m
 
@@ -533,10 +580,10 @@ def build_route3():
 
 # ---------------------------------------------------------------- STRASBOURG
 def build_strasbourg():
-    m = add(M('strasbourg', "Strasbourg – European Quarter", 40, 30, 'grass', 'strasbourg', 'outdoor', 'stras_parc',
+    m = add(M('strasbourg', "Strasbourg – European Quarter", 60, 50, 'grass', 'strasbourg', 'outdoor', 'stras_parc',
               'strasbourg'))
-    m.border_trees(gaps=[('n', 18, 4)])
-    m.rect('path', 18, 0, 4, 14).rect('pave', 0, 14, 40, 3).rect('water', 0, 24, 40, 3).rect('sand', 0, 23, 40, 1)
+    m.border_trees(gaps=[('n', 18, 4), ('e', 14, 4), ('w', 24, 3), ('e', 24, 3)])
+    m.rect('path', 18, 0, 4, 14).rect('pave', 0, 14, 56, 3).rect('water', 0, 24, 60, 3).rect('sand', 0, 23, 60, 1)
     m.obj('louise_weiss', 15, 3)     # wait: overlaps path; place at 24,3
     m.objects.pop()
     m.obj('louise_weiss', 24, 3)     # door 29,9
@@ -565,11 +612,56 @@ def build_strasbourg():
     m.npc('stras_malles', 'fonctionnaire', 20, 15, 'down', 'still', 'stras_malles')
     m.ev('sign 22 13 stras_sign')
     m.ev('warp 18 0 route3 9 48 up').ev('warp 19 0 route3 9 48 up').ev('warp 20 0 route3 10 48 up').ev('warp 21 0 route3 10 48 up')
+    extend_strasbourg(m)
     return m
 
 
+def extend_strasbourg(m):
+    """Across the river: the Grande Île and the Petite France; to the east, the Council of Europe and the Rhine."""
+    m.rect('dock', 18, 23, 4, 4).rect('fence_v', 17, 23, 1, 4).rect('fence_v', 22, 23, 1, 4)
+    m.rect('pave', 2, 27, 54, 21)
+    # the Palais de l'Europe (Council of Europe) and the Pont de l'Europe to Kehl
+    m.rect('pave', 40, 2, 16, 12)
+    m.obj('palais_europe', 42, 3)     # door 46,6
+    m.rect('water', 56, 0, 2, 23).rect('dock', 56, 14, 2, 3)
+    m.rect('sign', 55, 13).ev('sign 55 13 stras_pont_europe')
+    m.npc('stras_kehl', 'touriste', 52, 15, 'right', 'still', 'stras_tram_kehl')
+    ce = add(M('conseil_europe', "Palais de l'Europe – Council of Europe", 14, 9, 'carpet', 'council_hall', 'indoor', bg='101820'))
+    cedx = interior_box(ce, 14, 9, 'c')
+    ce.obj('flag', 2, 2).obj('flag', 11, 2).obj('podium', 6, 2)
+    ce.ev('sign 7 3 stras_councils').ev('sign 6 3 stras_councils')
+    ce.obj('bookshelf', 0, 1).ev('sign 0 2 stras_suttner')
+    ce.npc('ce_usher', 'fonctionnaire_f', 10, 5, 'left', 'still', 'stras_ode_to_joy')
+    link(m, 46, 6, ce, cedx, 8)
+    # the cathedral and its astronomical clock, the Christmas market
+    m.obj('cathedral', 6, 28)         # door 8,37
+    ct = add(M('cathedrale_stras', "Strasbourg Cathedral", 14, 12, 'marble', 'legend', 'indoor', bg='101820'))
+    ctdx = interior_box(ct, 14, 12, 'm')
+    ct.rect('red_carpet', ctdx, 3, 1, 8)
+    for y in (5, 7, 9):
+        ct.rect('bench_row', 2, y, 4, 1).rect('bench_row', 9, y, 4, 1)
+    ct.obj('cabinet', 11, 2).ev('sign 11 3 stras_clock').ev('sign 12 3 stras_clock')
+    ct.npc('ct_guide', 'fonctionnaire', 3, 3, 'down', 'still', 'stras_cathedral_guide')
+    link(m, 8, 37, ct, ctdx, 11)
+    m.rect('sign', 13, 37).ev('sign 13 37 stras_spire')
+    for i, x in enumerate((16, 20, 24, 28)):
+        m.obj(f'stall_{i % 2}', x, 30)
+    m.npc('stras_market', 'vendeur', 22, 33, 'down', 'still', 'stras_christkindel')
+    m.npc('stras_flamme', 'cantiniere', 18, 36, 'down', 'still', 'stras_winstub')
+    m.rect('sign', 14, 44).ev('sign 14 44 stras_oaths')
+    # the Petite France: half-timbered houses, storks, the covered bridges on the Ill
+    for i, x in enumerate((30, 34, 38, 42, 46)):
+        m.obj('fachwerk_stork' if i % 2 == 0 else f'fachwerk_{i % 3}', x, 28)
+    m.rect('water', 30, 38, 26, 3)
+    m.obj('bridge_tower_ill', 32, 35).obj('bridge_tower_ill', 46, 35)
+    m.rect('dock', 38, 38, 3, 3).rect('fence_v', 37, 38, 1, 3).rect('fence_v', 41, 38, 1, 3)
+    m.npc('stras_storks', 'militant', 44, 36, 'left', 'still', 'stras_storks')
+    m.rect('dossiers', 32, 42, 18, 4)
+
+
+
 # ---------------------------------------------------------------- generic train cities
-def city(cid, label, music, enc, landmark, lm_pos, arena, arena_pos, extra=None, w=40, h=28):
+def city(cid, label, music, enc, landmark, lm_pos, arena, arena_pos, extra=None, w=40, h=28, grass_x=None):
     m = add(M(cid, label, w, h, 'grass', music, 'outdoor', enc, cid if cid in
               ('paris', 'londres', 'athenes', 'budapest', 'anvers', 'varsovie', 'rome', 'lisbonne', 'maastricht') else None))
     m.border_trees()
@@ -582,7 +674,7 @@ def city(cid, label, music, enc, landmark, lm_pos, arena, arena_pos, extra=None,
         m.obj(landmark, *lm_pos)
     if arena:
         m.obj(arena, *arena_pos)
-    m.rect('dossiers', w - 12, 21, 8, 4)
+    m.rect('dossiers', w - 12 if grass_x is None else grass_x, 21, 8, 4)
     gare(cid, label.split(' – ')[0], m, (7, 19))
     cantine(cid, label.split(' – ')[0], m, (16, 19))
     boutique(cid, label.split(' – ')[0], m, (23, 19))
@@ -697,10 +789,12 @@ def build_athenes():
 def build_londres():
     def extra(m):
         m.obj('big_ben', 34, 2)
-        m.rect('water', 2, 24, 36, 2)
+        m.rect('water', 2, 24, 56, 4)
+        extend_londres(m)
         m.npc('lon_garde', 'agent', 20, 13, 'down', 'still', 'lon_garde')
         m.ev('sign 30 11 lon_sign')
-    m = city('londres', "London – Westminster", 'londres', 'lon_parc', 'westminster', (16, 2), 'arena_blue', (5, 4), extra)
+    m = city('londres', "London – Westminster", 'londres', 'lon_parc', 'westminster', (16, 2), 'arena_blue', (5, 4), extra,
+             w=60, h=40, grass_x=28)
     gym_room('gym_londres', "The Brexit Arms – Pub Arena", 'floor', 'farage', 'gym5_leader',
              [('hooligan', 'populo' if False else 'journaliste', 4, 8, 'right', 'still', 'gym5_t1', 'lon_tabloid', 4),
               ('johnson_g', 'johnson', 11, 5, 'left', 'still', 'gym5_johnson', 'lon_johnson', 3)],
@@ -710,10 +804,12 @@ def build_londres():
 
 def build_budapest():
     def extra(m):
-        m.rect('water', 2, 22, 36, 3)
+        m.rect('water', 2, 22, 56, 7)
+        extend_budapest(m)
         m.npc('bud_magyar', 'fonctionnaire', 30, 13, 'down', 'still', 'bud_magyar_npc')
         m.ev('sign 26 11 bud_sign')
-    m = city('budapest', "Budapest – Banks of the Danube", 'budapest', 'bud_parc', 'parliament_bud', (14, 2), None, None, extra)
+    m = city('budapest', "Budapest – Banks of the Danube", 'budapest', 'bud_parc', 'parliament_bud', (14, 2), None, None, extra,
+             w=60, h=44, grass_x=28)
     # Orbán's arena is inside the Parliament
     gym_room('gym_budapest', "Országház – Veto Hall", 'carpet_red', 'orban', 'gym6_leader',
              [('bud_t1', 'douanier', 4, 9, 'right', 'still', 'gym6_t1', 'bud_douanier', 4),
@@ -725,14 +821,104 @@ def build_budapest():
 def build_paris():
     def extra(m):
         m.obj('eiffel', 32, 2)
+        extend_paris(m)
         m.npc('par_mime', 'touriste', 24, 13, 'down', 'wander', 'par_touriste')
         m.ev('sign 12 11 par_sign')
-    m = city('paris', "Paris – Latin Quarter", 'paris', 'par_parc', 'sorbonne', (14, 2), None, None, extra)
+    m = city('paris', "Paris – Latin Quarter", 'paris', 'par_parc', 'sorbonne', (14, 2), None, None, extra,
+             w=60, h=44, grass_x=28)
     gym_room('gym_paris', "Great Amphitheatre of the Sorbonne", 'floor', 'macron', 'gym8_leader',
              [('par_t1', 'fonctionnaire_f', 4, 9, 'right', 'still', 'gym8_t1', 'par_enarque', 4),
               ('par_t2', 'depute', 11, 6, 'left', 'still', 'gym8_t2', 'par_ministre', 4)],
              m, (19, 6), deco=lambda g: [g.rect('bench_row', 2, y, 12, 1) for y in (5, 8, 11) if False])
     return m
+
+
+def extend_londres(m):
+    """Bloomsbury and the Thames: the British Museum, a Tube station, the ferry terminal across the river."""
+    m.rect('pave', 40, 2, 18, 22)
+    m.obj('british_museum', 44, 2)    # door 48,6
+    bm = add(M('british_museum_lon', "British Museum – Room 18", 14, 8, 'marble', 'legend', 'indoor', bg='101820'))
+    bmdx = interior_box(bm, 14, 8, 'm')
+    for x in (1, 3, 5, 8, 10):
+        bm.obj('frieze_real', x, 2)
+    bm.ev('sign 5 2 lon_marbles').ev('sign 6 2 lon_marbles').ev('sign 8 2 lon_marbles')
+    bm.npc('bm_visitor', 'touriste', 9, 4, 'up', 'still', 'lon_greek_visitor')
+    link(m, 48, 6, bm, bmdx, 7)
+    m.obj('phone_box', 54, 8).ev('sign 54 9 lon_phone_box')
+    m.obj('bus', 42, 16).obj('tube', 52, 16).ev('sign 52 17 lon_tube').ev('sign 53 17 lon_tube')
+    m.npc('lon_student', 'stagiaire', 47, 13, 'down', 'still', 'lon_erasmus')
+    # Westminster Bridge and the south bank
+    m.rect('dock', 18, 24, 4, 4).rect('fence_v', 17, 24, 1, 4).rect('fence_v', 22, 24, 1, 4)
+    m.rect('pave', 2, 28, 56, 10)
+    m.obj('ferry_terminal', 6, 29)    # door 9,32
+    ft = add(M('ferry_lon', "Ferry Terminal – EU Customs", 12, 8, 'tiles', 'londres', 'indoor', bg='101820'))
+    ftdx = interior_box(ft, 12, 8, 'q')
+    ft.rect('counter', 2, 3, 8, 1)
+    ft.npc('eu_customs', 'douanier', 6, 2, 'down', 'still', 'lon_customs')
+    ft.npc('ft_trucker', 'agriculteur', 9, 5, 'left', 'still', 'lon_trucker')
+    link(m, 9, 32, ft, ftdx, 7)
+    m.obj('campaign_bus', 26, 30).ev('sign 27 31 lon_campaign_bus').ev('sign 28 31 lon_campaign_bus')
+    m.npc('lon_birder', 'militant', 40, 29, 'down', 'still', 'lon_gannets')
+    m.rect('dossiers', 34, 33, 14, 3)
+
+
+def extend_budapest(m):
+    """Pest: the Széchenyi baths and a ruin bar; the Chain Bridge to Buda, Fisherman's Bastion."""
+    m.rect('pave', 40, 2, 18, 18)
+    m.obj('szechenyi', 42, 2)
+    m.npc('bud_chess', 'banquier', 50, 8, 'down', 'still', 'bud_chess')
+    m.obj('ruin_bar', 44, 13)         # door 46,16
+    m.npc('bud_ruin', 'stagiaire_f', 49, 15, 'left', 'still', 'bud_ruin_bar')
+    m.obj('stall_1', 53, 13).npc('bud_langos', 'cantiniere', 55, 15, 'down', 'still', 'bud_langos')
+    m.npc('bud_rubik', 'enfant', 41, 11, 'right', 'still', 'bud_rubik')
+    rb = add(M('ruin_bar_bud', "Ruin Bar – Budapest", 10, 8, 'floor', 'lobby', 'indoor', bg='101820'))
+    rbdx = interior_box(rb, 10, 8, 'o')
+    rb.rect('counter', 1, 3, 4, 1).obj('sofa', 6, 5).obj('plant', 9, 2)
+    rb.npc('rb_barman', 'vendeur', 2, 2, 'down', 'still', 'bud_ruin_barman')
+    link(m, 46, 16, rb, rbdx, 7)
+    m.rect('pave', 2, 20, 56, 2)
+    m.obj('shoes', 34, 21).ev('sign 34 21 bud_shoes').ev('sign 35 21 bud_shoes').ev('sign 36 21 bud_shoes')
+    # the Chain Bridge (clear of the shop door at 23,19)
+    m.rect('dock', 26, 22, 2, 7).rect('fence_v', 25, 22, 1, 7).rect('fence_v', 28, 22, 1, 7)
+    m.obj('lion', 24, 20).obj('lion', 29, 20)
+    m.ev('sign 24 21 bud_chain_bridge').ev('sign 29 21 bud_chain_bridge')
+    m.rect('pave', 2, 29, 56, 12)
+    m.obj('bastion', 6, 31)
+    m.ev('sign 9 34 bud_bastion').ev('sign 10 34 bud_bastion')
+    m.npc('bud_birder', 'militant', 30, 32, 'down', 'still', 'bud_bee_eaters')
+    m.npc('bud_linguist', 'fonctionnaire_f', 40, 33, 'left', 'still', 'bud_language')
+    m.rect('sign', 24, 31).ev('sign 24 31 bud_biro')
+    m.rect('dossiers', 44, 36, 12, 3)
+
+
+def extend_paris(m):
+    """The Quai d'Orsay (Schuman's Salon de l'Horloge), the Seine with its bouquinistes, Notre-Dame."""
+    m.rect('pave', 40, 2, 18, 22)
+    m.obj('quai_orsay', 44, 2)        # door 48,6
+    qo = add(M('salon_horloge', "Quai d'Orsay – Salon de l'Horloge", 14, 9, 'carpet_red', 'council_hall', 'indoor', bg='101820'))
+    qodx = interior_box(qo, 14, 9, 'R')
+    qo.obj('long_table', 2, 3).ev('sign 6 4 par_salon_horloge').ev('sign 7 4 par_salon_horloge')
+    qo.npc('qo_guide', 'fonctionnaire_f', 11, 6, 'left', 'still', 'par_schuman_guide')
+    link(m, 48, 6, qo, qodx, 8)
+    m.obj('boulangerie', 50, 16)      # door 52,19
+    bl = add(M('boulangerie_par', "Boulangerie – Paris", 10, 7, 'tiles', 'paris', 'indoor', bg='101820'))
+    bldx = interior_box(bl, 10, 7, 'q')
+    bl.rect('counter', 1, 3, 6, 1).obj('bookshelf', 8, 1)
+    bl.npc('par_baker', 'cantiniere', 3, 2, 'down', 'still', 'par_baguette')
+    link(m, 52, 19, bl, bldx, 6)
+    m.obj('cafe_table', 42, 18).obj('cafe_table', 45, 20)
+    m.npc('par_cafe', 'journaliste', 44, 19, 'down', 'still', 'par_cafe')
+    m.rect('sign', 13, 10).ev('sign 13 10 par_curie')
+    # the Seine and the Île de la Cité
+    m.rect('pave', 2, 27, 56, 3)
+    m.rect('water', 0, 30, 60, 4).rect('dock', 18, 30, 4, 4).rect('fence_v', 17, 30, 1, 4).rect('fence_v', 22, 30, 1, 4)
+    for x in (4, 7, 10, 25, 28, 31, 34):
+        m.obj('bouquiniste', x, 28)
+    m.npc('par_bouquiniste', 'vendeur', 13, 28, 'down', 'still', 'par_bouquiniste')
+    m.rect('pave', 2, 34, 56, 8)
+    m.obj('notre_dame', 30, 34).ev('sign 33 40 par_notre_dame').ev('sign 34 40 par_notre_dame')
+    m.npc('par_tourist2', 'touriste', 26, 38, 'right', 'look', 'par_notre_dame_visitor')
+    m.rect('dossiers', 4, 36, 12, 4)
 
 
 # ---------------------------------------------------------------- dungeons
@@ -793,6 +979,7 @@ def build_powers():
     a.npc('vance', 'vance', 16, 11, 'down', 'still', 'anvers_vance', trainer='vance_t', range=3)
     a.npc('rutte', 'rutte', 24, 12, 'left', 'still', 'anvers_rutte')
     a.npc('trump', 'trump', 13, 8, 'down', 'still', 'anvers_trump', hide='TRUMP_DONE')
+    a.npc('anv_birder', 'militant', 32, 11, 'up', 'still', 'anv_birder')
     gare('anvers', "Antwerp", a, (7, 15))
     v = add(M('varsovie', "Warsaw – Eastern Plain", 40, 28, 'snow', 'putin', 'outdoor', 'varsovie', 'varsovie'))
     v.border_trees(kind='pine')
@@ -801,6 +988,7 @@ def build_powers():
     v.obj('gare', 3, 16)
     v.npc('zelensky', 'zelensky', 18, 14, 'down', 'still', 'var_zelensky')
     v.npc('tusk', 'fonctionnaire', 12, 14, 'down', 'still', 'var_tusk')
+    v.npc('var_curie', 'mamie', 26, 14, 'down', 'still', 'var_curie')
     gare('varsovie', "Warsaw", v, (7, 20))
     hall = add(M('salle_table', "Palace – The Long Table", 24, 9, 'marble', 'putin', 'indoor', bg='101018'))
     hdx = interior_box(hall, 24, 9, 'm')
@@ -831,6 +1019,7 @@ def build_powers():
     p.npc('piree_busker', 'touriste', 49, 8, 'down', 'still', 'piree_busker')
     p.obj('taverna', 58, 8).obj('cafe_table', 57, 12).obj('cafe_table', 60, 12)
     p.npc('piree_fisher', 'agriculteur', 56, 13, 'right', 'still', 'piree_fisher')
+    p.npc('piree_sailor', 'mamie', 48, 13, 'down', 'still', 'piree_cervantes')
     p.rect('sign', 61, 5).ev('sign 61 5 piree_olympiacos')
     p.rect('sign', 52, 14).ev('sign 52 14 piree_ferries')
     p.rect('sign', 38, 14).ev('sign 38 14 piree_shipowners')
@@ -873,6 +1062,10 @@ def build_powers():
             m.obj('lamp', 11, 8).obj('lamp', 19, 8)
         m.obj('statue', sx, sy)
         m.ev(f'sign {sx} {sy + 2} {cid}_legend')
+        if cid == 'rome':
+            m.npc('rome_guide', 'fonctionnaire_f', 20, 14, 'left', 'still', 'rome_leonardo')
+        elif cid == 'lisbonne':
+            m.npc('lis_prof', 'banquier', 21, 10, 'left', 'still', 'lis_article50')
         gare(cid, lbl.split(' – ')[0], m, (6, 12))
 
 

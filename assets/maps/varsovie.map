@@ -155,6 +155,7 @@ objects
 events
   npc zelensky zelensky 18 14 down still var_zelensky
   npc tusk fonctionnaire 12 14 down still var_tusk
+  npc var_curie mamie 26 14 down still var_curie
   door 7 20 gare_varsovie 6 6 up
   door 28 8 salle_table 12 7 up
   onload cine_varsovie

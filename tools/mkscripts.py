@@ -84,7 +84,7 @@ ENGINE_TRAIN = ['bruxelles', 'luxembourg', 'francfort', 'strasbourg', 'athenes',
 SPECIALS = ['shop', 'pc', 'dex_rating', 'credits', 'name_rival', 'save', 'heal_anim', 'map_popup', 'sources',
             'set_heal_point', 'badge_case', 'ending', 'starter_choice', 'clock_check', 'move_tutor', 'game_corner',
             'title_return', 'unlock_postgame', 'greenland', 'gas_cut', 'rare_earth', 'restore_world', 'train',
-            'jukebox', 'note_studio', 'note_view', 'keypad']
+            'jukebox', 'note_studio', 'note_view', 'keypad', 'album']
 
 
 def name_hash(s):

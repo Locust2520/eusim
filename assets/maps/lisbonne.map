@@ -121,4 +121,5 @@ objects
   statue 15 8
 events
   sign 15 10 lisbonne_legend
+  npc lis_prof banquier 21 10 left still lis_article50
   door 6 12 gare_lisbonne 6 6 up

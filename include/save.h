@@ -72,7 +72,7 @@ typedef struct {
     u8 note_denom;    // 0..5: 5, 10, 20, 50, 100, 200 euros
     u8 note_theme;    // 0 European culture, 1 rivers and birds
     u8 note_source;   // 1 camera, 2 drawing, 3 official portrait
-    u8 note_pad;
+    u8 note_pad;      // bit 0: gold edition (all twelve jury postcards found)
     u32 note_serial;
     u8 note_px[NOTE_W * NOTE_H / 2];  // 4-bit darkness (0 = paper, 15 = ink), low nibble = left pixel
     u8 reserved[SAVE_EXTRA_SIZE - 16 - NOTE_W * NOTE_H / 2];
