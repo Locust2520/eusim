@@ -70,3 +70,9 @@ tour_fantome_3
 varsovie
 maison_maastricht
 maison_maastricht2
+apfelwein_ffm
+atelier_bce
+boerse_ffm
+geldmuseum_ffm
+goethe_ffm
+paulskirche_ffm

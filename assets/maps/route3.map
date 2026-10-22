@@ -52,6 +52,8 @@ legend
   @ seat
   $ money
   & cobweb
+  I sign
+  J sign_eu
 ground
   .........::.........
   .........::.........
@@ -172,7 +174,7 @@ events
   npc r3_t3 agriculteur 8 36 right still r3_t3 trainer=r3_viticulteur range=3
   item 4 44 gaufre ITEM_R3A
   item 15 2 x_argument ITEM_R3B
-  warp 9 0 francfort 19 26 up
-  warp 10 0 francfort 20 26 up
+  warp 9 0 francfort 19 44 up
+  warp 10 0 francfort 20 44 up
   warp 9 49 strasbourg 19 1 down
   warp 10 49 strasbourg 20 1 down

@@ -4,6 +4,7 @@
 int scene_title(void);              // 0 new, 1 continue, 2 options, 3 credits
 void loading_screen(int min_frames);
 bool keyboard_input(const char *prompt, char *out, size_t capacity, int maxlen);
+int keypad_code(int digits);             // door codes: the number typed, or -1 (B)
 void scene_options(bool in_game);
 void scene_credits(void);
 void scene_intro(void);             // new game intro (Prof. Schuman), sets name etc.

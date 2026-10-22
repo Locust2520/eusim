@@ -932,7 +932,9 @@ def build_registry():
     OBJECTS['boutique'] = building(5, 4, 'rb', 'wl', door_x=2, label='BOUTIQUE', label_col='eu')
     OBJECTS['office'] = building(7, 5, 'rg', 'wl', door_x=3, glass=True)
     import tiles2
+    import tiles3
     tiles2.register()
+    tiles3.register()
     _grade_all()
     return TILES, OBJECTS
 

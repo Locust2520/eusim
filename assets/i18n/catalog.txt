@@ -2105,3 +2105,181 @@
 2167	Join a local game
 2168	Unofficial parody · v1.0.1
 2169	FAKE
+2170	C
+2171	%d s · %d/%d
+2172	Raised lines on the edges: you can feel them.
+2173	The paper is smooth everywhere…
+2174	Feel
+2175	Look
+2176	Tilt
+2177	Check, then decide:
+2178	Genuine
+2179	Counterfeit
+2180	L/R: tilt · X: against the light · Y: feel
+2181	Feel, look, tilt
+2182	Before touching the printing plate, prove you can spot a fake! Check each note the ECB's way: FEEL 
+2183	the raised print, LOOK at it against the light, TILT it. Judge 10 notes, one mistake allowed.
+2184	It was %s: the raised print was missing.
+2185	It was %s: no watermark against the light.
+2186	It was %s: the number did not change colour.
+2187	a fake
+2188	It was a genuine note!
+2189	Not one fake got through! In the watermark you saw Europa, from a Greek vase over 2,000 years old.
+2190	A counterfeit slipped past… Feel, look, tilt: the three checks take only a few seconds.
+2191	The Bembel
+2192	In a Sachsenhausen tavern, pour apple wine from the Bembel into each glass up to the line! Hold the 
+2193	stylus (or A) to tilt the jug, let go to stop, then serve with the button. 8 glasses, 2 spills allowed.
+2194	Serve
+2195	Eight perfect glasses! Here in Frankfurt they call apple wine "Ebbelwoi".
+2196	Too many spilt glasses… The tavern keeper lends you a cloth.
+2197	Maria Callas
+2198	Ludwig van Beethoven
+2199	Marie Curie
+2200	Miguel de Cervantes
+2201	Leonardo da Vinci
+2202	Bertha von Suttner
+2203	street performers
+2204	a song festival
+2205	a school
+2206	a library
+2207	street art
+2208	a tree-lined square
+2209	a wallcreeper by a mountain spring
+2210	a kingfisher at a waterfall
+2211	bee-eaters in a river valley
+2212	a white stork by a meandering river
+2213	an avocet at a river mouth
+2214	a northern gannet over the sea
+2215	the European Parliament
+2216	the European Commission
+2217	the European Central Bank
+2218	the Court of Justice of the EU
+2219	the European Council and the Council of the EU
+2220	the European Court of Auditors
+2221	Front: your portrait, in place of %s
+2222	Back: %s
+2223	Front: %s
+2224	Specimen note – €%d
+2225	Not legal tender: this is a design specimen.
+2226	Front
+2227	L/R or tap: turn over · B: close
+2228	Light
+2229	Medium
+2230	Dark
+2231	Eraser
+2232	S
+2233	L
+2234	Undo
+2235	Clear
+2236	Done
+2237	Draw your portrait
+2238	The studio engraves it like a banknote portrait.
+2239	Your specimen note
+2240	European culture
+2241	Rivers and birds
+2242	Turn over
+2243	New portrait
+2244	Print the specimen
+2245	Printing…
+2246	Your portrait for the specimen
+2247	The DSi camera, the stylus or your official photo.
+2248	The stylus or your official photo.
+2249	Take a photo
+2250	Draw my portrait
+2251	Use my official photo
+2252	The camera cannot be used here. You can draw your portrait instead.
+2253	Your specimen note joined the collection of the Money Museum in Frankfurt.
+2254	In Frankfurt, the ECB studio is still keeping a blank specimen with your name on it.
+2255	Starting the camera…
+2256	Fit your face in the oval
+2257	A or tap: take the photo · L/R: other camera · B: back
+2258	Engraving test
+2259	Retake
+2260	Keep
+2261	Between us: the euro became cash, in people's pockets, in 2002. Some doors in this tower still remember that year.
+2262	The Euro sign by the artist Ottmar Hörl, unveiled in 2001 in front of the ECB's former tower.
+2263	A few weeks later, on 1 January 2002, euro notes and coins reached people's pockets in twelve countries.
+2264	Memorial at the Grossmarkthalle.
+2265	Between 1941 and 1945, about 10,000 Jewish men, women and children from Frankfurt and the region were deported from the cellar of this market hall to ghettos and camps. Most of them were murdered.
+2266	The City of Frankfurt, the Jewish Community and the ECB, whose headquarters now include the hall, created this memorial together.
+2267	The Römer, Frankfurt's town hall since 1405. In its Imperial Hall, newly crowned emperors of the Holy Roman Empire held their coronation banquets.
+2268	Half-timbered houses on the Römerberg. Bombing destroyed the old town in 1944; this row was rebuilt in the 1980s, beam by beam.
+2269	The Justice Fountain. Look closely: this Justitia holds her scales and her sword, but wears no blindfold.
+2270	They call this city “Mainhattan”: skyscrapers on the river Main. I've counted eleven cranes and four banks. Or the other way round.
+2271	In 1848 and 1849, the first freely elected parliament for all of Germany met in this church.
+2272	It wrote a constitution with fundamental rights. It never came into force, but later German constitutions drew on it.
+2273	Guide
+2274	The hall still has its big days: every October, the Peace Prize of the German Book Trade is awarded here.
+2275	The bull charges with its horns upwards: a rising market.
+2276	The bear swipes its paw downwards: a falling market.
+2277	The DAX board. Germany's best-known stock index was launched here in 1988.
+2278	Buy the rumour, sell the news. And never, ever sell your umbrella in April.
+2279	Johann Wolfgang von Goethe was born in this house on 28 August 1749. He worked on Faust for some sixty years.
+2280	His name now travels the world: the Goethe-Institut teaches German in nearly a hundred countries.
+2281	The Messeturm stands over the trade fair grounds. Every October they host the Frankfurt Book Fair, the largest book fair in the world.
+2282	Reader
+2283	I came for the Book Fair and stayed for the green sauce. I've read three books and eaten five sauces.
+2284	The Iron Footbridge across the Main, built in 1869. Thousands of padlocks hang on its railings: lovers' promises.
+2285	Couple
+2286	We locked our padlock on the bridge and threw the key into the Main. We still have to decide whose idea it was.
+2287	Frankfurter
+2288	On the other bank is Sachsenhausen. That's where we drink Ebbelwoi, apple wine. Nobody calls it cider here, mind you.
+2289	A pine wreath hangs over the door: the sign that this tavern presses and serves its own apple wine.
+2290	Landlady
+2291	Guten Abend! Apple wine is poured from the Bembel, the grey stoneware jug, into a Gerippte, the glass with the diamond pattern.
+2292	Tonight I have a full room and two hands. You fill the glasses, I'll carry them?
+2293	Fancy another round behind the counter?
+2294	Not a drop on my tables! Here, take this, and come back whenever you like.
+2295	Perfect again. You could open your own tavern. Just hang a pine wreath over the door.
+2296	Ach, the tables are swimming! Never mind, we'll mop up.
+2297	Regular
+2298	Handkäs mit Musik: sour-milk cheese marinated with onions. The music comes later. Don't ask.
+2299	Green sauce takes exactly seven herbs: borage, chervil, cress, parsley, salad burnet, sorrel and chives.
+2300	Since 2016 the EU protects “Frankfurter Grüne Soße” as a geographical indication. Seven herbs, no more, no less.
+2301	A real gold bar, 12.5 kilograms, that visitors are allowed to lift. Most manage a few centimetres.
+2302	From shells to coins, from coins to paper, from paper to the euro: three thousand years of money in a few shelves.
+2303	Curator
+2304	The Bundesbank is Germany's central bank. Since 1999 it has been part of the Eurosystem, with the ECB and the other central banks of the euro area.
+2305	I hear you have a specimen note with your face on it. When your adventure is over, we'd love it for our collection.
+2306	A portrait of Europa, the princess of Greek myth who gave her name to the continent.
+2307	Her face comes from a Greek vase more than 2,000 years old, kept at the Louvre. Hold a euro note up to the light: she's in the watermark.
+2308	Behind the frame, a small keypad glows. Four digits.
+2309	Type a code?
+2310	The keypad blinks red. Somewhere on the trading floor, someone sighs.
+2311	Click. The painting swings open onto a narrow staircase going down…
+2312	Go down to the secret studio?
+2313	A workshop full of easels, engraving tools and a heavy press. On the door: “Banknote design – confidential”.
+2314	Theme “European culture”: Maria Callas (€5), Ludwig van Beethoven (€10), Marie Curie (€20), Miguel de Cervantes (€50), Leonardo da Vinci (€100) and Bertha von Suttner (€200).
+2315	On the back: places where culture is shared. Street performers, a song festival, a school, a library, street art, a tree-lined square.
+2316	Theme “Rivers and birds”: from a mountain spring (€5) to the open sea (€200), with a wallcreeper, a kingfisher, bee-eaters, a white stork, an avocet and a northern gannet.
+2317	On the back: the EU institutions, from the European Parliament to the European Court of Auditors.
+2318	The ten finalist designs: EC145, EC564, EC617, EC799, EC915 and RB120, RB227, RB637, RB754, RB832.
+2319	The designers' names stay secret. After a public survey, the ECB's Governing Council makes the final choice.
+2320	An intaglio press. It pushes ink into the paper so hard that it stands in relief: that's the raised print you can feel on a real note.
+2321	Specifications: the same sizes as today's notes, one dominant colour per value, and on every note the European flag, a map of Europe and the signature of the ECB President.
+2322	Jury member
+2323	In 2025, more than 1,200 designers answered the ECB's call. Thirty-nine proposals reached the jury; ten are on these easels.
+2324	The aim is to replace imaginary bridges and windows with real people, real birds and real places.
+2325	Eleni
+2326	Kaliméra! I'm Eleni, intaglio engraver. I learnt the trade at the Bank of Greece printing works, in Athens.
+2327	Officially, the ECB doesn't print a single note: it designs them, and printing works across Europe produce them.
+2328	Right now we're preparing the next euro banknotes. In 2026 a jury shortlisted ten designs on two themes: European culture, and rivers and birds.
+2329	Before the final choice, I must test the engraving on a real face. Euro notes have never shown a living person… so yours will stay a specimen.
+2330	But nobody touches my plates without passing the test. Feel, look, tilt: show me you can tell a genuine note from a fake.
+2331	Ready?
+2332	Bravo! You have the eye of a central banker. Now, your portrait.
+2333	A new specimen? The press is still warm.
+2334	There you are, engraved! See the serial number? The first letter, Y, is the code of the Bank of Greece. My little signature.
+2335	Show it around. And save your game in Report, so that your note stays with you.
+2336	A fake got through. Feel, look, tilt: it only takes a few seconds. Come back when you're ready.
+2337	Take your time. A good engraving can't be rushed.
+2338	Apple-Wine Tavern – Sachsenhausen
+2339	ECB – Banknote Design Studio
+2340	Frankfurt Stock Exchange
+2341	Money Museum of the Bundesbank
+2342	Goethe House – Frankfurt
+2343	Paulskirche – Assembly Hall
+2344	Specimen Note
+2345	Your portrait, engraved at the ECB studio in Frankfurt. Not legal tender.
+2346	Apple-wine tavern, Sachsenhausen
+2348	Hold to tilt the Bembel, let go to stop. Serve when the apple wine reaches the line.

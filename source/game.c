@@ -46,6 +46,9 @@ void game_main(void)
 #if SCEN == 21
     { extern int minigame_run(int); minigame_run(12); minigame_run(11); }
 #endif
+#if SCEN == 34
+    { extern int minigame_run(int); minigame_run(QGAME); }
+#endif
 #if SCEN == 20
     { extern int minigame_run(int); int ids[5] = {9, 10, 5, 11, 12}; for (int i = 0; i < 5; i++) minigame_run(ids[i]); }
 #endif

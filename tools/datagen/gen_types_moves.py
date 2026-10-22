@@ -254,6 +254,7 @@ I = [
  ('directive_heure', "Clock Directive", 'key', 0, 0, "The directive ending the clock change (2019)."),
  ('malle_fer', "Iron Trunk", 'key', 0, 0, "A trunk from the Brussels–Strasbourg move."),
  ('etui_badges', "Badge Case", 'key', 0, 0, "Holds the treaty badges."),
+ ('billet_specimen', "Specimen Note", 'key', 0, 0, "Your portrait, engraved at the ECB studio in Frankfurt. Not legal tender."),
 ]
 items = [dict(zip(['id', 'name', 'kind', 'price', 'param', 'desc'], t)) for t in I]
 json.dump(items, open(os.path.join(D, 'items.json'), 'w'), ensure_ascii=False, indent=1)

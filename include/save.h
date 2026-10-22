@@ -57,6 +57,30 @@ typedef struct {
 
 extern SaveData g_save;
 
+// Optional block stored right after SaveData in the same slot (file, cartridge slot, browser record).
+// Saves made before it existed simply have none, and older game versions ignore it.
+// It holds the specimen banknote made in the ECB studio (Frankfurt).
+#define SAVE_EXTRA_SIZE 3072
+#define SAVE_EXTRA_MAGIC 0x424E4555u  // "UENB"
+#define SAVE_EXTRA_VERSION 1
+#define NOTE_W 64
+#define NOTE_H 80
+typedef struct {
+    u32 magic;
+    u16 version;
+    u16 checksum;
+    u8 note_denom;    // 0..5: 5, 10, 20, 50, 100, 200 euros
+    u8 note_theme;    // 0 European culture, 1 rivers and birds
+    u8 note_source;   // 1 camera, 2 drawing, 3 official portrait
+    u8 note_pad;
+    u32 note_serial;
+    u8 note_px[NOTE_W * NOTE_H / 2];  // 4-bit darkness (0 = paper, 15 = ink), low nibble = left pixel
+    u8 reserved[SAVE_EXTRA_SIZE - 16 - NOTE_W * NOTE_H / 2];
+} SaveExtra;
+
+extern SaveExtra g_save_extra;
+bool save_extra_present(const SaveExtra *e);   // magic, version and checksum all valid
+
 #define SAVE_SLOTS 3
 typedef struct {
     bool used;

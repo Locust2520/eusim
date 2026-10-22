@@ -206,3 +206,54 @@ bool keyboard_input(const char *prompt, char *out, size_t capacity, int maxlen)
             blink = -1;
     }
 }
+
+// ---------------------------------------------------------------- numeric keypad (door codes)
+// Returns the number typed (digits long), or -1 when cancelled with B.
+int keypad_code(int digits)
+{
+    static const char *const keys[12] = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "C", "0", "OK"};
+    char code[8] = {0};
+    int n = 0, sel = 0, result = -2;
+    digits = CLAMP(digits, 1, 6);
+    ui_bottom_push();
+    bool redraw = true;
+    while (result == -2) {
+        if (redraw) {
+            ui_backdrop(&g_bot);
+            for (int i = 0; i < 12; i++)
+                ui_button(&g_bot, 50 + (i % 3) * 54, 8 + (i / 3) * 44, 50, 40, keys[i],
+                          i == sel ? BTN_SELECTED : i == 11 ? BTN_GREEN : BTN_NORMAL, &font_main);
+            canvas_rect(&g_top, 64, 40, 128, 44, C_NAVY1);
+            canvas_box(&g_top, 64, 40, 128, 44, C_GOLD);
+            for (int i = 0; i < digits; i++) {
+                int x = 128 - digits * 13 + i * 26;
+                canvas_rect(&g_top, x, 50, 22, 26, C_NAVY2);
+                char d[2] = {code[i], 0};
+                if (code[i])
+                    canvas_text_center(&g_top, &font_main, x + 11, 53, d, C_GOLD, 0);
+            }
+            redraw = false;
+        }
+        frame_wait();
+        int old = sel, press = -1;
+        if (g_krep & KEY_RIGHT) sel = sel % 3 == 2 ? sel - 2 : sel + 1;
+        if (g_krep & KEY_LEFT) sel = sel % 3 == 0 ? sel + 2 : sel - 1;
+        if (g_krep & KEY_DOWN) sel = (sel + 3) % 12;
+        if (g_krep & KEY_UP) sel = (sel + 9) % 12;
+        if (sel != old) { sfx_play(SFX_CURSOR); redraw = true; }
+        for (int i = 0; i < 12; i++)
+            if (touch_released_in(50 + (i % 3) * 54, 8 + (i / 3) * 44, 50, 40))
+                press = sel = i;
+        if (g_kdown & KEY_A)
+            press = sel;
+        if (g_kdown & KEY_B)
+            result = -1;
+        if (press == 9) { memset(code, 0, sizeof code); n = 0; sfx_play(SFX_CANCEL); redraw = true; }
+        else if (press == 11) result = n == digits ? atoi(code) : -2;
+        else if (press >= 0 && n < digits) { code[n++] = keys[press][0]; sfx_play(SFX_BLIP); redraw = true; }
+        if (press == 11 && result == -2) sfx_play(SFX_ERROR);
+    }
+    canvas_rect(&g_top, 64, 40, 128, 44, 0);
+    ui_bottom_pop();
+    return result;
+}

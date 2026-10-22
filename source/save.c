@@ -1,6 +1,7 @@
 // Saves: three slots. Primary backend = files on the SD card of the flashcard (DLDI / DSi SD), written next to
 // the ROM (e.g. "fat:/games/eusim.nds" -> "fat:/games/eusim_slot1.sav"); atomic write via a temp file.
 // Fallback = cartridge EEPROM/flash (8 KB per slot) when the emulator/cart provides one.
+// The optional SaveExtra block follows SaveData in each slot (appended to the file, at EXTRA_OFS in a cartridge slot).
 #include "save.h"
 #include "browser_save.h"
 #include "lang.h"
@@ -8,25 +9,37 @@
 #include <sys/stat.h>
 
 SaveData g_save;
+SaveExtra g_save_extra;
 int g_save_slot;
 const char *g_rom_path;
 
 #define SAVE_MAGIC 0x55534555u  // "UESU"
 #define SAVE_VERSION 2
 #define EEPROM_SLOT_SIZE 8192
+#define EXTRA_OFS 4608   // SaveExtra offset inside a cartridge slot (SaveData rounded up)
+_Static_assert(sizeof(SaveData) <= EXTRA_OFS && EXTRA_OFS + sizeof(SaveExtra) <= EEPROM_SLOT_SIZE, "cartridge slot layout");
+_Static_assert(sizeof(SaveExtra) == SAVE_EXTRA_SIZE, "SaveExtra size");
 
 typedef enum { BK_UNKNOWN, BK_FILE, BK_EEPROM, BK_NONE, BK_BROWSER } Backend;
 static Backend backend = BK_UNKNOWN;
 static char base_path[128];       // directory + stem, e.g. "fat:/games/eusim"
 static int eeprom_type;
 
-static u16 checksum(const SaveData *s)
+static u16 checksum_bytes(const void *data, u32 size)
 {
-    const u8 *p = (const u8 *)s;
+    const u8 *p = data;
     u32 sum = 0;
-    for (u32 i = 8; i < sizeof(SaveData); i++)
+    for (u32 i = 8; i < size; i++)
         sum = (sum * 31 + p[i]) & 0xFFFF;
     return (u16)sum;
+}
+
+static u16 checksum(const SaveData *s) { return checksum_bytes(s, sizeof *s); }
+
+bool save_extra_present(const SaveExtra *e)
+{
+    return e->magic == SAVE_EXTRA_MAGIC && e->version == SAVE_EXTRA_VERSION &&
+           e->checksum == checksum_bytes(e, sizeof *e);
 }
 
 static bool can_write(const char *path)
@@ -129,6 +142,28 @@ static bool read_raw(int slot, SaveData *s)
     return false;
 }
 
+static void read_extra(int slot, SaveExtra *e)
+{
+    bool ok = false;
+    if (backend == BK_BROWSER)
+        ok = browser_save_read_extra(slot, e);
+    else if (backend == BK_FILE) {
+        char p[160];
+        slot_path(slot, p, sizeof p);
+        FILE *f = fopen(p, "rb");
+        if (f) {
+            ok = fseek(f, sizeof(SaveData), SEEK_SET) == 0 && fread(e, 1, sizeof *e, f) == sizeof *e;
+            fclose(f);
+        }
+    } else if (backend == BK_EEPROM) {
+        sysSetCardOwner(BUS_OWNER_ARM9);
+        cardReadEeprom(slot * EEPROM_SLOT_SIZE + EXTRA_OFS, (u8 *)e, sizeof *e, eeprom_type);
+        ok = true;
+    }
+    if (!ok || !save_extra_present(e))
+        memset(e, 0, sizeof *e);
+}
+
 static bool valid(const SaveData *s)
 {
     return s->magic == SAVE_MAGIC && s->version == SAVE_VERSION && s->checksum == checksum(s);
@@ -170,6 +205,7 @@ bool save_load(int slot)
         return false;
     g_save = tmp;
     g_save_slot = slot;
+    read_extra(slot, &g_save_extra);
     return true;
 }
 
@@ -180,7 +216,12 @@ bool save_write(void)
     g_save.magic = SAVE_MAGIC;
     g_save.version = SAVE_VERSION;
     g_save.checksum = checksum(&g_save);
-    if (backend == BK_BROWSER) return browser_save_write(g_save_slot, &g_save);
+    bool extra = g_save_extra.magic == SAVE_EXTRA_MAGIC;
+    if (extra) {
+        g_save_extra.version = SAVE_EXTRA_VERSION;
+        g_save_extra.checksum = checksum_bytes(&g_save_extra, sizeof g_save_extra);
+    }
+    if (backend == BK_BROWSER) return browser_save_write(g_save_slot, &g_save, extra ? &g_save_extra : NULL);
     if (backend == BK_FILE) {
         char p[160], tmpn[170];
         slot_path(g_save_slot, p, sizeof p);
@@ -188,10 +229,11 @@ bool save_write(void)
         FILE *f = fopen(tmpn, "wb");
         if (!f)
             return false;
-        size_t n = fwrite(&g_save, 1, sizeof(g_save), f);
+        bool ok = fwrite(&g_save, 1, sizeof(g_save), f) == sizeof(g_save) &&
+                  (!extra || fwrite(&g_save_extra, 1, sizeof(g_save_extra), f) == sizeof(g_save_extra));
         fflush(f);
         fclose(f);
-        if (n != sizeof(g_save))
+        if (!ok)
             return false;
         remove(p);
         if (rename(tmpn, p) != 0) {
@@ -199,22 +241,38 @@ bool save_write(void)
             f = fopen(p, "wb");
             if (!f)
                 return false;
-            n = fwrite(&g_save, 1, sizeof(g_save), f);
+            ok = fwrite(&g_save, 1, sizeof(g_save), f) == sizeof(g_save) &&
+                 (!extra || fwrite(&g_save_extra, 1, sizeof(g_save_extra), f) == sizeof(g_save_extra));
             fclose(f);
             remove(tmpn);
-            if (n != sizeof(g_save))
+            if (!ok)
                 return false;
         }
         // verify
         static SaveData verify;
-        return read_raw(g_save_slot, &verify) && memcmp(&verify, &g_save, sizeof(g_save)) == 0;
+        static SaveExtra verify_extra;
+        if (!read_raw(g_save_slot, &verify) || memcmp(&verify, &g_save, sizeof(g_save)) != 0)
+            return false;
+        if (!extra)
+            return true;
+        read_extra(g_save_slot, &verify_extra);
+        return memcmp(&verify_extra, &g_save_extra, sizeof(g_save_extra)) == 0;
     }
     if (backend == BK_EEPROM) {
         sysSetCardOwner(BUS_OWNER_ARM9);
         cardWriteEeprom(g_save_slot * EEPROM_SLOT_SIZE, (u8 *)&g_save, sizeof(g_save), eeprom_type);
+        static const u32 no_extra = 0;   // erases a note left by an earlier game in this slot
+        cardWriteEeprom(g_save_slot * EEPROM_SLOT_SIZE + EXTRA_OFS, extra ? (u8 *)&g_save_extra : (u8 *)&no_extra,
+                        extra ? sizeof(g_save_extra) : sizeof no_extra, eeprom_type);
         static SaveData verify;
         cardReadEeprom(g_save_slot * EEPROM_SLOT_SIZE, (u8 *)&verify, sizeof(verify), eeprom_type);
-        return memcmp(&verify, &g_save, sizeof(g_save)) == 0;
+        if (memcmp(&verify, &g_save, sizeof(g_save)) != 0)
+            return false;
+        static SaveExtra verify_extra;
+        if (!extra)
+            return true;
+        read_extra(g_save_slot, &verify_extra);
+        return memcmp(&verify_extra, &g_save_extra, sizeof(g_save_extra)) == 0;
     }
     return false;
 }
@@ -223,6 +281,7 @@ void save_new_game(void)
 {
     int slot = g_save_slot;
     memset(&g_save, 0, sizeof(g_save));
+    memset(&g_save_extra, 0, sizeof(g_save_extra));
     g_save_slot = slot;
     strcpy(g_save.player_name, "Alex");
     g_save.money = 500;

@@ -33,7 +33,7 @@ def main():
         d = os.path.join('nitrofs/text', os.path.basename(os.path.dirname(f)))
         os.makedirs(d, exist_ok=True)
         shutil.copy(f, d)
-    for mod in ['mapgen', 'proc_europe', 'mkgfx', 'mkmona', 'proc_chars', 'mkdata', 'proc_creatures', 'mkscripts', 'mkmaps', 'mkslides', 'i18n_extract', 'mklang', 'mkstream']:
+    for mod in ['mapgen', 'proc_europe', 'mknote', 'mkgfx', 'mkmona', 'proc_chars', 'mkdata', 'proc_creatures', 'mkscripts', 'mkmaps', 'mkslides', 'i18n_extract', 'mklang', 'mkstream']:
         if os.path.exists(f'tools/{mod}.py'):
             __import__(mod).main()
 

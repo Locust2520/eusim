@@ -167,7 +167,7 @@ def bce_tower():
     d.line([(W // 2 - 12, 34), (W // 2 + 2, 34)], fill=P['gold'], width=2)
     d.line([(W // 2 - 12, 39), (W // 2 + 2, 39)], fill=P['gold'], width=2)
     door(d, W // 2 - 7, H - 16, True, 14)
-    label(im, 'BCE', W // 2, H - 26)
+    label(im, 'ECB', W // 2, H - 26)
     return Obj(im, beh_grid(w, h, [(3, h - 1)]), None, [(3, h - 1)])
 
 
@@ -217,7 +217,7 @@ def europa_building():
         d.line([(cx - hw + 2, y), (cx + hw - 2, y)], fill=rgb('e8cc88'))
     d.line([(cx - 8, 12), (cx - 11, 24)], fill=P['wh'])
     door(d, cx - 7, H - 16, True, 14)
-    label(im, 'CONSEIL EUROPEEN', cx, H - 30)
+    label(im, 'EUROPEAN COUNCIL', cx, H - 30)
     return Obj(im, beh_grid(w, h, [(4, h - 1)]), None, [(4, h - 1)])
 
 def ramp(key, c):

@@ -42,6 +42,12 @@ static inline void quick_party(int sp, int lv)
     if (SCEN == 23) { flag_set(FLAG_INTRO_DONE, 1); quick_party(0, 15); g_save.map = MAP_STUDIO; g_save.x = 1; g_save.y = 3; g_save.dir = 1; } \
     QUICKSTART_SCREENSHOT(); \
     if (SCEN == 16) { flag_set(FLAG_INTRO_DONE, 1); g_save.map = MAP_CANTINE_BXL; g_save.x = 5; g_save.y = 4; g_save.dir = 1; } \
+    if (SCEN == 31) { flag_set(FLAG_INTRO_DONE, 1); g_save.badges = 0x03; flag_set(FLAG_BADGE_1, 1); flag_set(FLAG_BADGE_2, 1); \
+                      g_save.map = MAP_GYM_BCE; g_save.x = 11; g_save.y = 2; g_save.dir = 1; } \
+    if (SCEN == 32) { flag_set(FLAG_INTRO_DONE, 1); g_save.badges = 0x03; flag_set(FLAG_BADGE_2, 1); flag_set(FLAG_BCE_VAULT_OPEN, 1); \
+                      flag_set(FLAG_ATELIER_SEEN, 1); flag_set(FLAG_NOTE_STUDIO_PASSED, 1); g_save.map = MAP_ATELIER_BCE; g_save.x = 9; g_save.y = 7; g_save.dir = 3; } \
+    if (SCEN == 33) { flag_set(FLAG_INTRO_DONE, 1); g_save.badges = 0x03; flag_set(FLAG_BADGE_2, 1); \
+                      g_save.map = MAP_FRANCFORT; g_save.x = 46; g_save.y = 12; g_save.dir = 0; } \
     if (SCEN == 2) { quick_party(SP_CECAGON, 40); quick_party(SP_EUROLO, 12); flag_set(FLAG_GOT_STARTER, 1); flag_set(FLAG_GOT_DEX, 1); \
                      g_save.map = MAP_LUXEMBOURG; g_save.x = 25; g_save.y = 10; } \
 } while (0)

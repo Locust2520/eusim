@@ -17,6 +17,7 @@ LEGEND = {
     'q': 'tiles', 'o': 'floor', 'c': 'carpet', 'e': 'carpet_enc', 'd': 'dark', 'D': 'dark_enc',
     '#': 'wall_top', '|': 'wall', 'n': 'window', '_': 'doormat', 'b': 'bench_row', 'R': 'carpet_red',
     '^': 'stairs', 'x': 'counter', 'X': 'void', 'p': 'chair', '@': 'seat', '$': 'money', '&': 'cobweb',
+    'I': 'sign', 'J': 'sign_eu',
 }
 
 
@@ -396,10 +397,12 @@ def build_route2():
 
 
 def build_francfort():
-    m = add(M('francfort', "Frankfurt – Banking District", 40, 28, 'pave', 'francfort', 'outdoor', 'ffm_parc',
+    # 64 x 46: the original district keeps its coordinates (saves, warps); the Römerberg and the Stock Exchange
+    # were added to the east, the Main and Sachsenhausen to the south.
+    m = add(M('francfort', "Frankfurt – Banking District", 64, 46, 'pave', 'francfort', 'outdoor', 'ffm_parc',
               'francfort'))
-    m.border_trees(gaps=[('w', 12, 4), ('s', 18, 4)])
-    m.rect('road', 0, 13, 40, 2)
+    m.border_trees(gaps=[('w', 12, 4), ('w', 30, 6), ('e', 30, 6), ('s', 18, 4)])
+    m.rect('road', 0, 13, 62, 2)
     m.obj('bce_tower', 16, 2)        # door 19,10
     m.obj('cantine', 4, 5)           # door 7,8
     m.obj('boutique', 28, 5)         # door 30,8
@@ -416,18 +419,101 @@ def build_francfort():
         g.obj('desk', 2, y).obj('desk', 10, y)
     g.rect('money', 6, 6).rect('money', 7, 10)
     g.obj('pc', 13, 1)   # Euromon archives
+    g.obj('europa_painting', 11, 0)   # the secret door to the banknote studio
+    g.ev('sign 11 1 bce_vault').ev('sign 12 1 bce_vault')
     g.ev('sign 10 4 bce_ordi').ev('sign 11 4 bce_ordi')   # trading desk computer
     g.npc('lagarde', 'lagarde', gdx, 2, 'down', 'still', 'gym2_leader')
     g.npc('trader1', 'banquier', 4, 6, 'right', 'still', 'gym2_t1', trainer='bce_trader', range=4)
     g.npc('econ1', 'fonctionnaire_f', 9, 11, 'left', 'still', 'gym2_t2', trainer='bce_economiste', range=4)
     link(m, 19, 10, g, gdx, 15)
+    build_atelier_bce(g)
     m.npc('ffm_oliver', 'oliver', 19, 12, 'up', 'still', 'oliver_ffm', show='BADGE_2', hide='OLIVER_FFM_DONE')
     m.ev('sign 22 11 ffm_sign_bce')
     m.npc('ffm_npc1', 'banquier', 10, 11, 'down', 'wander', 'ffm_npc1')
+    # Willy-Brandt-Platz: the Euro sign; the memorial of the Grossmarkthalle (now part of the ECB site)
+    m.obj('euro_sculpture', 24, 7).ev('sign 25 10 ffm_euro_sign')
+    m.obj('memorial', 14, 9).ev('sign 14 10 ffm_memorial')
+    # Römerberg
+    m.obj('romer', 44, 2).ev('sign 48 7 ffm_romer')
+    m.obj('fachwerk_0', 54, 2).obj('fachwerk_1', 58, 2).ev('sign 56 7 ffm_ostzeile')
+    m.obj('justitia', 48, 9).ev('sign 48 11 ffm_justitia').ev('sign 49 11 ffm_justitia')
+    m.npc('ffm_tourist', 'touriste', 51, 10, 'left', 'look', 'ffm_tourist')
+    # Paulskirche, Stock Exchange, Goethe House, Messeturm
+    m.obj('paulskirche', 42, 16)      # door 45,22
+    m.obj('boerse', 51, 16)           # door 55,20
+    m.obj('bull', 52, 22).ev('sign 52 23 ffm_bull').ev('sign 53 23 ffm_bull')
+    m.obj('bear', 56, 22).ev('sign 56 23 ffm_bear').ev('sign 57 23 ffm_bear')
+    m.obj('goethe_haus', 44, 25)      # door 46,29
+    m.obj('messeturm', 59, 20).ev('sign 60 27 ffm_messe')
+    m.npc('ffm_reader', 'journaliste', 55, 27, 'down', 'look', 'ffm_reader')
+    pk = add(M('paulskirche_ffm', "Paulskirche – Assembly Hall", 14, 10, 'marble', 'council_hall', 'indoor', bg='101820'))
+    pdx = interior_box(pk, 14, 10, 'm')
+    for y in (4, 6):
+        pk.rect('bench_row', 2, y, 4, 1).rect('bench_row', 8, y, 4, 1)
+    pk.obj('podium', 6, 2).ev('sign 7 3 ffm_paulskirche_podium')
+    pk.npc('pk_guide', 'fonctionnaire_f', 11, 8, 'left', 'still', 'ffm_paulskirche_guide')
+    link(m, 45, 22, pk, pdx, 9)
+    bo = add(M('boerse_ffm', "Frankfurt Stock Exchange", 12, 8, 'marble', 'francfort', 'indoor', bg='101820'))
+    bdx = interior_box(bo, 12, 8, 'm')
+    bo.rect('counter', 2, 3, 8, 1).obj('pc', 10, 1).ev('sign 5 3 ffm_dax').ev('sign 6 3 ffm_dax')
+    bo.npc('bo_trader', 'banquier', 4, 2, 'down', 'still', 'ffm_boerse_trader')
+    link(m, 55, 20, bo, bdx, 7)
+    house('goethe_ffm', "Goethe House – Frankfurt", m, (46, 29),
+          [('goethe_guide', 'fonctionnaire', 3, 3, 'down', 'still', 'ffm_goethe_guide')])
+    # the Main: a road bridge on the old way south, the Iron Footbridge further east
+    m.rect('pave', 1, 28, 61, 3)
+    m.rect('water', 0, 31, 64, 4)
+    for bx in (18, 36):
+        bw = 4 if bx == 18 else 2
+        m.rect('dock', bx, 31, bw, 4).rect('fence', bx - 1, 31, 1, 4).rect('fence', bx + bw, 31, 1, 4)
+    m.rect('sign', 35, 30).ev('sign 35 30 ffm_steg')
+    m.npc('ffm_couple', 'stagiaire_f', 39, 29, 'left', 'look', 'ffm_couple')
+    m.npc('ffm_local', 'mamie', 10, 29, 'down', 'still', 'ffm_local')
+    # Sachsenhausen and the Museum Embankment
+    m.rect('pave', 1, 35, 61, 9)
+    m.obj('tavern', 4, 36)            # door 7,40
+    m.obj('geldmuseum', 44, 36)       # door 47,40
+    m.rect('grass', 26, 37, 14, 6).rect('dossiers', 28, 38, 6, 3)
+    for x, y in ((24, 37), (40, 37), (52, 38), (56, 41)):
+        m.obj('tree', x, y)
+    m.rect('sign', 11, 40).ev('sign 11 40 ffm_tavern_sign')
+    tv = add(M('apfelwein_ffm', "Apple-Wine Tavern – Sachsenhausen", 12, 9, 'floor', 'cantine', 'indoor', bg='101820'))
+    tdx = interior_box(tv, 12, 9, 'o')
+    tv.rect('counter', 1, 3, 4, 1)
+    for tx, ty in ((6, 4), (9, 4), (6, 6), (9, 6)):
+        tv.obj('tavern_table', tx, ty)
+    tv.npc('wirtin', 'wirtin', 2, 2, 'down', 'still', 'ffm_wirtin')
+    tv.npc('tv_patron1', 'agriculteur', 8, 5, 'right', 'still', 'ffm_handkaes')
+    tv.npc('tv_patron2', 'mamie', 11, 6, 'left', 'still', 'ffm_gruene_sosse')
+    link(m, 7, 40, tv, tdx, 8)
+    gm = add(M('geldmuseum_ffm', "Money Museum of the Bundesbank", 12, 9, 'marble', 'labo', 'indoor', bg='101820'))
+    gmdx = interior_box(gm, 12, 9, 'm')
+    gm.rect('counter', 2, 4, 3, 1).rect('money', 3, 3).ev('sign 3 4 ffm_goldbar').ev('sign 3 3 ffm_goldbar')
+    gm.obj('bookshelf', 8, 1).obj('bookshelf', 9, 1).ev('sign 8 2 ffm_money_history').ev('sign 9 2 ffm_money_history')
+    gm.npc('gm_curator', 'fonctionnaire_f', 6, 3, 'down', 'still', 'ffm_curator')
+    link(m, 47, 40, gm, gmdx, 8)
     m.ev('warp 0 13 route2 48 9 left').ev('warp 0 14 route2 48 10 left')
-    m.ev('trigger 18 27 4 1 ffm_exit_block ifnot=BADGE_2')
-    m.ev('warp 18 27 route3 9 1 down').ev('warp 19 27 route3 10 1 down').ev('warp 20 27 route3 10 1 down').ev('warp 21 27 route3 10 1 down')
+    m.ev('trigger 18 45 4 1 ffm_exit_block ifnot=BADGE_2')
+    m.ev('warp 18 45 route3 9 1 down').ev('warp 19 45 route3 10 1 down').ev('warp 20 45 route3 10 1 down').ev('warp 21 45 route3 10 1 down')
     return m
+
+
+def build_atelier_bce(gym):
+    """Behind Europa's portrait: the confidential studio where the next euro banknotes are designed."""
+    a = add(M('atelier_bce', "ECB – Banknote Design Studio", 16, 12, 'tiles', 'labo', 'indoor', bg='101820'))
+    a.rect('tiles', 0, 0, 16, 12).rect('wall_top', 0, 0, 16, 1).rect('wall', 0, 1, 16, 1)
+    a.rect('stairs', 1, 2)
+    a.ev('warp 1 2 gym_bce 11 2 down')
+    a.obj('board_culture', 4, 2).ev('sign 4 3 atelier_board_culture').ev('sign 5 3 atelier_board_culture')
+    a.obj('board_birds', 7, 2).ev('sign 7 3 atelier_board_birds').ev('sign 8 3 atelier_board_birds')
+    a.obj('board_jury', 10, 2).ev('sign 10 3 atelier_board_jury').ev('sign 11 3 atelier_board_jury')
+    a.obj('intaglio_press', 6, 6).ev('sign 6 7 atelier_press').ev('sign 7 7 atelier_press').ev('sign 8 7 atelier_press')
+    a.obj('desk', 2, 9).obj('desk', 12, 9).ev('sign 12 9 atelier_specs').ev('sign 13 9 atelier_specs')
+    a.obj('plant', 15, 2).obj('bookshelf', 14, 1)
+    a.npc('eleni', 'graveuse', 10, 7, 'left', 'still', 'atelier_eleni')
+    a.npc('jury', 'fonctionnaire_f', 13, 5, 'down', 'still', 'atelier_jury')
+    a.ev('onload atelier_onload')
+    return a
 
 
 def build_route3():
@@ -440,7 +526,7 @@ def build_route3():
     m.npc('r3_t2', 'journaliste', 11, 26, 'up', 'still', 'r3_t2', trainer='r3_journaliste', range=4)
     m.npc('r3_t3', 'agriculteur', 8, 36, 'right', 'still', 'r3_t3', trainer='r3_viticulteur', range=3)
     m.ev('item 4 44 gaufre ITEM_R3A').ev('item 15 2 x_argument ITEM_R3B')
-    m.ev('warp 9 0 francfort 19 26 up').ev('warp 10 0 francfort 20 26 up')
+    m.ev('warp 9 0 francfort 19 44 up').ev('warp 10 0 francfort 20 44 up')
     m.ev('warp 9 49 strasbourg 19 1 down').ev('warp 10 49 strasbourg 20 1 down')
     return m
 

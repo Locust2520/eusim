@@ -178,6 +178,8 @@ script gym2_leader
 :apres
   show R lagarde happy
   say "Christine Lagarde" "Rates are stable today. Make the most of it, it never lasts."
+  if flag BCE_VAULT_OPEN goto fin
+  say "Christine Lagarde" "Between us: the euro became cash, in people's pockets, in 2002. Some doors in this tower still remember that year."
 :fin
 end
 script oliver_ffm

@@ -17,6 +17,7 @@
 #include "battle.h"
 #include "scenes.h"
 #include "minigame.h"
+#include "note.h"
 #include "gen/font_data.h"
 #include "gen/flags.h"
 #include "gen/maps.h"
@@ -567,6 +568,13 @@ void world_special(int id, int arg)
     case 3: case 11: ending_run(); world_refresh(); break;
     case 22: train_menu(); break;
     case 23: jukebox_open(); world_refresh(); break;
+    case 24: g_save.vars[VAR_RESULT] = note_studio(); world_refresh(); break;
+    case 25: note_view(); break;
+    case 26: {
+        int code = keypad_code(arg ? arg : 4);
+        g_save.vars[VAR_RESULT] = code < 0 ? 0 : code;
+        break;
+    }
     case 5: menu_save(); break;
     case 6: world_heal_party(); break;
     case 7: popup_timer = 160; break;

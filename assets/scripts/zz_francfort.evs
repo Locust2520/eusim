@@ -1,0 +1,219 @@
+# Frankfurt extension: Römerberg, Paulskirche, Stock Exchange, the Main, Sachsenhausen, Money Museum,
+# and the ECB's secret banknote studio behind Europa's portrait.
+
+# ---------------------------------------------------------------- Willy-Brandt-Platz
+script ffm_euro_sign
+  say - "The Euro sign by the artist Ottmar Hörl, unveiled in 2001 in front of the ECB's former tower."
+  say - "A few weeks later, on 1 January 2002, euro notes and coins reached people's pockets in twelve countries."
+end
+script ffm_memorial
+  say - "Memorial at the Grossmarkthalle."
+  say - "Between 1941 and 1945, about 10,000 Jewish men, women and children from Frankfurt and the region were deported from the cellar of this market hall to ghettos and camps. Most of them were murdered."
+  say - "The City of Frankfurt, the Jewish Community and the ECB, whose headquarters now include the hall, created this memorial together."
+end
+
+# ---------------------------------------------------------------- Römerberg
+script ffm_romer
+  say - "The Römer, Frankfurt's town hall since 1405. In its Imperial Hall, newly crowned emperors of the Holy Roman Empire held their coronation banquets."
+end
+script ffm_ostzeile
+  say - "Half-timbered houses on the Römerberg. Bombing destroyed the old town in 1944; this row was rebuilt in the 1980s, beam by beam."
+end
+script ffm_justitia
+  say - "The Justice Fountain. Look closely: this Justitia holds her scales and her sword, but wears no blindfold."
+end
+script ffm_tourist
+  say "Tourist" "They call this city “Mainhattan”: skyscrapers on the river Main. I've counted eleven cranes and four banks. Or the other way round."
+end
+
+# ---------------------------------------------------------------- Paulskirche
+script ffm_paulskirche_podium
+  say - "In 1848 and 1849, the first freely elected parliament for all of Germany met in this church."
+  say - "It wrote a constitution with fundamental rights. It never came into force, but later German constitutions drew on it."
+end
+script ffm_paulskirche_guide
+  say "Guide" "The hall still has its big days: every October, the Peace Prize of the German Book Trade is awarded here."
+end
+
+# ---------------------------------------------------------------- Stock Exchange
+script ffm_bull
+  say - "The bull charges with its horns upwards: a rising market."
+end
+script ffm_bear
+  say - "The bear swipes its paw downwards: a falling market."
+end
+script ffm_dax
+  say - "The DAX board. Germany's best-known stock index was launched here in 1988."
+end
+script ffm_boerse_trader
+  say "Trader" "Buy the rumour, sell the news. And never, ever sell your umbrella in April."
+end
+
+# ---------------------------------------------------------------- Goethe House, Messeturm
+script ffm_goethe_guide
+  say "Guide" "Johann Wolfgang von Goethe was born in this house on 28 August 1749. He worked on Faust for some sixty years."
+  say "Guide" "His name now travels the world: the Goethe-Institut teaches German in nearly a hundred countries."
+end
+script ffm_messe
+  say - "The Messeturm stands over the trade fair grounds. Every October they host the Frankfurt Book Fair, the largest book fair in the world."
+end
+script ffm_reader
+  say "Reader" "I came for the Book Fair and stayed for the green sauce. I've read three books and eaten five sauces."
+end
+
+# ---------------------------------------------------------------- the Main
+script ffm_steg
+  say - "The Iron Footbridge across the Main, built in 1869. Thousands of padlocks hang on its railings: lovers' promises."
+end
+script ffm_couple
+  say "Couple" "We locked our padlock on the bridge and threw the key into the Main. We still have to decide whose idea it was."
+end
+script ffm_local
+  say "Frankfurter" "On the other bank is Sachsenhausen. That's where we drink Ebbelwoi, apple wine. Nobody calls it cider here, mind you."
+end
+
+# ---------------------------------------------------------------- Sachsenhausen: the apple-wine tavern
+script ffm_tavern_sign
+  say - "A pine wreath hangs over the door: the sign that this tavern presses and serves its own apple wine."
+end
+script ffm_wirtin
+  if flag BEMBEL_DONE goto again
+  say "Landlady" "Guten Abend! Apple wine is poured from the Bembel, the grey stoneware jug, into a Gerippte, the glass with the diamond pattern."
+  say "Landlady" "Tonight I have a full room and two hands. You fill the glasses, I'll carry them?"
+  goto play
+:again
+  ask "Landlady" "Fancy another round behind the counter?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+:play
+  close
+  minigame bembel
+  if var RESULT == 0 goto spilt
+  if flag BEMBEL_DONE goto thanks
+  setflag BEMBEL_DONE
+  say "Landlady" "Not a drop on my tables! Here, take this, and come back whenever you like."
+  giveitem sandwich 3
+  money 800
+  goto fin
+:thanks
+  say "Landlady" "Perfect again. You could open your own tavern. Just hang a pine wreath over the door."
+  goto fin
+:spilt
+  say "Landlady" "Ach, the tables are swimming! Never mind, we'll mop up."
+:fin
+end
+script ffm_handkaes
+  say "Regular" "Handkäs mit Musik: sour-milk cheese marinated with onions. The music comes later. Don't ask."
+end
+script ffm_gruene_sosse
+  say "Regular" "Green sauce takes exactly seven herbs: borage, chervil, cress, parsley, salad burnet, sorrel and chives."
+  say "Regular" "Since 2016 the EU protects “Frankfurter Grüne Soße” as a geographical indication. Seven herbs, no more, no less."
+end
+
+# ---------------------------------------------------------------- Money Museum
+script ffm_goldbar
+  say - "A real gold bar, 12.5 kilograms, that visitors are allowed to lift. Most manage a few centimetres."
+end
+script ffm_money_history
+  say - "From shells to coins, from coins to paper, from paper to the euro: three thousand years of money in a few shelves."
+end
+script ffm_curator
+  say "Curator" "The Bundesbank is Germany's central bank. Since 1999 it has been part of the Eurosystem, with the ECB and the other central banks of the euro area."
+  if !flag NOTE_PRINTED goto fin
+  say "Curator" "I hear you have a specimen note with your face on it. When your adventure is over, we'd love it for our collection."
+:fin
+end
+
+# ---------------------------------------------------------------- the ECB: Europa's portrait and the secret studio
+script bce_vault
+  if flag BCE_VAULT_OPEN goto open
+  say - "A portrait of Europa, the princess of Greek myth who gave her name to the continent."
+  say - "Her face comes from a Greek vase more than 2,000 years old, kept at the Louvre. Hold a euro note up to the light: she's in the watermark."
+  if !flag BADGE_2 goto fin
+  say - "Behind the frame, a small keypad glows. Four digits."
+  ask - "Type a code?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+  close
+  special keypad 4
+  if var RESULT == 2002 goto good
+  sfx ERROR
+  say - "The keypad blinks red. Somewhere on the trading floor, someone sighs."
+  goto fin
+:good
+  sfx DOOR
+  say - "Click. The painting swings open onto a narrow staircase going down…"
+  setflag BCE_VAULT_OPEN
+:open
+  ask - "Go down to the secret studio?"
+  yesno -> TMP
+  if var TMP == 0 goto fin
+  close
+  warp atelier_bce 2 3 down
+:fin
+end
+
+script atelier_onload
+  if flag ATELIER_SEEN goto fin
+  setflag ATELIER_SEEN
+  say - "A workshop full of easels, engraving tools and a heavy press. On the door: “Banknote design – confidential”."
+:fin
+end
+
+script atelier_board_culture
+  say - "Theme “European culture”: Maria Callas (€5), Ludwig van Beethoven (€10), Marie Curie (€20), Miguel de Cervantes (€50), Leonardo da Vinci (€100) and Bertha von Suttner (€200)."
+  say - "On the back: places where culture is shared. Street performers, a song festival, a school, a library, street art, a tree-lined square."
+end
+script atelier_board_birds
+  say - "Theme “Rivers and birds”: from a mountain spring (€5) to the open sea (€200), with a wallcreeper, a kingfisher, bee-eaters, a white stork, an avocet and a northern gannet."
+  say - "On the back: the EU institutions, from the European Parliament to the European Court of Auditors."
+end
+script atelier_board_jury
+  say - "The ten finalist designs: EC145, EC564, EC617, EC799, EC915 and RB120, RB227, RB637, RB754, RB832."
+  say - "The designers' names stay secret. After a public survey, the ECB's Governing Council makes the final choice."
+end
+script atelier_press
+  say - "An intaglio press. It pushes ink into the paper so hard that it stands in relief: that's the raised print you can feel on a real note."
+end
+script atelier_specs
+  say - "Specifications: the same sizes as today's notes, one dominant colour per value, and on every note the European flag, a map of Europe and the signature of the ECB President."
+end
+script atelier_jury
+  say "Jury member" "In 2025, more than 1,200 designers answered the ECB's call. Thirty-nine proposals reached the jury; ten are on these easels."
+  say "Jury member" "The aim is to replace imaginary bridges and windows with real people, real birds and real places."
+end
+
+script atelier_eleni
+  if flag NOTE_STUDIO_PASSED goto passed
+  say "Eleni" "Kaliméra! I'm Eleni, intaglio engraver. I learnt the trade at the Bank of Greece printing works, in Athens."
+  say "Eleni" "Officially, the ECB doesn't print a single note: it designs them, and printing works across Europe produce them."
+  say "Eleni" "Right now we're preparing the next euro banknotes. In 2026 a jury shortlisted ten designs on two themes: European culture, and rivers and birds."
+  say "Eleni" "Before the final choice, I must test the engraving on a real face. Euro notes have never shown a living person… so yours will stay a specimen."
+  say "Eleni" "But nobody touches my plates without passing the test. Feel, look, tilt: show me you can tell a genuine note from a fake."
+  ask "Eleni" "Ready?"
+  yesno -> TMP
+  if var TMP == 0 goto later
+  close
+  minigame billets
+  if var RESULT == 0 goto failed
+  setflag NOTE_STUDIO_PASSED
+  say "Eleni" "Bravo! You have the eye of a central banker. Now, your portrait."
+  goto studio
+:passed
+  ask "Eleni" "A new specimen? The press is still warm."
+  yesno -> TMP
+  if var TMP == 0 goto later
+:studio
+  close
+  special note_studio
+  if var RESULT == 0 goto later
+  say "Eleni" "There you are, engraved! See the serial number? The first letter, Y, is the code of the Bank of Greece. My little signature."
+  say "Eleni" "Show it around. And save your game in Report, so that your note stays with you."
+  goto fin
+:failed
+  say "Eleni" "A fake got through. Feel, look, tilt: it only takes a few seconds. Come back when you're ready."
+  goto fin
+:later
+  say "Eleni" "Take your time. A good engraving can't be rushed."
+:fin
+end

@@ -1,6 +1,7 @@
 // Touch-screen mini-games: plenary vote, rubber stamp, cookie banners, night summit (microphone), trunks,
 // and the five computer terminals: inbox, fact-check, translation desk, ECB rate, USB-C.
 #include "minigame.h"
+#include "minigame_ui.h"
 #include "lang.h"
 #include "canvas.h"
 #include "gfx.h"
@@ -11,7 +12,9 @@
 #include "gen/font_data.h"
 
 enum { MG_VOTE, MG_TAMPON, MG_COOKIES, MG_SOMMET, MG_TRILOGUE, MG_LANGUES, MG_BOUCHON, MG_SIGNATURE, MG_MALLES,
-       MG_COURRIELS, MG_DESINFOX, MG_TAUX, MG_USBC };
+       MG_COURRIELS, MG_DESINFOX, MG_TAUX, MG_USBC,
+       MG_BILLETS, MG_BEMBEL, MG_EVZONES, MG_PERIPTERO, MG_CONTENEURS, MG_TAPIS, MG_CIGOGNES, MG_DOUANE, MG_ECHECS,
+       MG_SCHUMAN, MG_CASEMATES };
 
 static void top_panel(const char *title, const char *rule, int secs_left, int score, int goal)
 {
@@ -58,6 +61,14 @@ static bool intro(const char *title, const char *text)
     DC_FlushRange((void *)g_site_capture, 32);
 #endif
     return true;
+}
+
+static int outro(bool ok, const char *win, const char *lose);
+bool mg_intro(const char *title, const char *text) { return intro(title, text); }
+int mg_outro(bool ok, const char *win, const char *lose) { return outro(ok, win, lose); }
+void mg_top_panel(const char *title, const char *rule, int secs_left, int score, int goal)
+{
+    top_panel(title, rule, secs_left, score, goal);
 }
 
 static int outro(bool ok, const char *win, const char *lose)
@@ -890,6 +901,17 @@ int minigame_run(int id)
     case MG_DESINFOX: r = mg_desinfox(); break;
     case MG_TAUX: r = mg_taux(); break;
     case MG_USBC: r = mg_usbc(); break;
+    case MG_BILLETS: r = mg_billets(); break;
+    case MG_BEMBEL: r = mg_bembel(); break;
+    case MG_EVZONES: r = mg_evzones(); break;
+    case MG_PERIPTERO: r = mg_periptero(); break;
+    case MG_CONTENEURS: r = mg_conteneurs(); break;
+    case MG_TAPIS: r = mg_tapis(); break;
+    case MG_CIGOGNES: r = mg_cigognes(); break;
+    case MG_DOUANE: r = mg_douane(); break;
+    case MG_ECHECS: r = mg_echecs(); break;
+    case MG_SCHUMAN: r = mg_schuman(); break;
+    case MG_CASEMATES: r = mg_casemates(); break;
     case MG_MALLES: default: r = mg_malles(); break;
     }
     if (prev[0])

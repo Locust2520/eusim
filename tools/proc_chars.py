@@ -557,6 +557,9 @@ CAST = [
     Char('rutte', 'short', 'light', 'brown', jacket='283048', shirt='f8f8f8', tie='e07020', pants='283048'),
     Char('vance', 'short', 'light', 'dkbrown', jacket='1e2a50', shirt='f8f8f8', tie='4060c0', pants='1e2a50'),
     Char('lobbychef', 'bald', 'pale', 'black', jacket='101018', shirt='101018', tie='e0b020', pants='101018', glasses=True),
+    # city extensions
+    Char('graveuse', 'bun', 'tan', 'black', jacket='e8e4dc', shirt='2a3a5a', pants='3a3a48', skirt='4a4a5a', glasses=True),
+    Char('wirtin', 'bun', 'light', 'brown', jacket='3a6a3a', shirt='f8f8f8', pants='303040', skirt='2a4a2a'),
 ]
 
 

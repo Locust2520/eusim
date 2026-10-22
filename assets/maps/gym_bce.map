@@ -53,6 +53,8 @@ legend
   @ seat
   $ money
   & cobweb
+  I sign
+  J sign_eu
 ground
   ##############
   ||n|||n|||n|||
@@ -78,7 +80,10 @@ objects
   desk 2 12
   desk 10 12
   pc 13 1
+  europa_painting 11 0
 events
+  sign 11 1 bce_vault
+  sign 12 1 bce_vault
   sign 10 4 bce_ordi
   sign 11 4 bce_ordi
   npc lagarde lagarde 7 2 down still gym2_leader

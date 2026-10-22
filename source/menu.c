@@ -1,5 +1,6 @@
 // Bottom-screen overworld panel and the menus it opens: party, bag, Eurodex, map, save, options.
 #include "menu.h"
+#include "note.h"
 #include "multiplayer.h"
 #include "lang.h"
 #include "canvas.h"
@@ -322,6 +323,10 @@ static int pocket_of(int kind)
 static bool use_item_field(int it)
 {
     const ItemData *d = &items[it];
+    if (it == IT_BILLET_SPECIMEN) {
+        note_view();
+        return false;
+    }
     if (d->kind == IK_REPEL) {
         g_save.repel = d->param;
         bag_take(it, 1);

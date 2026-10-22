@@ -13018,5 +13018,1079 @@
 "en": "FAKE",
 "ctx": "source/minigame.c:160",
 "used": true
+},
+{
+"id": 2170,
+"en": "C",
+"ctx": "source/keyboard.c:214",
+"used": true
+},
+{
+"id": 2171,
+"en": "%d s · %d/%d",
+"ctx": "source/minigame2.c:63",
+"used": true
+},
+{
+"id": 2172,
+"en": "Raised lines on the edges: you can feel them.",
+"ctx": "source/minigame2.c:112",
+"used": true
+},
+{
+"id": 2173,
+"en": "The paper is smooth everywhere…",
+"ctx": "source/minigame2.c:112",
+"used": true
+},
+{
+"id": 2174,
+"en": "Feel",
+"ctx": "source/minigame2.c:120",
+"used": true
+},
+{
+"id": 2175,
+"en": "Look",
+"ctx": "source/minigame2.c:121",
+"used": true
+},
+{
+"id": 2176,
+"en": "Tilt",
+"ctx": "source/minigame2.c:122",
+"used": true
+},
+{
+"id": 2177,
+"en": "Check, then decide:",
+"ctx": "source/minigame2.c:123",
+"used": true
+},
+{
+"id": 2178,
+"en": "Genuine",
+"ctx": "source/minigame2.c:124",
+"used": true
+},
+{
+"id": 2179,
+"en": "Counterfeit",
+"ctx": "source/minigame2.c:125",
+"used": true
+},
+{
+"id": 2180,
+"en": "L/R: tilt · X: against the light · Y: feel",
+"ctx": "source/minigame2.c:126",
+"used": true
+},
+{
+"id": 2181,
+"en": "Feel, look, tilt",
+"ctx": "source/minigame2.c:136",
+"used": true
+},
+{
+"id": 2182,
+"en": "Before touching the printing plate, prove you can spot a fake! Check each note the ECB's way: FEEL ",
+"ctx": "source/minigame2.c:137",
+"used": true
+},
+{
+"id": 2183,
+"en": "the raised print, LOOK at it against the light, TILT it. Judge 10 notes, one mistake allowed.",
+"ctx": "source/minigame2.c:138",
+"used": true
+},
+{
+"id": 2184,
+"en": "It was %s: the raised print was missing.",
+"ctx": "source/minigame2.c:171",
+"used": true
+},
+{
+"id": 2185,
+"en": "It was %s: no watermark against the light.",
+"ctx": "source/minigame2.c:172",
+"used": true
+},
+{
+"id": 2186,
+"en": "It was %s: the number did not change colour.",
+"ctx": "source/minigame2.c:173",
+"used": true
+},
+{
+"id": 2187,
+"en": "a fake",
+"ctx": "source/minigame2.c:176",
+"used": true
+},
+{
+"id": 2188,
+"en": "It was a genuine note!",
+"ctx": "source/minigame2.c:178",
+"used": true
+},
+{
+"id": 2189,
+"en": "Not one fake got through! In the watermark you saw Europa, from a Greek vase over 2,000 years old.",
+"ctx": "source/minigame2.c:185",
+"used": true
+},
+{
+"id": 2190,
+"en": "A counterfeit slipped past… Feel, look, tilt: the three checks take only a few seconds.",
+"ctx": "source/minigame2.c:186",
+"used": true
+},
+{
+"id": 2191,
+"en": "The Bembel",
+"ctx": "source/minigame2.c:198",
+"used": true
+},
+{
+"id": 2192,
+"en": "In a Sachsenhausen tavern, pour apple wine from the Bembel into each glass up to the line! Hold the ",
+"ctx": "source/minigame2.c:199",
+"used": true
+},
+{
+"id": 2193,
+"en": "stylus (or A) to tilt the jug, let go to stop, then serve with the button. 8 glasses, 2 spills allowed.",
+"ctx": "source/minigame2.c:200",
+"used": true
+},
+{
+"id": 2194,
+"en": "Serve",
+"ctx": "source/minigame2.c:241",
+"used": true
+},
+{
+"id": 2195,
+"en": "Eight perfect glasses! Here in Frankfurt they call apple wine \"Ebbelwoi\".",
+"ctx": "source/minigame2.c:264",
+"used": true
+},
+{
+"id": 2196,
+"en": "Too many spilt glasses… The tavern keeper lends you a cloth.",
+"ctx": "source/minigame2.c:265",
+"used": true
+},
+{
+"id": 2197,
+"en": "Maria Callas",
+"ctx": "source/note.c:21",
+"used": true
+},
+{
+"id": 2198,
+"en": "Ludwig van Beethoven",
+"ctx": "source/note.c:21",
+"used": true
+},
+{
+"id": 2199,
+"en": "Marie Curie",
+"ctx": "source/note.c:21",
+"used": true
+},
+{
+"id": 2200,
+"en": "Miguel de Cervantes",
+"ctx": "source/note.c:22",
+"used": true
+},
+{
+"id": 2201,
+"en": "Leonardo da Vinci",
+"ctx": "source/note.c:22",
+"used": true
+},
+{
+"id": 2202,
+"en": "Bertha von Suttner",
+"ctx": "source/note.c:22",
+"used": true
+},
+{
+"id": 2203,
+"en": "street performers",
+"ctx": "source/note.c:23",
+"used": true
+},
+{
+"id": 2204,
+"en": "a song festival",
+"ctx": "source/note.c:23",
+"used": true
+},
+{
+"id": 2205,
+"en": "a school",
+"ctx": "source/note.c:23",
+"used": true
+},
+{
+"id": 2206,
+"en": "a library",
+"ctx": "source/note.c:23",
+"used": true
+},
+{
+"id": 2207,
+"en": "street art",
+"ctx": "source/note.c:24",
+"used": true
+},
+{
+"id": 2208,
+"en": "a tree-lined square",
+"ctx": "source/note.c:24",
+"used": true
+},
+{
+"id": 2209,
+"en": "a wallcreeper by a mountain spring",
+"ctx": "source/note.c:26",
+"used": true
+},
+{
+"id": 2210,
+"en": "a kingfisher at a waterfall",
+"ctx": "source/note.c:26",
+"used": true
+},
+{
+"id": 2211,
+"en": "bee-eaters in a river valley",
+"ctx": "source/note.c:26",
+"used": true
+},
+{
+"id": 2212,
+"en": "a white stork by a meandering river",
+"ctx": "source/note.c:27",
+"used": true
+},
+{
+"id": 2213,
+"en": "an avocet at a river mouth",
+"ctx": "source/note.c:27",
+"used": true
+},
+{
+"id": 2214,
+"en": "a northern gannet over the sea",
+"ctx": "source/note.c:27",
+"used": true
+},
+{
+"id": 2215,
+"en": "the European Parliament",
+"ctx": "source/note.c:29",
+"used": true
+},
+{
+"id": 2216,
+"en": "the European Commission",
+"ctx": "source/note.c:29",
+"used": true
+},
+{
+"id": 2217,
+"en": "the European Central Bank",
+"ctx": "source/note.c:29",
+"used": true
+},
+{
+"id": 2218,
+"en": "the Court of Justice of the EU",
+"ctx": "source/note.c:30",
+"used": true
+},
+{
+"id": 2219,
+"en": "the European Council and the Council of the EU",
+"ctx": "source/note.c:30",
+"used": true
+},
+{
+"id": 2220,
+"en": "the European Court of Auditors",
+"ctx": "source/note.c:30",
+"used": true
+},
+{
+"id": 2221,
+"en": "Front: your portrait, in place of %s",
+"ctx": "source/note.c:137",
+"used": true
+},
+{
+"id": 2222,
+"en": "Back: %s",
+"ctx": "source/note.c:138",
+"used": true
+},
+{
+"id": 2223,
+"en": "Front: %s",
+"ctx": "source/note.c:140",
+"used": true
+},
+{
+"id": 2224,
+"en": "Specimen note – €%d",
+"ctx": "source/note.c:153",
+"used": true
+},
+{
+"id": 2225,
+"en": "Not legal tender: this is a design specimen.",
+"ctx": "source/note.c:155",
+"used": true
+},
+{
+"id": 2226,
+"en": "Front",
+"ctx": "source/note.c:159",
+"used": true
+},
+{
+"id": 2227,
+"en": "L/R or tap: turn over · B: close",
+"ctx": "source/note.c:160",
+"used": true
+},
+{
+"id": 2228,
+"en": "Light",
+"ctx": "source/note.c:227",
+"used": true
+},
+{
+"id": 2229,
+"en": "Medium",
+"ctx": "source/note.c:227",
+"used": true
+},
+{
+"id": 2230,
+"en": "Dark",
+"ctx": "source/note.c:227",
+"used": true
+},
+{
+"id": 2231,
+"en": "Eraser",
+"ctx": "source/note.c:227",
+"used": true
+},
+{
+"id": 2232,
+"en": "S",
+"ctx": "source/note.c:228",
+"used": true
+},
+{
+"id": 2233,
+"en": "L",
+"ctx": "source/note.c:228",
+"used": true
+},
+{
+"id": 2234,
+"en": "Undo",
+"ctx": "source/note.c:234",
+"used": true
+},
+{
+"id": 2235,
+"en": "Clear",
+"ctx": "source/note.c:235",
+"used": true
+},
+{
+"id": 2236,
+"en": "Done",
+"ctx": "source/note.c:236",
+"used": true
+},
+{
+"id": 2237,
+"en": "Draw your portrait",
+"ctx": "source/note.c:258",
+"used": true
+},
+{
+"id": 2238,
+"en": "The studio engraves it like a banknote portrait.",
+"ctx": "source/note.c:259",
+"used": true
+},
+{
+"id": 2239,
+"en": "Your specimen note",
+"ctx": "source/note.c:355",
+"used": true
+},
+{
+"id": 2240,
+"en": "European culture",
+"ctx": "source/note.c:359",
+"used": true
+},
+{
+"id": 2241,
+"en": "Rivers and birds",
+"ctx": "source/note.c:360",
+"used": true
+},
+{
+"id": 2242,
+"en": "Turn over",
+"ctx": "source/note.c:371",
+"used": true
+},
+{
+"id": 2243,
+"en": "New portrait",
+"ctx": "source/note.c:372",
+"used": true
+},
+{
+"id": 2244,
+"en": "Print the specimen",
+"ctx": "source/note.c:373",
+"used": true
+},
+{
+"id": 2245,
+"en": "Printing…",
+"ctx": "source/note.c:427",
+"used": true
+},
+{
+"id": 2246,
+"en": "Your portrait for the specimen",
+"ctx": "source/note.c:456",
+"used": true
+},
+{
+"id": 2247,
+"en": "The DSi camera, the stylus or your official photo.",
+"ctx": "source/note.c:457",
+"used": true
+},
+{
+"id": 2248,
+"en": "The stylus or your official photo.",
+"ctx": "source/note.c:458",
+"used": true
+},
+{
+"id": 2249,
+"en": "Take a photo",
+"ctx": "source/note.c:459",
+"used": true
+},
+{
+"id": 2250,
+"en": "Draw my portrait",
+"ctx": "source/note.c:459",
+"used": true
+},
+{
+"id": 2251,
+"en": "Use my official photo",
+"ctx": "source/note.c:459",
+"used": true
+},
+{
+"id": 2252,
+"en": "The camera cannot be used here. You can draw your portrait instead.",
+"ctx": "source/note.c:470",
+"used": true
+},
+{
+"id": 2253,
+"en": "Your specimen note joined the collection of the Money Museum in Frankfurt.",
+"ctx": "source/note.c:523",
+"used": true
+},
+{
+"id": 2254,
+"en": "In Frankfurt, the ECB studio is still keeping a blank specimen with your name on it.",
+"ctx": "source/note.c:524",
+"used": true
+},
+{
+"id": 2255,
+"en": "Starting the camera…",
+"ctx": "source/photo.c:128",
+"used": true
+},
+{
+"id": 2256,
+"en": "Fit your face in the oval",
+"ctx": "source/photo.c:141",
+"used": true
+},
+{
+"id": 2257,
+"en": "A or tap: take the photo · L/R: other camera · B: back",
+"ctx": "source/photo.c:141",
+"used": true
+},
+{
+"id": 2258,
+"en": "Engraving test",
+"ctx": "source/photo.c:166",
+"used": true
+},
+{
+"id": 2259,
+"en": "Retake",
+"ctx": "source/photo.c:167",
+"used": true
+},
+{
+"id": 2260,
+"en": "Keep",
+"ctx": "source/photo.c:168",
+"used": true
+},
+{
+"id": 2261,
+"en": "Between us: the euro became cash, in people's pockets, in 2002. Some doors in this tower still remember that year.",
+"ctx": "assets/scripts/ch2_4.evs:182",
+"used": true
+},
+{
+"id": 2262,
+"en": "The Euro sign by the artist Ottmar Hörl, unveiled in 2001 in front of the ECB's former tower.",
+"ctx": "assets/scripts/zz_francfort.evs:6",
+"used": true
+},
+{
+"id": 2263,
+"en": "A few weeks later, on 1 January 2002, euro notes and coins reached people's pockets in twelve countries.",
+"ctx": "assets/scripts/zz_francfort.evs:7",
+"used": true
+},
+{
+"id": 2264,
+"en": "Memorial at the Grossmarkthalle.",
+"ctx": "assets/scripts/zz_francfort.evs:10",
+"used": true
+},
+{
+"id": 2265,
+"en": "Between 1941 and 1945, about 10,000 Jewish men, women and children from Frankfurt and the region were deported from the cellar of this market hall to ghettos and camps. Most of them were murdered.",
+"ctx": "assets/scripts/zz_francfort.evs:11",
+"used": true
+},
+{
+"id": 2266,
+"en": "The City of Frankfurt, the Jewish Community and the ECB, whose headquarters now include the hall, created this memorial together.",
+"ctx": "assets/scripts/zz_francfort.evs:12",
+"used": true
+},
+{
+"id": 2267,
+"en": "The Römer, Frankfurt's town hall since 1405. In its Imperial Hall, newly crowned emperors of the Holy Roman Empire held their coronation banquets.",
+"ctx": "assets/scripts/zz_francfort.evs:17",
+"used": true
+},
+{
+"id": 2268,
+"en": "Half-timbered houses on the Römerberg. Bombing destroyed the old town in 1944; this row was rebuilt in the 1980s, beam by beam.",
+"ctx": "assets/scripts/zz_francfort.evs:20",
+"used": true
+},
+{
+"id": 2269,
+"en": "The Justice Fountain. Look closely: this Justitia holds her scales and her sword, but wears no blindfold.",
+"ctx": "assets/scripts/zz_francfort.evs:23",
+"used": true
+},
+{
+"id": 2270,
+"en": "They call this city “Mainhattan”: skyscrapers on the river Main. I've counted eleven cranes and four banks. Or the other way round.",
+"ctx": "assets/scripts/zz_francfort.evs:26",
+"used": true
+},
+{
+"id": 2271,
+"en": "In 1848 and 1849, the first freely elected parliament for all of Germany met in this church.",
+"ctx": "assets/scripts/zz_francfort.evs:31",
+"used": true
+},
+{
+"id": 2272,
+"en": "It wrote a constitution with fundamental rights. It never came into force, but later German constitutions drew on it.",
+"ctx": "assets/scripts/zz_francfort.evs:32",
+"used": true
+},
+{
+"id": 2273,
+"en": "Guide",
+"ctx": "assets/scripts/zz_francfort.evs:35",
+"used": true
+},
+{
+"id": 2274,
+"en": "The hall still has its big days: every October, the Peace Prize of the German Book Trade is awarded here.",
+"ctx": "assets/scripts/zz_francfort.evs:35",
+"used": true
+},
+{
+"id": 2275,
+"en": "The bull charges with its horns upwards: a rising market.",
+"ctx": "assets/scripts/zz_francfort.evs:40",
+"used": true
+},
+{
+"id": 2276,
+"en": "The bear swipes its paw downwards: a falling market.",
+"ctx": "assets/scripts/zz_francfort.evs:43",
+"used": true
+},
+{
+"id": 2277,
+"en": "The DAX board. Germany's best-known stock index was launched here in 1988.",
+"ctx": "assets/scripts/zz_francfort.evs:46",
+"used": true
+},
+{
+"id": 2278,
+"en": "Buy the rumour, sell the news. And never, ever sell your umbrella in April.",
+"ctx": "assets/scripts/zz_francfort.evs:49",
+"used": true
+},
+{
+"id": 2279,
+"en": "Johann Wolfgang von Goethe was born in this house on 28 August 1749. He worked on Faust for some sixty years.",
+"ctx": "assets/scripts/zz_francfort.evs:54",
+"used": true
+},
+{
+"id": 2280,
+"en": "His name now travels the world: the Goethe-Institut teaches German in nearly a hundred countries.",
+"ctx": "assets/scripts/zz_francfort.evs:55",
+"used": true
+},
+{
+"id": 2281,
+"en": "The Messeturm stands over the trade fair grounds. Every October they host the Frankfurt Book Fair, the largest book fair in the world.",
+"ctx": "assets/scripts/zz_francfort.evs:58",
+"used": true
+},
+{
+"id": 2282,
+"en": "Reader",
+"ctx": "assets/scripts/zz_francfort.evs:61",
+"used": true
+},
+{
+"id": 2283,
+"en": "I came for the Book Fair and stayed for the green sauce. I've read three books and eaten five sauces.",
+"ctx": "assets/scripts/zz_francfort.evs:61",
+"used": true
+},
+{
+"id": 2284,
+"en": "The Iron Footbridge across the Main, built in 1869. Thousands of padlocks hang on its railings: lovers' promises.",
+"ctx": "assets/scripts/zz_francfort.evs:66",
+"used": true
+},
+{
+"id": 2285,
+"en": "Couple",
+"ctx": "assets/scripts/zz_francfort.evs:69",
+"used": true
+},
+{
+"id": 2286,
+"en": "We locked our padlock on the bridge and threw the key into the Main. We still have to decide whose idea it was.",
+"ctx": "assets/scripts/zz_francfort.evs:69",
+"used": true
+},
+{
+"id": 2287,
+"en": "Frankfurter",
+"ctx": "assets/scripts/zz_francfort.evs:72",
+"used": true
+},
+{
+"id": 2288,
+"en": "On the other bank is Sachsenhausen. That's where we drink Ebbelwoi, apple wine. Nobody calls it cider here, mind you.",
+"ctx": "assets/scripts/zz_francfort.evs:72",
+"used": true
+},
+{
+"id": 2289,
+"en": "A pine wreath hangs over the door: the sign that this tavern presses and serves its own apple wine.",
+"ctx": "assets/scripts/zz_francfort.evs:77",
+"used": true
+},
+{
+"id": 2290,
+"en": "Landlady",
+"ctx": "assets/scripts/zz_francfort.evs:81",
+"used": true
+},
+{
+"id": 2291,
+"en": "Guten Abend! Apple wine is poured from the Bembel, the grey stoneware jug, into a Gerippte, the glass with the diamond pattern.",
+"ctx": "assets/scripts/zz_francfort.evs:81",
+"used": true
+},
+{
+"id": 2292,
+"en": "Tonight I have a full room and two hands. You fill the glasses, I'll carry them?",
+"ctx": "assets/scripts/zz_francfort.evs:82",
+"used": true
+},
+{
+"id": 2293,
+"en": "Fancy another round behind the counter?",
+"ctx": "assets/scripts/zz_francfort.evs:85",
+"used": true
+},
+{
+"id": 2294,
+"en": "Not a drop on my tables! Here, take this, and come back whenever you like.",
+"ctx": "assets/scripts/zz_francfort.evs:94",
+"used": true
+},
+{
+"id": 2295,
+"en": "Perfect again. You could open your own tavern. Just hang a pine wreath over the door.",
+"ctx": "assets/scripts/zz_francfort.evs:99",
+"used": true
+},
+{
+"id": 2296,
+"en": "Ach, the tables are swimming! Never mind, we'll mop up.",
+"ctx": "assets/scripts/zz_francfort.evs:102",
+"used": true
+},
+{
+"id": 2297,
+"en": "Regular",
+"ctx": "assets/scripts/zz_francfort.evs:106",
+"used": true
+},
+{
+"id": 2298,
+"en": "Handkäs mit Musik: sour-milk cheese marinated with onions. The music comes later. Don't ask.",
+"ctx": "assets/scripts/zz_francfort.evs:106",
+"used": true
+},
+{
+"id": 2299,
+"en": "Green sauce takes exactly seven herbs: borage, chervil, cress, parsley, salad burnet, sorrel and chives.",
+"ctx": "assets/scripts/zz_francfort.evs:109",
+"used": true
+},
+{
+"id": 2300,
+"en": "Since 2016 the EU protects “Frankfurter Grüne Soße” as a geographical indication. Seven herbs, no more, no less.",
+"ctx": "assets/scripts/zz_francfort.evs:110",
+"used": true
+},
+{
+"id": 2301,
+"en": "A real gold bar, 12.5 kilograms, that visitors are allowed to lift. Most manage a few centimetres.",
+"ctx": "assets/scripts/zz_francfort.evs:115",
+"used": true
+},
+{
+"id": 2302,
+"en": "From shells to coins, from coins to paper, from paper to the euro: three thousand years of money in a few shelves.",
+"ctx": "assets/scripts/zz_francfort.evs:118",
+"used": true
+},
+{
+"id": 2303,
+"en": "Curator",
+"ctx": "assets/scripts/zz_francfort.evs:121",
+"used": true
+},
+{
+"id": 2304,
+"en": "The Bundesbank is Germany's central bank. Since 1999 it has been part of the Eurosystem, with the ECB and the other central banks of the euro area.",
+"ctx": "assets/scripts/zz_francfort.evs:121",
+"used": true
+},
+{
+"id": 2305,
+"en": "I hear you have a specimen note with your face on it. When your adventure is over, we'd love it for our collection.",
+"ctx": "assets/scripts/zz_francfort.evs:123",
+"used": true
+},
+{
+"id": 2306,
+"en": "A portrait of Europa, the princess of Greek myth who gave her name to the continent.",
+"ctx": "assets/scripts/zz_francfort.evs:130",
+"used": true
+},
+{
+"id": 2307,
+"en": "Her face comes from a Greek vase more than 2,000 years old, kept at the Louvre. Hold a euro note up to the light: she's in the watermark.",
+"ctx": "assets/scripts/zz_francfort.evs:131",
+"used": true
+},
+{
+"id": 2308,
+"en": "Behind the frame, a small keypad glows. Four digits.",
+"ctx": "assets/scripts/zz_francfort.evs:133",
+"used": true
+},
+{
+"id": 2309,
+"en": "Type a code?",
+"ctx": "assets/scripts/zz_francfort.evs:134",
+"used": true
+},
+{
+"id": 2310,
+"en": "The keypad blinks red. Somewhere on the trading floor, someone sighs.",
+"ctx": "assets/scripts/zz_francfort.evs:141",
+"used": true
+},
+{
+"id": 2311,
+"en": "Click. The painting swings open onto a narrow staircase going down…",
+"ctx": "assets/scripts/zz_francfort.evs:145",
+"used": true
+},
+{
+"id": 2312,
+"en": "Go down to the secret studio?",
+"ctx": "assets/scripts/zz_francfort.evs:148",
+"used": true
+},
+{
+"id": 2313,
+"en": "A workshop full of easels, engraving tools and a heavy press. On the door: “Banknote design – confidential”.",
+"ctx": "assets/scripts/zz_francfort.evs:159",
+"used": true
+},
+{
+"id": 2314,
+"en": "Theme “European culture”: Maria Callas (€5), Ludwig van Beethoven (€10), Marie Curie (€20), Miguel de Cervantes (€50), Leonardo da Vinci (€100) and Bertha von Suttner (€200).",
+"ctx": "assets/scripts/zz_francfort.evs:164",
+"used": true
+},
+{
+"id": 2315,
+"en": "On the back: places where culture is shared. Street performers, a song festival, a school, a library, street art, a tree-lined square.",
+"ctx": "assets/scripts/zz_francfort.evs:165",
+"used": true
+},
+{
+"id": 2316,
+"en": "Theme “Rivers and birds”: from a mountain spring (€5) to the open sea (€200), with a wallcreeper, a kingfisher, bee-eaters, a white stork, an avocet and a northern gannet.",
+"ctx": "assets/scripts/zz_francfort.evs:168",
+"used": true
+},
+{
+"id": 2317,
+"en": "On the back: the EU institutions, from the European Parliament to the European Court of Auditors.",
+"ctx": "assets/scripts/zz_francfort.evs:169",
+"used": true
+},
+{
+"id": 2318,
+"en": "The ten finalist designs: EC145, EC564, EC617, EC799, EC915 and RB120, RB227, RB637, RB754, RB832.",
+"ctx": "assets/scripts/zz_francfort.evs:172",
+"used": true
+},
+{
+"id": 2319,
+"en": "The designers' names stay secret. After a public survey, the ECB's Governing Council makes the final choice.",
+"ctx": "assets/scripts/zz_francfort.evs:173",
+"used": true
+},
+{
+"id": 2320,
+"en": "An intaglio press. It pushes ink into the paper so hard that it stands in relief: that's the raised print you can feel on a real note.",
+"ctx": "assets/scripts/zz_francfort.evs:176",
+"used": true
+},
+{
+"id": 2321,
+"en": "Specifications: the same sizes as today's notes, one dominant colour per value, and on every note the European flag, a map of Europe and the signature of the ECB President.",
+"ctx": "assets/scripts/zz_francfort.evs:179",
+"used": true
+},
+{
+"id": 2322,
+"en": "Jury member",
+"ctx": "assets/scripts/zz_francfort.evs:182",
+"used": true
+},
+{
+"id": 2323,
+"en": "In 2025, more than 1,200 designers answered the ECB's call. Thirty-nine proposals reached the jury; ten are on these easels.",
+"ctx": "assets/scripts/zz_francfort.evs:182",
+"used": true
+},
+{
+"id": 2324,
+"en": "The aim is to replace imaginary bridges and windows with real people, real birds and real places.",
+"ctx": "assets/scripts/zz_francfort.evs:183",
+"used": true
+},
+{
+"id": 2325,
+"en": "Eleni",
+"ctx": "assets/scripts/zz_francfort.evs:188",
+"used": true
+},
+{
+"id": 2326,
+"en": "Kaliméra! I'm Eleni, intaglio engraver. I learnt the trade at the Bank of Greece printing works, in Athens.",
+"ctx": "assets/scripts/zz_francfort.evs:188",
+"used": true
+},
+{
+"id": 2327,
+"en": "Officially, the ECB doesn't print a single note: it designs them, and printing works across Europe produce them.",
+"ctx": "assets/scripts/zz_francfort.evs:189",
+"used": true
+},
+{
+"id": 2328,
+"en": "Right now we're preparing the next euro banknotes. In 2026 a jury shortlisted ten designs on two themes: European culture, and rivers and birds.",
+"ctx": "assets/scripts/zz_francfort.evs:190",
+"used": true
+},
+{
+"id": 2329,
+"en": "Before the final choice, I must test the engraving on a real face. Euro notes have never shown a living person… so yours will stay a specimen.",
+"ctx": "assets/scripts/zz_francfort.evs:191",
+"used": true
+},
+{
+"id": 2330,
+"en": "But nobody touches my plates without passing the test. Feel, look, tilt: show me you can tell a genuine note from a fake.",
+"ctx": "assets/scripts/zz_francfort.evs:192",
+"used": true
+},
+{
+"id": 2331,
+"en": "Ready?",
+"ctx": "assets/scripts/zz_francfort.evs:193",
+"used": true
+},
+{
+"id": 2332,
+"en": "Bravo! You have the eye of a central banker. Now, your portrait.",
+"ctx": "assets/scripts/zz_francfort.evs:200",
+"used": true
+},
+{
+"id": 2333,
+"en": "A new specimen? The press is still warm.",
+"ctx": "assets/scripts/zz_francfort.evs:203",
+"used": true
+},
+{
+"id": 2334,
+"en": "There you are, engraved! See the serial number? The first letter, Y, is the code of the Bank of Greece. My little signature.",
+"ctx": "assets/scripts/zz_francfort.evs:210",
+"used": true
+},
+{
+"id": 2335,
+"en": "Show it around. And save your game in Report, so that your note stays with you.",
+"ctx": "assets/scripts/zz_francfort.evs:211",
+"used": true
+},
+{
+"id": 2336,
+"en": "A fake got through. Feel, look, tilt: it only takes a few seconds. Come back when you're ready.",
+"ctx": "assets/scripts/zz_francfort.evs:214",
+"used": true
+},
+{
+"id": 2337,
+"en": "Take your time. A good engraving can't be rushed.",
+"ctx": "assets/scripts/zz_francfort.evs:217",
+"used": true
+},
+{
+"id": 2338,
+"en": "Apple-Wine Tavern – Sachsenhausen",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2339,
+"en": "ECB – Banknote Design Studio",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2340,
+"en": "Frankfurt Stock Exchange",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2341,
+"en": "Money Museum of the Bundesbank",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2342,
+"en": "Goethe House – Frankfurt",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2343,
+"en": "Paulskirche – Assembly Hall",
+"ctx": "map name",
+"used": true
+},
+{
+"id": 2344,
+"en": "Specimen Note",
+"ctx": "item name",
+"used": true
+},
+{
+"id": 2345,
+"en": "Your portrait, engraved at the ECB studio in Frankfurt. Not legal tender.",
+"ctx": "item Specimen Note",
+"used": true
+},
+{
+"id": 2346,
+"en": "Apple-wine tavern, Sachsenhausen",
+"ctx": "source/minigame2.c:212",
+"used": true
+},
+{
+"id": 2347,
+"en": "Hold to tilt the Bembel · let go to stop · Serve when the apple wine reaches the line.",
+"ctx": "source/minigame2.c:214",
+"used": false
+},
+{
+"id": 2348,
+"en": "Hold to tilt the Bembel, let go to stop. Serve when the apple wine reaches the line.",
+"ctx": "source/minigame2.c:214",
+"used": true
 }
 ]

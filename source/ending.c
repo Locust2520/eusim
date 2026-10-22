@@ -1,5 +1,6 @@
 // Ending: scrolling staff roll over a starry sky with the Euromons of the player's team.
 #include "scenes.h"
+#include "note.h"
 #include "lang.h"
 #include "canvas.h"
 #include "gfx.h"
@@ -87,6 +88,7 @@ void ending_run(void)
             off += 3;
     }
     free(txt);
+    note_ending();   // the specimen banknote from the ECB studio
     canvas_text_center(&g_bot, &font_main, 128, 90, "THE END… or almost.", C_GOLD, 0);
     for (int i = 0; i < 180 && !(g_kdown & (KEY_A | KEY_START)); i++)
         frame_wait();

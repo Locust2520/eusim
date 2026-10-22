@@ -270,5 +270,13 @@
   "price": 0,
   "param": 0,
   "desc": "Holds the treaty badges."
+ },
+ {
+  "id": "billet_specimen",
+  "name": "Specimen Note",
+  "kind": "key",
+  "price": 0,
+  "param": 0,
+  "desc": "Your portrait, engraved at the ECB studio in Frankfurt. Not legal tender."
  }
 ]

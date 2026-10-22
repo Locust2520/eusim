@@ -40,7 +40,10 @@ void frame_wait(void) {
     g_frame++; if(hook) hook();
     if(browser.ready && browser.request!=seen && outcome) {
         seen=browser.request;
-        if(outcome==1 && browser.operation==1) memcpy((void*)&browser.data[browser.slot],(void*)&browser.data[3],sizeof(SaveData));
+        if(outcome==1 && browser.operation==1) {
+            memcpy((void*)&browser.data[browser.slot],(void*)&browser.data[3],sizeof(SaveData));
+            memcpy((void*)&browser.extra[browser.slot],(void*)&browser.extra[3],sizeof(SaveExtra));
+        }
         browser.result=outcome;
     }
 }
@@ -68,5 +71,15 @@ int main(void) {
     assert(!save_load(-1) && !save_load(3));
     unsigned before=browser.request; g_save_slot=3; assert(!save_write() && browser.request==before);
     browser.data[0].money++; assert(!save_load(0)); // checksum detects corruption
+    // the specimen banknote travels with its slot; slots without one load an empty block
+    assert(browser.extra_size==sizeof(SaveExtra) && sizeof(SaveExtra)==SAVE_EXTRA_SIZE);
+    g_save_slot=1; assert(save_load(1)); assert(!save_extra_present(&g_save_extra));
+    g_save_extra.magic=SAVE_EXTRA_MAGIC; g_save_extra.note_denom=2; g_save_extra.note_px[17]=0xA5;
+    assert(save_write() && save_extra_present((SaveExtra*)&browser.extra[1]));
+    SaveExtra kept=g_save_extra;
+    assert(save_load(2) && !save_extra_present(&g_save_extra));
+    assert(save_load(1) && !memcmp(&g_save_extra,&kept,sizeof kept));
+    browser.extra[1].note_px[3]^=1; assert(save_load(1) && g_save_extra.magic==0); // damaged note: dropped, save kept
+    g_save_slot=1; save_new_game(); assert(g_save_extra.magic==0);
 }
 ''')

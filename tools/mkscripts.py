@@ -77,13 +77,14 @@ SFX = ['BLIP', 'SELECT', 'CANCEL', 'CURSOR', 'BUMP', 'DOOR', 'STAMP', 'HIT', 'HI
        'HEAL', 'LEVELUP', 'CAPTURE_SHAKE', 'CAPTURE_OK', 'THROW', 'SMS', 'GAVEL', 'VOTE', 'PAPER', 'COIN', 'ERROR',
        'STAR', 'EXP', 'SAVE', 'TRAIN', 'JUMP', 'ALARM', 'WHOOSH', 'STATUP', 'STATDOWN']
 MINIGAMES = ['vote', 'tampon', 'cookies', 'sommet', 'trilogue', 'langues', 'bouchon', 'signature', 'malles',
-             'courriels', 'desinfox', 'taux', 'usbc']
+             'courriels', 'desinfox', 'taux', 'usbc', 'billets', 'bembel', 'evzones', 'periptero', 'conteneurs',
+             'tapis', 'cigognes', 'douane', 'echecs', 'schuman', 'casemates']
 ENGINE_TRAIN = ['bruxelles', 'luxembourg', 'francfort', 'strasbourg', 'athenes', 'londres', 'budapest', 'paris',
                 'anvers', 'varsovie', 'rome', 'maastricht', 'lisbonne']
 SPECIALS = ['shop', 'pc', 'dex_rating', 'credits', 'name_rival', 'save', 'heal_anim', 'map_popup', 'sources',
             'set_heal_point', 'badge_case', 'ending', 'starter_choice', 'clock_check', 'move_tutor', 'game_corner',
             'title_return', 'unlock_postgame', 'greenland', 'gas_cut', 'rare_earth', 'restore_world', 'train',
-            'jukebox']
+            'jukebox', 'note_studio', 'note_view', 'keypad']
 
 
 def name_hash(s):
