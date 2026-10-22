@@ -1,0 +1,19 @@
+# Portuguese — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Carimba 15 acórdãos válidos em 30 segundos. Deixa passar os papéis marcados «FALSO»: carimbar um faz perder a ronda!
+2087	ACÓRDÃO
+2088	ACÓRDÃO: carimbar. FALSO: deixar passar.
+2089	Quinze acórdãos válidos carimbados! A administração está orgulhosa de ti.
+2090	Carimbaste um documento falso! Verifica antes de aprovar…
+2091	Os quinze acórdãos válidos não estão prontos. A secretaria está a fechar. Tenta outra vez…
+2092	Aqui está a pilha de hoje. Precisamos de quinze acórdãos válidos carimbados antes de a secretaria fechar. Atenção, passaram alguns documentos falsos! Dás-me uma mãozinha?
+2093	A secretaria não pode aprovar esta pilha. São precisos quinze acórdãos válidos e nenhum documento falso carimbado. Tenta quando quiseres.
+2094	Mais quinze acórdãos em ordem! Pelo teu segundo sucesso, aqui tens um carimbo qualificado.
+2095	Impecável! Ainda tenho um carimbo qualificado para ti. O Luxemburgo adora pessoas metódicas.
+2096	Impecável! Mas desta vez não tenho nenhum carimbo para ti. Volta e dá-me outra mãozinha!
+2097	O outro jogador envia %s!
+2098	Equipa ou ligação inválida.
+2099	Não são permitidos objetos num debate amigável.
+2100	Ganhas este debate amigável!
+2101	O outro jogador ganha este debate amigável!
+2102	Debate terminado ou ligação interrompida.
+2105	Falha ao guardar. Tenta outra vez.

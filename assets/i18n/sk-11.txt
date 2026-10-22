@@ -1,0 +1,19 @@
+# Slovak — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Opečiatkuj 15 platných rozsudkov za 30 sekúnd. Papiere označené „FALZ“ nechaj prejsť: opečiatkovať taký znamená prehrať kolo!
+2087	ROZSUDOK
+2088	ROZSUDOK: pečiatkuj. FALZ: nechaj prejsť.
+2089	Pätnásť platných rozsudkov opečiatkovaných! Správa je na teba hrdá.
+2090	Opečiatkoval si zlý dokument! Skontroluj to skôr, než schváliš…
+2091	Pätnásť platných rozsudkov nie je hotových. Kancelária zatvára. Skús to znova…
+2092	Tu je dnešná kopa. Potrebujeme opečiatkovať pätnásť platných rozsudkov, kým kancelária zatvorí. Pozor, medzi nimi sa skryli zlé dokumenty! Pomôžeš mi?
+2093	Kancelária túto kopu nemôže schváliť. Treba pätnásť platných rozsudkov a žiadny opečiatkovaný zlý dokument. Skús to, kedykoľvek budeš chcieť.
+2094	Ďalších pätnásť rozsudkov v poriadku! Za tvoj druhý úspech tu máš kvalifikovanú pečiatku.
+2095	Bezchybné! Mám pre teba ešte jednu kvalifikovanú pečiatku. Luxembursko miluje metodických ľudí.
+2096	Bezchybné! Ale tentoraz pre teba nemám žiadnu pečiatku. Príď a pomôž mi znova!
+2097	Druhý hráč posiela do boja: %s!
+2098	Neplatný tím alebo pripojenie.
+2099	V priateľskej debate nie sú povolené predmety.
+2100	Vyhrávaš túto priateľskú debatu!
+2101	Druhý hráč vyhráva túto priateľskú debatu!
+2102	Debata skončila alebo sa pripojenie prerušilo.
+2105	Uloženie zlyhalo. Skús to znova.

@@ -1,0 +1,523 @@
+# Latvian — city extensions (ids 2169+)
+2169	VILTOTA
+2171	%d s · %d/%d
+2172	Malās ir reljefas līnijas: tās var sajust.
+2173	Papīrs visur ir gluds…
+2174	Sajust
+2175	Skatīt
+2176	Sašķiebt
+2177	Pārbaudi un lēmi:
+2178	Īsta
+2179	Viltota
+2180	L/R: šķiebt · X: pret gaismu · Y: sajust
+2181	Sajust, skatīt, šķiebt
+2184	Tā bija %s: trūka reljefā iespieduma.
+2185	Tā bija %s: pret gaismu nebija ūdenszīmes.
+2186	Tā bija %s: skaitlis nemainīja krāsu.
+2187	viltota banknote
+2188	Tā bija īsta banknote!
+2189	Neviena viltojuma netika cauri! Ūdenszīmē tu redzēji Eiropu uz grieķu vāzes, kas vecāka par 2000 gadiem.
+2190	Viltojums izslīdēja cauri… Sajust, skatīt, šķiebt: trīs pārbaudēm vajag tikai pāris sekundes.
+2191	Bembel
+2194	Pasniegt
+2196	Pārāk daudz izlietu glāžu… Krodzinieks tev aizdod lupatu.
+2197	Marija Kalasa
+2198	Ludvigs van Bēthovens
+2199	Marija Kirī
+2200	Migels de Servantess
+2201	Leonardo da Vinči
+2202	Berta fon Zutnere
+2203	ielu mūziķi
+2204	dziesmu svētki
+2205	skola
+2206	bibliotēka
+2207	ielu māksla
+2208	koku ieskauts laukums
+2209	klinšu ložņa pie kalnu avota
+2210	zivju dzenītis pie ūdenskrituma
+2211	bišu dzeņi upes ielejā
+2212	baltais stārķis pie līkumotas upes
+2213	avozete upes grīvā
+2214	ziemeļu sula virs jūras
+2215	Eiropas Parlaments
+2216	Eiropas Komisija
+2217	Eiropas Centrālā banka
+2218	Eiropas Savienības Tiesa
+2219	Eiropadome un ES Padome
+2220	Eiropas Revīzijas palāta
+2221	Priekšpuse: tavs portrets (agrāk: %s)
+2222	Aizmugure: %s
+2223	Priekšpuse: %s
+2224	Parauga banknote – %d €
+2225	Nav likumīgs maksāšanas līdzeklis: tas ir dizaina paraugs.
+2227	L/R vai pieskāriens: apgriezt · B: aizvērt
+2228	Gaišs
+2229	Vidējs
+2230	Tumšs
+2231	Dzēšgumija
+2234	Atcelt
+2235	Notīrīt
+2236	Gatavs
+2237	Uzzīmē savu portretu
+2238	Studija to iegravē kā banknotes portretu.
+2239	Tava parauga banknote
+2240	Eiropas kultūra
+2241	Upes un putni
+2242	Apgriezt
+2243	Jauns portrets
+2244	Izdrukāt paraugu
+2245	Drukā…
+2246	Tavs portrets paraugam
+2247	DSi kamera, irbulis vai tava oficiālā foto.
+2248	Irbulis vai tava oficiālā foto.
+2249	Fotografēt
+2250	Zīmēt portretu
+2251	Oficiālā foto
+2252	Kameru šeit izmantot nevar. Tā vietā vari uzzīmēt savu portretu.
+2253	Tava parauga banknote pievienota Frankfurtes Naudas muzeja kolekcijai.
+2254	Frankfurtē ECB studija joprojām glabā tukšu paraugu ar tavu vārdu.
+2255	Palaiž kameru…
+2256	Ievieto seju ovālā
+2257	A vai pieskāriens: fotografēt · L/R: otra kamera · B: atpakaļ
+2258	Gravēšanas tests
+2259	Atkārtot
+2260	Paturēt
+2261	Starp mums: eiro skaidrā naudā cilvēku kabatās nonāca 2002. gadā. Dažas šī torņa durvis vēl atceras to gadu.
+2262	Eiro zīme — mākslinieka Otmara Hērla darbs, atklāta 2001. gadā ECB bijušā torņa priekšā.
+2263	Dažas nedēļas vēlāk, 2002. gada 1. janvārī, eiro banknotes un monētas nonāca cilvēku kabatās divpadsmit valstīs.
+2264	Piemineklis Lielajā tirgus hallē (Grossmarkthalle).
+2265	No 1941. līdz 1945. gadam no šīs tirgus halles pagraba uz geto un nometnēm tika deportēti ap 10 000 ebreju vīriešu, sieviešu un bērnu no Frankfurtes un apkaimes. Lielākā daļa tika nogalināti.
+2266	Šo pieminekli kopīgi izveidoja Frankfurtes pilsēta, Ebreju kopiena un ECB, kuras mītnē tagad ietilpst arī šī halle.
+2267	Rēmers — Frankfurtes rātsnams kopš 1405. gada. Tā Ķeizaru zālē tikko kronētie Svētās Romas impērijas ķeizari rīkoja kronēšanas dzīres.
+2268	Koka karkasa mājas Rēmerbergā. Vecpilsētu 1944. gadā iznīcināja bombardēšana; šī rinda tika atjaunota 1980. gados, baļķi pa baļķim.
+2269	Taisnības strūklaka. Paskaties uzmanīgi: šī Justīcija tur svarus un zobenu, bet acis viņai nav aizsietas.
+2270	Šo pilsētu sauc par “Mainhetenu”: debesskrāpji pie Mainas upes. Esmu saskaitījis vienpadsmit celtņus un četras bankas. Vai otrādi.
+2271	1848. un 1849. gadā šajā baznīcā sanāca pirmais brīvi ievēlētais parlaments visai Vācijai.
+2272	Tas izstrādāja konstitūciju ar pamattiesībām. Tā nekad nestājās spēkā, taču vēlākās Vācijas konstitūcijas no tās smēlās.
+2273	Gids
+2274	Zālei vēl ir savas lielās dienas: katru oktobri šeit pasniedz Vācijas grāmatniecības Miera balvu.
+2275	Bullis uzbrūk ar ragiem uz augšu: tirgus aug.
+2276	Lācis ar ķepu sit uz leju: tirgus krīt.
+2277	DAX tablo. Vācijas pazīstamākais akciju indekss tika ieviests šeit 1988. gadā.
+2278	Pērc baumas, pārdod ziņas. Un nekad, nekad aprīlī nepārdod savu lietussargu.
+2279	Johans Volfgangs fon Gēte piedzima šajā mājā 1749. gada 28. augustā. Pie “Fausta” viņš strādāja apmēram sešdesmit gadu.
+2280	Viņa vārds tagad ceļo pa pasauli: Gētes institūts māca vācu valodu gandrīz simt valstīs.
+2281	Messeturm (Gadatirgus tornis) paceļas virs izstāžu kompleksa. Katru oktobri šeit notiek Frankfurtes grāmatu tirgus, lielākais grāmatu tirgus pasaulē.
+2282	Lasītājs
+2283	Atbraucu uz grāmatu tirgu un palku uz zaļo mērci. Izlasīju trīs grāmatas un apēdu piecas mērces.
+2284	Dzelzs gājēju tilts pār Mainu, uzbūvēts 1869. gadā. Uz tā margām karājas tūkstošiem piekaramo slēdzeņu: iemīlējušos solījumi.
+2285	Pāris
+2286	Mēs piekārām savu slēdzeni uz tilta, bet atslēgu iemetām Mainā. Mums vēl jāizlemj, kuram tā bija ideja.
+2287	Frankfurtietis
+2288	Otrā krastā ir Zaksenhauzena. Tur mēs dzeram Ebbelwoi — ābolu vīnu. Šeit gan neviens to nesauc par sīdru.
+2289	Virs durvīm karājas priedes vainags: zīme, ka šajā krogā paši spiež un pasniedz savu ābolu vīnu.
+2290	Saimniece
+2291	Guten Abend! Ābolu vīnu lej no Bembel — pelēkas māla krūkas — Gerippte glāzē ar rombu rakstu.
+2292	Šovakar man pilna zāle un tikai divas rokas. Tu piepildi glāzes, es tās nesīšu?
+2293	Gribi vēl vienu kārtu aiz letes?
+2294	Ne pilītes uz maniem galdiem! Lūk, ņem šo un nāc atkal, kad vien vēlies.
+2295	Atkal nevainojami. Tu varētu atvērt savu krogu. Tikai pakar virs durvīm priedes vainagu.
+2296	Ak, galdi peld! Nekas, mēs uzslaucīsim.
+2297	Pastāvīgais viesis
+2298	Handkäs mit Musik: skābpiena siers, marinēts ar sīpoliem. Mūzika nāk vēlāk. Nejautā.
+2299	Zaļajai mērcei vajag tieši septiņas zaļumzāles: gurķumētru, kerbeli, dārza kresi, pētersīļus, pimpinellu, skābeni un maurlokus.
+2300	Kopš 2016. gada ES aizsargā “Frankfurter Grüne Soße” kā ģeogrāfiskās izcelsmes norādi. Septiņas zaļumzāles, ne vairāk, ne mazāk.
+2301	Īsts zelta stienis, 12,5 kilogrami, ko apmeklētāji drīkst pacelt. Lielākā daļa to dabū pacelt dažus centimetrus.
+2302	No gliemežvākiem uz monētām, no monētām uz papīru, no papīra uz eiro: trīs tūkstoši gadu naudas dažos plauktos.
+2303	Kurators
+2304	Bundesbank ir Vācijas centrālā banka. Kopš 1999. gada tā ir Eirosistēmas daļa kopā ar ECB un citām eiro zonas centrālajām bankām.
+2305	Dzirdēju, ka tev ir parauga banknote ar tavu seju. Kad tavs piedzīvojums būs galā, mēs to labprāt iekļautu savā kolekcijā.
+2306	Eiropas portrets — grieķu mitoloģijas princeses, kas devusi vārdu kontinentam.
+2307	Viņas seja ir no grieķu vāzes, kas vecāka par 2000 gadiem un glabājas Luvrā. Pacel eiro banknoti pret gaismu: viņa ir ūdenszīmē.
+2308	Aiz rāmja mirdz neliela ciparu tastatūra. Četri cipari.
+2309	Ievadīt kodu?
+2310	Tastatūra nomirgo sarkana. Kaut kur uz biržas grīdas kāds nopūšas.
+2311	Klikšķis. Glezna atveras uz šauriem kāpņiem, kas ved lejup…
+2312	Doties lejā uz slepeno studiju?
+2313	Darbnīca, pilna molbertu, gravēšanas instrumentu un smagas preses. Uz durvīm: “Banknošu dizains – konfidenciāli”.
+2314	Tēma “Eiropas kultūra”: Marija Kalasa (5 €), Ludvigs van Bēthovens (10 €), Marija Kirī (20 €), Migels de Servantess (50 €), Leonardo da Vinči (100 €) un Berta fon Zutnere (200 €).
+2315	Aizmugurē: vietas, kur kultūra tiek dalīta. Ielu mūziķi, dziesmu svētki, skola, bibliotēka, ielu māksla, koku ieskauts laukums.
+2316	Tēma “Upes un putni”: no kalnu avota (5 €) līdz atklātai jūrai (200 €), ar klinšu ložņu, zivju dzenīti, bišu dzeņiem, balto stārķi, avozeti un ziemeļu sulu.
+2317	Aizmugurē: ES iestādes, no Eiropas Parlamenta līdz Eiropas Revīzijas palātai.
+2318	Desmit finālisti: EC145, EC564, EC617, EC799, EC915 un RB120, RB227, RB637, RB754, RB832.
+2319	Dizaineru vārdi paliek noslēpums. Pēc sabiedriskās aptaujas galīgo izvēli izdara ECB Padome.
+2320	Intaglio prese. Tā iespiež tinti papīrā tik spēcīgi, ka tā paceļas reljefā: tas ir reljefais iespiedums, ko vari sajust uz īstas banknotes.
+2321	Prasības: tādi paši izmēri kā pašreizējām banknotēm, katrai vērtībai viena dominējošā krāsa, un uz katras banknotes Eiropas karogs, Eiropas karte un ECB prezidenta paraksts.
+2322	Žūrijas loceklis
+2323	2025. gadā ECB aicinājumam atsaucās vairāk nekā 1200 dizaineru. Žūrijai nonāca trīsdesmit deviņi priekšlikumi; desmit no tiem ir uz šiem molbertiem.
+2324	Mērķis ir iedomātos tiltus un logus aizstāt ar īstiem cilvēkiem, īstiem putniem un īstām vietām.
+2325	Eleni
+2326	Kaliméra! Es esmu Eleni, intaglio gravētāja. Amatu apguvu Grieķijas Bankas drukātavā Atēnās.
+2327	Oficiāli ECB nedrukā nevienu banknoti: tā tās izstrādā, bet drukā drukātavas visā Eiropā.
+2328	Tieši tagad mēs gatavojam nākamās eiro banknotes. 2026. gadā žūrija izvēlējās desmit dizainus divās tēmās: Eiropas kultūra, kā arī upes un putni.
+2329	Pirms galīgās izvēles man jāpārbauda gravējums uz īstas sejas. Eiro banknotēs nekad nav bijis dzīva cilvēka… tāpēc tava paliks par paraugu.
+2330	Bet neviens neaiztiek manas plates, neizturot pārbaudi. Sajust, skatīt, šķiebt: parādi, ka proti atšķirt īstu banknoti no viltotas.
+2331	Gatavs?
+2332	Bravo! Tev ir centrālbaņķiera acs. Tagad tavs portrets.
+2333	Jauns paraugs? Prese vēl silta.
+2334	Lūk, iegravēts! Redzi sērijas numuru? Pirmais burts Y ir Grieķijas Bankas kods. Mans mazais paraksts.
+2335	Parādi to citiem. Un saglabā spēli sadaļā Ziņojums, lai tava banknote paliek pie tevis.
+2336	Viltojums izslīdēja cauri. Sajust, skatīt, šķiebt: tas aizņem tikai dažas sekundes. Nāc atpakaļ, kad būsi gatavs.
+2337	Netraucējies. Labu gravējumu nevar steigt.
+2338	Ābolu vīna krogs – Zaksenhauzena
+2339	ECB – Banknošu dizaina studija
+2340	Frankfurtes Fondu birža
+2341	Bundesbank Naudas muzejs
+2342	Gētes māja – Frankfurte
+2343	Paulskirche – Sapulču zāle
+2344	Parauga banknote
+2345	Tavs portrets, iegravēts ECB studijā Frankfurtē. Nav likumīgs maksāšanas līdzeklis.
+2346	Ābolu vīna krogs, Zaksenhauzena
+2348	Turi: Bembel šķiebjas; atlaid: apstājas. Pasniedz pie līnijas.
+2349	Sardzes maiņa
+2352	Solis
+2353	Spēriens
+2354	Dauzīt
+2355	Gājieni: %d / 24 · kļūdas: %d
+2356	←: solis · →: spēriens · A/↓: dauzīt
+2357	Perfekti solī! Evzoni maina sardzi katru stundu, dienu un nakti, katros laika apstākļos.
+2358	Ārpus soļa… Evzoni trenējas mēnešiem ilgi pirms pirmā sardzes dienesta.
+2359	Frapē
+2360	Ūdens
+2361	Avīze
+2362	Kulūri
+2363	Krelles
+2364	Mati
+2365	Biļete
+2366	Košļene
+2367	(Frapē, lūdzu!)
+2368	(Ūdeni, lūdzu!)
+2369	(Avīzi, lūdzu!)
+2370	(Kulūri — sezama maizes riņķi — lūdzu!)
+2371	(Rūpju krelles, lūdzu!)
+2372	(Mazu ļaunās acs amuletu, lūdzu!)
+2373	(Biļeti, lūdzu!)
+2374	(Košļeni, lūdzu!)
+2375	Periptero
+2378	Piecpadsmit apmierināti klienti! Ευχαριστώ (efcharistó) nozīmē paldies.
+2379	Rinda sniedzas līdz nākamajai ielai… Σιγά σιγά (sigá sigá): lēnām, lēnām.
+2380	Pirejas osta
+2383	S
+2384	Kuģis %d/3 · konteineri %d/%d
+2385	Laiks: %d s · kļūdas: %d/3
+2386	Sasvere
+2387	Trīs kuģi iekrauti un taisni! Pireja ir viena no lielākajām konteineru ostām Vidusjūrā.
+2388	Ostas kapteinis aptur iekraušanu: kuģis nav drošs. Pārkrauj un mēģini vēlreiz!
+2389	Nezināmā kareivja kaps (1932), Parlamenta ēkas pakājē. Prezidenta gvardes evzoni to sargā dienu un nakti.
+2390	Laukumu sauc Sintagma — “Konstitūcija”: 1843. gadā atēnieši šeit pulcējās, līdz karalis Oto tādu piešķīra.
+2391	Evzons nekustas. Pat ne skropstiņa.
+2392	Viņa tsarouchia — sarkanās koka kurpes ar melniem pomponiem — sver apmēram trīs kilogramus katra, ar sešdesmit naglām zolē. Viņa baltajam svārciņam, fustanellai, ir 400 kroku: pa vienai par katru Osmaņu varas gadu, kā vēsta tradīcija.
+2393	Evzonu seržants
+2394	Katru stundu sardze mainās. Lēni soļi, augsts spēriens, kurpes sitas pret marmoru: divi vīri kustas kā viens.
+2395	Šodien trūkst viena jaunkareivja. Pavadīsi ritmu ar mani?
+2396	Vēl viena sardzes maiņa?
+2397	Ne viena soļa ārpus takts. Μπράβο (brávo)! Ņem šo no sardzes.
+2398	Μπράβο (brávo)! Svētdienās pulksten vienpadsmitos visa rota soļo parādē svinīgā tērpā. Nāc paskatīties.
+2399	Tavas kurpes un bungas nesaprata viena otru. Vajag mēnešiem trenēties. Rīt vēlreiz?
+2400	Kioska īpašnieks
+2401	Γεια σας (yia sas, sveiki)! Periptero pārdod visu: avīzes, ūdeni, autobusa biļetes, tālruņa kredītu, košļeni, rūpju krelles…
+2402	Mans brāļadēls nav atnācis. Pieskatīsi leti? Klienti runā grieķiski, bet es čukstēšu nozīmi.
+2403	Atkal sastrēguma stunda! Palīdzēsi man?
+2404	Ευχαριστώ (efcharistó, paldies)! Tu jau runā kioskiski. Lūk, uz mana rēķina.
+2405	Ευχαριστώ (efcharistó)! Rinda pazuda rekordlaikā.
+2406	Σιγά σιγά (sigá sigá), lēnām, lēnām. Tā ir arī grieķu paruna.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): vidēji saldu frapē, lūdzu. Ledus kafija, saputota putās.
+2408	To izgudroja nejauši 1957. gadā Salonikos starptautiskajā gadatirgū: kāds pārdevējs bija bez karstā ūdens un sakratīja šķīstošo kafiju ar aukstu ūdeni.
+2409	Sintagmas metro stacija. Kad 1990. gados rakta metro, arheologi atrada desmitiem tūkstošu priekšmetu. Daži ir izstādīti pašā stacijā.
+2410	28. oktobris ir Όχι diena (όχι, óchi, “nē”). 1940. gadā Grieķija pateica nē Musolīni ultimātam; katru gadu skolēni soļo ielās parādē.
+2411	Nejauc ar OXI 2015. gada referendumā. Divi slaveni grieķu “nē”, starp tiem septiņdesmit pieci gadi.
+2412	Drahma: monētas nosaukums no senās Grieķijas, 1832. gadā atjaunots jaunajai Grieķijas valstij un 2002. gadā aizstāts ar eiro.
+2413	Grieķijas viena eiro monētai attēlota Atēnas pūce, kopēta no senas Atēnu monētas — četru drahmu gabala.
+2414	Grieķijas Bankai ir sava drukātava: tā drukā arī eiro banknotes.
+2415	Eiropas sērijas banknotēm sērijas numura pirmais burts norāda centrālo banku, kas tās pasūtījusi. Mūsējai tas ir Y.
+2416	Y uz tava parauga? Tad laipni lūdzam mājās!
+2417	Anafiotika: 19. gadsimtā būvnieki no Anafi salas ieradās strādāt pie karaļa pils un uzcēla sev šeit mazu Kikladu ciematiņu zem Akropoles.
+2418	Μιάου (miáou). Atēnās ir tūkstošiem ielu kaķu; kaimiņi un brīvprātīgie tos baro pat starp drupām.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Vai esi ēdis? Esi novājējis. Sēdies. Ēd.
+2421	Yiayia pabaroja visu tavu komandu, līdz neviens nespēja kustēties. Visi atkal ir formā.
+2422	Γιαγιά (yiayiá) nozīmē vecmāmiņa. Un yiayia nekad netic, kad saki, ka esi paēdis.
+2423	Kaimiņš
+2424	Χρόνια πολλά (chrónia pollá)! Daudz gadu! Šodien man vārdadiena.
+2425	Grieķijā mēs bieži svinam sava svētā svētkus vairāk nekā dzimšanas dienu. Pusi ielas sauc Giorgos: iedomājies Svētā Jura dienu.
+2426	Ναι (nai) nozīmē jā! Tūristiem tas skan kā “nē”. Un όχι (óchi) nozīmē nē.
+2427	Ja es atmetu galvu atpakaļ un noklikšķinu ar mēli, tas arī ir nē. Viegli!
+2428	Tirgotājs
+2429	Μάτι (máti), acs! Zila stikla acs pasargā no ļaunās acs — neveiksmes, ko rada skaudība.
+2430	Ja kāds uzslavē tavu Euromonu, saki “φτου φτου” (ftou ftou), it kā spļautu. Tas ir veiksmei. Tikai nespļauj pa īstam.
+2431	Siera tirgotājs
+2432	Feta kopš 2002. gada ir aizsargāts cilmes vietas nosaukums: īsta feta tiek gatavota Grieķijā no aitas piena, dažkārt ar nedaudz kazas piena.
+2433	Vācija un Dānija to apstrīdēja ES Tiesā. 2005. gadā Tiesa pateica: feta ir grieķu.
+2434	Grila pavārs
+2435	Souvlaki! Atēnās tā ir gaļa uz iesma. Salonikos to pašu sauc kalamaki — “mazs kociņš”.
+2436	Palūdz Salonikos “souvlaki”, un tev iedos pita gyros. Ģimenes šķīrušās par mazāku.
+2437	Mūziķis
+2438	Visi domā, ka sirtaki ir sena tautas deja. To izgudroja filmai “Zorbas grieķis” 1964. gadā, uz Mikja Teodorakja mūziku.
+2439	Sākumā lēni, tad ātrāk un ātrāk… Opa!
+2440	Monastiraki stacija. 1. līnija seko Atēnu–Pirejas dzelzceļam, atklātam 1869. gadā: tīkla vecākā līnija.
+2441	Braukt ar vilcienu uz Pirejas ostu?
+2442	Hēroda Atika odeons, uzcelts 161. gadā. 1944. gadā šeit Bēthovena “Fidelio” nodziedāja jauna soprāniste, kas bija mācījusies Atēnu konservatorijā: Marija Kalasa.
+2443	Kalasa un Bēthovens abi parādās nākamo eiro banknošu finālistu dizainos, kultūras tēmas 5 un 10 eiro banknotēs.
+2444	Šīs baltās plātnes ir ģipša kopijas. Oriģināli kopš 1816. gada atrodas Britu muzejā Londonā.
+2445	Grieķija oficiāli prasa tos atdot kopš 1983. gada. Muzejs tur to vietas gatavas blakus oriģinālajiem gabaliem.
+2446	Partenona frīzes oriģinālais bloks: Panatēnu gājiena jātnieki, izcirsti ap 440. gadu p. m. ē.
+2447	Akropoles muzejs atvērts 2009. gadā. Šis augšējais stāvs ir pagriezts, lai sakristu ar Partenonu, ko redzi caur stiklu.
+2448	Frīze iet visapkārt, oriģinālajā secībā. Medus krāsas marmors: šeit. Balts ģipsis: Londonā.
+2449	Zapeions. Šeit 1979. gada 28. maijā Grieķija parakstīja pievienošanās līgumu Eiropas Kopienām.
+2450	Tā kļuva par desmito dalībvalsti 1981. gada 1. janvārī. Eiro sekoja 2001. gadā, gadu pirms monētām un banknotēm.
+2451	Melina Merkuri (1920–1994), aktrise, vēlāk kultūras ministre. Viņa ierosināja Eiropas kultūras galvaspilsētu: Atēnas bija pirmās, 1985. gadā.
+2452	Viņa arī uzsāka kampaņu par Partenona marmora atdošanu.
+2453	Panatēnu stadions — vienīgais lielais stadions pasaulē, kas pilnībā uzcelts no marmora. Šeit 1896. gadā notika pirmās mūsdienu olimpiskās spēles.
+2454	Ik pēc diviem gadiem šeit olimpisko uguni nodod nākamajai uzņēmējpilsētai.
+2455	Konteineru terminālis, ko apsaimnieko COSCO Shipping. Ķīnas grupa 2016. gadā nopirka 51 % Pirejas ostas pārvaldes, bet 2021. gadā — 67 %.
+2456	Ostas sargs
+2457	Konteineru terminālis apmeklētājiem ir slēgts. Pasažieru osta ir pilnībā tava.
+2458	Ne šurp, lūdzu: konteineru terminālis.
+2459	Pirejas stacija, 1. līnijas galapunkts. Ēka celta 1929. gadā.
+2460	Braukt ar vilcienu atpakaļ uz Atēnām?
+2461	Pirejas mūru akmeņi. 5. gadsimtā p. m. ē. Temistokls padarīja Pireju par Atēnu ostu, un Garie mūri savienoja abas pilsētas.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), “Pirejas bērni”! Manoss Hadzidakis to sarakstīja filmai “Nekad svētdienā” (1960) ar Melinu Merkuri galvenajā lomā.
+2463	Tā ieguva Oskaru par labāko dziesmu. Francijā Dalida to padarīja par hitu: “Les Enfants du Pirée”.
+2464	Zvejnieks
+2465	Tur ir Mikrolimano, mazā ostiņa: zvejas laivas un tavernas, kurās zivs šorīt vēl peldēja.
+2466	Šurp uz Karaiskakja stadionu, Olympiacos mājvietu. 2024. gadā klubs ieguva UEFA Konferences līgas trofeju: pirmo Eiropas trofeju Grieķijas futbola klubam.
+2467	Prāmji uz salām: Egīnu, Hidru, Kikladēm, Krētu… Pireja ir viena no noslogotākajām pasažieru ostām Eiropā.
+2468	Grieķu kuģu īpašnieki kontrolē apmēram piekto daļu pasaules tirdzniecības flotes: vairāk nekā jebkura cita valsts.
+2469	Ostas brigadieris
+2470	Ei, praktikant! Kuģis atiet pusdienlaikā, un mans celtņa vadītājs streiko. Vai esi kādreiz kravājis konteinerkuģi?
+2471	Smagie konteineri apakšā, dzesējamie uz elektrificētajām rindām, un tur kuģi taisni, citādi tas sasveras.
+2472	Vēl viens kuģis jākrauj?
+2473	Taisns kā lineāls! Lūk, tava alga. Neiztērē visu souvlaki.
+2474	Vēl viens kuģis aizgājis laikā. Kapteinis sūta sveicienus.
+2475	Tas sasveras kā slikts garastāvoklis. Pārkrausim. Vēlreiz?
+2476	Grieķijas Banka – Muzejs
+2477	Akropoles muzejs – Partenona zāle
+2478	Pirejas osta
+2479	Māja – Plaka
+2480	Žūrijas pastkartes: %d no 12.
+2481	Tie ir visi divpadsmit motīvi! Eleni ECB studijā Frankfurtē gribēs tos redzēt.
+2482	Visas divpadsmit pastkartes! Kalasa, Bēthovens, Kirī, Servantess, Leonardo, fon Zutnere… un seši putni. Tu esi redzējis vairāk Eiropas nekā žūrija.
+2483	No šī brīža mana prese drukā tavus paraugus zelta izdevumā. Un ņem šo no studijas.
+2484	Vēl kas: žūrija izsūtīja divpadsmit motīvu pastkartes pa visu Eiropu. Ja atradīsi tās visas, nāc atpakaļ: es iegravēšu zelta izdevumu.
+2485	Briseles rātsnams, celts 15. gadsimtā. Tā 96 metru torņa galā Svētais Mihaels nogalina pūķi.
+2486	Tam apkārt esošais Grand-Place kopš 1998. gada ir UNESCO Pasaules mantojuma objekts.
+2487	Ģilžu nami: maiznieki, laivinieki, alus darītāji… katram amatam bija savs nams, apzeltīts, lai parādītu bagātību.
+2488	Manneken-Pis: 55 centimetri bronzas. Viņam ir vairāk nekā tūkstoš tērpu, ko glabā viņa paša garderobes muzejā.
+2489	Oficiālais ģērbējs
+2490	Šodien viņš ir ģērbies kā… viņš pats. Rīt ugunsdzēsējs. Nākamnedēļ astronauts. Statujas ģērbšana ir darbs uz pilnu slodzi.
+2491	Frītkota īpašnieks
+2492	Īstus beļģu frī cep divreiz: vienreiz, lai izcepas, otrreiz, lai kļūst kraukšķīgi.
+2493	Izsalcis? Pamēģini mitraillette: pusbagete, gaļa, mērce un frī iekšā. Jā, iekšā.
+2494	Vafeļu pārdevējs
+2495	Briseles vafele: viegla, taisnstūra, nopūderēta ar cukuru. Lježas vafele: blīvāka, ar iekšā karamelizētu graudaino cukuru.
+2496	Izvēle starp tām ģimenes dala jau paaudzēm. Es pārdodu abas. Ļoti diplomātiski.
+2497	Briseles sienas klāj desmitiem komiksu sienu gleznojumu. Beļģija komiksus uztver tikpat nopietni kā šokolādi.
+2498	Šurp uz Galeries Royales Saint-Hubert (1847) — vienu no vecākajām segtajām iepirkšanās arkādēm Eiropā.
+2499	1912. gadā šajās arkādēs šokolādes meistars Žans Neuhauss izgudroja pildīto šokolādi: pralīni.
+2500	Grand-Place / Grote Markt. Briselē visu ielu nosaukumi rakstīti franciski un holandiski: galvaspilsētas reģions ir oficiāli divvalodīgs.
+2501	Beļģijai ir trīs oficiālās valodas: holandiešu, franču un vācu.
+2502	Briselietis
+2503	Allez, une fois! Tā viņi iedomājas, ka mēs runājam Briselē. Un nu… dažreiz tā arī ir.
+2504	Dārznieks
+2505	Ik pēc diviem gadiem augustā Grand-Place klāj begoniju paklājs. Pirmais tika izklāts 1971. gadā.
+2506	Simtiem tūkstošu ziedu, izklātu ar roku dažās stundās. Man trūkst viena brīvprātīgā. Stādīsi ar mani?
+2507	Vēl viens paklājs? Begonijas gaida.
+2508	Lieliski! Pat ģilžu nami izskatās greizsirdīgi. Lūk, no pilsētas.
+2509	Vēl viens šedevrs. Pēc dažām dienām ziedi būs prom, bet fotogrāfijas paliks.
+2510	Raksts kļuva mazliet… abstrakts. Magritam būtu paticis.
+2511	Lielhercogienes Šarlotes tilts, iesauktais par Sarkano tiltu, savieno vecpilsētu ar Kiršberga plato, augstu virs Alzetes ielejas.
+2512	Lielhercoga pils vecpilsētas sirdī. Luksemburga ir vienīgā palikusī lielhercogiste pasaulē.
+2513	Sargs soļo astoņus soļus, pagriežas, soļo astoņus soļus atpakaļ. Skatīties ir ļoti relaksējoši.
+2514	Eiropas Revīzijas palāta: ES finanšu uzraugs. Tā pārbauda, kā tiek tērēta Eiropas nauda, eiro pa eiro.
+2515	Vienā no nākamo banknošu finālistu dizainiem tā parādās 200 eiro banknotes aizmugurē.
+2516	Kopš 2020. gada 29. februāra viss sabiedriskais transports Luksemburgā ir bezmaksas: autobusi, tramvaji, vilcieni. Pirmā valsts pasaulē, kas to izdarīja.
+2517	Gëlle Fra — Atceres pieminekļa zelta dāma — godina luksemburgiešus, kas krita pasaules karos.
+2518	Okupanti to nogāza 1940. gadā; tā tika pilnībā atjaunota un 1985. gadā atkal uzlikta uz savas kolonnas.
+2519	Schueberfouer! Gadatirgus kopš 1340. gada, ko dibināja Luksemburgas grāfs Jānis Neredzīgais. Katru gadu vasaras beigās.
+2520	Luksemburgietis
+2521	Moien! Tā luksemburgiski ir sveiki. Mums ir trīs administratīvās valodas: luksemburgiešu, franču un vācu.
+2522	Lielākā daļa no mums tās maina vienā teikumā. Dažreiz iezogas arī angļu.
+2523	Uz sienas: “Mir wëlle bleiwe wat mir sinn” (“Mēs gribam palikt tādi, kādi esam”), nacionālais moto.
+2524	Laipni lūdzam Boka kazematos: 17 kilometru tuneļu, izcirstu klintī, UNESCO Pasaules mantojuma objekta daļa.
+2525	Otrā pasaules kara bombardēšanas laikā šeit patvērās līdz 35 000 cilvēku.
+2526	Kāds apmeklētājs apmaldījās tumšajās galerijās ar manu pēdējo lāpu. Vai vari atrast izeju un atvest viņu atpakaļ?
+2527	Vēl viena ekskursija pa galerijām?
+2528	Abi laukā veseli! Cietoksni sauca par “Ziemeļu Gibraltāru”. Ņem šo par pūlēm.
+2529	Tu galerijas pazīsti labāk nekā 1700. gada kareivji.
+2530	Lāpa nodzisa… Nesatraucies, es zinu ceļu. Mēģināsim vēlreiz.
+2531	Pont de l'Europe šķērso Reinu. Otrā pusē: Kēla, Vācijā. Kopš 2017. gada pāri robežai kursē pat tramvajs.
+2532	Pendlers
+2533	Es dzīvoju Kēlā un strādāju Strasbūrā. Katru rītu četrās minūtēs nomainu valsti. Neviens nepārbauda manu pasi.
+2534	Šeit atrodas Eiropas Padome, dibināta 1949. gadā: 46 dalībvalstis un Eiropas Cilvēktiesību tiesa. Tā nav ES daļa.
+2535	Nejauc ar Eiropadomi (ES valstu un valdību vadītāji) vai ES Padomi (ministri). Pat žurnālisti jauc.
+2536	Zilo karogu ar divpadsmit zelta zvaigznēm pirmo reizi pieņēma Eiropas Padome 1955. gadā. ES to pārņēma vēlāk.
+2537	Berta fon Zutnere (1843–1914) portrets, romāna “Nost ar ieročiem!” autore un pirmā sieviete, kas 1905. gadā saņēma Nobela Miera prēmiju.
+2538	Viņa ir ECB “Eiropas kultūras” finālistu dizainu 200 eiro figūra.
+2539	Eiropas himna ir prelūdija “Odai priekam” no Bēthovena Devītās simfonijas. Eiropas Padome to pieņēma 1972. gadā, ES — 1985. gadā.
+2540	Tai nav oficiālu vārdu: Eiropā mēs visi to dungojam vienā valodā.
+2541	Katedrāles smaile paceļas 142 metru augstumā. No 1647. līdz 1874. gadam tā bija augstākā ēka pasaulē.
+2542	Astronomiskais pulkstenis. Tā mehānisms datējams ar 1842. gadu. Katru dienu pulksten 12.30 divpadsmit apustuļi soļo Kristus priekšā.
+2543	Katedrāle celta no rozā smilšakmens no Vogēziem. Tāpēc tā kļūst sārta saulrietā.
+2544	Christkindelsmärik šeit notiek kopš 1570. gada: viens no vecākajiem Ziemassvētku tirgiem Eiropā.
+2545	Winstub pavārs
+2546	Flammekueche! Plāna mīkla, krējums, sīpoli, speķis, cepta malkas krāsnī divās minūtēs. Franciski saka tarte flambée.
+2547	Strasbūras zvērests, ko šeit 842. gadā zvērēja divi Kārļa Lielā mazdēli, ir viens no vecākajiem tekstiem senfranču un senaugšvācu valodā.
+2548	Katrs karalis zvērēja otra valodā, lai otra karaspēks varētu saprast. Tulkošanai šeit ir sena vēsture.
+2549	Ornitologs
+2550	Baltais stārķis ir Elzasas simbols. 1974. gadā reģionā bija palikuši tikai deviņi pāri.
+2551	Pateicoties atjaunošanas programmai, šodien to ir vairāki simti pāru. Un baltais stārķis ir uz 50 eiro banknotes finālista dizaina!
+2552	Jaunpienācēji meklē savas ligzdas. Vai vari tos vadīt prom no elektrolīnijām?
+2553	Ielido vairāk stārķu. Vadīsi tos vēlreiz?
+2554	Katrs pāris ir mājās! Lūk, stārķu aizsardzības fondam… tas ir, tev.
+2555	Mazās Francijas jumti ir pilni ar klabošu knābju skaņām. Tā šeit skan pavasaris.
+2556	Daži sapinās pie vadiem… Viņiem viss kārtībā, tikai mazliet aizvainoti. Vēlreiz?
+2557	18. zāle: Partenona skulptūras no Atēnām, ko lorda Elgina aģenti aizveda laikā no 1801. līdz 1812. gadam un Britu muzejs nopirka 1816. gadā.
+2558	Grieķija prasa tās atdot kopš 1983. gada. Atēnās Akropoles muzejs tur to vietas gatavas.
+2559	Grieķu apmeklētājs
+2560	Es atbraucu no Atēnām, lai redzētu mūsu marmoru. Tad atgriezīšos Akropoles muzejā un skatīšos šo marmoru baltās kopijas.
+2561	Viena frīze, divas pilsētas. Varbūt kādreiz atkal viena pilsēta.
+2562	Sarkana telefona kabīne, 1935. gadā radītais modelis K6. Šodien dažās ir defibrilatori, citās mazas bibliotēkas.
+2563	Londonas metro atvērts 1863. gadā: pirmais pazemes dzelzceļš pasaulē. “Mind the gap!”
+2564	Pēc Brexit Apvienotā Karaliste izstājās no Erasmus. 2025. gada decembrī tā vienojās atgriezties no 2027. gada. Mana mazā māsa varēs studēt Boloņā!
+2565	Nīderlandes muitnieks
+2566	Kopš 2021. gada 1. janvāra Apvienotā Karaliste ir ārpus ES muitas un veterinārajiem noteikumiem: ceļotāji vairs nedrīkst ievest ES gaļu vai piena produktus.
+2567	Tajā mēnesī mani kolēģi Hoekā van Holandā konfiscēja šķiņķa sviestmaizes. “Welcome to the Brexit, sir, I'm sorry.”
+2568	Rīta prāmis uzņem pasažierus. Palīdzi man pārbaudīt pusdienu kastītes?
+2569	Vēl viens prāmis, vēl simts pusdienu kastīšu. Palīdzēsi vēlreiz?
+2570	Neviena šķiņķa sviestmaize netika cauri. Lūk, balva bez siera un bez šķiņķa.
+2571	Efektīvs un pieklājīgs. No tevis iznāktu lielisks muitnieks.
+2572	Salami šķērsoja Lamanšu… Veterinārie inspektori gribēs parunāt.
+2573	Kravas auto šoferis
+2574	Pirms Brexit es ar kravas auto brauču pāri bez apstāšanās. Tagad: muitas deklarācijas, veselības sertifikāti, pārbaudes. Esmu izlasījis vairāk veidlapu nekā romānu.
+2575	Kampaņas autobuss. 2016. gadā uz tā sāna tika solīti 350 miljoni mārciņu nedēļā Nacionālajam veselības dienestam.
+2576	2017. gadā Apvienotās Karalistes Statistikas pārvaldes vadītājs šo skaitli nosauca par “skaidru oficiālās statistikas ļaunprātīgu izmantošanu”.
+2577	Putnu vērotājs
+2578	Ziemeļu sulas ienirst jūrā gandrīz simt kilometru stundā ātrumā. Pasaulē lielākā kolonija atrodas uz Bass Rock klints Skotijā.
+2579	ECB vienu ielika finālista dizainā 200 eiro banknotei: atklāta jūra, salocīti spārni, šļaksts.
+2580	Šaha spēlētājs
+2581	Sečenji termālā pirts, 1913: viena no lielākajām ārstniecības pirtīm Eiropā. Mēs šeit spēlējam šahu karstā ūdenī līdz pleciem.
+2582	Ungārija pasaulei devusi Judit Polgāru, visu laiku spēcīgāko šahistu sievieti: lielmeistare piecpadsmit gados, un 2002. gadā viņa uzvarēja Kasparovu.
+2583	Trīs pozīcijas, katrā mats vienā gājienā. Vai vari tās atrast, pirms ūdens atdziest?
+2584	Jaunas pozīcijas uz peldošā galdiņa. Vēl vienu kārtu?
+2585	Trīs mati! Tu spēlē kā lielmeistars peldmētelī. Ņem šo.
+2586	Mats, mats, mats. Tvaiks liek domāt ātrāk.
+2587	Ūdens atdzisa… Nākamreiz meklē gājienu, pēc kura karalim nav kur iet.
+2588	Ruin bāri: bijušā ebreju kvartāla vecie pagalmi, pārvērsti bāros ar nesaderīgām mēbelēm. Pirmie atvērās 2000. gadu sākumā.
+2589	Bārmenis
+2590	Egészségedre! Tā ungāriski ir uz veselību. Pamēģini to pateikt pēc otrās fröccs glāzes: vīns ar sodas ūdeni.
+2591	Lángos pārdevējs
+2592	Lángos: cepta mīkla, ķiploki, skābais krējums un rīvēts siers. Nav diēta. Ir tradīcija.
+2593	Rubika kubu Budapeštā 1974. gadā izgudroja Ernő Rubiks, lai iemācītu saviem studentiem telpu. Es to atrisināju divās minūtēs. Vai vienu tā skaldni.
+2594	Kurpes Donavas krastā (2005). Sešdesmit pāru dzelzs kurpju piemin Budapeštas ebrejus, ko 1944. un 1945. gadā šajā krastā nošāva Bultkrusta kustības bruņotie un iemeta upē.
+2595	Ķēžu tilts, atvērts 1849. gadā: pirmais pastāvīgais tilts starp Budu un Peštu, ko projektēja angļu inženieris Viljams Tīrnijs Klārks.
+2596	Tā akmens lauvām nav mēles… kā vēsta leģenda. Paskaties uzmanīgi.
+2597	Zvejnieku bastions Pils kalnā: septiņi torņi septiņām maģāru ciltīm, kas apmetās Karpatu baseinā.
+2598	Bišu dzeņi! Krāsainākie putni Eiropā. Tie rok ligzdas smilšainos upju krastos un ķer bites lidojumā.
+2599	Ungārijā ir dažas no lielākajām kolonijām. ECB finālistu dizainos viena no tām rotā 20 eiro banknoti.
+2600	Valodnieks
+2601	Ungāru valoda nav radniecīga kaimiņu valodām: tā pieder uralu saimei, tāpat kā somu un igauņu valoda.
+2602	Un uzvārds nāk pirmais: Rubik Ernő, Polgár Judit. Viegli atcerēties, grūti izrunāt.
+2603	Laslo Bīro, dzimis Budapeštā, 1938. gadā patentēja mūsdienu lodīšu pildspalvu. Daudzās valstīs pildspalvu joprojām sauc par “biro”.
+2604	Salon de l'Horloge. 1950. gada 9. maijā pulksten 18 Roberts Šūmans, Francijas ārlietu ministrs, šeit nolasīja deklarāciju, ierosinot apvienot Francijas un Vācijas ogles un tēraudu.
+2605	Tā noveda pie Eiropas Ogļu un tērauda kopienas 1951. gadā, mūsdienu ES pirmā soļa. Katrs 9. maijs ir Eiropas diena.
+2606	Arhīvi ir sajaukuši deklarācijas lappuses! Žurnālisti jau ierodas. Vai vari salikt teikumus pareizā secībā?
+2607	Lappuses atkal sajauktas. Palīdzi man?
+2608	Vārds vārdā! Šūmana kungs tev paspiestu roku. Ņem šo no ministrijas.
+2609	Perfekti sakārtots. Eiropa netiks izveidota uzreiz, bet tu esi ātrs.
+2610	Ne gluži… Atceries: vispirms miers, tad konkrēti sasniegumi, tad ogles un tērauds.
+2611	Marija Kirī, dzimusi kā Marija Skłodowska Varšavā, 1906. gadā kļuva par pirmo sievieti profesori Sorbonnā. Viņa ieguva divas Nobela prēmijas: fizikā un ķīmijā.
+2612	Viņa ir ECB “Eiropas kultūras” finālistu dizainu 20 eiro figūra.
+2613	Maiznieks
+2614	Kopš 2022. gada franču bagetes amats ir UNESCO nemateriālā kultūras mantojuma sarakstā. Milti, ūdens, sāls, raugs. Un mazliet pacietības.
+2615	Un café, s'il vous plaît! Parīzē “café” ir espreso. Ja gribi lielu krūzi, tas jāsaka. Skaļi.
+2616	Bukinists
+2617	Mēs pārdodam lietotas grāmatas šajās krastmalās kopš 16. gadsimta. Simtiem zaļu kastu gar Sēnas kilometriem.
+2618	Parīzes Dievmātes katedrāle. Ugunsgrēka bojāta 2019. gada 15. aprīlī, tā atkal atvērta 2024. gada 7. decembrī pēc piecu gadu darba.
+2619	Apmeklētājs
+2621	Dažās ziemās klinšu ložņa nolaižas no kalniem uz Mēzas ielejas klintīm. Pelēks putns ar karmīnsarkaniem spārniem, kā tauriņš.
+2622	Tas ir 5 eiro banknotes putns ECB finālistu dizainos: kalnu avots un klinšu ložņa.
+2623	Makšķernieks
+2624	Redzi to zilo uzzibsni Mozelē? Zivju dzenītis. Tas ienirst no zara un atgriežas ar zivi.
+2625	ECB finālistu dizainos tas ir 10 eiro banknotes putns pie ūdenskrituma.
+2626	Antverpene ir otrā lielākā osta Eiropā. Un gar Šeldu, tieši blakus celtņiem, avozetes ligzdo dabas rezervātos.
+2627	Melnbalts ar uz augšu izliektu knābi: 100 eiro banknotes putns ECB finālistu dizainos, upes grīvā.
+2628	Varšavas iedzīvotājs
+2629	Marija Skłodowska, Marija Kirī, piedzima šeit, Varšavā, 1867. gadā. Elementu poloniju viņa nosauca savas valsts vārdā.
+2630	Mūsu Vecpilsēta tika sagrauta 1944. gadā un atjaunota akmens pa akmenim: tā UNESCO sarakstā ir kopš 1980. gada.
+2631	Leonardo da Vinči dzīvoja Romā no 1513. līdz 1516. gadam, Vatikānā, pirms devās uz Franciju.
+2632	Viņš ir ECB “Eiropas kultūras” finālistu dizainu 100 eiro figūra.
+2633	Profesors
+2634	Lisabonas līgums, kas parakstīts šeit 2007. gadā, radīja 50. pantu: procedūru izstāties no ES. Apvienotā Karaliste bija pirmā, kas to izmantoja.
+2635	Arī no Lisabonas: pastéis de nata pēc Žeronimu mūku receptes. Daudz populārāki nekā 50. pants.
+2636	Vecais jūrnieks
+2637	1571. gadā Lepanto kauja notika Patras līcī, šeit Grieķijā. Kāds jauns spāņu kareivis tur zaudēja kreisās rokas darbspēju.
+2638	Viņu sauca Migels de Servantess. Vēlāk viņš uzrakstīja “Donu Kihotu”. Viņš ir ECB kultūras dizainu 50 eiro figūra!
+2639	Kaktā pastkarte ar ECB dizaina žūrijas zīmogu: viens no nākamo banknošu divpadsmit motīviem. Tu to paturi.
+2640	Britu muzejs – 18. zāle
+2641	Boka kazemati – Ieeja
+2642	Strasbūras katedrāle
+2643	Eiropas pils – Eiropas Padome
+2644	Prāmju terminālis – ES muita
+2645	Ruin bārs – Budapešta
+2646	Orsē krastmala – Salon de l'Horloge
+2647	Maiznīca – Parīze
+2648	Sarkans
+2649	Dzeltens
+2650	Balts
+2651	Oranžs
+2652	Ziedu paklājs
+2655	Raksts
+2656	Trīs begoniju paklāji! Beļģija audzē lielāko daļu pasaules bumbuļbegoniju, ap Hentes pilsētu.
+2657	Tūristi jau nāk, un paklājs nav gatavs… Nākamreiz!
+2658	Elzasas stārķi
+2661	Stārķi mājās: %d / %d · pazaudēti: %d / 3
+2662	Desmit stārķi ligzdās! Elzasā saka, ka stārķis uz jumta nes laimi.
+2663	Pārāk daudz stārķu aizlidoja uz nākamo ciemu… Tie atgriezīsies nākamajā pavasarī.
+2664	Šķiņķa sviestmaize
+2665	Piens
+2666	Salami
+2667	Ābols
+2668	Šokolāde
+2669	Čipsi
+2670	Cepumi
+2671	ES muita
+2674	Gaļa, piena produkti, lielākā daļa augļu: konfiscēt.
+2675	Banāni, našķi, čipsi, ūdens: laist cauri.
+2676	Laist cauri
+2677	Konfiscēt
+2678	Visas pusdienu kastītes pārbaudītas! ES vienotajā tirgū pārtika pārvietojas brīvi; pie tā robežām to pārbauda.
+2679	Salami izslīdēja cauri… vai banāns tika nepamatoti konfiscēts. Vispirms noteikumi, sviestmaize vēlāk!
+2685	Šahs pirtīs
+2688	Baltie sāk un dod matu vienā gājienā
+2689	K karalis · Q dāma · R tornis · B laidnis · N zirgs · P bandinieks
+2691	Ūdens atdzisa pirms mata… Meklē gājienu, pēc kura karalim nav nevienas rūts.
+2692	Pasaules mieru nav iespējams nosargāt
+2694	Eiropu neizveidos uzreiz vai saskaņā ar vienotu plānu.
+2698	Šūmana deklarācija
+2701	Deklarācija gatava! 1951. gadā sekoja Eiropas Ogļu un tērauda kopiena. Katrs 9. maijs ir Eiropas diena.
+2702	Žurnālisti gaida, un lappuses vēl ir juceklī… Vispirms miers, tad konkrēti sasniegumi!
+2703	Boka kazemati
+2706	Apmeklētājs seko tev: tagad uz izeju!
+2707	Kaut kur tumsā kāds sauc…
+2708	Dienas gaismā ar apmeklētāju! Bombardēšanas laikā šajās galerijās patvērās līdz 35 000 cilvēku.
+2709	Lāpa nodzisa… Gids seko tavai balsij un izved jūs abus laukā.
+2710	bez radošām pūlēm, kas ir samērīgas ar briesmām, kuras to apdraud.
+2713	To veidos konkrēti sasniegumi, kas pirmām kārtām radīs de facto solidaritāti.
+2714	Franču un vācu ogļu un tērauda ražošana — kopējas Augstās iestādes pārziņā…
+2715	…lai karš starp Franciju un Vāciju kļūtu praktiski neiespējams.
+2716	Pirms pieskaries iespiedplatei, pierādi, ka proti pamanīt viltojumu! Pārbaudi katru banknoti ECB veidā: SAJUTI reljefo iespiedumu, SKATIES uz to pret gaismu, ŠĶIEBI to. Izvērtē 10 banknotes, viena kļūda atļauta.
+2717	Zaksenhauzenas krogā ielej ābolu vīnu no Bembel katrā glāzē līdz līnijai! Tur irbuli (vai A), lai sašķiebtu krūku, atlaid, lai apturētu, tad pasniedz ar pogu. 8 glāzes, 2 izšļakstījumi atļauti.
+2718	Astoņas ideālas glāzes! Šeit Frankfurtē ābolu vīnu sauc par “Ebbelwoi”.
+2719	Sintagmas laukums, Nezināmā kareivja kaps. Kusties taktī ar evzoniem: SOLIS, SPĒRIENS, DAUZĪT, kad katra zīme sasniedz līniju. 24 kustības, lēni un svinīgi. 4 kļūdas atļautas.
+2720	Sastrēguma stunda kioskā! Katrs klients prasa grieķiski: pieskaries tam, ko viņš vēlas. Pirmajiem čukstēšu nozīmi. 15 klienti 60 sekundēs!
+2721	Iekrauj trīs kuģus pirms pusdienlaika! Pārvieto celtni ar irbuli vai ←/→, nolaid ar A vai pieskārienu. Smagie (S) nekad uz vieglākiem, dzesējamie (baltie) tikai uz abām elektrificētajām kolonnām (kontaktligzdas), un tur kuģi taisni!
+2722	Atkārto begoniju paklāju, kas redzams augšējā ekrānā: izvēlies krāsu, tad pieskaries vai velc pār rūtīm. Spied Gatavs, kad sakrīt. Trīs paklāji 90 sekundēs!
+2723	Stārķi atgriezušies no Āfrikas! Vadi katru uz tukšu ligzdu: slidini irbuli augšup un lejup (vai ↑/↓) un lido zemu virs brīvas ligzdas, lai nosēstos. Izvairies no elektrolīnijām. 10 stārķi, 3 zaudējumi atļauti.
+2724	Prāmis ir pietauvojies! Pārbaudi katru pusdienu kastīti: KONFISCĒ gaļu, piena produktus un lielāko daļu augļu, LAIDI CAURI pārējo. Uzmanies: banāns ir atļauts, ābols nav. 20 kastītes 50 sekundēs, 2 kļūdas atļautas.
+2725	Sečenji pirtis: spēlētāji noliecas pār dēli, kas peld tvaikā. Baltie sāk: atrodi gājienu, kas dod matu uzreiz. Pieskaries baltajai figūrai, tad tās rūtij. Trīs pozīcijas 90 sekundēs!
+2726	1950. gada 9. maijs, Salon de l'Horloge. Roberta Šūmana deklarācijas lappuses ir sajauktas! Pieskaries teikumiem pareizā secībā pirms preses konferences. 60 sekundes.
+2727	Galerijas ir tumšas, un lāpa dziest. Atrodi pazudušo apmeklētāju, tad izeju! Kusties ar +Control Pad vai pieskaries blakus savam tēlam. 75 sekundes.
+2728	Trīs mati! Pirtīs saka, ka zaudētājam ūdenī jāiziet pirmajam.
+2729	Jaunais ozolkoka karkass tika cirsts ar roku, kā viduslaikos. Strādāja galdnieki un akmeņkaļi no visas Francijas.
+2730	Priekšpuse
+2731	Aizmugure

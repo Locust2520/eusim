@@ -1,0 +1,523 @@
+# Maltese — city extensions (ids 2169+)
+2169	FALZ
+2171	%d s · %d/%d
+2172	Linji bi riljiev fit-truf: tista' tħosshom.
+2173	Il-karta hija lixxa kullimkien…
+2174	Mess
+2175	Ara
+2176	Mejjel
+2177	Iċċekkja, imbagħad iddeċiedi:
+2178	Ġenwina
+2179	Falza
+2180	L/R: mejjel · X: kontra d-dawl · Y: mess
+2181	Mess, ara, mejjel
+2184	Kienet %s: l-istampa bi riljiev ma kinitx hemm.
+2185	Kienet %s: ebda watermark kontra d-dawl.
+2186	Kienet %s: in-numru ma biddilx kulur.
+2187	nota falza
+2188	Kienet nota ġenwina!
+2189	Ebda waħda falza ma għaddiet! Fil-watermark rajt lil Europa, minn vażun Grieg ta' aktar minn 2,000 sena.
+2190	Waħda falza għaddiet… Mess, ara, mejjel: it-tliet kontrolli jieħdu ftit sekondi biss.
+2191	Il-Bembel
+2194	Servi
+2196	Wisq ħġieġ imxerrda… Is-sid tat-taverna jislifek biċċa tal-ħasil.
+2197	Maria Callas
+2198	Ludwig van Beethoven
+2199	Marie Curie
+2200	Miguel de Cervantes
+2201	Leonardo da Vinci
+2202	Bertha von Suttner
+2203	mużiċisti tat-triq
+2204	festival tal-kanzunetti
+2205	skola
+2206	librerija
+2207	arti tat-triq
+2208	pjazza mżewqa bis-siġar
+2209	rampikatur tal-blat ħdejn għajn tal-muntanja
+2210	ħuttafa ma' kaskata
+2211	naħliji f'wied ta' xmara
+2212	ċikonja bajda ħdejn xmara mgħawġa
+2213	avoċetta fil-bokka ta' xmara
+2214	gannet tat-tramuntana fuq il-baħar
+2215	il-Parlament Ewropew
+2216	il-Kummissjoni Ewropea
+2217	il-Bank Ċentrali Ewropew
+2218	il-Qorti tal-Ġustizzja tal-UE
+2219	il-Kunsill Ewropew u l-Kunsill tal-UE
+2220	il-Qorti Ewropea tal-Awdituri
+2221	Quddiem: il-ritratt tiegħek, minflok dak ta' %s
+2222	Wara: %s
+2223	Quddiem: %s
+2224	Nota kampjun – %d €
+2225	Mhijiex munita legali: dan huwa kampjun tad-disinn.
+2227	L/R jew tapp: dawwar · B: agħlaq
+2228	Ċar
+2229	Medju
+2230	Skur
+2231	Gomma
+2234	Lura
+2235	Ħassar
+2236	Lest
+2237	Pinġi r-ritratt tiegħek
+2238	L-istudjo jinċiżha bħal ritratt ta' nota.
+2239	In-nota kampjun tiegħek
+2240	Kultura Ewropea
+2241	Xmajjar u għasafar
+2242	Dawwar
+2243	Ritratt ġdid
+2244	Stampa l-kampjun
+2245	Qed jiġi stampat…
+2246	Ir-ritratt tiegħek għall-kampjun
+2247	Il-kamera tad-DSi, l-istylus jew ir-ritratt uffiċjali tiegħek.
+2248	L-istylus jew ir-ritratt uffiċjali tiegħek.
+2249	Ħu ritratt
+2250	Pinġi r-ritratt
+2251	Uża r-ritratt uffiċjali
+2252	Il-kamera ma tistax tintuża hawn. Tista' tpinġi r-ritratt tiegħek minflok.
+2253	In-nota kampjun tiegħek ingħaqdet mal-kollezzjoni tal-Mużew tal-Flus f'Frankfurt.
+2254	Fi Frankfurt, l-istudjo tal-BĊE għadu jżomm kampjun vojt b'ismek fuqu.
+2255	Qed tinbeda l-kamera…
+2256	Poġġi wiċċek fl-ovali
+2257	A jew tapp: ħu r-ritratt · L/R: kamera oħra · B: lura
+2258	Test tal-inċiżjoni
+2259	Erġa' ħu
+2260	Żomm
+2261	Bejnietna: l-euro sar flus kontanti, fil-bwiet tan-nies, fl-2002. Xi bibien f'din it-torri għadhom jiftakru dik is-sena.
+2262	Is-simbolu tal-Euro tal-artist Ottmar Hörl, żvelat fl-2001 quddiem it-torri l-qadim tal-BĊE.
+2263	Ftit ġimgħat wara, fl-1 ta' Jannar 2002, in-noti u l-muniti tal-euro waslu fil-bwiet tan-nies fi tnax-il pajjiż.
+2264	Monument fil-Grossmarkthalle.
+2265	Bejn l-1941 u l-1945, madwar 10,000 rġiel, nisa u tfal Lhud minn Frankfurt u mir-reġjun ġew deportati mill-kantina ta' din is-sala tas-suq lejn gettijiet u kampijiet. Il-biċċa l-kbira minnhom inqatlu.
+2266	Il-Belt ta' Frankfurt, il-Komunità Lhudija u l-BĊE, li l-kwartieri ġenerali tiegħu issa jinkludu s-sala, ħolqu dan il-monument flimkien.
+2267	Ir-Römer, il-Munizipju ta' Frankfurt mill-1405. Fis-Sala Imperjali tiegħu, l-imperaturi l-ġodda tas-Saltna Rumana Mqaddsa kienu jagħmlu l-bankit tal-inkurunazzjoni tagħhom.
+2268	Djar bit-travi tal-injam fuq ir-Römerberg. Il-bombi qerdu l-belt il-qadima fl-1944; din ir-ringiela nbniet mill-ġdid fis-snin tmenin, travu b'travu.
+2269	Il-Funtana tal-Ġustizzja. Ħares sew: din il-Justitia żżomm il-miżien u s-sejf tagħha, imma m'għandhiex għasbuba mal-għajnejn.
+2270	Jgħidulha «Mainhattan»: grat-sema fuq ix-xmara Main. Għoddt ħdax-il krejn u erba' banek. Jew bil-maqlub.
+2271	Fl-1848 u l-1849, l-ewwel parlament elett liberament għall-Ġermanja kollha ltaqa' f'din il-knisja.
+2272	Kiteb kostituzzjoni b'drittijiet fundamentali. Qatt ma daħlet fis-seħħ, imma l-kostituzzjonijiet Ġermaniżi ta' wara ibbażaw ruħhom fuqha.
+2273	Gwida
+2274	Is-sala għad għandha ġranet kbar: kull Ottubru, hawn jingħata l-Premju tal-Paċi tal-Kummerċ tal-Kotba Ġermaniż.
+2275	It-tawr jattakka bil-qrun 'l fuq: suq li jogħla.
+2276	Id-dubb jgħaddi l-pata 'l isfel: suq li jinżel.
+2277	Il-bord tad-DAX. L-indiċi tal-ishma l-iktar magħruf tal-Ġermanja tnieda hawn fl-1988.
+2278	Ixtri r-rumuri, bigħ l-aħbarijiet. U qatt, qatt ma tbigħ l-umbrella tiegħek f'April.
+2279	Johann Wolfgang von Goethe twieled f'din id-dar fit-28 ta' Awwissu 1749. Ħadem fuq il-Faust għal madwar sittin sena.
+2280	Ismu issa jivvjaġġa mad-dinja kollha: il-Goethe-Institut jgħallem il-Ġermaniż f'kważi mitt pajjiż.
+2281	Il-Messeturm jiddomina l-fiera. Kull Ottubru tospita l-Fiera tal-Kotba ta' Frankfurt, l-akbar fiera tal-kotba fid-dinja.
+2282	Qarrej
+2283	Ġejt għall-Fiera tal-Kotba u bqajt għall-merka l-ħadra. Qrajt tliet kotba u kilt ħames merkiet.
+2284	Il-Pont tal-Ħadid fuq il-Main, mibni fl-1869. Eluf ta' lukkijiet jiddendlu mal-parapett tiegħu: wegħdiet tal-għeżież.
+2285	Koppja
+2286	Għalaqna l-lukkett tagħna fuq il-pont u tfajna ċ-ċavetta fil-Main. Għad irridu niddeċiedu ta' min kienet l-idea.
+2287	Frankfurti
+2288	Fuq in-naħa l-oħra hemm Sachsenhausen. Hemm nixorbu l-Ebbelwoi, l-inbid tat-tuffieħ. Hawn ħadd ma jsejjaħlu sidru, ara.
+2289	Kuruna tal-arżnu tiddendel fuq il-bieb: is-sinjal li din it-taverna tagħsar u sservi l-inbid tat-tuffieħ tagħha stess.
+2290	Sidt it-taverna
+2291	Guten Abend! L-inbid tat-tuffieħ jitferra' mill-Bembel, il-buqar griż tal-fuħħar, f'Gerippte, il-ħġieġa bil-mudell tad-djamant.
+2292	Illejla għandi kamra mimlija u żewġ idejn. Int timla l-ħġieġ, jien inġorrhom?
+2293	Trid tieħu dawra oħra wara l-bank?
+2294	Ebda qatra fuq il-mwejjed tiegħi! Hawn, ħu dan, u erġa' ejja meta trid.
+2295	Perfett mill-ġdid. Tista' tiftaħ it-taverna tiegħek. Dendel biss kuruna tal-arżnu fuq il-bieb.
+2296	Ach, il-mwejjed qed jgħumu! Xejn, immoppjaw.
+2297	Klijent regolari
+2298	Handkäs mit Musik: ġobon tal-ħalib qarsu mmarinat bil-basal. Il-mużika tiġi wara. Tistaqsix.
+2299	Il-merka l-ħadra teħtieġ eżattament seba' ħxejjex: borraġ, kerfel, krexxuni, tursin, burnet tal-insalata, ħaxixa qarsa u ċivi.
+2300	Mill-2016 l-UE tipproteġi l-«Frankfurter Grüne Soße» bħala indikazzjoni ġeografika. Seba' ħxejjex, mhux aktar, mhux inqas.
+2301	Lingott tad-deheb veru, ta' 12.5 kilogrammi, li l-viżitaturi jistgħu jerfgħu. Ħafna jirnexxilhom ftit ċentimetri.
+2302	Mill-qxur għall-muniti, mill-muniti għall-karta, mill-karta għall-euro: tliet elef sena ta' flus f'xi ftit xkafef.
+2303	Kurator
+2304	Il-Bundesbank huwa l-bank ċentrali tal-Ġermanja. Mill-1999 huwa parti mill-Eurosistema, mal-BĊE u mal-banek ċentrali l-oħra taż-żona tal-euro.
+2305	Smajt li għandek nota kampjun b'wiċċek fuqha. Meta l-avventura tiegħek tintemm, nixtiequha għall-kollezzjoni tagħna.
+2306	Ritratt ta' Europa, il-prinċipessa tal-mitoloġija Griega li tat ismha lill-kontinent.
+2307	Wiċċha ġej minn vażun Grieg ta' aktar minn 2,000 sena, miżmum fil-Louvre. Żomm nota tal-euro kontra d-dawl: hi fil-watermark.
+2308	Wara l-qafas, tastiera żgħira tiddi. Erba' ċifri.
+2309	Tikteb kodiċi?
+2310	It-tastiera tillampja aħmar. Xi mkien fuq il-pjan tan-negozjar, xi ħadd jiġbed nifs twil.
+2311	Klik. Il-pittura tinfetaħ fuq turġien dejjaq nieżel 'l isfel…
+2312	Tinżel fl-istudjo sigriet?
+2313	Ateljer mimli bl-eżelli, għodod tal-inċiżjoni u pressa tqila. Fuq il-bieb: «Disinn tal-flus – kunfidenzjali».
+2314	Tema «Kultura Ewropea»: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) u Bertha von Suttner (200 €).
+2315	Fuq wara: postijiet fejn tinqasam il-kultura. Mużiċisti tat-triq, festival tal-kanzunetti, skola, librerija, arti tat-triq, pjazza mżewqa bis-siġar.
+2316	Tema «Xmajjar u għasafar»: minn għajn tal-muntanja (5 €) sal-baħar miftuħ (200 €), b'rampikatur tal-blat, ħuttafa, naħliji, ċikonja bajda, avoċetta u gannet tat-tramuntana.
+2317	Fuq wara: l-istituzzjonijiet tal-UE, mill-Parlament Ewropew sal-Qorti Ewropea tal-Awdituri.
+2318	L-għaxar disinji finalisti: EC145, EC564, EC617, EC799, EC915 u RB120, RB227, RB637, RB754, RB832.
+2319	L-ismijiet tad-disinjaturi jibqgħu sigriet. Wara stħarriġ pubbliku, il-Kunsill Governattiv tal-BĊE jagħmel l-għażla finali.
+2320	Pressa intaljo. Tagħfas il-linka fil-karta daqshekk qawwi li toħroġ b'riljiev: dik hija l-istampa bi riljiev li tħoss fuq nota vera.
+2321	Speċifikazzjonijiet: l-istess daqsijiet tan-noti tal-lum, kulur dominanti wieħed għal kull valur, u fuq kull nota l-bandiera Ewropea, mappa tal-Ewropa u l-firma tal-President tal-BĊE.
+2322	Membru tal-ġurija
+2323	Fl-2025, aktar minn 1,200 disinjatur wieġbu għas-sejħa tal-BĊE. Disgħa u tletin proposta waslu għand il-ġurija; għaxra huma fuq dawn l-eżelli.
+2324	L-għan huwa li pontijiet u twieqi immaġinarji jiġu sostitwiti b'nies veri, għasafar veri u postijiet veri.
+2325	Eleni
+2326	Kaliméra! Jien Eleni, inċiżura intaljo. Tgħallimt is-sengħa fl-istamperija tal-Bank tal-Greċja, f'Ateni.
+2327	Uffiċjalment, il-BĊE ma jistampa ebda nota: jiddisinjahom, u stamperiji madwar l-Ewropa jipproduċuhom.
+2328	Bħalissa qed nippreparaw in-noti tal-euro li jmiss. Fl-2026 ġurija għażlet għaxar disinji dwar żewġ temi: kultura Ewropea, u xmajjar u għasafar.
+2329	Qabel l-għażla finali, irrid nittestja l-inċiżjoni fuq wiċċ veru. In-noti tal-euro qatt ma wrew persuna ħajja… allura tiegħek se tibqa' kampjun.
+2330	Imma ħadd ma jmiss il-pjanċi tiegħi mingħajr ma jgħaddi t-test. Mess, ara, mejjel: urini li tista' tgħarraf nota ġenwina minn waħda falza.
+2331	Lest?
+2332	Prosit! Għandek għajn ta' bankier ċentrali. Issa, ir-ritratt tiegħek.
+2333	Kampjun ġdid? Il-pressa għadha sħuna.
+2334	Hawn, inċiż! Tara n-numru tas-serje? L-ewwel ittra, Y, hija l-kodiċi tal-Bank tal-Greċja. Il-firma żgħira tiegħi.
+2335	Uri lil kulħadd. U ssejvja l-logħba f'Rapport, biex in-nota tiegħek tibqa' miegħek.
+2336	Waħda falza għaddiet. Mess, ara, mejjel: jieħu ftit sekondi biss. Erġa' ejja meta tkun lest.
+2337	Ħu l-ħin tiegħek. Inċiżjoni tajba ma tistax tiġi mgħaġġla.
+2338	Taverna tal-Inbid tat-Tuffieħ – Sachsenhausen
+2339	BĊE – Studjo tad-Disinn tal-Flus
+2340	Borża ta' Frankfurt
+2341	Mużew tal-Flus tal-Bundesbank
+2342	Dar Goethe – Frankfurt
+2343	Paulskirche – Sala tal-Assemblea
+2344	Nota Kampjun
+2345	Ir-ritratt tiegħek, inċiż fl-istudjo tal-BĊE f'Frankfurt. Mhijiex munita legali.
+2346	Taverna tal-inbid tat-tuffieħ, Sachsenhausen
+2348	Żomm biex timmejjel il-Bembel, ħalli biex tieqaf. Servi meta l-inbid jilħaq il-linja.
+2349	Bidla tal-gwardji
+2352	Pass
+2353	Xutt
+2354	Dewwes
+2355	Movimenti: %d / 24 · żbalji: %d
+2356	←: pass · →: xutt · A/↓: dewwes
+2357	Perfettament fil-pass! L-Evzones jibdlu l-gwardja kull siegħa, bi nhar u bil-lejl, f'kull temp.
+2358	Barra mill-pass… L-Evzones jitrenjaw xhur qabel l-ewwel dmir tal-gwardja.
+2359	Frappé
+2360	Ilma
+2361	Gazzetta
+2362	Koulouri
+2363	Komboloi
+2364	Mati
+2365	Biljett
+2366	Ċuingam
+2367	(Frappé, jekk jogħġbok!)
+2368	(Ilma, jekk jogħġbok!)
+2369	(Gazzetta, jekk jogħġbok!)
+2370	(Koulouri, iċ-ċirku tal-ħobż, jekk jogħġbok!)
+2371	(Komboloi, jekk jogħġbok!)
+2372	(Mati, l-amuletu tal-għajn ħażina, jekk jogħġbok!)
+2373	(Biljett, jekk jogħġbok!)
+2374	(Ċuingam, jekk jogħġbok!)
+2375	Il-periptero
+2378	Ħmistax-il klijent kuntenti! Ευχαριστώ (efcharistó) tfisser grazzi.
+2379	Il-kju jilħaq it-triq li jmiss… Σιγά σιγά (sigá sigá): bil-mod, bil-mod.
+2380	Il-port tal-Pireu
+2383	H
+2384	Vapur %d/3 · kontejners %d/%d
+2385	Ħin: %d s · żbalji: %d/3
+2386	Mejl
+2387	Tliet vapuri mgħobbija u ċatti! Il-Pireu huwa wieħed mill-akbar portijiet tal-kontejners fil-Mediterran.
+2388	Il-kaptan tal-port iwaqqaf it-tagħbija: il-vapur mhuwiex sikur. Erġa' rranġa u erġa' pprova!
+2389	It-Tomba tas-Suldat Mhux Magħruf (1932), taħt il-Parlament. L-Evzones tal-Gwardja Presidenzjali jgħassuha bi nhar u bil-lejl.
+2390	Il-pjazza tissejjaħ Syntagma, «Kostituzzjoni»: fl-1843, l-Atenjesi nġabru hawn sakemm ir-Re Otto taha waħda.
+2391	L-Evzone ma jiċċaqlaqx. Lanqas ixfar tal-għajn.
+2392	It-tsarouchia tiegħu, il-qabqub ħomor bil-pompons suwed, jiżnu madwar tliet kilogrammi kull wieħed, b'sittin musmar fil-qiegħ. Il-kilt abjad tiegħu, il-fustanella, għandu 400 pieġa: waħda għal kull sena ta' ħakma Ottomana, skont it-tradizzjoni.
+2393	Surġent Evzone
+2394	Kull siegħa, il-gwardja tinbidel. Passi bil-mod, xutt għoli, il-qabqub jolqtu l-irħam: żewġ irġiel jiċċaqalqu bħala wieħed.
+2395	Rekluta nieqes illum. Issegwi r-ritmu miegħi?
+2396	Bidla oħra tal-gwardji?
+2397	Ebda pass barra mill-ħin. Μπράβο (brávo)! Ħu dan, mingħand il-gwardja.
+2398	Μπράβο (brávo)! Il-Ħdud fil-ħdax, il-kumpanija kollha tmur parata bil-libsa taċ-ċerimonja. Ejja ara.
+2399	Il-qabqub tiegħek u t-tanbur ma qablux. Jieħu xhur ta' taħriġ. Għada mill-ġdid?
+2400	Sid il-kjosk
+2401	Γεια σας (yia sas, bonġu)! Periptero ibigħ kollox: gazzetti, ilma, biljetti tal-bus, kreditu tat-telefon, ċuingam, komboloi…
+2402	Ibn ħija ma ġiex. Żżomm il-bank int? Il-klijenti jitkellmu bil-Grieg, imma nxuxlek it-tifsira.
+2403	Ħin tal-għaġla mill-ġdid! Tagħtini daqqa t'id?
+2404	Ευχαριστώ (efcharistó, grazzi)! Issa titkellem bil-lingwa tal-kjosk. Hawn, bla ħlas.
+2405	Ευχαριστώ (efcharistó)! Il-kju spiċċa f'ħin rekord.
+2406	Σιγά σιγά (sigá sigá), bil-mod, bil-mod. Dan huwa wkoll qawl Grieg.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): frappé medju ħelu, jekk jogħġbok. Kafè bis-silġ imtajjar sakemm isir ragħwa.
+2408	Ġie ivvintat bi żball fl-1957, fil-Fiera Internazzjonali ta' Tessalonika: bejjiegħ ma kellux ilma sħun u hawwad il-kafè istantanju tiegħu mal-ilma kiesaħ.
+2409	Stazzjon tal-metro ta' Syntagma. Meta l-metro nħaffer fis-snin disgħin, l-arkeologi sabu għexieren ta' eluf ta' oġġetti. Xi wħud huma esposti fl-istazzjon stess.
+2410	It-28 t'Ottubru huwa l-Jum Ochi (όχι, óchi, «le»). Fl-1940 il-Greċja qalet le għall-ultimatum ta' Mussolini; kull sena, t-tfal tal-iskola jmorru parata fit-toroq.
+2411	Tħawwadx mal-OXI tar-referendum tal-2015. Żewġ «le» Griegi famużi, sebgħa u sebgħin sena bogħod minn xulxin.
+2412	Id-drakma: isem ta' munita mill-Greċja antika, miġjub lura fl-1832 għall-Istat Grieg żagħżugħ, u mibdul bl-euro fl-2002.
+2413	Il-munita Griega ta' euro waħda turi l-kokka ta' Athena, mikkupjata minn munita antika Atenjiża, il-munita ta' erba' drakmi.
+2414	Il-Bank tal-Greċja għandu stamperija tiegħu: jistampaw ukoll noti tal-euro.
+2415	Fuq in-noti tas-serje Europa, l-ewwel ittra tan-numru tas-serje turi liema bank ċentrali talabhom. Tagħna hija Y.
+2416	Y fuq il-kampjun tiegħek? Allura merħba d-dar!
+2417	Anafiotika: fis-seklu 19, bennejja mill-gżira ta' Anafi ġew jaħdmu fuq il-palazz irjali u bnew lilhom infushom raħal żgħir taċ-Ċikladi hawn, taħt l-Akropoli.
+2418	Μιάου (miáou). Ateni għandha eluf ta' qtates tat-triq; il-ġirien u l-voluntiera jitimgħuhom, anke fost l-fdalijiet.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Kilt? Tlift il-piż. Poġġi bilqiegħda. Kul.
+2421	Yiayia ixbgħet lit-tim kollu tiegħek sakemm ħadd ma seta' jiċċaqlaq. Kulħadd reġa' lura fi sħiħ.
+2422	Γιαγιά (yiayiá) tfisser nanna. U yiayia qatt ma temmen lilek meta tgħid li int mimli.
+2423	Ġar
+2424	Χρόνια πολλά (chrónia pollá)! Snin twal! Illum hu l-jum ta' ismi.
+2425	Fil-Greċja spiss niċċelebraw il-festa tal-qaddis li ssemmejna għalih aktar mill-jum tat-twelid. Nofs it-triq jismu Giorgos: immaġina l-Jum ta' San Ġorġ.
+2426	Ναι (nai) tfisser iva! Lit-turisti jidher bħal «le». U όχι (óchi) tfisser le.
+2427	Jekk nitfa' rasi lura u nagħmel ħoss b'ilsieni, dan huwa wkoll le. Faċli!
+2428	Bejjiegħ tas-suq
+2429	Μάτι (máti), l-għajn! Għajn blu tal-ħġieġ tipproteġik mill-għajn ħażina, is-sfortuna li ġejja mill-għira.
+2430	Jekk xi ħadd jammira l-Euromon tiegħek, għid «φτου φτου» (ftou ftou), qisek qed tobżoq. Għall-fortuna. Tobżoqx tassew.
+2431	Bejjiegħ tal-ġobon
+2432	Il-feta hija denominazzjoni protetta ta' oriġini mill-2002: il-feta vera ssir fil-Greċja mill-ħalib tan-nagħaġ, xi drabi b'ftit ħalib tal-mogħoż.
+2433	Il-Ġermanja u d-Danimarka kkontestawha quddiem il-Qorti tal-Ġustizzja tal-UE. Fl-2005 il-Qorti qalet: il-feta hija Griega.
+2434	Kok tal-grill
+2435	Souvlaki! F'Ateni dan huwa laħam fuq xiss. F'Tessalonika jsejħulu kalamaki, «stikka żgħira».
+2436	Itlob «souvlaki» f'Tessalonika u jagħtuk pita gyros. Familji inqasmu għal inqas.
+2437	Mużiċist
+2438	Kulħadd jaħseb li s-sirtaki huwa żfin folkloristiku antik. Ġie ivvintat għall-film «Zorba the Greek» fl-1964, fuq mużika ta' Mikis Theodorakis.
+2439	Bil-mod l-ewwel, imbagħad dejjem aktar malajr… Opa!
+2440	Stazzjon ta' Monastiraki. Il-Linja 1 issegwi l-ferrovija Ateni–Pireu, miftuħa fl-1869: l-eqdem linja tan-netwerk.
+2441	Tieħu t-tren lejn il-port tal-Pireu?
+2442	L-Odeon ta' Erodu Atticu, mibni fl-161 WK. Fl-1944 soprano żagħżugħa li kienet studjat fil-Konservatorju ta' Ateni għanniet hawn il-«Fidelio» ta' Beethoven: Maria Callas.
+2443	Callas u Beethoven t-tnejn jidhru fuq id-disinji finalisti tan-noti tal-euro li jmiss, fuq in-noti ta' 5 u 10 euro tat-tema tal-kultura.
+2444	Dawn il-lawħat bojod huma kasti tal-ġibs. L-originali jinsabu fil-British Museum f'Londra mill-1816.
+2445	Il-Greċja talbet uffiċjalment ir-ritorn tagħhom mill-1983. Il-mużew iżomm postijiethom lesti, ħdejn il-biċċiet originali.
+2446	Blokka oriġinali tal-friża tal-Partenon: rikkieba tal-purċissjoni Panatenajka, minquxa madwar l-440 QK.
+2447	Il-Mużew tal-Akropoli infetaħ fl-2009. Dan il-pjan ta' fuq huwa mdawwar biex jaqbel mal-Partenon, li tara mill-ħġieġ.
+2448	Il-friża tdur kollha kemm hi, fl-ordni oriġinali tagħha. Irħam tal-kulur tal-għasel: hawn. Ġibs abjad: f'Londra.
+2449	Iz-Zappeion. Hawn, fit-28 ta' Mejju 1979, il-Greċja ffirmat it-trattat ta' adeżjoni tagħha mal-Komunitajiet Ewropej.
+2450	Saret l-għaxar membru fl-1 ta' Jannar 1981. L-euro segwa fl-2001, sena qabel il-muniti u n-noti.
+2451	Melina Mercouri (1920–1994), attriċi, imbagħad Ministru tal-Kultura. Hi pproponiet il-Belt Ewropea tal-Kultura: Ateni kienet l-ewwel, fl-1985.
+2452	Hi nediet ukoll il-kampanja għar-ritorn tal-irħam tal-Partenon.
+2453	L-Istadju Panatenajku, l-uniku stadju kbir fid-dinja mibni kompletament bl-irħam. L-ewwel Logħob Olimpiku modern sar hawn fl-1896.
+2454	Kull sentejn, il-fjamma Olimpika tingħaddi hawn lill-belt ospitanti li jmiss.
+2455	Terminal tal-kontejners operat minn COSCO Shipping. Il-grupp Ċiniż xtara 51% tal-Awtorità tal-Port tal-Pireu fl-2016, imbagħad 67% fl-2021.
+2456	Gwardjan tal-port
+2457	It-terminal tal-kontejners magħluq għall-viżitaturi. Il-port tal-passiġġieri huwa tiegħek.
+2458	Mhux minn hawn, jekk jogħġbok: terminal tal-kontejners.
+2459	Stazzjon tal-Pireu, tarf il-Linja 1. Il-bini jmur lura għall-1929.
+2460	Tieħu t-tren lura lejn Ateni?
+2461	Ġebel tal-ħitan tal-Pireu. Fil-5 seklu QK, Temistokle għamel il-Pireu l-port ta' Ateni, u l-Ħitan t-Twal għaqdu ż-żewġ bliet.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), «It-Tfal tal-Pireu»! Manos Hadjidakis kitibha għall-film «Never on Sunday» (1960), ma' Melina Mercouri.
+2463	Rebħet l-Oscar għall-aħjar kanzunetta. Fi Franza, Dalida għamlitha suċċess: «Les Enfants du Pirée».
+2464	Sajjied
+2465	Hemmhekk hemm Mikrolimano, il-port iċken: dgħajjes tas-sajd, u tavernas fejn il-ħut kien għadu jgħum filgħodu.
+2466	Minn hawn għall-Istadju Karaiskakis, id-dar tal-Olympiacos. Fl-2024 il-klabb rebaħ il-UEFA Europa Conference League: l-ewwel trofew Ewropew għal klabb Grieg tal-futbol.
+2467	Vapuri għall-gżejjer: Egina, Hydra, iċ-Ċikladi, Kreta… Il-Pireu huwa wieħed mill-aktar portijiet tal-passiġġieri okkupati fl-Ewropa.
+2468	Sidien Griegi tal-vapuri jikkontrollaw madwar kwint tal-flotta merkantili tad-dinja: aktar minn kwalunkwe pajjiż ieħor.
+2469	Kapo tad-dock
+2470	Int, trainee! Il-vapur jitlaq f'nofsinhar u x-xufier tal-krejn tiegħi qed jagħmel strajk. Qatt tgħabbi vapur tal-kontejners?
+2471	Kontejners tqal fil-qiegħ, dawk imkessħin fuq ir-ringieli bil-kurrent, u żommha ċatta, jew tmejjel.
+2472	Vapur ieħor x'jitgħabba?
+2473	Dritt qisu linja! Hawn il-ħlas tiegħek. Tonfqux kollu fuq souvlaki.
+2474	Vapur ieħor ħareġ fil-ħin. Il-kaptan jibgħat is-sliem.
+2475	Qed timmejjel bħal burdata ħażina. Nerġgħu nirranġawha. Mill-ġdid?
+2476	Bank tal-Greċja – Mużew
+2477	Mużew tal-Akropoli – Gallerija tal-Partenon
+2478	Port tal-Pireu
+2479	Dar – Plaka
+2480	Kartolini tal-ġurija: %d minn 12.
+2481	Dawn huma t-tnax-il motiv kollha! Eleni, fl-istudjo tal-BĊE f'Frankfurt, tkun trid tarahom.
+2482	It-tnax-il kartolina kollha! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… u s-sitt għasafar. Rajt aktar mill-Ewropa mill-ġurija.
+2483	Minn issa 'l quddiem, il-pressa tiegħi tistampa l-kampjuni tiegħek fl-edizzjoni tad-deheb. U ħu dan, mill-istudjo.
+2484	Ħaġa oħra: il-ġurija bagħtet kartolini tat-tnax-il motiv madwar l-Ewropa. Jekk issibhom kollha, erġa' ejja: ninċiżlek edizzjoni tad-deheb.
+2485	Il-Munizipju ta' Brussell, mibni fis-seklu 15. Fuq nett it-torri tiegħu ta' 96 metru, San Mikiel joqtol id-dragun.
+2486	Il-Grand-Place madwarha hija sit tal-Wirt Dinji tal-UNESCO mill-1998.
+2487	Id-djar tal-gilda: furnara, baħrin, birrara… kull sengħa kellha d-dar tagħha, midheba biex turi r-rikkezza tagħha.
+2488	Manneken-Pis: 55 ċentimetru tal-bronż. Għandu aktar minn elf kostum, miżmuma fil-mużew tal-gwardarobba tiegħu.
+2489	Tailur uffiċjali
+2490	Illum liebes ta'… hu stess. Għada, bombier. Il-ġimgħa d-dieħla, astronawta. Huwa xogħol full-time, li tilbes statwa.
+2491	Sid il-fritkot
+2492	Il-patata fritta Belġjana vera tiġi moqlija darbtejn: darba biex tisjir, darba biex issir qarsa.
+2493	Bil-ġuħ? Ipprova mitraillette: nofs baguette, laħam, zalza, u patata fritta ġewwa. Iva, ġewwa.
+2494	Bejjiegħ tal-waffle
+2495	Waffle ta' Brussell: ħafif, rettangolari, bi trab taz-zokkor. Waffle ta' Liège: iktar dens, biz-zokkor tal-perli karamellizzat ġewwa.
+2496	L-għażla bejniethom qasmet familji għal ġenerazzjonijiet. Jien ibigħ it-tnejn. Diplomatiku ħafna.
+2497	Il-ħitan ta' Brussell huma mgħottijin b'għexieren ta' murali tal-komiks. Il-Belġju jieħu l-komiks bis-serjetà daqs iċ-ċikkulata.
+2498	Minn hawn għall-Galeries Royales Saint-Hubert (1847), waħda mill-eqdem arkati kopruti tax-xiri fl-Ewropa.
+2499	Fl-1912, f'dawn l-arkati, iċ-ċikkulatier Jean Neuhaus ivvinta ċ-ċikkulata mimlija: il-pralina.
+2500	Grand-Place / Grote Markt. F'Brussell, kull isem ta' triq huwa miktub bil-Franċiż u bl-Olandiż: ir-reġjun kapitali huwa uffiċjalment bilingwi.
+2501	Il-Belġju għandu tliet lingwi uffiċjali: Olandiż, Franċiż u Ġermaniż.
+2502	Brussellież
+2503	Allez, une fois! Hekk jaħsbu li nitkellmu f'Brussell. U, tassew… xi drabi hekk nitkellmu.
+2504	Ġardinier
+2505	Kull sentejn f'Awwissu, twapet tal-begonja jgħatti l-Grand-Place. L-ewwel wieħed tqiegħed fl-1971.
+2506	Mijiet ta' eluf ta' fjuri, mqiegħda bl-id fi ftit sigħat. Nieqes voluntier wieħed. Tħawwel miegħi?
+2507	Twapet ieħor? Il-begonji qed jistennew.
+2508	Mill-isbaħ! Anke d-djar tal-gilda jidhru jaqtgħu mill-għira. Hawn, mingħand il-belt.
+2509	Kapulavur ieħor. Wara ftit jiem il-fjuri jkunu spiċċaw, imma r-ritratti jibqgħu.
+2510	Id-disinn sar ftit… astratt. Magritte kien jogħġbu.
+2511	Il-Pont tal-Gran Duchessa Charlotte, imlaqqam il-Pont l-Aħmar, jgħaqqad il-belt il-qadima mal-plateau tal-Kirchberg, għoli fuq il-wied tal-Alzette.
+2512	Il-Palazz Gran Dukali, fil-qalba tal-belt il-qadima. Il-Lussemburgu huwa l-uniku gran dukat li fadal fid-dinja.
+2513	Il-gwardja timxi tmien passi, iddur, timxi tmien passi lura. Huwa rilassanti ħafna li tarah.
+2514	Il-Qorti Ewropea tal-Awdituri: il-kelb tal-ħarsien finanzjarju tal-UE. Tiċċekkja kif jintefqu l-flus Ewropej, euro b'euro.
+2515	Fuq wieħed mid-disinji finalisti tan-noti li jmiss, tidher fuq wara tan-nota ta' 200 euro.
+2516	Mid-29 ta' Frar 2020, it-trasport pubbliku kollu fil-Lussemburgu huwa b'xejn: xarabanks, trams, ferroviji. L-ewwel pajjiż fid-dinja li għamel hekk.
+2517	Il-Gëlle Fra, is-sinjura tad-deheb tal-Monument tal-Ftakar, tonora l-Lussemburgiżi li waqgħu fil-gwerer dinjin.
+2518	Il-forzi tal-okkupazzjoni waqqgħuha fl-1940; ġiet restawrata kompletament u reġgħet titqiegħdet fuq il-kolonna tagħha fl-1985.
+2519	Is-Schueberfouer! Fiera mill-1340, imwaqqfa minn Ġwanni l-Għomja, Konti tal-Lussemburgu. Kull sena fi tmiem is-sajf.
+2520	Lussemburgiż
+2521	Moien! Dak huwa bonġu bil-Lussemburgiż. Hawn għandna tliet lingwi amministrattivi: Lussemburgiż, Franċiż u Ġermaniż.
+2522	Ħafna minna nibdlu bejniethom fl-istess sentenza. Xi drabi l-Ingliż jidħol ukoll.
+2523	Fuq ħajt: «Mir wëlle bleiwe wat mir sinn» («Irridu nibqgħu dak li aħna»), il-motto nazzjonali.
+2524	Merħba fil-kasematti tal-Bock: 17-il kilometru ta' mini maħfura fil-blat, parti minn sit tal-Wirt Dinji tal-UNESCO.
+2525	Waqt il-bumbardamenti tat-Tieni Gwerra Dinjija, sa 35,000 persuna kienu jistkennu hawn.
+2526	Viżitatur intilef fil-gallariji mudlama bl-aħħar torċa tiegħi. Tista' ssib it-triq 'il barra u terġa' lura bih?
+2527	Dawra oħra tal-gallariji?
+2528	It-tnejn 'il barra b'saħħitkom! Il-fortizza kienet tissejjaħ il-«Ġibiltà tat-Tramuntana». Ħu dan għall-inkwiet tiegħek.
+2529	Taf il-gallariji aħjar mis-suldati tal-1700.
+2530	It-torċa tfiet… Tinkwetax, naf it-triq. Nerġgħu nippruvaw.
+2531	Il-Pont de l'Europe jgħaddi fuq ir-Rhein. Min-naħa l-oħra: Kehl, fil-Ġermanja. Mill-2017 anke tram jaqsam il-fruntiera.
+2532	Pendolari
+2533	Ngħix f'Kehl u naħdem fi Strasburgu. Kull filgħodu nbiddel il-pajjiż f'erba' minuti. Ħadd ma jiċċekkja l-passaport tiegħi.
+2534	Hawn jinsab il-Kunsill tal-Ewropa, imwaqqaf fl-1949: 46 Stat membru, u l-Qorti Ewropea tad-Drittijiet tal-Bniedem. Mhuwiex parti mill-UE.
+2535	Tħawwadx mal-Kunsill Ewropew (il-kapijiet tal-Istat u tal-gvern tal-UE) jew mal-Kunsill tal-UE (il-ministri). Anke l-ġurnalisti jħawdu.
+2536	Il-bandiera blu bit-tnax-il stilla tad-deheb ġiet adottata l-ewwel mill-Kunsill tal-Ewropa, fl-1955. L-UE adottatha aktar tard.
+2537	Ritratt ta' Bertha von Suttner (1843–1914), awtriċi tar-rumanz «Lay Down Your Arms!» u l-ewwel mara li rċeviet il-Premju Nobel għall-Paċi, fl-1905.
+2538	Hi l-figura ta' 200 euro tad-disinji finalisti tal-«Kultura Ewropea» tal-BĊE.
+2539	L-innu tal-Ewropa huwa l-preludju tal-«Ode to Joy», mid-Disa' Sinfonija ta' Beethoven. Il-Kunsill tal-Ewropa adottah fl-1972, l-UE fl-1985.
+2540	M'għandux kliem uffiċjali: fl-Ewropa, ilkoll nżemżmuh bl-istess lingwa.
+2541	Il-ponta tal-katidral togħla sa 142 metru. Mill-1647 sal-1874, kien l-ogħla bini fid-dinja.
+2542	L-arloġġ astronomiku. Il-mekkaniżmu tiegħu jmur lura għall-1842. Kuljum fit-tnax u nofs, it-tnax-il appostlu jmorru f'parata quddiem Kristu.
+2543	Il-katidral huwa mibni bi ġebel ta' ramel roża mill-Vosges. Għalhekk jaħmar meta tinżel ix-xemx.
+2544	Il-Christkindelsmärik isir hawn mill-1570: wieħed mill-eqdem swieq tal-Milied fl-Ewropa.
+2545	Kok tal-Winstub
+2546	Flammekueche! Għaġina rqiqa, krema, basal, bacon, moħmija fi forn tal-injam f'żewġ minuti. Bil-Franċiż jgħidu tarte flambée.
+2547	Il-Ġuramenti ta' Strasburgu, maħlufa hawn fl-842 minn żewġ neputijiet ta' Karlu Manju, huma fost l-eqdem testi bil-Franċiż Qadim u bl-Għoli Ġermaniż Qadim.
+2548	Kull re ħalef bil-lingwa tal-ieħor, biex l-armata tal-ieħor tifhem. L-interpretazzjoni għandha storja twila hawn.
+2549	Ornitologu
+2550	Iċ-ċikonja bajda hija l-emblema tal-Alsace. Fl-1974 fadal biss disa' pari fir-reġjun.
+2551	Bis-saħħa ta' programm ta' introduzzjoni mill-ġdid, illum hemm mijiet ta' pari. U ċ-ċikonja bajda tinsab fuq disinn finalist tan-nota ta' 50 euro!
+2552	Il-wasla l-ġodda qed ifittxu l-bejtiet tagħhom. Tista' tmexxihom, 'il bogħod mill-linji tal-kurrent?
+2553	Ġejjin aktar ċikonji. Terġa' tmexxihom?
+2554	Kull koppja f'darha! Hawn, għall-fond tal-ħarsien taċ-ċikonji… jiġifieri, għalik.
+2555	Il-bjut tal-Petite France huma mimlija munqar li jħabbtu. Dak huwa l-ħoss tar-rebbiegħa hawn.
+2556	Xi wħud inħabtu ħdejn il-wajers… Ma sofrew xejn, ftit imdejqin biss. Mill-ġdid?
+2557	Kamra 18: skulturi mill-Partenon f'Ateni, imneħħija mill-aġenti ta' Lord Elgin bejn l-1801 u l-1812 u mixtrija mill-British Museum fl-1816.
+2558	Il-Greċja talbet ir-ritorn tagħhom mill-1983. F'Ateni, il-Mużew tal-Akropoli iżomm postijiethom lesti.
+2559	Viżitatur Grieg
+2560	Ġejt sa minn Ateni biex inara l-irħam tagħna. Imbagħad immur lura lejn il-Mużew tal-Akropoli u nħares lejn il-kopji bojod ta' dawn.
+2561	Friża waħda, żewġ bliet. Forsi xi darba, belt waħda mill-ġdid.
+2562	Kabina tat-telefon ħamra, il-mudell K6 iddisinjat fl-1935. Illum xi wħud jospitaw defibrillaturi, oħrajn librerijiet żgħar.
+2563	Il-London Underground infetaħ fl-1863: l-ewwel ferrovija taħt l-art fid-dinja. «Mind the gap!»
+2564	Wara l-Brexit, ir-Renju Unit ħareġ mill-Erasmus. F'Diċembru 2025 qabel li jerġa' jingħaqad mill-2027. Oħti ż-żgħira se tistudja f'Bologna!
+2565	Uffiċjal tad-dwana Olandiż
+2566	Mill-1 ta' Jannar 2021 ir-Renju Unit huwa barra mir-regoli doganali u veterinarji tal-UE: il-vjaġġaturi ma jistgħux iġibu aktar laħam jew ħalib fl-UE.
+2567	Dak ix-xahar, il-kollegi tiegħi f'Hook of Holland kellhom jikkonfiskaw sandwiches tal-perżut. «Welcome to the Brexit, sir, I'm sorry.»
+2568	Il-vapur tal-filgħodu qed jilqa' l-passiġġieri. Tgħinni niċċekkja l-kaxxi tal-ikel?
+2569	Vapur ieħor, mitt kaxxa tal-ikel oħra. Terġa' tgħinni?
+2570	Ebda sandwich tal-perżut ma għadda. Hawn, ħu premju mingħajr ġobon u mingħajr perżut.
+2571	Effiċjenti u edukat. Tkun uffiċjal tad-dwana tajjeb.
+2572	Salami qasam il-Kanal… L-ispetturi veterinarji jridu kelma.
+2573	Xufier tat-trakk
+2574	Qabel il-Brexit kont inqsam bit-trakk mingħajr ma nieqaf. Issa: dikjarazzjonijiet doganali, ċertifikati tas-saħħa, kontrolli. Qrajt aktar formoli minn rumanzi.
+2575	Xarabank tal-kampanja. Fl-2016 fuq ġenbu wiegħed £350 miljun fil-ġimgħa għas-Servizz Nazzjonali tas-Saħħa.
+2576	Fl-2017 il-kap tal-UK Statistics Authority sejjaħ dik iċ-ċifra «użu ħażin ċar tal-istatistika uffiċjali».
+2577	Osservatur tal-għasafar
+2578	Il-gannets tat-tramuntana jaqbżu fil-baħar b'madwar mitt kilometru fis-siegħa. L-akbar kolonja fid-dinja tinsab fuq il-Bass Rock, fl-Iskozja.
+2579	Il-BĊE poġġa wieħed fuq disinn finalist tan-nota ta' 200 euro: baħar miftuħ, ġwienaħ mitwija, ċapċip.
+2580	Plejer tax-xatranġ
+2581	Il-Banju Termali Széchenyi, 1913: wieħed mill-akbar banjijiet mediċinali fl-Ewropa. Hawn nilgħabu x-xatranġ, bl-ilma sħun sa spallejna.
+2582	L-Ungerija tat lid-dinja lil Judit Polgár, l-aqwa plejer mara li qatt kien: grandmaster fil-ħmistax-il sena, u rebħet lil Kasparov fl-2002.
+2583	Tliet pożizzjonijiet, xah mat f'mossa waħda kull waħda. Tista' ssibhom qabel jikiesaħ l-ilma?
+2584	Pożizzjonijiet ġodda fuq il-bord li jgħum. Dawra oħra?
+2585	Tliet xah mat! Tilgħab bħal grandmaster bil-libsa tal-banju. Ħu dan.
+2586	Xah mat, xah mat, xah mat. Il-fwar jgħinek taħseb aktar malajr.
+2587	L-ilma kesaħ… Id-darba d-dieħla, fittex il-mossa li ma tħalli lir-re l-ebda post fejn imur.
+2588	Ruin bars: btieħi qodma tal-kwartier Lhudi preċedenti, mibdula f'bars b'għamara mħallta. L-ewwel wħud infetħu fil-bidu tas-snin 2000.
+2589	Barman
+2590	Egészségedre! Dik hija «saħħa» bl-Ungeriż. Ipprova għidha wara t-tieni tazza fröccs: inbid u ilma tas-soda.
+2591	Bejjiegħ tal-lángos
+2592	Lángos: għaġina moqlija, tewm, krema qarsa u ġobon maħkuk. Mhux dieta. Tradizzjoni.
+2593	Ir-Rubik's Cube ġie ivvintat f'Budapest fl-1974 minn Ernő Rubik, biex jgħallem l-ispazju lill-istudenti tiegħu. Jien solvejtu f'żewġ minuti. Jew wiċċ wieħed minnu.
+2594	Żraben fuq ix-Xatt tad-Danubju (2005). Sittin par żraben tal-ħadid jiftakru lil-Lhud ta' Budapest li nqatlu bl-isparar fuq dan ix-xatt mill-militi tas-Salib tal-Vleġeġ fl-1944 u l-1945, u mitfugħin fix-xmara.
+2595	Il-Pont tal-Ktajjen, miftuħ fl-1849: l-ewwel pont permanenti bejn Buda u Pest, iddisinjat mill-inġinier Ingliż William Tierney Clark.
+2596	L-iljuni tal-ġebel tiegħu m'għandhomx ilsien… kif tgħid il-leġġenda. Ħares sew.
+2597	Il-Bastjun tas-Sajjieda, fuq l-Għolja tal-Kastell: seba' torrijiet, għas-seba' tribujiet Magyar li stabilixxew fil-Baċir tal-Karpazji.
+2598	In-naħliji! L-aktar għasafar kuluriti tal-Ewropa. Jaħfru l-bejtiet tagħhom fix-xtut ramlin tax-xmajjar u jaqbdu n-naħal waqt it-titjira.
+2599	L-Ungerija għandha xi wħud mill-akbar kolonji. Fuq id-disinji finalisti tal-BĊE, kolonja minnhom tiżżejjen in-nota ta' 20 euro.
+2600	Lingwista
+2601	L-Ungeriż mhuwiex relatat mal-lingwi tal-ġirien tiegħu: jappartjeni għall-familja Urali, bħall-Finlandiż u l-Estonjan.
+2602	U l-kunjom jiġi l-ewwel: Rubik Ernő, Polgár Judit. Faċli biex tiftakar, diffiċli biex tippronunzja.
+2603	László Bíró, imwieled f'Budapest, ippatenta l-pinna tal-ballpoint moderna fl-1938. F'ħafna pajjiżi pinna għadha tissejjaħ «biro».
+2604	Is-Salon de l'Horloge. Fid-9 ta' Mejju 1950 fis-6 ta' filgħaxija, Robert Schuman, ministru tal-affarijiet barranin Franċiż, qara hawn dikjarazzjoni li pproponiet li l-faħam u l-azzar Franċiż u Ġermaniż jinġabru flimkien.
+2605	Wasslet għall-Komunità Ewropea tal-Faħam u l-Azzar fl-1951, l-ewwel pass tal-UE tal-lum. Kull 9 ta' Mejju huwa l-Jum tal-Ewropa.
+2606	L-arkivji ħawdu l-paġni tad-dikjarazzjoni! Il-ġurnalisti qed jaslu. Tista' terġa' tpoġġi s-sentenzi f'ordni?
+2607	Il-paġni reġgħu ħadu l-ħawda. Tgħinni?
+2608	Kelma b'kelma! Is-Sur Schuman kien jaqbadlek idek. Ħu dan, mill-ministeru.
+2609	Ordni perfett. L-Ewropa ma tinbnix f'daqqa, imma int mgħaġġel.
+2610	Mhux eżatt… Ftakar: l-ewwel il-paċi, imbagħad kisbiet konkreti, imbagħad faħam u azzar.
+2611	Marie Curie, imwielda Maria Skłodowska f'Varsavja, saret l-ewwel professuressa fis-Sorbonne fl-1906. Rebħet żewġ Premji Nobel, fil-fiżika u fil-kimika.
+2612	Hi l-figura ta' 20 euro tad-disinji finalisti tal-«Kultura Ewropea» tal-BĊE.
+2613	Furnar
+2614	Mill-2022 is-sengħa tal-baguette Franċiża hija fil-lista tal-wirt kulturali intanġibbli tal-UNESCO. Dqiq, ilma, melħ, ħmira. U ftit paċenzja.
+2615	Un café, s'il vous plaît! F'Pariġi, «café» huwa espresso. Jekk trid tazza kbira, trid tgħid hekk. Bil-qawwa.
+2616	Bouquiniste
+2617	Ilna nbigħu kotba użati fuq dawn ix-xtajtiet mis-seklu 16. Mijiet ta' kaxxi ħodor, tul kilometri tas-Seine.
+2618	Notre-Dame de Paris. Danneġġjata minn nar fil-15 t'April 2019, infetħet mill-ġdid fis-7 ta' Diċembru 2024 wara ħames snin ta' xogħol.
+2619	Viżitatur
+2621	Xi xtiewi rampikatur tal-blat jinżel mill-muntanji għall-irdumijiet tal-wied tal-Meuse. Għasfur griż bi ġwienaħ aħmar qawwi, bħal farfett.
+2622	Huwa l-għasfur tan-nota ta' 5 euro fid-disinji finalisti tal-BĊE: għajn tal-muntanja u rampikatur tal-blat.
+2623	Sajjied bil-qasba
+2624	Tara dik it-tlamħa blu fuq il-Moselle? Ħuttafa. Tinżel minn fergħa u terġa' titla' b'ħuta.
+2625	Fid-disinji finalisti tal-BĊE huwa l-għasfur tan-nota ta' 10 euro, ħdejn kaskata.
+2626	Antwerpen hija t-tieni l-akbar port tal-Ewropa. U tul l-Scheldt, ħdejn il-krejn, l-avoċetti jbejtu fir-riżervi naturali.
+2627	Iswed u abjad, b'munqar mgħawweġ 'il fuq: l-għasfur tan-nota ta' 100 euro fid-disinji finalisti tal-BĊE, fil-bokka ta' xmara.
+2628	Resident ta' Varsavja
+2629	Maria Skłodowska, Marie Curie, twieldet hawn f'Varsavja, fl-1867. Semmiet l-element polonju wara pajjiżha.
+2630	Il-Belt il-Qadima tagħna nqerdet fl-1944 u nbniet mill-ġdid ġebla ġebla: hija fil-lista tal-UNESCO mill-1980.
+2631	Leonardo da Vinci għex f'Ruma mill-1513 sal-1516, fil-Vatikan, qabel ma telaq lejn Franza.
+2632	Hu l-figura ta' 100 euro tad-disinji finalisti tal-«Kultura Ewropea» tal-BĊE.
+2633	Professur
+2634	It-Trattat ta' Liżbona, iffirmat hawn fl-2007, ħoloq l-Artikolu 50: il-proċedura biex wieħed jitlaq mill-UE. Ir-Renju Unit kien l-ewwel li użah.
+2635	Ukoll minn Liżbona: il-pastéis de nata, skont ir-riċetta tal-patrijiet tal-Jerónimos. Ħafna aktar popolari mill-Artikolu 50.
+2636	Baħri xwejjaħ
+2637	Fl-1571 il-Battalja ta' Lepanto saret fil-Golf ta' Patras, hawn fil-Greċja. Suldat żagħżugħ Spanjol tilef l-użu ta' idu x-xellugija hemm.
+2638	Kien jismu Miguel de Cervantes. Imbagħad kiteb Don Quixote. Hu l-figura ta' 50 euro tad-disinji tal-kultura tal-BĊE!
+2639	F'rokna, kartolina bil-bolla tal-ġurija tad-disinn tal-BĊE: waħda mit-tnax-il motiv tan-noti futuri. Tżommha int.
+2640	British Museum – Kamra 18
+2641	Kasematti tal-Bock – Dħul
+2642	Katidral ta' Strasburgu
+2643	Palais de l'Europe – Kunsill tal-Ewropa
+2644	Terminal tal-Vapuri – Dwana tal-UE
+2645	Ruin Bar – Budapest
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Boulangerie – Pariġi
+2648	Aħmar
+2649	Isfar
+2650	Abjad
+2651	Oranġjo
+2652	It-twapet tal-fjuri
+2655	Id-disinn
+2656	Tliet twapet tal-begonja! Il-Belġju jikber l-aktar begonji tuberużi tad-dinja, madwar Ghent.
+2657	It-turisti qed jaslu u t-twapet mhuwiex lest… Id-darba d-dieħla!
+2658	Iċ-ċikonji tal-Alsace
+2661	Ċikonji d-dar: %d / %d · mitlufin: %d / 3
+2662	Għaxar ċikonji fil-bejtiet tagħhom! Fl-Alsace, jgħidu li ċikonja fuq is-saqaf tiegħek iġġib il-fortuna.
+2663	Wisq ċikonji tajru lejn ir-raħal li jmiss… Jerġgħu lura r-rebbiegħa d-dieħla.
+2664	Sandwich tal-perżut
+2665	Ħalib
+2666	Salami
+2667	Tuffieħa
+2668	Barra ċikkulata
+2669	Crisps
+2670	Biskuttini
+2671	Dwana tal-UE
+2674	Laħam, ħalib, il-biċċa l-kbira tal-frott: ikkonfiska.
+2675	Banana, ħlewwiet, crisps, ilma: ħalli jgħaddu.
+2676	Għaddi
+2677	Ikkonfiska
+2678	Il-kaxxi tal-ikel kollha ċċekkjati! Fi ħdan is-suq uniku tal-UE, l-ikel jivvjaġġa liberament; fil-fruntieri tiegħu, jiġi ċċekkjat.
+2679	Salami għadda… jew banana nqabdet bi żball. L-ewwel ir-regoli, is-sandwich wara!
+2685	Xatranġ fil-banjijiet
+2688	L-abjad jilgħab u jagħmel mat f'mossa waħda
+2689	K re · Q reġina · R rook · B alfier · N kavall · P pedina
+2691	L-ilma kesaħ qabel il-mat… Fittex il-mossa li ma tħalli lir-re l-ebda kwadru.
+2692	Il-paċi dinjija ma tistax tiġi salvagwardata
+2694	L-Ewropa ma tinbnix f'daqqa, u lanqas skont pjan wieħed.
+2698	Id-Dikjarazzjoni Schuman
+2701	Id-dikjarazzjoni lesta! Il-Komunità Ewropea tal-Faħam u l-Azzar segwiet fl-1951. Kull 9 ta' Mejju huwa l-Jum tal-Ewropa.
+2702	Il-ġurnalisti qed jistennew u l-paġni għadhom f'ħawda… L-ewwel il-paċi, imbagħad kisbiet konkreti!
+2703	Il-kasematti tal-Bock
+2706	Il-viżitatur isegwik: issa l-ħruġ!
+2707	Xi mkien fid-dlam, xi ħadd qed isejjaħ…
+2708	Barra fid-dawl tax-xemx, mal-viżitatur! Sa 35,000 persuna kienu jistkennu f'dawn il-gallariji waqt il-bumbardamenti.
+2709	It-torċa tfiet… Il-gwida ssegwi leħnek u toħroġkom it-tnejn.
+2710	mingħajr sforzi kreattivi proporzjonati mal-perikli li jheddu.
+2713	Tinbena permezz ta' kisbiet konkreti li l-ewwel joħolqu solidarjetà de facto.
+2714	Il-faħam u l-azzar franko-Ġermaniżi jitqiegħdu taħt Awtorità Għolja komuni…
+2715	…biex gwerra bejn Franza u l-Ġermanja ssir materjalment impossibbli.
+2716	Qabel tmiss il-pjanċa tal-istampar, uri li tkun tista' tgħarraf falz! Iċċekkja kull nota bil-mod tal-BĊE: MESS l-istampa bi riljiev, ARA kontra d-dawl, MEJJEL. Iddeċiedi dwar 10 noti, żball wieħed permess.
+2717	F'taverna ta' Sachsenhausen, ferra l-inbid tat-tuffieħ mill-Bembel f'kull ħġieġa sal-linja! Żomm l-istylus (jew A) biex immejjel il-buqar, ħalli biex tieqaf, imbagħad servi bil-buttuna. 8 ħġieġ, 2 xerrdiet permessi.
+2718	Tmien ħġieġ perfetti! Hawn f'Frankfurt jgħidu «Ebbelwoi» lill-inbid tat-tuffieħ.
+2719	Pjazza Syntagma, it-Tomba tas-Suldat Mhux Magħruf. Mexxi fil-ħin mal-Evzones: PASS, XUTT, DEWWES meta kull sinjal jilħaq il-linja. 24 mossa, bil-mod u bis-solennità. 4 żbalji permessi.
+2720	Ħin tal-għaġla fil-kjosk! Kull klijent jitlob bil-Grieg: mess fuq dak li jrid. Inxuxlek it-tifsira għall-ewwel wħud. 15-il klijent f'60 sekonda!
+2721	Għabbi tliet vapuri qabel nofsinhar! Mexxi l-krejn bl-istylus jew ←/→, waqqa' b'A jew b'tapp. It-tqil (H) qatt fuq dak ħafif, il-frisk (abjad) biss fuq iż-żewġ kolonni bil-kurrent (plaggijiet), u żomm il-vapur ċatt!
+2722	Ikkopja t-twapet tal-begonja murija fuq l-iskrin ta' fuq: agħżel kulur, imbagħad mess jew iġbed fuq il-kwadri. Agħfas Lest meta jaqbel. Tliet twapet f'90 sekonda!
+2723	Iċ-ċikonji reġgħu lura mill-Afrika! Mexxi kull waħda lejn bejta vojta: mexxi l-istylus 'il fuq u 'l isfel (jew ↑/↓) u itir baxx fuq bejta ħielsa biex tinżel. Evita l-linji tal-kurrent. 10 ċikonji, 3 telfiet permessi.
+2724	Il-vapur dokkja! Iċċekkja kull kaxxa tal-ikel: IKKONFISKA l-laħam, il-ħalib u l-biċċa l-kbira tal-frott, ĦALLI JGĦADDI l-bqija. Oqgħod attent: banana hija permessa, tuffieħa le. 20 kaxxa f'50 sekonda, 2 żbalji permessi.
+2725	Banjijiet Széchenyi: il-plejers jitgħawġu fuq bord li jgħum fil-fwar. L-abjad jilgħab: sib il-mossa li tagħmel mat immedjatament. Mess biċċa bajda, imbagħad il-kwadru tagħha. Tliet pożizzjonijiet f'90 sekonda!
+2726	9 ta' Mejju 1950, Salon de l'Horloge. Il-paġni tad-dikjarazzjoni ta' Robert Schuman ħadu l-ħawda! Mess is-sentenzi fl-ordni t-tajjeb qabel il-konferenza tal-istampa. 60 sekonda.
+2727	Il-gallariji huma mudlama u t-torċa qed tispiċċa. Sib il-viżitatur mitluf, imbagħad il-ħruġ! Mexxi bil-+Control Pad, jew tapp ħdejn il-karattru tiegħek. 75 sekonda.
+2728	Tliet xah mat! Fil-banjijiet, jgħidu li t-telliefi jrid joħroġ l-ewwel mill-ilma.
+2729	Il-qafas il-ġdid tal-ballut inqata' bl-id, bħal fi żmien il-Medju Evu. Mastrudaxxi u bennejja tal-ġebel minn Franza kollha ħadmu fuqu.
+2730	Quddiem
+2731	Wara

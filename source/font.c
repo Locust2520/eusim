@@ -23,15 +23,17 @@ u32 utf8_next(const char **ps)
 {
     const unsigned char *s = (const unsigned char *)*ps;
     u32 c = *s++;
-    if (c >= 0xF0) {
-        c = ((c & 0x07) << 18) | ((s[0] & 0x3F) << 12) | ((s[1] & 0x3F) << 6) | (s[2] & 0x3F);
-        s += 3;
-    } else if (c >= 0xE0) {
-        c = ((c & 0x0F) << 12) | ((s[0] & 0x3F) << 6) | (s[1] & 0x3F);
-        s += 2;
-    } else if (c >= 0xC0) {
-        c = ((c & 0x1F) << 6) | (s[0] & 0x3F);
-        s += 1;
+    int more = c >= 0xF0 ? 3 : c >= 0xE0 ? 2 : c >= 0xC0 ? 1 : 0;
+    if (more) {
+        c &= 0x3F >> more;
+        for (int i = 0; i < more; i++, s++) {
+            // a sequence cut short (a string truncated into a fixed buffer): stop there, never step over the NUL
+            if ((*s & 0xC0) != 0x80) {
+                *ps = (const char *)s;
+                return 0xFFFD;
+            }
+            c = (c << 6) | (*s & 0x3F);
+        }
     }
     *ps = (const char *)s;
     return c;

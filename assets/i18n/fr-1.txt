@@ -306,7 +306,6 @@
 314	Submergé par les bandeaux… Vous avez accepté 437 partenaires publicitaires.
 315	Sommet nocturne
 316	Il est 3 h du matin, les 27 chefs d'État s'endorment ! Soufflez dans le micro (ou touchez la tête qui dort) pour les réveiller. 27 réveils avant l'aube !
-317	%d h %02d
 318	Soufflez / touchez la tête endormie !
 319	Tous réveillés ! Accord trouvé à 4 h 37. Comme d'habitude.
 320	Le soleil se lève sur une table de dirigeants endormis. Le sommet est reporté.
@@ -1723,7 +1722,6 @@
 1734	Maison – Strasbourg
 1735	Paris – Quartier latin
 1736	Parlement européen – Hall
-1737	Port du Pirée – Terminal conteneurs
 1738	Place Lux – Le Cocktail
 1739	Rome – Capitole
 1740	Route 1 – Forêt des Ardennes

@@ -1,0 +1,19 @@
+# Romanian — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Ștampilează 15 hotărâri valide în 30 de secunde. Lasă să treacă hârtiile marcate „FALS”: dacă ștampilezi una, pierzi runda!
+2087	DECIZIE
+2088	DECIZIE: ștampilează. FALS: las-o să treacă.
+2089	Ai ștampilat cincisprezece hotărâri valide! Administrația e mândră de tine.
+2090	Ai ștampilat un document greșit! Verifică înainte să aprobi…
+2091	Cele cincisprezece hotărâri valide nu sunt gata. Grefa se închide. Încearcă din nou…
+2092	Iată și teancul de azi. Trebuie să ștampilăm cincisprezece hotărâri valide înainte să se închidă grefa. Ai grijă, s-au strecurat și documente false! Îmi dai o mână de ajutor?
+2093	Grefa nu poate aproba acest teanc. Ne trebuie cincisprezece hotărâri valide și niciun document greșit ștampilat. Încearcă din nou oricând vrei.
+2094	Încă cincisprezece hotărâri în regulă! Pentru al doilea succes, iată o ștampilă calificată.
+2095	Impecabil! Mi-a mai rămas o ștampilă calificată pentru tine. Luxemburgul iubește oamenii metodici.
+2096	Impecabil! Dar de data asta nu am nicio ștampilă pentru tine. Treci iar pe la mine să-mi dai o mână de ajutor!
+2097	Celălalt jucător trimite %s!
+2098	Echipă sau conexiune nevalidă.
+2099	Obiectele nu sunt permise într-o dezbatere prietenoasă.
+2100	Câștigi această dezbatere prietenoasă!
+2101	Celălalt jucător câștigă această dezbatere prietenoasă!
+2102	Dezbatere încheiată sau conexiune întreruptă.
+2105	Salvarea a eșuat. Încearcă din nou.

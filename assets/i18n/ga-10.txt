@@ -1,0 +1,516 @@
+# Irish — city extensions (ids 2169+)
+2169	BRÉAGACH
+2171	%d s · %d/%d
+2172	Línte ardaithe ar na himill: is féidir iad a mhothú.
+2173	Tá an páipéar mín ar fad…
+2174	Mothaigh
+2175	Féach
+2176	Claon
+2177	Seiceáil, ansin socraigh:
+2178	Fíor
+2179	Bréige
+2180	L/R: claon · X: i gcoinne an tsolais · Y: mothaigh
+2181	Mothaigh, féach, claon
+2184	%s a bhí ann: bhí an priontáil ardaithe ar iarraidh.
+2185	%s a bhí ann: ní raibh comhartha uisce ann i gcoinne an tsolais.
+2186	%s a bhí ann: níor athraigh dath na huimhreach.
+2187	Nóta bréige
+2188	Nóta fíor a bhí ann!
+2189	Níor shleamhnaigh nóta bréige ar bith tríd! Sa chomhartha uisce chonaic tú Europa, ó vása Gréagach breis agus 2,000 bliain d'aois.
+2190	Shleamhnaigh nóta bréige tríd… Mothaigh, féach, claon: ní thógann na trí sheiceáil ach cúpla soicind.
+2191	An Bembel
+2194	Freastail
+2196	An iomarca gloiní doirte… Tugann úinéir an tábhairne éadach ar iasacht duit.
+2203	ceoltóirí sráide
+2204	féile amhránaíochta
+2205	scoil
+2206	leabharlann
+2207	ealaín sráide
+2208	cearnóg chrannach
+2209	dreapadóir balla cois foinse sléibhe
+2210	cruidín cois eas
+2211	beachadairí i ngleann abhann
+2212	storc bán cois abhann chasta
+2213	abhóiséad ag béal abhann
+2214	gainéad os cionn na farraige
+2215	Parlaimint na hEorpa
+2216	an Coimisiún Eorpach
+2217	an Banc Ceannais Eorpach
+2218	Cúirt Bhreithiúnais an AE
+2219	an Chomhairle Eorpach agus Comhairle an AE
+2220	Cúirt Iniúchóirí na hEorpa
+2221	Tosach: do phortráid, in ionad %s
+2222	Cúl: %s
+2223	Tosach: %s
+2224	Nóta samplach – %d €
+2225	Níl sé ina thairiscint dlíthiúil: dearadh samplach é seo.
+2227	L/R nó tap: iompaigh · B: dún
+2228	Éadrom
+2229	Meán
+2230	Dorcha
+2231	Scriosán
+2234	Cealaigh
+2235	Glan
+2236	Déanta
+2237	Tarraing do phortráid
+2238	Greanann an stiúideo é mar phortráid nóta bainc.
+2239	Do nóta samplach
+2240	Cultúr Eorpach
+2241	Aibhneacha agus éin
+2242	Iompaigh
+2243	Portráid nua
+2244	Priontáil an sampla
+2245	Ag priontáil…
+2246	Do phortráid don sampla
+2247	Ceamara an DSi, an stíleas nó do ghrianghraf oifigiúil.
+2248	An stíleas nó do ghrianghraf oifigiúil.
+2249	Tóg grianghraf
+2250	Tarraing mo phortráid
+2251	Úsáid mo ghrianghraf oifigiúil
+2252	Ní féidir an ceamara a úsáid anseo. Is féidir leat do phortráid a tharraingt ina ionad.
+2253	Chuaigh do nóta samplach isteach i mbailiúchán Mhúsaem an Airgid i Frankfurt.
+2254	I Frankfurt, tá stiúideo an BCE fós ag coinneáil sampla bán agus d'ainm air.
+2255	Ag tosú an cheamara…
+2256	Cuir d'aghaidh san ubhchruth
+2257	A nó tap: tóg an grianghraf · L/R: ceamara eile · B: ar ais
+2258	Triail greanta
+2259	Athghlac
+2260	Coinnigh
+2261	Eadrainn féin: tháinig an euro chun bheith ina airgead tirim, i bpócaí daoine, in 2002. Cuimhníonn roinnt doirse sa túr seo ar an mbliain sin fós.
+2262	Comhartha an Euro leis an ealaíontóir Ottmar Hörl, nochtaithe in 2001 os comhair iar-thúr an BCE.
+2263	Cúpla seachtain ina dhiaidh sin, an 1 Eanáir 2002, shroich nótaí agus boinn euro pócaí daoine i dtólf tír.
+2264	Cuimhneachán ag an Grossmarkthalle.
+2265	Idir 1941 agus 1945, díbríodh thart ar 10,000 fear, bean agus leanbh Giúdach as Frankfurt agus an réigiún ó íoslach halla an mhargaidh seo chuig geitiónna agus campaí. Dúnmharaíodh a bhformhór.
+2266	Chruthaigh Cathair Frankfurt, an Chomhphobal Giúdach agus an BCE, a bhfuil an halla anois mar chuid dá cheanncheathrú, an cuimhneachán seo le chéile.
+2267	An Römer, halla baile Frankfurt ó 1405. Ina Halla Impiriúil, bhíodh féasta corónaithe ag impirí nuacoróinithe na hImpireachta Naofa Rómhánaí.
+2268	Tithe leathadhmaid ar an Römerberg. Scrios buamáil an seanbhaile in 1944; atógadh an sraith seo sna 1980idí, bíoma ar bhíoma.
+2269	Fuarán na Córa. Féach go cúramach: tá a scálaí agus a claíomh ag an Justitia seo, ach níl púicín uirthi.
+2270	Glaonn siad « Mainhattan » ar an gcathair seo: ardfhoirgnimh ar abhainn an Main. Chomhairigh mé aon chrann tógála déag agus ceithre bhanc. Nó a mhalairt.
+2271	In 1848 agus 1849, tháinig an chéad pharlaimint a toghadh go saor don Ghearmáin ar fad le chéile san eaglais seo.
+2272	Scríobh sí bunreacht le cearta bunúsacha. Níor tháinig sé i bhfeidhm riamh, ach bhain bunreachtanna Gearmánacha níos déanaí tairbhe as.
+2273	Treoraí
+2274	Tá a laethanta móra fós ag an halla: gach Deireadh Fómhair, bronntar Duais Síochána Trádála Leabhar na Gearmáine anseo.
+2275	Tugann an tarbh ruathar lena adharca in airde: margadh ag ardú.
+2276	Buaileann an béar a chrúb síos: margadh ag titim.
+2277	Clár an DAX. Seoladh anseo in 1988 an t-innéacs stoic is cáiliúla sa Ghearmáin.
+2278	Ceannaigh an ráfla, díol an nuacht. Agus ná díol do scáth báistí in Aibreán go deo.
+2279	Rugadh Johann Wolfgang von Goethe sa teach seo an 28 Lúnasa 1749. D'oibrigh sé ar Faust ar feadh thart ar seasca bliain.
+2280	Tá a ainm ag taisteal an domhain anois: múineann an Goethe-Institut Gearmáinis i mbeagnach céad tír.
+2281	Seasann an Messeturm os cionn láithreán an aonaigh trádála. Gach Deireadh Fómhair, óstálann siad Aonach Leabhar Frankfurt, an t-aonach leabhar is mó ar domhan.
+2282	Léitheoir
+2283	Tháinig mé don Aonach Leabhar agus d'fhan mé don anlann glas. Léigh mé trí leabhar agus d'ith mé cúig anlann.
+2284	An Droichead Coise Iarainn thar an Main, tógtha in 1869. Tá na mílte glas ar crochadh ar a ráillí: geallúintí grá.
+2285	Lánúin
+2286	Ghlais muid ár nglas ar an droichead agus chaith muid an eochair isteach sa Main. Níor shocraigh muid fós cé a chum an smaoineamh.
+2287	Frankfurtach
+2288	Ar an taobh eile tá Sachsenhausen. Sin an áit a n-ólaimid Ebbelwoi, fíon úll. Ní thugann aon duine leann úll air anseo, bíodh a fhios agat.
+2289	Tá fleasc giúise ar crochadh os cionn an dorais: an comhartha go ndéanann an tábhairne seo a fhíon úll féin agus go ndíolann sé é.
+2290	Bean an tí
+2291	Guten Abend! Doirtear fíon úll as an Bembel, an crúsca cloiche liath, isteach sa Gerippte, an ghloine le patrún diamaint.
+2292	Anocht tá seomra lán agam agus dhá láimh. Líonfaidh tusa na gloiní, iompróidh mise iad?
+2293	Fonn babhta eile ort taobh thiar den chuntar?
+2294	Ná bíodh braon ar mo bhoird! Seo, tóg é seo, agus tar ar ais am ar bith.
+2295	Foirfe arís. D'fhéadfá do thábhairne féin a oscailt. Níl le déanamh ach fleasc giúise a chrochadh os cionn an dorais.
+2296	Ach, tá na boird ag snámh! Ná bac leis, glanfaimid suas.
+2297	Custaiméir rialta
+2298	Handkäs mit Musik: cáis bainne géar marinéadaithe le hoinniúin. Tagann an ceol níos déanaí. Ná fiafraigh.
+2299	Ní ghlacann anlann glas ach seacht luibh: borráiste, cearbhal, biolar, peirsil, burnet sailéid, samhadh agus síobhais.
+2300	Ó 2016 i leith, cosnaíonn an AE « Frankfurter Grüne Soße » mar tháscaire tíreolaíoch. Seacht luibh, gan níos mó ná níos lú.
+2301	Barra fíoróir, 12.5 cileagram, a bhfuil cead ag cuairteoirí é a ardú. Ní éiríonn leis an gcuid is mó ach cúpla ceintiméadar.
+2302	Ó shliogáin go boinn, ó bhoinn go páipéar, ón bpáipéar go dtí an euro: trí mhíle bliain airgid ar chúpla seilf.
+2303	Coimeádaí
+2304	Is é an Bundesbank banc ceannais na Gearmáine. Ó 1999 i leith tá sé mar chuid den Eurochóras, leis an BCE agus bainc cheannais eile limistéar an euro.
+2305	Chuala mé go bhfuil nóta samplach agat agus d'aghaidh air. Nuair a bheidh d'eachtra thart, ba bhreá linn é dár mbailiúchán.
+2306	Portráid d'Europa, banphrionsa na miotaseolaíochta Gréigí a thug a hainm don mhór-roinn.
+2307	Tagann a haghaidh ó vása Gréagach breis agus 2,000 bliain d'aois, atá sa Louvre. Coinnigh nóta euro suas leis an solas: tá sí sa chomhartha uisce.
+2308	Taobh thiar den fhráma, tá eochaircheap beag ag lonrú. Ceithre dhigit.
+2309	Clóscríobh cód?
+2310	Caochann an t-eochaircheap dearg. Áit éigin ar urlár na trádála, ligeann duine osna.
+2311	Cliceáil. Luascann an phéintéireacht ar oscailt ar staighre cúng ag dul síos…
+2312	Téigh síos go dtí an stiúideo rúnda?
+2313	Ceardlann lán d'éasail, uirlisí greanta agus preas trom. Ar an doras: « Dearadh nótaí bainc – rúnda ».
+2314	Téama « Cultúr Eorpach »: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) agus Bertha von Suttner (200 €).
+2315	Ar an gcúl: áiteanna ina roinntear cultúr. Ceoltóirí sráide, féile amhránaíochta, scoil, leabharlann, ealaín sráide, cearnóg chrannach.
+2316	Téama « Aibhneacha agus éin »: ó fhoinse sléibhe (5 €) go dtí an fharraige oscailte (200 €), le dreapadóir balla, cruidín, beachadairí, storc bán, abhóiséad agus gainéad.
+2317	Ar an gcúl: institiúidí an AE, ó Pharlaimint na hEorpa go Cúirt Iniúchóirí na hEorpa.
+2318	Na deich ndearadh deiridh: EC145, EC564, EC617, EC799, EC915 agus RB120, RB227, RB637, RB754, RB832.
+2319	Fanann ainmneacha na ndearthóirí faoi rún. Tar éis suirbhé poiblí, déanann Comhairle Rialaithe an BCE an rogha deiridh.
+2320	Preas intaglio. Brúann sé an dúch isteach sa pháipéar chomh crua sin go seasann sé amach: sin é an priontáil ardaithe a mhothaíonn tú ar nóta fíor.
+2321	Sonraíochtaí: na méideanna céanna le nótaí an lae inniu, dath amháin is mó do gach luach, agus ar gach nóta bratach na hEorpa, léarscáil na hEorpa agus síniú Uachtarán an BCE.
+2322	Ball den ghiúiré
+2323	In 2025, d'fhreagair níos mó ná 1,200 dearthóir glao an BCE. Shroich tríocha is a naoi moladh an giúiré; tá deich ar na héasail seo.
+2324	Is é an aidhm daoine fíora, éin fhíora agus áiteanna fíora a chur in ionad droichead agus fuinneog shamhlaíoch.
+2326	Kaliméra! Is mise Eleni, greanóir intaglio. D'fhoghlaim mé an ceird in obair phriontála Bhanc na Gréige, san Aithin.
+2327	Go hoifigiúil, ní phriontálann an BCE nóta ar bith: dearann sé iad, agus táirgeann oibreacha priontála ar fud na hEorpa iad.
+2328	Faoi láthair táimid ag ullmhú nótaí euro na todhchaí. In 2026 roghnaigh giúiré gearrliosta de dheich ndearadh ar dhá théama: cultúr Eorpach, agus aibhneacha agus éin.
+2329	Sula ndéantar an rogha dheiridh, ní mór dom an greanadh a thástáil ar aghaidh bheo. Níor léirigh nótaí euro duine beo riamh… mar sin fanfaidh do nóta ina shampla.
+2330	Ach ní bhaineann duine ar bith le mo phlátaí gan an tástáil a dhéanamh. Mothaigh, féach, claon: taispeáin dom gur féidir leat nóta fíor a aithint ó nóta bréige.
+2331	Réidh?
+2332	Bravo! Tá súil bainc cheannais agat. Anois, do phortráid.
+2333	Sampla nua? Tá an preas fós te.
+2334	Seo duit, greanta! An bhfeiceann tú an sraithuimhir? Is é an chéad litir, Y, cód Bhanc na Gréige. Mo shíniú beag.
+2335	Taispeáin thart é. Agus sábháil do chluiche i dTuarascáil, ionas go bhfanfaidh do nóta leat.
+2336	Shleamhnaigh nóta bréige tríd. Mothaigh, féach, claon: ní thógann sé ach cúpla soicind. Tar ar ais nuair a bheidh tú réidh.
+2337	Glac d'am. Ní féidir greanadh maith a bhrostú.
+2338	Tábhairne Fíona Úll – Sachsenhausen
+2339	BCE – Stiúideo Dearaidh Nótaí
+2340	Stocmhalartán Frankfurt
+2341	Músaem Airgid an Bundesbank
+2342	Teach Goethe – Frankfurt
+2343	Paulskirche – Halla Tionóil
+2344	Nóta Samplach
+2345	Do phortráid, greanta ag stiúideo an BCE i Frankfurt. Ní tairiscint dlíthiúil é.
+2346	Tábhairne fíona úll, Sachsenhausen
+2348	Coinnigh chun an Bembel a chlaonadh, scaoil chun stopadh. Freastail ag an líne.
+2349	Athrú an gharda
+2352	Céim
+2353	Speach
+2354	Stampáil
+2355	Gluaiseachtaí: %d / 24 · botúin: %d
+2356	←: céim · →: speach · A/↓: stampáil
+2357	Go foirfe in am! Athraíonn na hEvzones garda gach uair an chloig, de lá agus d'oíche, i ngach aimsir.
+2358	As am… Bíonn na hEvzones ag traenáil ar feadh míonna roimh a gcéad dualgas garda.
+2359	Frappé
+2360	Uisce
+2361	Nuachtán
+2362	Koulouri
+2363	Paidrín
+2364	Mati
+2365	Ticéad bus
+2366	Guma
+2367	(Frappé, le do thoil!)
+2368	(Uisce, le do thoil!)
+2369	(Nuachtán, le do thoil!)
+2370	(Koulouri, an fáinne aráin sesame, le do thoil!)
+2371	(Paidrín imní, le do thoil!)
+2372	(Seoid bheag in aghaidh na drochshúile, le do thoil!)
+2373	(Ticéad, le do thoil!)
+2374	(Guma, le do thoil!)
+2375	An periptero
+2378	Cúig chustaiméir déag sásta! Ciallaíonn Ευχαριστώ (efcharistó) go raibh maith agat.
+2379	Sroicheann an scuaine an chéad sráid eile… Σιγά σιγά (sigá sigá): go mall, go mall.
+2380	Calafort Piraeus
+2383	T
+2384	Long %d/3 · coimeádáin %d/%d
+2385	Am: %d s · botúin: %d/3
+2386	Claonadh
+2387	Trí long luchtaithe agus cothrom! Tá Piraeus ar cheann de na calafoirt coimeádán is mó sa Mheánmhuir.
+2388	Stopann máistir an chalafoirt an luchtú: níl an long sábháilte. Cruach arís agus bain triail eile as!
+2389	Tuama an Saighdiúra Anaithnid (1932), faoin bPairlimint. Coinníonn na hEvzones den Gharda Uachtaráin faire air de lá agus d'oíche.
+2390	Tugtar Syntagma, « Bunreacht », ar an gcearnóg: in 1843, bhailigh Aitheanaigh anseo go dtí gur thug an Rí Otto ceann dóibh.
+2391	Ní bhogann an Evzone. Ná fiú fabhra.
+2392	Na tsarouchia dá chuid, na bróga adhmaid dearga le bobailíní dubha: thart ar thrí chileagram an ceann, agus seasca tairne sna boinn. Tá 400 pléata ina chiltín bán, an fustanella: ceann do gach bliain d'fhorlámhas Otamánach, de réir an traidisiúin.
+2393	Sáirsint Evzone
+2394	Gach uair an chloig, athraíonn an garda. Céimeanna mall, speach ard, na bróga adhmaid ag bualadh an mharmair: bogann beirt mar dhuine amháin.
+2395	Tá earcach ar iarraidh inniu. An leanfaidh tú an rithim liom?
+2396	Athrú eile an gharda?
+2397	Gan céim amháin as am. Μπράβο (brávo)! Tóg é seo, ón ngarda.
+2398	Μπράβο (brávo)! Ar an Domhnach ag a haon déag, máirseálann an complacht ar fad i bhfeisteas searmanais. Tar agus féach.
+2399	Níor réitigh do bhróga adhmaid agus an druma. Tógann sé míonna oiliúna. Arís amárach?
+2400	Úinéir an chiosc
+2401	Γεια σας (yia sas, dia dhuit)! Díolann periptero gach rud: nuachtáin, uisce, ticéid bus, creidmheas fóin, guma coganta, paidrín imní…
+2402	Níor tháinig mo nia. An gcoinneoidh tú an cuntar? Labhraíonn na custaiméirí Gréigis, ach cogarfaidh mé an bhrí.
+2403	Uair an ruaille buaille arís! An gcuirfidh tú lámh chúnta leis?
+2404	Ευχαριστώ (efcharistó, go raibh maith agat)! Labhraíonn tú teanga an chiosc anois. Seo, ar an teach.
+2405	Ευχαριστώ (efcharistó)! Tá an scuaine imithe in am gearr.
+2406	Σιγά σιγά (sigá sigá), go mall, go mall. Seanfhocal Gréagach é sin freisin.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): frappé measartha milis, le do thoil. Caife oighir buailte go cúr.
+2408	Cumadh de thaisme é in 1957, ag Aonach Idirnáisiúnta Thessaloniki: ní raibh uisce te ag díoltóir, agus chroith sé a chaife meandarach le huisce fuar.
+2409	Stáisiún meitreo Syntagma. Nuair a tochladh an meitreo sna 1990idí, fuair seandálaithe deicheanna míle réad. Tá cuid acu ar taispeáint sa stáisiún féin.
+2410	Is é an 28 Deireadh Fómhair Lá Ochi (όχι, óchi, « níl »). In 1940 dúirt an Ghréig níl le ultamatam Mussolini; gach bliain, téann leanaí scoile ar paráid sna sráideanna.
+2411	Ná measc é leis an OXI i reifreann 2015. Dhá « níl » cáiliúla Gréagacha, seachtó cúig bliana óna chéile.
+2412	An drachma: ainm boinn ón nGréig ársa, tugtha ar ais in 1832 do stát óg na Gréige, agus curtha in ionad ag an euro in 2002.
+2413	Taispeánann bonn euro amháin na Gréige ulchabhán Athena, cóipeáilte ó bhonn ársa Aitheanach, an píosa ceithre dhrachma.
+2414	Tá a hoibreacha priontála féin ag Banc na Gréige: priontálann siad nótaí euro freisin.
+2415	Ar nótaí na sraithe Europa, taispeánann an chéad litir den sraithuimhir an banc ceannais a d'ordaigh iad. Is é Y ár gceann.
+2416	Y ar do shampla? Ansin fáilte abhaile!
+2417	Anafiotika: sa 19ú haois, tháinig tógálaithe ó oileán Anafi chun oibriú ar an bpálás ríoga agus thóg siad sráidbhaile beag Cycladach dóibh féin anseo, faoin Acropolis.
+2418	Μιάου (miáou). Tá na mílte cat sráide san Aithin; cothaíonn comharsana agus oibrithe deonacha iad, fiú i measc na bhfothrach.
+2419	Yiayia
+2420	Έφαγες; (éfages?) An bhfuil rud éigin ite agat? Chaill tú meáchan. Suigh. Ith.
+2421	Chothaigh Yiayia d'fhoireann ar fad go dtí nár fhéad aon duine bogadh. Tá gach duine ar ais ar fheabhas.
+2422	Ciallaíonn Γιαγιά (yiayiá) seanmháthair. Agus ní chreideann yiayia riamh thú nuair a deir tú go bhfuil do dhóthain agat.
+2423	Comharsa
+2424	Χρόνια πολλά (chrónia pollá)! Go maire tú na blianta! Is é lá m'ainm é inniu.
+2425	Sa Ghréig is minic a cheiliúrann muid féile an naoimh a bhfuil a ainm orainn níos mó ná ár lá breithe. Tugtar Giorgos ar leath na sráide: samhlaigh Lá Naomh Seoirse.
+2426	Ciallaíonn Ναι (nai) sea! Is cosúil le « níl » é do thurasóirí. Agus ciallaíonn όχι (óchi) níl.
+2427	Má chaithim mo cheann siar agus má chliceálaim mo theanga, is « níl » é sin freisin. Éasca!
+2428	Úinéir stainníne
+2429	Μάτι (máti), an tsúil! Cosnaíonn súil ghloine ghorm thú ón drochshúil, an droch-ádh a thagann ó éad.
+2430	Má mholann duine d'Euromon, abair « φτου φτου » (ftou ftou), amhail is go bhfuil tú ag caitheamh seile. Ar mhaithe leis an ádh. Ná caith seile i ndáiríre.
+2431	Ceannaí cáise
+2432	Is ainmniúchán tionscnaimh cosanta é feta ó 2002: déantar fíor-fheta sa Ghréig as bainne caorach, uaireanta le beagán bainne gabhair.
+2433	Rinne an Ghearmáin agus an Danmhairg agóid ina aghaidh os comhair Chúirt Bhreithiúnais an AE. In 2005 dúirt an Chúirt: is Gréagach é feta.
+2434	Cócaire grill
+2435	Souvlaki! San Aithin is feoil ar bhior é sin. I Thessaloniki, tugann siad kalamaki, « bata beag », air.
+2436	Iarr « souvlaki » i Thessaloniki agus tabharfaidh siad gyros pita duit. Scoilteadh teaghlaigh as níos lú.
+2437	Ceoltóir
+2438	Ceapann gach duine gur seandamhsa tíre é an sirtaki. Cumadh é don scannán « Zorba the Greek » in 1964, ar cheol le Mikis Theodorakis.
+2439	Mall ar dtús, ansin níos tapúla agus níos tapúla… Opa!
+2440	Stáisiún Monastiraki. Leanann Líne 1 iarnród Aithin–Piraeus, oscailte in 1869: an líne is sine den líonra.
+2441	Tóg an traein go calafort Piraeus?
+2442	Odeon Herodes Atticus, tógtha i 161 AD. In 1944 sheinn sopránó óg a bhí ag staidéar ag Coláiste Ceoil na hAithne « Fidelio » Beethoven anseo: Maria Callas.
+2443	Tá Callas agus Beethoven araon ar na dearaí deiridh do nótaí euro na todhchaí, ar nótaí 5 agus 10 euro théama an chultúir.
+2444	Is múnlaí plástair iad na leaca bána seo. Tá na bunphíosaí i Músaem na Breataine i Londain ó 1816.
+2445	Tá an Ghréig ag iarraidh go hoifigiúil iad a fháil ar ais ó 1983. Coinníonn an músaem a n-áiteanna réidh, in aice leis na bunphíosaí.
+2446	Bloc bunaidh de fhriosa an Pharthenon: marcaigh de phróisean na bPanatheanach, snoite thart ar 440 R.Ch.
+2447	D'oscail Músaem an Acropolis in 2009. Tá an t-urlár uachtarach seo casta chun ailíniú leis an bParthenon, a fheiceann tú tríd an ngloine.
+2448	Ritheann an friosa ar fad timpeall, ina ord bunaidh. Marmar ar dhath an mheala: anseo. Plástar bán: i Londain.
+2449	An Zappeion. Anseo, an 28 Bealtaine 1979, shínigh an Ghréig a conradh aontachais leis na Comhphobail Eorpacha.
+2450	Ba í an deichiú ball í an 1 Eanáir 1981. Lean an euro in 2001, bliain roimh na boinn agus na nótaí.
+2451	Melina Mercouri (1920–1994), aisteoir, ansin Aire Cultúir. Mhol sí Príomhchathair Chultúir na hEorpa: ba í an Aithin an chéad cheann, in 1985.
+2452	Sheol sí an feachtas freisin chun marmair an Pharthenon a thabhairt ar ais.
+2453	An Staidiam Panatheanach, an t-aon staidiam mór ar domhan atá tógtha go hiomlán as marmar. Reáchtáladh na chéad Chluichí Oilimpeacha nua-aimseartha anseo in 1896.
+2454	Gach dara bliain, tugtar an lasair Oilimpeach don chéad chathair óstach eile anseo.
+2455	Críochfort coimeádán á oibriú ag COSCO Shipping. Cheannaigh an grúpa Síneach 51% d'Údarás Calafoirt Piraeus in 2016, ansin 67% in 2021.
+2456	Garda calafoirt
+2457	Tá an críochfort coimeádán dúnta do chuairteoirí. Is leatsa an calafort paisinéirí.
+2458	Ná tar an bealach seo, le do thoil: críochfort coimeádán.
+2459	Stáisiún Piraeus, críoch Líne 1. Tógadh an foirgneamh in 1929.
+2460	Tóg an traein ar ais go dtí an Aithin?
+2461	Clocha de bhallaí Piraeus. Sa 5ú haois R.Ch., rinne Themistocles de Piraeus calafort na hAithne, agus cheangail na Ballaí Fada an dá chathair.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), « Páistí Phiraeus »! Scríobh Manos Hadjidakis é don scannán « Never on Sunday » (1960), le Melina Mercouri.
+2463	Bhuaigh sé an Oscar don amhrán is fearr. San Fhrainc, rinne Dalida bua de: « Les Enfants du Pirée ».
+2464	Iascaire
+2465	Ansiúd tá Mikrolimano, an calafort beag: báid iascaigh, agus tavernas ina raibh an t-iasc ag snámh ar maidin.
+2466	An bealach seo go Staidiam Karaiskakis, baile Olympiacos. In 2024 bhuaigh an club Sraith Chomhdhála Europa UEFA: an chéad trófaí Eorpach d'fhoireann peile Gréagach.
+2467	Báid farantóireachta chuig na hoileáin: Aegina, Hydra, na Cyclades, Crete… Tá Piraeus ar cheann de na calafoirt paisinéirí is gnóthaí san Eoraip.
+2468	Rialaíonn úinéirí long Gréagacha thart ar chúigiú cuid de loingeas trádála an domhain: níos mó ná aon tír eile.
+2469	Maor duga
+2470	Tusa, oiliúnaí! Fágann an long ag meán lae agus tá mo thiománaí craenach ar stailc. Ar luchtaigh tú long coimeádán riamh?
+2471	Coimeádáin throma ag an mbun, cinn chuisnithe ar na sraitheanna cumhachtaithe, agus coinnigh cothrom í, nó claonfaidh sí.
+2472	Long eile le luchtú?
+2473	Chomh díreach le saighead! Seo do thuarastal. Ná caith ar fad ar souvlaki é.
+2474	Long eile amach in am. Cuireann an captaen a bheannachtaí chugat.
+2475	Tá sí ag claonadh mar dhroch-ghiúmar. Cruachfaimid arís. Arís?
+2476	Banc na Gréige – Músaem
+2477	Músaem Acropolis – Seomra Parthenon
+2478	Calafort Piraeus
+2479	Teach – Plaka
+2480	Cártaí poist an ghiúiré: %d as 12.
+2481	Sin an dá mhóitíf dhéag go léir! Is mian le hEleni, i stiúideo an BCE i Frankfurt, iad a fheiceáil.
+2482	An dá chárta poist dhéag go léir! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… agus na sé éan. Chonaic tú níos mó den Eoraip ná an giúiré.
+2483	Ón lá seo amach, priontálann mo phreas do shamplaí san eagrán óir. Agus tóg é seo, ón stiúideo.
+2484	Rud amháin eile: sheol an giúiré cártaí poist den dá mhóitíf dhéag ar fud na hEorpa. Má aimsíonn tú iad go léir, tar ar ais: greanfaidh mé eagrán óir.
+2485	Halla Baile na Bruiséile, tógtha sa 15ú haois. Ar bharr a túir 96 méadar ar airde, maraíonn Naomh Mícheál an dragan.
+2486	Is Láithreán Oidhreachta Domhanda UNESCO an Grand-Place timpeall air ó 1998.
+2487	Tithe na gcumann ceardaithe: báicéirí, báidóirí, grúdairí… bhí a theach féin ag gach ceird, óraithe chun saibhreas a thaispeáint.
+2488	Manneken-Pis: 55 ceintiméadar d'umha. Is leis breis agus míle culaith, coinnithe i músaem a sheomra feistis féin.
+2489	Feistitheoir oifigiúil
+2490	Inniu tá sé gléasta mar… é féin. Amárach, comhraiceoir dóiteáin. An tseachtain seo chugainn, spásaire. Is obair lánaimseartha é dealbh a ghléasadh.
+2491	Úinéir fritkot
+2492	Friochtar fíor-sceallóga Beilgeacha faoi dhó: uair amháin chun iad a chócaráil, uair amháin chun iad a dhéanamh briosc.
+2493	Ocrach? Bain triail as mitraillette: leath baguette, feoil, anlann, agus sceallóga istigh. Sea, istigh.
+2494	Díoltóir vaiféal
+2495	Vaiféal na Bruiséile: éadrom, dronuilleogach, sprúillte le siúcra. Vaiféal Liège: níos dlúithe, le siúcra péarla caramalaithe istigh.
+2496	Tá roghnú eatarthu tar éis teaghlaigh a roinnt ar feadh glúnta. Díolaim an dá cheann. An-dioplómasach.
+2497	Tá ballaí na Bruiséile clúdaithe le scórtha múrmhaisiú greannáin. Tógann an Bheilg a greannáin chomh dáiríre lena seacláid.
+2498	An bealach seo chuig Galeries Royales Saint-Hubert (1847), ceann de na harcáidí siopadóireachta clúdaithe is sine san Eoraip.
+2499	In 1912, sna harcáidí seo, chum an déantóir seacláide Jean Neuhaus an tseacláid líonta: an praline.
+2500	Grand-Place / Grote Markt. Sa Bhruiséil, scríobhtar gach ainm sráide i bhFraincis agus in Ollainnis: tá réigiún na príomhchathrach dátheangach go hoifigiúil.
+2501	Tá trí theanga oifigiúla sa Bheilg: Ollainnis, Fraincis agus Gearmáinis.
+2502	Duine ón mBruiséil
+2503	Allez, une fois! Sin mar a shamhlaíonn siad go labhraímid sa Bhruiséil. Agus, bhuel… uaireanta déanaimid.
+2504	Garraíodóir
+2505	Gach dara bliain i mí Lúnasa, clúdaíonn cairpéad begonias an Grand-Place. Leagadh an chéad cheann in 1971.
+2506	Na céadta míle bláth, leagtha de láimh i gcúpla uair an chloig. Tá oibrí deonach amháin de dhíth orm. An gcuirfidh tú liom?
+2507	Cairpéad eile? Tá na begonias ag fanacht.
+2508	Iontach! Breathnaíonn fiú tithe na gcumann éadmhar. Seo, ón gcathair.
+2509	Saothar mór eile. I gceann cúpla lá beidh na bláthanna imithe, ach fanfaidh na grianghraif.
+2510	Tháinig an patrún beagán… teibí. Thaitneodh sé le Magritte.
+2511	An Droichead Ard-Bhandiúc Charlotte, ar a dtugtar an Droichead Dearg, a cheanglaíonn an seanbhaile le hardchlár Kirchberg, ard os cionn gleanna na hAlzette.
+2512	Pálás an Ard-Diúic, i gcroílár an tseanbhaile. Is é Lucsamburg an t-aon ard-diúcacht atá fágtha ar domhan.
+2513	Máirseálann an garda ocht gcéim, casann, máirseálann ocht gcéim ar ais. Tá sé an-suaimhneach le breathnú air.
+2514	Cúirt Iniúchóirí na hEorpa: gadhar faire airgeadais an AE. Seiceálann sí conas a chaitear airgead Eorpach, euro ar euro.
+2515	Ar cheann de dhearaí deiridh na nótaí nua, feictear í ar chúl nóta 200 euro.
+2516	Ó 29 Feabhra 2020, tá gach iompar poiblí i Lucsamburg saor in aisce: busanna, tramanna, traenacha. An chéad tír ar domhan chun é a dhéanamh.
+2517	Tugann an Gëlle Fra, bean órga Séadchomhartha na Cuimhne, onóir do mhuintir Lucsamburg a thit sna cogaí domhanda.
+2518	Stróic na fórsaí forghabhála anuas í in 1940; athchóiríodh go hiomlán í agus cuireadh ar ais ar a colún í in 1985.
+2519	An Schueberfouer! Aonach spraoi ó 1340, bunaithe ag Seán an Dall, Cunta Lucsamburg. Gach bliain ag deireadh an tsamhraidh.
+2520	Lucsamburgach
+2521	Moien! Sin dia dhuit i Lucsamburgais. Anseo tá trí theanga riaracháin againn: Lucsamburgais, Fraincis agus Gearmáinis.
+2522	Athraíonn formhór againn eatarthu san abairt chéanna. Uaireanta sleamhnaíonn an Béarla isteach freisin.
+2523	Ar bhalla: « Mir wëlle bleiwe wat mir sinn » (« Ba mhaith linn fanacht mar atáimid »), mana náisiúnta na tíre.
+2524	Fáilte chuig casemates Bock: 17 gciliméadar de tholláin a tochladh sa charraig, mar chuid de Láithreán Oidhreachta Domhanda UNESCO.
+2525	Le linn buamáil an Dara Cogadh Domhanda, ghlac suas le 35,000 duine foscadh anseo.
+2526	Chuaigh cuairteoir ar strae sna gailearaithe dorcha le mo thóirse dheireanach. An bhfaighidh tú an bealach amach agus é a thabhairt ar ais?
+2527	Turas eile ar na gailearaithe?
+2528	An bheirt agaibh amach slán! Tugadh « Gibraltar an Tuaiscirt » ar an dún. Tóg é seo as do thrioblóid.
+2529	Is fearr eolas agat ar na gailearaithe ná mar a bhí ag saighdiúirí 1700.
+2530	Chuaigh an tóirse as… Ná bíodh imní ort, tá an bealach ar eolas agam. Bainimis triail eile as.
+2531	Trasnaíonn an Pont de l'Europe an Réin. Ar an taobh eile: Kehl, sa Ghearmáin. Ó 2017 trasnaíonn tram an teorainn fiú.
+2532	Taistealaí laethúil
+2533	Tá cónaí orm i Kehl agus oibrím i Strasbourg. Gach maidin athraím tír i gceithre nóiméad. Ní sheiceálann aon duine mo phas.
+2534	Suíonn Comhairle na hEorpa anseo, bunaithe in 1949: 46 ballstát, agus Cúirt Eorpach um Chearta an Duine. Níl sí mar chuid den AE.
+2535	Ná measc í leis an gComhairle Eorpach (ceannairí stáit agus rialtais an AE) ná le Comhairle an AE (na hairí). Measctar iad fiú ag iriseoirí.
+2536	Ghlac Comhairle na hEorpa an bhratach ghorm le dhá réalta dhéag órga ar dtús, in 1955. Ghlac an AE ina dhiaidh sin í.
+2537	Portráid de Bertha von Suttner (1843–1914), údar an úrscéil « Leag síos d'airm! » agus an chéad bhean a fuair Duais Nobel na Síochána, in 1905.
+2538	Is í atá ar nóta 200 euro i ndearaí deiridh « Cultúr Eorpach » an BCE.
+2539	Is é amhrán na hEorpa réamhcheol « Óid don Áthas », ón Naoú Siansa le Beethoven. Ghlac Comhairle na hEorpa leis in 1972, an AE in 1985.
+2540	Níl focail oifigiúla aige: san Eoraip, bíonn gach duine againn á dhordán sa teanga chéanna.
+2541	Éiríonn spuaic na hardeaglaise go 142 méadar. Ó 1647 go 1874, ba í an foirgneamh ba airde ar domhan í.
+2542	An clog réalteolaíoch. Tá a mheicníocht ón mbliain 1842. Gach lá ag leathuair tar éis a dó dhéag, téann an dá aspal dhéag ar paráid os comhair Chríost.
+2543	Tá an ardeaglais tógtha as gaineamhchloch bhándearg ó na Vosges. Sin an fáth go gcaitheann sí luisne le luí na gréine.
+2544	Reáchtáiltear an Christkindelsmärik anseo ó 1570: ceann de na margaí Nollag is sine san Eoraip.
+2545	Cócaire winstub
+2546	Flammekueche! Taos tanaí, uachtar, oinniúin, bagún, bácáilte in oigheann adhmaid i dhá nóiméad. I bhFraincis deir siad tarte flambée.
+2547	Tá Móidí Strasbourg, a mhionnaigh beirt gharmhac le Charlemagne anseo in 842, i measc na dtéacsanna is sine i Sean-Fhraincis agus i Sean-Ard-Ghearmáinis.
+2548	Mhionnaigh gach rí i dteanga an duine eile, ionas go dtuigfeadh arm an duine eile. Tá stair fhada ag an ateangaireacht anseo.
+2549	Éanaiteolaí
+2550	Is é an storc bán suaitheantas na hAlsáis. In 1974 ní raibh ach naoi bpéire fágtha sa réigiún.
+2551	A bhuíochas le clár athbhunaithe, tá cúpla céad péire ann inniu. Agus tá an storc bán ar dhearadh deiridh nóta 50 euro!
+2552	Tá na teachtaithe nua ag cuardach a nead. An dtreoróidh tú iad, ar shiúl ó na línte cumhachta?
+2553	Tá níos mó storcanna ag teacht isteach. An dtreoróidh tú arís iad?
+2554	Tá gach lánúin sa bhaile! Seo, don chiste cosanta na storc… is é sin, duitse.
+2555	Tá díonta na Petite France lán de ghobanna ag clingeadh. Sin fuaim an earraigh anseo.
+2556	Tháinig cuid acu i bhfostú in aice leis na sreanga… Tá siad ceart go leor, beagán míshásta. Arís?
+2557	Seomra 18: dealbha ón bParthenon san Aithin, tógtha ag gníomhairí Lord Elgin idir 1801 agus 1812 agus ceannaithe ag Músaem na Breataine in 1816.
+2558	Tá an Ghréig ag iarraidh iad a fháil ar ais ó 1983. San Aithin, coinníonn Músaem an Acropolis a n-áiteanna réidh.
+2559	Cuairteoir Gréagach
+2560	Tháinig mé an bealach ar fad ón Aithin chun ár marmair a fheiceáil. Ansin rachaidh mé ar ais go Músaem an Acropolis agus féachfaidh mé ar chóipeanna bána de seo.
+2561	Friosa amháin, dhá chathair. B'fhéidir lá éigin, cathair amháin arís.
+2562	Bosca teileafóin dearg, an múnla K6 a dearadh in 1935. Sa lá atá inniu ann tá dífhibrileoirí i gcuid acu, leabharlanna beaga i gcinn eile.
+2563	D'oscail Iarnród Faoi Thalamh Londan in 1863: an chéad iarnród faoi thalamh ar domhan. « Mind the gap! »
+2564	Tar éis an Bhreatimeachta, d'fhág an RA Erasmus. I Nollaig 2025 d'aontaigh sí filleadh air ó 2027. Beidh mo dheirfiúr bheag in ann staidéar a dhéanamh i mBologna!
+2565	Oifigeach custaim Ollannach
+2566	Ón 1 Eanáir 2021 tá an RA lasmuigh de rialacha custaim agus tréidliachta an AE: ní féidir le taistealaithe feoil ná déiríocht a thabhairt isteach san AE a thuilleadh.
+2567	An mhí sin, b'éigean do mo chomhghleacaithe i Hook of Holland ceapairí liamháis a choigistiú. « Welcome to the Brexit, sir, I'm sorry. »
+2568	Tá an farantóir maidine ag bordáil. Cabhraigh liom na boscaí lóin a sheiceáil?
+2569	Farantóir eile, céad bosca lóin eile. An gcabhróidh tú liom arís?
+2570	Ní shleamhnaigh ceapaire liamháis amháin tríd. Seo, tá luach saothair gan cháis, gan liamhás agat.
+2571	Éifeachtach agus múinte. Dhéanfá oifigeach custaim den scoth.
+2572	Chrosáil salami an Mhuir nIocht… Beidh focal ag na cigirí tréidliachta.
+2573	Tiománaí leoraí
+2574	Roimh an mBreatimeacht chrosáil mé le mo leoraí gan stopadh. Anois: dearbhuithe custaim, deimhnithe sláinte, seiceálacha. Léigh mé níos mó foirmeacha ná úrscéalta.
+2575	Bus feachtais. In 2016 gheall a thaobh £350 milliún in aghaidh na seachtaine don Seirbhís Náisiúnta Sláinte.
+2576	In 2017 thug ceann Údarás Staidrimh na RA « mí-úsáid shoiléir ar staitisticí oifigiúla » ar an bhfigiúr sin.
+2577	Féachadóir éan
+2578	Tumann gainéid sa mhuir ag beagnach céad ciliméadar san uair. Tá an choilíneacht is mó ar domhan ar Bass Rock, in Albain.
+2579	Chuir an BCE ceann ar dhearadh deiridh nóta 200 euro: farraige oscailte, sciatháin fillte, stealladh.
+2580	Imreoir ficheall
+2581	Folcadán Teirmeach Széchenyi, 1913: ceann de na folcadáin leighis is mó san Eoraip. Imrímid ficheall anseo, suas go dtí ár ngualainn in uisce te.
+2582	Thug an Ungáir Judit Polgár don domhan, an bhean imreora is láidre riamh: ardmháistir ag cúig bliana déag, agus bhuail sí Kasparov in 2002.
+2583	Trí shuíomh, mate i gceann gluaiseachta an ceann. An bhfaighidh tú iad sula bhfuaraíonn an t-uisce?
+2584	Suíomhanna nua ar an gclár snámha. Babhta eile?
+2585	Trí mate! Imríonn tú cosúil le hardmháistir i bhfallaing fholctha. Tóg é seo.
+2586	Mate, mate, mate. Cuireann an gal ag smaoineamh níos tapúla thú.
+2587	Fuaraigh an t-uisce… An chéad uair eile, cuardaigh an ghluaiseacht a fhágann an rí gan áit le dul.
+2588	Barraí Fothrach: cúirteanna ársa den seancheantar Giúdach, déanta ina mbarraí le troscán neamhchomhoiriúnach. D'oscail na chéad cinn go luath sna 2000idí.
+2589	Fear an bharra
+2590	Egészségedre! Sin sláinte in Ungáiris. Bain triail as á rá tar éis an dara gloine fröccs: fíon agus uisce sóide.
+2591	Díoltóir lángos
+2592	Lángos: taos friochta, gairleog, uachtar géar agus cáis grátáilte. Ní aiste bia. Traidisiún.
+2593	Cumadh Ciúb Rubik i mBúdaipeist in 1974 ag Ernő Rubik, chun spás a mhúineadh dá mhic léinn. Réitigh mé é i dhá nóiméad. Nó aghaidh amháin de.
+2594	Bróga ar Bhruach na Danóibe (2005). Cuimhníonn seasca péire bróg iarainn ar Ghiúdaigh Bhúdaipeist a lámhachadh ar an mbruach seo ag mílíste Arrow Cross in 1944 agus 1945, agus a caitheadh isteach san abhainn.
+2595	Droichead na Slabhraí, oscailte in 1849: an chéad droichead buan idir Buda agus Pest, deartha ag an innealtóir Sasanach William Tierney Clark.
+2596	Níl teangacha ag a leoin chloiche… de réir an ghnáthscéil. Féach go cúramach.
+2597	Dún an Iascaire, ar Chnoc an Chaisleáin: seacht dtúr, do na seacht dtreibh Magyar a shocraigh in Imchuach na gCarpat.
+2598	Beachadairí! Na héin is datha san Eoraip. Tochlaíonn siad a nead i mbruacha gaineamhacha abhann agus beireann siad ar bheacha le linn eitilte.
+2599	Tá cuid de na coilíneachtaí is mó san Ungáir. Ar dhearaí deiridh an BCE, maisíonn coilíneacht díobh nóta 20 euro.
+2600	Teangeolaí
+2601	Níl an Ungáiris gaolmhar le teangacha a comharsan: baineann sí le teaghlach Uralach, cosúil leis an bhFionlainnis agus an Eastóinis.
+2602	Agus tagann ainm an teaghlaigh ar dtús: Rubik Ernő, Polgár Judit. Éasca le cuimhneamh, deacair le fuaimniú.
+2603	Phaitinnigh László Bíró, a rugadh i mBúdaipeist, an peann liathróide nua-aimseartha in 1938. I go leor tíortha tugtar « biro » ar pheann fós.
+2604	An Salon de l'Horloge. An 9 Bealtaine 1950 ag 6 i.n., léigh Robert Schuman, aire gnóthaí eachtracha na Fraince, dearbhú anseo ag moladh gual agus cruach na Fraince agus na Gearmáine a chomhthiomsú.
+2605	Mar thoradh air bunaíodh an Comhphobal Eorpach Guail agus Cruach in 1951, chéad chéim an AE inniu. Gach 9 Bealtaine is Lá na hEorpa é.
+2606	Tá leathanaigh an dearbhaithe measctha ag na cartlanna! Tá na hiriseoirí ag teacht. An gcuirfidh tú na habairtí ar ais in ord?
+2607	Tá na leathanaigh measctha arís. An gcabhróidh tú liom?
+2608	Focal ar fhocal! Chroithfeadh an tUasal Schuman do lámh. Tóg é seo, ón aireacht.
+2609	Ordaithe go foirfe. Ní thógfar an Eoraip in aon iarracht amháin, ach tá tú tapa.
+2610	Beagnach… Cuimhnigh: síocháin ar dtús, ansin éachtaí nithiúla, ansin gual agus cruach.
+2611	Marie Curie, a rugadh Maria Skłodowska i Vársá, ba í an chéad bhean ollamh ag an Sorbonne in 1906. Bhuaigh sí dhá Dhuais Nobel, san fhisic agus sa cheimic.
+2612	Is í atá ar nóta 20 euro i ndearaí deiridh « Cultúr Eorpach » an BCE.
+2613	Báicéir
+2614	Ó 2022 tá ceird na baguette Fraincise ar liosta UNESCO d'oidhreacht chultúrtha dholáimhsithe. Plúr, uisce, salann, giosta. Agus beagán foighne.
+2615	Un café, s'il vous plaît! I bPáras, is espresso é « café ». Más mian leat cupán mór, caithfidh tú é a rá. Os ard.
+2616	Bouquiniste
+2617	Tá leabhair dara láimhe á ndíol againn ar na cuaiseanna seo ón 16ú haois. Na céadta bosca glas, feadh ciliméadar den tSéin.
+2618	Notre-Dame de Paris. Damáistithe ag tine an 15 Aibreán 2019, d'athoscail sí an 7 Nollaig 2024 tar éis cúig bliana oibre.
+2619	Cuairteoir
+2621	Roinnt gheimhreadh tagann dreapadóir balla anuas ó na sléibhte go dtí aillte gleann na Meuse. Éan liath le sciatháin chorcra, cosúil le féileacán.
+2622	Is é éan nóta 5 euro ar dhearaí deiridh an BCE é: foinse sléibhe agus dreapadóir balla.
+2623	Iascaire slat
+2624	An bhfeiceann tú an splanc ghorm sin ar an Moselle? Cruidín. Tumann sé ó chraobh agus filleann sé le hiasc.
+2625	Ar dhearaí deiridh an BCE is éan nóta 10 euro é, cois eas.
+2626	Is é Antuairp an dara calafort is mó san Eoraip. Agus feadh na Scheldt, díreach in aice na gcraenacha, neadaíonn abhóiséid sna tearmainn dúlra.
+2627	Dubh agus bán, le gob lúbtha aníos: éan nóta 100 euro ar dhearaí deiridh an BCE, ag béal abhann.
+2628	Duine as Vársá
+2629	Rugadh Maria Skłodowska, Marie Curie, anseo i Vársá, in 1867. D'ainmnigh sí an eilimint polóiniam i ndiaidh a tíre.
+2630	Leagadh ár Seanbhaile in 1944 agus atógadh é cloch ar chloch: tá sé ar liosta UNESCO ó 1980.
+2631	Bhí cónaí ar Leonardo da Vinci sa Róimh ó 1513 go 1516, sa Vatacáin, sular imigh sé don Fhrainc.
+2632	Is é atá ar nóta 100 euro i ndearaí deiridh « Cultúr Eorpach » an BCE.
+2633	Ollamh
+2634	Chruthaigh Conradh Liospóin, sínithe anseo in 2007, Airteagal 50: an nós imeachta chun an AE a fhágáil. Ba í an RA an chéad cheann chun é a úsáid.
+2635	Ó Liospóin freisin: na pastéis de nata, de réir oideas manaigh Jerónimos. I bhfad níos coitianta ná Airteagal 50.
+2636	Seanmhairnéalach
+2637	In 1571 troideadh Cath Lepanto i Murascaill Phatras, anseo sa Ghréig. Chaill saighdiúir óg Spáinneach úsáid a láimhe clé ann.
+2638	Miguel de Cervantes ab ainm dó. Scríobh sé Don Quixote ina dhiaidh sin. Is é atá ar nóta 50 euro i ndearaí cultúir an BCE!
+2639	I gcúinne, cárta poist stampáilte ag giúiré dearaidh an BCE: ceann de dhá mhóitíf dhéag na nótaí bainc todhchaí. Coinníonn tú é.
+2640	Músaem na Breataine – Seomra 18
+2641	Casemates Bock – Isteach
+2642	Ardeaglais Strasbourg
+2643	Palais de l'Europe – Comhairle na hEorpa
+2644	Críochfort Farantóra – Custaim AE
+2645	Barra Fothrach – Búdaipeist
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Boulangerie – Páras
+2648	Dearg
+2649	Buí
+2650	Bán
+2651	Oráiste
+2652	An cairpéad bláthanna
+2655	An dearadh
+2656	Trí chairpéad begonias! Fásann an Bheilg an chuid is mó de begonias tiúbarach an domhain, timpeall Gheant.
+2657	Tá na turasóirí ag teacht agus níl an cairpéad críochnaithe… An chéad uair eile!
+2658	Storcanna na hAlsáis
+2661	Storcanna sa bhaile: %d / %d · caillte: %d / 3
+2662	Deich storc ina neadacha! San Alsáis, deirtear go dtugann storc ar do dhíon an t-ádh.
+2663	D'eitil an iomarca storcanna ar aghaidh go dtí an chéad sráidbhaile eile… Tiocfaidh siad ar ais an t-earrach seo chugainn.
+2664	Ceapaire liamháis
+2665	Bainne
+2666	Salami
+2667	Úll
+2668	Barra seacláide
+2669	Criospaí
+2670	Briosca
+2671	Custaim an AE
+2674	Feoil, déiríocht, formhór na dtorthaí: coigistigh.
+2675	Banana, milseáin, criospaí, uisce: lig tríd.
+2676	Lig tríd
+2677	Coigistigh
+2678	Gach bosca lóin seiceáilte! Laistigh de mhargadh aonair an AE, taistealaíonn bia go saor; ag a theorainneacha, seiceáiltear é.
+2679	Shleamhnaigh salami tríd… nó coigistíodh banana go mícheart. Rialacha ar dtús, ceapaire ina dhiaidh!
+2685	Ficheall sna folcadáin
+2688	Bán le himirt agus mate i gceann gluaiseachta
+2689	K rí · Q banríon · R caisleán · B easpag · N ridire · P ceithearnach
+2691	D'fhuaraigh an t-uisce roimh an mate… Cuardaigh an ghluaiseacht a fhágann an rí gan cearnóg ar bith.
+2692	Ní féidir síocháin an domhain a chosaint
+2694	Ní thógfar an Eoraip in aon iarracht amháin, ná de réir plean amháin.
+2698	Dearbhú Schuman
+2701	Tá an dearbhú réidh! Lean an Comhphobal Eorpach Guail agus Cruach in 1951. Gach 9 Bealtaine is Lá na hEorpa é.
+2702	Tá na hiriseoirí ag fanacht agus tá na leathanaigh fós i mbaoiseach… Síocháin ar dtús, ansin éachtaí nithiúla!
+2703	Casemates Bock
+2706	Leanann an cuairteoir thú: anois an bealach amach!
+2707	Áit éigin sa dorchadas, tá duine ag glaoch…
+2708	Amach faoi sholas an lae, leis an gcuairteoir! Ghlac suas le 35,000 duine foscadh sna gailearaithe seo le linn na buamála.
+2709	Chuaigh an tóirse as… Leanann an treoraí do ghuth agus tugann sé an bheirt agaibh amach.
+2710	gan iarrachtaí cruthaitheacha comhréireach leis na contúirtí a bhagraíonn uirthi.
+2713	Tógtha trí éachtaí nithiúla a chruthaíonn ar dtús dlúthpháirtíocht de facto.
+2714	Cuirfear gual agus cruach Franco-Ghearmánach faoi Ard-Údarás…
+2715	…ionas go mbeidh cogadh idir an Fhrainc agus an Ghearmáin dodhéanta go hábhartha.
+2716	Sula mbainfidh tú leis an bpláta priontála, cruthaigh gur féidir leat nóta bréige a aithint! Seiceáil gach nóta ar bhealach an BCE: MOTHAIGH an priontáil ardaithe, FÉACH air i gcoinne an tsolais, CLAON é. Breithnigh 10 nóta, botún amháin ceadaithe.
+2717	I dtábhairne i Sachsenhausen, doirt fíon úll as an Bembel isteach i ngach gloine go dtí an líne! Coinnigh an stíleas (nó A) chun an crúsca a chlaonadh, scaoil chun stopadh, ansin freastail leis an gcnaipe. 8 ngloine, 2 dhoirteadh ceadaithe.
+2718	Ocht ngloine foirfe! Anseo i Frankfurt tugann siad « Ebbelwoi » ar fhíon úll.
+2719	Cearnóg Syntagma, Tuama an Saighdiúra Anaithnid. Bog in am leis na hEvzones: CÉIM, SPEACH, STAMPÁIL nuair a shroicheann gach comhartha an líne. 24 gluaiseacht, go mall agus go sollúnta. 4 bhotún ceadaithe.
+2720	Uair an ruaille buaille ag an gciosc! Iarrann gach custaiméir i nGréigis: tapáil an rud atá uathu. Cogarfaidh mé an bhrí do na chéad chustaiméirí. 15 chustaiméir i 60 soicind!
+2721	Luchtaigh trí long roimh meán lae! Bog an chraein leis an stíleas nó ←/→, scaoil le A nó tap. Trom (T) riamh ar bharr cinn níos éadroime, cuisnithe (bán) ar an dá cholún cumhachtaithe amháin (plocóidí), agus coinnigh an long cothrom!
+2722	Cóipeáil cairpéad na begonias ar an scáileán uachtarach: roghnaigh dath, ansin tap nó tarraing thar na cearnóga. Brúigh Déanta nuair a bhíonn sé ceart. Trí chairpéad i 90 soicind!
+2723	Tá na storcanna ar ais ón Afraic! Treoraigh gach ceann go nead folamh: sleamhnaigh an stíleas suas agus síos (nó ↑/↓) agus eitil íseal thar nead saor chun tuirlingt. Seachain na línte cumhachta. 10 storc, 3 cheann caillte ceadaithe.
+2724	Tá an farantóir tagtha i dtír! Seiceáil gach bosca lóin: COIGISTIGH feoil, déiríocht agus formhór na dtorthaí, LIG TRÍD an chuid eile. Tabhair aire: tá banana ceadaithe, níl úll. 20 bosca i 50 soicind, 2 bhotún ceadaithe.
+2725	Folcadáin Széchenyi: claonann na himreoirí os cionn boird ar snámh sa ghal. Bán le himirt: faigh an ghluaiseacht a dhéanann mate láithreach. Tap píosa bán, ansin a chearnóg. Trí shuíomh i 90 soicind!
+2726	9 Bealtaine 1950, Salon de l'Horloge. Tá leathanaigh dearbhú Robert Schuman measctha! Tapáil na habairtí san ord ceart roimh an gcomhdháil de chuid na preasa. 60 soicind.
+2727	Tá na gailearaithe dorcha agus tá an tóirse ag dó síos. Aimsigh an cuairteoir caillte, ansin an bealach amach! Bog leis an +Control Pad, nó tap in aice le do charachtar. 75 soicind.
+2728	Trí mhate! Sna folcadáin, deirtear go gcaithfidh an té a chailleann teacht amach as an uisce ar dtús.
+2729	Gearradh an fráma darach nua de láimh, mar sa Mheán-Aois. D'oibrigh siúinéirí agus saoir chloiche ó gach cearn den Fhrainc air.
+2730	Tosach
+2731	Cúl

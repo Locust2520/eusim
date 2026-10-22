@@ -1,0 +1,523 @@
+# New strings of the city extensions (English source). id<TAB>English<TAB>where it is used
+2169	FAKE	source/minigame.c:160
+2171	%d s · %d/%d	source/minigame2.c:63
+2172	Raised lines on the edges: you can feel them.	source/minigame2.c:112
+2173	The paper is smooth everywhere…	source/minigame2.c:112
+2174	Feel	source/minigame2.c:120
+2175	Look	source/minigame2.c:121
+2176	Tilt	source/minigame2.c:122
+2177	Check, then decide:	source/minigame2.c:123
+2178	Genuine	source/minigame2.c:124
+2179	Counterfeit	source/minigame2.c:125
+2180	L/R: tilt · X: against the light · Y: feel	source/minigame2.c:126
+2181	Feel, look, tilt	source/minigame2.c:136
+2184	It was %s: the raised print was missing.	source/minigame2.c:171
+2185	It was %s: no watermark against the light.	source/minigame2.c:172
+2186	It was %s: the number did not change colour.	source/minigame2.c:173
+2187	a fake	source/minigame2.c:176
+2188	It was a genuine note!	source/minigame2.c:178
+2189	Not one fake got through! In the watermark you saw Europa, from a Greek vase over 2,000 years old.	source/minigame2.c:185
+2190	A counterfeit slipped past… Feel, look, tilt: the three checks take only a few seconds.	source/minigame2.c:186
+2191	The Bembel	source/minigame2.c:198
+2194	Serve	source/minigame2.c:241
+2196	Too many spilt glasses… The tavern keeper lends you a cloth.	source/minigame2.c:265
+2197	Maria Callas	source/note.c:21
+2198	Ludwig van Beethoven	source/note.c:21
+2199	Marie Curie	source/note.c:21
+2200	Miguel de Cervantes	source/note.c:22
+2201	Leonardo da Vinci	source/note.c:22
+2202	Bertha von Suttner	source/note.c:22
+2203	street performers	source/note.c:23
+2204	a song festival	source/note.c:23
+2205	a school	source/note.c:23
+2206	a library	source/note.c:23
+2207	street art	source/note.c:24
+2208	a tree-lined square	source/note.c:24
+2209	a wallcreeper by a mountain spring	source/note.c:26
+2210	a kingfisher at a waterfall	source/note.c:26
+2211	bee-eaters in a river valley	source/note.c:26
+2212	a white stork by a meandering river	source/note.c:27
+2213	an avocet at a river mouth	source/note.c:27
+2214	a northern gannet over the sea	source/note.c:27
+2215	the European Parliament	source/note.c:29
+2216	the European Commission	source/note.c:29
+2217	the European Central Bank	source/note.c:29
+2218	the Court of Justice of the EU	source/note.c:30
+2219	the European Council and the Council of the EU	source/note.c:30
+2220	the European Court of Auditors	source/note.c:30
+2221	Front: your portrait, in place of %s	source/note.c:137
+2222	Back: %s	source/note.c:138
+2223	Front: %s	source/note.c:140
+2224	Specimen note – €%d	source/note.c:153
+2225	Not legal tender: this is a design specimen.	source/note.c:155
+2227	L/R or tap: turn over · B: close	source/note.c:160
+2228	Light	source/note.c:227
+2229	Medium	source/note.c:227
+2230	Dark	source/note.c:227
+2231	Eraser	source/note.c:227
+2234	Undo	source/note.c:234
+2235	Clear	source/note.c:235
+2236	Done	source/note.c:236
+2237	Draw your portrait	source/note.c:258
+2238	The studio engraves it like a banknote portrait.	source/note.c:259
+2239	Your specimen note	source/note.c:355
+2240	European culture	source/note.c:359
+2241	Rivers and birds	source/note.c:360
+2242	Turn over	source/note.c:371
+2243	New portrait	source/note.c:372
+2244	Print the specimen	source/note.c:373
+2245	Printing…	source/note.c:427
+2246	Your portrait for the specimen	source/note.c:456
+2247	The DSi camera, the stylus or your official photo.	source/note.c:457
+2248	The stylus or your official photo.	source/note.c:458
+2249	Take a photo	source/note.c:459
+2250	Draw my portrait	source/note.c:459
+2251	Use my official photo	source/note.c:459
+2252	The camera cannot be used here. You can draw your portrait instead.	source/note.c:470
+2253	Your specimen note joined the collection of the Money Museum in Frankfurt.	source/note.c:523
+2254	In Frankfurt, the ECB studio is still keeping a blank specimen with your name on it.	source/note.c:524
+2255	Starting the camera…	source/photo.c:128
+2256	Fit your face in the oval	source/photo.c:141
+2257	A or tap: take the photo · L/R: other camera · B: back	source/photo.c:141
+2258	Engraving test	source/photo.c:166
+2259	Retake	source/photo.c:167
+2260	Keep	source/photo.c:168
+2261	Between us: the euro became cash, in people's pockets, in 2002. Some doors in this tower still remember that year.	assets/scripts/ch2_4.evs:182
+2262	The Euro sign by the artist Ottmar Hörl, unveiled in 2001 in front of the ECB's former tower.	assets/scripts/zz_francfort.evs:6
+2263	A few weeks later, on 1 January 2002, euro notes and coins reached people's pockets in twelve countries.	assets/scripts/zz_francfort.evs:7
+2264	Memorial at the Grossmarkthalle.	assets/scripts/zz_francfort.evs:10
+2265	Between 1941 and 1945, about 10,000 Jewish men, women and children from Frankfurt and the region were deported from the cellar of this market hall to ghettos and camps. Most of them were murdered.	assets/scripts/zz_francfort.evs:11
+2266	The City of Frankfurt, the Jewish Community and the ECB, whose headquarters now include the hall, created this memorial together.	assets/scripts/zz_francfort.evs:12
+2267	The Römer, Frankfurt's town hall since 1405. In its Imperial Hall, newly crowned emperors of the Holy Roman Empire held their coronation banquets.	assets/scripts/zz_francfort.evs:17
+2268	Half-timbered houses on the Römerberg. Bombing destroyed the old town in 1944; this row was rebuilt in the 1980s, beam by beam.	assets/scripts/zz_francfort.evs:20
+2269	The Justice Fountain. Look closely: this Justitia holds her scales and her sword, but wears no blindfold.	assets/scripts/zz_francfort.evs:23
+2270	They call this city “Mainhattan”: skyscrapers on the river Main. I've counted eleven cranes and four banks. Or the other way round.	assets/scripts/zz_francfort.evs:26
+2271	In 1848 and 1849, the first freely elected parliament for all of Germany met in this church.	assets/scripts/zz_francfort.evs:31
+2272	It wrote a constitution with fundamental rights. It never came into force, but later German constitutions drew on it.	assets/scripts/zz_francfort.evs:32
+2273	Guide	assets/scripts/zz_francfort.evs:35
+2274	The hall still has its big days: every October, the Peace Prize of the German Book Trade is awarded here.	assets/scripts/zz_francfort.evs:35
+2275	The bull charges with its horns upwards: a rising market.	assets/scripts/zz_francfort.evs:40
+2276	The bear swipes its paw downwards: a falling market.	assets/scripts/zz_francfort.evs:43
+2277	The DAX board. Germany's best-known stock index was launched here in 1988.	assets/scripts/zz_francfort.evs:46
+2278	Buy the rumour, sell the news. And never, ever sell your umbrella in April.	assets/scripts/zz_francfort.evs:49
+2279	Johann Wolfgang von Goethe was born in this house on 28 August 1749. He worked on Faust for some sixty years.	assets/scripts/zz_francfort.evs:54
+2280	His name now travels the world: the Goethe-Institut teaches German in nearly a hundred countries.	assets/scripts/zz_francfort.evs:55
+2281	The Messeturm stands over the trade fair grounds. Every October they host the Frankfurt Book Fair, the largest book fair in the world.	assets/scripts/zz_francfort.evs:58
+2282	Reader	assets/scripts/zz_francfort.evs:61
+2283	I came for the Book Fair and stayed for the green sauce. I've read three books and eaten five sauces.	assets/scripts/zz_francfort.evs:61
+2284	The Iron Footbridge across the Main, built in 1869. Thousands of padlocks hang on its railings: lovers' promises.	assets/scripts/zz_francfort.evs:66
+2285	Couple	assets/scripts/zz_francfort.evs:69
+2286	We locked our padlock on the bridge and threw the key into the Main. We still have to decide whose idea it was.	assets/scripts/zz_francfort.evs:69
+2287	Frankfurter	assets/scripts/zz_francfort.evs:72
+2288	On the other bank is Sachsenhausen. That's where we drink Ebbelwoi, apple wine. Nobody calls it cider here, mind you.	assets/scripts/zz_francfort.evs:72
+2289	A pine wreath hangs over the door: the sign that this tavern presses and serves its own apple wine.	assets/scripts/zz_francfort.evs:77
+2290	Landlady	assets/scripts/zz_francfort.evs:81
+2291	Guten Abend! Apple wine is poured from the Bembel, the grey stoneware jug, into a Gerippte, the glass with the diamond pattern.	assets/scripts/zz_francfort.evs:81
+2292	Tonight I have a full room and two hands. You fill the glasses, I'll carry them?	assets/scripts/zz_francfort.evs:82
+2293	Fancy another round behind the counter?	assets/scripts/zz_francfort.evs:85
+2294	Not a drop on my tables! Here, take this, and come back whenever you like.	assets/scripts/zz_francfort.evs:94
+2295	Perfect again. You could open your own tavern. Just hang a pine wreath over the door.	assets/scripts/zz_francfort.evs:99
+2296	Ach, the tables are swimming! Never mind, we'll mop up.	assets/scripts/zz_francfort.evs:102
+2297	Regular	assets/scripts/zz_francfort.evs:106
+2298	Handkäs mit Musik: sour-milk cheese marinated with onions. The music comes later. Don't ask.	assets/scripts/zz_francfort.evs:106
+2299	Green sauce takes exactly seven herbs: borage, chervil, cress, parsley, salad burnet, sorrel and chives.	assets/scripts/zz_francfort.evs:109
+2300	Since 2016 the EU protects “Frankfurter Grüne Soße” as a geographical indication. Seven herbs, no more, no less.	assets/scripts/zz_francfort.evs:110
+2301	A real gold bar, 12.5 kilograms, that visitors are allowed to lift. Most manage a few centimetres.	assets/scripts/zz_francfort.evs:115
+2302	From shells to coins, from coins to paper, from paper to the euro: three thousand years of money in a few shelves.	assets/scripts/zz_francfort.evs:118
+2303	Curator	assets/scripts/zz_francfort.evs:121
+2304	The Bundesbank is Germany's central bank. Since 1999 it has been part of the Eurosystem, with the ECB and the other central banks of the euro area.	assets/scripts/zz_francfort.evs:121
+2305	I hear you have a specimen note with your face on it. When your adventure is over, we'd love it for our collection.	assets/scripts/zz_francfort.evs:123
+2306	A portrait of Europa, the princess of Greek myth who gave her name to the continent.	assets/scripts/zz_francfort.evs:130
+2307	Her face comes from a Greek vase more than 2,000 years old, kept at the Louvre. Hold a euro note up to the light: she's in the watermark.	assets/scripts/zz_francfort.evs:131
+2308	Behind the frame, a small keypad glows. Four digits.	assets/scripts/zz_francfort.evs:133
+2309	Type a code?	assets/scripts/zz_francfort.evs:134
+2310	The keypad blinks red. Somewhere on the trading floor, someone sighs.	assets/scripts/zz_francfort.evs:141
+2311	Click. The painting swings open onto a narrow staircase going down…	assets/scripts/zz_francfort.evs:145
+2312	Go down to the secret studio?	assets/scripts/zz_francfort.evs:148
+2313	A workshop full of easels, engraving tools and a heavy press. On the door: “Banknote design – confidential”.	assets/scripts/zz_francfort.evs:159
+2314	Theme “European culture”: Maria Callas (€5), Ludwig van Beethoven (€10), Marie Curie (€20), Miguel de Cervantes (€50), Leonardo da Vinci (€100) and Bertha von Suttner (€200).	assets/scripts/zz_francfort.evs:164
+2315	On the back: places where culture is shared. Street performers, a song festival, a school, a library, street art, a tree-lined square.	assets/scripts/zz_francfort.evs:165
+2316	Theme “Rivers and birds”: from a mountain spring (€5) to the open sea (€200), with a wallcreeper, a kingfisher, bee-eaters, a white stork, an avocet and a northern gannet.	assets/scripts/zz_francfort.evs:168
+2317	On the back: the EU institutions, from the European Parliament to the European Court of Auditors.	assets/scripts/zz_francfort.evs:169
+2318	The ten finalist designs: EC145, EC564, EC617, EC799, EC915 and RB120, RB227, RB637, RB754, RB832.	assets/scripts/zz_francfort.evs:172
+2319	The designers' names stay secret. After a public survey, the ECB's Governing Council makes the final choice.	assets/scripts/zz_francfort.evs:173
+2320	An intaglio press. It pushes ink into the paper so hard that it stands in relief: that's the raised print you can feel on a real note.	assets/scripts/zz_francfort.evs:176
+2321	Specifications: the same sizes as today's notes, one dominant colour per value, and on every note the European flag, a map of Europe and the signature of the ECB President.	assets/scripts/zz_francfort.evs:179
+2322	Jury member	assets/scripts/zz_francfort.evs:182
+2323	In 2025, more than 1,200 designers answered the ECB's call. Thirty-nine proposals reached the jury; ten are on these easels.	assets/scripts/zz_francfort.evs:182
+2324	The aim is to replace imaginary bridges and windows with real people, real birds and real places.	assets/scripts/zz_francfort.evs:183
+2325	Eleni	assets/scripts/zz_francfort.evs:188
+2326	Kaliméra! I'm Eleni, intaglio engraver. I learnt the trade at the Bank of Greece printing works, in Athens.	assets/scripts/zz_francfort.evs:188
+2327	Officially, the ECB doesn't print a single note: it designs them, and printing works across Europe produce them.	assets/scripts/zz_francfort.evs:189
+2328	Right now we're preparing the next euro banknotes. In 2026 a jury shortlisted ten designs on two themes: European culture, and rivers and birds.	assets/scripts/zz_francfort.evs:190
+2329	Before the final choice, I must test the engraving on a real face. Euro notes have never shown a living person… so yours will stay a specimen.	assets/scripts/zz_francfort.evs:191
+2330	But nobody touches my plates without passing the test. Feel, look, tilt: show me you can tell a genuine note from a fake.	assets/scripts/zz_francfort.evs:192
+2331	Ready?	assets/scripts/zz_francfort.evs:193
+2332	Bravo! You have the eye of a central banker. Now, your portrait.	assets/scripts/zz_francfort.evs:200
+2333	A new specimen? The press is still warm.	assets/scripts/zz_francfort.evs:203
+2334	There you are, engraved! See the serial number? The first letter, Y, is the code of the Bank of Greece. My little signature.	assets/scripts/zz_francfort.evs:210
+2335	Show it around. And save your game in Report, so that your note stays with you.	assets/scripts/zz_francfort.evs:211
+2336	A fake got through. Feel, look, tilt: it only takes a few seconds. Come back when you're ready.	assets/scripts/zz_francfort.evs:214
+2337	Take your time. A good engraving can't be rushed.	assets/scripts/zz_francfort.evs:217
+2338	Apple-Wine Tavern – Sachsenhausen	map name
+2339	ECB – Banknote Design Studio	map name
+2340	Frankfurt Stock Exchange	map name
+2341	Money Museum of the Bundesbank	map name
+2342	Goethe House – Frankfurt	map name
+2343	Paulskirche – Assembly Hall	map name
+2344	Specimen Note	item name
+2345	Your portrait, engraved at the ECB studio in Frankfurt. Not legal tender.	item Specimen Note
+2346	Apple-wine tavern, Sachsenhausen	source/minigame2.c:212
+2348	Hold to tilt the Bembel, let go to stop. Serve when the apple wine reaches the line.	source/minigame2.c:214
+2349	The changing of the guard	source/minigame2.c:324
+2352	Step	source/minigame2.c:328
+2353	Kick	source/minigame2.c:328
+2354	Stomp	source/minigame2.c:328
+2355	Moves: %d / 24 · mistakes: %d	source/minigame2.c:346
+2356	←: step · →: kick · A/↓: stomp	source/minigame2.c:362
+2357	Perfectly in step! The Evzones change guard every hour, day and night, in every weather.	source/minigame2.c:392
+2358	Out of step… The Evzones train for months before their first guard duty.	source/minigame2.c:393
+2359	Frappé	source/minigame2.c:423
+2360	Water	source/minigame2.c:423
+2361	Newspaper	source/minigame2.c:423
+2362	Koulouri	source/minigame2.c:423
+2363	Worry beads	source/minigame2.c:423
+2364	Mati	source/minigame2.c:423
+2365	Bus ticket	source/minigame2.c:424
+2366	Chewing gum	source/minigame2.c:424
+2367	(A frappé, please!)	source/minigame2.c:425
+2368	(A water, please!)	source/minigame2.c:425
+2369	(A newspaper, please!)	source/minigame2.c:425
+2370	(A koulouri, the sesame bread ring, please!)	source/minigame2.c:426
+2371	(Worry beads, please!)	source/minigame2.c:426
+2372	(A little evil-eye charm, please!)	source/minigame2.c:427
+2373	(A ticket, please!)	source/minigame2.c:427
+2374	(Chewing gum, please!)	source/minigame2.c:428
+2375	The periptero	source/minigame2.c:429
+2378	Fifteen happy customers! Ευχαριστώ (efcharistó) means thank you.	source/minigame2.c:480
+2379	The queue reaches the next street… Σιγά σιγά (sigá sigá): slowly, slowly.	source/minigame2.c:481
+2380	The port of Piraeus	source/minigame2.c:515
+2383	H	source/minigame2.c:554
+2384	Ship %d/3 · containers %d/%d	source/minigame2.c:572
+2385	Time: %d s · mistakes: %d/3	source/minigame2.c:574
+2386	Heel	source/minigame2.c:576
+2387	Three ships loaded and level! Piraeus is one of the largest container ports in the Mediterranean.	source/minigame2.c:631
+2388	The harbour master stops the loading: the ship is not safe. Restack and try again!	source/minigame2.c:632
+2389	The Tomb of the Unknown Soldier (1932), below the Parliament. The Evzones of the Presidential Guard watch over it day and night.	assets/scripts/zz_athenes.evs:6
+2390	The square is called Syntagma, “Constitution”: in 1843, Athenians gathered here until King Otto granted one.	assets/scripts/zz_athenes.evs:7
+2391	The Evzone doesn't move. Not even an eyelash.	assets/scripts/zz_athenes.evs:10
+2392	His tsarouchia, the red clogs with black pompoms, weigh about three kilos each, with sixty nails in the soles. His white kilt, the fustanella, has 400 pleats: one for each year of Ottoman rule, as tradition has it.	assets/scripts/zz_athenes.evs:11
+2393	Evzone sergeant	assets/scripts/zz_athenes.evs:15
+2394	Every hour, the guard changes. Slow steps, a high kick, the clogs striking the marble: two men move as one.	assets/scripts/zz_athenes.evs:15
+2395	A recruit is missing today. Follow the rhythm with me?	assets/scripts/zz_athenes.evs:16
+2396	Another changing of the guard?	assets/scripts/zz_athenes.evs:19
+2397	Not one step out of time. Μπράβο (brávo)! Take this, from the guard.	assets/scripts/zz_athenes.evs:28
+2398	Μπράβο (brávo)! On Sundays at eleven, the whole company parades in ceremonial dress. Come and see.	assets/scripts/zz_athenes.evs:32
+2399	Your clogs and the drum disagreed. It takes months of training. Again tomorrow?	assets/scripts/zz_athenes.evs:35
+2400	Kiosk keeper	assets/scripts/zz_athenes.evs:40
+2401	Γεια σας (yia sas, hello)! A periptero sells everything: newspapers, water, bus tickets, phone credit, chewing gum, worry beads…	assets/scripts/zz_athenes.evs:40
+2402	My nephew didn't come. You'll hold the counter? The customers speak Greek, but I'll whisper the meaning.	assets/scripts/zz_athenes.evs:41
+2403	Rush hour again! Lending me a hand?	assets/scripts/zz_athenes.evs:44
+2404	Ευχαριστώ (efcharistó, thank you)! You speak kiosk now. Here, on the house.	assets/scripts/zz_athenes.evs:53
+2405	Ευχαριστώ (efcharistó)! The queue is gone in record time.	assets/scripts/zz_athenes.evs:58
+2406	Σιγά σιγά (sigá sigá), slowly, slowly. That's also a Greek proverb.	assets/scripts/zz_athenes.evs:61
+2407	Ένα φραπέ μέτριο (éna frapé métrio): a medium-sweet frappé, please. Iced coffee whipped into foam.	assets/scripts/zz_athenes.evs:65
+2408	It was invented by accident in 1957, at the Thessaloniki International Fair: a salesman had no hot water and shook his instant coffee with cold water.	assets/scripts/zz_athenes.evs:66
+2409	Syntagma metro station. When the metro was dug in the 1990s, archaeologists found tens of thousands of objects. Some are displayed in the station itself.	assets/scripts/zz_athenes.evs:69
+2410	28 October is Ochi Day (όχι, óchi, “no”). In 1940 Greece said no to Mussolini's ultimatum; every year, schoolchildren parade in the streets.	assets/scripts/zz_athenes.evs:72
+2411	Not to be confused with the OXI of the 2015 referendum. Two famous Greek “no”s, seventy-five years apart.	assets/scripts/zz_athenes.evs:73
+2412	The drachma: a coin name from ancient Greece, brought back in 1832 for the young Greek state, and replaced by the euro in 2002.	assets/scripts/zz_athenes.evs:78
+2413	The Greek one-euro coin shows Athena's owl, copied from an ancient Athenian coin, the four-drachma piece.	assets/scripts/zz_athenes.evs:81
+2414	The Bank of Greece has its own printing works: they print euro banknotes too.	assets/scripts/zz_athenes.evs:84
+2415	On the notes of the Europa series, the first letter of the serial number shows the central bank that ordered them. Ours is Y.	assets/scripts/zz_athenes.evs:85
+2416	A Y on your specimen? Then welcome home!	assets/scripts/zz_athenes.evs:87
+2417	Anafiotika: in the 19th century, builders from the island of Anafi came to work on the royal palace and built themselves a little Cycladic village here, under the Acropolis.	assets/scripts/zz_athenes.evs:93
+2418	Μιάου (miáou). Athens has thousands of street cats; neighbours and volunteers feed them, even among the ruins.	assets/scripts/zz_athenes.evs:96
+2419	Yiayia	assets/scripts/zz_athenes.evs:99
+2420	Έφαγες; (éfages?) Have you eaten? You've lost weight. Sit. Eat.	assets/scripts/zz_athenes.evs:99
+2421	Yiayia fed your whole team until nobody could move. Everyone is back on form.	assets/scripts/zz_athenes.evs:101
+2422	Γιαγιά (yiayiá) means grandmother. And a yiayia never believes you when you say you're full.	assets/scripts/zz_athenes.evs:102
+2423	Neighbour	assets/scripts/zz_athenes.evs:105
+2424	Χρόνια πολλά (chrónia pollá)! Many years! Today is my name day.	assets/scripts/zz_athenes.evs:105
+2425	In Greece we often celebrate the feast of the saint we're named after more than our birthday. Half the street is called Giorgos: imagine Saint George's Day.	assets/scripts/zz_athenes.evs:106
+2426	Ναι (nai) means yes! It sounds like “no” to tourists. And όχι (óchi) means no.	assets/scripts/zz_athenes.evs:109
+2427	If I tilt my head back and click my tongue, that's also no. Easy!	assets/scripts/zz_athenes.evs:110
+2428	Stallholder	assets/scripts/zz_athenes.evs:115
+2429	Μάτι (máti), the eye! A blue glass eye protects you from the evil eye, the bad luck that comes from envy.	assets/scripts/zz_athenes.evs:115
+2430	If someone compliments your Euromon, say “φτου φτου” (ftou ftou), as if spitting. It's for luck. Don't actually spit.	assets/scripts/zz_athenes.evs:116
+2431	Cheesemonger	assets/scripts/zz_athenes.evs:119
+2432	Feta is a protected designation of origin since 2002: real feta is made in Greece from sheep's milk, sometimes with a little goat's milk.	assets/scripts/zz_athenes.evs:119
+2433	Germany and Denmark challenged it at the EU Court of Justice. In 2005 the Court said: feta is Greek.	assets/scripts/zz_athenes.evs:120
+2434	Grill cook	assets/scripts/zz_athenes.evs:123
+2435	Souvlaki! In Athens that's meat on a skewer. In Thessaloniki they call the same thing kalamaki, “little stick”.	assets/scripts/zz_athenes.evs:123
+2436	Ask for a “souvlaki” in Thessaloniki and they'll give you a pita gyros. Families have split over less.	assets/scripts/zz_athenes.evs:124
+2437	Musician	assets/scripts/zz_athenes.evs:127
+2438	Everybody thinks the sirtaki is an old folk dance. It was invented for the film “Zorba the Greek” in 1964, on music by Mikis Theodorakis.	assets/scripts/zz_athenes.evs:127
+2439	Slow at first, then faster and faster… Opa!	assets/scripts/zz_athenes.evs:128
+2440	Monastiraki station. Line 1 follows the Athens–Piraeus railway, opened in 1869: the oldest line of the network.	assets/scripts/zz_athenes.evs:131
+2441	Take the train to the port of Piraeus?	assets/scripts/zz_athenes.evs:132
+2442	The Odeon of Herodes Atticus, built in 161 AD. In 1944 a young soprano who had studied at the Athens Conservatory sang Beethoven's “Fidelio” here: Maria Callas.	assets/scripts/zz_athenes.evs:144
+2443	Callas and Beethoven both appear on the finalist designs for the next euro banknotes, on the 5 and 10 euro notes of the culture theme.	assets/scripts/zz_athenes.evs:145
+2444	These white slabs are plaster casts. The originals have been in the British Museum in London since 1816.	assets/scripts/zz_athenes.evs:148
+2445	Greece has officially asked for their return since 1983. The museum keeps their places ready, next to the original pieces.	assets/scripts/zz_athenes.evs:149
+2446	An original block of the Parthenon frieze: riders of the Panathenaic procession, carved around 440 BC.	assets/scripts/zz_athenes.evs:152
+2447	The Acropolis Museum opened in 2009. This top floor is turned to line up with the Parthenon, which you see through the glass.	assets/scripts/zz_athenes.evs:155
+2448	The frieze runs all the way round, in its original order. Honey-coloured marble: here. White plaster: in London.	assets/scripts/zz_athenes.evs:156
+2449	The Zappeion. Here, on 28 May 1979, Greece signed its treaty of accession to the European Communities.	assets/scripts/zz_athenes.evs:159
+2450	It became the tenth member on 1 January 1981. The euro followed in 2001, a year before the coins and notes.	assets/scripts/zz_athenes.evs:160
+2451	Melina Mercouri (1920–1994), actress, then Minister of Culture. She proposed the European Capital of Culture: Athens was the first, in 1985.	assets/scripts/zz_athenes.evs:163
+2452	She also launched the campaign for the return of the Parthenon marbles.	assets/scripts/zz_athenes.evs:164
+2453	The Panathenaic Stadium, the only large stadium in the world built entirely of marble. The first modern Olympic Games were held here in 1896.	assets/scripts/zz_athenes.evs:167
+2454	Every two years, the Olympic flame is handed over here to the next host city.	assets/scripts/zz_athenes.evs:168
+2455	Container terminal operated by COSCO Shipping. The Chinese group bought 51% of the Piraeus Port Authority in 2016, then 67% in 2021.	assets/scripts/zz_athenes.evs:179
+2456	Port guard	assets/scripts/zz_athenes.evs:182
+2457	The container terminal is closed to visitors. The passenger port is all yours.	assets/scripts/zz_athenes.evs:182
+2458	Not this way, please: container terminal.	assets/scripts/zz_athenes.evs:185
+2459	Piraeus station, terminus of Line 1. The building dates from 1929.	assets/scripts/zz_athenes.evs:189
+2460	Take the train back to Athens?	assets/scripts/zz_athenes.evs:190
+2461	Stones of the walls of Piraeus. In the 5th century BC, Themistocles made Piraeus the port of Athens, and the Long Walls linked the two cities.	assets/scripts/zz_athenes.evs:200
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), “The Children of Piraeus”! Manos Hadjidakis wrote it for the film “Never on Sunday” (1960), starring Melina Mercouri.	assets/scripts/zz_athenes.evs:203
+2463	It won the Oscar for best song. In France, Dalida made it a hit: “Les Enfants du Pirée”.	assets/scripts/zz_athenes.evs:204
+2464	Fisherman	assets/scripts/zz_athenes.evs:207
+2465	Over there is Mikrolimano, the little harbour: fishing boats, and tavernas where the fish was swimming this morning.	assets/scripts/zz_athenes.evs:207
+2466	This way to the Karaiskakis Stadium, home of Olympiacos. In 2024 the club won the UEFA Europa Conference League: the first European trophy for a Greek football club.	assets/scripts/zz_athenes.evs:210
+2467	Ferries for the islands: Aegina, Hydra, the Cyclades, Crete… Piraeus is one of the busiest passenger ports in Europe.	assets/scripts/zz_athenes.evs:213
+2468	Greek shipowners control about a fifth of the world's merchant fleet: more than any other country.	assets/scripts/zz_athenes.evs:216
+2469	Dock foreman	assets/scripts/zz_athenes.evs:220
+2470	You, intern! The ship leaves at noon and my crane driver is on strike. Ever loaded a container ship?	assets/scripts/zz_athenes.evs:220
+2471	Heavy containers at the bottom, refrigerated ones on the powered rows, and keep her level, or she lists.	assets/scripts/zz_athenes.evs:221
+2472	Another ship to load?	assets/scripts/zz_athenes.evs:224
+2473	Straight as a die! Here's your pay. Don't spend it all on souvlaki.	assets/scripts/zz_athenes.evs:233
+2474	Another ship out on time. The captain sends his regards.	assets/scripts/zz_athenes.evs:238
+2475	She's listing like a bad mood. We'll restack. Again?	assets/scripts/zz_athenes.evs:241
+2476	Bank of Greece – Museum	map name
+2477	Acropolis Museum – Parthenon Gallery	map name
+2478	Port of Piraeus	map name
+2479	House – Plaka	map name
+2480	Jury postcards: %d of 12.	source/world.c:581
+2481	That's all twelve motifs! Eleni, in the ECB studio in Frankfurt, will want to see them.	source/world.c:585
+2482	All twelve postcards! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… and the six birds. You've seen more of Europe than the jury.	assets/scripts/zz_francfort.evs:190
+2483	From now on, my press prints your specimens in the gold edition. And take this, from the studio.	assets/scripts/zz_francfort.evs:191
+2484	One more thing: the jury sent postcards of the twelve motifs all over Europe. If you find them all, come back: I'll engrave a gold edition.	assets/scripts/zz_francfort.evs:221
+2485	Brussels Town Hall, built in the 15th century. On top of its 96-metre tower, Saint Michael slays the dragon.	assets/scripts/zz_villes.evs:7
+2486	The Grand-Place around it is a UNESCO World Heritage site since 1998.	assets/scripts/zz_villes.evs:8
+2487	The guild houses: bakers, boatmen, brewers… each trade had its own house, gilded to show off its wealth.	assets/scripts/zz_villes.evs:11
+2488	Manneken-Pis: 55 centimetres of bronze. He owns more than a thousand costumes, kept in his own wardrobe museum.	assets/scripts/zz_villes.evs:14
+2489	Official dresser	assets/scripts/zz_villes.evs:17
+2490	Today he's dressed as… himself. Tomorrow, a fireman. Next week, an astronaut. It's a full-time job, dressing a statue.	assets/scripts/zz_villes.evs:17
+2491	Fritkot owner	assets/scripts/zz_villes.evs:20
+2492	Real Belgian fries are fried twice: once to cook them, once to make them crisp.	assets/scripts/zz_villes.evs:20
+2493	Hungry? Try a mitraillette: half a baguette, meat, sauce, and fries inside. Yes, inside.	assets/scripts/zz_villes.evs:21
+2494	Waffle seller	assets/scripts/zz_villes.evs:24
+2495	Brussels waffle: light, rectangular, dusted with sugar. Liège waffle: denser, with pearl sugar caramelised inside.	assets/scripts/zz_villes.evs:24
+2496	Choosing between them has divided families for generations. I sell both. Very diplomatic.	assets/scripts/zz_villes.evs:25
+2497	Brussels walls are covered with dozens of comic-strip murals. Belgium takes its comics as seriously as its chocolate.	assets/scripts/zz_villes.evs:28
+2498	This way to the Galeries Royales Saint-Hubert (1847), one of the oldest covered shopping arcades in Europe.	assets/scripts/zz_villes.evs:31
+2499	In 1912, in these arcades, the chocolatier Jean Neuhaus invented the filled chocolate: the praline.	assets/scripts/zz_villes.evs:32
+2500	Grand-Place / Grote Markt. In Brussels, every street name is written in French and Dutch: the capital region is officially bilingual.	assets/scripts/zz_villes.evs:35
+2501	Belgium has three official languages: Dutch, French and German.	assets/scripts/zz_villes.evs:36
+2502	Brussels native	assets/scripts/zz_villes.evs:39
+2503	Allez, une fois! That's how they imagine we talk in Brussels. And, well… sometimes we do.	assets/scripts/zz_villes.evs:39
+2504	Gardener	assets/scripts/zz_villes.evs:43
+2505	Every two years in August, a carpet of begonias covers the Grand-Place. The first one was laid in 1971.	assets/scripts/zz_villes.evs:43
+2506	Hundreds of thousands of flowers, laid by hand in a few hours. I'm one volunteer short. Will you plant with me?	assets/scripts/zz_villes.evs:44
+2507	Another carpet? The begonias are waiting.	assets/scripts/zz_villes.evs:47
+2508	Magnificent! Even the guild houses look jealous. Here, from the city.	assets/scripts/zz_villes.evs:56
+2509	Another masterpiece. In a few days the flowers will be gone, but the photos will stay.	assets/scripts/zz_villes.evs:61
+2510	The pattern got a bit… abstract. Magritte would have liked it.	assets/scripts/zz_villes.evs:64
+2511	The Grand Duchess Charlotte Bridge, nicknamed the Red Bridge, links the old town to the Kirchberg plateau, high above the Alzette valley.	assets/scripts/zz_villes.evs:70
+2512	The Grand Ducal Palace, in the heart of the old town. Luxembourg is the only grand duchy left in the world.	assets/scripts/zz_villes.evs:73
+2513	The guard marches eight steps, turns, marches eight steps back. It's very relaxing to watch.	assets/scripts/zz_villes.evs:77
+2514	The European Court of Auditors: the EU's financial watchdog. It checks how European money is spent, euro by euro.	assets/scripts/zz_villes.evs:80
+2515	On one of the finalist designs for the next banknotes, it appears on the back of the 200 euro note.	assets/scripts/zz_villes.evs:81
+2516	Since 29 February 2020, all public transport in Luxembourg is free: buses, trams, trains. The first country in the world to do it.	assets/scripts/zz_villes.evs:84
+2517	The Gëlle Fra, the golden lady of the Monument of Remembrance, honours the Luxembourgers who fell in the world wars.	assets/scripts/zz_villes.evs:87
+2518	The occupying forces tore it down in 1940; it was fully restored and set back on its column in 1985.	assets/scripts/zz_villes.evs:88
+2519	The Schueberfouer! A funfair since 1340, founded by John the Blind, Count of Luxembourg. Every year at the end of summer.	assets/scripts/zz_villes.evs:91
+2520	Luxembourger	assets/scripts/zz_villes.evs:94
+2521	Moien! That's hello in Luxembourgish. Here we have three administrative languages: Luxembourgish, French and German.	assets/scripts/zz_villes.evs:94
+2522	Most of us switch between them in the same sentence. Sometimes English sneaks in too.	assets/scripts/zz_villes.evs:95
+2523	On a wall: “Mir wëlle bleiwe wat mir sinn” (“We want to remain what we are”), the national motto.	assets/scripts/zz_villes.evs:98
+2524	Welcome to the Bock casemates: 17 kilometres of tunnels dug into the rock, part of a UNESCO World Heritage site.	assets/scripts/zz_villes.evs:102
+2525	During the bombings of the Second World War, up to 35,000 people sheltered here.	assets/scripts/zz_villes.evs:103
+2526	A visitor got lost in the dark galleries with my last torch. Can you find the way out and bring him back?	assets/scripts/zz_villes.evs:104
+2527	Another tour of the galleries?	assets/scripts/zz_villes.evs:107
+2528	Both of you out in one piece! The fortress was called the “Gibraltar of the North”. Take this for your trouble.	assets/scripts/zz_villes.evs:116
+2529	You know the galleries better than the soldiers of 1700.	assets/scripts/zz_villes.evs:120
+2530	The torch went out… Don't worry, I know the way. Let's try again.	assets/scripts/zz_villes.evs:123
+2531	The Pont de l'Europe crosses the Rhine. On the other side: Kehl, in Germany. Since 2017 a tram even crosses the border.	assets/scripts/zz_villes.evs:129
+2532	Commuter	assets/scripts/zz_villes.evs:132
+2533	I live in Kehl and work in Strasbourg. Every morning I change country in four minutes. Nobody checks my passport.	assets/scripts/zz_villes.evs:132
+2534	Here sits the Council of Europe, founded in 1949: 46 member states, and the European Court of Human Rights. It is not part of the EU.	assets/scripts/zz_villes.evs:135
+2535	Don't mix it up with the European Council (the EU heads of state and government) or the Council of the EU (the ministers). Even journalists do.	assets/scripts/zz_villes.evs:136
+2536	The blue flag with twelve gold stars was first adopted by the Council of Europe, in 1955. The EU took it up later.	assets/scripts/zz_villes.evs:137
+2537	A portrait of Bertha von Suttner (1843–1914), author of the novel “Lay Down Your Arms!” and the first woman to receive the Nobel Peace Prize, in 1905.	assets/scripts/zz_villes.evs:140
+2538	She is the 200 euro figure of the ECB's “European culture” finalist designs.	assets/scripts/zz_villes.evs:141
+2539	Europe's anthem is the prelude to the “Ode to Joy”, from Beethoven's Ninth Symphony. The Council of Europe adopted it in 1972, the EU in 1985.	assets/scripts/zz_villes.evs:145
+2540	It has no official words: in Europe, we all hum it in the same language.	assets/scripts/zz_villes.evs:146
+2541	The cathedral's spire rises to 142 metres. From 1647 to 1874, it was the tallest building in the world.	assets/scripts/zz_villes.evs:150
+2542	The astronomical clock. Its mechanism dates from 1842. Every day at half past twelve, the twelve apostles parade before Christ.	assets/scripts/zz_villes.evs:153
+2543	The cathedral is built of pink sandstone from the Vosges. That's why it blushes at sunset.	assets/scripts/zz_villes.evs:156
+2544	The Christkindelsmärik has been held here since 1570: one of the oldest Christmas markets in Europe.	assets/scripts/zz_villes.evs:159
+2545	Winstub cook	assets/scripts/zz_villes.evs:162
+2546	Flammekueche! Thin dough, cream, onions, bacon, baked in a wood oven in two minutes. In French they say tarte flambée.	assets/scripts/zz_villes.evs:162
+2547	The Oaths of Strasbourg, sworn here in 842 by two grandsons of Charlemagne, are among the oldest texts in Old French and Old High German.	assets/scripts/zz_villes.evs:165
+2548	Each king swore in the other's language, so that the other's army could understand. Interpreting has a long history here.	assets/scripts/zz_villes.evs:166
+2549	Ornithologist	assets/scripts/zz_villes.evs:170
+2550	The white stork is the emblem of Alsace. In 1974 only nine pairs were left in the region.	assets/scripts/zz_villes.evs:170
+2551	Thanks to a reintroduction programme, there are several hundred pairs today. And the white stork is on a finalist design for the 50 euro note!	assets/scripts/zz_villes.evs:171
+2552	The new arrivals are looking for their nests. Can you guide them, away from the power lines?	assets/scripts/zz_villes.evs:173
+2553	More storks are coming in. Guide them again?	assets/scripts/zz_villes.evs:176
+2554	Every couple is home! Here, for the stork protection fund… I mean, for you.	assets/scripts/zz_villes.evs:185
+2555	The roofs of the Petite France are full of clattering beaks. That's the sound of spring here.	assets/scripts/zz_villes.evs:189
+2556	Some of them got tangled near the wires… They're fine, just a little vexed. Again?	assets/scripts/zz_villes.evs:192
+2557	Room 18: sculptures from the Parthenon in Athens, removed by Lord Elgin's agents between 1801 and 1812 and bought by the British Museum in 1816.	assets/scripts/zz_villes.evs:198
+2558	Greece has asked for their return since 1983. In Athens, the Acropolis Museum keeps their places ready.	assets/scripts/zz_villes.evs:199
+2559	Greek visitor	assets/scripts/zz_villes.evs:202
+2560	I came all the way from Athens to see our marbles. Then I'll go back to the Acropolis Museum and look at the white copies of these.	assets/scripts/zz_villes.evs:202
+2561	One frieze, two cities. Maybe one day, one city again.	assets/scripts/zz_villes.evs:203
+2562	A red telephone box, the K6 model designed in 1935. Today some of them house defibrillators, others little libraries.	assets/scripts/zz_villes.evs:206
+2563	The London Underground opened in 1863: the first underground railway in the world. “Mind the gap!”	assets/scripts/zz_villes.evs:209
+2564	After Brexit, the UK left Erasmus. In December 2025 it agreed to rejoin from 2027. My little sister will get to study in Bologna!	assets/scripts/zz_villes.evs:212
+2565	Dutch customs officer	assets/scripts/zz_villes.evs:216
+2566	Since 1 January 2021 the UK is outside the EU's customs and veterinary rules: travellers may no longer bring meat or dairy into the EU.	assets/scripts/zz_villes.evs:216
+2567	That month, my colleagues in Hook of Holland had to confiscate ham sandwiches. “Welcome to the Brexit, sir, I'm sorry.”	assets/scripts/zz_villes.evs:217
+2568	The morning ferry is boarding. Help me check the lunchboxes?	assets/scripts/zz_villes.evs:218
+2569	Another ferry, another hundred lunchboxes. Help me again?	assets/scripts/zz_villes.evs:221
+2570	Not a single ham sandwich got through. Here, have a cheese-free, ham-free reward.	assets/scripts/zz_villes.evs:230
+2571	Efficient and polite. You'd make a fine customs officer.	assets/scripts/zz_villes.evs:235
+2572	A salami crossed the Channel… The veterinary inspectors will want a word.	assets/scripts/zz_villes.evs:238
+2573	Lorry driver	assets/scripts/zz_villes.evs:242
+2574	Before Brexit I crossed with my lorry without stopping. Now: customs declarations, health certificates, checks. I've read more forms than novels.	assets/scripts/zz_villes.evs:242
+2575	A campaign bus. In 2016 its side promised £350 million a week for the National Health Service.	assets/scripts/zz_villes.evs:245
+2576	In 2017 the head of the UK Statistics Authority called that figure a “clear misuse of official statistics”.	assets/scripts/zz_villes.evs:246
+2577	Birdwatcher	assets/scripts/zz_villes.evs:249
+2578	Northern gannets dive into the sea at almost a hundred kilometres an hour. The largest colony in the world is on the Bass Rock, in Scotland.	assets/scripts/zz_villes.evs:249
+2579	The ECB put one on a finalist design for the 200 euro note: open sea, wings folded, splash.	assets/scripts/zz_villes.evs:250
+2580	Chess player	assets/scripts/zz_villes.evs:257
+2581	Széchenyi Thermal Bath, 1913: one of the largest medicinal baths in Europe. We play chess here, up to our shoulders in hot water.	assets/scripts/zz_villes.evs:257
+2582	Hungary gave the world Judit Polgár, the strongest woman player ever: grandmaster at fifteen, and she beat Kasparov in 2002.	assets/scripts/zz_villes.evs:258
+2583	Three positions, checkmate in one move each. Can you find them before the water gets cold?	assets/scripts/zz_villes.evs:259
+2584	New positions on the floating board. Another round?	assets/scripts/zz_villes.evs:262
+2585	Three checkmates! You play like a grandmaster in a bathrobe. Take this.	assets/scripts/zz_villes.evs:271
+2586	Checkmate, checkmate, checkmate. The steam makes you think faster.	assets/scripts/zz_villes.evs:275
+2587	The water got cold… Next time, look for the move that leaves the king nowhere to go.	assets/scripts/zz_villes.evs:278
+2588	Ruin bars: old courtyards of the former Jewish quarter, turned into bars with mismatched furniture. The first ones opened in the early 2000s.	assets/scripts/zz_villes.evs:282
+2589	Barman	assets/scripts/zz_villes.evs:285
+2590	Egészségedre! That's cheers in Hungarian. Try saying it after the second glass of fröccs: wine and soda water.	assets/scripts/zz_villes.evs:285
+2591	Lángos seller	assets/scripts/zz_villes.evs:288
+2592	Lángos: fried dough, garlic, sour cream and grated cheese. Not a diet. A tradition.	assets/scripts/zz_villes.evs:288
+2593	The Rubik's Cube was invented in Budapest in 1974 by Ernő Rubik, to teach space to his students. I've solved it in two minutes. Or one face of it.	assets/scripts/zz_villes.evs:291
+2594	Shoes on the Danube Bank (2005). Sixty pairs of iron shoes remember the Jews of Budapest shot on this bank by Arrow Cross militiamen in 1944 and 1945, and thrown into the river.	assets/scripts/zz_villes.evs:294
+2595	The Chain Bridge, opened in 1849: the first permanent bridge between Buda and Pest, designed by the English engineer William Tierney Clark.	assets/scripts/zz_villes.evs:297
+2596	Its stone lions have no tongues… as legend has it. Look closely.	assets/scripts/zz_villes.evs:298
+2597	Fisherman's Bastion, on Castle Hill: seven towers, for the seven Magyar tribes who settled in the Carpathian Basin.	assets/scripts/zz_villes.evs:301
+2598	Bee-eaters! The most colourful birds of Europe. They dig their nests in sandy riverbanks and catch bees in flight.	assets/scripts/zz_villes.evs:304
+2599	Hungary has some of the largest colonies. On the ECB's finalist designs, a colony of them decorates the 20 euro note.	assets/scripts/zz_villes.evs:305
+2600	Linguist	assets/scripts/zz_villes.evs:309
+2601	Hungarian is not related to its neighbours' languages: it belongs to the Uralic family, like Finnish and Estonian.	assets/scripts/zz_villes.evs:309
+2602	And the family name comes first: Rubik Ernő, Polgár Judit. Easy to remember, hard to pronounce.	assets/scripts/zz_villes.evs:310
+2603	László Bíró, born in Budapest, patented the modern ballpoint pen in 1938. In many countries a pen is still called a “biro”.	assets/scripts/zz_villes.evs:313
+2604	The Salon de l'Horloge. On 9 May 1950 at 6 p.m., Robert Schuman, French foreign minister, read a declaration here proposing to pool French and German coal and steel.	assets/scripts/zz_villes.evs:318
+2605	It led to the European Coal and Steel Community in 1951, the first step of today's EU. Every 9 May is Europe Day.	assets/scripts/zz_villes.evs:319
+2606	The archives have mixed up the pages of the declaration! The journalists are arriving. Can you put the sentences back in order?	assets/scripts/zz_villes.evs:323
+2607	The pages are shuffled again. Help me?	assets/scripts/zz_villes.evs:326
+2608	Word for word! Mr Schuman would have shaken your hand. Take this, from the ministry.	assets/scripts/zz_villes.evs:335
+2609	Perfectly ordered. Europe will not be made all at once, but you're quick.	assets/scripts/zz_villes.evs:339
+2610	Not quite… Remember: first peace, then concrete achievements, then coal and steel.	assets/scripts/zz_villes.evs:342
+2611	Marie Curie, born Maria Skłodowska in Warsaw, became the first woman professor at the Sorbonne in 1906. She won two Nobel Prizes, in physics and in chemistry.	assets/scripts/zz_villes.evs:346
+2612	She is the 20 euro figure of the ECB's “European culture” finalist designs.	assets/scripts/zz_villes.evs:347
+2613	Baker	assets/scripts/zz_villes.evs:351
+2614	Since 2022 the craft of the French baguette is on UNESCO's list of intangible cultural heritage. Flour, water, salt, yeast. And a bit of patience.	assets/scripts/zz_villes.evs:351
+2615	Un café, s'il vous plaît! In Paris, a “café” is an espresso. If you want a big cup, you have to say so. Loudly.	assets/scripts/zz_villes.evs:354
+2616	Bouquiniste	assets/scripts/zz_villes.evs:357
+2617	We have sold second-hand books on these quays since the 16th century. Hundreds of green boxes, along kilometres of the Seine.	assets/scripts/zz_villes.evs:357
+2618	Notre-Dame de Paris. Damaged by fire on 15 April 2019, it reopened on 7 December 2024 after five years of work.	assets/scripts/zz_villes.evs:360
+2619	Visitor	assets/scripts/zz_villes.evs:363
+2621	Some winters a wallcreeper comes down from the mountains to the cliffs of the Meuse valley. A grey bird with crimson wings, like a butterfly.	assets/scripts/zz_villes.evs:368
+2622	It's the bird of the 5 euro note on the ECB's finalist designs: a mountain spring and a wallcreeper.	assets/scripts/zz_villes.evs:369
+2623	Angler	assets/scripts/zz_villes.evs:373
+2624	See that blue flash on the Moselle? A kingfisher. It dives from a branch and comes back up with a fish.	assets/scripts/zz_villes.evs:373
+2625	On the ECB's finalist designs it's the bird of the 10 euro note, by a waterfall.	assets/scripts/zz_villes.evs:374
+2626	Antwerp is Europe's second-largest port. And along the Scheldt, right next to the cranes, avocets nest in the nature reserves.	assets/scripts/zz_villes.evs:378
+2627	Black and white, with an upturned bill: the bird of the 100 euro note on the ECB's finalist designs, at a river mouth.	assets/scripts/zz_villes.evs:379
+2628	Warsaw resident	assets/scripts/zz_villes.evs:383
+2629	Maria Skłodowska, Marie Curie, was born here in Warsaw, in 1867. She named the element polonium after her country.	assets/scripts/zz_villes.evs:383
+2630	Our Old Town was razed in 1944 and rebuilt stone by stone: it has been on UNESCO's list since 1980.	assets/scripts/zz_villes.evs:384
+2631	Leonardo da Vinci lived in Rome from 1513 to 1516, at the Vatican, before leaving for France.	assets/scripts/zz_villes.evs:387
+2632	He is the 100 euro figure of the ECB's “European culture” finalist designs.	assets/scripts/zz_villes.evs:388
+2633	Professor	assets/scripts/zz_villes.evs:392
+2634	The Treaty of Lisbon, signed here in 2007, created Article 50: the procedure to leave the EU. The UK was the first to use it.	assets/scripts/zz_villes.evs:392
+2635	Also from Lisbon: the pastéis de nata, after the recipe of the Jerónimos monks. Much more popular than Article 50.	assets/scripts/zz_villes.evs:393
+2636	Old sailor	assets/scripts/zz_villes.evs:396
+2637	In 1571 the Battle of Lepanto was fought in the Gulf of Patras, here in Greece. A young Spanish soldier lost the use of his left hand there.	assets/scripts/zz_villes.evs:396
+2638	His name was Miguel de Cervantes. He went on to write Don Quixote. He's the 50 euro figure of the ECB's culture designs!	assets/scripts/zz_villes.evs:397
+2639	In a corner, a postcard stamped by the ECB's design jury: one of the twelve motifs of the future banknotes. You keep it.	assets/scripts/zz_villes.evs:477
+2640	British Museum – Room 18	map name
+2641	Bock Casemates – Entrance	map name
+2642	Strasbourg Cathedral	map name
+2643	Palais de l'Europe – Council of Europe	map name
+2644	Ferry Terminal – EU Customs	map name
+2645	Ruin Bar – Budapest	map name
+2646	Quai d'Orsay – Salon de l'Horloge	map name
+2647	Boulangerie – Paris	map name
+2648	Red	source/minigame2.c:687
+2649	Yellow	source/minigame2.c:687
+2650	White	source/minigame2.c:687
+2651	Orange	source/minigame2.c:687
+2652	The flower carpet	source/minigame2.c:688
+2655	The design	source/minigame2.c:703
+2656	Three carpets of begonias! Belgium grows most of the world's tuberous begonias, around Ghent.	source/minigame2.c:751
+2657	The tourists are arriving and the carpet is not finished… Next time!	source/minigame2.c:752
+2658	The storks of Alsace	source/minigame2.c:762
+2661	Storks home: %d / %d · lost: %d / 3	source/minigame2.c:802
+2662	Ten storks in their nests! In Alsace, a stork on your roof is said to bring luck.	source/minigame2.c:826
+2663	Too many storks flew on to the next village… They'll be back next spring.	source/minigame2.c:827
+2664	Ham sandwich	source/minigame2.c:836
+2665	Milk	source/minigame2.c:836
+2666	Salami	source/minigame2.c:836
+2667	Apple	source/minigame2.c:836
+2668	Chocolate bar	source/minigame2.c:837
+2669	Crisps	source/minigame2.c:837
+2670	Biscuits	source/minigame2.c:837
+2671	EU customs	source/minigame2.c:838
+2674	Meat, dairy, most fruit: confiscate.	source/minigame2.c:849
+2675	Bananas, sweets, crisps, water: let through.	source/minigame2.c:850
+2676	Let through	source/minigame2.c:860
+2677	Confiscate	source/minigame2.c:861
+2678	All the lunchboxes checked! Within the EU's single market, food travels freely; at its borders, it is checked.	source/minigame2.c:880
+2679	A salami slipped through… or a banana was wrongly seized. Rules first, sandwich later!	source/minigame2.c:881
+2685	Chess in the baths	source/minigame2.c:923
+2688	White to play and mate in one	source/minigame2.c:935
+2689	K king · Q queen · R rook · B bishop · N knight · P pawn	source/minigame2.c:936
+2691	The water went cold before the mate… Look for the move that leaves the king no square at all.	source/minigame2.c:972
+2692	World peace cannot be safeguarded	source/minigame2.c:980
+2694	Europe will not be made all at once, or according to a single plan.	source/minigame2.c:982
+2698	The Schuman Declaration	source/minigame2.c:986
+2701	The declaration is ready! The European Coal and Steel Community followed in 1951. Every 9 May is Europe Day.	source/minigame2.c:1035
+2702	The journalists are waiting and the pages are still in a mess… Peace first, then concrete achievements!	source/minigame2.c:1036
+2703	The Bock casemates	source/minigame2.c:1047
+2706	The visitor follows you: now the exit!	source/minigame2.c:1107
+2707	Somewhere in the dark, someone is calling…	source/minigame2.c:1108
+2708	Out in the daylight, with the visitor! Up to 35,000 people sheltered in these galleries during the bombings.	source/minigame2.c:1136
+2709	The torch went out… The guide follows your voice and leads you both out.	source/minigame2.c:1137
+2710	without creative efforts proportionate to the dangers which threaten it.	source/minigame2.c:980
+2713	Built through concrete achievements which first create a de facto solidarity.	source/minigame2.c:982
+2714	Franco-German coal and steel will be placed under a common High Authority…	source/minigame2.c:983
+2715	…so that war between France and Germany becomes materially impossible.	source/minigame2.c:984
+2716	Before touching the printing plate, prove you can spot a fake! Check each note the ECB's way: FEEL the raised print, LOOK at it against the light, TILT it. Judge 10 notes, one mistake allowed.	source/minigame2.c:146
+2717	In a Sachsenhausen tavern, pour apple wine from the Bembel into each glass up to the line! Hold the stylus (or A) to tilt the jug, let go to stop, then serve with the button. 8 glasses, 2 spills allowed.	source/minigame2.c:207
+2718	Eight perfect glasses! Here in Frankfurt they call apple wine “Ebbelwoi”.	source/minigame2.c:285
+2719	Syntagma Square, the Tomb of the Unknown Soldier. Move in time with the Evzones: STEP, KICK, STOMP when each sign reaches the line. 24 moves, slowly and solemnly. 4 mistakes allowed.	source/minigame2.c:323
+2720	Rush hour at the kiosk! Each customer asks in Greek: tap what they want. I'll whisper the meaning for the first ones. 15 customers in 60 seconds!	source/minigame2.c:451
+2721	Load three ships before noon! Move the crane with the stylus or ←/→, drop with A or a tap. Heavy (H) never on top of lighter, refrigerated (white) only on the two powered columns (plugs), and keep the ship level!	source/minigame2.c:537
+2722	Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. Press Done when it matches. Three carpets in 90 seconds!	source/minigame2.c:683
+2723	The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or ↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.	source/minigame2.c:756
+2724	The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.	source/minigame2.c:831
+2725	Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!	source/minigame2.c:915
+2726	9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the sentences in the right order before the press conference. 60 seconds.	source/minigame2.c:977
+2727	The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! Move with the +Control Pad, or tap next to your character. 75 seconds.	source/minigame2.c:1039
+2728	Three checkmates! In the baths, they say the loser has to get out of the water first.	source/minigame2.c:961
+2729	The new oak frame was cut by hand, like in the Middle Ages. Carpenters and stonemasons from all over France worked on it.	assets/scripts/zz_villes.evs:363
+2730	Front side	source/note.c:159
+2731	Back side	source/note.c:159

@@ -1,0 +1,19 @@
+# Lithuanian — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Per 30 sekundžių uždėk antspaudą ant 15 galiojančių sprendimų. Dokumentus su žyma „NETIKRA“ praleisk: uždėjęs antspaudą ant tokio, pralaimėsi raundą!
+2087	SPRENDIMAS
+2088	SPRENDIMAS: antspauduoti. NETIKRA: praleisti.
+2089	Suantspauduota penkiolika galiojančių sprendimų! Administracija tavimi didžiuojasi.
+2090	Uždėjai antspaudą ant blogo dokumento! Patikrink, prieš tvirtindamas…
+2091	Penkiolika galiojančių sprendimų nesuantspaudota. Kanceliarija užsidaro. Bandyk dar kartą…
+2092	Štai šios dienos krūva. Prieš užsidarant kanceliarijai, reikia suantspauduoti penkiolika galiojančių sprendimų. Atsargiai, tarp jų pasitaiko blogų dokumentų! Gali man padėti?
+2093	Kanceliarija šios krūvos patvirtinti negali. Reikia penkiolikos galiojančių sprendimų ir nė vieno blogo dokumento su antspaudu. Bandyk dar kartą, kada tik nori.
+2094	Dar penkiolika sprendimų tvarkoje! Už antrą sėkmę imk kvalifikuotą antspaudą.
+2095	Nepriekaištingai! Dar turiu vieną kvalifikuotą antspaudą tau. Liuksemburgas mėgsta metodiškus žmones.
+2096	Nepriekaištingai! Bet šįkart antspaudo tau neturiu. Sugrįžk ir vėl man padėk!
+2097	Kitas žaidėjas išsiunčia %s!
+2098	Netinkama komanda arba ryšys.
+2099	Draugiškuose debatuose daiktai neleidžiami.
+2100	Tu laimi šiuos draugiškus debatus!
+2101	Kitas žaidėjas laimi šiuos draugiškus debatus!
+2102	Debatai baigėsi arba ryšys nutrūko.
+2105	Išsaugoti nepavyko. Bandyk dar kartą.

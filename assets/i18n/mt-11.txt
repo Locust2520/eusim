@@ -1,0 +1,19 @@
+# Maltese — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Ittimbra 15-il sentenza valida fi 30 sekonda. Ħalli jgħaddu l-karti mmarkati «FALZ»: jekk tittimbra waħda, titlef ir-round!
+2087	SENTENZA
+2088	SENTENZA: ittimbra. FALZ: ħalliha tgħaddi.
+2089	Ittimbrajt ħmistax-il sentenza valida! L-amministrazzjoni kburija bik.
+2090	Ittimbrajt dokument ħażin! Iċċekkja qabel tapprova…
+2091	Il-ħmistax-il sentenza valida mhumiex lesti. Ir-reġistru qed jagħlaq. Erġa' pprova…
+2092	Hawn il-munzell tal-lum. Rridu nittimbraw ħmistax-il sentenza valida qabel ma jagħlaq ir-reġistru. Oqgħod attent, daħlu wkoll xi dokumenti ħżiena! Tgħini?
+2093	Ir-reġistru ma jistax japprova dan il-munzell. Neħtieġu ħmistax-il sentenza valida u ebda dokument ħażin ittimbrat. Erġa' pprova meta trid.
+2094	Ħmistax-il sentenza oħra f'ordni! Għat-tieni suċċess tiegħek, hawn timbru kwalifikat.
+2095	Perfett! Fadalli timbru kwalifikat wieħed għalik. Il-Lussemburgu jħobb in-nies metodiċi.
+2096	Perfett! Imma din id-darba m'għandix timbru għalik. Erġa' ejja għinni!
+2097	Il-plejer l-ieħor jibgħat %s!
+2098	Tim jew konnessjoni invalidi.
+2099	L-oġġetti mhumiex permessi f'dibattitu amikevoli.
+2100	Rbaħt dan id-dibattitu amikevoli!
+2101	Il-plejer l-ieħor jirbaħ dan id-dibattitu amikevoli!
+2102	Id-dibattitu spiċċa jew il-konnessjoni nqatgħet.
+2105	Is-salvataġġ falla. Erġa' pprova.

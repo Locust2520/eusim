@@ -471,7 +471,7 @@ static int mg_courriels(void)
         canvas_clear(&g_bot, C_PANEL);
         canvas_rect(&g_bot, 0, 0, 256, 16, C_BLUE);
         ui_text_in(&g_bot, &font_small, 0, 0, 200, 16, "Inbox", C_WHITE, 0, -1);
-        char buf[16];
+        char buf[48];
         snprintf(buf, sizeof buf, "%d / 7", n);
         canvas_text_right(&g_bot, &font_small, 250, 3, buf, n >= 6 ? C_YELLOW : C_WHITE, 0);
         for (int i = 0; i < n; i++) {
@@ -714,7 +714,7 @@ static int mg_taux(void)
     for (unsigned i = 0; i < ARRAY_LEN(chocs); i++)
         order[i] = i;
     shuffle(order, ARRAY_LEN(chocs));
-    char buf[48], v[16];
+    char buf[96], v[16];
     while (frames > 0) {
         int t = total - frames;
         if (t > 0 && t % (8 * 60) == 0 && ev < 4) {

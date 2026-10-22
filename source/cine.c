@@ -24,7 +24,7 @@ static void letterbox(void);
 static int motion, t;
 static const int dur = 720;         // a full pan/zoom lasts 12 s, then the picture holds still
 static s32 s0, s1, cx0, cx1, cy0, cy1; // scale in 1/256 texel per pixel, centre in pixels
-static char title[48];
+static char title[160];   // chapter — subtitle, translated: Greek or Bulgarian take 2 bytes a letter
 static u16 saved_backdrop;
 static u8 *buf;
 

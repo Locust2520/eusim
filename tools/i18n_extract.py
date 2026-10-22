@@ -41,6 +41,8 @@ def c_strings():
                     continue
                 if re.fullmatch(r'[.a-z]+', s) and set(s) <= set('.kwbrgacyopmdlest'):
                     continue  # pixel-art rows
+                if re.fullmatch(r'[.KQRBNPkqrbnp]{8}', s):
+                    continue  # chess board rows (Budapest mini-game)
                 if re.fullmatch(r'[a-z][a-z0-9_]*', s) or s == 'ADS1':
                     continue  # identifiers (music/file names, magic numbers)
                 words = re.sub(r'%[-0-9.]*l?[a-z]', '', s)

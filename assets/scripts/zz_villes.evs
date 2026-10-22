@@ -360,7 +360,7 @@ script par_notre_dame
   say - "Notre-Dame de Paris. Damaged by fire on 15 April 2019, it reopened on 7 December 2024 after five years of work."
 end
 script par_notre_dame_visitor
-  say "Visitor" "The new oak frame was cut by hand, like in the Middle Ages. Carpenters from all over Europe came to help."
+  say "Visitor" "The new oak frame was cut by hand, like in the Middle Ages. Carpenters and stonemasons from all over France worked on it."
 end
 
 # ---------------------------------------------------------------- smaller additions

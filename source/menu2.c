@@ -333,7 +333,7 @@ void badge_case_open(void)
             if (touch_in(6 + (b % 2) * 124, 26 + (b / 2) * 40, 120, 38) && (g_save.badges & (1 << b)))
                 sel = b;
         if (sel >= 0) {
-            char buf[96];
+            char buf[192];
             snprintf(buf, sizeof buf, T("%s Badge — awarded by %s."), tr(badge_names[sel]), tr(badge_from[sel]));
             dlg_say("", buf);
             dlg_close();
@@ -463,7 +463,7 @@ void evolve_mon(Mon *m, int into)
     music_play("evolution");
     oamSet(&oamMain, OAM_BATTLE, 96, 50, 0, PAL_BATTLE_FOE, SpriteSize_64x64, SpriteColorFormat_256Color, ga, -1,
            false, false, false, false, false);
-    char buf[96];
+    char buf[192];
     snprintf(buf, sizeof buf, T("What? %s is evolving!"), old_name);
     // Post-battle evolution starts with both screens faded to black.
     gfx_fade_in(20, false);

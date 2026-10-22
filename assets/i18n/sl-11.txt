@@ -1,0 +1,19 @@
+# Slovenian — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	V 30 sekundah odtisni žig na 15 veljavnih sodb. Papirjev z oznako „LAŽNA“ ne žigosaj: z žigosanjem takega izgubiš krog!
+2087	SODBA
+2088	SODBA: žigosaj. LAŽNA: spusti mimo.
+2089	Petnajst veljavnih sodb je žigosanih! Uprava je ponosna nate.
+2090	Žigosal si neveljaven dokument! Preveri, preden odobriš …
+2091	Petnajst veljavnih sodb ni pripravljenih. Sodna pisarna se zapira. Poskusi znova …
+2092	Tukaj je današnja kopica. Preden se sodna pisarna zapre, moramo žigosati petnajst veljavnih sodb. Pazi, vmes so se prikradli slabi dokumenti! Mi priskočiš na pomoč?
+2093	Sodna pisarna te kopice ne more potrditi. Potrebujemo petnajst veljavnih sodb in nobenega žigosanega slabega dokumenta. Poskusi znova, kadar želiš.
+2094	Spet petnajst sodb v redu! Za tvoj drugi uspeh dobiš kvalificirani žig.
+2095	Brezhibno! Imam še en kvalificirani žig zate. Luksemburg ceni metodične ljudi.
+2096	Brezhibno! Tokrat pa zate nimam žiga. Pridi spet in mi priskoči na pomoč!
+2097	Drugi igralec pošlje %s!
+2098	Neveljavna ekipa ali povezava.
+2099	Predmeti v prijateljski razpravi niso dovoljeni.
+2100	Zmagal si v tej prijateljski razpravi!
+2101	Drugi igralec je zmagal v tej prijateljski razpravi!
+2102	Razprava je končana ali pa je povezava prekinjena.
+2105	Shranjevanje ni uspelo. Poskusi znova.

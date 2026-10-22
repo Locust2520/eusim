@@ -1,0 +1,19 @@
+# Nederlands — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Stempel 15 geldige arresten in 30 seconden. Laat papieren met “VALS” erdoor: stempel je er één, dan verlies je de ronde!
+2087	ARREST
+2088	ARREST: stempelen. VALS: laten gaan.
+2089	Vijftien geldige arresten gestempeld! De administratie is trots op je.
+2090	Je hebt een ongeldig document gestempeld! Controleer het voordat je goedkeurt…
+2091	De vijftien geldige arresten zijn niet klaar. De griffie sluit. Probeer het opnieuw…
+2092	Hier is de stapel van vandaag. We moeten vijftien geldige arresten stempelen voordat de griffie sluit. Pas op, er zijn ongeldige documenten tussen geglipt! Help je me even?
+2093	De griffie kan deze stapel niet goedkeuren. We hebben vijftien geldige arresten nodig en geen enkel ongeldig document met stempel. Probeer het opnieuw wanneer je wilt.
+2094	Weer vijftien arresten in orde! Voor je tweede succes krijg je een gekwalificeerde stempel.
+2095	Foutloos! Ik heb nog een gekwalificeerde stempel voor je. Luxemburg houdt van methodische mensen.
+2096	Foutloos! Maar deze keer heb ik geen stempel voor je. Kom terug en help me nog eens!
+2097	De andere speler stuurt %s erop af!
+2098	Ongeldig team of ongeldige verbinding.
+2099	Items zijn niet toegestaan in een vriendschappelijk debat.
+2100	Je wint dit vriendschappelijke debat!
+2101	De andere speler wint dit vriendschappelijke debat!
+2102	Debat beëindigd of verbinding verbroken.
+2105	Opslaan mislukt. Probeer het opnieuw.

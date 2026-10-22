@@ -556,7 +556,7 @@ void dex_menu(void)
         if (sel >= scroll + 8) scroll = sel - 7;
         if (redraw) {
             ui_backdrop(&g_bot);
-            char buf[48];
+            char buf[96];
             snprintf(buf, sizeof buf, T("EURODEX   Seen: %d   Caught: %d"), dex_count_seen(), dex_count_caught());
             canvas_frame(&g_bot, 4, 2, 248, 21, FRAME_DARK);
             ui_text_in(&g_bot, &font_small, 4, 2, 247, 20, buf, C_GOLD, C_INK, 0);
@@ -658,7 +658,7 @@ void menu_save(void)
     g_save.x = g_actors[PLAYER].tx;
     g_save.y = g_actors[PLAYER].ty;
     bool ok = save_write();
-    char buf[96];
+    char buf[192];
     if (ok) {
         sfx_play(SFX_SAVE);
         snprintf(buf, sizeof buf, T("Report sent in 24 languages. Game saved (slot %d)!"), g_save_slot + 1);

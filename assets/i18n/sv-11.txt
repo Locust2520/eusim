@@ -1,0 +1,19 @@
+# Svenska — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Stämpla 15 giltiga domar på 30 sekunder. Släpp igenom papper märkta ”FALSK”: stämplar du ett förlorar du ronden!
+2087	DOM
+2088	DOM: stämpla. FALSK: släpp förbi.
+2089	Femton giltiga domar stämplade! Förvaltningen är stolt över dig.
+2090	Du stämplade ett ogiltigt dokument! Kolla först innan du godkänner…
+2091	De femton giltiga domarna är inte klara. Kansliet stänger. Försök igen…
+2092	Här är dagens hög. Vi måste stämpla femton giltiga domar innan kansliet stänger. Se upp, några ogiltiga dokument har smugit sig in! Kan du hjälpa mig?
+2093	Kansliet kan inte godkänna den här högen. Vi behöver femton giltiga domar och inget ogiltigt dokument stämplat. Försök igen när du vill.
+2094	Ytterligare femton domar i ordning! För din andra framgång får du en kvalificerad stämpel.
+2095	Felfritt! Jag har en kvalificerad stämpel kvar åt dig. Luxemburg älskar metodiska människor.
+2096	Felfritt! Men den här gången har jag ingen stämpel åt dig. Kom tillbaka och hjälp mig igen!
+2097	Den andra spelaren skickar ut %s!
+2098	Ogiltigt lag eller ogiltig anslutning.
+2099	Föremål är inte tillåtna i en vänskaplig debatt.
+2100	Du vinner den här vänskapliga debatten!
+2101	Den andra spelaren vinner den här vänskapliga debatten!
+2102	Debatten avslutades eller anslutningen bröts.
+2105	Det gick inte att spara. Försök igen.

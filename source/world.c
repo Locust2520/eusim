@@ -63,7 +63,7 @@ static void draw_popup(void)
     canvas_rect(&g_top, 0, 0, 256, 26, 0);
     if (popup_timer <= 0)
         return;
-    int w = font_width(&font_main, g_map.name) + 24;
+    int w = MIN(font_width(&font_main, tr(g_map.name)) + 24, 248);   // measured in the player's language
     int slide = popup_timer > 140 ? (popup_timer - 140) * 3 : (popup_timer < 20 ? (20 - popup_timer) * 3 : 0);
     canvas_frame(&g_top, 4, 2 - slide, w, 23, FRAME_DIALOG);
     ui_text_in(&g_top, &font_main, 4, 2 - slide, w - 1, 22, g_map.name, C_BLUE, C_SHADOW, 0);
@@ -555,7 +555,7 @@ void world_special(int id, int arg)
     case 0: shop_open(arg); world_refresh(); break;
     case 1: archives_open(); world_refresh(); break;
     case 2: {
-        char buf[128];
+        char buf[256];
         int n = dex_count_caught();
         snprintf(buf, sizeof buf, T("Your Eurodex has %d Euromons caught out of %d seen."), n, dex_count_seen());
         dlg_say("Jean Monnet", buf);

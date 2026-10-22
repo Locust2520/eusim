@@ -20,8 +20,10 @@ The game is an unofficial parody. It is not affiliated with the European Union, 
 ## Inside the game
 
 - Explore European cities and institutions, earn eight treaty badges, and collect 100 Euromons.
-- Meet political caricatures, watch illustrated cutscenes, and play touch-screen mini-games about translation, votes, paperwork and universal chargers.
-- Play in any of the **24 official EU languages**.
+- Learn something on every street: Syntagma's Evzones, the Bock casemates, Strasbourg's storks, the Schuman Declaration's Salon de l'Horloge, Budapest's baths, and more. Each local reference comes with its context.
+- Meet political caricatures, watch illustrated cutscenes, and play 21 touch-screen mini-games, from translation booths and plenary votes to loading a container ship in Piraeus.
+- Find the ECB's secret studio in Frankfurt and get your own portrait engraved on a specimen of the next euro banknotes: photo with the DSi camera, stylus drawing or official portrait.
+- Play in any of the **24 official EU languages** (written in English, translated into the 23 others).
 - Multiplayer offers online rooms and nearby wireless play.
 
 |   |   |   |

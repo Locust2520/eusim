@@ -143,8 +143,7 @@ int mg_billets(void)
         RGB8(40, 40, 60), RGB8(96, 80, 64), RGB8(214, 220, 232), RGB8(236, 196, 236), RGB8(150, 150, 172),
         RGB8(252, 250, 240)};
     mg_intro("Feel, look, tilt",
-             "Before touching the printing plate, prove you can spot a fake! Check each note the ECB's way: FEEL "
-             "the raised print, LOOK at it against the light, TILT it. Judge 10 notes, one mistake allowed.");
+             "Before touching the printing plate, prove you can spot a fake! Check each note the ECB's way: FEEL the raised print, LOOK at it against the light, TILT it. Judge 10 notes, one mistake allowed.");
     dyn_palette(pal, 16);
     int score = 0, mistakes = 0, frames = 75 * 60, goal = 10;
     while (frames > 0 && score < goal && mistakes < 2) {
@@ -180,7 +179,7 @@ int mg_billets(void)
             static const char *const why[3] = {"It was %s: the raised print was missing.",
                                                "It was %s: no watermark against the light.",
                                                "It was %s: the number did not change colour."};
-            char buf[96];
+            char buf[160];
             if (fake)
                 snprintf(buf, sizeof buf, T(why[flaw]), tr("a fake"));
             else
@@ -205,8 +204,7 @@ int mg_bembel(void)
                                 RGB8(255, 255, 255), RGB8(196, 210, 226)};
     enum { WOOD, WOOD_L, JUG, JUG_BLUE, GLASS, CIDER, CIDER_L, DARK, WHITE, GLASS_D };
     mg_intro("The Bembel",
-             "In a Sachsenhausen tavern, pour apple wine from the Bembel into each glass up to the line! Hold the "
-             "stylus (or A) to tilt the jug, let go to stop, then serve with the button. 8 glasses, 2 spills allowed.");
+             "In a Sachsenhausen tavern, pour apple wine from the Bembel into each glass up to the line! Hold the stylus (or A) to tilt the jug, let go to stop, then serve with the button. 8 glasses, 2 spills allowed.");
     dyn_palette(pal, 10);
     canvas_clear(&g_top, C_NAVY1);
     ui_text_in(&g_top, &font_main, 8, 60, 240, 22, "Apple-wine tavern, Sachsenhausen", C_GOLD, C_BLUE_D, 1);
@@ -284,7 +282,7 @@ int mg_bembel(void)
         }
     }
     return mg_outro(served >= goal && misses < 3,
-                    "Eight perfect glasses! Here in Frankfurt they call apple wine \"Ebbelwoi\".",
+                    "Eight perfect glasses! Here in Frankfurt they call apple wine “Ebbelwoi”.",
                     "Too many spilt glasses… The tavern keeper lends you a cloth.");
 }
 
@@ -322,8 +320,7 @@ int mg_evzones(void)
     static const u16 pal[6] = {RGB8(200, 32, 32), RGB8(248, 248, 244), RGB8(236, 196, 160), RGB8(40, 48, 90),
                                RGB8(20, 20, 24), RGB8(210, 210, 220)};
     mg_intro("The changing of the guard",
-             "Syntagma Square, the Tomb of the Unknown Soldier. Move in time with the Evzones: STEP, KICK, STOMP when "
-             "each sign reaches the line. 24 moves, slowly and solemnly. 4 mistakes allowed.");
+             "Syntagma Square, the Tomb of the Unknown Soldier. Move in time with the Evzones: STEP, KICK, STOMP when each sign reaches the line. 24 moves, slowly and solemnly. 4 mistakes allowed.");
     dyn_palette(pal, 6);
     static const char *const names[3] = {"Step", "Kick", "Stomp"};
     int moves[24];
@@ -342,7 +339,7 @@ int mg_evzones(void)
         canvas_rect(&g_top, 0, 150, 256, 42, C_DYN + 5);                // marble
         evzone_figure(84, 66, pose, false);
         evzone_figure(172, 66, pose, true);
-        char buf[32];
+        char buf[96];
         snprintf(buf, sizeof buf, T("Moves: %d / 24 · mistakes: %d"), hits, misses);
         ui_text_in(&g_top, &font_small, 0, 4, 256, 14, buf, C_WHITE, 0, 1);
         ui_backdrop(&g_bot);
@@ -451,8 +448,7 @@ int mg_periptero(void)
                                            "(A little evil-eye charm, please!)", "(A ticket, please!)",
                                            "(Chewing gum, please!)"};
     mg_intro("The periptero",
-             "Rush hour at the kiosk! Each customer asks in Greek: tap what they want. I'll whisper the meaning for "
-             "the first ones. 15 customers in 60 seconds!");
+             "Rush hour at the kiosk! Each customer asks in Greek: tap what they want. I'll whisper the meaning for the first ones. 15 customers in 60 seconds!");
     dyn_palette(pal, 5);
     int served = 0, frames = 60 * 60, goal = 15, want = -1, mood = 0;
     while (frames > 0 && served < goal) {
@@ -520,6 +516,13 @@ static void plug_icon(int x, int y, u8 col)
     canvas_rect(&g_bot, x + 4, y + 8, 2, 3, col);
 }
 
+// the "heavy" letter, centred on a 28-px container; each language picks its own letter, named in the rules
+static void heavy_mark(int x, int y)
+{
+    const char *h = tr("H");
+    canvas_text(&g_bot, &font_small, x + (28 - font_width(&font_small, h)) / 2, y, h, C_WHITE, 0);
+}
+
 static void snow_icon(int x, int y, u8 col)
 {
     canvas_hline(&g_bot, x, y + 4, 9, col);
@@ -538,8 +541,7 @@ int mg_conteneurs(void)
                                RGB8(80, 170, 90), RGB8(240, 244, 248), RGB8(60, 60, 70), RGB8(240, 200, 40)};
     enum { SEA, SEA_D, HEAVY, MEDIUM, LIGHT, REEFER, HULL, CRANE };
     mg_intro("The port of Piraeus",
-             "Load three ships before noon! Move the crane with the stylus or ←/→, drop with A or a tap. Heavy (H) "
-             "never on top of lighter, refrigerated (white) only on the two powered columns (plugs), and keep the ship level!");
+             "Load three ships before noon! Move the crane with the stylus or ←/→, drop with A or a tap. Heavy (H) never on top of lighter, refrigerated (white) only on the two powered columns (plugs), and keep the ship level!");
     dyn_palette(pal, 8);
     int ship = 0, strikes = 0, frames = 100 * 60;
     bool lost = false;
@@ -547,7 +549,7 @@ int mg_conteneurs(void)
         int stack[BAYS][TIERS], height[BAYS] = {0}, count = 8 + ship * 2, placed = 0, trolley = 2;
         int limit = 5 - ship;   // allowed weight imbalance between port and starboard
         memset(stack, 0, sizeof stack);
-        int load = 0, kind = 0;   // kind: 1 light, 2 medium, 3 heavy, 4 reefer (weight 2)
+        int kind = 0;   // kind: 1 light, 2 medium, 3 heavy, 4 reefer (weight 2)
         while (placed < count && !lost && frames > 0) {
             if (!kind)
                 kind = 1 + rng_range(4);
@@ -576,7 +578,7 @@ int mg_conteneurs(void)
                     canvas_rect(&g_bot, bx, y, 28, 17, col);
                     canvas_box(&g_bot, bx, y, 28, 17, C_TEXT);
                     if (k == 3)
-                        canvas_text_n(&g_bot, &font_small, bx + 11, y + 3, "H", 1, C_WHITE, 0);
+                        heavy_mark(bx, y + 3);
                     if (k == 4)
                         snow_icon(bx + 10, y + 4, C_BLUE);
                 }
@@ -589,11 +591,11 @@ int mg_conteneurs(void)
             u8 col = kind == 3 ? C_DYN + HEAVY : kind == 2 ? C_DYN + MEDIUM : kind == 1 ? C_DYN + LIGHT : C_DYN + REEFER;
             canvas_rect(&g_bot, tx, 26, 28, 17, col);
             canvas_box(&g_bot, tx, 26, 28, 17, C_TEXT);
-            if (kind == 3) canvas_text_n(&g_bot, &font_small, tx + 11, 29, "H", 1, C_WHITE, 0);
+            if (kind == 3) heavy_mark(tx, 29);
             if (kind == 4) snow_icon(tx + 10, 30, C_BLUE);
             if (frames % 10 == 0) {
                 canvas_clear(&g_top, C_NAVY1);
-                char buf[48];
+                char buf[96];
                 snprintf(buf, sizeof buf, T("Ship %d/3 · containers %d/%d"), ship + 1, placed, count);
                 ui_text_in(&g_top, &font_main, 0, 36, 256, 22, buf, C_WHITE, C_BLUE_D, 1);
                 snprintf(buf, sizeof buf, T("Time: %d s · mistakes: %d/3"), frames / 60, strikes);
@@ -627,7 +629,6 @@ int mg_conteneurs(void)
                 }
                 stack[trolley][height[trolley]++] = kind;
                 placed++;
-                load++;
                 kind = 0;
                 sfx_play(wrong ? SFX_ERROR : SFX_STAMP);
                 if (wrong && ++strikes >= 3)
@@ -685,8 +686,7 @@ int mg_tapis(void)
     static const char cols[4] = {'r', 'y', 'w', 'o'};
     static const char *const names[4] = {"Red", "Yellow", "White", "Orange"};
     mg_intro("The flower carpet",
-             "Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. "
-             "Press Done when it matches. Three carpets in 90 seconds!");
+             "Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. Press Done when it matches. Three carpets in 90 seconds!");
     dyn_palette(pal, 5);
     int done = 0, frames = 90 * 60, sel = 0;
     while (done < 3 && frames > 0) {
@@ -759,8 +759,7 @@ int mg_cigognes(void)
                                RGB8(250, 250, 250), RGB8(40, 40, 50)};
     enum { SKY, ROOF, WALL, NEST, STORK, WIRE };
     mg_intro("The storks of Alsace",
-             "The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or "
-             "↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.");
+             "The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or ↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.");
     dyn_palette(pal, 6);
     static const int nest_x[5] = {60, 104, 148, 192, 236}, nest_y[5] = {130, 116, 138, 112, 126};
     bool full[5] = {0};
@@ -797,7 +796,7 @@ int mg_cigognes(void)
             canvas_rect(&g_bot, x + 4, sy - 2, 6, 2, C_DYN + ROOF);
             if (g_frame % 10 == 0) {
                 canvas_clear(&g_top, C_NAVY1);
-                char buf[48];
+                char buf[96];
                 snprintf(buf, sizeof buf, T("Storks home: %d / %d · lost: %d / 3"), landed, goal, lost);
                 ui_text_in(&g_top, &font_main, 0, 80, 256, 22, buf, C_WHITE, C_BLUE_D, 1);
             }
@@ -835,8 +834,7 @@ int mg_douane(void)
         {"Ham sandwich", true}, {"Cheese", true}, {"Milk", true}, {"Salami", true}, {"Apple", true},
         {"Banana", false}, {"Chocolate bar", false}, {"Crisps", false}, {"Biscuits", false}, {"Water", false}};
     mg_intro("EU customs",
-             "The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. "
-             "Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.");
+             "The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.");
     int checked = 0, mistakes = 0, frames = 50 * 60, goal = 20;
     while (checked < goal && mistakes <= 2 && frames > 0) {
         int item = rng_range(10);
@@ -920,8 +918,7 @@ static void board_draw(int p, int sel_f, int sel_r)
 int mg_echecs(void)
 {
     mg_intro("Chess in the baths",
-             "Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move "
-             "that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!");
+             "Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!");
     int solved = 0, frames = 90 * 60;
     while (solved < 3 && frames > 0) {
         int sel_f = -1, sel_r = -1;
@@ -967,7 +964,7 @@ int mg_echecs(void)
             }
         }
     }
-    return mg_outro(solved >= 3, "Three checkmates! In the baths, the loser traditionally gets out of the water first.",
+    return mg_outro(solved >= 3, "Three checkmates! In the baths, they say the loser has to get out of the water first.",
                     "The water went cold before the mate… Look for the move that leaves the king no square at all.");
 }
 
@@ -983,8 +980,7 @@ int mg_schuman(void)
         "Franco-German coal and steel will be placed under a common High Authority…",
         "…so that war between France and Germany becomes materially impossible."};
     mg_intro("The Schuman Declaration",
-             "9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the "
-             "sentences in the right order before the press conference. 60 seconds.");
+             "9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the sentences in the right order before the press conference. 60 seconds.");
     int order[6] = {0, 1, 2, 3, 4, 5};
     shuffle_ints:
     for (int i = 5; i > 0; i--) {
@@ -1046,8 +1042,7 @@ int mg_casemates(void)
     static const u16 pal[4] = {RGB8(20, 18, 16), RGB8(120, 100, 76), RGB8(170, 146, 110), RGB8(250, 220, 120)};
     enum { DARK, ROCK, FLOOR, LIGHT };
     mg_intro("The Bock casemates",
-             "The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! "
-             "Move with the +Control Pad, or tap next to your character. 75 seconds.");
+             "The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! Move with the +Control Pad, or tap next to your character. 75 seconds.");
     dyn_palette(pal, 4);
     static u8 maze[MZH][MZW];
     static u8 seen[MZH][MZW];

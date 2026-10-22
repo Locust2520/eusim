@@ -1,0 +1,523 @@
+# Croatian — city extensions (ids 2169+)
+2169	LAŽNA
+2171	%d s · %d/%d
+2172	Reljefne crte na rubovima: možeš ih opipati.
+2173	Papir je posvuda gladak…
+2174	Opipaj
+2175	Pogledaj
+2176	Nagni
+2177	Provjeri, pa odluči:
+2178	Prava
+2179	Lažna
+2180	L/R: nagni · X: prema svjetlu · Y: opipaj
+2181	Opipaj, pogledaj, nagni
+2184	Bila je %s: nedostajao je reljefni tisak.
+2185	Bila je %s: nema vodenog žiga prema svjetlu.
+2186	Bila je %s: broj nije promijenio boju.
+2187	krivotvorina
+2188	Bila je prava novčanica!
+2189	Nijedna krivotvorina nije prošla! U vodenom žigu vidio si Europu, s grčke vaze stare više od 2000 godina.
+2190	Krivotvorina je promakla… Opipaj, pogledaj, nagni: tri provjere traju samo nekoliko sekundi.
+2191	Bembel
+2194	Posluži
+2196	Previše prolivenih čaša… Krčmar ti posuđuje krpu.
+2197	Maria Callas
+2198	Ludwig van Beethoven
+2199	Marie Curie
+2200	Miguel de Cervantes
+2201	Leonardo da Vinci
+2202	Bertha von Suttner
+2203	ulični izvođači
+2204	festival pjesme
+2205	škola
+2206	knjižnica
+2207	ulična umjetnost
+2208	trg s drvoredom
+2209	zidni puzavac kraj planinskog izvora
+2210	vodomar kraj slapa
+2211	pčelarice u riječnoj dolini
+2212	bijela roda uz meandar rijeke
+2213	sabljarka na ušću rijeke
+2214	sula nad morem
+2215	Europski parlament
+2216	Europska komisija
+2217	Europska središnja banka
+2218	Sud Europske unije
+2219	Europsko vijeće i Vijeće EU-a
+2220	Europski revizorski sud
+2221	Prednja strana: tvoj portret umjesto lika: %s
+2222	Stražnja strana: %s
+2223	Prednja strana: %s
+2224	Uzorak novčanice – %d €
+2225	Nije zakonsko sredstvo plaćanja: ovo je uzorak dizajna.
+2227	L/R ili dodir: okreni · B: zatvori
+2228	Svijetlo
+2229	Srednje
+2230	Tamno
+2231	Gumica
+2234	Poništi
+2235	Obriši
+2236	Gotovo
+2237	Nacrtaj svoj portret
+2238	Studio ga gravira poput portreta na novčanici.
+2239	Tvoj uzorak novčanice
+2240	Europska kultura
+2241	Rijeke i ptice
+2242	Okreni
+2243	Novi portret
+2244	Ispiši uzorak
+2245	Ispis…
+2246	Tvoj portret za uzorak
+2247	DSi kamera, olovka ili tvoja službena fotografija.
+2248	Olovka ili tvoja službena fotografija.
+2249	Slikaj se
+2250	Nacrtaj portret
+2251	Službena slika
+2252	Kamera se ovdje ne može koristiti. Umjesto toga možeš nacrtati portret.
+2253	Tvoj uzorak novčanice pridružio se zbirci Muzeja novca u Frankfurtu.
+2254	U Frankfurtu studio ESB-a još čuva prazan uzorak s tvojim imenom.
+2255	Pokretanje kamere…
+2256	Smjesti lice u ovalni okvir
+2257	A ili dodir: snimi · L/R: druga kamera · B: natrag
+2258	Probno graviranje
+2259	Ponovi
+2260	Zadrži
+2261	Među nama: euro je postao gotovina, u džepovima ljudi, 2002. Neka vrata u ovom tornju još pamte tu godinu.
+2262	Znak eura umjetnika Ottmara Hörla, otkriven 2001. ispred nekadašnjeg tornja ESB-a.
+2263	Nekoliko tjedana poslije, 1. siječnja 2002., eurske novčanice i kovanice stigle su u džepove ljudi u dvanaest zemalja.
+2264	Spomen-obilježje Grossmarkthalle.
+2265	Između 1941. i 1945. oko 10 000 Židova, muškaraca, žena i djece iz Frankfurta i okolice deportirano je iz podruma ove tržnice u getoe i logore. Većina ih je ubijena.
+2266	Grad Frankfurt, Židovska općina i ESB, čije sjedište danas obuhvaća i halu, zajedno su podigli ovaj spomenik.
+2267	Römer, frankfurtska gradska vijećnica od 1405. U njegovoj Carskoj dvorani tek okrunjeni carevi Svetog Rimskog Carstva priređivali su krunidbene gozbe.
+2268	Kuće s vidljivim drvenim okvirom na Römerbergu. Bombardiranje je 1944. uništilo staru jezgru; ovaj je niz obnovljen osamdesetih, greda po greda.
+2269	Fontana pravde. Pogledaj dobro: ova Justicija drži vagu i mač, ali nema povez na očima.
+2270	Ovaj grad zovu „Mainhattan”: neboderi na rijeci Majni. Izbrojio sam jedanaest dizalica i četiri banke. Ili obrnuto.
+2271	Godine 1848. i 1849. u ovoj je crkvi zasjedao prvi slobodno izabrani parlament za cijelu Njemačku.
+2272	Napisao je ustav s temeljnim pravima. Nikad nije stupio na snagu, ali su se kasniji njemački ustavi na njega oslanjali.
+2273	Vodič
+2274	Dvorana i danas ima svoje velike dane: svakog listopada ovdje se dodjeljuje Nagrada za mir njemačkih knjižara.
+2275	Bik juriša rogovima prema gore: tržište raste.
+2276	Medvjed šapom udara prema dolje: tržište pada.
+2277	Ploča DAX-a. Najpoznatiji njemački burzovni indeks pokrenut je ovdje 1988.
+2278	Kupuj na glasinu, prodaj na vijest. I nikad, baš nikad ne prodaj kišobran u travnju.
+2279	Johann Wolfgang von Goethe rodio se u ovoj kući 28. kolovoza 1749. Na Faustu je radio šezdesetak godina.
+2280	Njegovo ime danas putuje svijetom: Goethe-Institut poučava njemački u gotovo stotinu zemalja.
+2281	Messeturm se uzdiže nad sajmištem. Svakog listopada ondje se održava Frankfurtski sajam knjiga, najveći sajam knjiga na svijetu.
+2282	Čitatelj
+2283	Došao sam zbog Sajma knjiga, a ostao zbog zelenog umaka. Pročitao sam tri knjige i pojeo pet umaka.
+2284	Željezni pješački most preko Majne, izgrađen 1869. Na njegovim ogradama vise tisuće lokota: obećanja zaljubljenih.
+2285	Par
+2286	Zaključali smo lokot na mostu i bacili ključ u Majnu. Još moramo odlučiti čija je to bila ideja.
+2287	Frankfurtčanin
+2288	Na drugoj obali je Sachsenhausen. Tamo pijemo Ebbelwoi, jabukovaču. Ali ovdje je nitko ne zove cider, da znaš.
+2289	Iznad vrata visi borov vijenac: znak da ova taverna sama prešava i toči svoju jabukovaču.
+2290	Gazdarica
+2291	Guten Abend! Jabukovača se toči iz Bembela, sivog kamenog vrča, u Gerippte, čašu s rombastim uzorkom.
+2292	Večeras imam punu sobu i samo dvije ruke. Ti puniš čaše, ja ih nosim?
+2293	Želiš još jedan krug iza šanka?
+2294	Ni kapi na mojim stolovima! Evo, uzmi ovo i dođi opet kad god želiš.
+2295	Opet savršeno. Mogao bi otvoriti vlastitu tavernu. Samo objesi borov vijenac iznad vrata.
+2296	Ach, stolovi plivaju! Ništa, obrisat ćemo.
+2297	Stalni gost
+2298	Handkäs mit Musik: kiselomliječni sir mariniran s lukom. Glazba dolazi poslije. Ne pitaj.
+2299	Zeleni umak traži točno sedam trava: boražinu, krebuljicu, potočarku, peršin, malu krvaru, kiselicu i vlasac.
+2300	Od 2016. EU štiti „Frankfurter Grüne Soße” kao zemljopisnu oznaku. Sedam trava, ni više ni manje.
+2301	Prava zlatna poluga od 12,5 kilograma koju posjetitelji smiju podići. Većina uspije nekoliko centimetara.
+2302	Od školjki do kovanica, od kovanica do papira, od papira do eura: tri tisuće godina novca na nekoliko polica.
+2303	Kustos
+2304	Bundesbank je središnja banka Njemačke. Od 1999. dio je Eurosustava, zajedno s ESB-om i ostalim središnjim bankama europodručja.
+2305	Čujem da imaš uzorak novčanice sa svojim licem. Kad tvoja avantura završi, rado bismo ga imali u zbirci.
+2306	Portret Europe, princeze iz grčkog mita koja je kontinentu dala ime.
+2307	Njezino lice potječe s grčke vaze stare više od 2000 godina, koja se čuva u Louvreu. Podigni eursku novčanicu prema svjetlu: ona je u vodenom žigu.
+2308	Iza okvira svijetli mala tipkovnica. Četiri znamenke.
+2309	Utipkati šifru?
+2310	Tipkovnica treperi crveno. Negdje na burzovnom parketu netko uzdiše.
+2311	Klik. Slika se otvara na uske stepenice koje vode dolje…
+2312	Sići u tajni studio?
+2313	Radionica puna štafelaja, alata za graviranje i teške preše. Na vratima: „Dizajn novčanica – povjerljivo”.
+2314	Tema „Europska kultura”: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) i Bertha von Suttner (200 €).
+2315	Na poleđini: mjesta na kojima se kultura dijeli. Ulični izvođači, festival pjesme, škola, knjižnica, ulična umjetnost, trg s drvoredom.
+2316	Tema „Rijeke i ptice”: od planinskog izvora (5 €) do otvorenog mora (200 €), sa zidnim puzavcem, vodomarom, pčelaricama, bijelom rodom, sabljarkom i sulom.
+2317	Na poleđini: institucije EU-a, od Europskog parlamenta do Europskog revizorskog suda.
+2318	Deset završnih nacrta: EC145, EC564, EC617, EC799, EC915 i RB120, RB227, RB637, RB754, RB832.
+2319	Imena dizajnera ostaju tajna. Nakon javne ankete, konačni izbor donosi Upravno vijeće ESB-a.
+2320	Dubokotisna preša. Utiskuje tintu u papir tako snažno da ostaje u reljefu: to je reljefni tisak koji osjetiš na pravoj novčanici.
+2321	Specifikacije: iste veličine kao današnje novčanice, jedna dominantna boja po apoenu, a na svakoj novčanici europska zastava, karta Europe i potpis predsjednice ESB-a.
+2322	Član žirija
+2323	Godine 2025. na poziv ESB-a odazvalo se više od 1200 dizajnera. Trideset i devet prijedloga stiglo je pred žiri; deset ih je na ovim štafelajima.
+2324	Cilj je zamijeniti zamišljene mostove i prozore stvarnim ljudima, stvarnim pticama i stvarnim mjestima.
+2325	Eleni
+2326	Kaliméra! Ja sam Eleni, graverka dubokog tiska. Zanat sam izučila u tiskari Banke Grčke, u Ateni.
+2327	Službeno, ESB ne tiska nijednu novčanicu: on ih oblikuje, a tiskare diljem Europe ih proizvode.
+2328	Upravo pripremamo sljedeće eurske novčanice. Žiri je 2026. odabrao deset nacrta u dvije teme: europska kultura te rijeke i ptice.
+2329	Prije konačnog izbora moram isprobati graviranje na pravom licu. Eurske novčanice nikad nisu prikazivale živu osobu… pa će tvoja ostati uzorak.
+2330	Ali nitko ne dira moje ploče bez ispita. Opipaj, pogledaj, nagni: pokaži da razlikuješ pravu novčanicu od lažne.
+2331	Spreman?
+2332	Bravo! Imaš oko središnjeg bankara. Sad tvoj portret.
+2333	Novi uzorak? Preša je još topla.
+2334	Evo te, ugraviranog! Vidiš serijski broj? Prvo slovo, Y, šifra je Banke Grčke. Moj mali potpis.
+2335	Pokaži ga naokolo. I spremi igru u Izvještaju, da novčanica ostane uz tebe.
+2336	Krivotvorina je prošla. Opipaj, pogledaj, nagni: traje samo nekoliko sekundi. Vrati se kad budeš spreman.
+2337	Ne žuri. Dobro graviranje ne može se ubrzati.
+2338	Taverna jabukovače – Sachsenhausen
+2339	ESB – Studio za dizajn novčanica
+2340	Frankfurtska burza
+2341	Muzej novca Bundesbanke
+2342	Goetheova kuća – Frankfurt
+2343	Paulskirche – Skupštinska dvorana
+2344	Uzorak novčanice
+2345	Tvoj portret, ugraviran u studiju ESB-a u Frankfurtu. Nije zakonsko sredstvo plaćanja.
+2346	Taverna jabukovače, Sachsenhausen
+2348	Drži za nagib Bembela, pusti za stop. Posluži kad jabukovača dosegne crtu.
+2349	Smjena straže
+2352	Korak
+2353	Udari
+2354	Lupni
+2355	Pokreti: %d / 24 · greške: %d
+2356	←: korak · →: udari · A/↓: lupni
+2357	Savršeno u koraku! Evzoni mijenjaju stražu svakog sata, danju i noću, po svakom vremenu.
+2358	Izvan koraka… Evzoni se mjesecima obučavaju prije prve straže.
+2359	Frape
+2360	Voda
+2361	Novine
+2362	Kulouri
+2363	Brojanica
+2364	Mati
+2365	Karta
+2366	Žvakaća
+2367	(Jedan frape, molim!)
+2368	(Jednu vodu, molim!)
+2369	(Novine, molim!)
+2370	(Jedan kulouri, krug od peciva sa sezamom, molim!)
+2371	(Brojanicu, molim!)
+2372	(Malu amajliju protiv uroka, molim!)
+2373	(Jednu kartu, molim!)
+2374	(Žvakaću gumu, molim!)
+2375	Periptero
+2378	Petnaest zadovoljnih kupaca! Ευχαριστώ (efcharistó) znači hvala.
+2379	Red seže do sljedeće ulice… Σιγά σιγά (sigá sigá): polako, polako.
+2380	Luka Pirej
+2383	H
+2384	Brod %d/3 · kontejneri %d/%d
+2385	Vrijeme: %d s · greške: %d/3
+2386	Nagib
+2387	Tri broda ukrcana i uravnotežena! Pirej je jedna od najvećih kontejnerskih luka na Mediteranu.
+2388	Lučki kapetan prekida ukrcaj: brod nije siguran. Presloži i pokušaj ponovno!
+2389	Grob neznanog junaka (1932.), ispod Parlamenta. Evzoni Predsjedničke garde bdiju nad njim danju i noću.
+2390	Trg se zove Sintagma, „Ustav”: 1843. Atenjani su se ovdje okupili dok im kralj Oton nije dao ustav.
+2391	Evzon se ne miče. Ni trepavicom.
+2392	Njegovi tsarouchia, crvene klompe s crnim pomponima, teže otprilike tri kilograma svaka, sa šezdeset čavala u potplatu. Njegova bijela suknja, fustanela, ima 400 nabora: po jedan za svaku godinu osmanske vladavine, prema predaji.
+2393	Narednik evzona
+2394	Svakog sata straža se mijenja. Spori koraci, visok udarac, klompe udaraju o mramor: dva čovjeka kreću se kao jedan.
+2395	Danas nedostaje jedan regrut. Pratiš ritam sa mnom?
+2396	Još jedna smjena straže?
+2397	Nijedan korak izvan takta. Μπράβο (brávo)! Uzmi ovo, od straže.
+2398	Μπράβο (brávo)! Nedjeljom u jedanaest cijela satnija paradira u svečanoj odori. Dođi pogledati.
+2399	Tvoje klompe i bubanj nisu se složili. Treba mjeseci vježbe. Sutra ponovno?
+2400	Vlasnik kioska
+2401	Γεια σας (yia sas, pozdrav)! Periptero prodaje sve: novine, vodu, autobusne karte, bonove za mobitel, žvakaće gume, brojanice…
+2402	Nećak nije došao. Pričuvaš pult? Kupci govore grčki, ali ja ću šaptati značenje.
+2403	Opet gužva! Pomogneš mi?
+2404	Ευχαριστώ (efcharistó, hvala)! Sad govoriš kioskovski. Evo, na račun kuće.
+2405	Ευχαριστώ (efcharistó)! Red je nestao u rekordnom roku.
+2406	Σιγά σιγά (sigá sigá), polako, polako. To je i grčka poslovica.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): jedan srednje sladak frape, molim. Ledena kava tučena u pjenu.
+2408	Izmišljen je slučajno 1957., na Međunarodnom sajmu u Solunu: prodavaču je nedostajalo tople vode pa je instant kavu protresao s hladnom.
+2409	Metro stanica Sintagma. Kad se metro kopao devedesetih, arheolozi su pronašli desetke tisuća predmeta. Neki su izloženi u samoj stanici.
+2410	28. listopada je Dan Ochi (όχι, óchi, „ne”). Godine 1940. Grčka je rekla ne Mussolinijevu ultimatumu; svake godine školarci paradiraju ulicama.
+2411	Ne miješaj ga s OXI iz referenduma 2015. Dva poznata grčka „ne”, razmaknuta sedamdeset pet godina.
+2412	Drahma: naziv novca iz stare Grčke, vraćen 1832. za mladu grčku državu i zamijenjen eurom 2002.
+2413	Grčka kovanica od jednog eura prikazuje sovu božice Atene, preslikanu s antičkog atenskog novca, tetradrahme.
+2414	Banka Grčke ima vlastitu tiskaru: tiska i eurske novčanice.
+2415	Na novčanicama serije Europa prvo slovo serijskog broja pokazuje središnju banku koja ih je naručila. Naše je Y.
+2416	Y na tvom uzorku? Onda dobro došao kući!
+2417	Anafiotika: u 19. stoljeću graditelji s otoka Anafija došli su raditi na kraljevskoj palači i ovdje, pod Akropolom, sagradili sebi malo kikladsko selo.
+2418	Μιάου (miáou). Atena ima tisuće uličnih mačaka; susjedi i volonteri hrane ih, čak i među ruševinama.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Jesi li jeo? Smršavio si. Sjedni. Jedi.
+2421	Yiayia je nahranila cijelu tvoju ekipu dok se nitko nije mogao pomaknuti. Svi su opet u formi.
+2422	Γιαγιά (yiayiá) znači baka. A yiayia nikad ne vjeruje kad kažeš da si sit.
+2423	Susjed
+2424	Χρόνια πολλά (chrónia pollá)! Mnogo godina! Danas mi je imendan.
+2425	U Grčkoj često više slavimo blagdan sveca po kojem smo dobili ime nego rođendan. Pola ulice zove se Giorgos: zamisli dan svetog Jurja.
+2426	Ναι (nai) znači da! Turistima zvuči kao „ne”. A όχι (óchi) znači ne.
+2427	Ako zabacim glavu i kliknem jezikom, to je također ne. Lako!
+2428	Prodavač na štandu
+2429	Μάτι (máti), oko! Plavo stakleno oko štiti te od uroka, zle sreće koja dolazi iz zavisti.
+2430	Ako netko pohvali tvog Euromona, reci „φτου φτου” (ftou ftou), kao da pljuješ. Za sreću. Nemoj stvarno pljuvati.
+2431	Sirar
+2432	Feta je zaštićena oznaka izvornosti od 2002.: prava feta proizvodi se u Grčkoj od ovčjeg mlijeka, ponekad uz malo kozjeg.
+2433	Njemačka i Danska osporile su je pred Sudom EU-a. Godine 2005. Sud je rekao: feta je grčka.
+2434	Kuhar na roštilju
+2435	Suvlaki! U Ateni to je meso na štapiću. U Solunu isto zovu kalamaki, „štapić”.
+2436	Zatraži „suvlaki” u Solunu i dobit ćeš pitu s gyrosom. Obitelji su se razišle i zbog manjega.
+2437	Glazbenik
+2438	Svi misle da je sirtaki stari narodni ples. Smišljen je za film „Grk Zorba” 1964., uz glazbu Mikisa Theodorakisa.
+2439	Prvo polako, zatim sve brže i brže… Opa!
+2440	Stanica Monastiraki. Linija 1 prati prugu Atena–Pirej, otvorenu 1869.: najstariju liniju mreže.
+2441	Vlakom do luke Pirej?
+2442	Odeon Heroda Atika, sagrađen 161. godine Godine 1944. mlada sopranistica koja je studirala na atenskom Konzervatoriju pjevala je ovdje Beethovenova „Fidelija”: Maria Callas.
+2443	Callas i Beethoven pojavljuju se na završnim nacrtima sljedećih eurskih novčanica, na novčanicama od 5 i 10 eura u temi kulture.
+2444	Ove bijele ploče su gipsani odljevi. Originali su od 1816. u Britanskom muzeju u Londonu.
+2445	Grčka službeno traži njihov povratak od 1983. Muzej drži njihova mjesta spremnima, uz originalne dijelove.
+2446	Izvorni blok Partenonskog friza: konjanici panatenejske povorke, isklesani oko 440. pr. Kr.
+2447	Muzej Akropole otvoren je 2009. Ovaj gornji kat zakrenut je tako da se poravna s Partenonom, koji vidiš kroz staklo.
+2448	Friz ide u krug, u izvornom redoslijedu. Mramor boje meda: ovdje. Bijeli gips: u Londonu.
+2449	Zappeion. Ovdje je 28. svibnja 1979. Grčka potpisala ugovor o pristupanju Europskim zajednicama.
+2450	Postala je deseta članica 1. siječnja 1981. Euro je slijedio 2001., godinu prije kovanica i novčanica.
+2451	Melina Mercouri (1920.–1994.), glumica, potom ministrica kulture. Predložila je Europsku prijestolnicu kulture: Atena je bila prva, 1985.
+2452	Pokrenula je i kampanju za povrat partenonskih skulptura.
+2453	Panatenejski stadion, jedini veliki stadion na svijetu u potpunosti izgrađen od mramora. Prve moderne Olimpijske igre održane su ovdje 1896.
+2454	Svake dvije godine ovdje se olimpijski plamen predaje sljedećem gradu domaćinu.
+2455	Kontejnerski terminal kojim upravlja COSCO Shipping. Kineska grupa kupila je 51 % Lučke uprave Pireja 2016., a 67 % 2021.
+2456	Lučki čuvar
+2457	Kontejnerski terminal zatvoren je za posjetitelje. Putnička luka je sva tvoja.
+2458	Ne ovuda, molim: kontejnerski terminal.
+2459	Stanica Pirej, završna stanica Linije 1. Zgrada potječe iz 1929.
+2460	Vlakom natrag u Atenu?
+2461	Kamenje zidina Pireja. U 5. stoljeću pr. Kr. Temistoklo je od Pireja napravio luku Atene, a Duge zidine povezivale su dva grada.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), „Djeca Pireja”! Manos Hadjidakis napisao ju je za film „Nikad nedjeljom” (1960.), s Melinom Mercouri u glavnoj ulozi.
+2463	Osvojila je Oscara za najbolju pjesmu. U Francuskoj ju je Dalida pretvorila u hit: „Les Enfants du Pirée”.
+2464	Ribar
+2465	Tamo je Mikrolimano, mala luka: ribarski brodovi i taverne gdje je riba jutros još plivala.
+2466	Ovuda do Stadiona Karaiskakis, doma Olympiacosa. Klub je 2024. osvojio UEFA Europsku konferencijsku ligu: prvi europski trofej jednog grčkog nogometnog kluba.
+2467	Trajekti za otoke: Egina, Hidra, Kiklade, Kreta… Pirej je jedna od najprometnijih putničkih luka u Europi.
+2468	Grčki brodovlasnici kontroliraju otprilike petinu svjetske trgovačke flote: više od bilo koje druge zemlje.
+2469	Predradnik u luci
+2470	Ti, pripravniče! Brod isplovljava u podne, a moj kranist štrajka. Jesi li ikad ukrcavao kontejnerski brod?
+2471	Teški kontejneri na dno, hlađeni na redove s priključkom, i drži brod uravnoteženim, inače se nagne.
+2472	Još jedan brod za ukrcaj?
+2473	Ravno kao strijela! Evo tvoje plaće. Nemoj sve potrošiti na suvlaki.
+2474	Još jedan brod isplovio na vrijeme. Kapetan te pozdravlja.
+2475	Nagnuo se kao loše raspoloženje. Preslagat ćemo. Opet?
+2476	Banka Grčke – Muzej
+2477	Muzej Akropole – Partenonska galerija
+2478	Luka Pirej
+2479	Kuća – Plaka
+2480	Razglednice žirija: %d od 12.
+2481	To je svih dvanaest motiva! Eleni, u studiju ESB-a u Frankfurtu, htjet će ih vidjeti.
+2482	Svih dvanaest razglednica! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… i šest ptica. Vidio si više Europe nego žiri.
+2483	Od sada moja preša ispisuje tvoje uzorke u zlatnom izdanju. I uzmi ovo, od studija.
+2484	Još nešto: žiri je razglednice s dvanaest motiva razaslao diljem Europe. Ako ih pronađeš sve, vrati se: ugravirat ću zlatno izdanje.
+2485	Gradska vijećnica u Bruxellesu, izgrađena u 15. stoljeću. Na vrhu njezina tornja visokog 96 metara sveti Mihael ubija zmaja.
+2486	Grand-Place oko nje na UNESCO-ovu je popisu svjetske baštine od 1998.
+2487	Cehovske kuće: pekari, lađari, pivari… svaki je ceh imao svoju kuću, pozlaćenu da pokaže bogatstvo.
+2488	Manneken-Pis: 55 centimetara bronce. Ima više od tisuću kostima, koje čuva u vlastitom muzeju garderobe.
+2489	Službeni odjevač
+2490	Danas je odjeven kao… on sam. Sutra vatrogasac. Sljedeći tjedan astronaut. Odijevanje kipa posao je s punim radnim vremenom.
+2491	Vlasnik fritkota
+2492	Pravi belgijski pomfrit prži se dvaput: jednom da se ispeče, jednom da postane hrskav.
+2493	Gladan? Probaj mitraillette: pola bagete, meso, umak i pomfrit unutra. Da, unutra.
+2494	Prodavač vafla
+2495	Briselska vafla: lagana, pravokutna, posuta šećerom. Liješka vafla: gušća, s bisernim šećerom karameliziranim iznutra.
+2496	Izbor među njima razdvaja obitelji generacijama. Ja prodajem obje. Vrlo diplomatski.
+2497	Zidovi Bruxellesa prekriveni su desecima murala sa stripovima. Belgija strip shvaća jednako ozbiljno kao čokoladu.
+2498	Ovuda do Galeries Royales Saint-Hubert (1847.), jedne od najstarijih natkrivenih trgovačkih pasaža u Europi.
+2499	Godine 1912., u ovim pasažama, čokoladar Jean Neuhaus izumio je punjenu čokoladu: pralinu.
+2500	Grand-Place / Grote Markt. U Bruxellesu je svaki naziv ulice napisan na francuskom i nizozemskom: regija glavnoga grada službeno je dvojezična.
+2501	Belgija ima tri službena jezika: nizozemski, francuski i njemački.
+2502	Stanovnik Bruxellesa
+2503	Allez, une fois! Tako zamišljaju da govorimo u Bruxellesu. A, pa… ponekad i govorimo.
+2504	Vrtlar
+2505	Svake druge godine u kolovozu tepih od begonija prekriva Grand-Place. Prvi je postavljen 1971.
+2506	Stotine tisuća cvjetova, ručno položenih u nekoliko sati. Fali mi jedan volonter. Hoćeš saditi sa mnom?
+2507	Još jedan tepih? Begonije čekaju.
+2508	Veličanstveno! Čak i cehovske kuće izgledaju ljubomorno. Evo, od grada.
+2509	Još jedno remek-djelo. Za nekoliko dana cvijeće će nestati, ali fotografije će ostati.
+2510	Uzorak je postao pomalo… apstraktan. Magritteu bi se svidio.
+2511	Most velike vojvotkinje Charlotte, zvani Crveni most, povezuje staru jezgru s visoravni Kirchberg, visoko iznad doline Alzette.
+2512	Veliki vojvodski dvorac, u srcu stare jezgre. Luksemburg je jedino preostalo veliko vojvodstvo na svijetu.
+2513	Stražar korača osam koraka, okrene se, korača osam koraka natrag. Vrlo je opuštajuće gledati.
+2514	Europski revizorski sud: financijski nadzornik EU-a. Provjerava kako se troši europski novac, euro po euro.
+2515	Na jednom od završnih nacrta sljedećih novčanica pojavljuje se na poleđini novčanice od 200 eura.
+2516	Od 29. veljače 2020. sav je javni prijevoz u Luksemburgu besplatan: autobusi, tramvaji, vlakovi. Prva zemlja na svijetu koja je to učinila.
+2517	Gëlle Fra, zlatna dama Spomenika sjećanja, odaje počast Luksemburžanima poginulima u svjetskim ratovima.
+2518	Okupatorske snage srušile su je 1940.; potpuno je obnovljena i vraćena na stup 1985.
+2519	Schueberfouer! Sajam od 1340., osnovao ga je Ivan Slijepi, grof Luksemburga. Svake godine na kraju ljeta.
+2520	Luksemburžanin
+2521	Moien! Tako se kaže zdravo na luksemburškom. Ovdje imamo tri administrativna jezika: luksemburški, francuski i njemački.
+2522	Većina nas prelazi s jednog na drugi u istoj rečenici. Ponekad se uvuče i engleski.
+2523	Na zidu: „Mir wëlle bleiwe wat mir sinn” („Želimo ostati ono što jesmo”), državno geslo.
+2524	Dobro došao u kazamate Bock: 17 kilometara tunela uklesanih u stijenu, dio UNESCO-ova popisa svjetske baštine.
+2525	Tijekom bombardiranja u Drugom svjetskom ratu ovdje je utočište našlo do 35 000 ljudi.
+2526	Posjetitelj se izgubio u mračnim galerijama s mojom posljednjom bakljom. Možeš li pronaći izlaz i dovesti ga natrag?
+2527	Još jedan obilazak galerija?
+2528	Oboje van u jednom komadu! Utvrdu su zvali „Gibraltar sjevera”. Uzmi ovo za trud.
+2529	Galerije poznaješ bolje od vojnika iz 1700.
+2530	Baklja se ugasila… Ne brini, znam put. Pokušajmo ponovno.
+2531	Pont de l'Europe prelazi Rajnu. S druge strane je Kehl, u Njemačkoj. Od 2017. čak i tramvaj prelazi granicu.
+2532	Putnik na posao
+2533	Živim u Kehlu, a radim u Strasbourgu. Svako jutro promijenim državu za četiri minute. Nitko mi ne provjerava putovnicu.
+2534	Ovdje je Vijeće Europe, osnovano 1949.: 46 država članica i Europski sud za ljudska prava. Nije dio EU-a.
+2535	Ne miješaj ga s Europskim vijećem (šefovi država i vlada EU-a) ni s Vijećem EU-a (ministri). Čak i novinari to rade.
+2536	Plavu zastavu s dvanaest zlatnih zvijezda prvi je usvojilo Vijeće Europe, 1955. EU ju je preuzeo kasnije.
+2537	Portret Berthe von Suttner (1843.–1914.), autorice romana „Dolje oružje!” i prve žene koja je primila Nobelovu nagradu za mir, 1905.
+2538	Ona je lik s novčanice od 200 eura na završnim nacrtima ESB-a na temu „Europska kultura”.
+2539	Himna Europe je preludij „Ode radosti” iz Beethovenove Devete simfonije. Vijeće Europe usvojilo ju je 1972., EU 1985.
+2540	Nema službenog teksta: u Europi je svi pjevušimo na istom jeziku.
+2541	Zvonik katedrale visok je 142 metra. Od 1647. do 1874. bio je najviša zgrada na svijetu.
+2542	Astronomski sat. Mehanizam potječe iz 1842. Svaki dan u pola jedan dvanaest apostola paradira pred Kristom.
+2543	Katedrala je izgrađena od ružičastog pješčenjaka iz Vogeza. Zato crveni u sumrak.
+2544	Christkindelsmärik se ovdje održava od 1570.: jedan od najstarijih božićnih sajmova u Europi.
+2545	Kuhar u winstubu
+2546	Flammekueche! Tanko tijesto, vrhnje, luk, slanina, pečeno u krušnoj peći za dvije minute. Na francuskom kažu tarte flambée.
+2547	Strasbourške zakletve, položene ovdje 842. od dvojice Karlovih unuka, među najstarijim su tekstovima na starofrancuskom i starovisokonjemačkom.
+2548	Svaki je kralj prisegnuo na jeziku onog drugog, da bi tuđa vojska razumjela. Tumačenje ovdje ima dugu povijest.
+2549	Ornitolog
+2550	Bijela roda je simbol Alzasa. Godine 1974. u regiji je ostalo samo devet parova.
+2551	Zahvaljujući programu ponovnog naseljavanja, danas ih je nekoliko stotina parova. A bijela roda je na završnom nacrtu novčanice od 50 eura!
+2552	Pridošlice traže svoja gnijezda. Možeš li ih navesti, podalje od električnih žica?
+2553	Dolaze još roda. Navesti ih ponovno?
+2554	Svaki je par kod kuće! Evo, za fond za zaštitu roda… mislim, za tebe.
+2555	Krovovi Petite France puni su klepetanja kljunova. To je zvuk proljeća ovdje.
+2556	Neke su se zapetljale kod žica… Dobro su, samo malo ljute. Opet?
+2557	Soba 18: skulpture s Partenona u Ateni, koje su agenti lorda Elgina uklonili između 1801. i 1812., a Britanski muzej kupio 1816.
+2558	Grčka traži njihov povratak od 1983. U Ateni Muzej Akropole drži njihova mjesta spremnima.
+2559	Grčki posjetitelj
+2560	Došao sam čak iz Atene vidjeti naše mramore. Zatim ću se vratiti u Muzej Akropole i gledati bijele kopije ovih.
+2561	Jedan friz, dva grada. Možda jednog dana opet jedan grad.
+2562	Crvena telefonska govornica, model K6 dizajniran 1935. Danas neke od njih sadrže defibrilatore, druge male knjižnice.
+2563	Londonski metro otvoren je 1863.: prva podzemna željeznica na svijetu. „Mind the gap!”
+2564	Nakon Brexita, UK je napustio Erasmus. U prosincu 2025. pristao je vratiti se od 2027. Moja mlađa sestra moći će studirati u Bologni!
+2565	Nizozemski carinik
+2566	Od 1. siječnja 2021. UK je izvan carinskih i veterinarskih pravila EU-a: putnici više ne smiju unositi meso ni mliječne proizvode u EU.
+2567	Tog mjeseca moji kolege u Hoek van Hollandu morali su zaplijeniti sendviče sa šunkom. „Welcome to the Brexit, sir, I'm sorry.”
+2568	Jutarnji trajekt se ukrcava. Pomozi mi pregledati kutije za ručak?
+2569	Još jedan trajekt, još sto kutija za ručak. Opet mi pomažeš?
+2570	Nijedan sendvič sa šunkom nije prošao. Evo, nagrada bez sira i bez šunke.
+2571	Učinkovit i uljudan. Bio bi odličan carinik.
+2572	Salama je prešla Kanal… Veterinarski inspektori htjet će porazgovarati.
+2573	Vozač kamiona
+2574	Prije Brexita prelazio sam kamionom bez zaustavljanja. Sad: carinske deklaracije, zdravstvene potvrde, kontrole. Pročitao sam više obrazaca nego romana.
+2575	Kampanjski autobus. Godine 2016. na boku je obećavao 350 milijuna funti tjedno za nacionalnu zdravstvenu službu.
+2576	Godine 2017. predsjednik britanskog Statističkog ureda tu je brojku nazvao „jasnom zlouporabom službene statistike”.
+2577	Promatrač ptica
+2578	Sule zaranjaju u more brzinom od gotovo stotinu kilometara na sat. Najveća kolonija na svijetu je na Bass Rocku, u Škotskoj.
+2579	ESB je jednu stavio na završni nacrt novčanice od 200 eura: otvoreno more, sklopljena krila, pljusak.
+2580	Šahist
+2581	Termalno kupalište Széchenyi, 1913.: jedno od najvećih ljekovitih kupališta u Europi. Ovdje igramo šah do ramena u vrućoj vodi.
+2582	Mađarska je svijetu dala Judit Polgár, najjaču šahistkinju svih vremena: velemajstorica s petnaest godina, a 2002. pobijedila je Kasparova.
+2583	Tri pozicije, mat u jednom potezu svaka. Možeš li ih pronaći prije nego se voda ohladi?
+2584	Nove pozicije na plutajućoj ploči. Još jedan krug?
+2585	Tri mata! Igraš kao velemajstor u kućnom ogrtaču. Uzmi ovo.
+2586	Mat, mat, mat. Para te tjera da brže misliš.
+2587	Voda se ohladila… Sljedeći put traži potez koji kralju ne ostavlja nikamo.
+2588	Ruin barovi: stara dvorišta bivše židovske četvrti pretvorena u barove s neusklađenim namještajem. Prvi su otvoreni početkom 2000-ih.
+2589	Barmen
+2590	Egészségedre! Tako se u mađarskom nazdravlja. Pokušaj to reći nakon druge čaše fröccsa: vina i gazirane vode.
+2591	Prodavač langoša
+2592	Lángos: prženo tijesto, češnjak, kiselo vrhnje i ribani sir. Nije dijeta. Tradicija.
+2593	Rubikovu kocku izumio je u Budimpešti 1974. Ernő Rubik, da bi studente poučio prostoru. Ja sam je riješio za dvije minute. Ili jednu stranu.
+2594	Cipele na obali Dunava (2005.). Šezdeset pari željeznih cipela podsjeća na budimpeštanske Židove koje su strijeljali pripadnici Strelastog križa na ovoj obali 1944. i 1945. i bacali u rijeku.
+2595	Lančani most, otvoren 1849.: prvi stalni most između Buda i Pešte, projektirao ga je engleski inženjer William Tierney Clark.
+2596	Njegovi kameni lavovi nemaju jezike… kako kaže legenda. Pogledaj dobro.
+2597	Ribarski bastion na Dvorskom brdu: sedam tornjeva, za sedam mađarskih plemena koja su se naselila u Karpatskoj kotlini.
+2598	Pčelarice! Najšarenije ptice Europe. Gnijezda kopaju u pješčanim riječnim obalama i love pčele u letu.
+2599	Mađarska ima neke od najvećih kolonija. Na završnim nacrtima ESB-a, kolonija ih ukrašava novčanicu od 20 eura.
+2600	Jezikoslovac
+2601	Mađarski nije srodan jezicima susjeda: pripada uralskoj jezičnoj obitelji, kao finski i estonski.
+2602	A prezime dolazi prvo: Rubik Ernő, Polgár Judit. Lako za zapamtiti, teško za izgovoriti.
+2603	László Bíró, rođen u Budimpešti, patentirao je 1938. suvremenu kemijsku olovku. U mnogim zemljama kemijska se i danas zove „biro”.
+2604	Salon de l'Horloge. Dana 9. svibnja 1950. u 18 sati Robert Schuman, francuski ministar vanjskih poslova, ovdje je pročitao deklaraciju kojom je predložio udruživanje francuskog i njemačkog ugljena i čelika.
+2605	Iz nje je 1951. nastala Europska zajednica za ugljen i čelik, prvi korak današnje EU. Svakog 9. svibnja je Dan Europe.
+2606	Arhiv je pomiješao stranice deklaracije! Novinari stižu. Možeš li poredati rečenice?
+2607	Stranice su opet pomiješane. Pomozi mi?
+2608	Od riječi do riječi! G. Schuman bi ti stisnuo ruku. Uzmi ovo, od ministarstva.
+2609	Savršeno posloženo. Europa se neće izgraditi odjednom, ali ti si brz.
+2610	Ne baš… Zapamti: prvo mir, zatim konkretna postignuća, pa ugljen i čelik.
+2611	Marie Curie, rođena kao Maria Skłodowska u Varšavi, 1906. postala je prva profesorica na Sorboni. Dobila je dvije Nobelove nagrade, za fiziku i za kemiju.
+2612	Ona je lik s novčanice od 20 eura na završnim nacrtima ESB-a na temu „Europska kultura”.
+2613	Pekar
+2614	Od 2022. zanat francuske bagete na UNESCO-ovu je popisu nematerijalne kulturne baštine. Brašno, voda, sol, kvasac. I malo strpljenja.
+2615	Un café, s'il vous plaît! U Parizu je „café” espresso. Ako želiš veliku šalicu, moraš to reći. Glasno.
+2616	Bukinist
+2617	Rabljene knjige prodajemo na ovim nabrežjima od 16. stoljeća. Stotine zelenih kutija, uzduž kilometara Sene.
+2618	Notre-Dame de Paris. Oštećena u požaru 15. travnja 2019., ponovno je otvorena 7. prosinca 2024. nakon pet godina radova.
+2619	Posjetitelj
+2621	Neke zime zidni puzavac siđe s planina na litice doline Meuse. Siva ptica s grimiznim krilima, poput leptira.
+2622	To je ptica s novčanice od 5 eura na završnim nacrtima ESB-a: planinski izvor i zidni puzavac.
+2623	Ribolovac
+2624	Vidiš onaj plavi bljesak na Moseli? Vodomar. Zaranja s grane i izranja s ribom.
+2625	Na završnim nacrtima ESB-a to je ptica novčanice od 10 eura, kraj slapa.
+2626	Antwerpen je druga najveća luka u Europi. A uz Šeldu, odmah do dizalica, sabljarke gnijezde u prirodnim rezervatima.
+2627	Crno-bijela, s uzdignutim kljunom: ptica novčanice od 100 eura na završnim nacrtima ESB-a, na ušću rijeke.
+2628	Stanovnik Varšave
+2629	Maria Skłodowska, Marie Curie, rođena je ovdje u Varšavi, 1867. Element polonij nazvala je po svojoj domovini.
+2630	Naš je Stari grad razoren 1944. i obnovljen kamen po kamen: na UNESCO-ovu je popisu od 1980.
+2631	Leonardo da Vinci živio je u Rimu od 1513. do 1516., u Vatikanu, prije odlaska u Francusku.
+2632	Ovo je lik s novčanice od 100 eura na završnim nacrtima ESB-a na temu „Europska kultura”.
+2633	Profesor
+2634	Lisabonski ugovor, potpisan ovdje 2007., stvorio je članak 50.: postupak izlaska iz EU-a. Ujedinjena Kraljevina prva ga je iskoristila.
+2635	Također iz Lisabona: pastéis de nata, po receptu redovnika iz Jerónimosa. Mnogo popularniji od članka 50.
+2636	Stari mornar
+2637	Godine 1571. u Patraskom zaljevu, ovdje u Grčkoj, vodila se bitka kod Lepanta. Mladi španjolski vojnik ondje je izgubio uporabu lijeve ruke.
+2638	Zvao se Miguel de Cervantes. Kasnije je napisao Don Quijotea. On je lik s novčanice od 50 eura na kulturnim nacrtima ESB-a!
+2639	U kutu je razglednica s pečatom žirija za dizajn ESB-a: jedan od dvanaest motiva budućih novčanica. Zadržavaš je.
+2640	Britanski muzej – Soba 18
+2641	Kazamati Bock – Ulaz
+2642	Katedrala u Strasbourgu
+2643	Palais de l'Europe – Vijeće Europe
+2644	Trajektni terminal – carina EU-a
+2645	Ruin bar – Budimpešta
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Pekarnica – Pariz
+2648	Crvena
+2649	Žuta
+2650	Bijela
+2651	Narančasta
+2652	Cvjetni tepih
+2655	Predložak
+2656	Tri tepiha od begonija! Belgija uzgaja većinu gomoljastih begonija na svijetu, oko Genta.
+2657	Turisti stižu, a tepih nije gotov… Sljedeći put!
+2658	Rode Alzasa
+2661	Rode kod kuće: %d / %d · izgubljene: %d / 3
+2662	Deset roda u gnijezdima! U Alzasu se kaže da roda na krovu donosi sreću.
+2663	Previše roda odletjelo je do sljedećeg sela… Vratit će se sljedeće proljeće.
+2664	Sendvič sa šunkom
+2665	Mlijeko
+2666	Salama
+2667	Jabuka
+2668	Čokoladica
+2669	Čips
+2670	Keksi
+2671	Carina EU-a
+2674	Meso, mliječni proizvodi, većina voća: zaplijeni.
+2675	Banane, slatkiši, čips, voda: propusti.
+2676	Propusti
+2677	Zaplijeni
+2678	Sve kutije za ručak pregledane! Unutar jedinstvenog tržišta EU-a hrana slobodno putuje; na njegovim granicama se provjerava.
+2679	Salama je prošla… ili je banana pogrešno zaplijenjena. Prvo pravila, sendvič poslije!
+2685	Šah u kupalištu
+2688	Bijeli igra i matira u jednom potezu
+2689	K kralj · Q dama · R top · B lovac · N skakač · P pješak
+2691	Voda se ohladila prije mata… Traži potez koji kralju ne ostavlja nijedno polje.
+2692	Svjetski mir ne može se sačuvati
+2694	Europa neće nastati odjednom niti prema jedinstvenom planu.
+2698	Schumanova deklaracija
+2701	Deklaracija je gotova! Europska zajednica za ugljen i čelik uslijedila je 1951. Svakog 9. svibnja je Dan Europe.
+2702	Novinari čekaju, a stranice su još u neredu… Prvo mir, zatim konkretna postignuća!
+2703	Kazamati Bock
+2706	Posjetitelj te slijedi: sad izlaz!
+2707	Negdje u mraku netko doziva…
+2708	Na dnevnom svjetlu, s posjetiteljem! Do 35 000 ljudi sklonilo se u ove galerije tijekom bombardiranja.
+2709	Baklja se ugasila… Vodič slijedi tvoj glas i izvodi vas oboje van.
+2710	bez stvaralačkih napora razmjernih opasnostima koje mu prijete.
+2713	Nastat će konkretnim postignućima koja najprije stvaraju stvarnu solidarnost.
+2714	Francusko-njemački ugljen i čelik stavit će se pod zajedničku Visoku vlast…
+2715	…tako da rat između Francuske i Njemačke postane materijalno nemoguć.
+2716	Prije nego dotakneš tiskarsku ploču, dokaži da prepoznaješ krivotvorinu! Provjeri svaku novčanicu na način ESB-a: OPIPAJ reljefni tisak, POGLEDAJ je prema svjetlu, NAGNI je. Procijeni 10 novčanica, jedna greška dopuštena.
+2717	U tavernu u Sachsenhausenu natoči jabukovaču iz Bembela u svaku čašu do crte! Drži olovku (ili A) za nagib vrča, pusti za stop, zatim posluži tipkom. 8 čaša, 2 prolijevanja dopuštena.
+2718	Osam savršenih čaša! Ovdje u Frankfurtu jabukovaču zovu „Ebbelwoi”.
+2719	Trg Sintagma, Grob neznanog junaka. Kreći se u taktu s evzonima: KORAK, UDARI, LUPNI kad svaki znak dosegne crtu. 24 pokreta, polako i svečano. 4 greške dopuštene.
+2720	Gužva u kiosku! Svaki kupac traži na grčkom: dodirni što želi. Prve ću ti prošaptati značenje. 15 kupaca u 60 sekundi!
+2721	Ukrcaj tri broda do podne! Pomiči dizalicu olovkom ili ←/→, spusti s A ili dodirom. Teški (H) nikad povrh lakših, hlađeni (bijeli) samo na dva stupca s napajanjem (utičnice), i drži brod uravnoteženim!
+2722	Kopiraj tepih od begonija sa gornjeg zaslona: odaberi boju, zatim dodirni ili povuci preko polja. Pritisni Gotovo kad se podudara. Tri tepiha u 90 sekundi!
+2723	Rode su se vratile iz Afrike! Svaku navedi do praznog gnijezda: povlači olovku gore-dolje (ili ↑/↓) i nisko leti nad slobodnim gnijezdom da sletiš. Izbjegavaj električne žice. 10 roda, 3 gubitka dopuštena.
+2724	Trajekt je pristao! Pregledaj svaku kutiju za ručak: ZAPLIJENI meso, mliječne proizvode i većinu voća, PROPUSTI ostalo. Pazi: banana je dopuštena, jabuka nije. 20 kutija u 50 sekundi, 2 greške dopuštene.
+2725	Kupalište Széchenyi: igrači se naginju nad ploču što pluta u pari. Bijeli igra: pronađi potez koji odmah daje mat. Dodirni bijelu figuru, zatim njezino polje. Tri pozicije u 90 sekundi!
+2726	9. svibnja 1950., Salon de l'Horloge. Stranice deklaracije Roberta Schumana su pomiješane! Dodirni rečenice pravim redoslijedom prije konferencije za novinare. 60 sekundi.
+2727	Galerije su mračne, a baklja dogorijeva. Pronađi izgubljenog posjetitelja, zatim izlaz! Kreći se pomoću +Control Pada ili dodirni pokraj svog lika. 75 sekundi.
+2728	Tri mata! U kupalištu kažu da gubitnik prvi mora izaći iz vode.
+2729	Novi hrastov okvir ručno je otesan, kao u srednjem vijeku. Na njemu su radili tesari i klesari iz cijele Francuske.
+2730	Prednja strana
+2731	Stražnja strana

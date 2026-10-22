@@ -1,0 +1,19 @@
+# Dansk — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Stempl 15 gyldige domme på 30 sekunder. Lad papirer mærket ”FALSK” passere: stempler du et, taber du runden!
+2087	DOM
+2088	DOM: stempl. FALSK: lad passere.
+2089	Femten gyldige domme stemplet! Administrationen er stolt af dig.
+2090	Du stemplede et ugyldigt dokument! Tjek det, før du godkender…
+2091	De femten gyldige domme er ikke klar. Justitskontoret lukker. Prøv igen…
+2092	Her er dagens bunke. Vi skal have stemplet femten gyldige domme, før justitskontoret lukker. Pas på, der har sneget sig nogle ugyldige dokumenter ind! Kan du give mig en hånd?
+2093	Justitskontoret kan ikke godkende denne bunke. Vi skal bruge femten gyldige domme og intet ugyldigt dokument stemplet. Prøv igen, når du vil.
+2094	Femten domme i orden igen! For din anden succes får du et kvalificeret stempel.
+2095	Fejlfrit! Jeg har ét kvalificeret stempel tilbage til dig. Luxembourg elsker metodiske folk.
+2096	Fejlfrit! Men denne gang har jeg intet stempel til dig. Kom tilbage og giv mig en hånd igen!
+2097	Den anden spiller sender %s ud!
+2098	Ugyldigt hold eller ugyldig forbindelse.
+2099	Genstande er ikke tilladt i en venskabelig debat.
+2100	Du vinder denne venskabelige debat!
+2101	Den anden spiller vinder denne venskabelige debat!
+2102	Debatten er slut, eller forbindelsen blev afbrudt.
+2105	Det lykkedes ikke at gemme. Prøv igen.

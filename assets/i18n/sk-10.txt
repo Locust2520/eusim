@@ -1,0 +1,523 @@
+# Slovak — city extensions (ids 2169+)
+2169	FALZ
+2171	%d s · %d/%d
+2172	Na okrajoch sú reliéfne čiary: dajú sa nahmatať.
+2173	Papier je všade hladký…
+2174	Hmat
+2175	Pohľad
+2176	Náklon
+2177	Skontroluj a rozhodni:
+2178	Pravá
+2179	Falzifikát
+2180	L/R: náklon · X: proti svetlu · Y: hmat
+2181	Hmat, pohľad, náklon
+2184	Bol to %s: chýbala reliéfna tlač.
+2185	Bol to %s: v protisvetle nebol vodoznak.
+2186	Bol to %s: číslo nezmenilo farbu.
+2187	falzifikát
+2188	Bola to pravá bankovka!
+2189	Ani jeden falzifikát neprešiel! Vo vodoznaku si videl Európu z gréckej vázy starej vyše 2 000 rokov.
+2190	Falzifikát prešiel… Hmat, pohľad, náklon: tri kontroly trvajú len pár sekúnd.
+2191	Bembel
+2194	Podať
+2196	Príliš veľa rozliatych pohárov… Krčmár ti požičiava handru.
+2197	Maria Callas
+2198	Ludwig van Beethoven
+2199	Marie Curie
+2200	Miguel de Cervantes
+2201	Leonardo da Vinci
+2202	Bertha von Suttner
+2203	pouliční umelci
+2204	festival piesní
+2205	škola
+2206	knižnica
+2207	pouličné umenie
+2208	námestie so stromoradím
+2209	stenolaz skalný pri horskom prameni
+2210	rybárik riečny pri vodopáde
+2211	včeláriky zlaté v údolí rieky
+2212	bocian biely pri meandrujúcej rieke
+2213	šabliarka modronohá pri ústí rieky
+2214	sula biela nad morom
+2215	Európsky parlament
+2216	Európska komisia
+2217	Európska centrálna banka
+2218	Súdny dvor EÚ
+2219	Európska rada a Rada EÚ
+2220	Európsky dvor audítorov
+2221	Líc: tvoj portrét namiesto: %s
+2222	Rub: %s
+2223	Líc: %s
+2224	Vzorová bankovka – %d €
+2225	Nie je zákonným platidlom: ide o vzorový návrh.
+2227	L/R alebo ťuk: otočiť · B: zavrieť
+2228	Svetlá
+2229	Stredná
+2230	Tmavá
+2231	Guma
+2234	Späť
+2235	Zmazať
+2236	Hotovo
+2237	Nakresli svoj portrét
+2238	Štúdio ho vyryje ako portrét na bankovke.
+2239	Tvoja vzorová bankovka
+2240	Európska kultúra
+2241	Rieky a vtáky
+2242	Otočiť
+2243	Nový portrét
+2244	Vytlačiť vzor
+2245	Tlačí sa…
+2246	Tvoj portrét na vzorovú bankovku
+2247	Kamera DSi, pero alebo tvoja oficiálna fotka.
+2248	Pero alebo tvoja oficiálna fotka.
+2249	Odfotiť
+2250	Nakresliť portrét
+2251	Použiť oficiálnu fotku
+2252	Kameru tu nemožno použiť. Svoj portrét môžeš namiesto toho nakresliť.
+2253	Tvoja vzorová bankovka sa dostala do zbierky Múzea peňazí vo Frankfurte.
+2254	Vo Frankfurte má štúdio ECB stále pripravenú prázdnu vzorovú bankovku s tvojím menom.
+2255	Spúšťa sa kamera…
+2256	Daj tvár do oválu
+2257	A alebo ťuk: odfotiť · L/R: iná kamera · B: späť
+2258	Skúška rytiny
+2259	Znova
+2260	Nechať
+2261	Medzi nami: euro sa stalo hotovosťou vo vreckách ľudí v roku 2002. Niektoré dvere v tejto veži si ten rok ešte pamätajú.
+2262	Znak eura od umelca Ottmara Hörla, odhalený v roku 2001 pred bývalou vežou ECB.
+2263	O niekoľko týždňov neskôr, 1. januára 2002, sa eurobankovky a euromince dostali do vreciek ľudí v dvanástich krajinách.
+2264	Pamätník pri Grossmarkthalle.
+2265	V rokoch 1941 až 1945 bolo z pivnice tejto trhovej haly deportovaných okolo 10 000 židovských mužov, žien a detí z Frankfurtu a okolia do gét a táborov. Väčšina z nich bola zavraždená.
+2266	Mesto Frankfurt, židovská obec a ECB, ktorej sídlo dnes zahŕňa aj túto halu, vytvorili tento pamätník spoločne.
+2267	Römer, frankfurtská radnica od roku 1405. V jej Cisárskej sieni mali novokorunovaní cisári Svätej ríše rímskej korunovačné hostiny.
+2268	Hrázdené domy na Römerbergu. Bombardovanie zničilo staré mesto v roku 1944; tento rad bol v 80. rokoch postavený nanovo, trám po tráme.
+2269	Fontána Spravodlivosti. Pozri sa dobre: táto Justícia drží váhy aj meč, ale nemá zaviazané oči.
+2270	Tomuto mestu hovoria „Mainhattan“: mrakodrapy na rieke Main. Napočítal som jedenásť žeriavov a štyri banky. Alebo naopak.
+2271	V rokoch 1848 a 1849 v tomto kostole zasadal prvý slobodne zvolený parlament pre celé Nemecko.
+2272	Napísal ústavu so základnými právami. Nikdy nenadobudla platnosť, ale neskoršie nemecké ústavy z nej čerpali.
+2273	Sprievodca
+2274	Sieň má stále svoje veľké dni: každý október sa tu udeľuje Mierová cena nemeckého knižného obchodu.
+2275	Býk útočí s rohmi nahor: rastúci trh.
+2276	Medveď udiera labou smerom nadol: klesajúci trh.
+2277	Tabuľa DAX. Najznámejší nemecký akciový index tu vznikol v roku 1988.
+2278	Kupuj chýry, predávaj správy. A v apríli nikdy, ale nikdy nepredávaj dáždnik.
+2279	Johann Wolfgang von Goethe sa v tomto dome narodil 28. augusta 1749. Na Faustovi pracoval asi šesťdesiat rokov.
+2280	Jeho meno dnes obieha svet: Goethe-Institut vyučuje nemčinu takmer v stovke krajín.
+2281	Messeturm sa týči nad výstaviskom. Každý október sa tu koná Frankfurtský knižný veľtrh, najväčší knižný veľtrh na svete.
+2282	Čitateľ
+2283	Prišiel som na knižný veľtrh a zostal som kvôli zelenej omáčke. Prečítal som tri knihy a zjedol päť omáčok.
+2284	Železná lávka cez Main, postavená v roku 1869. Na jej zábradlí visia tisíce zámkov: sľuby zaľúbených.
+2285	Pár
+2286	Zavesili sme zámok na most a kľúč hodili do Mainu. Ešte sa musíme dohodnúť, čí to bol nápad.
+2287	Frankfurťan
+2288	Na druhom brehu je Sachsenhausen. Tam pijeme Ebbelwoi, jablčné víno. Nikto mu tu nehovorí cider, pozor.
+2289	Nad dverami visí borovicový veniec: znamenie, že táto krčma lisuje a podáva vlastné jablčné víno.
+2290	Hostinská
+2291	Guten Abend! Jablčné víno sa nalieva z Bembelu, sivého kameninového džbánu, do Gerippte, pohára s kosoštvorcovým vzorom.
+2292	Dnes večer mám plnú sieň a len dve ruky. Ty plníš poháre, ja ich odnášam?
+2293	Chceš ďalšie kolo za pultom?
+2294	Ani kvapka na stoloch! Tu, vezmi si toto a príď, kedykoľvek budeš chcieť.
+2295	Zasa dokonalé. Mohol by si otvoriť vlastnú krčmu. Stačí nad dvere zavesiť borovicový veniec.
+2296	Ach, stoly plávajú! Nevadí, utrieme to.
+2297	Štamgast
+2298	Handkäs mit Musik: syr z kyslého mlieka marinovaný s cibuľou. Hudba príde neskôr. Nepýtaj sa.
+2299	Zelená omáčka chce presne sedem bylín: borák, trebuľku, žeruchu, petržlenovú vňať, krvavec, štiav a pažítku.
+2300	Od roku 2016 EÚ chráni „Frankfurter Grüne Soße“ ako zemepisné označenie. Sedem bylín, ani viac, ani menej.
+2301	Skutočná zlatá tehla, 12,5 kilogramu, ktorú smú návštevníci zdvihnúť. Väčšina ju dvihne len o pár centimetrov.
+2302	Od mušlí k minciam, od mincí k papieru, od papiera k euru: tritisíc rokov peňazí na pár policiach.
+2303	Kurátor
+2304	Bundesbank je nemecká centrálna banka. Od roku 1999 je súčasťou Eurosystému spolu s ECB a ostatnými centrálnymi bankami eurozóny.
+2305	Počul som, že máš vzorovú bankovku so svojou tvárou. Keď sa tvoje dobrodružstvo skončí, radi by sme ju mali v zbierke.
+2306	Portrét Európy, princeznej z gréckeho mýtu, ktorá dala meno celému kontinentu.
+2307	Jej tvár pochádza z gréckej vázy staršej ako 2 000 rokov, uloženej v Louvri. Podrž eurobankovku proti svetlu: je vo vodoznaku.
+2308	Za rámom svieti malá klávesnica. Štyri číslice.
+2309	Zadať kód?
+2310	Klávesnica červeno zabliká. Kdesi na burzovom parkete si niekto povzdychol.
+2311	Cvak. Obraz sa otvára na úzke schodisko vedúce dolu…
+2312	Zísť do tajného štúdia?
+2313	Dielňa plná stojanov, nástrojov na rytie a ťažkého lisu. Na dverách: „Návrh bankoviek – dôverné“.
+2314	Téma „Európska kultúra“: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) a Bertha von Suttner (200 €).
+2315	Na rube: miesta, kde sa kultúra zdieľa. Pouliční umelci, festival piesní, škola, knižnica, pouličné umenie, námestie so stromoradím.
+2316	Téma „Rieky a vtáky“: od horského prameňa (5 €) po otvorené more (200 €), so stenolazom skalným, rybárikom riečnym, včelárikmi zlatými, bocianom bielym, šabliarkou modronohou a sulou bielou.
+2317	Na rube: inštitúcie EÚ, od Európskeho parlamentu po Európsky dvor audítorov.
+2318	Desať finálových návrhov: EC145, EC564, EC617, EC799, EC915 a RB120, RB227, RB637, RB754, RB832.
+2319	Mená dizajnérov zostávajú tajné. Po verejnom prieskume urobí konečný výber Rada guvernérov ECB.
+2320	Hĺbkotlačový lis. Vtláča farbu do papiera tak silno, že vystúpi do reliéfu: to je tá reliéfna tlač, ktorú nahmatáš na skutočnej bankovke.
+2321	Špecifikácie: rovnaké rozmery ako dnešné bankovky, jedna dominantná farba pre každú hodnotu a na každej bankovke európska vlajka, mapa Európy a podpis prezidenta ECB.
+2322	Člen poroty
+2323	V roku 2025 odpovedalo na výzvu ECB viac ako 1 200 dizajnérov. K porote sa dostalo tridsaťdeväť návrhov; desať je na týchto stojanoch.
+2324	Cieľom je nahradiť vymyslené mosty a okná skutočnými ľuďmi, skutočnými vtákmi a skutočnými miestami.
+2325	Eleni
+2326	Kaliméra! Som Eleni, rytkyňa hĺbkotlače. Remeslu som sa vyučila v tlačiarni Banky Grécka v Aténach.
+2327	Oficiálne ECB netlačí ani jednu bankovku: navrhuje ich a tlačiarne po celej Európe ich vyrábajú.
+2328	Práve pripravujeme ďalšie eurobankovky. V roku 2026 porota vybrala desať návrhov na dve témy: európska kultúra a rieky a vtáky.
+2329	Pred konečným výberom musím vyskúšať rytinu na skutočnej tvári. Na eurobankovkách ešte nikdy nebol živý človek… takže tá tvoja zostane vzorom.
+2330	Ale k mojim platniam sa nikto nedotkne bez skúšky. Hmat, pohľad, náklon: ukáž mi, že vieš rozoznať pravú bankovku od falošnej.
+2331	Ideme na to?
+2332	Bravo! Máš oko centrálneho bankára. A teraz tvoj portrét.
+2333	Nový vzor? Lis je ešte teplý.
+2334	Hotovo, vyryté! Vidíš sériové číslo? Prvé písmeno, Y, je kód Banky Grécka. Môj malý podpis.
+2335	Ukáž ju ostatným. A ulož hru cez Správu, aby ti bankovka zostala.
+2336	Falzifikát prešiel. Hmat, pohľad, náklon: trvá to len pár sekúnd. Vráť sa, až budeš pripravený.
+2337	Daj si čas. Dobrú rytinu nemožno unáhliť.
+2338	Jablčná krčma – Sachsenhausen
+2339	ECB – Štúdio návrhu bankoviek
+2340	Frankfurtská burza
+2341	Múzeum peňazí Bundesbanky
+2342	Goethov dom – Frankfurt
+2343	Paulskirche – Snemovňa
+2344	Vzorová bankovka
+2345	Tvoj portrét vyryty v štúdiu ECB vo Frankfurte. Nie je zákonným platidlom.
+2346	Jablčná krčma, Sachsenhausen
+2348	Podrž: Bembel sa nakláňa, pusti: zastaví. Podaj, keď jablčné víno dosiahne čiaru.
+2349	Výmena stráží
+2352	Krok
+2353	Kop
+2354	Dupot
+2355	Pohyby: %d / 24 · chyby: %d
+2356	←: krok · →: kop · A/↓: dupot
+2357	Dokonale v kroku! Evzoni striedajú stráž každú hodinu, vo dne aj v noci, za každého počasia.
+2358	Mimo kroku… Evzoni sa pred prvou strážou cvičia celé mesiace.
+2359	Frappé
+2360	Voda
+2361	Noviny
+2362	Koulouri
+2363	Korálky
+2364	Mati
+2365	Lístok
+2366	Žuvačka
+2367	(Frappé, prosím!)
+2368	(Vodu, prosím!)
+2369	(Noviny, prosím!)
+2370	(Koulouri, sezamový venček, prosím!)
+2371	(Korálky, prosím!)
+2372	(Malý amulet proti uhrančivému oku, prosím!)
+2373	(Lístok, prosím!)
+2374	(Žuvačku, prosím!)
+2375	Periptero
+2378	Pätnásť spokojných zákazníkov! Ευχαριστώ (efcharistó) znamená ďakujem.
+2379	Rad siaha až do ďalšej ulice… Σιγά σιγά (sigá sigá): pomaly, pomaly.
+2380	Prístav Pireus
+2383	H
+2384	Loď %d/3 · kontajnery %d/%d
+2385	Čas: %d s · chyby: %d/3
+2386	Náklon
+2387	Tri lode naložené a vyvážené! Pireus je jedným z najväčších kontajnerových prístavov Stredozemného mora.
+2388	Prístavný kapitán zastavuje nakladanie: loď nie je bezpečná. Poukladaj to znova a skús ešte raz!
+2389	Hrob neznámeho vojaka (1932), pod budovou parlamentu. Evzoni prezidentskej gardy ho strážia dňom i nocou.
+2390	Námestie sa volá Syntagma, „Ústava“: v roku 1843 sa tu Aténčania zhromaždili, kým im kráľ Otto nejakú neudelil.
+2391	Evzon sa nehýbe. Ani brvou.
+2392	Jeho tsarouchia, červené topánky s čiernymi brmbolcami, vážia asi tri kilá každá, so šesťdesiatimi klincami v podrážke. Jeho biela sukňa, fustanella, má 400 záhybov: po jednom za každý rok osmanskej nadvlády, ako hovorí tradícia.
+2393	Evzonský seržant
+2394	Každú hodinu sa stráž mení. Pomalé kroky, vysoký kop, topánky dopadajúce na mramor: dvaja muži sa hýbu ako jeden.
+2395	Dnes chýba jeden regrút. Pôjdeš so mnou podľa rytmu?
+2396	Ešte jedna výmena stráží?
+2397	Ani jeden krok mimo taktu. Μπράβο (brávo)! Vezmi si toto od stráže.
+2398	Μπράβο (brávo)! V nedeľu o jedenástej defiluje celá rota v slávnostnom odeve. Príď sa pozrieť.
+2399	Tvoje topánky a bubon sa nezhodli. Chce to mesiace tréningu. Zajtra znova?
+2400	Stánkar
+2401	Γεια σας (yia sas, dobrý deň)! Periptero predáva všetko: noviny, vodu, lístky na autobus, kredit na telefón, žuvačky, korálky na starosti…
+2402	Môj synovec neprišiel. Podržíš pult? Zákazníci hovoria po grécky, ale význam ti pošepkám.
+2403	Zase špička! Pomôžeš mi?
+2404	Ευχαριστώ (efcharistó, ďakujem)! Už hovoríš po stánkarsky. Tu, na účet podniku.
+2405	Ευχαριστώ (efcharistó)! Rad je preč v rekordnom čase.
+2406	Σιγά σιγά (sigá sigá), pomaly, pomaly. To je aj grécke príslovie.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): jedno stredne sladké frappé, prosím. Ľadová káva vyšľahaná do peny.
+2408	Vzniklo náhodou v roku 1957 na Medzinárodnom veľtrhu v Solúne: jeden obchodník nemal horúcu vodu a pretrepal instantnú kávu so studenou.
+2409	Stanica metra Syntagma. Keď sa v 90. rokoch kopalo metro, archeológovia našli desaťtisíce predmetov. Niektoré sú vystavené priamo v stanici.
+2410	28. október je Deň Ochi (όχι, óchi, „nie“). V roku 1940 Grécko povedalo nie Mussoliniho ultimátu; každý rok žiaci defilujú ulicami.
+2411	Nepleť si ho s OXI z referenda v roku 2015. Dve slávne grécke „nie“ s odstupom sedemdesiatich piatich rokov.
+2412	Drachma: názov mince zo starovekého Grécka, obnovený v roku 1832 pre mladý grécky štát a nahradený eurom v roku 2002.
+2413	Grécka jednoeurová minca zobrazuje Aténinu sovu, skopírovanú zo starovekej aténskej mince, štvordrachmy.
+2414	Banka Grécka má vlastnú tlačiareň: tlačia aj eurobankovky.
+2415	Na bankovkách série Európa prvé písmeno sériového čísla označuje centrálnu banku, ktorá ich objednala. Tá naša je Y.
+2416	Y na tvojej vzorovej bankovke? Tak vitaj doma!
+2417	Anafiotika: v 19. storočí prišli stavitelia z ostrova Anafi pracovať na kráľovskom paláci a postavili si tu, pod Akropolou, malú kykladskú dedinku.
+2418	Μιάου (miáou). Atény majú tisíce ulicových mačiek; susedia a dobrovoľníci ich kŕmia, aj medzi ruinami.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Jedol si? Schudol si. Sadni si. Jedz.
+2421	Yiayia nakŕmila celý tvoj tím, až sa nikto nevládal pohnúť. Všetci sú opäť vo forme.
+2422	Γιαγιά (yiayiá) znamená babka. A yiayia nikdy neverí, keď jej povieš, že už nevládzeš.
+2423	Sused
+2424	Χρόνια πολλά (chrónia pollá)! Veľa rokov! Dnes mám meniny.
+2425	V Grécku často oslavujeme sviatok svätca, po ktorom sme pomenovaní, viac než narodeniny. Pol ulice sa volá Giorgos: predstav si deň svätého Juraja.
+2426	Ναι (nai) znamená áno! Turistom to znie ako „nie“. A όχι (óchi) znamená nie.
+2427	Ak zaklonám hlavu a cvaknem jazykom, je to tiež nie. Jednoduché!
+2428	Predavač
+2429	Μάτι (máti), oko! Modré sklenené oko ťa chráni pred uhranutím, pred smolou, ktorá prichádza zo závisti.
+2430	Ak niekto pochváli tvojho Euromona, povedz „φτου φτου“ (ftou ftou), akoby si pľuval. Je to pre šťastie. Nepľuj naozaj.
+2431	Syrár
+2432	Feta je od roku 2002 chránené označenie pôvodu: pravá feta sa vyrába v Grécku z ovčieho mlieka, niekedy s trochou kozieho.
+2433	Nemecko a Dánsko ju napadli na Súdnom dvore EÚ. V roku 2005 súd rozhodol: feta je grécka.
+2434	Majster grilu
+2435	Souvlaki! V Aténach je to mäso na špajli. V Solúne tomu istému hovoria kalamaki, „paličky“.
+2436	Opýtaj sa v Solúne na „souvlaki“ a dostaneš pitu gyros. Rodiny sa rozpadli aj pre menej.
+2437	Hudobník
+2438	Všetci si myslia, že sirtaki je starý ľudový tanec. Vymysleli ho pre film „Grék Zorba“ v roku 1964 na hudbu Mikisa Theodorakisa.
+2439	Najprv pomaly, potom čoraz rýchlejšie… Opa!
+2440	Stanica Monastiraki. Linka 1 vedie po trati Atény–Pireus, otvorenej v roku 1869: je to najstaršia linka siete.
+2441	Nasadnúť na vlak do prístavu Pireus?
+2442	Odeón Herodesa Attika, postavený v roku 161 n. l. V roku 1944 tu Beethovenovho „Fidelia“ spievala mladá sopranistka, ktorá študovala na aténskom konzervatóriu: Maria Callas.
+2443	Callas aj Beethoven sa objavujú na finálových návrhoch nových eurobankoviek, na bankovkách 5 a 10 eur z témy kultúry.
+2444	Tieto biele dosky sú sadrové odliatky. Originály sú od roku 1816 v Britskom múzeu v Londýne.
+2445	Grécko oficiálne žiada o ich vrátenie od roku 1983. Múzeum má ich miesta pripravené vedľa pôvodných kusov.
+2446	Originálny blok parthenónskeho vlysu: jazdci z panatenajského sprievodu, vytesaní okolo roku 440 pred n. l.
+2447	Múzeum Akropoly bolo otvorené v roku 2009. Toto horné poschodie je pootočené tak, aby ležalo v osi s Parthenónom, ktorý vidíš cez sklo.
+2448	Vlys obieha dookola v pôvodnom poradí. Medovo sfarbený mramor: tu. Biela sadra: v Londýne.
+2449	Zappeion. Tu 28. mája 1979 Grécko podpísalo zmluvu o pristúpení k Európskym spoločenstvám.
+2450	Desiatym členom sa stalo 1. januára 1981. Euro prišlo v roku 2001, rok pred mincami a bankovkami.
+2451	Melina Mercouri (1920–1994), herečka a neskôr ministerka kultúry. Navrhla Európske hlavné mesto kultúry: Atény boli prvé, v roku 1985.
+2452	Spustila aj kampaň za vrátenie parthenónskych mramorov.
+2453	Panatenajský štadión, jediný veľký štadión na svete postavený celý z mramoru. V roku 1896 sa tu konali prvé moderné olympijské hry.
+2454	Každé dva roky sa tu olympijský oheň odovzdáva ďalšiemu hostiteľskému mestu.
+2455	Kontajnerový terminál prevádzkovaný spoločnosťou COSCO Shipping. Čínska skupina kúpila 51 % prístavného úradu Pireus v roku 2016, potom 67 % v roku 2021.
+2456	Prístavná stráž
+2457	Kontajnerový terminál je pre návštevníkov zatvorený. Osobný prístav je celý tvoj.
+2458	Tadiaľto nie, prosím: kontajnerový terminál.
+2459	Stanica Pireus, konečná linky 1. Budova je z roku 1929.
+2460	Vrátiť sa vlakom do Atén?
+2461	Kamene z hradieb Pireusu. V 5. storočí pred n. l. urobil Themistoklés z Pireusu prístav Atén a Dlhé múry spájali obe mestá.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), „Deti z Pireusu“! Manos Hadjidakis ju napísal pre film „Nikdy v nedeľu“ (1960) s Melinou Mercouri v hlavnej úlohe.
+2463	Získala Oscara za najlepšiu pieseň. Vo Francúzsku z nej urobila hit Dalida: „Les Enfants du Pirée“.
+2464	Rybár
+2465	Tamto je Mikrolimano, malý prístav: rybárske lode a taverny, kde ryba ešte ráno plávala.
+2466	Tadiaľto na štadión Karaiskakis, domov Olympiacosu. V roku 2024 klub vyhral Európsku konferenčnú ligu UEFA: prvá európska trofej pre grécky futbalový klub.
+2467	Trajekty na ostrovy: Aigina, Hydra, Kyklady, Kréta… Pireus je jedným z najrušnejších osobných prístavov v Európe.
+2468	Grécki lodiari ovládajú asi pätinu svetovej obchodnej flotily: viac než ktorákoľvek iná krajina.
+2469	Predák v prístave
+2470	Hej, stážista! Loď odchádza na poludnie a môj žeriavnik štrajkuje. Máš skúsenosť s nakladaním kontajnerových lodí?
+2471	Ťažké kontajnery dole, chladené na rady s prúdom a loď drž vodorovne, inak sa nakloní.
+2472	Ďalšia loď na naloženie?
+2473	Rovno ako pravítko! Tu máš výplatu. Neutrať všetko na souvlaki.
+2474	Ďalšia loď vyplávala načas. Kapitán ťa pozdravuje.
+2475	Nakláňa sa ako zlá nálada. Poukladáme to znova. Ešte raz?
+2476	Banka Grécka – Múzeum
+2477	Múzeum Akropoly – Parthenón
+2478	Prístav Pireus
+2479	Dom – Plaka
+2480	Pohľadnice poroty: %d z 12.
+2481	To je všetkých dvanásť motívov! Eleni zo štúdia ECB vo Frankfurte ich bude chcieť vidieť.
+2482	Všetkých dvanásť pohľadníc! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… a šesť vtákov. Videl si viac Európy než porota.
+2483	Odteraz môj lis tlačí tvoje vzory v zlatom vydaní. A vezmi si toto, od štúdia.
+2484	Ešte niečo: porota rozposlala pohľadnice s dvanástimi motívmi po celej Európe. Ak ich nájdeš všetky, vráť sa: vyryjem ti zlaté vydanie.
+2485	Radnica v Bruseli, postavená v 15. storočí. Na vrchole jej 96-metrovej veže svätý Michal zabíja draka.
+2486	Grand-Place okolo nej je od roku 1998 pamiatkou svetového dedičstva UNESCO.
+2487	Cechové domy: pekárov, lodníkov, pivovarníkov… každé remeslo malo svoj dom, pozlátený na ukážku bohatstva.
+2488	Manneken-Pis: 55 centimetrov bronzu. Má viac ako tisíc kostýmov, uložených vo vlastnom múzeu šatníka.
+2489	Oficiálny obliekač
+2490	Dnes je oblečený za… seba samého. Zajtra za hasiča. Budúci týždeň za astronauta. Obliekať sochu je práca na plný úväzok.
+2491	Predavač hranoliek
+2492	Pravé belgické hranolky sa smažia dvakrát: raz na uvarenie, raz na chrumkavosť.
+2493	Hladný? Skús mitraillette: pol bagety, mäso, omáčka a hranolky vnútri. Áno, vnútri.
+2494	Predavač vafľí
+2495	Bruselská vafľa: ľahká, obdĺžniková, posypaná cukrom. Lutychská vafľa: hustejšia, s perličkovým cukrom karamelizovaným vnútri.
+2496	Voľba medzi nimi rozdelila rodiny na celé generácie. Predávam obe. Veľmi diplomatické.
+2497	Bruselské steny pokrývajú desiatky komiksových nástenných malieb. Belgicko berie komiksy rovnako vážne ako čokoládu.
+2498	Tadiaľto do Galeries Royales Saint-Hubert (1847), jednej z najstarších krytých nákupných pasáží v Európe.
+2499	V roku 1912 vynašiel v týchto pasážach čokoladiér Jean Neuhaus plnenú čokoládu: pralinku.
+2500	Grand-Place / Grote Markt. V Bruseli je každý názov ulice napísaný po francúzsky a holandsky: Bruselský hlavný región je oficiálne dvojjazyčný.
+2501	Belgicko má tri úradné jazyky: holandčinu, francúzštinu a nemčinu.
+2502	Rodák z Bruselu
+2503	Allez, une fois! Takto si myslia, že rozprávame v Bruseli. A… niekedy naozaj áno.
+2504	Záhradník
+2505	Každé dva roky v auguste pokrýva Grand-Place koberec z begónií. Prvý sa tu položil v roku 1971.
+2506	Stovky tisíc kvetov, ukladaných ručne za pár hodín. Chýba mi jeden dobrovoľník. Zasadíš so mnou?
+2507	Ďalší koberec? Begónie čakajú.
+2508	Nádherné! Aj cechové domy vyzerajú závistlivo. Tu, od mesta.
+2509	Ďalšie majstrovské dielo. O pár dní kvety zmiznú, ale fotky zostanú.
+2510	Vzor sa stal trochu… abstraktným. Magritte by sa mu potešil.
+2511	Most veľkovojvodkyne Charlotty, prezývaný Červený most, spája staré mesto s plošinou Kirchberg, vysoko nad údolím Alzette.
+2512	Veľkovojvodský palác v srdci starého mesta. Luxembursko je posledné veľkovojvodstvo na svete.
+2513	Stráž pochoduje osem krokov, otočí sa, pochoduje osem krokov späť. Pozerať sa na to je veľmi upokojujúce.
+2514	Európsky dvor audítorov: finančný strážny pes EÚ. Kontroluje, ako sa míňajú európske peniaze, euro po eure.
+2515	Na jednom z finálových návrhov nových bankoviek sa objavuje na rube 200-eurovej bankovky.
+2516	Od 29. februára 2020 je celá verejná doprava v Luxembursku bezplatná: autobusy, električky, vlaky. Ako prvá krajina na svete.
+2517	Gëlle Fra, zlatá dáma Pamätníka spomienky, uctieva Luxemburčanov, ktorí padli vo svetových vojnách.
+2518	Okupačné sily ju zhodili v roku 1940; bola úplne obnovená a v roku 1985 vrátená na svoj stĺp.
+2519	Schueberfouer! Zábavný jarmok od roku 1340, ktorý založil Ján Slepý, gróf Luxemburský. Každý rok na konci leta.
+2520	Luxemburčan
+2521	Moien! Tak sa po luxembursky hovorí ahoj. U nás máme tri administratívne jazyky: luxemburčinu, francúzštinu a nemčinu.
+2522	Väčšina z nás medzi nimi prepína v jednej vete. Občas sa vkradne aj angličtina.
+2523	Na stene: „Mir wëlle bleiwe wat mir sinn“ („Chceme zostať tým, čím sme“), národné heslo.
+2524	Vitaj v kazematách Bock: 17 kilometrov tunelov vyhĺbených do skaly, súčasť pamiatky svetového dedičstva UNESCO.
+2525	Počas bombardovania v druhej svetovej vojne sa tu ukrývalo až 35 000 ľudí.
+2526	Jeden návštevník sa stratil v tmavých chodbách s mojou poslednou pochodňou. Nájdeš cestu von a privedieš ho späť?
+2527	Ďalšia prehliadka chodieb?
+2528	Obaja v poriadku vonku! Pevnosť sa volala „Gibraltár severu“. Vezmi si toto za námahu.
+2529	Chodby poznáš lepšie než vojaci z roku 1700.
+2530	Pochodňa zhasla… Neboj sa, cestu poznám. Skúsme to znova.
+2531	Európsky most (Pont de l'Europe) vedie cez Rýn. Na druhej strane: Kehl v Nemecku. Od roku 2017 cez hranicu dokonca chodí električka.
+2532	Dochádzač
+2533	Bývam v Kehli a pracujem v Štrasburgu. Každé ráno zmením krajinu za štyri minúty. Nikto mi nekontroluje pas.
+2534	Tu sídli Rada Európy, založená v roku 1949: 46 členských štátov a Európsky súd pre ľudské práva. Nie je súčasťou EÚ.
+2535	Nepliesť si ju s Európskou radou (hlavy štátov a vlád EÚ) ani s Radou EÚ (ministri). Pletú si ich aj novinári.
+2536	Modrú vlajku s dvanástimi zlatými hviezdami prvýkrát prijala Rada Európy v roku 1955. EÚ ju prevzala neskôr.
+2537	Portrét Berthy von Suttner (1843–1914), autorky románu „Zložte zbrane!“ a prvej ženy, ktorá získala Nobelovu cenu za mier, v roku 1905.
+2538	Je postavou 200-eurovej bankovky vo finálových návrhoch ECB s témou „Európska kultúra“.
+2539	Hymnou Európy je predohra „Ódy na radosť“ z Beethovenovej Deviatej symfónie. Rada Európy ju prijala v roku 1972, EÚ v roku 1985.
+2540	Nemá oficiálny text: v Európe ju všetci hmkáme v tom istom jazyku.
+2541	Veža katedrály sa týči do výšky 142 metrov. V rokoch 1647 až 1874 bola najvyššou stavbou na svete.
+2542	Astronomické hodiny. Ich mechanizmus je z roku 1842. Každý deň o pol jednej defiluje dvanásť apoštolov pred Kristom.
+2543	Katedrála je postavená z ružového pieskovca z Vogéz. Preto pri západe slnka červenie.
+2544	Christkindelsmärik sa tu koná od roku 1570: jeden z najstarších vianočných trhov v Európe.
+2545	Kuchár z winstubu
+2546	Flammekueche! Tenké cesto, smotana, cibuľa, slanina, pečené v drevenej peci za dve minúty. Po francúzsky sa hovorí tarte flambée.
+2547	Štrasburské prísahy, zložené tu v roku 842 dvoma vnukmi Karola Veľkého, patria medzi najstaršie texty v starej francúzštine a starej hornej nemčine.
+2548	Každý kráľ prisahal v jazyku toho druhého, aby mu rozumelo vojsko toho druhého. Tlmočenie tu má dlhú históriu.
+2549	Ornitológ
+2550	Bocian biely je symbolom Alsaska. V roku 1974 v regióne zostalo len deväť párov.
+2551	Vďaka programu návratu ich je dnes niekoľko stoviek párov. A bocian biely je na finálovom návrhu 50-eurovej bankovky!
+2552	Nováčikovia hľadajú svoje hniezda. Môžeš ich nasmerovať ďalej od elektrických vedení?
+2553	Prilietajú ďalšie bociany. Nasmerovať ich znova?
+2554	Každý pár je doma! Tu, pre fond na ochranu bocianov… teda pre teba.
+2555	Strechy Petite France sú plné klapotajúcich zobákov. Tu je to zvuk jari.
+2556	Niektoré sa zapletli pri drôtoch… Sú v poriadku, len trochu urazené. Znova?
+2557	Miestnosť 18: sochy z Parthenónu v Aténach, odstránené agentmi lorda Elgina v rokoch 1801 až 1812 a kúpené Britským múzeom v roku 1816.
+2558	Grécko žiada o ich vrátenie od roku 1983. V Aténach má Múzeum Akropoly ich miesta pripravené.
+2559	Grécky návštevník
+2560	Prišiel som až z Atén pozrieť si naše mramory. Potom sa vrátim do Múzea Akropoly a pozriem sa na ich biele kópie.
+2561	Jeden vlys, dve mestá. Možno raz zase jedno mesto.
+2562	Červená telefónna búdka, model K6 navrhnutý v roku 1935. Dnes sa v niektorých nachádzajú defibrilátory, v iných malé knižnice.
+2563	Londýnske metro bolo otvorené v roku 1863: prvá podzemná železnica na svete. „Mind the gap!“
+2564	Po brexite Spojené kráľovstvo opustilo Erasmus. V decembri 2025 súhlasilo s opätovným pripojením od roku 2027. Moja malá sestra bude môcť študovať v Bologni!
+2565	Holandský colník
+2566	Od 1. januára 2021 je Spojené kráľovstvo mimo colných a veterinárnych pravidiel EÚ: cestujúci už nesmú do EÚ priniesť mäso ani mliečne výrobky.
+2567	Ten mesiac museli moji kolegovia v Hoek van Holland zhabať šunkové sendviče. „Vitajte v brexite, pane, je mi to ľúto.“
+2568	Ranný trajekt nastupuje. Pomôžeš mi skontrolovať desiaty?
+2569	Ďalší trajekt, ďalšia stovka desiat. Pomôžeš mi znova?
+2570	Ani jeden šunkový sendvič neprešiel. Tu máš odmenu bez syra a bez šunky.
+2571	Efektívne a zdvorilo. Z teba by bol dobrý colník.
+2572	Salám prešiel cez Kanál… Veterinárni inšpektori si budú chcieť pohovoriť.
+2573	Šofér kamiónu
+2574	Pred brexitom som s kamiónom prechádzal bez zastavenia. Teraz: colné vyhlásenia, zdravotné osvedčenia, kontroly. Prečítal som viac formulárov než románov.
+2575	Kampaňový autobus. V roku 2016 sľuboval na boku 350 miliónov libier týždenne pre Národnú zdravotnú službu.
+2576	V roku 2017 šéf britského štatistického úradu nazval tento údaj „jasným zneužitím oficiálnej štatistiky“.
+2577	Pozorovateľ vtákov
+2578	Sula biela sa potápa do mora rýchlosťou takmer sto kilometrov za hodinu. Najväčšia kolónia na svete je na Bass Rock v Škótsku.
+2579	ECB dala jednu na finálový návrh 200-eurovej bankovky: otvorené more, zložené krídla, šplechot.
+2580	Šachista
+2581	Kúpele Széchenyi, 1913: jedny z najväčších liečebných kúpeľov v Európe. Hráme tu šach po plecia v horúcej vode.
+2582	Maďarsko dalo svetu Judit Polgár, najsilnejšiu šachistku všetkých čias: veľmajsterka v pätnástich a v roku 2002 porazila Kasparova.
+2583	Tri pozície, v každej mat na jeden ťah. Nájdeš ich, kým voda nevychladne?
+2584	Nové pozície na plávajúcej šachovnici. Ďalšie kolo?
+2585	Tri maty! Hráš ako veľmajster v kúpeľnom plášti. Vezmi si toto.
+2586	Mat, mat, mat. Para ťa núti myslieť rýchlejšie.
+2587	Voda vychladla… Nabudúce hľadaj ťah, po ktorom kráľ nemá kam ísť.
+2588	Ruin bary: staré nádvoria bývalej židovskej štvrte premenené na bary s nesúrodým nábytkom. Prvé sa otvorili začiatkom 21. storočia.
+2589	Barman
+2590	Egészségedre! To je po maďarsky na zdravie. Skús to povedať po druhom pohári fröccsu: víno so sódovou vodou.
+2591	Predavač lángošov
+2592	Lángos: vyprážané cesto, cesnak, kyslá smotana a strúhaný syr. Nie diéta. Tradícia.
+2593	Rubikovu kocku vynašiel v Budapešti v roku 1974 Ernő Rubik, aby svojich študentov naučil priestorové myslenie. Ja som ju vyriešil za dve minúty. Alebo jednu stranu.
+2594	Topánky na brehu Dunaja (2005). Šesťdesiat párov železných topánok pripomína budapeštianskych Židov, ktorých príslušníci Šípových krížov v rokoch 1944 a 1945 zastrelili na tomto brehu a hodili do rieky.
+2595	Reťazový most, otvorený v roku 1849: prvý stály most medzi Budínom a Pešťou, ktorý navrhol anglický inžinier William Tierney Clark.
+2596	Jeho kamenné levy nemajú jazyky… ako hovorí legenda. Pozri sa dobre.
+2597	Rybárska bašta na Hradnom vrchu: sedem veží pre sedem maďarských kmeňov, ktoré sa usadili v Karpatskej kotline.
+2598	Včeláriky! Najfarebnejšie vtáky Európy. Hniezda si hrabú v piesčitých brehoch riek a včely chytajú za letu.
+2599	Maďarsko má niektoré z najväčších kolónií. Na finálových návrhoch ECB ich kolónia zdobí 20-eurovú bankovku.
+2600	Jazykovedec
+2601	Maďarčina nie je príbuzná s jazykmi susedov: patrí do uralskej rodiny, tak ako fínčina a estónčina.
+2602	A rodinné meno stojí na prvom mieste: Rubik Ernő, Polgár Judit. Ľahko sa pamätá, ťažko vyslovuje.
+2603	László Bíró, narodený v Budapešti, si v roku 1938 patentoval moderné guľôčkové pero. V mnohých krajinách sa pero stále volá „biro“.
+2604	Salon de l'Horloge. Dňa 9. mája 1950 o 18:00 tu francúzsky minister zahraničia Robert Schuman prečítal deklaráciu, v ktorej navrhol dať francúzske a nemecké uhlie a oceľ pod spoločnú správu.
+2605	Viedla k Európskemu spoločenstvu uhlia a ocele v roku 1951, prvému kroku dnešnej EÚ. Každý 9. máj je Deň Európy.
+2606	Archívy poprehadzovali strany deklarácie! Novinári prichádzajú. Dokážeš dať vety späť do poriadku?
+2607	Strany sú zasa pomiešané. Pomôžeš mi?
+2608	Slovo za slovom! Pán Schuman by ti potriasol rukou. Vezmi si toto od ministerstva.
+2609	Dokonale usporiadané. Európa sa nevytvorí naraz, ale ty ideš rýchlo.
+2610	Nie celkom… Pamätaj: najprv mier, potom konkrétne úspechy, potom uhlie a oceľ.
+2611	Marie Curie, rodená Maria Skłodowska vo Varšave, sa v roku 1906 stala prvou ženou profesorkou na Sorbonne. Získala dve Nobelove ceny, z fyziky a z chémie.
+2612	Je postavou 20-eurovej bankovky vo finálových návrhoch ECB s témou „Európska kultúra“.
+2613	Pekár
+2614	Od roku 2022 je remeslo francúzskej bagety na zozname nehmotného kultúrneho dedičstva UNESCO. Múka, voda, soľ, droždie. A trocha trpezlivosti.
+2615	Un café, s'il vous plaît! V Paríži je „café“ espresso. Ak chceš veľkú šálku, musíš to povedať. Nahlas.
+2616	Bukinista
+2617	Na týchto nábrežiach predávame použité knihy od 16. storočia. Stovky zelených debien, pozdĺž kilometrov Seiny.
+2618	Notre-Dame de Paris. Poškodená požiarom 15. apríla 2019, po piatich rokoch prác bola znova otvorená 7. decembra 2024.
+2619	Návštevník
+2621	Niektoré zimy zletí stenolaz z hôr na útesy údolia Meuse. Sivý vták s karmínovými krídlami, ako motýľ.
+2622	Je to vták z 5-eurovej bankovky vo finálových návrhoch ECB: horský prameň a stenolaz.
+2623	Udičkár
+2624	Vidíš ten modrý záblesk na Mosele? Rybárik. Skočí z konára a vynorí sa s rybou.
+2625	Na finálových návrhoch ECB je to vták 10-eurovej bankovky, pri vodopáde.
+2626	Antverpy sú druhým najväčším prístavom Európy. A pozdĺž Šeldy, hneď vedľa žeriavov, hniezdia šabliarky v prírodných rezerváciách.
+2627	Čierno-biela, s nahor zahnutým zobákom: vták 100-eurovej bankovky vo finálových návrhoch ECB, pri ústí rieky.
+2628	Obyvateľ Varšavy
+2629	Maria Skłodowska, Marie Curie, sa narodila tu, vo Varšave, v roku 1867. Prvok polónium pomenovala po svojej krajine.
+2630	Naše Staré Mesto bolo v roku 1944 zrovnané so zemou a postavené kameň po kameni: na zozname UNESCO je od roku 1980.
+2631	Leonardo da Vinci žil v Ríme od roku 1513 do roku 1516, vo Vatikáne, kým odišiel do Francúzska.
+2632	Je postavou 100-eurovej bankovky vo finálových návrhoch ECB s témou „Európska kultúra“.
+2633	Profesor
+2634	Lisabonská zmluva, podpísaná tu v roku 2007, vytvorila článok 50: postup na odchod z EÚ. Spojené kráľovstvo ho použilo ako prvé.
+2635	Tiež z Lisabonu: pastéis de nata, podľa receptu mníchov z Jerónimos. Oveľa obľúbenejšie než článok 50.
+2636	Starý námorník
+2637	V roku 1571 sa v Patraskom zálive, tu v Grécku, odohrala bitka pri Lepante. Mladý španielsky vojak tam prišiel o schopnosť používať ľavú ruku.
+2638	Volal sa Miguel de Cervantes. Neskôr napísal Dona Quijota. Je postavou 50-eurovej bankovky v kultúrnych návrhoch ECB!
+2639	V rohu leží pohľadnica opečiatkovaná porotou ECB pre dizajn: jeden z dvanástich motívov budúcich bankoviek. Ponecháš si ju.
+2640	Britské múzeum – Miestnosť 18
+2641	Kazematy Bock – Vchod
+2642	Štrasburská katedrála
+2643	Palais de l'Europe – Rada Európy
+2644	Trajektový terminál – colnica EÚ
+2645	Ruin bar – Budapešť
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Boulangerie – Paríž
+2648	Červená
+2649	Žltá
+2650	Biela
+2651	Oranžová
+2652	Kvetinový koberec
+2655	Návrh
+2656	Tri koberce z begónií! Belgicko pestuje väčšinu hľuznatých begónií na svete, v okolí Gentu.
+2657	Turisti prichádzajú a koberec nie je hotový… Nabudúce!
+2658	Bociany Alsaska
+2661	Bociany doma: %d / %d · stratené: %d / 3
+2662	Desať bocianov vo svojich hniezdach! V Alsasku vraj bocian na streche prináša šťastie.
+2663	Príliš veľa bocianov preletelo do ďalšej dediny… Na jar sa vrátia.
+2664	Šunkový sendvič
+2665	Mlieko
+2666	Salám
+2667	Jablko
+2668	Čokoláda
+2669	Chipsy
+2670	Sušienky
+2671	Colnica EÚ
+2674	Mäso, mliečne výrobky, väčšina ovocia: zhabať.
+2675	Banány, sladkosti, chipsy, voda: prepustiť.
+2676	Prepustiť
+2677	Zhabať
+2678	Všetky desiaty skontrolované! V jednotnom trhu EÚ sa potraviny pohybujú voľne; na jeho hraniciach sa kontrolujú.
+2679	Salám prešiel… alebo bol omylom zhabaný banán. Najprv pravidlá, sendvič potom!
+2685	Šach v kúpeľoch
+2688	Biely na ťahu, mat jedným ťahom
+2689	K kráľ · Q dáma · R veža · B strelec · N jazdec · P pešiak
+2691	Voda vychladla pred matom… Hľadaj ťah, po ktorom kráľ nemá ani jedno pole.
+2692	Svetový mier nemožno zachovať
+2694	Európa sa nestvorí naraz, alebo podľa jediného plánu.
+2698	Schumanova deklarácia
+2701	Deklarácia je hotová! V roku 1951 nasledovalo Európske spoločenstvo uhlia a ocele. Každý 9. máj je Deň Európy.
+2702	Novinári čakajú a strany sú stále v neporiadku… Najprv mier, potom konkrétne úspechy!
+2703	Kazematy Bock
+2706	Návštevník ide za tebou: teraz východ!
+2707	Kdesi v tme niekto volá…
+2708	Von na denné svetlo, s návštevníkom! Počas bombardovania sa v týchto chodbách ukrývalo až 35 000 ľudí.
+2709	Pochodňa zhasla… Sprievodca ide za tvojím hlasom a vyvedie vás oboch von.
+2710	bez toho, aby sme nevyvinuli tvorivé úsilie, úmerné nebezpečenstvám, ktoré ho ohrozujú.
+2713	Bude postavená konkrétnymi úspechmi, ktoré najprv vytvoria skutočnú solidaritu.
+2714	Francúzska a nemecká výroba uhlia a ocele sa podriadi spoločnému Vysokému úradu…
+2715	…aby sa vojna medzi Francúzskom a Nemeckom stala hmotne nemožnou.
+2716	Skôr než sa dotkneš tlačovej platne, dokáž, že vieš odhaliť falzifikát! Skontroluj každú bankovku spôsobom ECB: NAHMATAJ reliéfnu tlač, POZRI sa na ňu proti svetlu, NAKLOŇ ju. Posúď 10 bankoviek, jedna chyba je povolená.
+2717	V krčme v Sachsenhausene nalievaj jablčné víno z Bembelu do každého pohára po čiaru! Drž pero (alebo A) na naklonenie džbánu, pusti na zastavenie, potom podaj tlačidlom. 8 pohárov, 2 rozliatia povolené.
+2718	Osem dokonalých pohárov! Tu vo Frankfurte hovoria jablčnému vínu „Ebbelwoi“.
+2719	Námestie Syntagma, Hrob neznámeho vojaka. Hýb sa v takte s Evzonmi: KROK, KOP, DUPOT, keď každé znamenie dosiahne čiaru. 24 pohybov, pomaly a slávnostne. 4 chyby povolené.
+2720	Špička pri stánku! Každý zákazník žiada po grécky: ťukni na to, čo chce. Pri prvých ti pošepkám význam. 15 zákazníkov za 60 sekúnd!
+2721	Nalož tri lode do poludnia! Žeriav ovládaj perom alebo ←/→, spusti ho A alebo ťuknutím. Ťažké (H) nikdy na ľahšie, chladené (biele) len na dva stĺpce s prúdom (zásuvky) a loď drž vodorovne!
+2722	Skopíruj koberec z begónií zobrazený na hornej obrazovke: vyber farbu a ťukaj alebo ťahaj cez štvorce. Keď sa zhoduje, stlač Hotovo. Tri koberce za 90 sekúnd!
+2723	Bociany sa vracajú z Afriky! Veď každého do voľného hniezda: posúvaj pero hore a dole (alebo ↑/↓) a leť nízko nad voľným hniezdom, aby pristál. Vyhýbaj sa elektrickým vedeniam. 10 bocianov, 3 straty povolené.
+2724	Trajekt pristál! Skontroluj každú desiatu: ZHABAŤ mäso, mliečne výrobky a väčšinu ovocia, PREPUSTIŤ zvyšok. Pozor: banán je povolený, jablko nie. 20 škatúľ za 50 sekúnd, 2 chyby povolené.
+2725	Kúpele Széchenyi: hráči sa skláňajú nad doskou plávajúcou v pare. Biely je na ťahu: nájdi ťah, ktorý dá okamžitý mat. Ťukni na bielu figúru, potom na jej pole. Tri pozície za 90 sekúnd!
+2726	9. mája 1950, Salon de l'Horloge. Strany deklarácie Roberta Schumana sú pomiešané! Ťukaj na vety v správnom poradí pred tlačovou konferenciou. 60 sekúnd.
+2727	Chodby sú tmavé a pochodňa dohorieva. Nájdi strateného návštevníka a potom východ! Pohybuj sa krížovým ovládačom alebo ťukni vedľa svojej postavy. 75 sekúnd.
+2728	Tri maty! V kúpeľoch vraj porazený musí vystúpiť z vody ako prvý.
+2729	Nový dubový krov bol vytesaný ručne, ako v stredoveku. Pracovali na ňom tesári a kamenári z celého Francúzska.
+2730	Líc
+2731	Rub

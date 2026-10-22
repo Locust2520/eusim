@@ -1,0 +1,523 @@
+# Italian — city extensions (ids 2169+)
+2169	FALSO
+2171	%d s · %d/%d
+2172	Rilievi sui bordi: si sentono al tatto.
+2173	La carta è liscia ovunque…
+2174	Tocca
+2175	Guarda
+2176	Inclina
+2177	Controlla, poi decidi:
+2178	Autentica
+2179	Falsa
+2180	L/R: inclina · X: controluce · Y: tocca
+2181	Tocca, guarda, inclina
+2184	Era %s: mancava la stampa in rilievo.
+2185	Era %s: nessuna filigrana in controluce.
+2186	Era %s: il numero non cambiava colore.
+2187	un falso
+2188	Era una banconota autentica!
+2189	Neanche un falso è passato! Nella filigrana hai visto Europa, da un vaso greco di oltre 2000 anni fa.
+2190	Un falso è sfuggito… Tocca, guarda, inclina: bastano pochi secondi per i tre controlli.
+2191	Il Bembel
+2194	Servi
+2196	Troppi bicchieri rovesciati… L'oste ti presta uno straccio.
+2197	Maria Callas
+2198	Ludwig van Beethoven
+2199	Marie Curie
+2200	Miguel de Cervantes
+2201	Leonardo da Vinci
+2202	Bertha von Suttner
+2203	artisti di strada
+2204	un festival della canzone
+2205	una scuola
+2206	una biblioteca
+2207	street art
+2208	una piazza alberata
+2209	un picchio muraiolo presso una sorgente di montagna
+2210	un martin pescatore a una cascata
+2211	gruccioni in una valle fluviale
+2212	una cicogna bianca presso un fiume dai meandri
+2213	un'avocetta alla foce di un fiume
+2214	una sula bassana sul mare
+2215	il Parlamento europeo
+2216	la Commissione europea
+2217	la Banca centrale europea
+2218	la Corte di giustizia dell'UE
+2219	il Consiglio europeo e il Consiglio dell'UE
+2220	la Corte dei conti europea
+2221	Fronte: il tuo ritratto, al posto di %s
+2222	Retro: %s
+2223	Fronte: %s
+2224	Banconota campione – %d €
+2225	Non ha corso legale: è un campione di design.
+2227	L/R o tocca: gira · B: chiudi
+2228	Chiaro
+2229	Medio
+2230	Scuro
+2231	Gomma
+2234	Annulla
+2235	Cancella
+2236	Fatto
+2237	Disegna il tuo ritratto
+2238	Lo studio lo incide come il ritratto di una banconota.
+2239	La tua banconota campione
+2240	Cultura europea
+2241	Fiumi e uccelli
+2242	Gira
+2243	Nuovo ritratto
+2244	Stampa il campione
+2245	Stampa in corso…
+2246	Il tuo ritratto per il campione
+2247	La fotocamera del DSi, il pennino o la tua foto ufficiale.
+2248	Il pennino o la tua foto ufficiale.
+2249	Scatta una foto
+2250	Disegna il ritratto
+2251	Usa la foto ufficiale
+2252	La fotocamera non può essere usata qui. Puoi disegnare il tuo ritratto.
+2253	La tua banconota campione è entrata nella collezione del Museo del Denaro di Francoforte.
+2254	A Francoforte, lo studio della BCE conserva ancora un campione in bianco con il tuo nome.
+2255	Avvio della fotocamera…
+2256	Inquadra il viso nell'ovale
+2257	A o tocca: scatta · L/R: altra fotocamera · B: indietro
+2258	Prova d'incisione
+2259	Rifai
+2260	Tieni
+2261	Detto tra noi: l'euro è diventato contante, nelle tasche della gente, nel 2002. Alcune porte di questa torre ricordano ancora quell'anno.
+2262	Il simbolo dell'euro dell'artista Ottmar Hörl, inaugurato nel 2001 davanti alla ex torre della BCE.
+2263	Poche settimane dopo, il 1° gennaio 2002, banconote e monete in euro arrivarono nelle tasche della gente in dodici paesi.
+2264	Memoriale alla Grossmarkthalle.
+2265	Tra il 1941 e il 1945, circa 10.000 uomini, donne e bambini ebrei di Francoforte e dintorni furono deportati dal sotterraneo di questo mercato coperto verso ghetti e campi. La maggior parte fu assassinata.
+2266	La città di Francoforte, la Comunità ebraica e la BCE, la cui sede comprende ora il mercato, hanno creato insieme questo memoriale.
+2267	Il Römer, municipio di Francoforte dal 1405. Nella sua Sala Imperiale, gli imperatori del Sacro Romano Impero appena incoronati tenevano i banchetti d'incoronazione.
+2268	Case a graticcio sul Römerberg. I bombardamenti distrussero il centro storico nel 1944; questa fila è stata ricostruita negli anni Ottanta, trave dopo trave.
+2269	La Fontana della Giustizia. Guarda bene: questa Justitia tiene la bilancia e la spada, ma non ha la benda sugli occhi.
+2270	La chiamano «Mainhattan»: grattacieli sul fiume Meno. Ho contato undici gru e quattro banche. O forse il contrario.
+2271	Nel 1848 e 1849, in questa chiesa si riunì il primo parlamento eletto liberamente per tutta la Germania.
+2272	Scrisse una costituzione con i diritti fondamentali. Non entrò mai in vigore, ma le costituzioni tedesche successive vi attinsero.
+2273	Guida
+2274	La sala ha ancora le sue grandi giornate: ogni ottobre qui si assegna il Premio per la pace del commercio librario tedesco.
+2275	Il toro carica con le corna in alto: mercato in rialzo.
+2276	L'orso colpisce con la zampa verso il basso: mercato in ribasso.
+2277	Il tabellone del DAX. L'indice di borsa più famoso della Germania è nato qui nel 1988.
+2278	Compra sulla voce, vendi sulla notizia. E non vendere mai, mai l'ombrello ad aprile.
+2279	Johann Wolfgang von Goethe è nato in questa casa il 28 agosto 1749. Lavorò al Faust per una sessantina d'anni.
+2280	Il suo nome ora gira il mondo: il Goethe-Institut insegna il tedesco in quasi cento paesi.
+2281	La Messeturm domina il quartiere fieristico. Ogni ottobre ospita la Fiera del libro di Francoforte, la più grande del mondo.
+2282	Lettore
+2283	Sono venuto per la Fiera del libro e sono rimasto per la salsa verde. Ho letto tre libri e mangiato cinque salse.
+2284	L'Eiserner Steg, la passerella di ferro sul Meno, costruita nel 1869. Migliaia di lucchetti pendono dalle ringhiere: promesse d'amore.
+2285	Coppia
+2286	Abbiamo chiuso il lucchetto sul ponte e gettato la chiave nel Meno. Dobbiamo ancora decidere di chi è stata l'idea.
+2287	Francofortese
+2288	Sull'altra riva c'è Sachsenhausen. È lì che si beve l'Ebbelwoi, il vino di mele. Qui nessuno lo chiama sidro, bada bene.
+2289	Una corona di pino pende sopra la porta: segno che questa taverna pressa e serve il proprio vino di mele.
+2290	Locandiera
+2291	Guten Abend! Il vino di mele si versa dal Bembel, la brocca di gres grigio, in un Gerippte, il bicchiere a rombi.
+2292	Stasera ho la sala piena e due mani sole. Tu riempi i bicchieri, io li porto?
+2293	Hai voglia di un altro giro dietro il bancone?
+2294	Neanche una goccia sui miei tavoli! Tieni, prendi questo, e torna quando vuoi.
+2295	Di nuovo perfetto. Potresti aprire una taverna tutta tua. Basta appendere una corona di pino sopra la porta.
+2296	Ach, i tavoli sono allagati! Fa niente, passiamo lo straccio.
+2297	Habitué
+2298	Handkäs mit Musik: formaggio di latte acido marinato con cipolle. La musica viene dopo. Non chiedere.
+2299	La salsa verde vuole esattamente sette erbe: borragine, cerfoglio, crescione, prezzemolo, pimpinella, acetosa ed erba cipollina.
+2300	Dal 2016 l'UE protegge la «Frankfurter Grüne Soße» come indicazione geografica. Sette erbe, né più né meno.
+2301	Un vero lingotto d'oro da 12,5 chilogrammi che i visitatori possono sollevare. I più riescono a qualche centimetro.
+2302	Dalle conchiglie alle monete, dalle monete alla carta, dalla carta all'euro: tremila anni di denaro in pochi scaffali.
+2303	Curatore
+2304	La Bundesbank è la banca centrale della Germania. Dal 1999 fa parte dell'Eurosistema, con la BCE e le altre banche centrali dell'area dell'euro.
+2305	Mi dicono che hai una banconota campione con la tua faccia. Quando la tua avventura sarà finita, la vorremmo per la nostra collezione.
+2306	Un ritratto di Europa, la principessa del mito greco che diede il nome al continente.
+2307	Il suo volto viene da un vaso greco di oltre 2000 anni fa, conservato al Louvre. Tieni una banconota in euro controluce: è nella filigrana.
+2308	Dietro la cornice si illumina un piccolo tastierino. Quattro cifre.
+2309	Digitare un codice?
+2310	Il tastierino lampeggia di rosso. Da qualche parte nella sala degli scambi, qualcuno sospira.
+2311	Clic. Il quadro si apre su una stretta scala che scende…
+2312	Scendere nello studio segreto?
+2313	Un laboratorio pieno di cavalletti, bulini e una pesante pressa. Sulla porta: «Design delle banconote – riservato».
+2314	Tema «Cultura europea»: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) e Bertha von Suttner (200 €).
+2315	Sul retro: luoghi dove si condivide la cultura. Artisti di strada, un festival della canzone, una scuola, una biblioteca, street art, una piazza alberata.
+2316	Tema «Fiumi e uccelli»: da una sorgente di montagna (5 €) al mare aperto (200 €), con un picchio muraiolo, un martin pescatore, gruccioni, una cicogna bianca, un'avocetta e una sula bassana.
+2317	Sul retro: le istituzioni dell'UE, dal Parlamento europeo alla Corte dei conti europea.
+2318	I dieci progetti finalisti: EC145, EC564, EC617, EC799, EC915 e RB120, RB227, RB637, RB754, RB832.
+2319	I nomi dei progettisti restano segreti. Dopo un sondaggio pubblico, il Consiglio direttivo della BCE fa la scelta finale.
+2320	Una pressa calcografica. Spinge l'inchiostro nella carta con tanta forza da farlo restare in rilievo: è la stampa in rilievo che si sente su una banconota vera.
+2321	Specifiche: le stesse dimensioni delle banconote attuali, un colore dominante per taglio e, su ogni banconota, la bandiera europea, una mappa d'Europa e la firma del presidente della BCE.
+2322	Membro della giuria
+2323	Nel 2025 oltre 1200 progettisti hanno risposto al bando della BCE. Trentanove proposte sono arrivate alla giuria; dieci sono su questi cavalletti.
+2324	L'obiettivo è sostituire ponti e finestre immaginari con persone, uccelli e luoghi reali.
+2325	Eleni
+2326	Kaliméra! Sono Eleni, incisora calcografica. Ho imparato il mestiere alla stamperia della Banca di Grecia, ad Atene.
+2327	Ufficialmente, la BCE non stampa nemmeno una banconota: le disegna, e le stamperie di tutta Europa le producono.
+2328	Ora prepariamo le prossime banconote in euro. Nel 2026 una giuria ha selezionato dieci progetti su due temi: la cultura europea, e i fiumi e gli uccelli.
+2329	Prima della scelta finale devo provare l'incisione su un volto vero. Le banconote in euro non hanno mai mostrato una persona vivente… quindi la tua resterà un campione.
+2330	Ma nessuno tocca le mie lastre senza superare la prova. Tocca, guarda, inclina: dimostrami che sai distinguere una banconota autentica da una falsa.
+2331	Pronto?
+2332	Bravo! Hai l'occhio di un banchiere centrale. Ora, il tuo ritratto.
+2333	Un nuovo campione? La pressa è ancora calda.
+2334	Ecco, inciso! Vedi il numero di serie? La prima lettera, Y, è il codice della Banca di Grecia. La mia piccola firma.
+2335	Fallo vedere in giro. E salva la partita in Rapporto, così la tua banconota resta con te.
+2336	Un falso è passato. Tocca, guarda, inclina: bastano pochi secondi. Torna quando sei pronto.
+2337	Prenditi il tempo che serve. Una buona incisione non si fa di fretta.
+2338	Taverna del vino di mele – Sachsenhausen
+2339	BCE – Studio design banconote
+2340	Borsa di Francoforte
+2341	Museo del Denaro della Bundesbank
+2342	Casa di Goethe – Francoforte
+2343	Paulskirche – Sala dell'Assemblea
+2344	Banconota campione
+2345	Il tuo ritratto, inciso allo studio della BCE a Francoforte. Non ha corso legale.
+2346	Taverna del vino di mele, Sachsenhausen
+2348	Tieni premuto per inclinare il Bembel, rilascia per fermare. Servi alla linea.
+2349	Il cambio della guardia
+2352	Passo
+2353	Calcio
+2354	Pesta
+2355	Mosse: %d / 24 · errori: %d
+2356	←: passo · →: calcio · A/↓: pesta
+2357	Perfettamente a tempo! Gli Evzoni cambiano la guardia ogni ora, giorno e notte, con qualsiasi tempo.
+2358	Fuori tempo… Gli Evzoni si allenano per mesi prima del primo turno di guardia.
+2359	Frappé
+2360	Acqua
+2361	Giornale
+2362	Koulouri
+2363	Komboloi
+2364	Mati
+2365	Biglietto
+2366	Chewing gum
+2367	(Un frappé, per favore!)
+2368	(Un'acqua, per favore!)
+2369	(Un giornale, per favore!)
+2370	(Un koulouri, l'anello al sesamo, per favore!)
+2371	(Un komboloi, per favore!)
+2372	(Un amuleto contro il malocchio, per favore!)
+2373	(Un biglietto, per favore!)
+2374	(Chewing gum, per favore!)
+2375	Il periptero
+2378	Quindici clienti felici! Ευχαριστώ (efcharistó) significa grazie.
+2379	La fila arriva fino alla via accanto… Σιγά σιγά (sigá sigá): piano piano.
+2380	Il porto del Pireo
+2383	H
+2384	Nave %d/3 · container %d/%d
+2385	Tempo: %d s · errori: %d/3
+2386	Sbandamento
+2387	Tre navi caricate e in assetto! Il Pireo è uno dei maggiori porti container del Mediterraneo.
+2388	Il capitano di porto ferma il carico: la nave non è sicura. Ricarica e riprova!
+2389	La Tomba del Milite Ignoto (1932), sotto il Parlamento. Gli Evzoni della Guardia presidenziale la vegliano giorno e notte.
+2390	La piazza si chiama Syntagma, «Costituzione»: nel 1843 gli ateniesi si radunarono qui finché re Ottone ne concesse una.
+2391	L'Evzono non si muove. Nemmeno un ciglio.
+2392	I suoi tsarouchia, gli zoccoli rossi con i pompon neri, pesano circa tre chili l'uno, con sessanta chiodi nelle suole. La sua gonnella bianca, la fustanella, ha 400 pieghe: una per ogni anno di dominio ottomano, secondo la tradizione.
+2393	Sergente evzono
+2394	Ogni ora la guardia cambia. Passi lenti, un calcio alto, gli zoccoli che battono sul marmo: due uomini si muovono come uno.
+2395	Oggi manca una recluta. Segui il ritmo con me?
+2396	Un altro cambio della guardia?
+2397	Neanche un passo fuori tempo. Μπράβο (brávo)! Prendi questo, dalla guardia.
+2398	Μπράβο (brávo)! La domenica alle undici tutta la compagnia sfila in alta uniforme. Vieni a vedere.
+2399	I tuoi zoccoli e il tamburo non andavano d'accordo. Ci vogliono mesi di addestramento. Ancora domani?
+2400	Edicolante
+2401	Γεια σας (yia sas, salve)! Un periptero vende di tutto: giornali, acqua, biglietti dell'autobus, ricariche telefoniche, chewing gum, komboloi…
+2402	Mio nipote non è venuto. Tieni tu il banco? I clienti parlano greco, ma ti sussurro il significato.
+2403	Di nuovo l'ora di punta! Mi dai una mano?
+2404	Ευχαριστώ (efcharistó, grazie)! Ormai parli chiosco. Tieni, offre la casa.
+2405	Ευχαριστώ (efcharistó)! La fila è sparita in tempo record.
+2406	Σιγά σιγά (sigá sigá), piano piano. È anche un proverbio greco.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): un frappé a zucchero medio, per favore. Caffè freddo montato a schiuma.
+2408	È stato inventato per caso nel 1957, alla Fiera internazionale di Salonicco: un rappresentante, senza acqua calda, agitò il suo caffè solubile con acqua fredda.
+2409	Stazione della metro di Syntagma. Quando negli anni Novanta si scavò la metro, gli archeologi trovarono decine di migliaia di oggetti. Alcuni sono esposti nella stazione stessa.
+2410	Il 28 ottobre è il giorno dell'Ochi (όχι, óchi, «no»). Nel 1940 la Grecia disse no all'ultimatum di Mussolini; ogni anno gli scolari sfilano per le strade.
+2411	Da non confondere con l'OXI del referendum del 2015. Due celebri «no» greci, a settantacinque anni di distanza.
+2412	La dracma: nome di una moneta della Grecia antica, ripreso nel 1832 per il giovane Stato greco e sostituito dall'euro nel 2002.
+2413	La moneta greca da un euro mostra la civetta di Atena, copiata da una moneta ateniese antica, il tetradramma.
+2414	La Banca di Grecia ha una propria stamperia: stampa anche banconote in euro.
+2415	Sulle banconote della serie Europa, la prima lettera del numero di serie indica la banca centrale che le ha ordinate. La nostra è la Y.
+2416	Una Y sul tuo campione? Allora bentornato a casa!
+2417	Anafiotika: nell'Ottocento, muratori dell'isola di Anafi vennero a lavorare al palazzo reale e si costruirono qui, sotto l'Acropoli, un piccolo villaggio cicladico.
+2418	Μιάου (miáou). Atene ha migliaia di gatti randagi; vicini e volontari li nutrono, anche tra le rovine.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Hai mangiato? Sei dimagrito. Siediti. Mangia.
+2421	La yiayia ha nutrito tutta la tua squadra finché nessuno riusciva più a muoversi. Sono tutti in forma.
+2422	Γιαγιά (yiayiá) significa nonna. E una yiayia non ti crede mai quando dici che sei pieno.
+2423	Vicino
+2424	Χρόνια πολλά (chrónia pollá)! Cento di questi anni! Oggi è il mio onomastico.
+2425	In Grecia spesso si festeggia la festa del santo di cui si porta il nome più del compleanno. Mezza via si chiama Giorgos: immagina il giorno di San Giorgio.
+2426	Ναι (nai) significa sì! Ai turisti sembra «no». E όχι (óchi) significa no.
+2427	Se inclino la testa all'indietro e schiocco la lingua, vuol dire no anche così. Facile!
+2428	Bancarellista
+2429	Μάτι (máti), l'occhio! Un occhio di vetro blu ti protegge dal malocchio, la sfortuna che nasce dall'invidia.
+2430	Se qualcuno fa un complimento al tuo Euromon, di' «φτου φτου» (ftou ftou), come se sputassi. Porta fortuna. Non sputare davvero.
+2431	Casaro
+2432	La feta è una denominazione di origine protetta dal 2002: la vera feta si fa in Grecia con latte di pecora, a volte con un po' di latte di capra.
+2433	Germania e Danimarca la contestarono davanti alla Corte di giustizia dell'UE. Nel 2005 la Corte decise: la feta è greca.
+2434	Cuoco alla griglia
+2435	Souvlaki! Ad Atene sono carne allo spiedo. A Salonicco la stessa cosa si chiama kalamaki, «bastoncino».
+2436	Chiedi un «souvlaki» a Salonicco e ti daranno una pita gyros. Famiglie si sono divise per meno.
+2437	Musicista
+2438	Tutti pensano che il sirtaki sia un'antica danza popolare. È stato inventato per il film «Zorba il greco» nel 1964, su musica di Mikis Theodorakis.
+2439	Lento all'inizio, poi sempre più veloce… Opa!
+2440	Stazione di Monastiraki. La Linea 1 segue la ferrovia Atene–Pireo, aperta nel 1869: la linea più antica della rete.
+2441	Prendere il treno per il porto del Pireo?
+2442	L'Odeon di Erode Attico, costruito nel 161 d.C. Nel 1944 una giovane soprano che aveva studiato al Conservatorio di Atene vi cantò il «Fidelio» di Beethoven: Maria Callas.
+2443	Callas e Beethoven compaiono entrambi nei progetti finalisti delle prossime banconote in euro, sui tagli da 5 e 10 euro del tema della cultura.
+2444	Queste lastre bianche sono calchi in gesso. Gli originali sono al British Museum di Londra dal 1816.
+2445	La Grecia ne chiede ufficialmente la restituzione dal 1983. Il museo tiene pronti i loro posti, accanto ai pezzi originali.
+2446	Un blocco originale del fregio del Partenone: cavalieri della processione delle Panatenee, scolpiti intorno al 440 a.C.
+2447	Il Museo dell'Acropoli ha aperto nel 2009. Questo ultimo piano è ruotato per allinearsi al Partenone, che si vede attraverso il vetro.
+2448	Il fregio corre tutto intorno, nel suo ordine originale. Marmo color miele: qui. Gesso bianco: a Londra.
+2449	Lo Zappeion. Qui, il 28 maggio 1979, la Grecia firmò il trattato di adesione alle Comunità europee.
+2450	Ne divenne il decimo membro il 1° gennaio 1981. L'euro seguì nel 2001, un anno prima di monete e banconote.
+2451	Melina Mercouri (1920–1994), attrice, poi ministra della Cultura. Propose la Capitale europea della cultura: Atene fu la prima, nel 1985.
+2452	Lanciò anche la campagna per la restituzione dei marmi del Partenone.
+2453	Lo Stadio Panathinaiko, l'unico grande stadio al mondo costruito interamente in marmo. I primi Giochi olimpici moderni si svolsero qui nel 1896.
+2454	Ogni due anni, la fiamma olimpica viene consegnata qui alla prossima città ospitante.
+2455	Terminal container gestito da COSCO Shipping. Il gruppo cinese ha acquistato il 51% dell'Autorità portuale del Pireo nel 2016, poi il 67% nel 2021.
+2456	Guardia portuale
+2457	Il terminal container è chiuso ai visitatori. Il porto passeggeri è tutto tuo.
+2458	Di qui no, grazie: terminal container.
+2459	Stazione del Pireo, capolinea della Linea 1. L'edificio risale al 1929.
+2460	Riprendere il treno per Atene?
+2461	Pietre delle mura del Pireo. Nel V secolo a.C. Temistocle fece del Pireo il porto di Atene, e le Lunghe Mura collegavano le due città.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), «I figli del Pireo»! Manos Hadjidakis la scrisse per il film «Never on Sunday» (1960), con Melina Mercouri.
+2463	Vinse l'Oscar per la migliore canzone. In Francia Dalida ne fece un successo: «Les Enfants du Pirée».
+2464	Pescatore
+2465	Laggiù c'è Mikrolimano, il porticciolo: barche da pesca e taverne dove il pesce nuotava ancora stamattina.
+2466	Di qui allo Stadio Karaiskakis, casa dell'Olympiacos. Nel 2024 il club ha vinto la UEFA Europa Conference League: il primo trofeo europeo per una squadra di calcio greca.
+2467	Traghetti per le isole: Egina, Idra, le Cicladi, Creta… Il Pireo è uno dei porti passeggeri più trafficati d'Europa.
+2468	Gli armatori greci controllano circa un quinto della flotta mercantile mondiale: più di qualunque altro paese.
+2469	Caposquadra
+2470	Ehi, tirocinante! La nave parte a mezzogiorno e il mio gruista è in sciopero. Hai mai caricato una portacontainer?
+2471	I container pesanti in fondo, quelli frigoriferi sulle file con la corrente, e tienila in assetto, o sbanda.
+2472	Un'altra nave da caricare?
+2473	Dritto come un fuso! Ecco la tua paga. Non spenderla tutta in souvlaki.
+2474	Un'altra nave partita in orario. Il capitano manda i suoi saluti.
+2475	Sbanda come un brutto umore. Rimettiamo a posto. Ancora?
+2476	Banca di Grecia – Museo
+2477	Museo dell'Acropoli – Sala Partenone
+2478	Porto del Pireo
+2479	Casa – Plaka
+2480	Cartoline della giuria: %d su 12.
+2481	Ecco tutti e dodici i motivi! Eleni, allo studio della BCE a Francoforte, vorrà vederli.
+2482	Tutte e dodici le cartoline! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… e i sei uccelli. Hai visto più Europa della giuria.
+2483	D'ora in poi la mia pressa stampa i tuoi campioni in edizione oro. E prendi questo, dallo studio.
+2484	Un'ultima cosa: la giuria ha spedito cartoline dei dodici motivi in tutta Europa. Se le trovi tutte, torna: inciderò un'edizione oro.
+2485	Il municipio di Bruxelles, costruito nel XV secolo. In cima alla torre alta 96 metri, San Michele uccide il drago.
+2486	La Grand-Place che lo circonda è patrimonio mondiale dell'UNESCO dal 1998.
+2487	Le case delle corporazioni: fornai, battellieri, birrai… ogni mestiere aveva la sua casa, dorata per sfoggiare la ricchezza.
+2488	Manneken-Pis: 55 centimetri di bronzo. Possiede più di mille costumi, custoditi nel suo museo guardaroba.
+2489	Vestiarista ufficiale
+2490	Oggi è vestito da… se stesso. Domani, da pompiere. La settimana prossima, da astronauta. Vestire una statua è un lavoro a tempo pieno.
+2491	Gestore di fritkot
+2492	Le vere patatine belghe si friggono due volte: una per cuocerle, una per renderle croccanti.
+2493	Hai fame? Prova una mitraillette: mezza baguette, carne, salsa e patatine dentro. Sì, dentro.
+2494	Venditore di waffle
+2495	Waffle di Bruxelles: leggero, rettangolare, spolverato di zucchero. Waffle di Liegi: più denso, con zucchero in granella caramellato all'interno.
+2496	Scegliere tra i due ha diviso le famiglie per generazioni. Io vendo entrambi. Molto diplomatico.
+2497	I muri di Bruxelles sono coperti da decine di murales di fumetti. Il Belgio prende i fumetti sul serio quanto il cioccolato.
+2498	Di qui alle Galeries Royales Saint-Hubert (1847), una delle più antiche gallerie commerciali coperte d'Europa.
+2499	Nel 1912, in queste gallerie, il cioccolatiere Jean Neuhaus inventò il cioccolatino ripieno: la praline.
+2500	Grand-Place / Grote Markt. A Bruxelles ogni nome di via è scritto in francese e in olandese: la regione della capitale è ufficialmente bilingue.
+2501	Il Belgio ha tre lingue ufficiali: olandese, francese e tedesco.
+2502	Bruxellese
+2503	Allez, une fois! È così che si immaginano che parliamo a Bruxelles. E, beh… a volte è vero.
+2504	Giardiniere
+2505	Ogni due anni, in agosto, un tappeto di begonie copre la Grand-Place. Il primo fu steso nel 1971.
+2506	Centinaia di migliaia di fiori, posati a mano in poche ore. Mi manca un volontario. Pianti con me?
+2507	Un altro tappeto? Le begonie aspettano.
+2508	Magnifico! Persino le case delle corporazioni sembrano gelose. Tieni, da parte della città.
+2509	Un altro capolavoro. Tra qualche giorno i fiori saranno spariti, ma le foto resteranno.
+2510	Il disegno è venuto un po'… astratto. A Magritte sarebbe piaciuto.
+2511	Il Ponte Granduchessa Charlotte, soprannominato Ponte Rosso, collega la città vecchia all'altopiano del Kirchberg, in alto sulla valle dell'Alzette.
+2512	Il Palazzo granducale, nel cuore della città vecchia. Il Lussemburgo è l'ultimo granducato rimasto al mondo.
+2513	La guardia marcia per otto passi, si gira, marcia per otto passi indietro. È molto rilassante da guardare.
+2514	La Corte dei conti europea: il cane da guardia finanziario dell'UE. Controlla come viene speso il denaro europeo, euro per euro.
+2515	In uno dei progetti finalisti per le prossime banconote, compare sul retro della banconota da 200 euro.
+2516	Dal 29 febbraio 2020 tutti i trasporti pubblici in Lussemburgo sono gratuiti: autobus, tram, treni. Il primo paese al mondo a farlo.
+2517	La Gëlle Fra, la dama dorata del Monumento del Ricordo, onora i lussemburghesi caduti nelle guerre mondiali.
+2518	Gli occupanti la abbatterono nel 1940; fu interamente restaurata e rimessa sulla sua colonna nel 1985.
+2519	La Schueberfouer! Un luna park dal 1340, fondato da Giovanni il Cieco, conte di Lussemburgo. Ogni anno a fine estate.
+2520	Lussemburghese
+2521	Moien! Significa salve in lussemburghese. Qui abbiamo tre lingue amministrative: lussemburghese, francese e tedesco.
+2522	Quasi tutti passiamo dall'una all'altra nella stessa frase. A volte si insinua anche l'inglese.
+2523	Su un muro: «Mir wëlle bleiwe wat mir sinn» («Vogliamo restare ciò che siamo»), il motto nazionale.
+2524	Benvenuto alle casematte del Bock: 17 chilometri di gallerie scavate nella roccia, parte di un sito patrimonio mondiale dell'UNESCO.
+2525	Durante i bombardamenti della seconda guerra mondiale, fino a 35.000 persone vi trovarono rifugio.
+2526	Un visitatore si è perso nelle gallerie buie con la mia ultima torcia. Riesci a trovare l'uscita e a riportarlo indietro?
+2527	Un altro giro nelle gallerie?
+2528	Usciti sani e salvi entrambi! La fortezza era chiamata il «Gibilterra del Nord». Prendi questo per il disturbo.
+2529	Conosci le gallerie meglio dei soldati del 1700.
+2530	La torcia si è spenta… Non preoccuparti, conosco la strada. Riproviamo.
+2531	Il Pont de l'Europe attraversa il Reno. Dall'altra parte: Kehl, in Germania. Dal 2017 un tram attraversa persino il confine.
+2532	Pendolare
+2533	Abito a Kehl e lavoro a Strasburgo. Ogni mattina cambio paese in quattro minuti. Nessuno controlla il mio passaporto.
+2534	Qui ha sede il Consiglio d'Europa, fondato nel 1949: 46 Stati membri, e la Corte europea dei diritti dell'uomo. Non fa parte dell'UE.
+2535	Non confonderlo con il Consiglio europeo (i capi di Stato e di governo dell'UE) né con il Consiglio dell'UE (i ministri). Lo fanno persino i giornalisti.
+2536	La bandiera blu con dodici stelle d'oro fu adottata per prima dal Consiglio d'Europa, nel 1955. L'UE la fece sua più tardi.
+2537	Un ritratto di Bertha von Suttner (1843–1914), autrice del romanzo «Abbasso le armi!» e prima donna a ricevere il premio Nobel per la pace, nel 1905.
+2538	È la figura da 200 euro dei progetti finalisti «Cultura europea» della BCE.
+2539	L'inno europeo è il preludio dell'«Inno alla gioia», dalla Nona Sinfonia di Beethoven. Il Consiglio d'Europa lo adottò nel 1972, l'UE nel 1985.
+2540	Non ha parole ufficiali: in Europa lo fischiettiamo tutti nella stessa lingua.
+2541	La guglia della cattedrale si alza a 142 metri. Dal 1647 al 1874 fu l'edificio più alto del mondo.
+2542	L'orologio astronomico. Il suo meccanismo risale al 1842. Ogni giorno alle dodici e mezza i dodici apostoli sfilano davanti a Cristo.
+2543	La cattedrale è costruita con arenaria rosa dei Vosgi. Per questo arrossisce al tramonto.
+2544	Il Christkindelsmärik si tiene qui dal 1570: uno dei più antichi mercatini di Natale d'Europa.
+2545	Cuoco di Winstub
+2546	Flammekueche! Pasta sottile, panna, cipolle, pancetta, cotta in forno a legna in due minuti. In francese si dice tarte flambée.
+2547	I Giuramenti di Strasburgo, pronunciati qui nell'842 da due nipoti di Carlo Magno, sono tra i più antichi testi in antico francese e in alto tedesco antico.
+2548	Ogni re giurò nella lingua dell'altro, perché l'esercito dell'altro potesse capire. Qui l'interpretariato ha una lunga storia.
+2549	Ornitologo
+2550	La cicogna bianca è l'emblema dell'Alsazia. Nel 1974 nella regione restavano solo nove coppie.
+2551	Grazie a un programma di reintroduzione, oggi sono diverse centinaia di coppie. E la cicogna bianca è su un progetto finalista per la banconota da 50 euro!
+2552	I nuovi arrivati cercano i loro nidi. Puoi guidarli, lontano dalle linee elettriche?
+2553	Arrivano altre cicogne. Le guidi ancora?
+2554	Ogni coppia è a casa! Tieni, per il fondo di protezione delle cicogne… cioè, per te.
+2555	I tetti della Petite France sono pieni di becchi che schioccano. È il suono della primavera da queste parti.
+2556	Alcune si sono impigliate vicino ai fili… Stanno bene, solo un po' indispettite. Ancora?
+2557	Sala 18: sculture del Partenone di Atene, portate via dagli agenti di Lord Elgin tra il 1801 e il 1812 e acquistate dal British Museum nel 1816.
+2558	La Grecia ne chiede la restituzione dal 1983. Ad Atene, il Museo dell'Acropoli tiene pronti i loro posti.
+2559	Visitatore greco
+2560	Sono venuto fin da Atene per vedere i nostri marmi. Poi tornerò al Museo dell'Acropoli a guardare le copie bianche di questi.
+2561	Un fregio, due città. Magari un giorno, di nuovo una sola.
+2562	Una cabina telefonica rossa, il modello K6 disegnato nel 1935. Oggi alcune ospitano defibrillatori, altre piccole biblioteche.
+2563	La metropolitana di Londra è stata aperta nel 1863: la prima ferrovia sotterranea del mondo. «Mind the gap!»
+2564	Dopo la Brexit, il Regno Unito è uscito da Erasmus. A dicembre 2025 ha accettato di rientrare dal 2027. Mia sorella minore potrà studiare a Bologna!
+2565	Doganiere olandese
+2566	Dal 1° gennaio 2021 il Regno Unito è fuori dalle norme doganali e veterinarie dell'UE: i viaggiatori non possono più portare carne o latticini nell'UE.
+2567	Quel mese, i miei colleghi di Hook of Holland hanno dovuto confiscare panini al prosciutto. «Benvenuto nella Brexit, signore, mi dispiace.»
+2568	Il traghetto del mattino sta imbarcando. Mi aiuti a controllare i cestini del pranzo?
+2569	Un altro traghetto, altri cento cestini del pranzo. Mi aiuti ancora?
+2570	Neanche un panino al prosciutto è passato. Tieni, un premio senza formaggio e senza prosciutto.
+2571	Efficiente e cortese. Saresti un ottimo doganiere.
+2572	Un salame ha attraversato la Manica… Gli ispettori veterinari vorranno dire due parole.
+2573	Camionista
+2574	Prima della Brexit passavo col mio camion senza fermarmi. Ora: dichiarazioni doganali, certificati sanitari, controlli. Ho letto più moduli che romanzi.
+2575	Un autobus della campagna elettorale. Nel 2016 sulla fiancata prometteva 350 milioni di sterline a settimana per il servizio sanitario nazionale.
+2576	Nel 2017 il presidente dell'autorità statistica britannica definì quella cifra un «chiaro uso improprio delle statistiche ufficiali».
+2577	Birdwatcher
+2578	Le sule bassane si tuffano in mare a quasi cento chilometri orari. La colonia più grande del mondo è sul Bass Rock, in Scozia.
+2579	La BCE ne ha messa una su un progetto finalista per la banconota da 200 euro: mare aperto, ali chiuse, spruzzo.
+2580	Scacchista
+2581	Bagni termali Széchenyi, 1913: uno dei più grandi bagni curativi d'Europa. Qui si gioca a scacchi con l'acqua calda fino alle spalle.
+2582	L'Ungheria ha dato al mondo Judit Polgár, la più forte scacchista di sempre: grande maestro a quindici anni, nel 2002 batté Kasparov.
+2583	Tre posizioni, scacco matto in una mossa ciascuna. Riesci a trovarle prima che l'acqua si raffreddi?
+2584	Nuove posizioni sulla scacchiera galleggiante. Un altro giro?
+2585	Tre scacchi matti! Giochi come un grande maestro in accappatoio. Prendi questo.
+2586	Scacco matto, scacco matto, scacco matto. Il vapore ti fa pensare più in fretta.
+2587	L'acqua si è raffreddata… La prossima volta, cerca la mossa che non lascia al re nessuna via d'uscita.
+2588	Ruin bar: vecchi cortili dell'ex quartiere ebraico, trasformati in bar con mobili spaiati. I primi aprirono all'inizio degli anni 2000.
+2589	Barista
+2590	Egészségedre! Significa cin cin in ungherese. Prova a dirlo dopo il secondo bicchiere di fröccs: vino e acqua gassata.
+2591	Venditore di lángos
+2592	Lángos: pasta fritta, aglio, panna acida e formaggio grattugiato. Non è una dieta. È una tradizione.
+2593	Il Cubo di Rubik fu inventato a Budapest nel 1974 da Ernő Rubik, per insegnare lo spazio ai suoi studenti. Io l'ho risolto in due minuti. O almeno una faccia.
+2594	Le scarpe sulla riva del Danubio (2005). Sessanta paia di scarpe di ferro ricordano gli ebrei di Budapest fucilati su questa riva dai miliziani delle Croci Frecciate nel 1944 e 1945, e gettati nel fiume.
+2595	Il Ponte delle Catene, aperto nel 1849: il primo ponte stabile tra Buda e Pest, progettato dall'ingegnere inglese William Tierney Clark.
+2596	I suoi leoni di pietra non hanno la lingua… come vuole la leggenda. Guarda bene.
+2597	Il Bastione dei Pescatori, sulla Collina del Castello: sette torri, per le sette tribù magiare che si stabilirono nel bacino dei Carpazi.
+2598	Gruccioni! Gli uccelli più colorati d'Europa. Scavano i nidi nelle rive sabbiose dei fiumi e catturano le api al volo.
+2599	L'Ungheria ha alcune delle colonie più grandi. Nei progetti finalisti della BCE, una loro colonia decora la banconota da 20 euro.
+2600	Linguista
+2601	L'ungherese non è imparentato con le lingue dei vicini: appartiene alla famiglia uralica, come il finlandese e l'estone.
+2602	E il cognome viene prima: Rubik Ernő, Polgár Judit. Facile da ricordare, difficile da pronunciare.
+2603	László Bíró, nato a Budapest, brevettò la moderna penna a sfera nel 1938. In molti paesi una penna si chiama ancora «biro».
+2604	Il Salon de l'Horloge. Il 9 maggio 1950 alle 18, Robert Schuman, ministro degli Esteri francese, vi lesse una dichiarazione che proponeva di mettere in comune il carbone e l'acciaio francesi e tedeschi.
+2605	Portò alla Comunità europea del carbone e dell'acciaio nel 1951, il primo passo dell'UE di oggi. Ogni 9 maggio è la Festa dell'Europa.
+2606	Gli archivi hanno mescolato le pagine della dichiarazione! I giornalisti stanno arrivando. Riesci a rimettere le frasi in ordine?
+2607	Le pagine sono di nuovo mescolate. Mi aiuti?
+2608	Parola per parola! Il signor Schuman ti avrebbe stretto la mano. Prendi questo, dal ministero.
+2609	Perfettamente in ordine. L'Europa non si farà in un colpo solo, ma tu sei veloce.
+2610	Non proprio… Ricorda: prima la pace, poi le realizzazioni concrete, poi il carbone e l'acciaio.
+2611	Marie Curie, nata Maria Skłodowska a Varsavia, divenne la prima donna docente alla Sorbona nel 1906. Vinse due premi Nobel, per la fisica e per la chimica.
+2612	È la figura da 20 euro dei progetti finalisti «Cultura europea» della BCE.
+2613	Fornaio
+2614	Dal 2022 l'arte della baguette francese è nella lista UNESCO del patrimonio culturale immateriale. Farina, acqua, sale, lievito. E un po' di pazienza.
+2615	Un café, s'il vous plaît! A Parigi un «café» è un espresso. Se vuoi una tazza grande, devi dirlo. Ad alta voce.
+2616	Bouquiniste
+2617	Su queste banchine vendiamo libri usati dal XVI secolo. Centinaia di cassette verdi, lungo chilometri di Senna.
+2618	Notre-Dame de Paris. Danneggiata da un incendio il 15 aprile 2019, è stata riaperta il 7 dicembre 2024 dopo cinque anni di lavori.
+2619	Visitatore
+2621	Certi inverni un picchio muraiolo scende dalle montagne alle scogliere della valle della Mosa. Un uccello grigio con le ali cremisi, come una farfalla.
+2622	È l'uccello della banconota da 5 euro nei progetti finalisti della BCE: una sorgente di montagna e un picchio muraiolo.
+2623	Pescatore con la canna
+2624	Vedi quel lampo blu sulla Mosella? Un martin pescatore. Si tuffa da un ramo e risale con un pesce.
+2625	Nei progetti finalisti della BCE è l'uccello della banconota da 10 euro, presso una cascata.
+2626	Anversa è il secondo porto d'Europa. E lungo la Schelda, accanto alle gru, le avocette nidificano nelle riserve naturali.
+2627	Bianco e nero, con il becco rivolto all'insù: l'uccello della banconota da 100 euro nei progetti finalisti della BCE, alla foce di un fiume.
+2628	Abitante di Varsavia
+2629	Maria Skłodowska, Marie Curie, è nata qui a Varsavia, nel 1867. Diede all'elemento polonio il nome del suo paese.
+2630	La nostra Città Vecchia fu rasa al suolo nel 1944 e ricostruita pietra su pietra: è nella lista UNESCO dal 1980.
+2631	Leonardo da Vinci visse a Roma dal 1513 al 1516, in Vaticano, prima di partire per la Francia.
+2632	È la figura da 100 euro dei progetti finalisti «Cultura europea» della BCE.
+2633	Professore
+2634	Il Trattato di Lisbona, firmato qui nel 2007, ha creato l'articolo 50: la procedura per lasciare l'UE. Il Regno Unito è stato il primo a usarlo.
+2635	Sempre da Lisbona: i pastéis de nata, secondo la ricetta dei monaci di Jerónimos. Molto più popolari dell'articolo 50.
+2636	Vecchio marinaio
+2637	Nel 1571 la battaglia di Lepanto si combatté nel golfo di Patrasso, qui in Grecia. Un giovane soldato spagnolo vi perse l'uso della mano sinistra.
+2638	Si chiamava Miguel de Cervantes. Scrisse poi il Don Chisciotte. È la figura da 50 euro dei progetti sulla cultura della BCE!
+2639	In un angolo, una cartolina timbrata dalla giuria di design della BCE: uno dei dodici motivi delle future banconote. La tieni tu.
+2640	British Museum – Sala 18
+2641	Casematte del Bock – Ingresso
+2642	Cattedrale di Strasburgo
+2643	Palais de l'Europe – Consiglio d'Europa
+2644	Terminal traghetti – Dogana UE
+2645	Ruin Bar – Budapest
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Boulangerie – Parigi
+2648	Rosso
+2649	Giallo
+2650	Bianco
+2651	Arancio
+2652	Il tappeto di fiori
+2655	Il disegno
+2656	Tre tappeti di begonie! Il Belgio coltiva la maggior parte delle begonie tuberose del mondo, intorno a Gand.
+2657	I turisti arrivano e il tappeto non è finito… La prossima volta!
+2658	Le cicogne d'Alsazia
+2661	Cicogne a casa: %d / %d · perse: %d / 3
+2662	Dieci cicogne nei loro nidi! In Alsazia si dice che una cicogna sul tetto porti fortuna.
+2663	Troppe cicogne sono volate al villaggio vicino… Torneranno la prossima primavera.
+2664	Panino
+2665	Latte
+2666	Salame
+2667	Mela
+2668	Barretta
+2669	Patatine
+2670	Biscotti
+2671	Dogana UE
+2674	Carne, latticini, quasi tutta la frutta: confisca.
+2675	Banane, caramelle, patatine, acqua: lascia passare.
+2676	Fai passare
+2677	Confisca
+2678	Tutti i cestini controllati! Nel mercato unico dell'UE il cibo circola liberamente; alle sue frontiere viene controllato.
+2679	Un salame è passato… o una banana è stata sequestrata per errore. Prima le regole, poi il panino!
+2685	Scacchi alle terme
+2688	Il Bianco muove e dà matto in una mossa
+2689	K re · Q donna · R torre · B alfiere · N cavallo · P pedone
+2691	L'acqua si è raffreddata prima del matto… Cerca la mossa che non lascia al re nessuna casa.
+2692	La pace mondiale non sarebbe salvaguardata
+2694	L'Europa non si farà in una sola volta, né secondo un piano unico.
+2698	La Dichiarazione Schuman
+2701	La dichiarazione è pronta! La Comunità europea del carbone e dell'acciaio seguì nel 1951. Ogni 9 maggio è la Festa dell'Europa.
+2702	I giornalisti aspettano e le pagine sono ancora in disordine… Prima la pace, poi le realizzazioni concrete!
+2703	Le casematte del Bock
+2706	Il visitatore ti segue: ora l'uscita!
+2707	Da qualche parte nel buio, qualcuno chiama…
+2708	Fuori alla luce del giorno, con il visitatore! Fino a 35.000 persone trovarono rifugio in queste gallerie durante i bombardamenti.
+2709	La torcia si è spenta… La guida segue la tua voce e vi riporta fuori entrambi.
+2710	senza sforzi creativi pari ai pericoli che la minacciano.
+2713	Con realizzazioni concrete che creino anzitutto una solidarietà di fatto.
+2714	La produzione franco-tedesca di carbone e acciaio sotto una comune Alta Autorità…
+2715	…così che una guerra tra Francia e Germania diventi materialmente impossibile.
+2716	Prima di toccare la lastra di stampa, dimostra di saper riconoscere un falso! Controlla ogni banconota come fa la BCE: TOCCA la stampa in rilievo, GUARDALA controluce, INCLINALA. Giudica 10 banconote, un errore consentito.
+2717	In una taverna di Sachsenhausen, versa il vino di mele dal Bembel in ogni bicchiere fino alla linea! Tieni premuto il pennino (o A) per inclinare la brocca, rilascia per fermarti, poi servi con il pulsante. 8 bicchieri, 2 versamenti consentiti.
+2718	Otto bicchieri perfetti! Qui a Francoforte il vino di mele si chiama «Ebbelwoi».
+2719	Piazza Syntagma, la Tomba del Milite Ignoto. Muoviti a tempo con gli Evzoni: PASSO, CALCIO, PESTA quando ogni segnale raggiunge la linea. 24 mosse, lente e solenni. 4 errori consentiti.
+2720	Ora di punta al chiosco! Ogni cliente ordina in greco: tocca ciò che vuole. Ti sussurro il significato dei primi. 15 clienti in 60 secondi!
+2721	Carica tre navi prima di mezzogiorno! Muovi la gru con il pennino o ←/→, lascia cadere con A o un tocco. Mai un (H) pesante sopra uno più leggero, i frigoriferi (bianchi) solo sulle due colonne con corrente (prese), e tieni la nave in assetto!
+2722	Copia il tappeto di begonie mostrato sullo schermo superiore: scegli un colore, poi tocca o trascina sui quadrati. Premi Fatto quando corrisponde. Tre tappeti in 90 secondi!
+2723	Le cicogne tornano dall'Africa! Guida ognuna a un nido libero: scorri il pennino su e giù (o ↑/↓) e vola basso su un nido libero per atterrare. Evita le linee elettriche. 10 cicogne, 3 perdite consentite.
+2724	Il traghetto è attraccato! Controlla ogni cestino del pranzo: CONFISCA carne, latticini e quasi tutta la frutta, FAI PASSARE il resto. Attenzione: una banana è ammessa, una mela no. 20 cestini in 50 secondi, 2 errori consentiti.
+2725	Terme Széchenyi: i giocatori si chinano su una scacchiera che galleggia nel vapore. Muove il Bianco: trova la mossa che dà subito scacco matto. Tocca un pezzo bianco, poi la sua casa. Tre posizioni in 90 secondi!
+2726	9 maggio 1950, Salon de l'Horloge. Le pagine della dichiarazione di Robert Schuman sono mescolate! Tocca le frasi nell'ordine giusto prima della conferenza stampa. 60 secondi.
+2727	Le gallerie sono buie e la torcia si sta consumando. Trova il visitatore perduto, poi l'uscita! Muoviti con il +Control Pad, o tocca accanto al tuo personaggio. 75 secondi.
+2728	Tre scacchi matti! Alle terme si dice che chi perde debba uscire per primo dall'acqua.
+2729	La nuova armatura di quercia è stata tagliata a mano, come nel Medioevo. Carpentieri e scalpellini da tutta la Francia hanno lavorato al cantiere.
+2730	Fronte
+2731	Retro

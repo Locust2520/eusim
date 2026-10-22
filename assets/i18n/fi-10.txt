@@ -1,0 +1,523 @@
+# Finnish — city extensions (ids 2169+)
+2169	VÄÄRÄ
+2171	%d s · %d/%d
+2172	Reunoilla on koholinjoja: ne tuntee sormin.
+2173	Paperi on sileä kauttaaltaan…
+2174	Tunne
+2175	Katso
+2176	Kallista
+2177	Tarkista ja päätä:
+2178	Aito
+2179	Väärennös
+2180	L/R: kallista · X: valoa vasten · Y: tunne
+2181	Tunne, katso, kallista
+2184	Se oli %s: koholla oleva painatus puuttui.
+2185	Se oli %s: vesileimaa ei näkynyt valoa vasten.
+2186	Se oli %s: numero ei vaihtanut väriä.
+2187	väärennös
+2188	Se oli aito seteli!
+2189	Yksikään väärennös ei livahtanut läpi! Vesileimassa näit Europan, yli 2 000 vuotta vanhalta kreikkalaiselta maljakolta.
+2190	Väärennös livahti läpi… Tunne, katso, kallista: kolme tarkistusta vie vain muutaman sekunnin.
+2191	Bembel
+2194	Tarjoile
+2196	Liikaa läikkyneitä laseja… Kapakoitsija lainaa sinulle rättiä.
+2197	Maria Callas
+2198	Ludwig van Beethoven
+2199	Marie Curie
+2200	Miguel de Cervantes
+2201	Leonardo da Vinci
+2202	Bertha von Suttner
+2203	katusoittajat
+2204	laulujuhla
+2205	koulu
+2206	kirjasto
+2207	katutaide
+2208	puiden reunustama aukio
+2209	seinäkiipijä vuoristolähteellä
+2210	kuningaskalastaja vesiputouksella
+2211	mehiläissyöjät jokilaaksossa
+2212	valkohaikara mutkittelevan joen varrella
+2213	avosetti joensuulla
+2214	suula meren yllä
+2215	Euroopan parlamentti
+2216	Euroopan komissio
+2217	Euroopan keskuspankki
+2218	EU:n tuomioistuin
+2219	Eurooppa-neuvosto ja EU:n neuvosto
+2220	Euroopan tilintarkastustuomioistuin
+2221	Etupuoli: oma muotokuvasi. Korvaa: %s
+2222	Takapuoli: %s
+2223	Etupuoli: %s
+2224	Näyteseteli – %d €
+2225	Ei laillinen maksuväline: tämä on mallinäyte.
+2227	L/R tai kosketus: käännä · B: sulje
+2228	Vaalea
+2229	Keski
+2230	Tumma
+2231	Kumi
+2234	Kumoa
+2235	Tyhjennä
+2236	Valmis
+2237	Piirrä muotokuvasi
+2238	Studio kaivertaa sen kuin setelin muotokuvan.
+2239	Sinun näytesetelisi
+2240	Euroopan kulttuuri
+2241	Joet ja linnut
+2242	Käännä
+2243	Uusi muotokuva
+2244	Tulosta näyte
+2245	Tulostetaan…
+2246	Muotokuvasi näytesetelille
+2247	DSi-kamera, kynä tai virallinen valokuvasi.
+2248	Kynä tai virallinen valokuvasi.
+2249	Ota kuva
+2250	Piirrä itse
+2251	Virallinen kuva
+2252	Kameraa ei voi käyttää täällä. Voit piirtää muotokuvasi sen sijaan.
+2253	Näytesetelisi liittyi Frankfurtin Rahamuseon kokoelmaan.
+2254	Frankfurtissa EKP:n studiolla on yhä tyhjä näyte, johon on varattu sinun nimesi.
+2255	Käynnistetään kameraa…
+2256	Aseta kasvosi soikioon
+2257	A tai kosketus: ota kuva · L/R: toinen kamera · B: takaisin
+2258	Kaiverruskoe
+2259	Uusi kuva
+2260	Säilytä
+2261	Meidän kesken: euro tuli käteiseksi, ihmisten taskuihin, vuonna 2002. Jotkin tämän tornin ovet muistavat vielä sen vuoden.
+2262	Taiteilija Ottmar Hörlin euromerkki, paljastettu vuonna 2001 EKP:n entisen tornin edessä.
+2263	Muutamaa viikkoa myöhemmin, 1. tammikuuta 2002, eurosetelit ja -kolikot päätyivät ihmisten taskuihin kahdessatoista maassa.
+2264	Muistomerkki Grossmarkthallella.
+2265	Vuosina 1941–1945 noin 10 000 frankfurtilaista ja seudun juutalaista miestä, naista ja lasta kuljetettiin tämän tukkutorihallin kellarista getto- ja keskitysleireille. Useimmat heistä murhattiin.
+2266	Frankfurtin kaupunki, juutalaisyhteisö ja EKP, jonka pääkonttoriin halli nykyään kuuluu, loivat tämän muistomerkin yhdessä.
+2267	Römer, Frankfurtin kaupungintalo vuodesta 1405. Sen keisarisalissa vastakruunatut Pyhän saksalais-roomalaisen keisarikunnan keisarit pitivät kruunajaisjuhlansa.
+2268	Ristikkorakenteisia taloja Römerbergillä. Pommitukset tuhosivat vanhankaupungin vuonna 1944; tämä rivi rakennettiin uudelleen 1980-luvulla, palkki palkilta.
+2269	Oikeudenmukaisuuden suihkulähde. Katso tarkkaan: tällä Justitialla on vaaka ja miekka, mutta ei side silmillä.
+2270	Tätä kaupunkia sanotaan ”Mainhattaniksi”: pilvenpiirtäjiä Main-joen rannalla. Olen laskenut yksitoista nosturia ja neljä pankkia. Tai toisin päin.
+2271	Vuosina 1848 ja 1849 tässä kirkossa kokoontui koko Saksan ensimmäinen vapaasti valittu parlamentti.
+2272	Se kirjoitti perustuslain, jossa oli perusoikeudet. Se ei koskaan tullut voimaan, mutta myöhemmät Saksan perustuslait ammensivat siitä.
+2273	Opas
+2274	Salilla on yhä suuret päivänsä: joka lokakuu täällä jaetaan Saksan kirjakauppiaiden rauhanpalkinto.
+2275	Härkä rynnistää sarvet ylöspäin: nouseva markkina.
+2276	Karhu iskee tassullaan alaspäin: laskeva markkina.
+2277	DAX-taulu. Saksan tunnetuin osakeindeksi aloitettiin täällä vuonna 1988.
+2278	Osta huhu, myy uutinen. Äläkä koskaan, ei koskaan myy sateenvarjoasi huhtikuussa.
+2279	Johann Wolfgang von Goethe syntyi tässä talossa 28. elokuuta 1749. Hän työsti Faustia noin kuusikymmentä vuotta.
+2280	Hänen nimensä kiertää nyt maailmaa: Goethe-Institut opettaa saksaa lähes sadassa maassa.
+2281	Messeturm kohoaa messualueen yllä. Joka lokakuu siellä pidetään Frankfurtin kirjamessut, maailman suurimmat.
+2282	Lukija
+2283	Tulin kirjamessuille ja jäin vihreän kastikkeen takia. Olen lukenut kolme kirjaa ja syönyt viisi kastiketta.
+2284	Rautainen kävelysilta Mainin yli, rakennettu 1869. Sen kaiteissa roikkuu tuhansia riippulukkoja: rakastavaisten lupauksia.
+2285	Pariskunta
+2286	Lukitsimme riippulukkomme siltaan ja heitimme avaimen Mainiin. Pitää vielä päättää, kenen idea se oli.
+2287	Frankfurtilainen
+2288	Toisella rannalla on Sachsenhausen. Siellä juodaan Ebbelwoita, omenaviiniä. Kukaan ei täällä sano sitä siideriksi, huomaa.
+2289	Männynoksakranssi roikkuu oven yllä: merkki siitä, että tämä kapakka puristaa ja tarjoilee oman omenaviininsä.
+2290	Emäntä
+2291	Guten Abend! Omenaviini kaadetaan Bembelistä, harmaasta kivitavarakannusta, Gerippteen, timanttikuvioiseen lasiin.
+2292	Tänä iltana minulla on täysi sali ja kaksi kättä. Sinä täytät lasit, minä kannan ne?
+2293	Haluatko vielä kierroksen tiskin takana?
+2294	Ei pisaraakaan pöydilleni! Tässä, ota tämä ja tule takaisin, milloin haluat.
+2295	Taas täydellistä. Voisit avata oman kapakan. Ripusta vain männynoksakranssi oven ylle.
+2296	Voi voi, pöydät uivat! Ei se mitään, me moppaamme.
+2297	Kanta-asiakas
+2298	Handkäs mit Musik: hapanmaitojuustoa sipulilla marinoituna. Musiikki tulee myöhemmin. Älä kysy.
+2299	Vihreään kastikkeeseen tulee täsmälleen seitsemän yrttiä: kurkkuyrtti, kirveli, krassi, persilja, pimpinella, suolaheinä ja ruohosipuli.
+2300	Vuodesta 2016 EU on suojannut ”Frankfurter Grüne Soßen” maantieteellisenä merkintänä. Seitsemän yrttiä, ei enempää eikä vähempää.
+2301	Oikea kultaharkko, 12,5 kiloa, jota vieraat saavat nostaa. Useimmat saavat sen ylös muutaman sentin.
+2302	Simpukankuorista kolikoihin, kolikoista paperiin, paperista euroon: kolmetuhatta vuotta rahaa muutamalla hyllyllä.
+2303	Intendentti
+2304	Bundesbank on Saksan keskuspankki. Vuodesta 1999 se on kuulunut eurojärjestelmään EKP:n ja muiden euroalueen keskuspankkien kanssa.
+2305	Kuulin, että sinulla on näyteseteli, jossa on sinun kasvosi. Kun seikkailusi on ohi, ottaisimme sen mielellämme kokoelmaamme.
+2306	Muotokuva Europasta, kreikkalaisen myytin prinsessasta, joka antoi nimensä mantereelle.
+2307	Hänen kasvonsa ovat peräisin yli 2 000 vuotta vanhalta kreikkalaiselta maljakolta, joka on Louvressa. Pidä euroseteliä valoa vasten: hän on vesileimassa.
+2308	Kehyksen takana hehkuu pieni näppäimistö. Neljä numeroa.
+2309	Syötetäänkö koodi?
+2310	Näppäimistö vilkkuu punaisena. Jossain pörssisalissa joku huokaisee.
+2311	Naps. Maalaus aukeaa ja paljastaa kapean alas johtavan portaikon…
+2312	Mennäänkö alas salaiseen studioon?
+2313	Työpaja täynnä maalaustelineitä, kaiverrustyökaluja ja raskas puristin. Ovessa: ”Setelisuunnittelu – luottamuksellinen”.
+2314	Teema ”Euroopan kulttuuri”: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) ja Bertha von Suttner (200 €).
+2315	Kääntöpuolella: paikkoja, joissa kulttuuria jaetaan. Katusoittajat, laulujuhla, koulu, kirjasto, katutaide, puiden reunustama aukio.
+2316	Teema ”Joet ja linnut”: vuoristolähteestä (5 €) avomerelle (200 €), seinäkiipijän, kuningaskalastajan, mehiläissyöjien, valkohaikaran, avosetin ja suulan kanssa.
+2317	Kääntöpuolella: EU:n toimielimet Euroopan parlamentista Euroopan tilintarkastustuomioistuimeen.
+2318	Kymmenen finalistiehdotusta: EC145, EC564, EC617, EC799, EC915 sekä RB120, RB227, RB637, RB754, RB832.
+2319	Suunnittelijoiden nimet pysyvät salaisina. Julkisen kyselyn jälkeen EKP:n neuvosto tekee lopullisen valinnan.
+2320	Syväpainopuristin. Se painaa musteen paperiin niin lujaa, että se nousee kohokuvioksi: se on se kohopaino, jonka tuntee oikeassa setelissä.
+2321	Eritelmät: samat koot kuin nykyisissä seteleissä, yksi pääväri arvoa kohden, ja jokaisessa setelissä Euroopan lippu, Euroopan kartta ja EKP:n pääjohtajan allekirjoitus.
+2322	Raadin jäsen
+2323	Vuonna 2025 yli 1 200 suunnittelijaa vastasi EKP:n kutsuun. Kolmekymmentäyhdeksän ehdotusta pääsi raadille; kymmenen on näillä maalaustelineillä.
+2324	Tavoitteena on korvata kuvitteelliset sillat ja ikkunat oikeilla ihmisillä, oikeilla linnuilla ja oikeilla paikoilla.
+2325	Eleni
+2326	Kaliméra! Olen Eleni, syväpainokaivertaja. Opin ammatin Kreikan keskuspankin setelipainossa Ateenassa.
+2327	Virallisesti EKP ei paina yhtään seteliä: se suunnittelee ne, ja painot eri puolilla Eurooppaa valmistavat ne.
+2328	Juuri nyt valmistelemme seuraavia euroseteleitä. Vuonna 2026 raati valitsi finaaliin kymmenen mallia kahdesta teemasta: Euroopan kulttuuri sekä joet ja linnut.
+2329	Ennen lopullista valintaa minun on kokeiltava kaiverrusta oikeilla kasvoilla. Euroseteleissä ei ole koskaan ollut elävää ihmistä… joten sinun setelisi jää näytteeksi.
+2330	Mutta kukaan ei koske levyihini läpäisemättä koetta. Tunne, katso, kallista: osoita, että erotat aidon setelin väärennöksestä.
+2331	Valmis?
+2332	Bravo! Sinulla on keskuspankkiirin silmä. Nyt muotokuvasi.
+2333	Uusi näyte? Puristin on vielä lämmin.
+2334	Siinä se on, kaiverrettuna! Näetkö sarjanumeron? Ensimmäinen kirjain, Y, on Kreikan keskuspankin tunnus. Pieni nimikirjoitukseni.
+2335	Näytä sitä ympäriinsä. Ja tallenna peli Raporttiin, jotta setelisi pysyy mukanasi.
+2336	Väärennös livahti läpi. Tunne, katso, kallista: siihen menee vain muutama sekunti. Tule takaisin, kun olet valmis.
+2337	Ei kiirettä. Hyvää kaiverrusta ei voi hoputtaa.
+2338	Omenaviinikapakka – Sachsenhausen
+2339	EKP – Setelisuunnittelustudio
+2340	Frankfurtin pörssi
+2341	Bundesbankin Rahamuseo
+2342	Goethen talo – Frankfurt
+2343	Paulskirche – Kokoussali
+2344	Näyteseteli
+2345	Muotokuvasi, kaiverrettu EKP:n studiossa Frankfurtissa. Ei laillinen maksuväline.
+2346	Omenaviinikapakka, Sachsenhausen
+2348	Pidä pohjassa kallistaaksesi, päästä irti pysäyttääksesi. Tarjoile viivalla.
+2349	Vartiovuoron vaihto
+2352	Askel
+2353	Potku
+2354	Tömäys
+2355	Liikkeet: %d / 24 · virheet: %d
+2356	←: askel · →: potku · A/↓: tömäys
+2357	Täydellisesti tahdissa! Evzonet vaihtavat vartiota joka tunti, yöllä ja päivällä, säässä kuin säässä.
+2358	Tahti hukassa… Evzonet harjoittelevat kuukausia ennen ensimmäistä vartiovuoroaan.
+2359	Frappé
+2360	Vesi
+2361	Sanomalehti
+2362	Koulouri
+2363	Huolihelmet
+2364	Mati
+2365	Bussilippu
+2366	Purkka
+2367	(Yksi frappé, kiitos!)
+2368	(Vettä, kiitos!)
+2369	(Sanomalehti, kiitos!)
+2370	(Koulouri, seesamleipärengas, kiitos!)
+2371	(Huolihelmet, kiitos!)
+2372	(Pieni pahansilmän amuletti, kiitos!)
+2373	(Lippu, kiitos!)
+2374	(Purkkaa, kiitos!)
+2375	Periptero
+2378	Viisitoista tyytyväistä asiakasta! Ευχαριστώ (efcharistó) tarkoittaa kiitos.
+2379	Jono yltää seuraavalle kadulle… Σιγά σιγά (sigá sigá): hitaasti, hitaasti.
+2380	Pireuksen satama
+2383	H
+2384	Laiva %d/3 · kontit %d/%d
+2385	Aika: %d s · virheet: %d/3
+2386	Kallistuma
+2387	Kolme laivaa lastattu ja tasapainossa! Pireus on yksi Välimeren suurimmista konttisatamista.
+2388	Satamakapteeni keskeyttää lastauksen: laiva ei ole turvallinen. Pinoa uudelleen ja yritä uudestaan!
+2389	Tuntemattoman sotilaan hauta (1932) parlamentin alapuolella. Presidentinkaartin evzonet vartioivat sitä yötä päivää.
+2390	Aukiota kutsutaan nimellä Syntagma, ”perustuslaki”: vuonna 1843 ateenalaiset kokoontuivat tähän, kunnes kuningas Otto myönsi sellaisen.
+2391	Evzone ei liikahda. Ei edes silmäripsi.
+2392	Hänen tsarouchiansa, punaiset puukengät mustine tupsuineen, painavat noin kolme kiloa kappale, ja pohjissa on kuusikymmentä naulaa. Hänen valkoisessa hameessaan, fustanellassa, on 400 laskosta: yksi jokaista ottomaanien hallinnon vuotta kohden, perinteen mukaan.
+2393	Evzone-kersantti
+2394	Joka tunti vartio vaihtuu. Hitaat askeleet, korkea potku, puukengät iskevät marmoriin: kaksi miestä liikkuu yhtenä.
+2395	Tänään yksi alokas puuttuu. Seuraatko rytmiä kanssani?
+2396	Vielä yksi vartiovuoron vaihto?
+2397	Yhtään askelta ei ollut tahdin ulkopuolella. Μπράβο (brávo)! Ota tämä vartiolta.
+2398	Μπράβο (brávo)! Sunnuntaisin kello yhdeltätoista koko komppania paraatii juhla-asussa. Tule katsomaan.
+2399	Puukenkäsi ja rumpu olivat eri mieltä. Siihen tarvitaan kuukausien harjoittelu. Huomenna uudestaan?
+2400	Kioskinpitäjä
+2401	Γεια σας (yia sas, hei)! Periptero myy kaikkea: sanomalehtiä, vettä, bussilippuja, puhelinkortteja, purkkaa, huolihelmiä…
+2402	Veljenpoikani ei tullut. Hoidatko tiskiä? Asiakkaat puhuvat kreikkaa, mutta kuiskaan merkityksen.
+2403	Ruuhka taas! Autatko minua?
+2404	Ευχαριστώ (efcharistó, kiitos)! Puhut nyt kioskia. Tässä, talon puolesta.
+2405	Ευχαριστώ (efcharistó)! Jono on poissa ennätysajassa.
+2406	Σιγά σιγά (sigá sigá), hitaasti, hitaasti. Se on myös kreikkalainen sananlasku.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): keskimakea frappé, kiitos. Vaahdotettua jääkahvia.
+2408	Se keksittiin vahingossa vuonna 1957 Thessalonikin kansainvälisillä messuilla: myyjällä ei ollut kuumaa vettä, joten hän ravisteli pikakahvinsa kylmän veden kanssa.
+2409	Syntagman metroasema. Kun metroa kaivettiin 1990-luvulla, arkeologit löysivät kymmeniä tuhansia esineitä. Osa on esillä itse asemalla.
+2410	28. lokakuuta on Ochi-päivä (όχι, óchi, ”ei”). Vuonna 1940 Kreikka sanoi ei Mussolinin uhkavaatimukselle; joka vuosi koululaiset marssivat kaduilla.
+2411	Älä sekoita vuoden 2015 kansanäänestyksen OXI:in. Kaksi kuuluisaa kreikkalaista ”ei”:tä, seitsemänkymmentäviisi vuotta toisistaan.
+2412	Drakma: muinaisen Kreikan kolikon nimi, otettiin uudelleen käyttöön 1832 nuorelle Kreikan valtiolle ja korvattiin eurolla 2002.
+2413	Kreikan yhden euron kolikossa on Athenen pöllö, kopioitu muinaisesta ateenalaisesta kolikosta, neljän drakman rahasta.
+2414	Kreikan keskuspankilla on oma setelipaino: siellä painetaan myös euroseteleitä.
+2415	Europa-sarjan seteleissä sarjanumeron ensimmäinen kirjain kertoo, mikä keskuspankki ne tilasi. Meidän on Y.
+2416	Y näytesetelissäsi? Sitten tervetuloa kotiin!
+2417	Anafiotika: 1800-luvulla Anafin saaren rakentajat tulivat työskentelemään kuninkaanlinnaan ja rakensivat tähän itselleen pienen kykladisen kylän Akropoliin juurelle.
+2418	Μιάου (miáou). Ateenassa on tuhansia katukissoja; naapurit ja vapaaehtoiset ruokkivat niitä jopa raunioiden keskellä.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Oletko syönyt? Olet laihtunut. Istu. Syö.
+2421	Yiayia ruokki koko tiimisi, kunnes kukaan ei jaksanut liikkua. Kaikki ovat taas hyvässä kunnossa.
+2422	Γιαγιά (yiayiá) tarkoittaa isoäitiä. Eikä yiayia ikinä usko, kun sanot olevasi kylläinen.
+2423	Naapuri
+2424	Χρόνια πολλά (chrónia pollá)! Monia vuosia! Tänään on nimipäiväni.
+2425	Kreikassa juhlimme usein nimikkopyhimyksemme päivää enemmän kuin syntymäpäivää. Puolet kadusta on nimeltään Giorgos: kuvittele pyhän Yrjön päivä.
+2426	Ναι (nai) tarkoittaa kyllä! Turistin korvaan se kuulostaa sanalta ”ei”. Ja όχι (óchi) tarkoittaa ei.
+2427	Jos kallistan päätäni taakse ja napsautan kieltä, se on myös ei. Helppoa!
+2428	Kauppias
+2429	Μάτι (máti), silmä! Sininen lasisilmä suojaa pahalta silmältä, kateudesta syntyvältä huonolta onnelta.
+2430	Jos joku kehuu Euromoniasi, sano ”φτου φτου” (ftou ftou), ikään kuin sylkisit. Se tuo onnea. Älä oikeasti syljeskele.
+2431	Juustokauppias
+2432	Feta on suojattu alkuperänimitys vuodesta 2002: aito feta valmistetaan Kreikassa lampaanmaidosta, joskus pienellä määrällä vuohenmaitoa.
+2433	Saksa ja Tanska riitauttivat sen EU:n tuomioistuimessa. Vuonna 2005 tuomioistuin sanoi: feta on kreikkalaista.
+2434	Grillikokki
+2435	Souvlaki! Ateenassa se on lihaa vartaassa. Thessalonikissa samaa kutsutaan nimellä kalamaki, ”pieni tikku”.
+2436	Pyydä Thessalonikissa ”souvlakia” ja saat pitan gyrosin kanssa. Perheitä on hajonnut pienemmästäkin.
+2437	Muusikko
+2438	Kaikki luulevat sirtakia vanhaksi kansantanssiksi. Se keksittiin elokuvaa ”Kreikkalainen Zorbas” varten vuonna 1964, Mikis Theodorakisin musiikkiin.
+2439	Aluksi hitaasti, sitten yhä nopeammin ja nopeammin… Opa!
+2440	Monastirakin asema. Linja 1 seuraa Ateena–Pireus-rataa, joka avattiin 1869: verkon vanhin linja.
+2441	Otetaanko juna Pireuksen satamaan?
+2442	Herodes Attikoksen odeon, rakennettu vuonna 161 jKr. Vuonna 1944 Ateenan konservatoriossa opiskellut nuori sopraano lauloi täällä Beethovenin ”Fidelioa”: Maria Callas.
+2443	Callas ja Beethoven esiintyvät molemmat seuraavien euroseteleiden finalistiehdotuksissa, kulttuuriteeman 5 ja 10 euron seteleissä.
+2444	Nämä valkoiset laatat ovat kipsivaloksia. Alkuperäiset ovat olleet Lontoon British Museumissa vuodesta 1816.
+2445	Kreikka on pyytänyt virallisesti niiden palauttamista vuodesta 1983. Museo pitää niiden paikat valmiina alkuperäisten kappaleiden vieressä.
+2446	Alkuperäinen Parthenonin friisin lohko: panateenaisen kulkueen ratsastajia, veistetty noin 440 eKr.
+2447	Akropolis-museo avattiin vuonna 2009. Tämä ylin kerros on käännetty linjaan Parthenonin kanssa, jonka näet lasin läpi.
+2448	Friisi kiertää koko matkan ympäri alkuperäisessä järjestyksessään. Hunajanvärinen marmori: täällä. Valkoinen kipsi: Lontoossa.
+2449	Zappeion. Täällä 28. toukokuuta 1979 Kreikka allekirjoitti Euroopan yhteisöihin liittymissopimuksensa.
+2450	Siitä tuli kymmenes jäsen 1. tammikuuta 1981. Euro seurasi vuonna 2001, vuotta ennen kolikoita ja seteleitä.
+2451	Melina Mercouri (1920–1994), näyttelijä, sittemmin kulttuuriministeri. Hän ehdotti Euroopan kulttuuripääkaupunkia: Ateena oli ensimmäinen, vuonna 1985.
+2452	Hän käynnisti myös kampanjan Parthenonin marmoriveistosten palauttamiseksi.
+2453	Panathenaiko-stadion, maailman ainoa kokonaan marmorista rakennettu suuri stadion. Ensimmäiset nykyaikaiset olympialaiset pidettiin täällä vuonna 1896.
+2454	Joka toinen vuosi olympiatuli luovutetaan täällä seuraavalle isäntäkaupungille.
+2455	COSCO Shippingin operoima konttiterminaali. Kiinalainen konserni osti 51 prosenttia Pireuksen satamaviranomaisesta vuonna 2016, sitten 67 prosenttia vuonna 2021.
+2456	Satamavartija
+2457	Konttiterminaali on suljettu vierailijoilta. Matkustajasatama on kokonaan sinun.
+2458	Ei tätä kautta, kiitos: konttiterminaali.
+2459	Pireuksen asema, linjan 1 päätepysäkki. Rakennus on vuodelta 1929.
+2460	Otetaanko juna takaisin Ateenaan?
+2461	Pireuksen muurien kiviä. 400-luvulla eKr. Themistokles teki Pireuksesta Ateenan sataman, ja Pitkät muurit yhdistivät kaksi kaupunkia.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), ”Pireuksen lapset”! Manos Hadjidakis kirjoitti sen elokuvaan ”Ei koskaan sunnuntaisin” (1960), pääosassa Melina Mercouri.
+2463	Se voitti Oscarin parhaasta laulusta. Ranskassa Dalida teki siitä hitin: ”Les Enfants du Pirée”.
+2464	Kalastaja
+2465	Tuolla on Mikrolimano, pieni satama: kalastusveneitä ja tavernoja, joissa kala ui vielä tänä aamuna.
+2466	Tätä kautta Karaiskakis-stadionille, Olympiacosin kotikentälle. Vuonna 2024 seura voitti UEFA Conference Leaguen: ensimmäinen eurooppalainen pokaali kreikkalaiselle jalkapalloseuralle.
+2467	Lauttoja saarille: Aigina, Hydra, Kykladit, Kreeta… Pireus on yksi Euroopan vilkkaimmista matkustajasatamista.
+2468	Kreikkalaiset laivanvarustajat hallitsevat noin viidennestä maailman kauppalaivastosta: enemmän kuin mikään muu maa.
+2469	Satamamestari
+2470	Hei, harjoittelija! Laiva lähtee puolilta päivin ja nosturinkuljettajani on lakossa. Oletko koskaan lastannut konttilaivaa?
+2471	Raskaat kontit alimmaksi, kylmäkontit sähköpaikoille, ja pidä laiva tasapainossa, tai se kallistuu.
+2472	Vielä yksi laiva lastattavaksi?
+2473	Suorassa kuin viivoittimella! Tässä palkkasi. Älä tuhlaa kaikkea souvlakiin.
+2474	Taas yksi laiva lähti ajoissa. Kapteeni lähettää terveisiä.
+2475	Se kallistuu kuin huono tuuli. Pinoamme uudelleen. Vielä kerran?
+2476	Kreikan keskuspankki – Museo
+2477	Akropolis-museo – Parthenon-sali
+2478	Pireuksen satama
+2479	Talo – Plaka
+2480	Raadin postikortit: %d / 12.
+2481	Siinä kaikki kaksitoista aihetta! Eleni EKP:n studiossa Frankfurtissa haluaa varmasti nähdä ne.
+2482	Kaikki kaksitoista postikorttia! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… ja kuusi lintua. Olet nähnyt enemmän Eurooppaa kuin raati.
+2483	Tästä lähtien puristimeni painaa näytteesi kultapainoksena. Ja ota tämä studiolta.
+2484	Vielä yksi asia: raati lähetti postikortteja kaikista kahdestatoista aiheesta ympäri Eurooppaa. Jos löydät ne kaikki, tule takaisin: kaiverran kultapainoksen.
+2485	Brysselin kaupungintalo, rakennettu 1400-luvulla. Sen 96 metriä korkean tornin huipulla Pyhä Mikael surmaa lohikäärmeen.
+2486	Sitä ympäröivä Grand-Place on ollut Unescon maailmanperintökohde vuodesta 1998.
+2487	Kiltatalot: leipurit, venemiehet, panimomiehet… jokaisella ammatilla oli oma talonsa, kullattu varallisuuden näytteeksi.
+2488	Manneken-Pis: 55 senttimetriä pronssia. Hänellä on yli tuhat pukua, joita säilytetään hänen omassa vaatekaappimuseossaan.
+2489	Virallinen pukija
+2490	Tänään hän on pukeutunut… itsekseen. Huomenna palomieheksi. Ensi viikolla astronautiksi. Patsaan pukeminen on kokopäivätyö.
+2491	Friteerausbaarin omistaja
+2492	Oikeat belgialaiset ranskalaiset paistetaan kahdesti: kerran kypsiksi, kerran rapeiksi.
+2493	Nälkäinen? Kokeile mitraillettea: puoli patonkia, lihaa, kastiketta ja ranskalaisia sisällä. Kyllä, sisällä.
+2494	Vohvelimyyjä
+2495	Brysselin vohveli: kevyt, suorakulmainen, sokerilla ripoteltu. Liègen vohveli: tiiviimpi, sisällä karamellisoitua helmisokeria.
+2496	Valinta niiden välillä on jakanut perheitä sukupolvia. Minä myyn molempia. Hyvin diplomaattista.
+2497	Brysselin seiniä peittää kymmenittäin sarjakuvaseinämaalauksia. Belgia ottaa sarjakuvansa yhtä vakavasti kuin suklaansa.
+2498	Tätä kautta Galeries Royales Saint-Hubertiin (1847), yhteen Euroopan vanhimmista katetuista ostoskaduista.
+2499	Vuonna 1912 näissä arkadeissa suklaaseppä Jean Neuhaus keksi täytetyn suklaan: pralinen.
+2500	Grand-Place / Grote Markt. Brysselissä jokaisen kadun nimi kirjoitetaan ranskaksi ja hollanniksi: pääkaupunkiseutu on virallisesti kaksikielinen.
+2501	Belgialla on kolme virallista kieltä: hollanti, ranska ja saksa.
+2502	Brysseliläinen
+2503	Allez, une fois! Sillä tavalla he kuvittelevat meidän puhuvan Brysselissä. Ja no… joskus puhummekin.
+2504	Puutarhuri
+2505	Joka toinen vuosi elokuussa begoniamatto peittää Grand-Placen. Ensimmäinen laskettiin vuonna 1971.
+2506	Satoja tuhansia kukkia, käsin laskettuina muutamassa tunnissa. Minulta puuttuu yksi vapaaehtoinen. Istutatko kanssani?
+2507	Vielä yksi matto? Begoniat odottavat.
+2508	Upea! Jopa kiltatalot näyttävät kateellisilta. Tässä, kaupungilta.
+2509	Taas mestariteos. Muutaman päivän päästä kukat ovat poissa, mutta valokuvat jäävät.
+2510	Kuvio muuttui hieman… abstraktiksi. Magritte olisi pitänyt siitä.
+2511	Suurherttuatar Charlotten silta, lempinimeltään Punainen silta, yhdistää vanhankaupungin Kirchbergin ylänköön korkealla Alzetten laakson yläpuolella.
+2512	Suurherttuan palatsi vanhankaupungin sydämessä. Luxemburg on maailman ainoa jäljellä oleva suurherttuakunta.
+2513	Vartija marssii kahdeksan askelta, kääntyy, marssii kahdeksan askelta takaisin. Sen katsominen on hyvin rentouttavaa.
+2514	Euroopan tilintarkastustuomioistuin: EU:n taloudellinen vahtikoira. Se tarkistaa, miten Euroopan rahaa käytetään, euro euroltä.
+2515	Yhdessä seuraavien seteleiden finalistiehdotuksista se esiintyy 200 euron setelin kääntöpuolella.
+2516	29. helmikuuta 2020 lähtien kaikki julkinen liikenne Luxemburgissa on ilmaista: bussit, raitiovaunut, junat. Ensimmäinen maa maailmassa.
+2517	Gëlle Fra, Muistomerkin kultainen nainen, kunnioittaa maailmansodissa kaatuneita luxemburgilaisia.
+2518	Miehittäjät kaatoivat sen vuonna 1940; se entisöitiin kokonaan ja asetettiin takaisin pylvääseensä 1985.
+2519	Schueberfouer! Huvipuisto vuodesta 1340, jonka perusti Luxemburgin kreivi Sokea Johannes. Joka vuosi kesän lopussa.
+2520	Luxemburgilainen
+2521	Moien! Se on hei luxemburgiksi. Meillä on kolme hallintokieltä: luxemburgi, ranska ja saksa.
+2522	Useimmat meistä vaihtavat niiden välillä saman lauseen sisällä. Joskus mukaan lipsahtaa englantikin.
+2523	Seinällä: ”Mir wëlle bleiwe wat mir sinn” (”Haluamme pysyä sellaisina kuin olemme”), kansallinen mottomme.
+2524	Tervetuloa Bockin kasemateille: 17 kilometriä kallioon louhittuja tunneleita, osa Unescon maailmanperintökohdetta.
+2525	Toisen maailmansodan pommitusten aikana täällä suojautui jopa 35 000 ihmistä.
+2526	Vieras eksyi pimeisiin käytäviin viimeisen taskulamppuni kanssa. Löydätkö ulospääsyn ja tuotko hänet takaisin?
+2527	Vielä yksi kierros käytävillä?
+2528	Molemmat ulos ehjinä! Linnoitusta kutsuttiin ”Pohjoisen Gibraltariksi”. Ota tämä vaivannäöstäsi.
+2529	Tunnet käytävät paremmin kuin vuoden 1700 sotilaat.
+2530	Taskulamppu sammui… Älä huoli, tiedän tien. Yritetään uudelleen.
+2531	Pont de l'Europe ylittää Reinin. Toisella puolella: Kehl, Saksassa. Vuodesta 2017 raitiovaunukin ylittää rajan.
+2532	Työmatkalainen
+2533	Asun Kehlissä ja työskentelen Strasbourgissa. Joka aamu vaihdan maata neljässä minuutissa. Kukaan ei tarkista passiani.
+2534	Täällä sijaitsee Euroopan neuvosto, perustettu 1949: 46 jäsenvaltiota ja Euroopan ihmisoikeustuomioistuin. Se ei kuulu EU:hun.
+2535	Älä sekoita sitä Eurooppa-neuvostoon (EU:n valtion- ja hallitusten päämiehet) tai EU:n neuvostoon (ministerit). Jopa toimittajat sekoittavat.
+2536	Sinisen lipun, jossa on kaksitoista kultaista tähteä, otti ensimmäisenä käyttöön Euroopan neuvosto vuonna 1955. EU otti sen käyttöön myöhemmin.
+2537	Muotokuva Bertha von Suttnerista (1843–1914), romaanin ”Alas aseet!” kirjoittajasta ja ensimmäisestä naisesta, joka sai Nobelin rauhanpalkinnon, vuonna 1905.
+2538	Hän on 200 euron hahmo EKP:n ”Euroopan kulttuuri” -finalistiehdotuksissa.
+2539	Euroopan hymni on alkusoitto ”Oodiin ilolle” Beethovenin yhdeksännestä sinfoniasta. Euroopan neuvosto otti sen käyttöön 1972, EU 1985.
+2540	Sillä ei ole virallisia sanoja: Euroopassa me kaikki hyräilemme sitä samalla kielellä.
+2541	Katedraalin torni kohoaa 142 metriin. Vuosina 1647–1874 se oli maailman korkein rakennus.
+2542	Tähtitieteellinen kello. Sen mekanismi on vuodelta 1842. Joka päivä puoli yhdeltä kaksitoista apostolia kulkee Kristuksen ohi.
+2543	Katedraali on rakennettu Vogeesien vaaleanpunaisesta hiekkakivestä. Siksi se punastuu auringonlaskussa.
+2544	Christkindelsmärik on pidetty täällä vuodesta 1570: yksi Euroopan vanhimmista joulumarkkinoista.
+2545	Winstub-kokki
+2546	Flammekueche! Ohut taikina, kermaa, sipulia, pekonia, paistettu puu-uunissa kahdessa minuutissa. Ranskaksi sanotaan tarte flambée.
+2547	Strasbourgin valat, jotka Kaarle Suuren kaksi pojanpoikaa vannoivat täällä vuonna 842, ovat vanhimpia vanhan ranskan ja vanhan yläsaksan tekstejä.
+2548	Kumpikin kuningas vannoi toisen kielellä, jotta toisen armeija ymmärtäisi. Tulkkauksella on täällä pitkä historia.
+2549	Lintututkija
+2550	Valkohaikara on Alsacen tunnus. Vuonna 1974 seudulla oli jäljellä vain yhdeksän paria.
+2551	Palautusohjelman ansiosta pareja on nykyään useita satoja. Ja valkohaikara on 50 euron setelin finalistiehdotuksessa!
+2552	Uudet tulokkaat etsivät pesiään. Voitko ohjata ne pois sähkölinjoilta?
+2553	Lisää haikaroita on tulossa. Ohjataanko niitä uudestaan?
+2554	Jokainen pari on kotona! Tässä, haikarojensuojelurahastolle… tarkoitan, sinulle.
+2555	Petite Francen katot ovat täynnä kalistelevia nokkia. Se on täällä kevään ääni.
+2556	Jotkut sotkeutuivat johtojen lähelle… He ovat kunnossa, vain vähän harmissaan. Uudestaan?
+2557	Sali 18: Ateenan Parthenonin veistoksia, jotka lordi Elginin edustajat veivät pois vuosina 1801–1812 ja British Museum osti 1816.
+2558	Kreikka on pyytänyt niiden palauttamista vuodesta 1983. Ateenassa Akropolis-museo pitää niiden paikat valmiina.
+2559	Kreikkalainen vieras
+2560	Tulin koko matkan Ateenasta katsomaan marmoreitamme. Sitten palaan Akropolis-museoon katsomaan näiden valkoisia kopioita.
+2561	Yksi friisi, kaksi kaupunkia. Ehkä jonain päivänä taas yksi kaupunki.
+2562	Punainen puhelinkoppi, vuonna 1935 suunniteltu K6-malli. Nykyään osassa niistä on defibrillaattoreita, toisissa pieniä kirjastoja.
+2563	Lontoon metro avattiin 1863: maailman ensimmäinen maanalainen rautatie. ”Mind the gap!”
+2564	Brexitin jälkeen Britannia jätti Erasmuksen. Joulukuussa 2025 se sopi liittyvänsä takaisin vuodesta 2027. Pikkusiskoni pääsee opiskelemaan Bolognaan!
+2565	Hollantilainen tullivirkailija
+2566	1. tammikuuta 2021 lähtien Britannia on EU:n tulli- ja eläinlääkintäsääntöjen ulkopuolella: matkustajat eivät enää saa tuoda lihaa tai maitotuotteita EU:hun.
+2567	Sinä kuukautena kollegoideni Hoek van Hollandissa piti takavarikoida kinkkuvoileipiä. ”Welcome to the Brexit, sir, I'm sorry.”
+2568	Aamulautta nousee kyytiin. Autatko tarkistamaan eväsrasiat?
+2569	Taas yksi lautta, taas sata eväsrasiaa. Autatko uudestaan?
+2570	Yksikään kinkkuvoileipä ei päässyt läpi. Tässä, juustoton ja kinkuton palkkio.
+2571	Tehokas ja kohtelias. Sinusta tulisi hyvä tullivirkailija.
+2572	Salami ylitti Kanaalin… Eläinlääkintätarkastajat haluavat sanasen.
+2573	Rekkakuski
+2574	Ennen brexitiä ylitin rajan rekallani pysähtymättä. Nyt: tulli-ilmoituksia, terveystodistuksia, tarkastuksia. Olen lukenut enemmän lomakkeita kuin romaaneja.
+2575	Kampanjabussi. Vuonna 2016 sen kyljessä luvattiin 350 miljoonaa puntaa viikossa kansalliselle terveyspalvelulle.
+2576	Vuonna 2017 Britannian tilastoviranomaisen johtaja kutsui tätä lukua ”virallisten tilastojen selväksi väärinkäytöksi”.
+2577	Lintubongari
+2578	Suulat sukeltavat mereen lähes sadan kilometrin tuntivauhtia. Maailman suurin yhdyskunta on Bass Rockilla Skotlannissa.
+2579	EKP asetti yhden 200 euron setelin finalistiehdotukseen: avomeri, siivet suljettuina, loiskahdus.
+2580	Shakinpelaaja
+2581	Széchenyin kylpylä, 1913: yksi Euroopan suurimmista parantavista kylpylöistä. Pelaamme täällä shakkia kuumassa vedessä olkapäitä myöten.
+2582	Unkari antoi maailmalle Judit Polgárin, kaikkien aikojen vahvimman naispelaajan: suurmestari viidentoista vuoden iässä, ja hän löi Kasparovin vuonna 2002.
+2583	Kolme asemaa, matti yhdellä siirrolla kussakin. Löydätkö ne, ennen kuin vesi jäähtyy?
+2584	Uusia asemia kelluvalla laudalla. Vielä yksi kierros?
+2585	Kolme mattia! Pelaat kuin suurmestari kylpytakissa. Ota tämä.
+2586	Matti, matti, matti. Höyry saa ajattelemaan nopeammin.
+2587	Vesi jäähtyi… Etsi ensi kerralla siirtoa, joka ei jätä kuninkaalle yhtään paikkaa mihin mennä.
+2588	Ruin bars: entisen juutalaiskorttelin vanhoja sisäpihoja, joista on tehty baareja epäsuhtaisine huonekaluineen. Ensimmäiset avattiin 2000-luvun alussa.
+2589	Baarimikko
+2590	Egészségedre! Se on kippis unkariksi. Yritä sanoa se toisen fröccs-lasin jälkeen: viiniä ja soodavettä.
+2591	Lángos-myyjä
+2592	Lángos: friteerattua taikinaa, valkosipulia, smetanaa ja raastettua juustoa. Ei dieetti. Perinne.
+2593	Rubikin kuutio keksittiin Budapestissa vuonna 1974. Keksijä oli Ernő Rubik, ja hän opetti sillä oppilailleen avaruuden hahmottamista. Olen ratkaissut sen kahdessa minuutissa. Tai yhden sivun siitä.
+2594	Kengät Tonavan rannalla (2005). Kuusikymmentä paria rautakenkiä muistuttaa Budapestin juutalaisista, jotka nuolenristiläiset miliisit ampuivat tällä rannalla vuosina 1944 ja 1945 ja heittivät jokeen.
+2595	Ketjusilta, avattu 1849: ensimmäinen pysyvä silta Budan ja Pestin välillä, englantilaisen insinöörin William Tierney Clarkin suunnittelema.
+2596	Sen kivileijonilta puuttuu kieli… legendan mukaan. Katso tarkkaan.
+2597	Kalastajanlinnake Linnavuorella: seitsemän tornia, seitsemälle Karpaattien altaalle asettuneelle magyaariheimolle.
+2598	Mehiläissyöjät! Euroopan värikkäimmät linnut. Ne kaivavat pesänsä hiekkaisiin joenpenkkoihin ja pyydystävät mehiläisiä lennosta.
+2599	Unkarissa on joitakin suurimmista yhdyskunnista. EKP:n finalistiehdotuksissa niiden yhdyskunta koristaa 20 euron seteliä.
+2600	Kielitieteilijä
+2601	Unkarin kieli ei ole sukua naapureidensa kielille: se kuuluu uralilaisiin kieliin, kuten suomi ja viro.
+2602	Ja sukunimi tulee ensin: Rubik Ernő, Polgár Judit. Helppo muistaa, vaikea ääntää.
+2603	László Bíró, syntynyt Budapestissa, patentoi nykyaikaisen kuulakärkikynän vuonna 1938. Monissa maissa kynää kutsutaan yhä ”biroksi”.
+2604	Salon de l'Horloge. 9. toukokuuta 1950 kello 18 Ranskan ulkoministeri Robert Schuman luki täällä julistuksen, jossa ehdotettiin Ranskan ja Saksan hiilen ja teräksen yhdistämistä.
+2605	Se johti Euroopan hiili- ja teräsyhteisöön vuonna 1951, nykyisen EU:n ensimmäiseen askeleeseen. Joka 9. toukokuuta on Eurooppa-päivä.
+2606	Arkistot ovat sekoittaneet julistuksen sivut! Toimittajat ovat saapumassa. Voitko laittaa lauseet takaisin järjestykseen?
+2607	Sivut ovat taas sekaisin. Autatko minua?
+2608	Sana sanalta! Herra Schuman olisi kätellyt sinua. Ota tämä ministeriöltä.
+2609	Täydellisessä järjestyksessä. Eurooppaa ei rakenneta kerralla, mutta sinä olet nopea.
+2610	Ei ihan… Muista: ensin rauha, sitten konkreettiset saavutukset, sitten hiili ja teräs.
+2611	Marie Curie, syntyjään Maria Skłodowska Varsovasta, tuli ensimmäiseksi naisprofessoriksi Sorbonnessa vuonna 1906. Hän voitti kaksi Nobel-palkintoa, fysiikassa ja kemiassa.
+2612	Hän on 20 euron hahmo EKP:n ”Euroopan kulttuuri” -finalistiehdotuksissa.
+2613	Leipuri
+2614	Vuodesta 2022 ranskalaisen patongin valmistustaito on ollut Unescon aineettoman kulttuuriperinnön luettelossa. Jauhoja, vettä, suolaa, hiivaa. Ja vähän kärsivällisyyttä.
+2615	Un café, s'il vous plaît! Pariisissa ”café” on espresso. Jos haluat ison kupin, se on sanottava. Kovaan ääneen.
+2616	Bouquiniste
+2617	Olemme myyneet käytettyjä kirjoja näillä rannoilla 1500-luvulta lähtien. Satoja vihreitä laatikoita Seinen kilometrien varrella.
+2618	Notre-Dame de Paris. Tulipalo vahingoitti sitä 15. huhtikuuta 2019, ja se avattiin uudelleen 7. joulukuuta 2024 viiden vuoden työn jälkeen.
+2619	Vierailija
+2621	Joinakin talvina seinäkiipijä laskeutuu vuorilta Meuse-laakson kallioille. Harmaa lintu karmiininpunaisin siivin, kuin perhonen.
+2622	Se on 5 euron setelin lintu EKP:n finalistiehdotuksissa: vuoristolähde ja seinäkiipijä.
+2623	Onkija
+2624	Näetkö sen sinisen välähdyksen Moselilla? Kuningaskalastaja. Se sukeltaa oksalta ja nousee takaisin kala nokassaan.
+2625	EKP:n finalistiehdotuksissa se on 10 euron setelin lintu vesiputouksen luona.
+2626	Antwerpen on Euroopan toiseksi suurin satama. Ja Scheldejoen varrella, aivan nosturien vieressä, avosetit pesivät luonnonsuojelualueilla.
+2627	Mustavalkoinen, ylöspäin kaareva nokka: EKP:n finalistiehdotusten 100 euron setelin lintu joensuulla.
+2628	Varsovalainen
+2629	Maria Skłodowska, Marie Curie, syntyi täällä Varsovassa vuonna 1867. Hän nimesi poloniumin kotimaansa mukaan.
+2630	Vanhakaupunkimme tasoitettiin maan tasalle 1944 ja rakennettiin uudelleen kivi kiveltä: se on ollut Unescon luettelossa vuodesta 1980.
+2631	Leonardo da Vinci asui Roomassa vuosina 1513–1516 Vatikaanissa ennen lähtöään Ranskaan.
+2632	Hän on 100 euron hahmo EKP:n ”Euroopan kulttuuri” -finalistiehdotuksissa.
+2633	Professori
+2634	Täällä vuonna 2007 allekirjoitettu Lissabonin sopimus loi 50 artiklan: menettelyn EU:sta eroamiseksi. Britannia oli ensimmäinen, joka käytti sitä.
+2635	Myös Lissabonista: pastéis de nata, Jerónimosin munkkien reseptin mukaan. Paljon suositumpia kuin 50 artikla.
+2636	Vanha merimies
+2637	Vuonna 1571 Lepanton meritaistelu käytiin Patrasinlahdella, täällä Kreikassa. Nuori espanjalainen sotilas menetti siellä vasemman kätensä käyttökyvyn.
+2638	Hänen nimensä oli Miguel de Cervantes. Hän kirjoitti myöhemmin Don Quijoten. Hän on 50 euron hahmo EKP:n kulttuuriehdotuksissa!
+2639	Nurkassa postikortti, jossa on EKP:n suunnitteluraadin leima: yksi tulevien seteleiden kahdestatoista aiheesta. Saat pitää sen.
+2640	British Museum – Sali 18
+2641	Bockin kasematit – Sisäänkäynti
+2642	Strasbourgin katedraali
+2643	Palais de l'Europe – Euroopan neuvosto
+2644	Lauttaterminaali – EU:n tulli
+2645	Ruin Bar – Budapest
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Boulangerie – Pariisi
+2648	Punainen
+2649	Keltainen
+2650	Valkoinen
+2651	Oranssi
+2652	Kukkamatto
+2655	Kuvio
+2656	Kolme begoniamattoa! Belgia kasvattaa suurimman osan maailman mukulabegonioista Gentin ympäristössä.
+2657	Turistit ovat tulossa eikä matto ole valmis… Ensi kerralla!
+2658	Alsacen haikarat
+2661	Haikarat kotona: %d / %d · menetetty: %d / 3
+2662	Kymmenen haikaraa pesissään! Alsacessa katollasi oleva haikara tuo kuulemma onnea.
+2663	Liian monta haikaraa lensi seuraavaan kylään… Ne palaavat ensi keväänä.
+2664	Kinkkuvoileipä
+2665	Maito
+2666	Salami
+2667	Omena
+2668	Suklaapatukka
+2669	Perunalastut
+2670	Keksit
+2671	EU:n tulli
+2674	Liha, maitotuotteet, useimmat hedelmät: takavarikoi.
+2675	Banaanit, makeiset, lastut, vesi: päästä läpi.
+2676	Päästä läpi
+2677	Takavarikoi
+2678	Kaikki eväsrasiat tarkistettu! EU:n sisämarkkinoilla ruoka liikkuu vapaasti; rajoilla se tarkistetaan.
+2679	Salami livahti läpi… tai banaani takavarikoitiin turhaan. Säännöt ensin, voileipä myöhemmin!
+2685	Shakkia kylvyissä
+2688	Valkoinen aloittaa, matti yhdellä siirrolla
+2689	K kuningas · Q kuningatar · R torni · B lähetti · N ratsu · P sotilas
+2691	Vesi jäähtyi ennen mattia… Etsi siirtoa, joka ei jätä kuninkaalle yhtään ruutua.
+2692	Maailmanrauhaa ei voida turvata
+2694	Eurooppaa ei rakenneta kerralla eikä yhden suunnitelman mukaan.
+2698	Schumanin julistus
+2701	Julistus on valmis! Euroopan hiili- ja teräsyhteisö seurasi vuonna 1951. Joka 9. toukokuuta on Eurooppa-päivä.
+2702	Toimittajat odottavat ja sivut ovat yhä sekaisin… Ensin rauha, sitten konkreettiset saavutukset!
+2703	Bockin kasematit
+2706	Vieras seuraa sinua: nyt uloskäynti!
+2707	Jossain pimeässä joku huutaa…
+2708	Ulkona päivänvalossa, vieras mukana! Jopa 35 000 ihmistä suojautui näillä käytävillä pommitusten aikana.
+2709	Taskulamppu sammui… Opas seuraa ääntäsi ja johdattaa teidät molemmat ulos.
+2710	ilman luovia ponnisteluja, jotka vastaavat sitä uhkaavia vaaroja.
+2713	Rakennetaan konkreettisilla saavutuksilla, jotka luovat ensin tosiasiallisen yhteisvastuun.
+2714	Ranskan ja Saksan hiili- ja terästuotanto yhteisen korkean viranomaisen alaisuuteen…
+2715	…jotta sota Ranskan ja Saksan välillä muuttuu aineellisesti mahdottomaksi.
+2716	Ennen kuin kosket painolevyyn, osoita erottavasi väärennöksen! Tarkista jokainen seteli EKP:n tapaan: TUNNE koholla oleva painatus, KATSO sitä valoa vasten, KALLISTA sitä. Arvioi 10 seteliä, yksi virhe sallittu.
+2717	Sachsenhausenin kapakassa kaada omenaviiniä Bembelistä jokaiseen lasiin viivaan asti! Pidä kynää (tai A:ta) pohjassa kallistaaksesi kannua, päästä irti pysäyttääksesi, sitten tarjoile painikkeella. 8 lasia, 2 läikkää sallittu.
+2718	Kahdeksan täydellistä lasia! Täällä Frankfurtissa omenaviiniä kutsutaan nimellä ”Ebbelwoi”.
+2719	Syntagma-aukio, Tuntemattoman sotilaan hauta. Liiku evzonien tahdissa: ASKEL, POTKU, TÖMÄYS, kun kunkin merkki saavuttaa viivan. 24 liikettä, hitaasti ja juhlallisesti. 4 virhettä sallittu.
+2720	Ruuhka-aika kioskilla! Jokainen asiakas pyytää kreikaksi: napauta, mitä hän haluaa. Kuiskaan merkityksen ensimmäisille. 15 asiakasta 60 sekunnissa!
+2721	Lastaa kolme laivaa ennen puoltapäivää! Liikuta nosturia kynällä tai ←/→, pudota A:lla tai napautuksella. Raskas (H) ei koskaan kevyemmän päälle, kylmäkontit (valkoiset) vain kahteen sähkölliseen sarakkeeseen (pistokkeet), ja pidä laiva tasapainossa!
+2722	Kopioi yläruudulla näkyvä begoniamatto: valitse väri, napauta tai vedä sitten ruutujen yli. Paina Valmis, kun se vastaa mallia. Kolme mattoa 90 sekunnissa!
+2723	Haikarat ovat palanneet Afrikasta! Ohjaa jokainen tyhjään pesään: liu'uta kynää ylös ja alas (tai ↑/↓) ja lennä matalalla vapaan pesän yli laskeutuaksesi. Vältä sähkölinjoja. 10 haikaraa, 3 menetystä sallittu.
+2724	Lautta on laiturissa! Tarkista jokainen eväsrasia: TAKAVARIKOI liha, maitotuotteet ja useimmat hedelmät, PÄÄSTÄ LÄPI loput. Varo: banaani on sallittu, omena ei. 20 rasiaa 50 sekunnissa, 2 virhettä sallittu.
+2725	Széchenyin kylpylä: pelaajat nojaavat höyryssä kelluvan laudan ylle. Valkoinen aloittaa: löydä siirto, joka tekee heti matin. Napauta valkoista nappulaa ja sitten sen ruutua. Kolme asemaa 90 sekunnissa!
+2726	9. toukokuuta 1950, Salon de l'Horloge. Robert Schumanin julistuksen sivut ovat sekaisin! Napauta lauseet oikeaan järjestykseen ennen lehdistötilaisuutta. 60 sekuntia.
+2727	Käytävät ovat pimeät ja taskulamppu palaa loppuun. Etsi kadonnut vieras ja sitten uloskäynti! Liiku +ohjaimella tai napauta hahmosi viereen. 75 sekuntia.
+2728	Kolme mattia! Kylvyissä sanotaan, että häviäjän on noustava vedestä ensin.
+2729	Uusi tammirunko hakattiin käsin, kuten keskiajalla. Kaikkialta Ranskasta tulleet kirvesmiehet ja kivenhakkaajat työskentelivät sen parissa.
+2730	Etupuoli
+2731	Takapuoli

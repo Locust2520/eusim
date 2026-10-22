@@ -13095,13 +13095,13 @@
 "id": 2182,
 "en": "Before touching the printing plate, prove you can spot a fake! Check each note the ECB's way: FEEL ",
 "ctx": "source/minigame2.c:137",
-"used": true
+"used": false
 },
 {
 "id": 2183,
 "en": "the raised print, LOOK at it against the light, TILT it. Judge 10 notes, one mistake allowed.",
 "ctx": "source/minigame2.c:138",
-"used": true
+"used": false
 },
 {
 "id": 2184,
@@ -13155,13 +13155,13 @@
 "id": 2192,
 "en": "In a Sachsenhausen tavern, pour apple wine from the Bembel into each glass up to the line! Hold the ",
 "ctx": "source/minigame2.c:199",
-"used": true
+"used": false
 },
 {
 "id": 2193,
 "en": "stylus (or A) to tilt the jug, let go to stop, then serve with the button. 8 glasses, 2 spills allowed.",
 "ctx": "source/minigame2.c:200",
-"used": true
+"used": false
 },
 {
 "id": 2194,
@@ -13173,7 +13173,7 @@
 "id": 2195,
 "en": "Eight perfect glasses! Here in Frankfurt they call apple wine \"Ebbelwoi\".",
 "ctx": "source/minigame2.c:264",
-"used": true
+"used": false
 },
 {
 "id": 2196,
@@ -13359,7 +13359,7 @@
 "id": 2226,
 "en": "Front",
 "ctx": "source/note.c:159",
-"used": true
+"used": false
 },
 {
 "id": 2227,
@@ -13395,13 +13395,13 @@
 "id": 2232,
 "en": "S",
 "ctx": "source/note.c:228",
-"used": true
+"used": false
 },
 {
 "id": 2233,
 "en": "L",
 "ctx": "source/note.c:228",
-"used": true
+"used": false
 },
 {
 "id": 2234,
@@ -14103,13 +14103,13 @@
 "id": 2350,
 "en": "Syntagma Square, the Tomb of the Unknown Soldier. Move in time with the Evzones: STEP, KICK, STOMP when ",
 "ctx": "source/minigame2.c:325",
-"used": true
+"used": false
 },
 {
 "id": 2351,
 "en": "each sign reaches the line. 24 moves, slowly and solemnly. 4 mistakes allowed.",
 "ctx": "source/minigame2.c:326",
-"used": true
+"used": false
 },
 {
 "id": 2352,
@@ -14259,13 +14259,13 @@
 "id": 2376,
 "en": "Rush hour at the kiosk! Each customer asks in Greek: tap what they want. I'll whisper the meaning for ",
 "ctx": "source/minigame2.c:430",
-"used": true
+"used": false
 },
 {
 "id": 2377,
 "en": "the first ones. 15 customers in 60 seconds!",
 "ctx": "source/minigame2.c:431",
-"used": true
+"used": false
 },
 {
 "id": 2378,
@@ -14289,13 +14289,13 @@
 "id": 2381,
 "en": "Load three ships before noon! Move the crane with the stylus or ←/→, drop with A or a tap. Heavy (H) ",
 "ctx": "source/minigame2.c:516",
-"used": true
+"used": false
 },
 {
 "id": 2382,
 "en": "never on top of lighter, refrigerated (white) only on the two powered columns (plugs), and keep the ship level!",
 "ctx": "source/minigame2.c:517",
-"used": true
+"used": false
 },
 {
 "id": 2383,
@@ -15723,7 +15723,7 @@
 "id": 2620,
 "en": "The new oak frame was cut by hand, like in the Middle Ages. Carpenters from all over Europe came to help.",
 "ctx": "assets/scripts/zz_villes.evs:363",
-"used": true
+"used": false
 },
 {
 "id": 2621,
@@ -15921,13 +15921,13 @@
 "id": 2653,
 "en": "Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. ",
 "ctx": "source/minigame2.c:689",
-"used": true
+"used": false
 },
 {
 "id": 2654,
 "en": "Press Done when it matches. Three carpets in 90 seconds!",
 "ctx": "source/minigame2.c:690",
-"used": true
+"used": false
 },
 {
 "id": 2655,
@@ -15957,13 +15957,13 @@
 "id": 2659,
 "en": "The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or ",
 "ctx": "source/minigame2.c:763",
-"used": true
+"used": false
 },
 {
 "id": 2660,
 "en": "↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.",
 "ctx": "source/minigame2.c:764",
-"used": true
+"used": false
 },
 {
 "id": 2661,
@@ -16035,13 +16035,13 @@
 "id": 2672,
 "en": "The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. ",
 "ctx": "source/minigame2.c:839",
-"used": true
+"used": false
 },
 {
 "id": 2673,
 "en": "Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.",
 "ctx": "source/minigame2.c:840",
-"used": true
+"used": false
 },
 {
 "id": 2674,
@@ -16083,31 +16083,31 @@
 "id": 2680,
 "en": "R.....K.",
 "ctx": "source/minigame2.c:890",
-"used": true
+"used": false
 },
 {
 "id": 2681,
 "en": "......K.",
 "ctx": "source/minigame2.c:892",
-"used": true
+"used": false
 },
 {
 "id": 2682,
 "en": "Q.......",
 "ctx": "source/minigame2.c:892",
-"used": true
+"used": false
 },
 {
 "id": 2683,
 "en": "......N.",
 "ctx": "source/minigame2.c:894",
-"used": true
+"used": false
 },
 {
 "id": 2684,
 "en": "K.......",
 "ctx": "source/minigame2.c:894",
-"used": true
+"used": false
 },
 {
 "id": 2685,
@@ -16119,13 +16119,13 @@
 "id": 2686,
 "en": "Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move ",
 "ctx": "source/minigame2.c:924",
-"used": true
+"used": false
 },
 {
 "id": 2687,
 "en": "that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!",
 "ctx": "source/minigame2.c:925",
-"used": true
+"used": false
 },
 {
 "id": 2688,
@@ -16143,7 +16143,7 @@
 "id": 2690,
 "en": "Three checkmates! In the baths, the loser traditionally gets out of the water first.",
 "ctx": "source/minigame2.c:971",
-"used": true
+"used": false
 },
 {
 "id": 2691,
@@ -16197,13 +16197,13 @@
 "id": 2699,
 "en": "9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the ",
 "ctx": "source/minigame2.c:987",
-"used": true
+"used": false
 },
 {
 "id": 2700,
 "en": "sentences in the right order before the press conference. 60 seconds.",
 "ctx": "source/minigame2.c:988",
-"used": true
+"used": false
 },
 {
 "id": 2701,
@@ -16227,13 +16227,13 @@
 "id": 2704,
 "en": "The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! ",
 "ctx": "source/minigame2.c:1048",
-"used": true
+"used": false
 },
 {
 "id": 2705,
 "en": "Move with the +Control Pad, or tap next to your character. 75 seconds.",
 "ctx": "source/minigame2.c:1049",
-"used": true
+"used": false
 },
 {
 "id": 2706,
@@ -16294,5 +16294,107 @@
 "en": "…so that war between France and Germany becomes materially impossible.",
 "ctx": "source/minigame2.c:984",
 "used": true
+},
+{
+"id": 2716,
+"en": "Before touching the printing plate, prove you can spot a fake! Check each note the ECB's way: FEEL the raised print, LOOK at it against the light, TILT it. Judge 10 notes, one mistake allowed.",
+"ctx": "source/minigame2.c:146",
+"used": true
+},
+{
+"id": 2717,
+"en": "In a Sachsenhausen tavern, pour apple wine from the Bembel into each glass up to the line! Hold the stylus (or A) to tilt the jug, let go to stop, then serve with the button. 8 glasses, 2 spills allowed.",
+"ctx": "source/minigame2.c:207",
+"used": true
+},
+{
+"id": 2718,
+"en": "Eight perfect glasses! Here in Frankfurt they call apple wine “Ebbelwoi”.",
+"ctx": "source/minigame2.c:285",
+"used": true
+},
+{
+"id": 2719,
+"en": "Syntagma Square, the Tomb of the Unknown Soldier. Move in time with the Evzones: STEP, KICK, STOMP when each sign reaches the line. 24 moves, slowly and solemnly. 4 mistakes allowed.",
+"ctx": "source/minigame2.c:323",
+"used": true
+},
+{
+"id": 2720,
+"en": "Rush hour at the kiosk! Each customer asks in Greek: tap what they want. I'll whisper the meaning for the first ones. 15 customers in 60 seconds!",
+"ctx": "source/minigame2.c:451",
+"used": true
+},
+{
+"id": 2721,
+"en": "Load three ships before noon! Move the crane with the stylus or ←/→, drop with A or a tap. Heavy (H) never on top of lighter, refrigerated (white) only on the two powered columns (plugs), and keep the ship level!",
+"ctx": "source/minigame2.c:537",
+"used": true
+},
+{
+"id": 2722,
+"en": "Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. Press Done when it matches. Three carpets in 90 seconds!",
+"ctx": "source/minigame2.c:683",
+"used": true
+},
+{
+"id": 2723,
+"en": "The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or ↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.",
+"ctx": "source/minigame2.c:756",
+"used": true
+},
+{
+"id": 2724,
+"en": "The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.",
+"ctx": "source/minigame2.c:831",
+"used": true
+},
+{
+"id": 2725,
+"en": "Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!",
+"ctx": "source/minigame2.c:915",
+"used": true
+},
+{
+"id": 2726,
+"en": "9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the sentences in the right order before the press conference. 60 seconds.",
+"ctx": "source/minigame2.c:977",
+"used": true
+},
+{
+"id": 2727,
+"en": "The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! Move with the +Control Pad, or tap next to your character. 75 seconds.",
+"ctx": "source/minigame2.c:1039",
+"used": true
+},
+{
+"id": 2728,
+"en": "Three checkmates! In the baths, they say the loser has to get out of the water first.",
+"ctx": "source/minigame2.c:961",
+"used": true
+},
+{
+"id": 2729,
+"en": "The new oak frame was cut by hand, like in the Middle Ages. Carpenters and stonemasons from all over France worked on it.",
+"ctx": "assets/scripts/zz_villes.evs:363",
+"used": true
+},
+{
+"id": 2730,
+"en": "Front side",
+"ctx": "source/note.c:159",
+"used": true
+},
+{
+"id": 2731,
+"en": "Back side",
+"ctx": "source/note.c:159",
+"used": true
+},
+{
+"id": 2732,
+"en": "Chapter — subtitle",
+"ctx": "source/cine.c:27",
+"used": false
 }
 ]

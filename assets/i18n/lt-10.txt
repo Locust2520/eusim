@@ -1,0 +1,523 @@
+# Lithuanian — city extensions (ids 2169+)
+2169	NETIKRA
+2171	%d s · %d/%d
+2172	Pakraščiuose iškilios linijos: jas galima apčiuopti.
+2173	Popierius visur lygus…
+2174	Čiuopti
+2175	Žiūrėti
+2176	Palenkti
+2177	Patikrink ir nuspręsk:
+2178	Tikra
+2179	Padirbta
+2180	L/R: palenkti · X: prieš šviesą · Y: čiuopti
+2181	Čiuopk, žiūrėk, lenk
+2184	Tai buvo %s: trūko iškilios spaudos.
+2185	Tai buvo %s: prieš šviesą nebuvo vandenženklio.
+2186	Tai buvo %s: skaičius nekeitė spalvos.
+2187	padirbinys
+2188	Tai buvo tikra kupiūra!
+2189	Nė vienas padirbinys neprasmuko! Vandenženklyje matei Europą iš daugiau nei 2000 metų senumo graikiškos vazos.
+2190	Padirbinys prasmuko… Čiuopk, žiūrėk, lenk: šie trys patikrinimai užtrunka vos kelias sekundes.
+2191	Bembelis
+2194	Paduoti
+2196	Per daug išlietų stiklinių… Smuklininkė paskolina tau šluostę.
+2197	Marija Kalas
+2198	Ludvigas van Bethovenas
+2199	Marija Kiuri
+2200	Migelis de Servantesas
+2201	Leonardas da Vinčis
+2202	Berta fon Zutner
+2203	gatvės artistai
+2204	dainų šventė
+2205	mokykla
+2206	biblioteka
+2207	gatvės menas
+2208	medžiais apsodinta aikštė
+2209	uolinis šliaužikas prie kalnų šaltinio
+2210	tulžys prie krioklio
+2211	bitininkai upės slėnyje
+2212	baltasis gandras prie vingiuojančios upės
+2213	pjautuvasnapis prie upės žiočių
+2214	šiaurinė suola virš jūros
+2215	Europos Parlamentas
+2216	Europos Komisija
+2217	Europos centrinis bankas
+2218	ES Teisingumo Teismas
+2219	Europos Vadovų Taryba ir ES Taryba
+2220	Europos Audito Rūmai
+2221	Priekis: tavo portretas (vietoj: %s)
+2222	Galinė pusė: %s
+2223	Priekis: %s
+2224	Pavyzdinė kupiūra – %d €
+2225	Ne mokėjimo priemonė: tai dizaino pavyzdys.
+2227	L/R arba palietimas: apversti · B: uždaryti
+2228	Šviesi
+2229	Vidutinė
+2230	Tamsi
+2231	Trintukas
+2234	Atšaukti
+2235	Išvalyti
+2236	Baigta
+2237	Nupiešk savo portretą
+2238	Studija išgraviruos jį kaip banknoto portretą.
+2239	Tavo pavyzdinė kupiūra
+2240	Europos kultūra
+2241	Upės ir paukščiai
+2242	Apversti
+2243	Naujas portretas
+2244	Atspausdinti pavyzdį
+2245	Spausdinama…
+2246	Tavo portretas pavyzdžiui
+2247	DSi kamera, rašiklis arba oficiali nuotrauka.
+2248	Rašiklis arba oficiali nuotrauka.
+2249	Fotografuotis
+2250	Piešti portretą
+2251	Naudoti oficialią nuotrauką
+2252	Čia kameros naudoti negalima. Vietoj to gali nupiešti savo portretą.
+2253	Tavo pavyzdinė kupiūra pateko į Frankfurto Pinigų muziejaus kolekciją.
+2254	Frankfurte ECB studija vis dar saugo tuščią pavyzdį su tavo vardu.
+2255	Paleidžiama kamera…
+2256	Įdėk veidą į ovalą
+2257	A arba palietimas: fotografuoti · L/R: kita kamera · B: atgal
+2258	Graviravimo bandymas
+2259	Iš naujo
+2260	Palikti
+2261	Tarp mūsų: euras tapo grynaisiais, žmonių kišenėse, 2002 m. Kai kurios šio bokšto durys vis dar prisimena tuos metus.
+2262	Euro ženklas, menininko Ottmaro Hörlo kūrinys, atidengtas 2001 m. prie buvusio ECB bokšto.
+2263	Po kelių savaičių, 2002 m. sausio 1 d., euro banknotai ir monetos pasiekė žmonių kišenes dvylikoje šalių.
+2264	Atminimo vieta Grossmarkthalle.
+2265	1941–1945 m. apie 10 000 žydų vyrų, moterų ir vaikų iš Frankfurto ir apylinkių buvo išvežti iš šios turgaus halės rūsio į getus ir stovyklas. Dauguma jų buvo nužudyti.
+2266	Frankfurto miestas, Žydų bendruomenė ir ECB, kurio būstinės komplekse dabar yra ir ši halė, šią atminimo vietą sukūrė kartu.
+2267	Römeris, Frankfurto rotušė nuo 1405 m. Jo Imperatoriaus salėje ką tik karūnuoti Šventosios Romos imperijos imperatoriai rengdavo karūnavimo pokylius.
+2268	Pusiau medinio karkaso namai Römerberge. Bombardavimai 1944 m. sunaikino senamiestį; ši eilė atstatyta 1980-aisiais, sija po sijos.
+2269	Teisingumo fontanas. Įsižiūrėk: ši Justicija laiko svarstykles ir kardą, bet jos akys neužrištos.
+2270	Šį miestą vadina „Mainhattan“: dangoraižiai prie Maino upės. Suskaičiavau vienuolika kranų ir keturis bankus. Arba atvirkščiai.
+2271	1848 ir 1849 m. šioje bažnyčioje posėdžiavo pirmasis laisvai išrinktas parlamentas visai Vokietijai.
+2272	Jis parengė konstituciją su pagrindinėmis teisėmis. Ji niekada neįsigaliojo, bet vėlesnės Vokietijos konstitucijos ja rėmėsi.
+2273	Gidas
+2274	Salė vis dar sulaukia didelių dienų: kiekvieną spalį čia teikiama Vokietijos knygų prekybos Taikos premija.
+2275	Jautis puola ragus iškėlęs: kylanti rinka.
+2276	Lokys kerta letena žemyn: krintanti rinka.
+2277	DAX lenta. Garsiausias Vokietijos akcijų indeksas buvo pradėtas skaičiuoti čia, 1988 m.
+2278	Pirk gandą, parduok naujieną. Ir niekada, bet niekada neparduok skėčio balandį.
+2279	Johanas Volfgangas Gėtė gimė šiame name 1749 m. rugpjūčio 28 d. Prie „Fausto“ jis dirbo apie šešiasdešimt metų.
+2280	Jo vardas dabar keliauja po pasaulį: Gėtės institutas moko vokiečių kalbos beveik šimte šalių.
+2281	Messeturm stūkso virš parodų centro. Kiekvieną spalį čia vyksta Frankfurto knygų mugė, didžiausia pasaulyje.
+2282	Skaitytojas
+2283	Atvykau į knygų mugę, o likau dėl žaliojo padažo. Perskaičiau tris knygas ir suvalgiau penkis padažus.
+2284	Geležinis pėsčiųjų tiltas per Mainą, pastatytas 1869 m. Ant jo turėklų kabo tūkstančiai spynų: įsimylėjėlių pažadai.
+2285	Pora
+2286	Užrakinome savo spyną ant tilto, o raktą įmetėme į Mainą. Dar turime išsiaiškinti, kieno tai buvo mintis.
+2287	Frankfurtietis
+2288	Kitoje pusėje – Sachsenhausenas. Ten geriame Ebbelwoi, obuolių vyną. Tik niekas čia jo sidru nevadina.
+2289	Virš durų kabo pušų vainikas: ženklas, kad ši smuklė pati spaudžia ir pateikia savo obuolių vyną.
+2290	Šeimininkė
+2291	Guten Abend! Obuolių vynas pilamas iš Bembelio, pilko akmens masės ąsočio, į Gerippte, stiklinę su rombų raštu.
+2292	Šįvakar turiu pilną salę ir tik dvi rankas. Tu pilsi į stiklines, o aš nešiosiu?
+2293	Nori dar vieno rato už baro?
+2294	Nė lašo ant mano stalų! Še, imk ir ateik, kada tik nori.
+2295	Vėl nepriekaištingai. Gali atidaryti savo smuklę. Tik pakabink pušų vainiką virš durų.
+2296	Ach, stalai plaukia! Nieko tokio, nušluostysime.
+2297	Nuolatinis svečias
+2298	Handkäs mit Musik: rūgpienio sūris, marinuotas su svogūnais. Muzika ateina vėliau. Neklausk.
+2299	Žaliajam padažui reikia lygiai septynių žolelių: agurklių, kerbelio, krešų, petražolių, pimpinelės, rūgštynių ir svogūnlaiškių.
+2300	Nuo 2016 m. ES „Frankfurter Grüne Soße“ saugo kaip saugomą geografinę nuorodą. Septynios žolelės, nei daugiau, nei mažiau.
+2301	Tikras aukso luitas, 12,5 kilogramo, kurį lankytojai gali pakelti. Daugumai pavyksta kelis centimetrus.
+2302	Nuo kriauklių iki monetų, nuo monetų iki popieriaus, nuo popieriaus iki euro: trys tūkstančiai metų pinigų keliose lentynose.
+2303	Kuratorius
+2304	Bundesbankas yra Vokietijos centrinis bankas. Nuo 1999 m. jis priklauso Eurosistemai kartu su ECB ir kitais euro zonos centriniais bankais.
+2305	Girdėjau, kad turi pavyzdinę kupiūrą su savo veidu. Pasibaigus nuotykiui labai norėtume ją gauti į savo kolekciją.
+2306	Europos portretas: graikų mito princesės, davusios vardą žemynui.
+2307	Jos veidas paimtas iš daugiau nei 2000 metų senumo graikiškos vazos, saugomos Luvre. Pakelk euro banknotą prieš šviesą: ji vandenženklyje.
+2308	Už rėmo šviečia maža skaičių klaviatūra. Keturi skaitmenys.
+2309	Įvesti kodą?
+2310	Skaičių klaviatūra mirksi raudonai. Kažkur prekybos aikštelėje kažkas atsidūsta.
+2311	Spragt. Paveikslas atsilenkia, atverdamas siaurus laiptus žemyn…
+2312	Nusileisti į slaptą studiją?
+2313	Dirbtuvė, pilna molbertų, graviravimo įrankių ir sunkaus preso. Ant durų: „Banknotų dizainas – konfidencialu“.
+2314	Tema „Europos kultūra“: Marija Kalas (5 €), Ludvigas van Bethovenas (10 €), Marija Kiuri (20 €), Migelis de Servantesas (50 €), Leonardas da Vinčis (100 €) ir Berta fon Zutner (200 €).
+2315	Antroje pusėje: vietos, kuriose dalijamasi kultūra. Gatvės artistai, dainų šventė, mokykla, biblioteka, gatvės menas, medžiais apsodinta aikštė.
+2316	Tema „Upės ir paukščiai“: nuo kalnų šaltinio (5 €) iki atviros jūros (200 €), su uoliniu šliaužiku, tulžiu, bitininkais, baltuoju gandru, pjautuvasnapiu ir šiaurine suola.
+2317	Antroje pusėje: ES institucijos, nuo Europos Parlamento iki Europos Audito Rūmų.
+2318	Dešimt finalinių dizainų: EC145, EC564, EC617, EC799, EC915 ir RB120, RB227, RB637, RB754, RB832.
+2319	Dizainerių vardai lieka paslaptyje. Po visuomenės apklausos galutinį pasirinkimą padaro ECB valdančioji taryba.
+2320	Giliaspaudės presas. Jis taip stipriai įspaudžia dažus į popierių, kad jie iškyla reljefu: tai iškili spauda, kurią galima apčiuopti ant tikro banknoto.
+2321	Reikalavimai: tokie patys dydžiai kaip dabartinių banknotų, viena vyraujanti spalva kiekvienam nominalui ir ant kiekvieno banknoto Europos vėliava, Europos žemėlapis ir ECB prezidento parašas.
+2322	Žiuri narys
+2323	2025 m. į ECB kvietimą atsiliepė daugiau nei 1200 dizainerių. Žiuri pasiekė trisdešimt devyni pasiūlymai; dešimt jų stovi ant šių molbertų.
+2324	Siekiama išgalvotus tiltus ir langus pakeisti tikrais žmonėmis, tikrais paukščiais ir tikromis vietomis.
+2325	Eleni
+2326	Kaliméra! Aš Eleni, giliaspaudės graveriė. Amato išmokau Graikijos banko spaustuvėje Atėnuose.
+2327	Oficialiai ECB nespausdina nė vieno banknoto: jis juos kuria, o spausdina spaustuvės visoje Europoje.
+2328	Dabar ruošiame kitus euro banknotus. 2026 m. žiuri atrinko dešimt dizainų dviem temomis: Europos kultūra bei upės ir paukščiai.
+2329	Prieš galutinį pasirinkimą turiu išbandyti graviravimą ant tikro veido. Euro banknotuose dar niekada nebuvo gyvo žmogaus… todėl tavo kupiūra liks tik pavyzdžiu.
+2330	Bet niekas neliečia mano plokščių neišlaikęs patikros. Čiuopk, žiūrėk, lenk: įrodyk, kad atskirsi tikrą banknotą nuo padirbto.
+2331	Pasiruošęs?
+2332	Bravo! Turi centrinio bankininko akį. Dabar tavo portretas.
+2333	Naujas pavyzdys? Presas dar šiltas.
+2334	Štai, išgraviruota! Matai serijos numerį? Pirmoji raidė Y yra Graikijos banko kodas. Mano mažas parašas.
+2335	Parodyk visiems. O žaidimą išsaugok per Ataskaitą, kad tavo kupiūra liktų su tavimi.
+2336	Padirbinys prasmuko. Čiuopk, žiūrėk, lenk: tai užtrunka vos kelias sekundes. Grįžk, kai būsi pasiruošęs.
+2337	Neskubėk. Gero graviravimo negalima paskubinti.
+2338	Obuolių vyno smuklė, Sachsenhausenas
+2339	ECB – banknotų dizaino studija
+2340	Frankfurto vertybinių popierių birža
+2341	Bundesbanko Pinigų muziejus
+2342	Gėtės namai – Frankfurtas
+2343	Paulskirche – Asamblėjos salė
+2344	Pavyzdinė kupiūra
+2345	Tavo portretas, išgraviruotas ECB studijoje Frankfurte. Ne mokėjimo priemonė.
+2346	Obuolių vyno smuklė
+2348	Laikyk – Bembelis svyra, paleisk – sustoja. Paduok, kai vynas pasieks liniją.
+2349	Sargybos keitimas
+2352	Žingsnis
+2353	Spyris
+2354	Trypt
+2355	Judesiai: %d / 24 · klaidos: %d
+2356	←: žingsnis · →: spyris · A/↓: trypt
+2357	Tobulai sutartinai! Evzonai keičia sargybą kas valandą, dieną ir naktį, bet kokiu oru.
+2358	Ne į žingsnį… Evzonai mokosi mėnesius iki pirmosios sargybos.
+2359	Frappé
+2360	Vanduo
+2361	Laikraštis
+2362	Koulouri
+2363	Komboloi
+2364	Mati
+2365	Bilietas
+2366	Kramtomoji
+2367	(Frappé, prašau!)
+2368	(Vandens, prašau!)
+2369	(Laikraštį, prašau!)
+2370	(Koulouri, sezamų žiedą, prašau!)
+2371	(Komboloi, prašau!)
+2372	(Mažą nuo piktos akies amuletą, prašau!)
+2373	(Bilietą, prašau!)
+2374	(Kramtomosios, prašau!)
+2375	Periptero
+2378	Penkiolika patenkintų klientų! Ευχαριστώ (efcharistó) reiškia ačiū.
+2379	Eilė siekia kitą gatvę… Σιγά σιγά (sigá sigá): lėtai, lėtai.
+2380	Pirėjo uostas
+2383	H
+2384	Laivas %d/3 · konteineriai %d/%d
+2385	Laikas: %d s · klaidos: %d/3
+2386	Posvyris
+2387	Trys laivai pakrauti ir lygūs! Pirėjas yra vienas didžiausių konteinerių uostų Viduržemio jūroje.
+2388	Uosto kapitonas sustabdo krovą: laivas nesaugus. Perdėliok ir bandyk iš naujo!
+2389	Nežinomo kareivio kapas (1932 m.) Parlamento papėdėje. Prezidentinės gvardijos evzonai jį saugo dieną ir naktį.
+2390	Aikštė vadinasi Syntagma, „Konstitucija“: 1843 m. atėniečiai čia rinkosi, kol karalius Otonas ją suteikė.
+2391	Evzonas nejuda. Net blakstienos nepajudina.
+2392	Jo tsarouchia, raudonos klumpės su juodais kutais, sveria apie tris kilogramus kiekviena, su šešiasdešimčia vinių padeliuose. Jo baltas sijonas fustanella turi 400 klosčių: pagal tradiciją, po vieną už kiekvienus osmanų valdymo metus.
+2393	Evzonų seržantas
+2394	Kas valandą keičiasi sargyba. Lėti žingsniai, aukštas spyris, marmure dunksinčios klumpės: du vyrai juda kaip vienas.
+2395	Šiandien trūksta naujoko. Palaikysi ritmą kartu su manimi?
+2396	Dar vienas sargybos keitimas?
+2397	Nė vieno žingsnio ne laiku. Μπράβο (brávo)! Imk, nuo sargybos.
+2398	Μπράβο (brávo)! Sekmadieniais vienuoliktą visa kuopa žygiuoja iškilmingomis uniformomis. Ateik pažiūrėti.
+2399	Tavo klumpės ir būgnas nesutarė. Reikia mėnesių treniruočių. Rytoj dar kartą?
+2400	Kiosko pardavėjas
+2401	Γεια σας (yia sas, labas)! Periptero parduoda viską: laikraščius, vandenį, bilietus, telefono kreditą, kramtomąją gumą, komboloi…
+2402	Mano sūnėnas neatėjo. Pabūsi prie prekystalio? Klientai kalba graikiškai, bet aš pašnibždėsiu reikšmę.
+2403	Vėl piko valanda! Padėsi man?
+2404	Ευχαριστώ (efcharistó, ačiū)! Dabar kalbi kiosko kalba. Še, už mano sąskaitą.
+2405	Ευχαριστώ (efcharistó)! Eilė dingo rekordiškai greitai.
+2406	Σιγά σιγά (sigá sigá), lėtai, lėtai. Tai ir graikų patarlė.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): vidutiniškai saldų frappé, prašau. Ledinė kava, išplakta į putas.
+2408	Jis buvo sugalvotas netyčia 1957 m. Salonikų tarptautinėje mugėje: pardavėjas neturėjo karšto vandens ir suplakė tirpią kavą su šaltu vandeniu.
+2409	Syntagma metro stotis. Kasant metro 1990-aisiais, archeologai rado dešimtis tūkstančių daiktų. Dalis jų eksponuojama pačioje stotyje.
+2410	Spalio 28-oji yra Ochi diena (όχι, óchi, „ne“). 1940 m. Graikija pasakė ne Musolinio ultimatumui; kasmet moksleiviai žygiuoja gatvėmis.
+2411	Nepainiok su 2015 m. referendumo OXI. Du garsūs graikiški „ne“, atskirti septyniasdešimt penkerių metų.
+2412	Drachma: senovės Graikijos monetos pavadinimas, 1832 m. sugrąžintas jaunai Graikijos valstybei ir 2002 m. pakeistas euru.
+2413	Graikiška vieno euro moneta vaizduoja Atėnės pelėdą, nukopijuotą nuo senovinės Atėnų monetos, keturių drachmų.
+2414	Graikijos bankas turi savo spaustuvę: ji spausdina ir euro banknotus.
+2415	Ant „Europos“ serijos banknotų pirmoji serijos numerio raidė rodo centrinį banką, kuris juos užsakė. Mūsų – Y.
+2416	Y ant tavo pavyzdžio? Tada sveikas sugrįžęs namo!
+2417	Anafiotika: XIX a. statybininkai iš Anafės salos atvyko dirbti prie karališkųjų rūmų ir čia, po Akropoliu, pasistatė sau mažą Kikladų kaimelį.
+2418	Μιάου (miáou). Atėnuose gyvena tūkstančiai gatvės kačių; kaimynai ir savanoriai jas šeria net tarp griuvėsių.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Ar valgei? Kaip sulysai. Sėskis. Valgyk.
+2421	Yiayia primaitino visą tavo komandą, kol niekas nebegalėjo pajudėti. Visi vėl atgavo jėgas.
+2422	Γιαγιά (yiayiá) reiškia močiutė. O yiayia niekada netiki, kai sakai, kad pasisotinai.
+2423	Kaimynė
+2424	Χρόνια πολλά (chrónia pollá)! Daug metų! Šiandien mano vardadienis.
+2425	Graikijoje dažnai labiau švenčiame savo globėjo šventojo dieną nei gimtadienį. Pusė gatvės vadinasi Giorgos: įsivaizduok Šv. Jurgio dieną.
+2426	Ναι (nai) reiškia taip! Turistams skamba kaip „ne“. O όχι (óchi) reiškia ne.
+2427	Jei atlošiu galvą ir spragtelėsiu liežuviu, tai irgi ne. Paprasta!
+2428	Prekeivis
+2429	Μάτι (máti), akis! Mėlyna stiklinė akis saugo nuo piktos akies, nelaimės, kylančios iš pavydo.
+2430	Jei kas pagiria tavo Euromoną, pasakyk „φτου φτου“ (ftou ftou), tarsi spjaudytum. Tai sėkmei. Tik iš tikrųjų nespjaudyk.
+2431	Sūrių pardavėjas
+2432	Feta nuo 2002 m. turi saugomą kilmės vietos nuorodą: tikra feta gaminama Graikijoje iš avių pieno, kartais pridedant kiek ožkų pieno.
+2433	Vokietija ir Danija ginčijo tai ES Teisingumo Teisme. 2005 m. Teismas pasakė: feta yra graikiška.
+2434	Griliaus virėjas
+2435	Souvlaki! Atėnuose tai mėsa ant iešmelio. Salonikuose tą patį vadina kalamaki, „pagaliukas“.
+2436	Paprašyk „souvlaki“ Salonikuose ir gausi pitą su gyros. Šeimos iširo dėl menkesnių dalykų.
+2437	Muzikantas
+2438	Visi mano, kad sirtakis yra senas liaudies šokis. Jis sugalvotas filmui „Zorba graikas“ 1964 m., Mikio Teodorakio muzikai.
+2439	Iš pradžių lėtai, paskui vis greičiau ir greičiau… Opa!
+2440	Monastiraki stotis. 1 linija eina Atėnų–Pirėjo geležinkelio trasa, atidaryta 1869 m.: seniausia tinklo linija.
+2441	Važiuoti traukiniu į Pirėjo uostą?
+2442	Heroda Atiko odeonas, pastatytas 161 m. Kr. 1944 m. čia Bethoveno „Fidelio“ dainavo jauna sopranė, studijavusi Atėnų konservatorijoje: Marija Kalas.
+2443	Kalas ir Bethovenas abu pavaizduoti kitų euro banknotų finaliniuose dizainuose, kultūros temos 5 ir 10 eurų banknotuose.
+2444	Šios baltos plokštės yra gipso kopijos. Originalai nuo 1816 m. yra Britų muziejuje Londone.
+2445	Graikija oficialiai prašo juos grąžinti nuo 1983 m. Muziejus saugo jiems vietas, šalia originalių dalių.
+2446	Originalus Partenono frizo blokas: Panatėnų procesijos raiteliai, iškalti apie 440 m. pr. Kr.
+2447	Akropolio muziejus atidarytas 2009 m. Šis viršutinis aukštas pasuktas taip, kad būtų sulygiuotas su Partenonu, kurį matai pro stiklą.
+2448	Frizas eina aplink, originalia tvarka. Medaus spalvos marmuras: čia. Baltas gipsas: Londone.
+2449	Zappeion. Čia 1979 m. gegužės 28 d. Graikija pasirašė stojimo į Europos Bendrijas sutartį.
+2450	Ji tapo dešimtąja nare 1981 m. sausio 1 d. Euras sekė 2001 m., metais anksčiau nei monetos ir banknotai.
+2451	Melina Merkuri (1920–1994), aktorė, vėliau kultūros ministrė. Ji pasiūlė Europos kultūros sostinės idėją: Atėnai buvo pirmieji, 1985 m.
+2452	Ji taip pat pradėjo Partenono marmurų grąžinimo kampaniją.
+2453	Panatėnų stadionas, vienintelis didelis pasaulio stadionas, visas pastatytas iš marmuro. 1896 m. čia vyko pirmosios šiuolaikinės olimpinės žaidynės.
+2454	Kas dveji metai čia olimpinė ugnis perduodama kitam miestui šeimininkui.
+2455	Konteinerių terminalas, kurį valdo COSCO Shipping. Kinijos grupė 2016 m. nupirko 51 % Pirėjo uosto valdybos, o 2021 m. – 67 %.
+2456	Uosto sargas
+2457	Konteinerių terminalas lankytojams uždarytas. Keleivių uostas – visas tavo.
+2458	Ne šiuo keliu, prašau: konteinerių terminalas.
+2459	Pirėjo stotis, 1 linijos galinė stotis. Pastatas statytas 1929 m.
+2460	Grįžti traukiniu į Atėnus?
+2461	Pirėjo sienų akmenys. V a. pr. Kr. Temistoklis padarė Pirėją Atėnų uostu, o Ilgosios sienos sujungė abu miestus.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), „Pirėjo vaikai“! Manos Hadžidakis ją parašė filmui „Niekada sekmadienį“ (1960), kuriame vaidino Melina Merkuri.
+2463	Ji laimėjo Oskarą už geriausią dainą. Prancūzijoje Dalida padarė ją hitu: „Les Enfants du Pirée“.
+2464	Žvejys
+2465	Ten Mikrolimano, mažasis uostelis: žvejų valtys ir tavernos, kuriose žuvis dar ryte plaukiojo.
+2466	Šiuo keliu į Karaiskakio stadioną, Olympiacos namus. 2024 m. klubas laimėjo UEFA Konferencijų lygą: pirmasis Europos trofėjus Graikijos futbolo klubui.
+2467	Keltai į salas: Eginą, Hidrą, Kikladus, Kretą… Pirėjas yra vienas judriausių keleivių uostų Europoje.
+2468	Graikų laivų savininkai valdo apie penktadalį pasaulio prekybinio laivyno: daugiau nei bet kuri kita šalis.
+2469	Dokų meistras
+2470	Ei, stažuotojau! Laivas išplaukia vidurdienį, o mano kranininkas streikuoja. Ar kada krovei konteinerinį laivą?
+2471	Sunkūs konteineriai apačioje, šaldomieji – ant eilių su elektros lizdais, ir laikyk laivą lygiai, kitaip pasvirs.
+2472	Dar vienas laivas pakrauti?
+2473	Tiesiai kaip styga! Štai tavo atlygis. Neišleisk visko souvlaki.
+2474	Dar vienas laivas išplaukė laiku. Kapitonas siunčia linkėjimų.
+2475	Jis svyra kaip bloga nuotaika. Perdėliosime. Dar kartą?
+2476	Graikijos bankas – Muziejus
+2477	Akropolio muziejus – Partenono galerija
+2478	Pirėjo uostas
+2479	Namas – Plaka
+2480	Žiuri atvirukai: %d iš 12.
+2481	Tai visi dvylika motyvų! Eleni, ECB studijoje Frankfurte, norės juos pamatyti.
+2482	Visi dvylika atvirukų! Kalas, Bethovenas, Kiuri, Servantesas, Leonardas, fon Zutner… ir šeši paukščiai. Esi matęs daugiau Europos nei žiuri.
+2483	Nuo šiol mano presas spausdina tavo pavyzdžius auksiniu leidimu. Ir imk tai, nuo studijos.
+2484	Dar vienas dalykas: žiuri išsiuntinėjo dvylikos motyvų atvirukus po visą Europą. Jei surasi juos visus, sugrįžk: išgraviruosiu auksinį leidimą.
+2485	Briuselio rotušė, pastatyta XV a. Ant jos 96 metrų bokšto šventasis Mykolas žudo slibiną.
+2486	Aplink ją esanti Grand-Place nuo 1998 m. yra UNESCO pasaulio paveldo objektas.
+2487	Cechų namai: kepėjų, valtininkų, aludarių… kiekvienas amatas turėjo savo namą, paauksuotą turtui parodyti.
+2488	Manneken-Pis: 55 centimetrai bronzos. Jis turi daugiau nei tūkstantį kostiumų, laikomų jo paties garderobo muziejuje.
+2489	Oficialus aprengėjas
+2490	Šiandien jis apsirengęs… savimi. Rytoj – ugniagesiu. Kitą savaitę – astronautu. Statulos aprengimas yra visa darbo diena.
+2491	Fritkot savininkas
+2492	Tikros belgiškos bulvytės kepamos du kartus: kartą iškepti, kartą paskrusti.
+2493	Alkanas? Išbandyk mitraillette: pusė batono, mėsa, padažas ir bulvytės viduje. Taip, viduje.
+2494	Vaflių pardavėjas
+2495	Briuselio vafliai: lengvi, stačiakampiai, pabarstyti cukraus pudra. Lježo vafliai: tankesni, viduje karamelizuotas perlinis cukrus.
+2496	Rinktis tarp jų šeimas skaldė kartų kartoms. Aš parduodu abu. Labai diplomatiška.
+2497	Briuselio sienas dengia dešimtys komiksų freskų. Belgija komiksus vertina taip pat rimtai kaip šokoladą.
+2498	Šiuo keliu į Galeries Royales Saint-Hubert (1847 m.), vieną seniausių dengtų prekybos pasažų Europoje.
+2499	1912 m. šiuose pasažuose šokolado meistras Žanas Neuhausas išrado šokoladą su įdaru: pralinę.
+2500	Grand-Place / Grote Markt. Briuselyje kiekviena gatvė pavadinta prancūziškai ir olandiškai: sostinės regionas oficialiai dvikalbis.
+2501	Belgijoje yra trys oficialios kalbos: olandų, prancūzų ir vokiečių.
+2502	Briuselietis
+2503	Allez, une fois! Taip jie įsivaizduoja, kaip kalbame Briuselyje. Na… kartais ir kalbame.
+2504	Sodininkas
+2505	Kas dveji metai rugpjūtį begonijų kilimas dengia Grand-Place. Pirmasis buvo nuklotas 1971 m.
+2506	Šimtai tūkstančių gėlių, sudėtų rankomis per kelias valandas. Trūksta vieno savanorio. Sodinsi su manimi?
+2507	Dar vienas kilimas? Begonijos laukia.
+2508	Nuostabu! Net cechų namai atrodo pavydūs. Štai, nuo miesto.
+2509	Dar vienas šedevras. Po kelių dienų gėlių nebeliks, bet nuotraukos išliks.
+2510	Raštas pasidarė kiek… abstraktus. Magritte'ui būtų patikę.
+2511	Didžiosios kunigaikštienės Šarlotės tiltas, pramintas Raudonuoju tiltu, jungia senamiestį su Kirchbergo plynaukšte, aukštai virš Alzette slėnio.
+2512	Didžiojo kunigaikščio rūmai senamiesčio širdyje. Liuksemburgas yra vienintelė likusi didžioji kunigaikštystė pasaulyje.
+2513	Sargybinis žygiuoja aštuonis žingsnius, apsisuka, žygiuoja aštuonis žingsnius atgal. Žiūrėti labai atpalaiduoja.
+2514	Europos Audito Rūmai: ES finansų sargas. Jie tikrina, kaip leidžiami Europos pinigai, euras po euro.
+2515	Viename iš kitų banknotų finalinių dizainų jie pavaizduoti 200 eurų banknoto antroje pusėje.
+2516	Nuo 2020 m. vasario 29 d. visas viešasis transportas Liuksemburge nemokamas: autobusai, tramvajai, traukiniai. Pirmoji pasaulio šalis, tai padariusi.
+2517	Gëlle Fra, auksinė Atminimo paminklo moteris, pagerbia Liuksemburgo gyventojus, žuvusius pasauliniuose karuose.
+2518	Okupacinės pajėgos ją nuvertė 1940 m.; ji buvo visiškai atkurta ir 1985 m. grąžinta ant savo kolonos.
+2519	Schueberfouer! Linksmybių mugė nuo 1340 m., kurią įsteigė Jonas Aklasis, Liuksemburgo grafas. Kasmet vasaros pabaigoje.
+2520	Liuksemburgietis
+2521	Moien! Taip liuksemburgiečių kalba sakoma „labas“. Čia turime tris administracines kalbas: liuksemburgiečių, prancūzų ir vokiečių.
+2522	Dauguma mūsų jas keičiame net vieno sakinio viduryje. Kartais įsiterpia ir anglų.
+2523	Ant sienos: „Mir wëlle bleiwe wat mir sinn“ („Mes norime likti tuo, kas esame“), šalies šūkis.
+2524	Sveiki atvykę į Bock kazematus: 17 kilometrų uoloje iškastų tunelių, UNESCO pasaulio paveldo dalis.
+2525	Per Antrojo pasaulinio karo bombardavimus čia slėpėsi iki 35 000 žmonių.
+2526	Vienas lankytojas pasiklydo tamsiose galerijose su mano paskutiniu žibintu. Rasi išėjimą ir jį atvesi?
+2527	Dar vienas galerijų turas?
+2528	Abu išėjote sveiki! Tvirtovė buvo vadinama „Šiaurės Gibraltaru“. Imk už vargą.
+2529	Galerijas pažįsti geriau nei 1700 m. kareiviai.
+2530	Žibintas užgeso… Nesijaudink, kelią žinau. Bandom dar kartą.
+2531	Europos tiltas kerta Reiną. Kitoje pusėje – Kelis Vokietijoje. Nuo 2017 m. net tramvajus kerta sieną.
+2532	Pasienio darbuotojas
+2533	Gyvenu Kelyje, o dirbu Strasbūre. Kiekvieną rytą per keturias minutes pakeičiu šalį. Niekas netikrina mano paso.
+2534	Čia įsikūrusi 1949 m. įsteigta Europos Taryba: 46 valstybės narės ir Europos Žmogaus Teisių Teismas. Ji nėra ES dalis.
+2535	Nesupainiok jos su Europos Vadovų Taryba (ES valstybių ir vyriausybių vadovais) ar ES Taryba (ministrais). Net žurnalistai painioja.
+2536	Mėlyną vėliavą su dvylika auksinių žvaigždžių pirmiausia priėmė Europos Taryba, 1955 m. ES ją perėmė vėliau.
+2537	Bertos fon Zutner (1843–1914) portretas. Ji – romano „Sudėkite ginklus!“ autorė ir pirmoji moteris, gavusi Nobelio taikos premiją, 1905 m.
+2538	Ji – 200 eurų banknoto asmenybė ECB finaliniuose „Europos kultūra“ dizainuose.
+2539	Europos himnas yra „Odės džiaugsmui“ preliudija iš Bethoveno Devintosios simfonijos. Europos Taryba ją priėmė 1972 m., ES – 1985 m.
+2540	Oficialių žodžių jis neturi: Europoje visi niūniuojame ta pačia kalba.
+2541	Katedros smailė kyla į 142 metrų aukštį. Nuo 1647 iki 1874 m. tai buvo aukščiausias pastatas pasaulyje.
+2542	Astronominis laikrodis. Jo mechanizmas datuojamas 1842 m. Kasdien pusę pirmos dvylika apaštalų žygiuoja prieš Kristų.
+2543	Katedra pastatyta iš rožinio Vogezų smiltainio. Todėl saulėlydyje ji paraudonuoja.
+2544	Christkindelsmärik čia vyksta nuo 1570 m.: viena seniausių Kalėdų mugių Europoje.
+2545	Winstub virėjas
+2546	Flammekueche! Plona tešla, grietinė, svogūnai, lašinukai, kepama malkomis kūrenamoje krosnyje per dvi minutes. Prancūziškai sakoma tarte flambée.
+2547	Strasbūro priesaikos, 842 m. čia prisiektos dviejų Karolio Didžiojo anūkų, yra vieni seniausių senosios prancūzų ir senosios aukštutinės vokiečių kalbų tekstų.
+2548	Kiekvienas karalius prisiekė kito kalba, kad kito kariuomenė suprastų. Vertimo žodžiu čia ilga istorija.
+2549	Ornitologas
+2550	Baltasis gandras yra Elzaso simbolis. 1974 m. regione liko tik devynios poros.
+2551	Dėl atkūrimo programos šiandien jų yra keli šimtai porų. O baltasis gandras yra finaliniame 50 eurų banknoto dizaine!
+2552	Naujai atskridusieji ieško lizdų. Gali juos nukreipti, toliau nuo elektros linijų?
+2553	Skrenda daugiau gandrų. Vėl juos nukreipsi?
+2554	Kiekviena pora namie! Štai, gandrų apsaugos fondui… tai yra, tau.
+2555	Mažosios Prancūzijos stogai pilni klapsinčių snapų. Tai čia pavasario garsas.
+2556	Kai kurie susipainiojo prie laidų… Jiems gerai, tik kiek suirzę. Dar kartą?
+2557	18 salė: skulptūros iš Partenono Atėnuose, lordo Elgino agentų išgabentos 1801–1812 m. ir Britų muziejaus nupirktos 1816 m.
+2558	Graikija prašo jas grąžinti nuo 1983 m. Atėnuose Akropolio muziejus saugo joms vietas.
+2559	Lankytojas iš Graikijos
+2560	Atvažiavau iš pat Atėnų pažiūrėti mūsų marmurų. Paskui grįšiu į Akropolio muziejų ir žiūrėsiu į baltas šių kopijas.
+2561	Vienas frizas, du miestai. Gal vieną dieną vėl bus vienas miestas.
+2562	Raudona telefono būdelė, K6 modelis, sukurtas 1935 m. Šiandien kai kuriose įrengti defibriliatoriai, kitose – maži knygynėliai.
+2563	Londono metro atidarytas 1863 m.: pirmasis pasaulyje požeminis geležinkelis. „Mind the gap!“
+2564	Po Brexito JK išėjo iš Erasmus. 2025 m. gruodį sutarė prie jo grįžti nuo 2027 m. Mano sesutė galės studijuoti Bolonijoje!
+2565	Olandų muitininkas
+2566	Nuo 2021 m. sausio 1 d. JK nepriklauso ES muitų ir veterinarijos taisyklėms: keliautojams nebegalima į ES vežtis mėsos ar pieno produktų.
+2567	Tą mėnesį mano kolegoms Hoek van Holland teko konfiskuoti sumuštinius su kumpiu. „Welcome to the Brexit, sir, I'm sorry.“
+2568	Rytinis keltas leidžia keleivius. Padėsi patikrinti pietų dėžutes?
+2569	Dar vienas keltas, dar šimtas pietų dėžučių. Vėl padėsi?
+2570	Nė vienas sumuštinis su kumpiu neprasmuko. Štai tau atlygis be sūrio ir be kumpio.
+2571	Efektyvus ir mandagus. Iš tavęs išeitų puikus muitininkas.
+2572	Salami perplaukė Lamanšą… Veterinarijos inspektoriai norės pasikalbėti.
+2573	Sunkvežimio vairuotojas
+2574	Prieš Brexitą su sunkvežimiu sieną kirsdavau nesustodamas. Dabar: muitinės deklaracijos, sveikatos sertifikatai, patikros. Perskaičiau daugiau formų nei romanų.
+2575	Kampanijos autobusas. 2016 m. ant jo šono buvo pažadėta 350 milijonų svarų per savaitę Nacionalinei sveikatos tarnybai.
+2576	2017 m. JK Statistikos tarnybos vadovas šį skaičių pavadino „aiškiu oficialios statistikos piktnaudžiavimu“.
+2577	Paukščių stebėtojas
+2578	Šiaurinės suolos nardo į jūrą beveik šimto kilometrų per valandą greičiu. Didžiausia pasaulyje kolonija yra Bass Rock saloje Škotijoje.
+2579	ECB pavaizdavo vieną iš jų 200 eurų banknoto finaliniame dizaine: atvira jūra, sulankstyti sparnai, purslai.
+2580	Šachmatininkas
+2581	Széchenyi terminės pirtys, 1913 m.: vienos didžiausių gydomųjų pirčių Europoje. Čia žaidžiame šachmatais iki pečių karštame vandenyje.
+2582	Vengrija davė pasauliui Judit Polgár, stipriausią visų laikų šachmatininkę: didmeistrė būdama penkiolikos, o 2002 m. nugalėjo Kasparovą.
+2583	Trys pozicijos, kiekvienoje matas vienu ėjimu. Surasi jas, kol vanduo neatšalo?
+2584	Naujos pozicijos ant plūduriuojančios lentos. Dar vienas ratas?
+2585	Trys matai! Žaidi kaip didmeistris chalate. Imk.
+2586	Matas, matas, matas. Garai priverčia galvoti greičiau.
+2587	Vanduo atšalo… Kitą kartą ieškok ėjimo, po kurio karalius neturi kur eiti.
+2588	Ruin barai: seni buvusio žydų kvartalo kiemai, paversti barais su nesuderintais baldais. Pirmieji atsidarė XXI a. pradžioje.
+2589	Barmenas
+2590	Egészségedre! Vengriškai tai „į sveikatą“. Pabandyk ištarti po antros fröccs stiklinės: vyno su soda.
+2591	Lángos pardavėjas
+2592	Lángos: keptas tešlos paplotis, česnakai, grietinė ir tarkuotas sūris. Ne dieta. Tradicija.
+2593	Rubiko kubą 1974 m. Budapešte išrado Ernő Rubikas, kad studentams padėtų suprasti erdvę. Aš jį sudėliojau per dvi minutes. Tiksliau, vieną jo pusę.
+2594	Batai ant Dunojaus kranto (2005 m.). Šešiasdešimt porų geležinių batų primena Budapešto žydus, 1944–1945 m. sušaudytus šiame krante Strėlėtojo Kryžiaus milicininkų ir įmestus į upę.
+2595	Grandininis tiltas, atidarytas 1849 m.: pirmasis nuolatinis tiltas tarp Budos ir Pešto, suprojektuotas anglų inžinieriaus Viljamo Tirnio Klarko.
+2596	Jo akmeniniai liūtai neturi liežuvių… kaip byloja legenda. Įsižiūrėk.
+2597	Žvejų bastėja Pilies kalne: septyni bokštai, septynioms vengrų gentims, apsigyvenusioms Karpatų baseine.
+2598	Bitininkai! Spalvingiausi Europos paukščiai. Lizdus kasa smėlėtuose upių krantuose, o bites gaudo skrydyje.
+2599	Vengrijoje yra vienos didžiausių jų kolonijų. ECB finaliniuose dizainuose jų kolonija puošia 20 eurų banknotą.
+2600	Kalbininkas
+2601	Vengrų kalba nesusijusi su kaimynų kalbomis: ji priklauso uralų šeimai, kaip suomių ir estų.
+2602	O pavardė rašoma pirma: Rubik Ernő, Polgár Judit. Lengva įsiminti, sunku ištarti.
+2603	Budapešte gimęs László Bíró 1938 m. užpatentavo šiuolaikinį tušinuką. Daugelyje šalių tušinukas vis dar vadinamas „biro“.
+2604	Salon de l'Horloge. 1950 m. gegužės 9 d. 18 val. Prancūzijos užsienio reikalų ministras Robertas Schumanas čia perskaitė deklaraciją, siūlančią sujungti Prancūzijos ir Vokietijos anglį bei plieną.
+2605	Tai atvedė prie Europos anglių ir plieno bendrijos 1951 m., pirmojo šiandieninės ES žingsnio. Kiekviena gegužės 9-oji yra Europos diena.
+2606	Archyvuose supainiotos deklaracijos lapai! Atvyksta žurnalistai. Gali sudėti sakinius atgal į vietą?
+2607	Lapai vėl sumaišyti. Padėsi?
+2608	Žodis į žodį! Ponas Schumanas būtų paspaudęs tau ranką. Imk, nuo ministerijos.
+2609	Puikiai sutvarkyta. Europa nebus sukurta iš karto, bet tu greitas.
+2610	Ne visai… Atsimink: pirma taika, paskui konkretūs pasiekimai, tada anglis ir plienas.
+2611	Marija Kiuri, gim. Marija Skłodowska Varšuvoje, 1906 m. tapo pirmąja moterimi profesore Sorbonoje. Gavo dvi Nobelio premijas, fizikos ir chemijos.
+2612	Ji – 20 eurų banknoto asmenybė ECB finaliniuose „Europos kultūra“ dizainuose.
+2613	Kepėjas
+2614	Nuo 2022 m. prancūziško batono gaminimo amatas yra UNESCO nematerialaus kultūros paveldo sąraše. Miltai, vanduo, druska, mielės. Ir šiek tiek kantrybės.
+2615	Un café, s'il vous plaît! Paryžiuje „café“ yra espresso. Jei nori didelio puodelio, turi tai pasakyti. Garsiai.
+2616	Bukinistas
+2617	Šiose krantinėse naudotas knygas pardavinėjame nuo XVI a. Šimtai žalių dėžių, išilgai kilometrų Senos.
+2618	Dievo Motinos katedra Paryžiuje. 2019 m. balandžio 15 d. nukentėjo nuo gaisro, o 2024 m. gruodžio 7 d. atidaryta po penkerių metų darbų.
+2619	Lankytojas
+2621	Kai kuriomis žiemomis uolinis šliaužikas nusileidžia iš kalnų į Meuse slėnio uolas. Pilkas paukštis su tamsiai raudonais sparnais, kaip drugelis.
+2622	Tai 5 eurų banknoto paukštis ECB finaliniuose dizainuose: kalnų šaltinis ir uolinis šliaužikas.
+2623	Meškeriotojas
+2624	Matai tą mėlyną žybsnį ant Mozelio? Tulžys. Nardo nuo šakos ir išnyra su žuvimi.
+2625	ECB finaliniuose dizainuose jis yra 10 eurų banknoto paukštis, prie krioklio.
+2626	Antverpenas yra antras pagal dydį Europos uostas. O palei Šeldą, visai šalia kranų, gamtos rezervatuose peri pjautuvasnapiai.
+2627	Juodas ir baltas, su užriestu snapu: 100 eurų banknoto paukštis ECB finaliniuose dizainuose, prie upės žiočių.
+2628	Varšuvietis
+2629	Marija Skłodowska, Marija Kiuri, gimė čia, Varšuvoje, 1867 m. Elementą polonį ji pavadino savo šalies garbei.
+2630	Mūsų senamiestis buvo sulygintas su žeme 1944 m. ir atstatytas akmuo po akmens: nuo 1980 m. jis UNESCO sąraše.
+2631	Leonardas da Vinčis gyveno Romoje 1513–1516 m., Vatikane, prieš išvykdamas į Prancūziją.
+2632	Jis – 100 eurų banknoto asmenybė ECB finaliniuose „Europos kultūra“ dizainuose.
+2633	Profesorius
+2634	Lisabonos sutartis, pasirašyta čia 2007 m., sukūrė 50 straipsnį: išstojimo iš ES procedūrą. Pirmoji ja pasinaudojo JK.
+2635	Taip pat iš Lisabonos: pastéis de nata pagal Jerónimos vienuolių receptą. Daug populiaresni nei 50 straipsnis.
+2636	Senas jūreivis
+2637	1571 m. Patraso įlankoje, čia, Graikijoje, įvyko Lepanto mūšis. Ten jaunas ispanų kareivis neteko kairės rankos judrumo.
+2638	Jo vardas buvo Migelis de Servantesas. Vėliau jis parašė „Don Kichotą“. Jis – 50 eurų banknoto asmenybė ECB kultūros dizainuose!
+2639	Kampe ECB dizaino žiuri antspauduotas atvirukas: vienas iš dvylikos būsimų banknotų motyvų. Pasilieki jį.
+2640	Britų muziejus – 18 salė
+2641	Bock kazematai – įėjimas
+2642	Strasbūro katedra
+2643	Europos rūmai – Europos Taryba
+2644	Kelto terminalas – ES muitinė
+2645	Ruin Bar – Budapeštas
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Boulangerie – Paryžius
+2648	Raudona
+2649	Geltona
+2650	Balta
+2651	Oranžinė
+2652	Gėlių kilimas
+2655	Piešinys
+2656	Trys begonijų kilimai! Belgija augina daugiausia pasaulio gumbinių begonijų, aplink Gentą.
+2657	Turistai jau atvyksta, o kilimas nebaigtas… Kitą kartą!
+2658	Elzaso gandrai
+2661	Gandrai namie: %d / %d · prarasta: %d / 3
+2662	Dešimt gandrų lizduose! Elzase sakoma, kad gandras ant stogo neša laimę.
+2663	Per daug gandrų nuskrido į kitą kaimą… Jie sugrįš kitą pavasarį.
+2664	Sumuštinis su kumpiu
+2665	Pienas
+2666	Salami
+2667	Obuolys
+2668	Šokoladukas
+2669	Traškučiai
+2670	Sausainiai
+2671	ES muitinė
+2674	Mėsa, pieno produktai, dauguma vaisių: konfiskuoti.
+2675	Bananai, saldainiai, traškučiai, vanduo: praleisti.
+2676	Praleisti
+2677	Konfiskuoti
+2678	Visos pietų dėžutės patikrintos! ES bendroje rinkoje maistas juda laisvai; prie jos sienų jis tikrinamas.
+2679	Salami prasmuko… arba be reikalo paimtas bananas. Pirma taisyklės, paskui sumuštinis!
+2685	Šachmatai pirtyse
+2688	Baltieji pradeda ir mato vienu ėjimu
+2689	K karalius · Q valdovė · R bokštas · B rikis · N žirgas · P pėstininkas
+2691	Vanduo atšalo prieš matą… Ieškok ėjimo, po kurio karaliui nebelieka nė vieno langelio.
+2692	Pasaulio taikos negalima išsaugoti
+2694	Europa nebus sukurta iš karto ar pagal vieną planą.
+2698	Schumano deklaracija
+2701	Deklaracija paruošta! 1951 m. sekė Europos anglių ir plieno bendrija. Kiekviena gegužės 9-oji yra Europos diena.
+2702	Žurnalistai laukia, o lapai vis dar sumaišyti… Pirma taika, paskui konkretūs pasiekimai!
+2703	Bock kazematai
+2706	Lankytojas eina paskui tave: dabar išėjimas!
+2707	Kažkur tamsoje kažkas šaukia…
+2708	Lauke, dienos šviesoje, su lankytoju! Bombardavimų metu šiose galerijose slėpėsi iki 35 000 žmonių.
+2709	Žibintas užgeso… Gidas seka tavo balsą ir išveda jus abu.
+2710	be kūrybinių pastangų, atitinkančių jai gresiančius pavojus.
+2713	Kuriama konkrečiais pasiekimais, kurie pirmiausia sukuria faktinį solidarumą.
+2714	Prancūzų ir vokiečių anglis bei plienas – bendrai Aukščiausiajai institucijai…
+2715	…kad karas tarp Prancūzijos ir Vokietijos taptų materialiai neįmanomas.
+2716	Prieš liesdamas spaudos plokštę, įrodyk, kad atpažįsti padirbinį! Tikrink kiekvieną banknotą ECB būdu: ČIUPK iškilią spaudą, ŽIŪRĖK prieš šviesą, LENK. Įvertink 10 banknotų, viena klaida leidžiama.
+2717	Sachsenhauseno smuklėje pilk obuolių vyną iš Bembelio į kiekvieną stiklinę iki linijos! Laikyk rašiklį (arba A), kad palenktum ąsotį, paleisk, kad sustotų, tada paduok mygtuku. 8 stiklinės, leidžiami 2 išsiliejimai.
+2718	Aštuonios tobulos stiklinės! Čia, Frankfurte, obuolių vyną vadina „Ebbelwoi“.
+2719	Syntagma aikštė, Nežinomo kareivio kapas. Judėk kartu su evzonais: ŽINGSNIS, SPYRIS, TRYPT, kai ženklas pasiekia liniją. 24 judesiai, lėtai ir iškilmingai. Leidžiamos 4 klaidos.
+2720	Piko valanda prie kiosko! Kiekvienas klientas prašo graikiškai: palieski, ko nori. Pirmiesiems pašnibždėsiu reikšmę. 15 klientų per 60 sekundžių!
+2721	Pakrauk tris laivus iki vidurdienio! Valdyk kraną rašikliu arba ←/→, nuleisk A arba palietimu. Sunkus (H) niekada ant lengvesnio, šaldomieji (balti) tik ant dviejų elektrifikuotų stulpelių (kištukų), ir laikyk laivą lygiai!
+2722	Nukopijuok begonijų kilimą, rodomą viršutiniame ekrane: pasirink spalvą, tada palieski arba tempk per kvadratus. Spausk Baigta, kai sutaps. Trys kilimai per 90 sekundžių!
+2723	Gandrai grįžo iš Afrikos! Nuvesk kiekvieną į tuščią lizdą: braukyk rašikliu aukštyn ir žemyn (arba ↑/↓) ir skrisk žemai virš laisvo lizdo, kad nusileistų. Venk elektros linijų. 10 gandrų, leidžiami 3 praradimai.
+2724	Keltas prisišvartavo! Patikrink kiekvieną pietų dėžutę: KONFISKUOK mėsą, pieno produktus ir daugumą vaisių, PRALEISK likusius. Atsargiai: bananas leidžiamas, obuolys ne. 20 dėžučių per 50 sekundžių, leidžiamos 2 klaidos.
+2725	Széchenyi pirtys: žaidėjai lenkiasi virš lentos, plūduriuojančios garuose. Baltieji pradeda: surask ėjimą, kuris iškart duoda matą. Palieski baltą figūrą, tada jos langelį. Trys pozicijos per 90 sekundžių!
+2726	1950 m. gegužės 9 d., Salon de l'Horloge. Roberto Schumano deklaracijos lapai sumaišyti! Palieski sakinius teisinga tvarka prieš spaudos konferenciją. 60 sekundžių.
+2727	Galerijos tamsios, o žibintas dega į pabaigą. Surask pasiklydusį lankytoją, tada išėjimą! Judėk kryžmaus mygtukais arba palieski šalia savo veikėjo. 75 sekundės.
+2728	Trys matai! Pirtyse sakoma, kad pralaimėtojas turi pirmas išlipti iš vandens.
+2729	Naują ąžuolinį karkasą rankomis iškirto taip, kaip viduramžiais. Dirbo dailidės ir akmentašiai iš visos Prancūzijos.
+2730	Priekis
+2731	Galinė pusė

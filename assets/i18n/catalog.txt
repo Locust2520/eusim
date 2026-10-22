@@ -2115,8 +2115,6 @@
 2179	Counterfeit
 2180	L/R: tilt · X: against the light · Y: feel
 2181	Feel, look, tilt
-2182	Before touching the printing plate, prove you can spot a fake! Check each note the ECB's way: FEEL 
-2183	the raised print, LOOK at it against the light, TILT it. Judge 10 notes, one mistake allowed.
 2184	It was %s: the raised print was missing.
 2185	It was %s: no watermark against the light.
 2186	It was %s: the number did not change colour.
@@ -2125,10 +2123,7 @@
 2189	Not one fake got through! In the watermark you saw Europa, from a Greek vase over 2,000 years old.
 2190	A counterfeit slipped past… Feel, look, tilt: the three checks take only a few seconds.
 2191	The Bembel
-2192	In a Sachsenhausen tavern, pour apple wine from the Bembel into each glass up to the line! Hold the 
-2193	stylus (or A) to tilt the jug, let go to stop, then serve with the button. 8 glasses, 2 spills allowed.
 2194	Serve
-2195	Eight perfect glasses! Here in Frankfurt they call apple wine "Ebbelwoi".
 2196	Too many spilt glasses… The tavern keeper lends you a cloth.
 2197	Maria Callas
 2198	Ludwig van Beethoven
@@ -2159,14 +2154,11 @@
 2223	Front: %s
 2224	Specimen note – €%d
 2225	Not legal tender: this is a design specimen.
-2226	Front
 2227	L/R or tap: turn over · B: close
 2228	Light
 2229	Medium
 2230	Dark
 2231	Eraser
-2232	S
-2233	L
 2234	Undo
 2235	Clear
 2236	Done
@@ -2282,8 +2274,6 @@
 2346	Apple-wine tavern, Sachsenhausen
 2348	Hold to tilt the Bembel, let go to stop. Serve when the apple wine reaches the line.
 2349	The changing of the guard
-2350	Syntagma Square, the Tomb of the Unknown Soldier. Move in time with the Evzones: STEP, KICK, STOMP when 
-2351	each sign reaches the line. 24 moves, slowly and solemnly. 4 mistakes allowed.
 2352	Step
 2353	Kick
 2354	Stomp
@@ -2308,13 +2298,9 @@
 2373	(A ticket, please!)
 2374	(Chewing gum, please!)
 2375	The periptero
-2376	Rush hour at the kiosk! Each customer asks in Greek: tap what they want. I'll whisper the meaning for 
-2377	the first ones. 15 customers in 60 seconds!
 2378	Fifteen happy customers! Ευχαριστώ (efcharistó) means thank you.
 2379	The queue reaches the next street… Σιγά σιγά (sigá sigá): slowly, slowly.
 2380	The port of Piraeus
-2381	Load three ships before noon! Move the crane with the stylus or ←/→, drop with A or a tap. Heavy (H) 
-2382	never on top of lighter, refrigerated (white) only on the two powered columns (plugs), and keep the ship level!
 2383	H
 2384	Ship %d/3 · containers %d/%d
 2385	Time: %d s · mistakes: %d/3
@@ -2552,7 +2538,6 @@
 2617	We have sold second-hand books on these quays since the 16th century. Hundreds of green boxes, along kilometres of the Seine.
 2618	Notre-Dame de Paris. Damaged by fire on 15 April 2019, it reopened on 7 December 2024 after five years of work.
 2619	Visitor
-2620	The new oak frame was cut by hand, like in the Middle Ages. Carpenters from all over Europe came to help.
 2621	Some winters a wallcreeper comes down from the mountains to the cliffs of the Meuse valley. A grey bird with crimson wings, like a butterfly.
 2622	It's the bird of the 5 euro note on the ECB's finalist designs: a mountain spring and a wallcreeper.
 2623	Angler
@@ -2585,14 +2570,10 @@
 2650	White
 2651	Orange
 2652	The flower carpet
-2653	Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. 
-2654	Press Done when it matches. Three carpets in 90 seconds!
 2655	The design
 2656	Three carpets of begonias! Belgium grows most of the world's tuberous begonias, around Ghent.
 2657	The tourists are arriving and the carpet is not finished… Next time!
 2658	The storks of Alsace
-2659	The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or 
-2660	↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.
 2661	Storks home: %d / %d · lost: %d / 3
 2662	Ten storks in their nests! In Alsace, a stork on your roof is said to bring luck.
 2663	Too many storks flew on to the next village… They'll be back next spring.
@@ -2604,36 +2585,22 @@
 2669	Crisps
 2670	Biscuits
 2671	EU customs
-2672	The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. 
-2673	Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.
 2674	Meat, dairy, most fruit: confiscate.
 2675	Bananas, sweets, crisps, water: let through.
 2676	Let through
 2677	Confiscate
 2678	All the lunchboxes checked! Within the EU's single market, food travels freely; at its borders, it is checked.
 2679	A salami slipped through… or a banana was wrongly seized. Rules first, sandwich later!
-2680	R.....K.
-2681	......K.
-2682	Q.......
-2683	......N.
-2684	K.......
 2685	Chess in the baths
-2686	Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move 
-2687	that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!
 2688	White to play and mate in one
 2689	K king · Q queen · R rook · B bishop · N knight · P pawn
-2690	Three checkmates! In the baths, the loser traditionally gets out of the water first.
 2691	The water went cold before the mate… Look for the move that leaves the king no square at all.
 2692	World peace cannot be safeguarded
 2694	Europe will not be made all at once, or according to a single plan.
 2698	The Schuman Declaration
-2699	9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the 
-2700	sentences in the right order before the press conference. 60 seconds.
 2701	The declaration is ready! The European Coal and Steel Community followed in 1951. Every 9 May is Europe Day.
 2702	The journalists are waiting and the pages are still in a mess… Peace first, then concrete achievements!
 2703	The Bock casemates
-2704	The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! 
-2705	Move with the +Control Pad, or tap next to your character. 75 seconds.
 2706	The visitor follows you: now the exit!
 2707	Somewhere in the dark, someone is calling…
 2708	Out in the daylight, with the visitor! Up to 35,000 people sheltered in these galleries during the bombings.
@@ -2642,3 +2609,19 @@
 2713	Built through concrete achievements which first create a de facto solidarity.
 2714	Franco-German coal and steel will be placed under a common High Authority…
 2715	…so that war between France and Germany becomes materially impossible.
+2716	Before touching the printing plate, prove you can spot a fake! Check each note the ECB's way: FEEL the raised print, LOOK at it against the light, TILT it. Judge 10 notes, one mistake allowed.
+2717	In a Sachsenhausen tavern, pour apple wine from the Bembel into each glass up to the line! Hold the stylus (or A) to tilt the jug, let go to stop, then serve with the button. 8 glasses, 2 spills allowed.
+2718	Eight perfect glasses! Here in Frankfurt they call apple wine “Ebbelwoi”.
+2719	Syntagma Square, the Tomb of the Unknown Soldier. Move in time with the Evzones: STEP, KICK, STOMP when each sign reaches the line. 24 moves, slowly and solemnly. 4 mistakes allowed.
+2720	Rush hour at the kiosk! Each customer asks in Greek: tap what they want. I'll whisper the meaning for the first ones. 15 customers in 60 seconds!
+2721	Load three ships before noon! Move the crane with the stylus or ←/→, drop with A or a tap. Heavy (H) never on top of lighter, refrigerated (white) only on the two powered columns (plugs), and keep the ship level!
+2722	Copy the carpet of begonias shown on the top screen: pick a colour, then tap or drag over the squares. Press Done when it matches. Three carpets in 90 seconds!
+2723	The storks are back from Africa! Guide each one to an empty nest: slide the stylus up and down (or ↑/↓) and fly low over a free nest to land. Avoid the power lines. 10 storks, 3 losses allowed.
+2724	The ferry has docked! Check each lunchbox: CONFISCATE meat, dairy and most fruit, LET THROUGH the rest. Watch out: a banana is allowed, an apple is not. 20 boxes in 50 seconds, 2 mistakes allowed.
+2725	Széchenyi baths: the players lean over a board floating in the steam. White to play: find the move that checkmates at once. Tap a white piece, then its square. Three positions in 90 seconds!
+2726	9 May 1950, Salon de l'Horloge. The pages of Robert Schuman's declaration are mixed up! Tap the sentences in the right order before the press conference. 60 seconds.
+2727	The galleries are dark and the torch is burning down. Find the lost visitor, then the exit! Move with the +Control Pad, or tap next to your character. 75 seconds.
+2728	Three checkmates! In the baths, they say the loser has to get out of the water first.
+2729	The new oak frame was cut by hand, like in the Middle Ages. Carpenters and stonemasons from all over France worked on it.
+2730	Front side
+2731	Back side

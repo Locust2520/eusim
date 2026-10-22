@@ -1,0 +1,19 @@
+# Suomi — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Leimaa 15 pätevää tuomiota 30 sekunnissa. Päästä läpi paperit, joissa lukee ”VÄÄRÄ”: jos leimaat sellaisen, häviät kierroksen!
+2087	TUOMIO
+2088	TUOMIO: leimaa. VÄÄRÄ: päästä läpi.
+2089	Viisitoista pätevää tuomiota leimattu! Hallinto on ylpeä sinusta.
+2090	Leimasit virheellisen asiakirjan! Tarkista ennen kuin hyväksyt…
+2091	Viisitoista pätevää tuomiota ei ole valmiina. Kirjaamo sulkeutuu. Yritä uudelleen…
+2092	Tässä on päivän pino. Meidän pitää leimata viisitoista pätevää tuomiota ennen kuin kirjaamo sulkeutuu. Varo, joukkoon on livahtanut vääriä asiakirjoja! Autatko minua?
+2093	Kirjaamo ei voi hyväksyä tätä pinoa. Tarvitsemme viisitoista pätevää tuomiota eikä yhtään leimattua väärää asiakirjaa. Yritä uudelleen, kun haluat.
+2094	Taas viisitoista tuomiota kunnossa! Toisesta onnistumisesta saat määräenemmistöleiman.
+2095	Moitteetonta! Minulla on sinulle vielä yksi määräenemmistöleima. Luxemburg rakastaa järjestelmällisiä ihmisiä.
+2096	Moitteetonta! Mutta tällä kertaa minulla ei ole sinulle leimaa. Tule takaisin ja auta minua taas!
+2097	Toinen pelaaja lähettää kentälle: %s!
+2098	Virheellinen joukkue tai yhteys.
+2099	Esineet eivät ole sallittuja ystävyysväittelyssä.
+2100	Voitat tämän ystävyysväittelyn!
+2101	Toinen pelaaja voittaa tämän ystävyysväittelyn!
+2102	Väittely päättyi tai yhteys katkesi.
+2105	Tallennus epäonnistui. Yritä uudelleen.

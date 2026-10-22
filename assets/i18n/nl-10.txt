@@ -1,0 +1,523 @@
+# Dutch — city extensions (ids 2169+)
+2169	VALS
+2171	%d s · %d/%d
+2172	Voelbare lijnen op de randen: reliëfdruk.
+2173	Het papier is overal glad…
+2174	Voelen
+2175	Kijken
+2176	Kantelen
+2177	Controleer en beslis:
+2178	Echt
+2179	Vals
+2180	L/R: kantelen · X: tegen het licht · Y: voelen
+2181	Voelen, kijken, kantelen
+2184	Het was %s: de reliëfdruk ontbrak.
+2185	Het was %s: geen watermerk tegen het licht.
+2186	Het was %s: het getal veranderde niet van kleur.
+2187	een vals biljet
+2188	Het was een echt biljet!
+2189	Geen enkel vals biljet kwam erdoor! In het watermerk zag je Europa, van een Griekse vaas van meer dan 2000 jaar oud.
+2190	Er glipte een vals biljet door… Voelen, kijken, kantelen: de drie controles kosten maar een paar seconden.
+2191	De Bembel
+2194	Serveer
+2196	Te veel gemorste glazen… De herbergier leent je een doek.
+2197	Maria Callas
+2198	Ludwig van Beethoven
+2199	Marie Curie
+2200	Miguel de Cervantes
+2201	Leonardo da Vinci
+2202	Bertha von Suttner
+2203	straatmuzikanten
+2204	een liedfestival
+2205	een school
+2206	een bibliotheek
+2207	straatkunst
+2208	een plein met bomen
+2209	een rotsklimmer bij een bergbron
+2210	een ijsvogel bij een waterval
+2211	bijeneters in een riviervallei
+2212	een ooievaar bij een kronkelende rivier
+2213	een kluut bij een riviermonding
+2214	een jan-van-gent boven de zee
+2215	het Europees Parlement
+2216	de Europese Commissie
+2217	de Europese Centrale Bank
+2218	het Hof van Justitie van de EU
+2219	de Europese Raad en de Raad van de EU
+2220	de Europese Rekenkamer
+2221	Voorkant: jouw portret, in plaats van %s
+2222	Achterkant: %s
+2223	Voorkant: %s
+2224	Specimenbiljet – %d €
+2225	Geen wettig betaalmiddel: dit is een ontwerpspecimen.
+2227	L/R of tik: omdraaien · B: sluiten
+2228	Licht
+2229	Gemiddeld
+2230	Donker
+2231	Gum
+2234	Terug
+2235	Wissen
+2236	Klaar
+2237	Teken je portret
+2238	De studio graveert het als een bankbiljetportret.
+2239	Jouw specimenbiljet
+2240	Europese cultuur
+2241	Rivieren en vogels
+2242	Omdraaien
+2243	Nieuw portret
+2244	Specimen afdrukken
+2245	Afdrukken…
+2246	Jouw portret voor het specimen
+2247	De DSi-camera, de stylus of je officiële foto.
+2248	De stylus of je officiële foto.
+2249	Foto nemen
+2250	Mijn portret tekenen
+2251	Mijn officiële foto
+2252	De camera kan hier niet worden gebruikt. Je kunt in plaats daarvan je portret tekenen.
+2253	Jouw specimenbiljet is toegevoegd aan de collectie van het Geldmuseum in Frankfurt.
+2254	In Frankfurt bewaart de ECB-studio nog steeds een blanco specimen met jouw naam erop.
+2255	Camera starten…
+2256	Plaats je gezicht in de ovaal
+2257	A of tik: foto nemen · L/R: andere camera · B: terug
+2258	Graveertest
+2259	Opnieuw
+2260	Houden
+2261	Onder ons: de euro werd contant geld, in de zakken van de mensen, in 2002. Sommige deuren in deze toren herinneren zich dat jaar nog.
+2262	Het eurotekenbeeld van kunstenaar Ottmar Hörl, onthuld in 2001 voor de voormalige toren van de ECB.
+2263	Een paar weken later, op 1 januari 2002, kwamen eurobiljetten en -munten in twaalf landen in de zakken van de mensen terecht.
+2264	Gedenkteken bij de Grossmarkthalle.
+2265	Tussen 1941 en 1945 werden zo'n 10.000 joodse mannen, vrouwen en kinderen uit Frankfurt en omgeving vanuit de kelder van deze markthal gedeporteerd naar getto's en kampen. De meesten werden vermoord.
+2266	De stad Frankfurt, de Joodse Gemeente en de ECB, wier hoofdkantoor nu de hal omvat, hebben dit gedenkteken samen gemaakt.
+2267	De Römer, sinds 1405 het stadhuis van Frankfurt. In de Keizerzaal hielden pas gekroonde keizers van het Heilige Roomse Rijk hun kroningsbanket.
+2268	Vakwerkhuizen aan de Römerberg. Bombardementen verwoestten de oude stad in 1944; deze rij werd in de jaren tachtig herbouwd, balk voor balk.
+2269	De Gerechtigheidsfontein. Kijk goed: deze Justitia houdt haar weegschaal en haar zwaard vast, maar draagt geen blinddoek.
+2270	Ze noemen deze stad ‘Mainhattan’: wolkenkrabbers aan de Main. Ik heb elf kranen en vier banken geteld. Of andersom.
+2271	In 1848 en 1849 kwam in deze kerk het eerste vrij gekozen parlement voor heel Duitsland bijeen.
+2272	Het schreef een grondwet met grondrechten. Die trad nooit in werking, maar latere Duitse grondwetten putten eruit.
+2273	Gids
+2274	De zaal beleeft nog steeds grote dagen: elke oktober wordt hier de Vredesprijs van de Duitse Boekhandel uitgereikt.
+2275	De stier stormt met zijn hoorns omhoog: een stijgende markt.
+2276	De beer haalt met zijn poot omlaag: een dalende markt.
+2277	Het DAX-bord. Duitslands bekendste aandelenindex ging hier in 1988 van start.
+2278	Koop op het gerucht, verkoop op het nieuws. En verkoop nooit, maar dan ook nooit je paraplu in april.
+2279	Johann Wolfgang von Goethe werd in dit huis geboren op 28 augustus 1749. Hij werkte zo'n zestig jaar aan Faust.
+2280	Zijn naam reist nu de wereld rond: het Goethe-Institut geeft Duitse les in bijna honderd landen.
+2281	De Messeturm torent boven het beursterrein uit. Elke oktober vindt hier de Frankfurter Buchmesse plaats, de grootste boekenbeurs ter wereld.
+2282	Lezer
+2283	Ik kwam voor de Boekenbeurs en bleef voor de groene saus. Ik heb drie boeken gelezen en vijf sauzen gegeten.
+2284	De IJzeren Voetgangersbrug over de Main, gebouwd in 1869. Duizenden hangsloten hangen aan de leuningen: beloftes van geliefden.
+2285	Stel
+2286	We hebben ons hangslot aan de brug gehangen en de sleutel in de Main gegooid. We moeten nog beslissen wiens idee het was.
+2287	Frankfurter
+2288	Aan de overkant ligt Sachsenhausen. Daar drinken we Ebbelwoi, appelwijn. Niemand noemt het hier cider, let op.
+2289	Een krans van dennentakken hangt boven de deur: het teken dat deze herberg zijn eigen appelwijn perst en schenkt.
+2290	Waardin
+2291	Guten Abend! Appelwijn wordt uit de Bembel, de grijze stenen kruik, in een Gerippte geschonken, het glas met het ruitpatroon.
+2292	Vanavond heb ik een volle zaal en twee handen. Jij vult de glazen, ik draag ze rond?
+2293	Zin in nog een ronde achter de tap?
+2294	Geen druppel op mijn tafels! Hier, neem dit, en kom terug wanneer je wilt.
+2295	Weer perfect. Je kunt je eigen herberg openen. Hang gewoon een dennenkrans boven de deur.
+2296	Ach, de tafels zwemmen! Geen zorgen, we dweilen wel.
+2297	Stamgast
+2298	Handkäs mit Musik: zure melkkaas gemarineerd met uien. De muziek komt later. Vraag er niet naar.
+2299	Groene saus vraagt precies zeven kruiden: bernagie, kervel, tuinkers, peterselie, pimpernel, zuring en bieslook.
+2300	Sinds 2016 beschermt de EU ‘Frankfurter Grüne Soße’ als geografische aanduiding. Zeven kruiden, niet meer, niet minder.
+2301	Een echte goudstaaf van 12,5 kilo die bezoekers mogen optillen. De meesten halen een paar centimeter.
+2302	Van schelpen naar munten, van munten naar papier, van papier naar de euro: drieduizend jaar geld op een paar planken.
+2303	Conservator
+2304	De Bundesbank is de centrale bank van Duitsland. Sinds 1999 maakt ze deel uit van het Eurosysteem, met de ECB en de andere centrale banken van het eurogebied.
+2305	Ik hoor dat je een specimenbiljet met jouw gezicht erop hebt. Als je avontuur voorbij is, willen we het graag voor onze collectie.
+2306	Een portret van Europa, de prinses uit de Griekse mythe die haar naam gaf aan het continent.
+2307	Haar gezicht komt van een Griekse vaas van meer dan 2000 jaar oud, bewaard in het Louvre. Houd een eurobiljet tegen het licht: ze zit in het watermerk.
+2308	Achter de lijst gloeit een klein toetsenpaneel. Vier cijfers.
+2309	Een code intikken?
+2310	Het toetsenpaneel knippert rood. Ergens op de beursvloer zucht iemand.
+2311	Klik. Het schilderij zwaait open naar een smalle trap die naar beneden loopt…
+2312	Naar de geheime studio afdalen?
+2313	Een werkplaats vol ezels, graveergereedschap en een zware pers. Op de deur: ‘Bankbiljetontwerp – vertrouwelijk’.
+2314	Thema ‘Europese cultuur’: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) en Bertha von Suttner (200 €).
+2315	Op de achterkant: plekken waar cultuur wordt gedeeld. Straatmuzikanten, een liedfestival, een school, een bibliotheek, straatkunst, een plein met bomen.
+2316	Thema ‘Rivieren en vogels’: van een bergbron (5 €) tot de open zee (200 €), met een rotsklimmer, een ijsvogel, bijeneters, een ooievaar, een kluut en een jan-van-gent.
+2317	Op de achterkant: de EU-instellingen, van het Europees Parlement tot de Europese Rekenkamer.
+2318	De tien finaleontwerpen: EC145, EC564, EC617, EC799, EC915 en RB120, RB227, RB637, RB754, RB832.
+2319	De namen van de ontwerpers blijven geheim. Na een openbare enquête maakt de Raad van bestuur van de ECB de definitieve keuze.
+2320	Een diepdrukpers. Ze perst de inkt zo hard in het papier dat die in reliëf blijft staan: dat is de reliëfdruk die je op een echt biljet voelt.
+2321	Specificaties: dezelfde formaten als de huidige biljetten, één overheersende kleur per waarde, en op elk biljet de Europese vlag, een kaart van Europa en de handtekening van de president van de ECB.
+2322	Jurylid
+2323	In 2025 reageerden meer dan 1200 ontwerpers op de oproep van de ECB. Negenendertig voorstellen bereikten de jury; tien staan op deze ezels.
+2324	Het doel is om denkbeeldige bruggen en vensters te vervangen door echte mensen, echte vogels en echte plaatsen.
+2325	Eleni
+2326	Kaliméra! Ik ben Eleni, diepdrukgraveur. Ik leerde het vak in de drukkerij van de Bank van Griekenland, in Athene.
+2327	Officieel drukt de ECB geen enkel biljet: ze ontwerpt ze, en drukkerijen door heel Europa maken ze.
+2328	Op dit moment bereiden we de volgende eurobiljetten voor. In 2026 selecteerde een jury tien ontwerpen over twee thema's: Europese cultuur, en rivieren en vogels.
+2329	Voor de definitieve keuze moet ik de gravure op een echt gezicht testen. Op eurobiljetten stond nog nooit een levend persoon… dus het jouwe blijft een specimen.
+2330	Maar niemand raakt mijn platen aan zonder de test te doorstaan. Voelen, kijken, kantelen: laat zien dat je een echt biljet van een vals kunt onderscheiden.
+2331	Klaar?
+2332	Bravo! Je hebt het oog van een centrale bankier. Nu, jouw portret.
+2333	Een nieuw specimen? De pers is nog warm.
+2334	Daar ben je, gegraveerd! Zie je het serienummer? De eerste letter, Y, is de code van de Bank van Griekenland. Mijn kleine handtekening.
+2335	Laat het maar zien. En sla je spel op via Verslag, zodat je biljet bij je blijft.
+2336	Er glipte een vals biljet door. Voelen, kijken, kantelen: het kost maar een paar seconden. Kom terug als je er klaar voor bent.
+2337	Neem je tijd. Een goede gravure laat zich niet haasten.
+2338	Appelwijnherberg – Sachsenhausen
+2339	ECB – Biljetontwerpstudio
+2340	Beurs van Frankfurt
+2341	Geldmuseum van de Bundesbank
+2342	Goethehuis – Frankfurt
+2343	Paulskirche – Vergaderzaal
+2344	Specimenbiljet
+2345	Jouw portret, gegraveerd in de ECB-studio in Frankfurt. Geen wettig betaalmiddel.
+2346	Appelwijnherberg, Sachsenhausen
+2348	Houd vast om de Bembel te kantelen, laat los om te stoppen. Serveer bij de streep.
+2349	De wisseling van de wacht
+2352	Stap
+2353	Trap
+2354	Stamp
+2355	Bewegingen: %d / 24 · fouten: %d
+2356	←: stap · →: trap · A/↓: stamp
+2357	Perfect in de pas! De Evzones lossen elk uur de wacht af, dag en nacht, bij elk weer.
+2358	Uit de pas… De Evzones trainen maanden voor hun eerste wachtdienst.
+2359	Frappé
+2360	Water
+2361	Krant
+2362	Koulouri
+2363	Komboloi
+2364	Mati
+2365	Buskaartje
+2366	Kauwgom
+2367	(Een frappé, graag!)
+2368	(Een water, graag!)
+2369	(Een krant, graag!)
+2370	(Een koulouri, de sesamkrans, graag!)
+2371	(Een komboloi, graag!)
+2372	(Een klein boze-oogamulet, graag!)
+2373	(Een kaartje, graag!)
+2374	(Kauwgom, graag!)
+2375	De periptero
+2378	Vijftien tevreden klanten! Ευχαριστώ (efcharistó) betekent dank je.
+2379	De rij reikt tot de volgende straat… Σιγά σιγά (sigá sigá): langzaam, langzaam.
+2380	De haven van Piraeus
+2383	H
+2384	Schip %d/3 · containers %d/%d
+2385	Tijd: %d s · fouten: %d/3
+2386	Slagzij
+2387	Drie schepen geladen en recht! Piraeus is een van de grootste containerhavens van de Middellandse Zee.
+2388	De havenmeester stopt het laden: het schip is niet veilig. Stapel opnieuw en probeer het nog eens!
+2389	Het Graf van de Onbekende Soldaat (1932), onder het Parlement. De Evzones van de Presidentiële Garde waken er dag en nacht over.
+2390	Het plein heet Syntagma, ‘Grondwet’: in 1843 verzamelden Atheners zich hier tot koning Otto er een toestond.
+2391	De Evzone beweegt niet. Zelfs geen wimper.
+2392	Zijn tsarouchia, de rode klompen met zwarte pompons, wegen elk zo'n drie kilo, met zestig spijkers in de zool. Zijn witte rokje, de fustanella, heeft 400 plooien: één voor elk jaar Ottomaanse overheersing, volgens de traditie.
+2393	Evzone-sergeant
+2394	Elk uur wordt de wacht afgelost. Langzame stappen, een hoge trap, de klompen die op het marmer slaan: twee mannen bewegen als één.
+2395	Er ontbreekt vandaag een rekruut. Volg je het ritme met mij?
+2396	Nog een wisseling van de wacht?
+2397	Geen enkele stap uit de maat. Μπράβο (brávo)! Neem dit, van de wacht.
+2398	Μπράβο (brávo)! Op zondag om elf uur paradeert de hele compagnie in galakostuum. Kom het zien.
+2399	Je klompen en de trom waren het oneens. Het kost maandenlange training. Morgen opnieuw?
+2400	Kioskhouder
+2401	Γεια σας (yia sas, hallo)! Een periptero verkoopt alles: kranten, water, buskaartjes, beltegoed, kauwgom, komboloi (zorgkralen)…
+2402	Mijn neef is niet gekomen. Neem jij de toonbank? De klanten spreken Grieks, maar ik fluister de betekenis.
+2403	Weer spitsuur! Help je me een handje?
+2404	Ευχαριστώ (efcharistó, dank je)! Je spreekt nu kioskentaal. Hier, van het huis.
+2405	Ευχαριστώ (efcharistó)! De rij is in recordtijd weg.
+2406	Σιγά σιγά (sigá sigá), langzaam, langzaam. Dat is ook een Grieks spreekwoord.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): een frappé met gemiddeld suiker, graag. IJskoffie tot schuim geklopt.
+2408	Hij werd per ongeluk uitgevonden in 1957, op de Internationale Beurs van Thessaloniki: een vertegenwoordiger had geen heet water en schudde zijn oploskoffie met koud water.
+2409	Metrostation Syntagma. Toen de metro in de jaren negentig werd gegraven, vonden archeologen tienduizenden voorwerpen. Sommige zijn in het station zelf te zien.
+2410	28 oktober is Ochi-dag (όχι, óchi, ‘nee’). In 1940 zei Griekenland nee tegen het ultimatum van Mussolini; elk jaar paraderen schoolkinderen door de straten.
+2411	Niet te verwarren met de OXI van het referendum van 2015. Twee beroemde Griekse ‘nee’s, met vijfenzeventig jaar ertussen.
+2412	De drachme: een muntnaam uit het oude Griekenland, in 1832 teruggebracht voor de jonge Griekse staat en in 2002 vervangen door de euro.
+2413	De Griekse euromunt van één euro toont de uil van Athena, gekopieerd van een oude Atheense munt, het stuk van vier drachmen.
+2414	De Bank van Griekenland heeft een eigen drukkerij: ze drukken ook eurobiljetten.
+2415	Op de biljetten van de Europa-reeks toont de eerste letter van het serienummer de centrale bank die ze bestelde. De onze is Y.
+2416	Een Y op je specimen? Dan welkom thuis!
+2417	Anafiotika: in de 19e eeuw kwamen bouwers van het eiland Anafi aan het koninklijk paleis werken en bouwden hier onder de Akropolis een klein Cycladisch dorp voor zichzelf.
+2418	Μιάου (miáou). Athene heeft duizenden straatkatten; buren en vrijwilligers voeren ze, zelfs tussen de ruïnes.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Heb je gegeten? Je bent vermagerd. Ga zitten. Eet.
+2421	Yiayia heeft je hele team zo volgegeten dat niemand zich kon verroeren. Iedereen is weer in vorm.
+2422	Γιαγιά (yiayiá) betekent oma. En een yiayia gelooft je nooit als je zegt dat je vol zit.
+2423	Buurman
+2424	Χρόνια πολλά (chrónia pollá)! Vele jaren! Vandaag is het mijn naamdag.
+2425	In Griekenland vieren we vaak het feest van de heilige naar wie we zijn genoemd meer dan onze verjaardag. De halve straat heet Giorgos: stel je de dag van Sint-Joris voor.
+2426	Ναι (nai) betekent ja! Voor toeristen klinkt het als ‘nee’. En όχι (óchi) betekent nee.
+2427	Als ik mijn hoofd achterover buig en met mijn tong klik, is dat ook nee. Makkelijk!
+2428	Kraamhouder
+2429	Μάτι (máti), het oog! Een blauw glazen oog beschermt je tegen het boze oog, de pech die uit afgunst voortkomt.
+2430	Als iemand je Euromon complimenteert, zeg dan ‘φτου φτου’ (ftou ftou), alsof je spuwt. Dat brengt geluk. Spuw niet echt.
+2431	Kaasboer
+2432	Feta is sinds 2002 een beschermde oorsprongsbenaming: echte feta komt uit Griekenland en wordt gemaakt van schapenmelk, soms met een beetje geitenmelk.
+2433	Duitsland en Denemarken daagden dit uit bij het Hof van Justitie van de EU. In 2005 oordeelde het Hof: feta is Grieks.
+2434	Grillkok
+2435	Souvlaki! In Athene is dat vlees aan een spies. In Thessaloniki noemen ze hetzelfde kalamaki, ‘stokje’.
+2436	Vraag in Thessaloniki om een ‘souvlaki’ en je krijgt een pita gyros. Families zijn om minder uit elkaar gegaan.
+2437	Muzikant
+2438	Iedereen denkt dat de sirtaki een oude volksdans is. Hij werd in 1964 bedacht voor de film ‘Zorba de Griek’, op muziek van Mikis Theodorakis.
+2439	Eerst langzaam, dan sneller en sneller… Opa!
+2440	Station Monastiraki. Lijn 1 volgt de spoorlijn Athene–Piraeus, geopend in 1869: de oudste lijn van het net.
+2441	De trein naar de haven van Piraeus nemen?
+2442	Het Odeon van Herodes Atticus, gebouwd in 161 n.Chr. In 1944 zong hier een jonge sopraan die aan het Atheense conservatorium had gestudeerd Beethovens ‘Fidelio’: Maria Callas.
+2443	Callas en Beethoven staan allebei op de finaleontwerpen voor de volgende eurobiljetten, op de biljetten van 5 en 10 euro van het cultuurthema.
+2444	Deze witte platen zijn gipsafgietsels. De originelen zijn sinds 1816 in het British Museum in Londen.
+2445	Griekenland vraagt sinds 1983 officieel om hun teruggave. Het museum houdt hun plaatsen klaar, naast de originele stukken.
+2446	Een origineel blok van de Parthenonfries: ruiters van de Panathenaïsche optocht, uitgehouwen rond 440 v.Chr.
+2447	Het Akropolismuseum opende in 2009. Deze bovenste verdieping is gedraaid om op één lijn te liggen met de Parthenon, die je door het glas ziet.
+2448	De fries loopt helemaal rond, in de oorspronkelijke volgorde. Honingkleurig marmer: hier. Wit gips: in Londen.
+2449	Het Zappeion. Hier ondertekende Griekenland op 28 mei 1979 zijn toetredingsverdrag tot de Europese Gemeenschappen.
+2450	Het werd op 1 januari 1981 het tiende lid. De euro volgde in 2001, een jaar vóór de munten en biljetten.
+2451	Melina Mercouri (1920–1994), actrice, daarna minister van Cultuur. Ze stelde de Culturele Hoofdstad van Europa voor: Athene was de eerste, in 1985.
+2452	Ze lanceerde ook de campagne voor de teruggave van de Parthenonmarmers.
+2453	Het Panathenaïsch Stadion, het enige grote stadion ter wereld dat volledig van marmer is gebouwd. De eerste moderne Olympische Spelen werden hier in 1896 gehouden.
+2454	Elke twee jaar wordt hier de Olympische vlam aan de volgende gaststad overgedragen.
+2455	Containerterminal geëxploiteerd door COSCO Shipping. De Chinese groep kocht in 2016 51% van de havenautoriteit van Piraeus, en in 2021 67%.
+2456	Havenwacht
+2457	De containerterminal is gesloten voor bezoekers. De passagiershaven is helemaal van jou.
+2458	Niet deze kant op, graag: containerterminal.
+2459	Station Piraeus, eindpunt van lijn 1. Het gebouw dateert van 1929.
+2460	De trein terug naar Athene nemen?
+2461	Stenen van de muren van Piraeus. In de 5e eeuw v.Chr. maakte Themistocles van Piraeus de haven van Athene, en de Lange Muren verbonden de twee steden.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), ‘De kinderen van Piraeus’! Manos Hadjidakis schreef het voor de film ‘Nooit op zondag’ (1960), met Melina Mercouri.
+2463	Het won de Oscar voor beste lied. In Frankrijk maakte Dalida er een hit van: ‘Les Enfants du Pirée’.
+2464	Visser
+2465	Daar ligt Mikrolimano, de kleine haven: vissersboten, en taverna's waar de vis vanochtend nog zwom.
+2466	Deze kant op naar het Karaiskakisstadion, thuisbasis van Olympiacos. In 2024 won de club de UEFA Europa Conference League: de eerste Europese trofee voor een Griekse voetbalclub.
+2467	Veerboten naar de eilanden: Aegina, Hydra, de Cycladen, Kreta… Piraeus is een van de drukste passagiershavens van Europa.
+2468	Griekse reders controleren ongeveer een vijfde van de wereldwijde koopvaardijvloot: meer dan welk ander land ook.
+2469	Havenopzichter
+2470	Hé, stagiair! Het schip vertrekt om twaalf uur en mijn kraanmachinist staakt. Ooit een containerschip geladen?
+2471	Zware containers onderaan, gekoelde op de rijen met stroom, en houd haar recht, anders krijgt ze slagzij.
+2472	Nog een schip te laden?
+2473	Kaarsrecht! Hier is je loon. Geef het niet allemaal uit aan souvlaki.
+2474	Alweer een schip op tijd weg. De kapitein groet je.
+2475	Ze helt over als een slecht humeur. We stapelen opnieuw. Nog een keer?
+2476	Bank van Griekenland – Museum
+2477	Akropolismuseum – Parthenonzaal
+2478	Haven van Piraeus
+2479	Huis – Plaka
+2480	Jurykaarten: %d van 12.
+2481	Dat zijn alle twaalf motieven! Eleni, in de ECB-studio in Frankfurt, wil ze vast zien.
+2482	Alle twaalf de kaarten! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… en de zes vogels. Je hebt meer van Europa gezien dan de jury.
+2483	Voortaan drukt mijn pers je specimens in de gouden editie. En neem dit, van de studio.
+2484	Nog één ding: de jury stuurde ansichtkaarten van de twaalf motieven door heel Europa. Als je ze allemaal vindt, kom dan terug: dan graveer ik een gouden editie.
+2485	Het Brusselse stadhuis, gebouwd in de 15e eeuw. Op de 96 meter hoge toren verslaat Sint-Michiel de draak.
+2486	De Grote Markt eromheen is sinds 1998 UNESCO-werelderfgoed.
+2487	De gildehuizen: bakkers, schippers, brouwers… elk ambacht had zijn eigen huis, verguld om zijn rijkdom te tonen.
+2488	Manneken Pis: 55 centimeter brons. Hij bezit meer dan duizend kostuums, bewaard in zijn eigen garderobemuseum.
+2489	Officiële kleder
+2490	Vandaag is hij gekleed als… zichzelf. Morgen een brandweerman. Volgende week een astronaut. Een standbeeld kleden is een voltijdse baan.
+2491	Frituurhouder
+2492	Echte Belgische friet wordt twee keer gebakken: één keer om hem gaar te maken, één keer om hem krokant te maken.
+2493	Honger? Probeer een mitraillette: een half stokbrood, vlees, saus en friet erin. Ja, erin.
+2494	Wafelverkoper
+2495	Brusselse wafel: licht, rechthoekig, bestoven met suiker. Luikse wafel: steviger, met parelsuiker die erin karamelliseert.
+2496	Kiezen tussen die twee verdeelt al generaties lang families. Ik verkoop beide. Zeer diplomatiek.
+2497	Brusselse muren zijn bedekt met tientallen stripmuurschilderingen. België neemt zijn strips even serieus als zijn chocolade.
+2498	Deze kant op naar de Koninklijke Sint-Hubertusgalerijen (1847), een van de oudste overdekte winkelgalerijen van Europa.
+2499	In 1912 vond chocolatier Jean Neuhaus in deze galerijen de gevulde chocolade uit: de praline.
+2500	Grand-Place / Grote Markt. In Brussel staat elke straatnaam in het Frans en het Nederlands: het hoofdstedelijk gewest is officieel tweetalig.
+2501	België heeft drie officiële talen: Nederlands, Frans en Duits.
+2502	Brusselaar
+2503	Allez, une fois! Zo stellen ze zich voor dat we in Brussel praten. En, nou… soms doen we dat ook.
+2504	Tuinman
+2505	Om de twee jaar in augustus bedekt een tapijt van begonia's de Grote Markt. Het eerste werd in 1971 gelegd.
+2506	Honderdduizenden bloemen, in een paar uur met de hand gelegd. Ik heb één vrijwilliger te weinig. Plant je met mij mee?
+2507	Nog een tapijt? De begonia's wachten.
+2508	Prachtig! Zelfs de gildehuizen zien groen van jaloezie. Hier, van de stad.
+2509	Nog een meesterwerk. Over een paar dagen zijn de bloemen weg, maar de foto's blijven.
+2510	Het patroon werd een beetje… abstract. Magritte had het mooi gevonden.
+2511	De Groothertogin Charlottebrug, bijgenaamd de Rode Brug, verbindt de oude stad met het Kirchbergplateau, hoog boven de Alzettevallei.
+2512	Het Groothertogelijk Paleis, in het hart van de oude stad. Luxemburg is het enige groothertogdom dat nog in de wereld bestaat.
+2513	De wacht marcheert acht stappen, draait om, marcheert acht stappen terug. Heel ontspannend om naar te kijken.
+2514	De Europese Rekenkamer: de financiële waakhond van de EU. Ze controleert hoe Europees geld wordt besteed, euro voor euro.
+2515	Op een van de finaleontwerpen voor de volgende biljetten staat ze op de achterkant van het biljet van 200 euro.
+2516	Sinds 29 februari 2020 is al het openbaar vervoer in Luxemburg gratis: bussen, trams, treinen. Het eerste land ter wereld dat dit deed.
+2517	De Gëlle Fra, de gouden dame van het Monument van de Herinnering, eert de Luxemburgers die in de wereldoorlogen vielen.
+2518	De bezetter haalde haar in 1940 neer; ze werd volledig hersteld en in 1985 weer op haar zuil gezet.
+2519	De Schueberfouer! Een kermis sinds 1340, gesticht door Jan de Blinde, graaf van Luxemburg. Elk jaar aan het eind van de zomer.
+2520	Luxemburger
+2521	Moien! Zo zeg je hallo in het Luxemburgs. Hier hebben we drie bestuurstalen: Luxemburgs, Frans en Duits.
+2522	De meesten van ons wisselen ze midden in een zin af. Soms sluipt er ook Engels in.
+2523	Op een muur: ‘Mir wëlle bleiwe wat mir sinn’ (‘Wij willen blijven wat wij zijn’), het nationale motto.
+2524	Welkom in de Bockkazematten: 17 kilometer tunnels uitgehouwen in de rots, onderdeel van een UNESCO-werelderfgoedlocatie.
+2525	Tijdens de bombardementen van de Tweede Wereldoorlog schuilden hier tot 35.000 mensen.
+2526	Een bezoeker is verdwaald in de donkere gangen met mijn laatste zaklamp. Kun je de uitgang vinden en hem terugbrengen?
+2527	Nog een rondleiding door de gangen?
+2528	Jullie komen er allebei heelhuids uit! De vesting heette het ‘Gibraltar van het Noorden’. Neem dit voor je moeite.
+2529	Je kent de gangen beter dan de soldaten van 1700.
+2530	De zaklamp ging uit… Geen zorgen, ik ken de weg. Laten we het opnieuw proberen.
+2531	De Pont de l'Europe steekt de Rijn over. Aan de andere kant: Kehl, in Duitsland. Sinds 2017 steekt zelfs een tram de grens over.
+2532	Pendelaar
+2533	Ik woon in Kehl en werk in Straatsburg. Elke ochtend wissel ik in vier minuten van land. Niemand controleert mijn paspoort.
+2534	Hier zetelt de Raad van Europa, opgericht in 1949: 46 lidstaten, en het Europees Hof voor de Rechten van de Mens. Hij maakt geen deel uit van de EU.
+2535	Verwar hem niet met de Europese Raad (de staatshoofden en regeringsleiders van de EU) of de Raad van de EU (de ministers). Zelfs journalisten doen dat.
+2536	De blauwe vlag met twaalf gouden sterren werd in 1955 voor het eerst aangenomen door de Raad van Europa. De EU nam hem later over.
+2537	Een portret van Bertha von Suttner (1843–1914), schrijfster van de roman ‘Weg met de wapens!’ en de eerste vrouw die in 1905 de Nobelprijs voor de Vrede ontving.
+2538	Zij is het gezicht van 200 euro op de finaleontwerpen ‘Europese cultuur’ van de ECB.
+2539	Het volkslied van Europa is het voorspel van de ‘Ode aan de vreugde’, uit Beethovens Negende Symfonie. De Raad van Europa nam het aan in 1972, de EU in 1985.
+2540	Het heeft geen officiële tekst: in Europa neuriën we het allemaal in dezelfde taal.
+2541	De torenspits van de kathedraal rijst tot 142 meter. Van 1647 tot 1874 was het het hoogste gebouw ter wereld.
+2542	De astronomische klok. Het mechanisme dateert van 1842. Elke dag om half een defileren de twaalf apostelen voor Christus.
+2543	De kathedraal is gebouwd van roze zandsteen uit de Vogezen. Daarom bloost ze bij zonsondergang.
+2544	De Christkindelsmärik wordt hier sinds 1570 gehouden: een van de oudste kerstmarkten van Europa.
+2545	Winstubkok
+2546	Flammekueche! Dun deeg, room, uien, spek, in twee minuten gebakken in een houtoven. In het Frans zeggen ze tarte flambée.
+2547	De Eden van Straatsburg, hier in 842 gezworen door twee kleinzonen van Karel de Grote, behoren tot de oudste teksten in het Oudfrans en het Oudhoogduits.
+2548	Elke koning zwoer in de taal van de ander, zodat het leger van de ander het kon verstaan. Tolken heeft hier een lange geschiedenis.
+2549	Ornitholoog
+2550	De ooievaar is het embleem van de Elzas. In 1974 waren er in de regio nog maar negen paren over.
+2551	Dankzij een herintroductieprogramma zijn het er nu enkele honderden paren. En de ooievaar staat op een finaleontwerp voor het biljet van 50 euro!
+2552	De nieuwkomers zoeken hun nesten. Kun je ze leiden, weg van de hoogspanningskabels?
+2553	Er komen nog meer ooievaars aan. Leid je ze weer?
+2554	Elk paartje is thuis! Hier, voor het ooievaarsbeschermingsfonds… ik bedoel, voor jou.
+2555	De daken van Petite France zijn vol klepperende snavels. Dat is hier het geluid van de lente.
+2556	Sommigen raakten verstrikt bij de kabels… Ze zijn oké, alleen een beetje gebelgd. Nog een keer?
+2557	Zaal 18: sculpturen van de Parthenon in Athene, tussen 1801 en 1812 weggehaald door de agenten van Lord Elgin en in 1816 gekocht door het British Museum.
+2558	Griekenland vraagt sinds 1983 om hun teruggave. In Athene houdt het Akropolismuseum hun plaatsen klaar.
+2559	Griekse bezoeker
+2560	Ik kwam helemaal uit Athene om onze marmers te zien. Dan ga ik terug naar het Akropolismuseum en kijk ik naar de witte kopieën hiervan.
+2561	Eén fries, twee steden. Misschien op een dag weer één stad.
+2562	Een rode telefooncel, het model K6 uit 1935. Tegenwoordig huisvesten sommige een defibrillator, andere een mini-bibliotheek.
+2563	De metro van Londen opende in 1863: de eerste ondergrondse spoorweg ter wereld. ‘Mind the gap!’
+2564	Na de brexit verliet het VK Erasmus. In december 2025 stemde het ermee in om vanaf 2027 weer mee te doen. Mijn zusje mag in Bologna gaan studeren!
+2565	Nederlandse douanier
+2566	Sinds 1 januari 2021 valt het VK buiten de douane- en veterinaire regels van de EU: reizigers mogen geen vlees of zuivel meer meenemen naar de EU.
+2567	Die maand moesten mijn collega's in Hoek van Holland hamsandwiches in beslag nemen. ‘Welcome to the Brexit, sir, I'm sorry.’
+2568	De ochtendveerboot is aan het instappen. Help je me de lunchtrommels te controleren?
+2569	Nog een veerboot, nog honderd lunchtrommels. Help je me weer?
+2570	Geen enkele hamsandwich kwam erdoor. Hier, een beloning zonder kaas en zonder ham.
+2571	Efficiënt en beleefd. Je zou een prima douanier zijn.
+2572	Er is een salami het Kanaal overgestoken… De dierenartsen van de inspectie willen je even spreken.
+2573	Vrachtwagenchauffeur
+2574	Voor de brexit stak ik met mijn vrachtwagen over zonder te stoppen. Nu: douaneaangiften, gezondheidscertificaten, controles. Ik heb meer formulieren gelezen dan romans.
+2575	Een campagnebus. In 2016 beloofde de zijkant 350 miljoen pond per week voor de National Health Service.
+2576	In 2017 noemde het hoofd van de Britse statistiekautoriteit dat cijfer een ‘duidelijk misbruik van officiële statistieken’.
+2577	Vogelaar
+2578	Jan-van-genten duiken met bijna honderd kilometer per uur de zee in. De grootste kolonie ter wereld zit op de Bass Rock, in Schotland.
+2579	De ECB zette er een op een finaleontwerp voor het biljet van 200 euro: open zee, gevouwen vleugels, plons.
+2580	Schaker
+2581	Széchenyi-thermaalbad, 1913: een van de grootste geneeskrachtige baden van Europa. Hier schaken we, tot aan onze schouders in heet water.
+2582	Hongarije schonk de wereld Judit Polgár, de sterkste vrouwelijke speler ooit: grootmeester op vijftienjarige leeftijd, en ze versloeg Kasparov in 2002.
+2583	Drie stellingen, elk mat in één zet. Kun je ze vinden voordat het water koud wordt?
+2584	Nieuwe stellingen op het drijvende bord. Nog een ronde?
+2585	Drie matzetten! Je speelt als een grootmeester in een badjas. Neem dit.
+2586	Mat, mat, mat. Van de stoom ga je sneller denken.
+2587	Het water werd koud… Zoek de volgende keer de zet waarna de koning nergens meer heen kan.
+2588	Ruïnekroegen: oude binnenplaatsen van de voormalige joodse wijk, omgebouwd tot bars met bij elkaar geraapt meubilair. De eerste openden begin jaren 2000.
+2589	Barman
+2590	Egészségedre! Dat is proost in het Hongaars. Probeer het na het tweede glas fröccs: wijn met sodawater.
+2591	Lángos-verkoper
+2592	Lángos: gefrituurd deeg, knoflook, zure room en geraspte kaas. Geen dieet. Een traditie.
+2593	De Rubiks kubus werd in 1974 in Boedapest uitgevonden door Ernő Rubik, om zijn studenten ruimtelijk inzicht bij te brengen. Ik heb hem in twee minuten opgelost. Of één zijde ervan.
+2594	Schoenen aan de Donauoever (2005). Zestig paar ijzeren schoenen herinneren aan de joden van Boedapest die in 1944 en 1945 door de Pijlkruisers op deze oever werden doodgeschoten en in de rivier gegooid.
+2595	De Kettingbrug, geopend in 1849: de eerste vaste brug tussen Buda en Pest, ontworpen door de Engelse ingenieur William Tierney Clark.
+2596	Zijn stenen leeuwen hebben geen tong… zo luidt de legende. Kijk goed.
+2597	Vissersbastion, op de Burchtheuvel: zeven torens, voor de zeven Magyaarse stammen die zich in het Karpatenbekken vestigden.
+2598	Bijeneters! De kleurrijkste vogels van Europa. Ze graven hun nesten in zandige rivieroevers en vangen bijen in de vlucht.
+2599	Hongarije heeft enkele van de grootste kolonies. Op de finaleontwerpen van de ECB siert zo'n kolonie het biljet van 20 euro.
+2600	Taalkundige
+2601	Het Hongaars is niet verwant aan de talen van zijn buren: het behoort tot de Oeraalse familie, zoals het Fins en het Estisch.
+2602	En de familienaam komt eerst: Rubik Ernő, Polgár Judit. Makkelijk te onthouden, moeilijk uit te spreken.
+2603	László Bíró, geboren in Boedapest, patenteerde in 1938 de moderne balpen. In veel landen heet een pen nog steeds een ‘biro’.
+2604	De Salon de l'Horloge. Op 9 mei 1950 om 18.00 uur las Robert Schuman, Frans minister van Buitenlandse Zaken, hier een verklaring voor waarin hij voorstelde de Franse en Duitse kolen- en staalproductie samen te voegen.
+2605	Dit leidde in 1951 tot de Europese Gemeenschap voor Kolen en Staal, de eerste stap van de huidige EU. Elke 9 mei is het Europadag.
+2606	De archieven hebben de pagina's van de verklaring door elkaar gehaald! De journalisten komen eraan. Kun je de zinnen weer op volgorde zetten?
+2607	De pagina's zijn weer door elkaar. Help je me?
+2608	Woord voor woord! Meneer Schuman had je de hand geschud. Neem dit, van het ministerie.
+2609	Perfect op volgorde. Europa komt niet in één keer tot stand, maar jij bent snel.
+2610	Net niet… Onthoud: eerst vrede, dan concrete verwezenlijkingen, dan kolen en staal.
+2611	Marie Curie, geboren als Maria Skłodowska in Warschau, werd in 1906 de eerste vrouwelijke hoogleraar aan de Sorbonne. Ze won twee Nobelprijzen, voor natuurkunde en voor scheikunde.
+2612	Zij is het gezicht van 20 euro op de finaleontwerpen ‘Europese cultuur’ van de ECB.
+2613	Bakker
+2614	Sinds 2022 staat het ambacht van de Franse baguette op de UNESCO-lijst van immaterieel cultureel erfgoed. Meel, water, zout, gist. En een beetje geduld.
+2615	Un café, s'il vous plaît! In Parijs is een ‘café’ een espresso. Wil je een grote kop, dan moet je dat zeggen. Luid.
+2616	Bouquiniste
+2617	Wij verkopen al sinds de 16e eeuw tweedehands boeken op deze kaden. Honderden groene kisten, langs kilometers Seine.
+2618	Notre-Dame de Paris. Beschadigd door brand op 15 april 2019, heropend op 7 december 2024 na vijf jaar werk.
+2619	Bezoeker
+2621	Sommige winters komt een rotsklimmer uit de bergen naar de kliffen van de Maasvallei. Een grijze vogel met karmozijnrode vleugels, als een vlinder.
+2622	Dit is de vogel van het biljet van 5 euro op de finaleontwerpen van de ECB: een bergbron en een rotsklimmer.
+2623	Hengelaar
+2624	Zie je die blauwe flits op de Moezel? Een ijsvogel. Hij duikt van een tak en komt terug met een vis.
+2625	Op de finaleontwerpen van de ECB is hij de vogel van het biljet van 10 euro, bij een waterval.
+2626	Antwerpen is de op een na grootste haven van Europa. En langs de Schelde, vlak naast de kranen, nestelen kluten in de natuurgebieden.
+2627	Zwart en wit, met een opgewipte snavel: de vogel van het biljet van 100 euro op de finaleontwerpen van de ECB, bij een riviermonding.
+2628	Inwoner van Warschau
+2629	Maria Skłodowska, Marie Curie, werd hier in Warschau geboren, in 1867. Ze noemde het element polonium naar haar land.
+2630	Onze Oude Stad werd in 1944 met de grond gelijkgemaakt en steen voor steen herbouwd: ze staat sinds 1980 op de UNESCO-lijst.
+2631	Leonardo da Vinci woonde van 1513 tot 1516 in Rome, in het Vaticaan, voordat hij naar Frankrijk vertrok.
+2632	Hij is het gezicht van 100 euro op de finaleontwerpen ‘Europese cultuur’ van de ECB.
+2633	Professor
+2634	Het Verdrag van Lissabon, hier in 2007 ondertekend, creëerde artikel 50: de procedure om de EU te verlaten. Het VK was de eerste die het gebruikte.
+2635	Ook uit Lissabon: de pastéis de nata, naar het recept van de monniken van Jerónimos. Veel populairder dan artikel 50.
+2636	Oude zeeman
+2637	In 1571 werd de Slag bij Lepanto uitgevochten in de Golf van Patras, hier in Griekenland. Een jonge Spaanse soldaat verloor daar het gebruik van zijn linkerhand.
+2638	Hij heette Miguel de Cervantes. Later schreef hij Don Quichot. Hij is het gezicht van 50 euro op de cultuurontwerpen van de ECB!
+2639	In een hoek ligt een ansichtkaart met de stempel van de ontwerpjury van de ECB: een van de twaalf motieven van de toekomstige bankbiljetten. Je mag hem houden.
+2640	British Museum – Zaal 18
+2641	Bockkazematten – Ingang
+2642	Kathedraal van Straatsburg
+2643	Palais de l'Europe – Raad van Europa
+2644	Veerterminal – EU-douane
+2645	Ruïnekroeg – Boedapest
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Boulangerie – Parijs
+2648	Rood
+2649	Geel
+2650	Wit
+2651	Oranje
+2652	Het bloementapijt
+2655	Het ontwerp
+2656	Drie begoniatapijten! België kweekt de meeste knolbegonia's ter wereld, rond Gent.
+2657	De toeristen komen eraan en het tapijt is niet af… Volgende keer beter!
+2658	De ooievaars van de Elzas
+2661	Ooievaars thuis: %d / %d · verloren: %d / 3
+2662	Tien ooievaars in hun nest! In de Elzas zou een ooievaar op je dak geluk brengen.
+2663	Te veel ooievaars vlogen door naar het volgende dorp… Volgend voorjaar komen ze terug.
+2664	Hamsandwich
+2665	Melk
+2666	Salami
+2667	Appel
+2668	Chocoladereep
+2669	Chips
+2670	Koekjes
+2671	EU-douane
+2674	Vlees, zuivel, het meeste fruit: innemen.
+2675	Bananen, snoep, chips, water: doorlaten.
+2676	Doorlaten
+2677	Innemen
+2678	Alle lunchtrommels gecontroleerd! Binnen de interne markt van de EU reist voedsel vrij; aan de grenzen wordt het gecontroleerd.
+2679	Er glipte een salami door… of een banaan werd ten onrechte in beslag genomen. Eerst de regels, dan de sandwich!
+2685	Schaken in de baden
+2688	Wit speelt en zet mat in één zet
+2689	K koning · Q dame · R toren · B loper · N paard · P pion
+2691	Het water werd koud vóór het mat… Zoek de zet waarna de koning helemaal geen veld meer heeft.
+2692	De wereldvrede kan niet worden gewaarborgd
+2694	Europa zal niet ineens en niet volgens één enkel plan tot stand komen.
+2698	De Schumanverklaring
+2701	De verklaring is klaar! In 1951 volgde de Europese Gemeenschap voor Kolen en Staal. Elke 9 mei is het Europadag.
+2702	De journalisten wachten en de pagina's zijn nog een zootje… Eerst vrede, dan concrete verwezenlijkingen!
+2703	De Bockkazematten
+2706	De bezoeker volgt je: nu de uitgang!
+2707	Ergens in het donker roept iemand…
+2708	Buiten in het daglicht, met de bezoeker! Tot 35.000 mensen schuilden tijdens de bombardementen in deze gangen.
+2709	De zaklamp ging uit… De gids volgt je stem en leidt jullie allebei naar buiten.
+2710	zonder scheppende inspanningen, evenredig aan de gevaren die haar bedreigen.
+2713	Opgebouwd door concrete verwezenlijkingen die eerst een feitelijke solidariteit scheppen.
+2714	Frans-Duitse kolen en staal onder een gemeenschappelijke Hoge Autoriteit…
+2715	…zodat oorlog tussen Frankrijk en Duitsland materieel onmogelijk wordt.
+2716	Bewijs voordat je de drukplaat aanraakt dat je een vals biljet herkent! Controleer elk biljet op de manier van de ECB: VOEL de reliëfdruk, KIJK ernaar tegen het licht, KANTEL het. Beoordeel 10 biljetten, één fout toegestaan.
+2717	In een herberg in Sachsenhausen schenk je appelwijn uit de Bembel in elk glas tot aan de streep! Houd de stylus (of A) ingedrukt om de kruik te kantelen, laat los om te stoppen en serveer dan met de knop. 8 glazen, 2 keer morsen toegestaan.
+2718	Acht perfecte glazen! Hier in Frankfurt noemen ze appelwijn ‘Ebbelwoi’.
+2719	Syntagmaplein, het Graf van de Onbekende Soldaat. Beweeg mee met de Evzones: STAP, TRAP, STAMP wanneer elk teken de lijn bereikt. 24 bewegingen, langzaam en plechtig. 4 fouten toegestaan.
+2720	Spitsuur bij de kiosk! Elke klant vraagt in het Grieks: tik aan wat hij wil. Ik fluister de betekenis voor de eerste klanten. 15 klanten in 60 seconden!
+2721	Laad drie schepen vóór twaalven! Beweeg de kraan met de stylus of ←/→, laat vallen met A of een tik. Zwaar (H) nooit boven lichter, gekoeld (wit) alleen op de twee kolommen met stroom (stekkers), en houd het schip recht!
+2722	Kopieer het begoniatapijt op het bovenste scherm: kies een kleur en tik of sleep dan over de vakjes. Druk op Klaar als het klopt. Drie tapijten in 90 seconden!
+2723	De ooievaars zijn terug uit Afrika! Leid elk naar een leeg nest: schuif de stylus omhoog en omlaag (of ↑/↓) en vlieg laag over een vrij nest om te landen. Vermijd de hoogspanningskabels. 10 ooievaars, 3 verliezen toegestaan.
+2724	De veerboot is aangemeerd! Controleer elke lunchtrommel: NEEM vlees, zuivel en het meeste fruit IN, LAAT de rest DOOR. Let op: een banaan mag, een appel niet. 20 trommels in 50 seconden, 2 fouten toegestaan.
+2725	Széchenyi-baden: de spelers buigen zich over een bord dat in de stoom drijft. Wit speelt: vind de zet die meteen mat zet. Tik een wit stuk aan en dan het gewenste veld. Drie stellingen in 90 seconden!
+2726	9 mei 1950, Salon de l'Horloge. De pagina's van de verklaring van Robert Schuman zijn door elkaar gehaald! Tik de zinnen in de juiste volgorde aan vóór de persconferentie. 60 seconden.
+2727	De gangen zijn donker en de zaklamp brandt op. Vind de verloren bezoeker en dan de uitgang! Beweeg met het +Control Pad of tik naast je personage. 75 seconden.
+2728	Drie matzetten! In de baden zegt men dat de verliezer als eerste uit het water moet.
+2729	Het nieuwe eikenhouten dakgebint werd met de hand uitgehouwen, zoals in de middeleeuwen. Timmerlieden en steenhouwers uit heel Frankrijk werkten eraan.
+2730	Voorkant
+2731	Achterkant

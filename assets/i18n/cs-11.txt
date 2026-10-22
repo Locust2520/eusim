@@ -1,0 +1,19 @@
+# Czech — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Orazítkuj 15 platných rozsudků za 30 sekund. Papíry označené „PADĚLEK“ nech projít: orazítkovat takový znamená prohrát kolo!
+2087	ROZSUDEK
+2088	ROZSUDEK: razítkuj. PADĚLEK: nech projít.
+2089	Patnáct platných rozsudků orazítkováno! Správa je na tebe pyšná.
+2090	Orazítkoval jsi špatný dokument! Zkontroluj to, než schválíš…
+2091	Patnáct platných rozsudků není hotovo. Kancelář zavírá. Zkus to znovu…
+2092	Tady je dnešní hromádka. Potřebujeme orazítkovat patnáct platných rozsudků, než kancelář zavře. Pozor, mezi nimi se schovaly špatné dokumenty! Pomůžeš mi?
+2093	Kancelář tuhle hromádku nemůže schválit. Je potřeba patnáct platných rozsudků a žádný orazítkovaný špatný dokument. Zkus to, kdykoli budeš chtít.
+2094	Dalších patnáct rozsudků v pořádku! Za tvůj druhý úspěch tady máš kvalifikované razítko.
+2095	Bezchybné! Mám pro tebe ještě jedno kvalifikované razítko. Lucembursko miluje metodické lidi.
+2096	Bezchybné! Ale tentokrát pro tebe žádné razítko nemám. Přijď a pomoz mi znovu!
+2097	Druhý hráč posílá do boje: %s!
+2098	Neplatný tým nebo připojení.
+2099	V přátelské debatě nejsou povoleny předměty.
+2100	Vyhráváš tuto přátelskou debatu!
+2101	Druhý hráč vyhrává tuto přátelskou debatu!
+2102	Debata skončila nebo se přerušilo připojení.
+2105	Uložení se nezdařilo. Zkus to znovu.

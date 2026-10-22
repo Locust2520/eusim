@@ -1,0 +1,19 @@
+# Latvian — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Apzīmogo 15 derīgus spriedumus 30 sekundēs. Papīrus ar atzīmi „VILTOTA“ laid cauri: apzīmogojot tādu, tu zaudē raundu!
+2087	SPRIEDUMS
+2088	SPRIEDUMS: zīmogot. VILTOTA: laist cauri.
+2089	Piecpadsmit derīgi spriedumi apzīmogoti! Administrācija ir lepna par tevi.
+2090	Tu apzīmogoji sliktu dokumentu! Pārbaudi, pirms apstiprini…
+2091	Piecpadsmit derīgi spriedumi nav gatavi. Kanceleja slēdzas. Mēģini vēlreiz…
+2092	Lūk, šodienas kaudze. Mums jāapzīmogo piecpadsmit derīgi spriedumi, pirms kanceleja aizveras. Uzmanies, starp tiem ir iemaldījušies slikti dokumenti! Vai vari man palīdzēt?
+2093	Kanceleja šo kaudzi nevar apstiprināt. Vajag piecpadsmit derīgus spriedumus un nevienu apzīmogotu sliktu dokumentu. Mēģini vēlreiz, kad vien vēlies.
+2094	Vēl piecpadsmit spriedumi kārtībā! Par otro panākumu saņem kvalificētu zīmogu.
+2095	Nevainojami! Man tev ir palicis vēl viens kvalificētais zīmogs. Luksemburgai patīk metodiski cilvēki.
+2096	Nevainojami! Bet šoreiz man nav zīmoga tev. Atnāc vēlreiz un palīdzi man!
+2097	Otrs spēlētājs izsauc %s!
+2098	Nederīga komanda vai savienojums.
+2099	Draudzīgās debatēs priekšmeti nav atļauti.
+2100	Tu uzvari šajās draudzīgajās debatēs!
+2101	Otrs spēlētājs uzvar šajās draudzīgajās debatēs!
+2102	Debates beigušās vai savienojums pārtrūcis.
+2105	Saglabāšana neizdevās. Mēģini vēlreiz.

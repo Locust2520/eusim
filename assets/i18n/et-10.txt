@@ -1,0 +1,523 @@
+# Estonian — city extensions (ids 2169+)
+2169	VÕLTS
+2171	%d s · %d/%d
+2172	Servades on kõrgendatud jooned: neid saab tunda.
+2173	Paber on igalt poolt sile…
+2174	Katsu
+2175	Vaata
+2176	Kalluta
+2177	Kontrolli ja otsusta:
+2178	Ehtne
+2179	Võlts
+2180	L/R: kalluta · X: valguse vastu · Y: katsu
+2181	Katsu, vaata, kalluta
+2184	See oli %s: kõrgendatud trükk puudus.
+2185	See oli %s: valguse vastu polnud vesimärki.
+2186	See oli %s: number ei muutnud värvi.
+2187	võltsing
+2188	See oli ehtne rahatäht!
+2189	Ükski võltsing ei pääsenud läbi! Vesimärgil nägid Europat, üle 2000 aasta vanuselt Kreeka vaasilt.
+2190	Võltsing lipsas läbi… Katsu, vaata, kalluta: need kolm kontrolli võtavad vaid mõne sekundi.
+2191	Bembel
+2194	Serveeri
+2196	Liiga palju maha läinud klaase… Kõrtsipidaja laenab sulle lapi.
+2197	Maria Callas
+2198	Ludwig van Beethoven
+2199	Marie Curie
+2200	Miguel de Cervantes
+2201	Leonardo da Vinci
+2202	Bertha von Suttner
+2203	tänavamuusikud
+2204	laulupidu
+2205	kool
+2206	raamatukogu
+2207	tänavakunst
+2208	puudega palistatud väljak
+2209	kaljukleepija mäeallika ääres
+2210	jäälind joa all
+2211	mesilasenäpid jõeoru kohal
+2212	valge toonekurg looklevas jõe ääres
+2213	säbruvares jõe suudmes
+2214	suula mere kohal
+2215	Euroopa Parlament
+2216	Euroopa Komisjon
+2217	Euroopa Keskpank
+2218	Euroopa Liidu Kohus
+2219	Euroopa Ülemkogu ja Euroopa Liidu Nõukogu
+2220	Euroopa Kontrollikoda
+2221	Esikülg: sinu portree %s asemel
+2222	Tagakülg: %s
+2223	Esikülg: %s
+2224	Näidissedel – %d €
+2225	Ei ole seaduslik maksevahend: see on kujundusnäidis.
+2227	L/R või puudutus: pööra · B: sulge
+2228	Hele
+2229	Keskmine
+2230	Tume
+2231	Kustuti
+2234	Tühista
+2235	Puhasta
+2236	Valmis
+2237	Joonista oma portree
+2238	Stuudio graveerib selle nagu rahatähe portree.
+2239	Sinu näidissedel
+2240	Euroopa kultuur
+2241	Jõed ja linnud
+2242	Pööra ümber
+2243	Uus portree
+2244	Trüki näidis
+2245	Trükin…
+2246	Sinu portree näidisele
+2247	DSi kaamera, pliiats või sinu ametlik foto.
+2248	Pliiats või sinu ametlik foto.
+2249	Tee foto
+2250	Joonista portree
+2251	Kasuta ametlikku fotot
+2252	Kaamerat ei saa siin kasutada. Joonista oma portree hoopis.
+2253	Sinu näidissedel liitus Frankfurdi Rahamuuseumi kogudega.
+2254	Frankfurdis hoiab EKP stuudio sinu nimega tühja näidist alles.
+2255	Kaamera käivitub…
+2256	Aseta nägu ovaali sisse
+2257	A või puudutus: tee foto · L/R: teine kaamera · B: tagasi
+2258	Graveerimiskatse
+2259	Uuesti
+2260	Jäta
+2261	Omavahel öeldes: euro sai sularahaks inimeste taskus 2002. aastal. Mõned selle torni uksed mäletavad seda aastat veel.
+2262	Kunstnik Ottmar Hörli eurosümbol, avatud 2001. aastal EKP endise torni ees.
+2263	Mõne nädala hiljem, 1. jaanuaril 2002, jõudsid eurosedelid ja -mündid kaheteistkümne riigi inimeste taskutesse.
+2264	Mälestusmärk Grossmarkthalle juures.
+2265	Aastatel 1941–1945 küüditati selle turuhalli keldrist umbes 10 000 Frankfurdi ja ümbruse juudi meest, naist ja last getodesse ja laagritesse. Enamik neist mõrvati.
+2266	Frankfurdi linn, juudi kogukond ja EKP, mille peakorterisse hall nüüd kuulub, rajasid selle mälestusmärgi ühiselt.
+2267	Römer, Frankfurdi raekoda alates 1405. aastast. Selle keisrisaalis pidasid äsja kroonitud Püha Rooma keisrid kroonimispidusid.
+2268	Ristpalkmajad Römerbergil. Pommitamine hävitas vanalinna 1944. aastal; see rida ehitati üles 1980. aastatel, tala haaval.
+2269	Õigluse purskkaev. Vaata hoolikalt: see Justitia hoiab kaalu ja mõõka, aga silmasidet tal pole.
+2270	Seda linna kutsutakse „Mainhattaniks”: pilvelõhkujad Maini jõe ääres. Lugesin üle üksteist kraanat ja neli panka. Või vastupidi.
+2271	Aastatel 1848 ja 1849 kogunes selles kirikus kogu Saksamaa esimene vabalt valitud parlament.
+2272	See kirjutas põhiõigustega põhiseaduse. See ei jõustunud kunagi, aga hilisemad Saksa põhiseadused tuginesid sellele.
+2273	Giid
+2274	Hallis on endiselt oma suured päevad: igal oktoobril antakse siin välja Saksa raamatukaubanduse rahuauhind.
+2275	Pull ründab sarved üleval: tõusev turg.
+2276	Karu lööb käpaga alla: langev turg.
+2277	DAX-i tahvel. Saksamaa tuntuim aktsiaindeks käivitati siin 1988. aastal.
+2278	Osta kuulujutu peale, müü uudise peale. Ja ära iialgi müü aprillis oma vihmavarju.
+2279	Johann Wolfgang von Goethe sündis selles majas 28. augustil 1749. Fausti kallal töötas ta umbes kuuskümmend aastat.
+2280	Tema nimi rändab nüüd mööda maailma: Goethe-Institut õpetab saksa keelt peaaegu sajas riigis.
+2281	Messeturm kõrgub messikeskuse kohal. Igal oktoobril toimub siin Frankfurdi raamatumess, maailma suurim.
+2282	Lugeja
+2283	Tulin raamatumessile ja jäin rohelise kastme pärast. Lugesin kolm raamatut ja sõin viis kastet.
+2284	Raudne jalakäijate sild üle Maini, ehitatud 1869. Selle piiretel ripub tuhandeid tabalukke: armastajate tõotused.
+2285	Paar
+2286	Panime oma luku sillale ja viskasime võtme Maini. Peame veel otsustama, kelle idee see oli.
+2287	Frankfurdilane
+2288	Teisel kaldal on Sachsenhausen. Seal joome Ebbelwoi’d, õunaveini. Siin ei kutsu seda keegi siidriks, pane tähele.
+2289	Ukse kohal ripub männioksakrans: märk, et see kõrts pressib ja serveerib oma õunaveini.
+2290	Perenaine
+2291	Guten Abend! Õunaveini valatakse Bembelist, hallist kivinõust kannust, Gerippte’sse, rombimustriga klaasi.
+2292	Täna õhtul on mul täis saal ja kaks kätt. Sina täidad klaase, mina kannan need ära?
+2293	Tahad veel ühe ringi leti taga?
+2294	Tilkagi pole lauale läinud! Siin, võta see ja tule tagasi millal tahes.
+2295	Jälle täiuslik. Sa võiksid avada oma kõrtsi. Pane lihtsalt uksele männioksakrans.
+2296	Ahh, lauad ujuvad! Pole hullu, me pühime üles.
+2297	Püsikülaline
+2298	Handkäs mit Musik: hapupiimajuust sibulatega marineeritult. Muusika tuleb hiljem. Ära küsi.
+2299	Roheline kaste nõuab täpselt seitset rohtu: kurgirohi, kirburohi, vesikress, petersell, ibelill, hapuoblikas ja murulauk.
+2300	Alates 2016. aastast kaitseb EL „Frankfurter Grüne Soße’t” geograafilise tähisena. Seitse rohtu, ei rohkem ega vähem.
+2301	Päris kullakang, 12,5 kilogrammi, mida külastajad tohivad tõsta. Enamik jaksab paar sentimeetrit.
+2302	Karpidest müntideni, müntidest paberini, paberist euroni: kolm tuhat aastat raha mõne riiulitäie peale.
+2303	Kuraator
+2304	Bundesbank on Saksamaa keskpank. Alates 1999. aastast kuulub see Eurosüsteemi koos EKP ja teiste euroala keskpankadega.
+2305	Kuulsin, et sul on näidissedel oma näoga. Kui su seiklus läbi saab, näeksime seda hea meelega oma kogus.
+2306	Europa portree, Kreeka müüdi printsessi, kes andis mandrile oma nime.
+2307	Tema nägu pärineb enam kui 2000 aasta vanuselt Kreeka vaasilt, mida hoitakse Louvre’is. Hoia eurosedel valguse vastu: ta on vesimärgil.
+2308	Raami taga hõõgub väike klaviatuur. Neli numbrit.
+2309	Sisestad koodi?
+2310	Klaviatuur vilgub punaselt. Kuskil kauplemissaalis ohkab keegi.
+2311	Klõps. Maal avaneb ja nähtavale tuleb kitsas allapoole viiv trepp…
+2312	Lähed salastuudiosse?
+2313	Töökoda täis molberteid, graveerimisriistu ja rasket pressi. Uksel: „Pangatähtede kujundus – konfidentsiaalne”.
+2314	Teema „Euroopa kultuur”: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) ja Bertha von Suttner (200 €).
+2315	Tagaküljel: kohad, kus kultuuri jagatakse. Tänavamuusikud, laulupidu, kool, raamatukogu, tänavakunst, puudega palistatud väljak.
+2316	Teema „Jõed ja linnud”: mäeallikast (5 €) avamereni (200 €); linnud on kaljukleepija, jäälind, mesilasenäpid, valge toonekurg, säbruvares ja suula.
+2317	Tagaküljel: ELi institutsioonid, Euroopa Parlamendist Euroopa Kontrollikojani.
+2318	Kümme finalistikavandit: EC145, EC564, EC617, EC799, EC915 ning RB120, RB227, RB637, RB754, RB832.
+2319	Kujundajate nimed jäävad saladuseks. Pärast avalikku küsitlust teeb lõpliku valiku EKP nõukogu.
+2320	Süvatrüki press. See surub tindi paberisse nii kõvasti, et see tõuseb reljeefina: see ongi päris rahatähel tuntav kõrgendatud trükk.
+2321	Nõuded: samad mõõtmed mis praegustel tähtedel, üks põhivärv nominaali kohta ning igal rahatähel Euroopa lipp, Euroopa kaart ja EKP presidendi allkiri.
+2322	Žürii liige
+2323	2025. aastal vastas EKP üleskutsele üle 1200 kujundaja. Žüriisse jõudis kolmkümmend üheksa ettepanekut; kümme neist on nendel molbertitel.
+2324	Eesmärk on asendada kujuteldavad sillad ja aknad päris inimeste, päris lindude ja päris paikadega.
+2325	Eleni
+2326	Kaliméra! Mina olen Eleni, süvatrüki graveerija. Ameti õppisin selgeks Kreeka Panga trükikojas Ateenas.
+2327	Ametlikult ei trüki EKP ainsatki rahatähte: ta kujundab need ja trükikojad üle Euroopa valmistavad need.
+2328	Praegu valmistame ette järgmisi eurosedeleid. 2026. aastal valis žürii kümme kavandit kahel teemal: Euroopa kultuur ning jõed ja linnud.
+2329	Enne lõplikku valikut pean graveeringut katsetama päris näol. Eurosedelitel pole kunagi olnud elavat inimest… nii et sinu oma jääb näidiseks.
+2330	Aga mu plaatidele ei puutu keegi ilma testi läbimata. Katsu, vaata, kalluta: näita, et suudad ehtsat sedelit võltsist eristada.
+2331	Valmis?
+2332	Braavo! Sul on keskpankuri silm. Nüüd sinu portree.
+2333	Uus näidis? Press on veel soe.
+2334	Valmis, graveeritud! Näed seerianumbrit? Esimene täht Y on Kreeka Panga kood. Minu väike allkiri.
+2335	Näita seda ringi. Ja salvesta oma mäng Aruandes, et sedel jääks sinuga.
+2336	Võltsing pääses läbi. Katsu, vaata, kalluta: see võtab vaid mõne sekundi. Tule tagasi, kui oled valmis.
+2337	Võta aega. Head graveeringut ei saa kiirustades teha.
+2338	Õunaveinikõrts – Sachsenhausen
+2339	EKP – Pangatähtede kujundusstuudio
+2340	Frankfurdi börs
+2341	Bundesbanki Rahamuuseum
+2342	Goethe maja – Frankfurt
+2343	Paulskirche – Kogunemissaal
+2344	Näidissedel
+2345	Sinu portree, graveeritud EKP stuudios Frankfurdis. Ei ole seaduslik maksevahend.
+2346	Õunaveinikõrts, Sachsenhausen
+2348	Hoia all: Bembel kaldub, lase lahti: peatub. Serveeri, kui õunavein jõuab joonele.
+2349	Vahikorra vahetus
+2352	Samm
+2353	Löök
+2354	Trampi
+2355	Käike: %d / 24 · vigu: %d
+2356	←: samm · →: löök · A/↓: trampi
+2357	Täpselt rütmis! Evzonid vahetavad vahti iga tund, päeval ja öösel, igas ilmas.
+2358	Rütmist väljas… Evzonid treenivad kuid enne esimest vahikorda.
+2359	Frappé
+2360	Vesi
+2361	Ajaleht
+2362	Koulouri
+2363	Murepärlid
+2364	Mati
+2365	Bussipilet
+2366	Nätsu
+2367	(Ühe frappé, palun!)
+2368	(Ühe vee, palun!)
+2369	(Ühe ajalehe, palun!)
+2370	(Ühe koulouri, seesamiringi, palun!)
+2371	(Murepärleid, palun!)
+2372	(Üks väike kurja silma amulett, palun!)
+2373	(Ühe pileti, palun!)
+2374	(Nätsukummi, palun!)
+2375	Periptero
+2378	Viisteist rahulolevat klienti! Ευχαριστώ (efcharistó) tähendab aitäh.
+2379	Järjekord ulatub järgmise tänavani… Σιγά σιγά (sigá sigá): aeglaselt, aeglaselt.
+2380	Pireuse sadam
+2383	R
+2384	Laev %d/3 · konteinerid %d/%d
+2385	Aeg: %d s · vigu: %d/3
+2386	Kreen
+2387	Kolm laeva laaditud ja tasakaalus! Pireus on üks Vahemere suurimaid konteinersadamu.
+2388	Sadamakapten peatab laadimise: laev ei ole turvaline. Laadi ümber ja proovi uuesti!
+2389	Tundmatu sõduri haud (1932) Parlamendi all. Presidendivalve evzonid valvavad seda päeval ja öösel.
+2390	Väljaku nimi on Syntagma, „Põhiseadus”: 1843. aastal kogunesid ateenlased siia, kuni kuningas Otto andis neile põhiseaduse.
+2391	Evzon ei liigu. Ei isegi ripsmed ei liigu.
+2392	Tema tsarouchiad, punased puukingad mustade tutidega, kaaluvad umbes kolm kilo tükk ja tallas on kuuskümmend naela. Tema valge seelik, fustanella, on 400 voldiga: üks iga Osmanite võimu aasta kohta, nagu traditsioon ütleb.
+2393	Evzoni seersant
+2394	Iga tund vahetub vaht. Aeglased sammud, kõrge löök, puukingad vastu marmorit: kaks meest liiguvad kui üks.
+2395	Täna üks värvatu puudub. Järgid minuga rütmi?
+2396	Veel üks vahikorra vahetus?
+2397	Ainsatki sammu rütmist välja ei läinud. Μπράβο (brávo)! Võta see, vahi poolt.
+2398	Μπράβο (brávo)! Pühapäeviti kell üksteist marsib kogu kompanii pidulikus vormis. Tule vaata.
+2399	Sinu puukingad ja trumm ei jõudnud kokkuleppele. See võtab kuid treeningut. Homme jälle?
+2400	Kioskipidaja
+2401	Γεια σας (yia sas, tere)! Periptero müüb kõike: ajalehti, vett, bussipileteid, telefonikrediiti, nätsukummi, murepärleid…
+2402	Mu õepoeg ei tulnud. Hoiad letti? Kliendid räägivad kreeka keelt, aga ma sosistan tähenduse.
+2403	Jälle tipptund! Lööd käed külge?
+2404	Ευχαριστώ (efcharistó, aitäh)! Sa räägid nüüd kioskikeelt. Siin, maja kulul.
+2405	Ευχαριστώ (efcharistó)! Järjekord kadus rekordajaga.
+2406	Σιγά σιγά (sigá sigá), aeglaselt, aeglaselt. See on ka Kreeka vanasõna.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): üks keskmiselt magus frappé, palun. Jääkohv, vahuks vahustatud.
+2408	See leiutati juhuslikult 1957. aastal Thessaloniki rahvusvahelisel messil: müügiagendil polnud kuuma vett ja ta raputas oma lahustuvat kohvi külma veega.
+2409	Syntagma metroojaam. Kui metrood 1990. aastatel kaevati, leidsid arheoloogid kümneid tuhandeid esemeid. Mõned on välja pandud jaamas endas.
+2410	28. oktoober on Ochi päev (όχι, óchi, „ei”). 1940. aastal ütles Kreeka Mussolini ultimaatumile ei; igal aastal marsivad koolilapsed tänavatel.
+2411	Mitte segamini ajada 2015. aasta rahvahääletuse OXI-ga. Kaks kuulsat Kreeka „ei”-d, seitsmekümne viie aasta vahega.
+2412	Drahm: mündi nimi Vana-Kreekast, taastati 1832. aastal noorele Kreeka riigile ja asendati 2002. aastal euroga.
+2413	Kreeka ühe euro mündil on Athena öökull, kopeeritud vanalt Ateena mündilt, nelja drahmi mündilt.
+2414	Kreeka Pangal on oma trükikoda: seal trükitakse ka eurosedeleid.
+2415	Europa seeria sedelitel näitab seerianumbri esimene täht keskpanka, mis need tellis. Meie oma on Y.
+2416	Y sinu näidisel? Siis tere tulemast koju!
+2417	Anafiotika: 19. sajandil tulid Anafi saare ehitajad kuningalossi ehitama ja rajasid endale siia Akropoli alla väikese Küklaadide küla.
+2418	Μιάου (miáou). Ateenas on tuhandeid tänavakasse; naabrid ja vabatahtlikud toidavad neid, isegi varemete vahel.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Kas sõid? Sa oled kõhnaks jäänud. Istu. Söö.
+2421	Yiayia toitis kogu su meeskonda, kuni keegi liikuda ei jaksanud. Kõik on taas hoos.
+2422	Γιαγιά (yiayiá) tähendab vanaema. Ja yiayia ei usu kunagi, kui ütled, et oled täis.
+2423	Naaber
+2424	Χρόνια πολλά (chrónia pollá)! Palju aastaid! Täna on mu nimepäev.
+2425	Kreekas tähistame sageli oma nimepühaku päeva rohkem kui sünnipäeva. Pool tänavat on Giorgos: kujuta ette Püha Georgi päeva.
+2426	Ναι (nai) tähendab jah! Turistidele kõlab see nagu „ei”. Ja όχι (óchi) tähendab ei.
+2427	Kui kallutan pea taha ja plaksutan keelt, on see samuti ei. Lihtne!
+2428	Letimüüja
+2429	Μάτι (máti), silm! Sinine klaassilm kaitseb sind kurja silma eest, kadedusest tuleva õnnetuse eest.
+2430	Kui keegi kiidab su Euromoni, ütle „φτου φτου” (ftou ftou), nagu sülitaksid. See on õnne pärast. Ära tegelikult sülita.
+2431	Juustumüüja
+2432	Feta on alates 2002. aastast kaitstud päritolunimetus: päris feta tehakse Kreekas lamba-, vahel veidi kitsepiimast.
+2433	Saksamaa ja Taani vaidlustasid selle ELi Kohtus. 2005. aastal ütles Kohus: feta on kreeklane.
+2434	Grillkokk
+2435	Souvlaki! Ateenas on see liha vardas. Thessalonikis kutsutakse sedasama kalamaki, „pulgake”.
+2436	Küsi Thessalonikis „souvlakit” ja saad pita gyrose. Pered on lagunenud väiksema asja pärast.
+2437	Muusik
+2438	Kõik arvavad, et sirtaki on vana rahvatants. See leiutati 1964. aasta filmi „Kreeklane Zorbas” jaoks, Mikis Theodorakise muusikale.
+2439	Alguses aeglaselt, siis üha kiiremini… Opa!
+2440	Monastiraki jaam. Liin 1 järgib Ateena–Pireuse raudteed, mis avati 1869: võrgu vanim liin.
+2441	Sõidad rongiga Pireuse sadamasse?
+2442	Herodes Atticuse odeon, ehitatud 161. aastal. 1944. aastal laulis siin Ateena konservatooriumis õppinud noor sopran Beethoveni „Fidelio”: Maria Callas.
+2443	Callas ja Beethoven on mõlemad järgmiste eurosedelite finalistide kavanditel, kultuuriteema 5 ja 10 euro sedelitel.
+2444	Need valged plaadid on kipsvalandid. Originaalid on Londonis Briti Muuseumis alates 1816. aastast.
+2445	Kreeka on nende tagastamist ametlikult nõudnud alates 1983. aastast. Muuseum hoiab nende kohad valmis, originaalide kõrval.
+2446	Parthenoni friisi originaalplokk: Panathenaia rongkäigu ratsanikud, nikerdatud umbes 440. aastal eKr.
+2447	Akropoli muuseum avati 2009. aastal. See ülemine korrus on pööratud Parthenoniga kohakuti, mida näed läbi klaasi.
+2448	Friis jookseb ümber kogu saali, algses järjekorras. Meekarva marmor: siin. Valge kips: Londonis.
+2449	Zappeion. Siin kirjutas Kreeka 28. mail 1979 alla Euroopa ühenduste ühinemislepingule.
+2450	Temast sai kümnes liikmesriik 1. jaanuaril 1981. Euro järgnes 2001. aastal, aasta enne münte ja sedeleid.
+2451	Melina Mercouri (1920–1994), näitleja, siis kultuuriminister. Ta pakkus välja Euroopa kultuuripealinna: Ateena oli esimene, 1985. aastal.
+2452	Ta käivitas ka kampaania Parthenoni marmorite tagastamiseks.
+2453	Panathenaia staadion, maailma ainus suur täielikult marmorist staadion. Esimesed tänapäeva olümpiamängud peeti siin 1896. aastal.
+2454	Iga kahe aasta järel antakse olümpiatuli siin üle järgmisele võõrustajalinnale.
+2455	COSCO Shippingi käitatav konteinerterminal. Hiina kontsern ostis 2016. aastal 51 % Pireuse sadamaametist, 2021. aastal 67 %.
+2456	Sadamavaht
+2457	Konteinerterminal on külastajatele suletud. Reisisadam on sinu päralt.
+2458	Mitte siia, palun: konteinerterminal.
+2459	Pireuse jaam, liini 1 lõpp-peatus. Hoone pärineb 1929. aastast.
+2460	Sõidad rongiga tagasi Ateenasse?
+2461	Pireuse müüride kivid. 5. sajandil eKr tegi Themistokles Pireusest Ateena sadama ja Pikad müürid ühendasid need kaks linna.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), „Pireuse lapsed”! Manos Hadjidakis kirjutas selle filmile „Never on Sunday” (1960), peaosas Melina Mercouri.
+2463	See võitis Oscari parima laulu eest. Prantsusmaal tegi Dalida sellest hiti: „Les Enfants du Pirée”.
+2464	Kalur
+2465	Seal on Mikrolimano, väike sadam: kalapaadid ja tavernid, kus kala ujus veel täna hommikul.
+2466	Siit Karaiskakisi staadionile, Olympiacose koduväljakule. 2024. aastal võitis klubi UEFA Konverentsiliiga: Kreeka jalgpalliklubi esimene Euroopa trofee.
+2467	Praamid saartele: Aigina, Hydra, Küklaadid, Kreeta… Pireus on üks Euroopa tihedama liiklusega reisisadamaid.
+2468	Kreeka laevaomanikud kontrollivad umbes viiendikku maailma kaubalaevastikust: rohkem kui ükski teine riik.
+2469	Dokimeister
+2470	Sina, praktikant! Laev väljub keskpäeval ja mu kraanajuht streigib. Oled sa kunagi konteinerlaeva laadinud?
+2471	Rasked konteinerid alla, külmkonteinerid vooluga ridadele, ja hoia laev tasakaalus, muidu vajub ta küljele.
+2472	Veel üks laev laadida?
+2473	Sirge nagu joonlaud! Siin on sinu palk. Ära kuluta seda kõike souvlakile.
+2474	Veel üks laev väljus õigel ajal. Kapten saadab tervitusi.
+2475	Ta vajub küljele nagu halb tuju. Laadime ümber. Jälle?
+2476	Kreeka Pank – Muuseum
+2477	Akropoli muuseum – Parthenoni saal
+2478	Pireuse sadam
+2479	Maja – Plaka
+2480	Žürii postkaarte: %d / 12.
+2481	Kõik kaksteist motiivi koos! Eleni EKP stuudios Frankfurdis tahab neid kindlasti näha.
+2482	Kõik kaksteist postkaarti! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… ja kuus lindu. Oled näinud rohkem Euroopat kui žürii.
+2483	Nüüdsest trükib mu press sinu näidised kuldversioonis. Ja võta see, stuudio poolt.
+2484	Veel üks asi: žürii saatis kaheteistkümne motiivi postkaardid üle kogu Euroopa. Kui leiad need kõik, tule tagasi: graveerin kuldversiooni.
+2485	Brüsseli raekoda, ehitatud 15. sajandil. Selle 96-meetrise torni tipus tapab Püha Miikael lohet.
+2486	Seda ümbritsev Grand-Place on UNESCO maailmapärand alates 1998. aastast.
+2487	Gildimajad: pagarid, paadimehed, õllepruulijad… igal ametil oli oma maja, kullatud rikkuse näitamiseks.
+2488	Manneken-Pis: 55 sentimeetrit pronksi. Tal on üle tuhande kostüümi, mida hoitakse tema enda garderoobimuuseumis.
+2489	Ametlik riietaja
+2490	Täna on ta riietatud… iseendaks. Homme tuletõrjujaks. Järgmisel nädalal astronaudiks. Kuju riietamine on täiskohaga töö.
+2491	Friikioski omanik
+2492	Päris Belgia friikartuleid praetakse kaks korda: üks kord küpseks, teine kord krõbedaks.
+2493	Näljane? Proovi mitraillette’i: pool baguette’i, liha, kaste ja friikartulid sees. Jah, sees.
+2494	Vahvlimüüja
+2495	Brüsseli vahvel: kerge, nelinurkne, suhkruga puistatud. Liège’i vahvel: tihedam, sees karamelliseeritud pärlsuhkur.
+2496	Nende vahel valimine on lõhestanud peresid põlvkondade kaupa. Mina müün mõlemat. Väga diplomaatiline.
+2497	Brüsseli seinu katavad kümned koomiksimaalingud. Belgia võtab oma koomikseid sama tõsiselt kui šokolaadi.
+2498	Siit Galeries Royales Saint-Hubert’i (1847), Euroopa ühe vanima kaetud ostuarkaadi juurde.
+2499	1912. aastal leiutas šokolaadimeister Jean Neuhaus nendes arkaadides täidisega šokolaadi: pralinee.
+2500	Grand-Place / Grote Markt. Brüsselis on iga tänavanimi kirjutatud prantsuse ja hollandi keeles: pealinnapiirkond on ametlikult kakskeelne.
+2501	Belgial on kolm ametlikku keelt: hollandi, prantsuse ja saksa.
+2502	Brüsselilane
+2503	Allez, une fois! Nii kujutatakse ette, et Brüsselis räägitakse. Ja noh… vahel räägimegi.
+2504	Aednik
+2505	Iga kahe aasta augustis katab Grand-Place’i begooniavaip. Esimene laoti 1971. aastal.
+2506	Sajad tuhanded lilled, laotud käsitsi paari tunniga. Mul on üks vabatahtlik puudu. Istutad minuga?
+2507	Veel üks vaip? Begooniad ootavad.
+2508	Suurepärane! Isegi gildimajad paistavad kadedad. Siin, linna poolt.
+2509	Veel üks meistriteos. Mõne päeva pärast on lilled läinud, aga fotod jäävad.
+2510	Muster läks veidi… abstraktseks. Magritte’ile oleks meeldinud.
+2511	Suurhertsoginna Charlotte’i sild, hüüdnimega Punane sild, ühendab vanalinna Kirchbergi platoga, kõrgel Alzette’i oru kohal.
+2512	Suurhertsogi palee vanalinna südames. Luksemburg on ainus allesjäänud suurhertsogiriik maailmas.
+2513	Vaht marsib kaheksa sammu, pöörab, marsib kaheksa sammu tagasi. Seda on väga lõõgastav vaadata.
+2514	Euroopa Kontrollikoda: ELi rahanduse valvekoer. See kontrollib, kuidas Euroopa raha kulub, euro haaval.
+2515	Ühel järgmiste pangatähtede finalistide kavandil on ta 200 euro sedeli tagaküljel.
+2516	Alates 29. veebruarist 2020 on kogu Luksemburgi ühistransport tasuta: bussid, trammid, rongid. Esimene riik maailmas.
+2517	Gëlle Fra, Mälestusmonumendi kuldne daam, austab maailmasõdades langenud luksemburglasi.
+2518	Okupandid kiskusid selle 1940. aastal maha; see taastati täielikult ja asetati 1985. aastal oma sambale tagasi.
+2519	Schueberfouer! Laat alates 1340. aastast, asutanud Luksemburgi krahv Johann Pime. Igal aastal suve lõpus.
+2520	Luksemburglane
+2521	Moien! See on luksemburgi keeles tere. Meil on kolm haldkeelt: luksemburgi, prantsuse ja saksa.
+2522	Enamik meist vahetab neid ühe lause sees. Vahel lipsab sisse ka inglise keel.
+2523	Seinal: „Mir wëlle bleiwe wat mir sinn” („Me tahame jääda selleks, mis me oleme”), riiklik moto.
+2524	Tere tulemast Bocki kasemattidesse: 17 kilomeetrit kaljusse raiutud tunneleid, osa UNESCO maailmapärandist.
+2525	Teise maailmasõja pommitamiste ajal leidis siin varju kuni 35 000 inimest.
+2526	Üks külastaja eksis pimedates koridorides mu viimase taskulambiga ära. Leiad väljapääsu ja tood ta tagasi?
+2527	Veel üks tuur mööda galeriisid?
+2528	Mõlemad tervelt väljas! Kindlust kutsuti „Põhja Gibraltariks”. Võta see vaevatasuks.
+2529	Sa tunned galeriisid paremini kui 1700. aasta sõdurid.
+2530	Taskulamp kustus… Ära muretse, mina tean teed. Proovime uuesti.
+2531	Pont de l’Europe ületab Reini. Teisel pool: Kehl, Saksamaal. Alates 2017. aastast ületab piiri isegi tramm.
+2532	Pendeldaja
+2533	Ma elan Kehlis ja töötan Strasbourgis. Igal hommikul vahetan nelja minutiga riiki. Passi ei kontrolli keegi.
+2534	Siin asub 1949. aastal asutatud Euroopa Nõukogu: 46 liikmesriiki ja Euroopa Inimõiguste Kohus. See ei ole ELi osa.
+2535	Ära aja segi Euroopa Ülemkoguga (ELi riigipead ja valitsusjuhid) ega Euroopa Liidu Nõukoguga (ministrid). Isegi ajakirjanikud ajavad.
+2536	Sinise lipu kaheteistkümne kuldse tähega võttis esimesena vastu Euroopa Nõukogu, 1955. aastal. EL võttis selle hiljem üle.
+2537	Bertha von Suttneri (1843–1914) portree, romaani „Maha relvad!” autor ja esimene naine, kes sai Nobeli rahupreemia, 1905. aastal.
+2538	Tema on EKP „Euroopa kultuuri” finalistide kavandite 200 euro kuju.
+2539	Euroopa hümn on „Oodi rõõmule” prelüüd Beethoveni üheksandast sümfooniast. Euroopa Nõukogu võttis selle vastu 1972. aastal, EL 1985. aastal.
+2540	Sellel pole ametlikku teksti: Euroopas ümiseme seda kõik samas keeles.
+2541	Katedraali torn ulatub 142 meetrini. Aastatel 1647–1874 oli see maailma kõrgeim hoone.
+2542	Astronoomiline kell. Selle mehhanism pärineb 1842. aastast. Iga päev pool üks kõnnivad kaksteist apostlit Kristuse eest mööda.
+2543	Katedraal on ehitatud Vogeesi roosast liivakivist. Seepärast õhetab see päikeseloojangul.
+2544	Christkindelsmärik toimub siin alates 1570. aastast: üks Euroopa vanimaid jõuluturge.
+2545	Winstubi kokk
+2546	Flammekueche! Õhuke tainas, koor, sibul, peekon, küpsetatud puuahjus kahe minutiga. Prantsuse keeles öeldakse tarte flambée.
+2547	Strasbourgi vanded, mis kaks Karl Suure pojapoega siin 842. aastal andsid, kuuluvad vanima vanaprantsuse ja vanaülemsaksa keele tekstide hulka.
+2548	Kumbki kuningas vandus teise keeles, et teise sõjavägi aru saaks. Tõlkimisel on siin pikk ajalugu.
+2549	Ornitoloog
+2550	Valge toonekurg on Elsassi sümbol. 1974. aastal oli piirkonnas alles vaid üheksa paari.
+2551	Tänu taasasustusprogrammile on neid täna mitusada paari. Ja valge toonekurg on 50 euro sedeli finalistikavandil!
+2552	Uustulnukad otsivad oma pesi. Juhid neid, elektriliinidest eemale?
+2553	Rohkem toonekurgi lendab sisse. Juhid neid jälle?
+2554	Iga paar on kodus! Siin, toonekurgede kaitsefondi jaoks… ma mõtlen, sulle.
+2555	Petite France’i katused on täis klõbisevaid nokki. See on siinse kevade hääl.
+2556	Mõned sattusid juhtmete lähedal sassi… Nad on korras, vaid veidi pahased. Jälle?
+2557	Ruum 18: Ateena Parthenoni skulptuurid, mille lord Elgini agendid eemaldasid aastatel 1801–1812 ja Briti Muuseum ostis 1816. aastal.
+2558	Kreeka on nende tagastamist nõudnud alates 1983. aastast. Ateenas hoiab Akropoli muuseum nende kohad valmis.
+2559	Kreeka külastaja
+2560	Tulin kogu tee Ateenast oma marmoreid vaatama. Siis lähen tagasi Akropoli muuseumi ja vaatan nende valgeid koopiaid.
+2561	Üks friis, kaks linna. Võib-olla kunagi jälle üks linn.
+2562	Punane telefoniputka, 1935. aastal kujundatud mudel K6. Tänapäeval on mõnes defibrillaatorid, teistes väikesed raamatukogud.
+2563	Londoni metroo avati 1863: maailma esimene maa-alune raudtee. „Mind the gap!”
+2564	Pärast Brexitit lahkus Ühendkuningriik Erasmusest. 2025. aasta detsembris leppis ta kokku, et liitub taas alates 2027. aastast. Mu väike õde saab õppida Bolognas!
+2565	Hollandi tolliametnik
+2566	Alates 1. jaanuarist 2021 on Ühendkuningriik väljaspool ELi toll- ja veterinaarreegleid: reisijad ei tohi enam tuua ELi liha ega piimatooteid.
+2567	Sel kuul pidid mu kolleegid Hook of Hollandis konfiskeerima singivõileibu. „Welcome to the Brexit, sir, I’m sorry.”
+2568	Hommikune praam võtab peale. Aitad lõunakarpe kontrollida?
+2569	Veel üks praam, veel sada lõunakarpi. Aitad jälle?
+2570	Ainsamgi singivõileib ei pääsenud läbi. Siin, võta juustuta ja singita tasu.
+2571	Tõhus ja viisakas. Sinust saaks hea tolliametnik.
+2572	Salaami jõudis üle La Manche’i… Veterinaarinspektorid soovivad sinuga sõna vahetada.
+2573	Veokijuht
+2574	Enne Brexitit sõitsin veokiga üle ilma peatumata. Nüüd: tollideklaratsioonid, tervisetõendid, kontrollid. Olen lugenud rohkem vorme kui romaane.
+2575	Kampaaniabuss. 2016. aastal lubas selle külg 350 miljonit naela nädalas riiklikule tervishoiuteenistusele.
+2576	2017. aastal nimetas Ühendkuningriigi statistikaameti juht seda arvu „ametliku statistika selgeks väärkasutuseks”.
+2577	Linnuvaatleja
+2578	Suulad sukelduvad merre peaaegu saja kilomeetri tunnikiirusega. Maailma suurim koloonia asub Bass Rockil Šotimaal.
+2579	EKP pani ühe 200 euro sedeli finalistikavandile: avameri, tiivad kokku, pladin.
+2580	Maletaja
+2581	Széchenyi termaalvann, 1913: üks Euroopa suurimaid raviveevanne. Mängime siin malet, õlani kuumas vees.
+2582	Ungari andis maailmale Judit Polgári, kõigi aegade tugevaima naismaletaja: suurmeister viieteistaastaselt, ja 2002. aastal alistas ta Kasparovi.
+2583	Kolm seisu, igaühes mati ühe käiguga. Leiad need üles, enne kui vesi jahtub?
+2584	Uued seisud ujuval laual. Veel üks ring?
+2585	Kolm matti! Mängid nagu suurmeister hommikumantlis. Võta see.
+2586	Matt, matt, matt. Aur paneb kiiremini mõtlema.
+2587	Vesi jahtus… Järgmisel korral otsi käiku, mis ei jäta kuningale ühtegi ruutu.
+2588	Varemebaarid: endise juudi kvartali vanad siseõued, muudetud baarideks, kus mööbel ei sobi kokku. Esimesed avati 2000. aastate alguses.
+2589	Baarman
+2590	Egészségedre! See on ungari keeles terviseks. Proovi seda öelda pärast teist klaasi fröccsi: vein ja sooda.
+2591	Lángose müüja
+2592	Lángos: praetud tainas, küüslauk, hapukoor ja riivjuust. Mitte dieet. Traditsioon.
+2593	Rubiku kuubiku leiutas Budapestis 1974. aastal Ernő Rubik, et õpetada oma üliõpilastele ruumi. Mina lahendasin selle kahe minutiga. Või ühe külje.
+2594	Kingad Doonau kaldal (2005). Kuuskümmend paari raudkingi meenutavad Budapesti juute, kelle nooleristlased 1944. ja 1945. aastal sellel kaldal maha lasid ja jõkke heitsid.
+2595	Kettsild, avatud 1849: esimene püsisild Buda ja Pesti vahel, kavandanud inglise insener William Tierney Clark.
+2596	Selle kivilõvidel pole keelt… nagu legend räägib. Vaata lähemalt.
+2597	Kalurite bastion Lossimäel: seitse torni, seitsme Karpaatide basseini asustanud magüaari hõimu auks.
+2598	Mesilasenäpid! Euroopa värvikaimad linnud. Nad kaevavad pesad liivastesse jõekallastesse ja püüavad mesilasi lennult.
+2599	Ungaris on mõned suurimad kolooniad. EKP finalistide kavanditel kaunistab 20 euro sedelit nende koloonia.
+2600	Keeleteadlane
+2601	Ungari keel ei ole naaberkeeltega sugulane: see kuulub uurali keelkonda, nagu soome ja eesti keel.
+2602	Ja perekonnanimi tuleb esimesena: Rubik Ernő, Polgár Judit. Lihtne meelde jätta, raske hääldada.
+2603	Budapestis sündinud László Bíró patenteeris tänapäevase kuulpliiatsi 1938. aastal. Paljudes riikides kutsutakse pliiatsit siiani „biro’ks”.
+2604	Salon de l’Horloge. 9. mail 1950 kell 18 luges Prantsuse välisminister Robert Schuman siin ette deklaratsiooni, mis tegi ettepaneku ühendada Prantsuse ja Saksa kivisüsi ja teras.
+2605	See viis 1951. aastal Euroopa Söe- ja Teraseühenduseni, tänase ELi esimese sammuni. Iga 9. mai on Euroopa päev.
+2606	Arhiiv on deklaratsiooni lehed segi ajanud! Ajakirjanikud saabuvad. Paned laused õigesse järjekorda?
+2607	Lehed on jälle segamini. Aitad mind?
+2608	Sõna-sõnalt! Härra Schuman oleks sulle kätt surunud. Võta see, ministeeriumi poolt.
+2609	Täiuslikus järjekorras. Euroopat ei ehitata korraga, aga sina oled kiire.
+2610	Mitte päris… Pea meeles: kõigepealt rahu, siis konkreetsed saavutused, siis kivisüsi ja teras.
+2611	Marie Curie, sündinud Maria Skłodowska Varssavis, sai 1906. aastal Sorbonne’i esimeseks naisprofessoriks. Ta võitis kaks Nobeli preemiat, füüsikas ja keemias.
+2612	Tema on EKP „Euroopa kultuuri” finalistide kavandite 20 euro kuju.
+2613	Pagar
+2614	Alates 2022. aastast on Prantsuse baguette’i valmistamise oskus UNESCO vaimse kultuuripärandi nimekirjas. Jahu, vesi, sool, pärm. Ja natuke kannatust.
+2615	Un café, s’il vous plaît! Pariisis on „café” espresso. Kui tahad suurt tassi, pead seda ütlema. Valjusti.
+2616	Bukinist
+2617	Müüme nendel kaidel kasutatud raamatuid alates 16. sajandist. Sadu rohelisi kaste, mööda Seine’i kilomeetreid.
+2618	Notre-Dame de Paris. 15. aprillil 2019 tulekahjus kahjustada saanud, avati see uuesti 7. detsembril 2024 pärast viieaastast tööd.
+2619	Külastaja
+2621	Mõnel talvel tuleb kaljukleepija mägedest alla Meuse’i oru kaljudele. Hall lind karmiinpunaste tiibadega, nagu liblikas.
+2622	See on 5 euro sedeli lind EKP finalistide kavanditel: mäeallikas ja kaljukleepija.
+2623	Kalamees
+2624	Näed seda sinist välku Moseli jõel? Jäälind. Ta sukeldub oksalt ja tuleb kalaga tagasi.
+2625	EKP finalistide kavanditel on ta 10 euro sedeli lind, joa all.
+2626	Antwerpen on Euroopa suuruselt teine sadam. Ja mööda Schelde’t, kohe kraanade kõrval, pesitsevad säbruvaresed looduskaitsealadel.
+2627	Must-valge, üles kaardunud nokaga: 100 euro sedeli lind EKP finalistide kavanditel, jõe suudmes.
+2628	Varssavilane
+2629	Maria Skłodowska, Marie Curie, sündis siin Varssavis, 1867. aastal. Ta nimetas elemendi poloonium oma riigi järgi.
+2630	Meie vanalinn sõideti 1944. aastal maatasa ja ehitati kivi haaval üles: see on UNESCO nimekirjas alates 1980. aastast.
+2631	Leonardo da Vinci elas Roomas aastatel 1513–1516, Vatikanis, enne kui lahkus Prantsusmaale.
+2632	Tema on EKP „Euroopa kultuuri” finalistide kavandite 100 euro kuju.
+2633	Professor
+2634	Siin 2007. aastal allkirjastatud Lissaboni leping lõi artikli 50: ELi lahkumise korra. Ühendkuningriik oli esimene, kes seda kasutas.
+2635	Samuti Lissabonist: pastéis de nata, Jerónimose munkade retsepti järgi. Palju populaarsem kui artikkel 50.
+2636	Vana meremees
+2637	1571. aastal peeti Patrase lahes, siin Kreekas, Lepanto lahing. Üks noor Hispaania sõdur kaotas seal vasaku käe kasutamise.
+2638	Tema nimi oli Miguel de Cervantes. Ta kirjutas hiljem „Don Quijote”. Tema on EKP kultuurikavandite 50 euro kuju!
+2639	Nurgas on EKP kujundusžürii templiga postkaart: üks tulevaste pangatähtede kaheteistkümnest motiivist. Jätad selle endale.
+2640	Briti Muuseum – Ruum 18
+2641	Bocki kasemattid – Sissepääs
+2642	Strasbourgi katedraal
+2643	Palais de l’Europe – Euroopa Nõukogu
+2644	Praamiterminal – ELi toll
+2645	Varemebaar – Budapest
+2646	Quai d’Orsay – Salon de l’Horloge
+2647	Boulangerie – Pariis
+2648	Punane
+2649	Kollane
+2650	Valge
+2651	Oranž
+2652	Lillevaip
+2655	Kavand
+2656	Kolm begooniavaipa! Belgia kasvatab suurema osa maailma mugulbegooniatest, Genti ümbruses.
+2657	Turistid saabuvad ja vaip pole valmis… Järgmisel korral!
+2658	Elsassi toonekured
+2661	Kured kodus: %d / %d · kadunud: %d / 3
+2662	Kümme toonekurge pesades! Elsassis öeldakse, et toonekurg katusel toob õnne.
+2663	Liiga palju toonekurgi lendas järgmisse külla… Nad tulevad tagasi järgmisel kevadel.
+2664	Singivõileib
+2665	Piim
+2666	Salaami
+2667	Õun
+2668	Šokolaadibatoon
+2669	Krõpsud
+2670	Küpsised
+2671	ELi toll
+2674	Liha, piim, enamik puuvilju: konfiskeeri.
+2675	Banaan, maiustused, krõpsud, vesi: lase läbi.
+2676	Lase läbi
+2677	Konfiskeeri
+2678	Kõik lõunakarbid kontrollitud! ELi ühtsel turul liigub toit vabalt; selle piiridel kontrollitakse seda.
+2679	Salaami lipsas läbi… või konfiskeeriti ekslikult banaan. Reeglid enne, võileib hiljem!
+2685	Male vannides
+2688	Valge käib ja mattib ühe käiguga
+2689	K kuningas · Q lipp · R vanker · B oda · N ratsu · P ettur
+2691	Vesi jahtus enne matti… Otsi käiku, mis ei jäta kuningale ühtegi ruutu.
+2692	Maailma rahu ei ole võimalik säilitada
+2694	Euroopa ei teki korraga ega ühe plaani järgi.
+2698	Schumani deklaratsioon
+2701	Deklaratsioon on valmis! Euroopa Söe- ja Teraseühendus järgnes 1951. aastal. Iga 9. mai on Euroopa päev.
+2702	Ajakirjanikud ootavad ja lehed on endiselt segamini… Kõigepealt rahu, siis konkreetsed saavutused!
+2703	Bocki kasemattid
+2706	Külastaja järgneb sulle: nüüd väljapääs!
+2707	Kuskil pimeduses hüütakse…
+2708	Päevavalgel, külastajaga! Bombardeerimiste ajal leidis neis galeriides varju kuni 35 000 inimest.
+2709	Taskulamp kustus… Giid järgib sinu häält ja viib teid mõlemad välja.
+2710	ilma loovate jõupingutusteta, mis oleksid võrdelised seda ähvardavate ohtudega.
+2713	Ta kujuneb konkreetsete saavutuste kaudu, mis loovad esmalt tegeliku solidaarsuse.
+2714	Prantsuse-Saksa kivisüsi ja teras pannakse ühise Kõrgema Ametiasutuse alla…
+2715	…et sõda Prantsusmaa ja Saksamaa vahel muutuks materiaalselt võimatuks.
+2716	Enne trükiplaadi puutumist tõesta, et märkad võltsingut! Kontrolli iga sedelit EKP viisil: KATSU kõrgendatud trükki, VAATA seda valguse vastu, KALLUTA seda. Hinda 10 sedelit, üks viga lubatud.
+2717	Sachsenhauseni kõrtsis vala õunavein Bembelist iga klaasi joonele! Hoia pliiatsit (või A) kannu kallutamiseks, lase lahti peatamiseks, siis serveeri nupuga. 8 klaasi, 2 mahavalgumist lubatud.
+2718	Kaheksa täiuslikku klaasi! Siin Frankfurdis kutsutakse õunaveini „Ebbelwoi’ks”.
+2719	Syntagma väljak, Tundmatu sõduri haud. Liigu evzonidega rütmis: SAMM, LÖÖK, TRAMPI, kui iga märk joonele jõuab. 24 käiku, aeglaselt ja pidulikult. 4 viga lubatud.
+2720	Tipptund kioskis! Iga klient küsib kreeka keeles: puuduta, mida ta tahab. Sosistan esimeste puhul tähenduse. 15 klienti 60 sekundiga!
+2721	Lae kolm laeva enne keskpäeva! Liiguta kraanat pliiatsiga või ←/→, lase maha A-ga või puudutusega. Raske (R) mitte kunagi kergema peale, külmkonteinerid (valged) ainult kahele toitega veerule (pistikud), ja hoia laev tasakaalus!
+2722	Kopeeri ülemisel ekraanil näidatud begooniavaip: vali värv, siis puuduta või lohista üle ruutude. Vajuta Valmis, kui see klapib. Kolm vaipa 90 sekundiga!
+2723	Toonekured on Aafrikast tagasi! Juhi igaüks tühja pessa: libista pliiatsit üles-alla (või ↑/↓) ja lenda madalalt vaba pesa kohal, et maanduda. Väldi elektriliine. 10 toonekurge, 3 kaotust lubatud.
+2724	Praam on dokkinud! Kontrolli iga lõunakarpi: KONFISKEERI liha, piimatooted ja enamik puuvilju, LASE LÄBI ülejäänu. Ettevaatust: banaan on lubatud, õun ei. 20 karpi 50 sekundiga, 2 viga lubatud.
+2725	Széchenyi vannid: mängijad kummarduvad auru sees hõljuva laua kohale. Valge käib: leia käik, mis mattib kohe. Puuduta valget nuppu, siis selle ruutu. Kolm seisu 90 sekundiga!
+2726	9. mai 1950, Salon de l’Horloge. Robert Schumani deklaratsiooni lehed on segi! Puuduta lauseid õiges järjekorras enne pressikonverentsi. 60 sekundit.
+2727	Galeriid on pimedad ja taskulamp põleb alla. Leia kadunud külastaja, siis väljapääs! Liigu juhtristiga või puuduta oma tegelase kõrval. 75 sekundit.
+2728	Kolm matti! Vannides öeldakse, et kaotaja peab veest esimesena välja minema.
+2729	Uus tammepuust raam raiuti käsitsi, nagu keskajal. Puusepad ja kivitahujad üle kogu Prantsusmaa töötasid selle kallal.
+2730	Esikülg
+2731	Tagakülg

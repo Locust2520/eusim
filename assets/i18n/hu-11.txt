@@ -1,0 +1,19 @@
+# Hungarian — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Bélyegezz le 15 érvényes ítéletet 30 másodperc alatt. A „HAMIS” jelölésű papírokat hagyd átmenni: ha lebélyegzel egyet, elveszted a kört!
+2087	ÍTÉLET
+2088	ÍTÉLET: bélyegezd. HAMIS: hagyd átmenni.
+2089	Tizenöt érvényes ítéletet lebélyegeztél! A hivatal büszke rád.
+2090	Egy rossz iratot bélyegeztél le! Ellenőrizz, mielőtt jóváhagysz…
+2091	A tizenöt érvényes ítélet nincs meg. Az iktató zár. Próbáld újra…
+2092	Itt a mai köteg. Tizenöt érvényes ítéletet kell lebélyegeznünk, mielőtt az iktató bezár. Vigyázz, rossz iratok is becsúsztak! Segítesz egy kicsit?
+2093	Az iktató nem tudja jóváhagyni ezt a köteget. Tizenöt érvényes ítélet kell, és egyetlen rossz irat sem lehet lebélyegezve. Próbáld újra, amikor akarod.
+2094	Újabb tizenöt rendben lévő ítélet! A második sikeredért itt egy minősített bélyegző.
+2095	Hibátlan! Maradt még egy minősített bélyegzőm számodra. Luxemburg szereti a módszeres embereket.
+2096	Hibátlan! De most nincs bélyegzőm neked. Gyere vissza, és segíts újra!
+2097	A másik játékos kiküldi: %s!
+2098	Érvénytelen csapat vagy kapcsolat.
+2099	Baráti vitában nem használhatsz tárgyakat.
+2100	Megnyered ezt a baráti vitát!
+2101	A másik játékos megnyeri ezt a baráti vitát!
+2102	A vita véget ért, vagy megszakadt a kapcsolat.
+2105	A mentés sikertelen. Próbáld újra.

@@ -1,0 +1,516 @@
+# Swedish — city extensions (ids 2169+)
+2169	FALSK
+2171	%d s · %d/%d
+2172	Upphöjda linjer längs kanterna: du kan känna dem.
+2173	Papperet är slätt överallt…
+2174	Känn
+2175	Titta
+2176	Luta
+2177	Kontrollera, bestäm sedan:
+2178	Äkta
+2179	Falsk
+2180	L/R: luta · X: mot ljuset · Y: känn
+2181	Känn, titta, luta
+2184	Det var %s: den upphöjda tryckningen saknades.
+2185	Det var %s: ingen vattenstämpel mot ljuset.
+2186	Det var %s: numret bytte inte färg.
+2187	en förfalskning
+2188	Det var en äkta sedel!
+2189	Ingen förfalskning kom igenom! I vattenstämpeln såg du Europa, från en grekisk vas som är över 2 000 år gammal.
+2190	En förfalskning slank förbi… Känn, titta, luta: de tre kontrollerna tar bara några sekunder.
+2191	Bembeln
+2194	Servera
+2196	För många spillda glas… Krögaren lånar ut en trasa.
+2203	gatumusikanter
+2204	en sångfestival
+2205	en skola
+2206	ett bibliotek
+2207	gatukonst
+2208	ett torg kantat av träd
+2209	en murklättrare vid en bergskälla
+2210	en kungsfiskare vid ett vattenfall
+2211	biätare i en floddal
+2212	en vit stork vid en slingrande flod
+2213	en skärfläcka vid en flodmynning
+2214	en havssula över havet
+2215	Europaparlamentet
+2216	Europeiska kommissionen
+2217	Europeiska centralbanken
+2218	Europeiska unionens domstol
+2219	Europeiska rådet och Europeiska unionens råd
+2220	Europeiska revisionsrätten
+2221	Fram: ditt porträtt i stället för %s
+2222	Bak: %s
+2223	Fram: %s
+2224	Provsedel – %d €
+2225	Inte lagligt betalningsmedel: det här är ett designprov.
+2227	L/R eller tryck: vänd · B: stäng
+2228	Ljus
+2229	Medel
+2230	Mörk
+2231	Sudd
+2234	Ångra
+2235	Rensa
+2236	Klar
+2237	Rita ditt porträtt
+2238	Studion graverar det som ett sedelporträtt.
+2239	Din provsedel
+2240	Europeisk kultur
+2241	Floder och fåglar
+2242	Vänd
+2243	Nytt porträtt
+2244	Tryck provsedeln
+2245	Trycker…
+2246	Ditt porträtt till provsedeln
+2247	DSi-kameran, pennan eller ditt officiella foto.
+2248	Pennan eller ditt officiella foto.
+2249	Ta ett foto
+2250	Rita mitt porträtt
+2251	Använd mitt officiella foto
+2252	Kameran kan inte användas här. Du kan rita ditt porträtt i stället.
+2253	Din provsedel kom med i samlingen på Pengamuseet i Frankfurt.
+2254	I Frankfurt behåller ECB:s studio fortfarande en blank provsedel med ditt namn på.
+2255	Startar kameran…
+2256	Placera ansiktet i ovalen
+2257	A eller tryck: ta foto · L/R: annan kamera · B: tillbaka
+2258	Graveringstest
+2259	Ta om
+2260	Behåll
+2261	Mellan oss: euron blev kontanter, i folks fickor, 2002. Några dörrar i det här tornet minns fortfarande det året.
+2262	Eurosymbolen av konstnären Ottmar Hörl, avtäckt 2001 framför ECB:s forna torn.
+2263	Några veckor senare, den 1 januari 2002, nådde eurosedlar och euromynt människors fickor i tolv länder.
+2264	Minnesmärke vid Grossmarkthalle.
+2265	Mellan 1941 och 1945 deporterades omkring 10 000 judiska män, kvinnor och barn från Frankfurt och regionen från källaren i den här saluhallen till getton och läger. De flesta av dem mördades.
+2266	Staden Frankfurt, den judiska församlingen och ECB, vars huvudkontor nu omfattar hallen, skapade tillsammans det här minnesmärket.
+2267	Römer, Frankfurts rådhus sedan 1405. I dess kejsarsal höll nykrönta kejsare av Tysk-romerska riket sina kröningsbanketter.
+2268	Korsvirkeshus på Römerberg. Bomber förstörde gamla stan 1944; den här raden byggdes upp på 1980-talet, bjälke för bjälke.
+2269	Rättvisefontänen. Titta noga: den här Justitia håller sin våg och sitt svärd, men bär ingen ögonbindel.
+2270	De kallar den här staden ”Mainhattan”: skyskrapor vid floden Main. Jag har räknat elva byggkranar och fyra banker. Eller tvärtom.
+2271	1848 och 1849 sammanträdde det första fritt valda parlamentet för hela Tyskland i den här kyrkan.
+2272	Det skrev en författning med grundläggande rättigheter. Den trädde aldrig i kraft, men senare tyska författningar byggde på den.
+2273	Guide
+2274	Hallen har fortfarande sina stora dagar: varje oktober delas Tyska bokhandelns fredspris ut här.
+2275	Tjuren anfaller med hornen uppåt: stigande marknad.
+2276	Björnen slår med tassen nedåt: fallande marknad.
+2277	DAX-tavlan. Tysklands mest kända aktieindex lanserades här 1988.
+2278	Köp ryktet, sälj nyheten. Och sälj aldrig, aldrig ditt paraply i april.
+2279	Johann Wolfgang von Goethe föddes i det här huset den 28 augusti 1749. Han arbetade på Faust i ungefär sextio år.
+2280	Hans namn reser nu världen över: Goethe-Institut undervisar i tyska i nästan hundra länder.
+2281	Messeturm reser sig över mässområdet. Varje oktober hålls Frankfurtmässan här, världens största bokmässa.
+2282	Läsare
+2283	Jag kom för bokmässan och blev kvar för den gröna såsen. Jag har läst tre böcker och ätit fem såser.
+2284	Eiserner Steg över Main, byggd 1869. Tusentals hänglås hänger på dess räcken: de älskandes löften.
+2285	Par
+2286	Vi satte fast vårt hänglås på bron och kastade nyckeln i Main. Nu återstår att avgöra vems idé det var.
+2287	Frankfurtbo
+2288	På andra sidan ligger Sachsenhausen. Där dricker vi Ebbelwoi, äppelvin. Ingen säger cider här, förresten.
+2289	En grankrans hänger över dörren: tecknet på att krogen pressar och serverar eget äppelvin.
+2290	Värdinna
+2291	Guten Abend! Äppelvin hälls från Bembeln, den grå stengodskannan, i en Gerippte, glaset med rutmönster.
+2292	I kväll har jag fullt hus och två händer. Du fyller glasen, så bär jag ut dem?
+2293	Lust på en runda till bakom disken?
+2294	Inte en droppe på mina bord! Här, ta det här, och kom tillbaka när du vill.
+2295	Perfekt igen. Du skulle kunna öppna din egen krog. Häng bara en grankrans över dörren.
+2296	Ach, borden simmar! Strunt samma, vi torkar upp.
+2297	Stamgäst
+2298	Handkäs mit Musik: surmjölksost marinerad med lök. Musiken kommer senare. Fråga inte.
+2299	Grön sås kräver exakt sju örter: gurkört, körvel, krasse, persilja, pimpinell, ängssyra och gräslök.
+2300	Sedan 2016 skyddar EU ”Frankfurter Grüne Soße” som geografisk beteckning. Sju örter, varken fler eller färre.
+2301	En äkta guldtacka på 12,5 kilo som besökare får lyfta. De flesta klarar några centimeter.
+2302	Från snäckor till mynt, från mynt till papper, från papper till euron: tretusen år av pengar på några hyllor.
+2303	Intendent
+2304	Bundesbank är Tysklands centralbank. Sedan 1999 ingår den i Eurosystemet, tillsammans med ECB och euroområdets övriga centralbanker.
+2305	Jag hör att du har en provsedel med ditt ansikte på. När ditt äventyr är över vill vi gärna ha den till vår samling.
+2306	Ett porträtt av Europa, prinsessan ur grekisk myt som gav kontinenten dess namn.
+2307	Hennes ansikte kommer från en grekisk vas som är över 2 000 år gammal, förvarad på Louvren. Håll en eurosedel mot ljuset: hon finns i vattenstämpeln.
+2308	Bakom ramen lyser en liten knappsats. Fyra siffror.
+2309	Knappa in en kod?
+2310	Knappsatsen blinkar rött. Någonstans på börsgolvet suckar någon.
+2311	Klick. Målningen svänger upp och avslöjar en smal trappa som leder nedåt…
+2312	Gå ner till den hemliga studion?
+2313	En verkstad full av staffli, graveringsverktyg och en tung press. På dörren: ”Sedeldesign – konfidentiellt”.
+2314	Tema ”Europeisk kultur”: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) och Bertha von Suttner (200 €).
+2315	På baksidan: platser där kultur delas. Gatumusikanter, en sångfestival, en skola, ett bibliotek, gatukonst, ett torg kantat av träd.
+2316	Tema ”Floder och fåglar”: från en bergskälla (5 €) till öppet hav (200 €), med en murklättrare, en kungsfiskare, biätare, en vit stork, en skärfläcka och en havssula.
+2317	På baksidan: EU:s institutioner, från Europaparlamentet till Europeiska revisionsrätten.
+2318	De tio finalförslagen: EC145, EC564, EC617, EC799, EC915 och RB120, RB227, RB637, RB754, RB832.
+2319	Formgivarnas namn hålls hemliga. Efter en offentlig enkät gör ECB-rådet det slutliga valet.
+2320	En djuptryckspress. Den pressar in bläck i papperet så hårt att det står i relief: det är den upphöjda tryckningen du kan känna på en äkta sedel.
+2321	Specifikationer: samma storlekar som dagens sedlar, en dominerande färg per valör, och på varje sedel EU-flaggan, en karta över Europa och ECB-ordförandens signatur.
+2322	Jurymedlem
+2323	2025 svarade över 1 200 formgivare på ECB:s upprop. Trettionio förslag nådde juryn; tio står på de här stafflierna.
+2324	Målet är att ersätta påhittade broar och fönster med riktiga människor, riktiga fåglar och riktiga platser.
+2326	Kaliméra! Jag är Eleni, gravör i djuptryck. Jag lärde mig yrket på Greklands centralbanks sedeltryckeri i Aten.
+2327	Officiellt trycker ECB inte en enda sedel: den utformar dem, och tryckerier runt om i Europa tillverkar dem.
+2328	Just nu förbereder vi nästa eurosedlar. 2026 utsåg en jury tio förslag inom två teman: europeisk kultur, samt floder och fåglar.
+2329	Innan det slutliga valet måste jag testa graveringen på ett riktigt ansikte. Eurosedlar har aldrig visat en levande person… så din förblir en provsedel.
+2330	Men ingen rör mina tryckplåtar utan att klara provet. Känn, titta, luta: visa att du kan skilja en äkta sedel från en förfalskning.
+2331	Redo?
+2332	Bravo! Du har en centralbankirs öga. Nu ditt porträtt.
+2333	En ny provsedel? Pressen är fortfarande varm.
+2334	Där har du den, graverad! Ser du serienumret? Första bokstaven, Y, är Greklands centralbanks kod. Min lilla signatur.
+2335	Visa upp den. Och spara spelet i Rapport, så att din sedel stannar hos dig.
+2336	En förfalskning slank igenom. Känn, titta, luta: det tar bara några sekunder. Kom tillbaka när du är redo.
+2337	Ta din tid. En bra gravyr kan inte skyndas på.
+2338	Äppelvinskrog – Sachsenhausen
+2339	ECB – Sedeldesignstudio
+2340	Frankfurtbörsen
+2341	Bundesbanks pengamuseum
+2342	Goethehuset – Frankfurt
+2343	Paulskirche – Plenisal
+2344	Provsedel
+2345	Ditt porträtt, graverat i ECB:s studio i Frankfurt. Inte lagligt betalningsmedel.
+2346	Äppelvinskrog, Sachsenhausen
+2348	Håll för att luta Bembeln, släpp för att stoppa. Servera vid strecket.
+2349	Vaktavlösningen
+2352	Steg
+2353	Spark
+2354	Stampa
+2355	Rörelser: %d / 24 · fel: %d
+2356	←: steg · →: spark · A/↓: stampa
+2357	I perfekt takt! Evzonerna avlöser vakten varje timme, dag och natt, i alla väder.
+2358	Ur takt… Evzonerna tränar i månader före sitt första vaktpass.
+2359	Frappé
+2360	Vatten
+2361	Tidning
+2362	Koulouri
+2363	Oroshelmar
+2364	Mati
+2365	Bussbiljett
+2366	Tuggummi
+2367	(En frappé, tack!)
+2368	(Ett vatten, tack!)
+2369	(En tidning, tack!)
+2370	(En koulouri, sesambrödringen, tack!)
+2371	(Oroshelmar, tack!)
+2372	(En liten amulett mot onda ögat, tack!)
+2373	(En biljett, tack!)
+2374	(Tuggummi, tack!)
+2375	Periptero
+2378	Femton nöjda kunder! Ευχαριστώ (efcharistó) betyder tack.
+2379	Kön når nästa gata… Σιγά σιγά (sigá sigá): sakta, sakta.
+2380	Hamnen i Pireus
+2383	T
+2384	Fartyg %d/3 · containrar %d/%d
+2385	Tid: %d s · fel: %d/3
+2386	Slagsida
+2387	Tre fartyg lastade och i våg! Pireus är en av de största containerhamnarna i Medelhavet.
+2388	Hamnkaptenen stoppar lastningen: fartyget är inte säkert. Stapla om och försök igen!
+2389	Den okände soldatens grav (1932), nedanför parlamentet. Evzonerna i presidentgardet vakar över den dag och natt.
+2390	Torget heter Syntagma, ”Konstitutionen”: 1843 samlades atenarna här tills kung Otto gav dem en.
+2391	Evzonen rör sig inte. Inte ens en ögonfrans.
+2392	Hans tsarouchia, de röda träskorna med svarta tofsar, väger ungefär tre kilo styck, med sextio spikar i sulorna. Hans vita kilt, fustanellan, har 400 veck: ett för varje år av osmanskt styre, enligt traditionen.
+2393	Evzonsergeant
+2394	Varje timme avlöses vakten. Långsamma steg, en hög spark, träskorna som slår mot marmorn: två män rör sig som en.
+2395	En rekryt saknas i dag. Följer du takten med mig?
+2396	Ännu en vaktavlösning?
+2397	Inte ett steg ur takt. Μπράβο (brávo)! Ta det här, från vakten.
+2398	Μπράβο (brávo)! På söndagar klockan elva paraderar hela kompaniet i ceremoniell klädsel. Kom och se.
+2399	Dina träskor och trumman var oense. Det krävs månader av träning. Igen i morgon?
+2400	Kioskägare
+2401	Γεια σας (yia sas, hej)! En periptero säljer allt: tidningar, vatten, bussbiljetter, telefonkort, tuggummi, oroshelmar…
+2402	Min brorson kom inte. Kan du sköta disken? Kunderna talar grekiska, men jag viskar vad det betyder.
+2403	Rusning igen! Hjälper du mig?
+2404	Ευχαριστώ (efcharistó, tack)! Nu talar du kioskiska. Varsågod, det bjuder jag på.
+2405	Ευχαριστώ (efcharistó)! Kön är borta på rekordtid.
+2406	Σιγά σιγά (sigá sigá), sakta, sakta. Det är också ett grekiskt ordspråk.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): en medelsöt frappé, tack. Iskaffe vispat till skum.
+2408	Den uppfanns av en slump 1957 på internationella mässan i Thessaloniki: en försäljare hade inget hett vatten och skakade sitt snabbkaffe med kallt vatten.
+2409	Syntagmas tunnelbanestation. När tunnelbanan grävdes på 1990-talet hittade arkeologerna tiotusentals föremål. Några visas i själva stationen.
+2410	Den 28 oktober är Ochi-dagen (όχι, óchi, ”nej”). 1940 sa Grekland nej till Mussolinis ultimatum; varje år marscherar skolbarn på gatorna.
+2411	Ska inte förväxlas med OXI i folkomröstningen 2015. Två berömda grekiska ”nej”, sjuttiofem år emellan.
+2412	Drachman: ett myntnamn från antikens Grekland, återinfört 1832 för den unga grekiska staten och ersatt av euron 2002.
+2413	Greklands euromynt visar Athenas uggla, kopierad från ett antikt atenskt mynt, fyradrachmemyntet.
+2414	Greklands centralbank har ett eget tryckeri: där trycks också eurosedlar.
+2415	På sedlarna i Europa-serien visar den första bokstaven i serienumret vilken centralbank som beställde dem. Vår är Y.
+2416	Ett Y på din provsedel? Då är du välkommen hem!
+2417	Anafiotika: på 1800-talet kom byggare från ön Anafi för att arbeta på kungliga slottet och byggde sig en liten kykladisk by här, under Akropolis.
+2418	Μιάου (miáou). Aten har tusentals gatukatter; grannar och frivilliga matar dem, till och med bland ruinerna.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Har du ätit? Du har gått ner i vikt. Sitt. Ät.
+2421	Yiayia matade hela ditt lag tills ingen kunde röra sig. Alla är i toppform igen.
+2422	Γιαγιά (yiayiá) betyder mormor eller farmor. Och en yiayia tror aldrig på dig när du säger att du är mätt.
+2423	Granne
+2424	Χρόνια πολλά (chrónia pollá)! Många år! I dag är det min namnsdag.
+2425	I Grekland firar vi ofta festen för helgonet vi är uppkallade efter mer än vår födelsedag. Halva gatan heter Giorgos: föreställ dig Sankt Georgs dag.
+2426	Ναι (nai) betyder ja! För turister låter det som ”nej”. Och όχι (óchi) betyder nej.
+2427	Om jag lutar huvudet bakåt och klickar med tungan betyder det också nej. Enkelt!
+2428	Försäljare
+2429	Μάτι (máti), ögat! Ett blått glasöga skyddar dig mot onda ögat, otur som kommer av avund.
+2430	Om någon berömmer din Euromon, säg ”φτου φτου” (ftou ftou), som om du spottade. Det ger tur. Spotta inte på riktigt.
+2431	Ostförsäljare
+2432	Feta har skyddad ursprungsbeteckning sedan 2002: äkta feta görs i Grekland av fårmjölk, ibland med lite getmjölk.
+2433	Tyskland och Danmark överklagade till EU-domstolen. 2005 sa domstolen: feta är grekisk.
+2434	Grillkock
+2435	Souvlaki! I Aten är det kött på spett. I Thessaloniki kallar de samma sak kalamaki, ”liten pinne”.
+2436	Be om en ”souvlaki” i Thessaloniki så får du en pita gyros. Familjer har splittrats för mindre.
+2437	Musikant
+2438	Alla tror att sirtaki är en gammal folkdans. Den uppfanns för filmen ”Alexis Zorbas” 1964, till musik av Mikis Theodorakis.
+2439	Först långsamt, sedan snabbare och snabbare… Opa!
+2440	Monastirakis station. Linje 1 följer järnvägen Aten–Pireus, öppnad 1869: nätets äldsta linje.
+2441	Ta tåget till hamnen i Pireus?
+2442	Herodes Atticus odeon, byggd år 161 e.Kr. 1944 sjöng en ung sopran som studerat vid Atens konservatorium Beethovens ”Fidelio” här: Maria Callas.
+2443	Callas och Beethoven finns båda bland finalförslagen till nästa eurosedlar, på 5- och 10-eurosedlarna i kulturtemat.
+2444	De här vita plattorna är gipsavgjutningar. Originalen finns på British Museum i London sedan 1816.
+2445	Grekland har officiellt krävt att få tillbaka dem sedan 1983. Museet håller deras platser redo, bredvid originalbitarna.
+2446	Ett originalblock ur Parthenonfrisen: ryttare i den panathenaiska processionen, huggna omkring 440 f.Kr.
+2447	Akropolismuseet öppnade 2009. Den här översta våningen är vriden så att den ligger i linje med Parthenon, som du ser genom glaset.
+2448	Frisen löper hela vägen runt, i sin ursprungliga ordning. Honungsfärgad marmor: här. Vit gips: i London.
+2449	Zappeion. Här undertecknade Grekland den 28 maj 1979 sitt anslutningsfördrag till Europeiska gemenskaperna.
+2450	Det blev den tionde medlemmen den 1 januari 1981. Euron följde 2001, ett år före mynten och sedlarna.
+2451	Melina Mercouri (1920–1994), skådespelerska, sedan kulturminister. Hon föreslog Europas kulturhuvudstad: Aten blev den första, 1985.
+2452	Hon startade också kampanjen för att få tillbaka Parthenonskulpturerna.
+2453	Panathenaiska stadion, den enda stora stadion i världen byggd helt av marmor. De första moderna olympiska spelen hölls här 1896.
+2454	Vartannat år överlämnas den olympiska elden här till nästa värdstad.
+2455	Containerterminal som drivs av COSCO Shipping. Den kinesiska koncernen köpte 51 % av Pireushamnens hamnmyndighet 2016, och 67 % 2021.
+2456	Hamnvakt
+2457	Containerterminalen är stängd för besökare. Passagerarhamnen är helt din.
+2458	Inte den här vägen, tack: containerterminal.
+2459	Pireusstationen, ändstation för linje 1. Byggnaden är från 1929.
+2460	Ta tåget tillbaka till Aten?
+2461	Stenar från Pireus murar. På 400-talet f.Kr. gjorde Themistokles Pireus till Atens hamn, och Långa murarna band samman de två städerna.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), ”Pireus barn”! Manos Hadjidakis skrev den för filmen ”Aldrig på söndagen” (1960), med Melina Mercouri i huvudrollen.
+2463	Den vann Oscar för bästa sång. I Frankrike gjorde Dalida den till en hit: ”Les Enfants du Pirée”.
+2464	Fiskare
+2465	Där borta ligger Mikrolimano, den lilla hamnen: fiskebåtar och tavernor där fisken simmade i morse.
+2466	Hit till Karaiskakisstadion, Olympiacos hemmaarena. 2024 vann klubben UEFA Europa Conference League: den första europeiska trofén för en grekisk fotbollsklubb.
+2467	Färjor till öarna: Aigina, Hydra, Kykladerna, Kreta… Pireus är en av Europas mest trafikerade passagerarhamnar.
+2468	Grekiska redare kontrollerar ungefär en femtedel av världens handelsflotta: mer än något annat land.
+2469	Hamnförman
+2470	Du där, praktikant! Fartyget lämnar kl. 12 och min kranförare strejkar. Har du någonsin lastat ett containerfartyg?
+2471	Tunga containrar längst ner, kylcontainrar på raderna med ström, och håll henne i våg, annars får hon slagsida.
+2472	Ännu ett fartyg att lasta?
+2473	Rakt som ett streck! Här är din lön. Spendera inte allt på souvlaki.
+2474	Ännu ett fartyg iväg i tid. Kaptenen skickar sina hälsningar.
+2475	Hon lutar som ett dåligt humör. Vi staplar om. Igen?
+2476	Greklands centralbank – Museum
+2477	Akropolismuseet – Parthenonsalen
+2478	Hamnen i Pireus
+2479	Hus – Plaka
+2480	Juryvykort: %d av 12.
+2481	Det var alla tolv motiv! Eleni, i ECB:s studio i Frankfurt, vill gärna se dem.
+2482	Alla tolv vykorten! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… och de sex fåglarna. Du har sett mer av Europa än juryn.
+2483	Från och med nu trycker min press dina provsedlar i guldutgåvan. Och ta det här, från studion.
+2484	En sak till: juryn skickade vykort med de tolv motiven över hela Europa. Hittar du alla, kom tillbaka: då graverar jag en guldutgåva.
+2485	Bryssels stadshus, byggt på 1400-talet. Överst på dess 96 meter höga torn dödar Sankt Mikael draken.
+2486	Grand-Place runt omkring är ett världsarv hos Unesco sedan 1998.
+2487	Skråhusen: bagare, båtmän, bryggare… varje yrke hade sitt eget hus, förgyllt för att visa upp rikedomen.
+2488	Manneken-Pis: 55 centimeter brons. Han äger över tusen dräkter, förvarade i hans eget garderobsmuseum.
+2489	Officiell påklädare
+2490	I dag är han klädd som… sig själv. I morgon brandman. Nästa vecka astronaut. Det är ett heltidsjobb att klä en staty.
+2491	Fritkot-ägare
+2492	Äkta belgiska pommes frites friteras två gånger: en gång för att tillagas, en gång för att bli krispiga.
+2493	Hungrig? Prova en mitraillette: en halv baguette med kött, sås och pommes frites inuti. Ja, inuti.
+2494	Våffelförsäljare
+2495	Brysselvåffla: lätt, rektangulär, pudrad med socker. Liègevåffla: tätare, med pärlsocker som karamelliseras inuti.
+2496	Att välja mellan dem har splittrat familjer i generationer. Jag säljer båda. Mycket diplomatiskt.
+2497	Bryssels väggar är täckta av dussintals serieväggmålningar. Belgien tar sina serier lika på allvar som sin choklad.
+2498	Hit till Galeries Royales Saint-Hubert (1847), en av Europas äldsta täckta shoppinggallerior.
+2499	1912 uppfann chokladtillverkaren Jean Neuhaus den fyllda chokladen i de här gallerierna: pralinen.
+2500	Grand-Place / Grote Markt. I Bryssel skrivs alla gatunamn på franska och nederländska: huvudstadsregionen är officiellt tvåspråkig.
+2501	Belgien har tre officiella språk: nederländska, franska och tyska.
+2502	Brysselbo
+2503	Allez, une fois! Så föreställer de sig att vi pratar i Bryssel. Och, ja… ibland gör vi det.
+2504	Trädgårdsmästare
+2505	Vartannat år i augusti täcker en matta av begonior Grand-Place. Den första lades 1971.
+2506	Hundratusentals blommor, lagda för hand på några timmar. Jag saknar en frivillig. Planterar du med mig?
+2507	Ännu en matta? Begoniorna väntar.
+2508	Magnifikt! Till och med skråhusen ser avundsjuka ut. Varsågod, från staden.
+2509	Ännu ett mästerverk. Om några dagar är blommorna borta, men fotona består.
+2510	Mönstret blev lite… abstrakt. Magritte hade gillat det.
+2511	Storhertiginnan Charlottes bro, kallad Röda bron, förbinder gamla stan med Kirchbergplatån, högt över Alzettedalen.
+2512	Storhertigliga palatset, i gamla stans hjärta. Luxemburg är det enda storhertigdömet som finns kvar i världen.
+2513	Vakten marscherar åtta steg, vänder, marscherar åtta steg tillbaka. Det är mycket avkopplande att titta på.
+2514	Europeiska revisionsrätten: EU:s finansiella vakthund. Den granskar hur europeiska pengar används, euro för euro.
+2515	På ett av finalförslagen till de nya sedlarna finns den på baksidan av 200-eurosedeln.
+2516	Sedan den 29 februari 2020 är all kollektivtrafik i Luxemburg gratis: bussar, spårvagnar, tåg. Första landet i världen som gjorde det.
+2517	Gëlle Fra, den gyllene damen på Minnesmonumentet, hedrar luxemburgarna som stupade i världskrigen.
+2518	Ockupationsmakten rev ner henne 1940; hon restaurerades helt och sattes tillbaka på sin kolonn 1985.
+2519	Schueberfouer! Ett nöjesfält sedan 1340, grundat av Johan den blinde, greve av Luxemburg. Varje år i slutet av sommaren.
+2520	Luxemburgare
+2521	Moien! Det är hej på luxemburgiska. Här har vi tre administrativa språk: luxemburgiska, franska och tyska.
+2522	De flesta av oss växlar mellan dem i samma mening. Ibland smyger sig engelskan in också.
+2523	På en vägg: ”Mir wëlle bleiwe wat mir sinn” (”Vi vill förbli vad vi är”), nationalmottot.
+2524	Välkommen till Bock-kasematterna: 17 kilometer tunnlar uthuggna i berget, en del av ett världsarv hos Unesco.
+2525	Under andra världskrigets bombningar sökte upp till 35 000 människor skydd här.
+2526	En besökare gick vilse i de mörka gångarna med min sista ficklampa. Kan du hitta ut och ta tillbaka honom?
+2527	Ännu en tur i gångarna?
+2528	Ni kom ut helskinnade, båda två! Fästningen kallades ”Nordens Gibraltar”. Ta det här för besväret.
+2529	Du kan gångarna bättre än soldaterna 1700.
+2530	Ficklampan slocknade… Oroa dig inte, jag kan vägen. Vi provar igen.
+2531	Europabron korsar Rhen. På andra sidan: Kehl, i Tyskland. Sedan 2017 korsar till och med en spårvagn gränsen.
+2532	Pendlare
+2533	Jag bor i Kehl och jobbar i Strasbourg. Varje morgon byter jag land på fyra minuter. Ingen kollar mitt pass.
+2534	Här sitter Europarådet, grundat 1949: 46 medlemsstater, och Europeiska domstolen för mänskliga rättigheter. Det ingår inte i EU.
+2535	Blanda inte ihop det med Europeiska rådet (EU:s stats- och regeringschefer) eller Europeiska unionens råd (ministrarna). Det gör till och med journalister.
+2536	Den blå flaggan med tolv gyllene stjärnor antogs först av Europarådet, 1955. EU tog över den senare.
+2537	Ett porträtt av Bertha von Suttner (1843–1914), författare till romanen ”Ned med vapnen!” och första kvinna som fick Nobels fredspris, 1905.
+2538	Hon är gestalten på 200-eurosedeln i ECB:s finalförslag med temat ”Europeisk kultur”.
+2539	Europas hymn är preludiet till ”Ode till glädjen”, ur Beethovens nionde symfoni. Europarådet antog den 1972, EU 1985.
+2540	Den har ingen officiell text: i Europa nynnar vi alla på samma språk.
+2541	Katedralens spira når 142 meter. Från 1647 till 1874 var den världens högsta byggnad.
+2542	Det astronomiska uret. Dess urverk är från 1842. Varje dag klockan halv ett defilerar de tolv apostlarna förbi Kristus.
+2543	Katedralen är byggd av rosa sandsten från Vogeserna. Därför rodnar den i solnedgången.
+2544	Christkindelsmärik har hållits här sedan 1570: en av Europas äldsta julmarknader.
+2545	Winstub-kock
+2546	Flammekueche! Tunn deg, grädde, lök, bacon, bakad i vedugn på två minuter. På franska säger man tarte flambée.
+2547	Strasbourgeden, svurna här år 842 av två barnbarn till Karl den store, hör till de äldsta texterna på fornfranska och fornhögtyska.
+2548	Varje kung svor på den andres språk, så att den andres armé kunde förstå. Tolkning har lång historia här.
+2549	Ornitolog
+2550	Den vita storken är Alsaces emblem. 1974 fanns bara nio par kvar i regionen.
+2551	Tack vare ett återinförandeprogram finns det flera hundra par i dag. Och den vita storken finns på ett finalförslag till 50-eurosedeln!
+2552	De nyanlända letar efter sina bon. Kan du guida dem, bort från kraftledningarna?
+2553	Fler storkar kommer in. Guidar du dem igen?
+2554	Varje par är hemma! Varsågod, till storkskyddsfonden… jag menar, till dig.
+2555	Taken i Petite France är fulla av klapprande näbbar. Det är vårens ljud här.
+2556	Några trasslade in sig vid ledningarna… De mår bra, bara lite förargade. Igen?
+2557	Sal 18: skulpturer från Parthenon i Aten, bortförda av lord Elgins agenter mellan 1801 och 1812 och köpta av British Museum 1816.
+2558	Grekland har krävt dem tillbaka sedan 1983. I Aten håller Akropolismuseet deras platser redo.
+2559	Grekisk besökare
+2560	Jag kom hela vägen från Aten för att se våra marmorskulpturer. Sedan åker jag tillbaka till Akropolismuseet och tittar på de vita kopiorna av dem här.
+2561	En fris, två städer. Kanske en dag en stad igen.
+2562	En röd telefonkiosk, modell K6 ritad 1935. I dag rymmer några av dem hjärtstartare, andra små bibliotek.
+2563	Londons tunnelbana öppnade 1863: världens första underjordiska järnväg. ”Mind the gap!”
+2564	Efter Brexit lämnade Storbritannien Erasmus. I december 2025 gick det med på att återansluta från 2027. Min lillasyster får studera i Bologna!
+2565	Nederländsk tulltjänsteman
+2566	Sedan den 1 januari 2021 står Storbritannien utanför EU:s tull- och veterinärregler: resenärer får inte längre ta med kött eller mejeriprodukter in i EU.
+2567	Den månaden fick mina kollegor i Hoek van Holland beslagta skinkmackor. ”Välkommen till Brexit, sir, jag beklagar.”
+2568	Morgonfärjan går ombord. Hjälp mig att kolla matlådorna?
+2569	Ännu en färja, ännu hundra matlådor. Hjälper du mig igen?
+2570	Inte en enda skinkmacka kom igenom. Varsågod, en belöning utan ost och utan skinka.
+2571	Effektiv och artig. Du skulle bli en fin tulltjänsteman.
+2572	En salami korsade Engelska kanalen… Veterinärinspektörerna vill nog byta ett ord med dig.
+2573	Lastbilschaufför
+2574	Före Brexit körde jag över med lastbilen utan att stanna. Nu: tulldeklarationer, hälsointyg, kontroller. Jag har läst fler blanketter än romaner.
+2575	En kampanjbuss. 2016 utlovade dess sida 350 miljoner pund i veckan till den nationella hälso- och sjukvården.
+2576	2017 kallade chefen för Storbritanniens statistikmyndighet siffran ”ett tydligt missbruk av officiell statistik”.
+2577	Fågelskådare
+2578	Havssulor dyker i havet i nästan hundra kilometer i timmen. Världens största koloni finns på Bass Rock i Skottland.
+2579	ECB satte en på ett finalförslag till 200-eurosedeln: öppet hav, vingar hopfällda, plask.
+2580	Schackspelare
+2581	Széchenyibadet, 1913: ett av Europas största medicinska bad. Vi spelar schack här, upp till axlarna i hett vatten.
+2582	Ungern gav världen Judit Polgár, den starkaste kvinnliga spelaren genom tiderna: stormästare som femtonåring, och hon slog Kasparov 2002.
+2583	Tre ställningar, schackmatt i ett drag vardera. Hinner du hitta dem innan vattnet blir kallt?
+2584	Nya ställningar på det flytande brädet. En omgång till?
+2585	Tre mattar! Du spelar som en stormästare i badrock. Ta det här.
+2586	Matt, matt, matt. Ångan får en att tänka snabbare.
+2587	Vattnet blev kallt… Nästa gång: leta efter draget som lämnar kungen ingenstans att ta vägen.
+2588	Ruinbarer: gamla innergårdar i det forna judiska kvarteret, förvandlade till barer med ihopsamlade möbler. De första öppnade i början av 2000-talet.
+2589	Bartender
+2590	Egészségedre! Det är skål på ungerska. Försök säga det efter andra glaset fröccs: vin och sodavatten.
+2591	Lángos-försäljare
+2592	Lángos: friterat deg, vitlök, gräddfil och riven ost. Ingen diet. En tradition.
+2593	Rubiks kub uppfanns i Budapest 1974 av Ernő Rubik, för att lära sina studenter rumsuppfattning. Jag har löst den på två minuter. Eller en sida av den.
+2594	Skorna på Donaus strand (2005). Sextio par järnskor minns Budapests judar som sköts på den här stranden av Pilkorspartiets milismän 1944 och 1945 och kastades i floden.
+2595	Kedjebron, öppnad 1849: den första permanenta bron mellan Buda och Pest, ritad av den engelske ingenjören William Tierney Clark.
+2596	Dess stenlejon har inga tungor… enligt legenden. Titta noga.
+2597	Fiskarbastionen på Slottsberget: sju torn, för de sju magyariska stammarna som bosatte sig i Karpaterbäckenet.
+2598	Biätare! Europas färgrikaste fåglar. De gräver sina bon i sandiga flodstränder och fångar bin i flykten.
+2599	Ungern har några av de största kolonierna. På ECB:s finalförslag pryder en koloni av dem 20-eurosedeln.
+2600	Språkforskare
+2601	Ungerska är inte besläktat med grannarnas språk: det tillhör den uraliska familjen, liksom finska och estniska.
+2602	Och släktnamnet kommer först: Rubik Ernő, Polgár Judit. Lätt att komma ihåg, svårt att uttala.
+2603	László Bíró, född i Budapest, patenterade den moderna kulspetspennan 1938. I många länder kallas en penna fortfarande ”biro”.
+2604	Salon de l'Horloge. Den 9 maj 1950 klockan 18 läste Robert Schuman, Frankrikes utrikesminister, upp en deklaration här som föreslog att fransk och tysk kol- och stålproduktion skulle slås samman.
+2605	Den ledde till Europeiska kol- och stålgemenskapen 1951, första steget mot dagens EU. Varje 9 maj är det Europadagen.
+2606	Arkiven har blandat ihop sidorna i deklarationen! Journalisterna är på väg. Kan du lägga meningarna i rätt ordning?
+2607	Sidorna är blandade igen. Hjälper du mig?
+2608	Ord för ord! Herr Schuman hade tryckt din hand. Ta det här, från ministeriet.
+2609	Perfekt ordning. Europa byggs inte på en gång, men du är snabb.
+2610	Inte riktigt… Kom ihåg: först freden, sedan konkreta resultat, sedan kol och stål.
+2611	Marie Curie, född Maria Skłodowska i Warszawa, blev 1906 första kvinnliga professor vid Sorbonne. Hon vann två Nobelpris, i fysik och i kemi.
+2612	Hon är gestalten på 20-eurosedeln i ECB:s finalförslag med temat ”Europeisk kultur”.
+2613	Bagare
+2614	Sedan 2022 står den franska baguettens hantverk på Unescos lista över immateriellt kulturarv. Mjöl, vatten, salt, jäst. Och lite tålamod.
+2615	Un café, s'il vous plaît! I Paris är ett ”café” en espresso. Vill du ha en stor kopp måste du säga det. Högt.
+2616	Bouquiniste
+2617	Vi har sålt begagnade böcker på de här kajerna sedan 1500-talet. Hundratals gröna lådor, längs kilometer av Seine.
+2618	Notre-Dame de Paris. Skadad av brand den 15 april 2019, öppnade den igen den 7 december 2024 efter fem års arbete.
+2619	Besökare
+2621	Vissa vintrar kommer en murklättrare ner från bergen till klipporna i Maasdalen. En grå fågel med karminröda vingar, som en fjäril.
+2622	Det är fågeln på 5-eurosedeln i ECB:s finalförslag: en bergskälla och en murklättrare.
+2623	Sportfiskare
+2624	Ser du den blå blixten över Mosel? En kungsfiskare. Den dyker från en gren och kommer upp med en fisk.
+2625	På ECB:s finalförslag är det fågeln på 10-eurosedeln, vid ett vattenfall.
+2626	Antwerpen är Europas näst största hamn. Och längs Schelde, alldeles intill kranarna, häckar skärfläckor i naturreservaten.
+2627	Svartvit, med uppåtböjd näbb: fågeln på 100-eurosedeln i ECB:s finalförslag, vid en flodmynning.
+2628	Warszawabo
+2629	Maria Skłodowska, Marie Curie, föddes här i Warszawa 1867. Hon döpte grundämnet polonium efter sitt land.
+2630	Vår gamla stad jämnades med marken 1944 och byggdes upp sten för sten: den står på Unescos lista sedan 1980.
+2631	Leonardo da Vinci bodde i Rom 1513–1516, i Vatikanen, innan han reste till Frankrike.
+2632	Han är gestalten på 100-eurosedeln i ECB:s finalförslag med temat ”Europeisk kultur”.
+2633	Professor
+2634	Lissabonfördraget, undertecknat här 2007, skapade artikel 50: förfarandet för att lämna EU. Storbritannien var först med att använda det.
+2635	Också från Lissabon: pastéis de nata, efter receptet från munkarna i Jerónimos. Mycket populärare än artikel 50.
+2636	Gammal sjöman
+2637	1571 stod slaget vid Lepanto i Patrasbukten, här i Grekland. En ung spansk soldat förlorade där användningen av sin vänstra hand.
+2638	Han hette Miguel de Cervantes. Han skulle skriva Don Quijote. Han är gestalten på 50-eurosedeln i ECB:s kulturförslag!
+2639	I ett hörn ligger ett vykort stämplat av ECB:s designjury: ett av de tolv motiven på de framtida sedlarna. Du behåller det.
+2640	British Museum – Sal 18
+2641	Bock-kasematterna – Ingång
+2642	Katedralen i Strasbourg
+2643	Europapalatset – Europarådet
+2644	Färjeterminal – EU-tull
+2645	Ruinbar – Budapest
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Bageri – Paris
+2648	Röd
+2649	Gul
+2650	Vit
+2651	Orange
+2652	Blommattan
+2655	Mönstret
+2656	Tre begoniamattor! Belgien odlar de flesta av världens knölbegonior, kring Gent.
+2657	Turisterna kommer och mattan är inte klar… Nästa gång!
+2658	Alsaces storkar
+2661	Storkar hemma: %d / %d · förlorade: %d / 3
+2662	Tio storkar i sina bon! I Alsace sägs en stork på taket bringa lycka.
+2663	För många storkar flög vidare till nästa by… De kommer tillbaka nästa vår.
+2664	Skinkmacka
+2665	Mjölk
+2666	Salami
+2667	Äpple
+2668	Chokladkaka
+2669	Chips
+2670	Kex
+2671	EU-tull
+2674	Kött, mejeriprodukter, de flesta frukter: beslagta.
+2675	Bananer, godis, chips, vatten: släpp förbi.
+2676	Släpp förbi
+2677	Beslagta
+2678	Alla matlådor kontrollerade! Inom EU:s inre marknad rör sig mat fritt; vid dess gränser kontrolleras den.
+2679	En salami slank igenom… eller en banan beslagtogs felaktigt. Reglerna först, mackan sen!
+2685	Schack i baden
+2688	Vit spelar och ger matt i ett drag
+2689	K kung · Q dam · R torn · B löpare · N springare · P bonde
+2691	Vattnet blev kallt före mattet… Leta efter draget som inte lämnar kungen en enda ruta.
+2692	Världsfreden kan inte upprätthållas
+2694	Europa kommer inte att byggas på en gång, eller enligt en enda plan.
+2698	Schumandeklarationen
+2701	Deklarationen är klar! Europeiska kol- och stålgemenskapen följde 1951. Varje 9 maj är det Europadagen.
+2702	Journalisterna väntar och sidorna är fortfarande i oordning… Först freden, sedan konkreta resultat!
+2703	Bock-kasematterna
+2706	Besökaren följer dig: nu utgången!
+2707	Någonstans i mörkret ropar någon…
+2708	Ute i dagsljuset, med besökaren! Upp till 35 000 människor sökte skydd i de här gångarna under bombningarna.
+2709	Ficklampan slocknade… Guiden följer din röst och leder er båda ut.
+2710	utan konstruktiva insatser som motsvarar de faror som hotar den.
+2713	Den byggs genom konkreta resultat som först skapar en faktisk solidaritet.
+2714	Fransk-tysk kol- och ståltillverkning ställs under en gemensam hög myndighet…
+2715	…så att krig mellan Frankrike och Tyskland blir praktiskt omöjligt.
+2716	Innan du rör tryckplåten ska du bevisa att du kan avslöja en förfalskning! Kontrollera varje sedel som ECB gör: KÄNN den upphöjda tryckningen, TITTA på den mot ljuset, LUTA den. Bedöm 10 sedlar, ett misstag tillåtet.
+2717	På en krog i Sachsenhausen: häll äppelvin från Bembeln i varje glas upp till strecket! Håll pennan (eller A) för att luta kannan, släpp för att stoppa, servera sedan med knappen. 8 glas, 2 spill tillåtna.
+2718	Åtta perfekta glas! Här i Frankfurt kallas äppelvin ”Ebbelwoi”.
+2719	Syntagmatorget, Den okände soldatens grav. Rör dig i takt med evzonerna: STEG, SPARK, STAMPA när varje skylt når linjen. 24 rörelser, långsamt och högtidligt. 4 misstag tillåtna.
+2720	Rusning vid kiosken! Varje kund frågar på grekiska: tryck på det de vill ha. Jag viskar betydelsen åt de första. 15 kunder på 60 sekunder!
+2721	Lasta tre fartyg före kl. 12! Flytta kranen med pennan eller ←/→, släpp med A eller en tryckning. Tunga (T) aldrig ovanpå lättare, kylcontainrar (vita) bara på de två kolumnerna med ström (uttag), och håll fartyget i våg!
+2722	Kopiera begoniamattan på övre skärmen: välj en färg, tryck eller dra sedan över rutorna. Tryck på Klar när det stämmer. Tre mattor på 90 sekunder!
+2723	Storkarna är tillbaka från Afrika! Guida var och en till ett tomt bo: för pennan upp och ned (eller ↑/↓) och flyg lågt över ett ledigt bo för att landa. Undvik kraftledningarna. 10 storkar, 3 förluster tillåtna.
+2724	Färjan har lagt till! Kontrollera varje matlåda: BESLAGTA kött, mejeriprodukter och de flesta frukter, SLÄPP FÖRBI resten. Se upp: en banan är tillåten, ett äpple inte. 20 lådor på 50 sekunder, 2 misstag tillåtna.
+2725	Széchenyibaden: spelarna lutar sig över ett bräde som flyter i ångan. Vit spelar: hitta draget som ger matt direkt. Tryck på en vit pjäs, sedan på dess ruta. Tre ställningar på 90 sekunder!
+2726	9 maj 1950, Salon de l'Horloge. Sidorna i Robert Schumans deklaration är blandade! Tryck på meningarna i rätt ordning före presskonferensen. 60 sekunder.
+2727	Gångarna är mörka och ficklampan brinner ner. Hitta den bortkomna besökaren, sedan utgången! Rör dig med styrkorset, eller tryck bredvid din figur. 75 sekunder.
+2728	Tre mattar! I baden sägs det att förloraren måste kliva upp ur vattnet först.
+2729	Den nya takstommen i ek tillhöggs för hand, som under medeltiden. Timmermän och stenhuggare från hela Frankrike arbetade på den.
+2730	Fram
+2731	Bak

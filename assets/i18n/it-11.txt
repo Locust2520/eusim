@@ -1,0 +1,19 @@
+# Italian — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Timbra 15 sentenze valide in 30 secondi. Lascia passare i fogli marcati «FALSO»: timbrarne uno fa perdere il round!
+2087	SENTENZA
+2088	SENTENZA: timbra. FALSO: lascia passare.
+2089	Quindici sentenze valide timbrate! L'amministrazione è fiera di te.
+2090	Hai timbrato un documento falso! Controlla prima di approvare…
+2091	Le quindici sentenze valide non sono pronte. La cancelleria sta chiudendo. Riprova…
+2092	Ecco la pila di oggi. Servono quindici sentenze valide timbrate prima che la cancelleria chiuda. Attenzione, si sono infilati dei documenti falsi! Mi dai una mano?
+2093	La cancelleria non può approvare questa pila. Servono quindici sentenze valide e nessun documento falso timbrato. Riprova quando vuoi.
+2094	Altre quindici sentenze in regola! Per il tuo secondo successo, ecco un timbro qualificato.
+2095	Impeccabile! Ho ancora un timbro qualificato per te. Il Lussemburgo adora le persone metodiche.
+2096	Impeccabile! Ma stavolta non ho nessun timbro per te. Torna a darmi una mano!
+2097	L'altro giocatore manda in campo %s!
+2098	Squadra o connessione non valida.
+2099	Gli oggetti non sono ammessi in un dibattito amichevole.
+2100	Vinci questo dibattito amichevole!
+2101	L'altro giocatore vince questo dibattito amichevole!
+2102	Dibattito terminato o connessione interrotta.
+2105	Salvataggio non riuscito. Riprova.

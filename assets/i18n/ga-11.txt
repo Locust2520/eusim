@@ -1,0 +1,19 @@
+# Irish — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Cuir stampa ar 15 bhreithiúnas bailí laistigh de 30 soicind. Lig do na páipéir atá marcáilte “BRÉAGACH” dul thart: má stampálann tú ceann acu, caillfidh tú an babhta!
+2087	BREITH
+2088	BREITH: stampáil. BRÉAGACH: lig tharat.
+2089	Tá cúig bhreithiúnas déag bailí stampáilte! Tá an riarachán bródúil asat.
+2090	Stampáil tú doiciméad olc! Seiceáil sula gceadaíonn tú é…
+2091	Níl na cúig bhreithiúnas déag bailí réidh. Tá an chlárlann ag dúnadh. Bain triail eile as…
+2092	Seo an carn atá againn inniu. Ní mór cúig bhreithiúnas déag bailí a stampáil sula ndúnann an chlárlann. Bí cúramach, tá drochdhoiciméid measctha isteach iontu! An gcuideoidh tú liom?
+2093	Ní féidir leis an gclárlann an carn seo a cheadú. Teastaíonn cúig bhreithiúnas déag bailí agus gan drochdhoiciméad stampáilte. Bain triail eile as am ar bith.
+2094	Cúig bhreithiúnas déag eile in ord! Mar gheall ar do dhara rath, seo stampa cáilithe duit.
+2095	Gan locht! Tá stampa cáilithe amháin fágtha agam duit. Is breá leis an Lucsamburg daoine córasacha.
+2096	Gan locht! Ach níl stampa agam duit an uair seo. Tar ar ais agus cuidigh liom arís!
+2097	Seolann an t-imreoir eile %s!
+2098	Foireann nó nasc neamhbhailí.
+2099	Ní cheadaítear earraí i bplé cairdiúil.
+2100	Buann tú an plé cairdiúil seo!
+2101	Buann an t-imreoir eile an plé cairdiúil seo!
+2102	Tá an plé thart nó tá an nasc briste.
+2105	Theip ar an sábháil. Bain triail eile as.

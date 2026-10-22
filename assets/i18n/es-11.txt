@@ -1,0 +1,19 @@
+# Spanish — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Sella 15 sentencias válidas en 30 segundos. Deja pasar los papeles marcados «FALSO»: ¡sellar uno hace perder la ronda!
+2087	FALLO
+2088	FALLO: sellar. FALSO: dejar pasar.
+2089	¡Quince sentencias válidas selladas! La administración está orgullosa de ti.
+2090	¡Has sellado un documento falso! Compruébalo antes de aprobar…
+2091	Las quince sentencias válidas no están listas. La secretaría cierra. Inténtalo de nuevo…
+2092	Aquí está la pila de hoy. Necesitamos quince sentencias válidas selladas antes de que cierre la secretaría. ¡Cuidado, se han colado documentos falsos! ¿Me echas una mano?
+2093	La secretaría no puede aprobar esta pila. Hacen falta quince sentencias válidas y ningún documento falso sellado. Inténtalo cuando quieras.
+2094	¡Otras quince sentencias en regla! Por tu segundo éxito, aquí tienes un sello cualificado.
+2095	¡Impecable! Aún me queda un sello cualificado para ti. A Luxemburgo le encanta la gente metódica.
+2096	¡Impecable! Pero esta vez no tengo ningún sello para ti. ¡Vuelve y échame una mano otra vez!
+2097	¡El otro jugador envía a %s!
+2098	Equipo o conexión no válidos.
+2099	No se permiten objetos en un debate amistoso.
+2100	¡Ganas este debate amistoso!
+2101	¡El otro jugador gana este debate amistoso!
+2102	Debate terminado o conexión interrumpida.
+2105	Error al guardar. Inténtalo de nuevo.

@@ -1,0 +1,19 @@
+# Deutsch — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Stemple 15 gültige Urteile in 30 Sekunden. Lass die Papiere mit „FAKE“ durch: Stempelst du eins, verlierst du die Runde!
+2087	URTEIL
+2088	URTEIL: stempeln. FAKE: durchlassen.
+2089	Fünfzehn gültige Urteile gestempelt! Die Verwaltung ist stolz auf dich.
+2090	Du hast ein ungültiges Dokument gestempelt! Prüf lieber nach, bevor du genehmigst…
+2091	Die fünfzehn gültigen Urteile sind nicht fertig. Die Kanzlei schließt. Versuch es nochmal…
+2092	Hier ist der heutige Stapel. Wir müssen fünfzehn gültige Urteile stempeln, bevor die Kanzlei schließt. Pass auf, ein paar ungültige Dokumente haben sich daruntergemischt! Kannst du mir helfen?
+2093	Die Kanzlei kann diesen Stapel nicht genehmigen. Wir brauchen fünfzehn gültige Urteile und kein ungültiges Dokument mit Stempel. Versuch es, wann du willst.
+2094	Wieder fünfzehn Urteile in Ordnung! Für deinen zweiten Erfolg gibt es einen qualifizierten Stempel.
+2095	Makellos! Einen qualifizierten Stempel habe ich noch für dich. Luxemburg liebt methodische Leute.
+2096	Makellos! Aber diesmal habe ich keinen Stempel für dich. Komm wieder und hilf mir noch einmal!
+2097	Der andere Spieler schickt %s in den Kampf!
+2098	Ungültiges Team oder ungültige Verbindung.
+2099	In einer freundschaftlichen Debatte sind keine Items erlaubt.
+2100	Du gewinnst diese freundschaftliche Debatte!
+2101	Der andere Spieler gewinnt diese freundschaftliche Debatte!
+2102	Debatte beendet oder Verbindung unterbrochen.
+2105	Speichern fehlgeschlagen. Bitte versuch es noch einmal.

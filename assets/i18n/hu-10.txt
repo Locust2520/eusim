@@ -1,0 +1,516 @@
+# Hungarian — city extensions (ids 2169+)
+2169	HAMIS
+2171	%d mp · %d/%d
+2172	Dombor vonalak a széleken: kitapinthatók.
+2173	A papír mindenhol sima…
+2174	Tapint
+2175	Néz
+2176	Billent
+2177	Ellenőrizd, aztán döntsd el:
+2178	Valódi
+2179	Hamis
+2180	L/R: billent · X: fény felé · Y: tapint
+2181	Tapints, nézd, billentsd
+2184	Ez %s volt: hiányzott a dombornyomás.
+2185	Ez %s volt: nem volt vízjel a fény felé tartva.
+2186	Ez %s volt: a szám nem változtatta a színét.
+2187	hamis
+2188	Valódi bankjegy volt!
+2189	Egy hamis sem jutott át! A vízjelben Europát láttad, egy több mint 2000 éves görög vázáról.
+2190	Egy hamisítvány átcsúszott… Tapints, nézd, billentsd: a három ellenőrzés csak pár másodpercet vesz igénybe.
+2191	A Bembel
+2194	Felszolgál
+2196	Túl sok kilöttyent pohár… A kocsmáros kölcsönad egy rongyot.
+2203	utcai zenészek
+2204	dalfesztivál
+2205	iskola
+2206	könyvtár
+2207	utcai művészet
+2208	fákkal szegélyezett tér
+2209	hajnalmadár egy hegyi forrásnál
+2210	jégmadár egy vízesésnél
+2211	gyurgyalagok egy folyóvölgyben
+2212	fehér gólya egy kanyargó folyónál
+2213	gulipán egy folyótorkolatnál
+2214	északi szula a tenger fölött
+2215	az Európai Parlament
+2216	az Európai Bizottság
+2217	az Európai Központi Bank
+2218	az EU Bírósága
+2219	az Európai Tanács és az Európai Unió Tanácsa
+2220	az Európai Számvevőszék
+2221	Előlap: a portréd %s helyett
+2222	Hátoldal: %s
+2223	Előlap: %s
+2224	Mintabankjegy – %d €
+2225	Nem fizetőeszköz: ez egy tervminta.
+2227	L/R vagy érintés: fordít · B: bezár
+2228	Világos
+2229	Közepes
+2230	Sötét
+2231	Radír
+2234	Vissza
+2235	Töröl
+2236	Kész
+2237	Rajzold meg a portrédat
+2238	A műhely úgy metszi ki, mint egy bankjegy-portrét.
+2239	A mintabankjegyed
+2240	Európai kultúra
+2241	Folyók és madarak
+2242	Megfordít
+2243	Új portré
+2244	Minta nyomtatása
+2245	Nyomtatás…
+2246	A portréd a mintához
+2247	A DSi kamerája, a toll vagy a hivatalos fotód.
+2248	A toll vagy a hivatalos fotód.
+2249	Fotózás
+2250	Megrajzolom
+2251	Hivatalos fotó
+2252	A kamera itt nem használható. Rajzold meg inkább a portrédat.
+2253	A mintabankjegyed bekerült a frankfurti Pénzmúzeum gyűjteményébe.
+2254	Frankfurtban az EKB műhelye még mindig őriz egy üres mintapéldányt a te nevedre.
+2255	Kamera indítása…
+2256	Illeszd az arcod az ovális keretbe
+2257	A vagy érintés: fotó · L/R: másik kamera · B: vissza
+2258	Metszéspróba
+2259	Újra
+2260	Megtart
+2261	Köztünk szólva: az euró 2002-ben vált készpénzzé, az emberek zsebében. E torony néhány ajtaja még emlékszik arra az évre.
+2262	Az eurójel Ottmar Hörl művész alkotása; 2001-ben avatták fel az EKB egykori tornya előtt.
+2263	Néhány héttel később, 2002. január 1-jén az eurobankjegyek és -érmék tizenkét országban kerültek az emberek zsebébe.
+2264	Emlékmű a Grossmarkthalle-nál.
+2265	1941 és 1945 között mintegy 10 000 frankfurti és környékbeli zsidó férfit, nőt és gyermeket hurcoltak el e vásárcsarnok pincéjéből gettókba és lágerekbe. Legtöbbjüket meggyilkolták.
+2266	Az emlékművet Frankfurt városa, a zsidó hitközség és az EKB közösen állította; az EKB székhelye ma magában foglalja a csarnokot is.
+2267	A Römer 1405 óta Frankfurt városháza. Császártermében a frissen megkoronázott német-római császárok tartották koronázási lakomájukat.
+2268	Favázas házak a Römerbergen. A régi belvárost 1944-ben lebombázták; ezt a házsort az 1980-as években építették újjá, gerendáról gerendára.
+2269	Az Igazságosság-kút. Nézd meg jól: ez a Justitia tartja a mérlegét és a kardját, de nincs bekötve a szeme.
+2270	Ezt a várost „Mainhattannek” hívják: felhőkarcolók a Majna partján. Megszámoltam: tizenegy daru és négy bank. Vagy fordítva.
+2271	1848-ban és 1849-ben ebben a templomban ülésezett az egész Németország első szabadon választott parlamentje.
+2272	Alkotmányt írt, alapvető jogokkal. Soha nem lépett hatályba, de a későbbi német alkotmányok merítettek belőle.
+2273	Idegenvezető
+2274	A csarnoknak ma is megvannak a nagy napjai: minden októberben itt adják át a Német Könyvkereskedők Békedíját.
+2275	A bika szarvát felfelé tartva rohan: emelkedő piac.
+2276	A medve mancsát lefelé csapja: csökkenő piac.
+2277	A DAX-tábla. Németország legismertebb tőzsdeindexét itt indították 1988-ban.
+2278	Vedd meg a pletykát, add el a hírt. És áprilisban soha, de soha ne add el az esernyődet.
+2279	Johann Wolfgang von Goethe ebben a házban született 1749. augusztus 28-án. Mintegy hatvan évig dolgozott a Fauston.
+2280	A neve ma a világot járja: a Goethe-Intézet csaknem száz országban tanít németet.
+2281	A Messeturm a vásárváros fölé magasodik. Minden októberben itt rendezik a Frankfurti Könyvvásárt, a világ legnagyobb könyvvásárát.
+2282	Olvasó
+2283	A könyvvásárra jöttem, a zöld szósz miatt maradtam. Három könyvet olvastam el és öt szószt ettem meg.
+2284	A Vashíd a Majnán, 1869-ből. Korlátján több ezer lakat függ: szerelmes ígéretek.
+2285	Pár
+2286	Rázártuk a lakatunkat a hídra, a kulcsot meg a Majnába dobtuk. Még el kell döntenünk, kinek az ötlete volt.
+2287	Frankfurti
+2288	A túlparton van Sachsenhausen. Ott isszuk az Ebbelwoit, az almabort. Itt senki nem hívja cidernek, ne feledd.
+2289	Fenyőkoszorú lóg az ajtó fölött: jel, hogy ez a kocsma maga sajtolja és tálalja az almabort.
+2290	Kocsmárosné
+2291	Guten Abend! Az almabort a Bembelből, a szürke kőagyag kancsóból öntik a Gerippte-be, a gyémántmintás pohárba.
+2292	Ma este tele a terem, de csak két kezem van. Te töltöd a poharakat, én viszem őket?
+2293	Kedved volna még egy körhöz a pult mögött?
+2294	Egy csepp sem az asztalaimra! Tessék, vedd ezt, és gyere vissza, amikor kedved tartja.
+2295	Megint tökéletes. Nyithatnál saját kocsmát. Csak akaszts fenyőkoszorút az ajtó fölé.
+2296	Jaj, úszik az asztal! Sebaj, felmosunk.
+2297	Törzsvendég
+2298	Handkäs mit Musik: hagymával pácolt savanyú tejsajt. A zene később jön. Ne kérdezd.
+2299	A zöld szószhoz pontosan hét fűszernövény kell: borágó, turbolya, zsázsa, petrezselyem, pimpinella, sóska és metélőhagyma.
+2300	2016 óta az EU földrajzi jelzésként védi a „Frankfurter Grüne Soße”-t. Hét fűszernövény, se több, se kevesebb.
+2301	Egy valódi aranyrúd, 12,5 kilogramm, amelyet a látogatók megemelhetnek. A legtöbben pár centiig jutnak.
+2302	A kagylóktól az érmékig, az érmékről a papírra, a papírról az euróra: háromezer évnyi pénztörténet pár polcon.
+2303	Kurátor
+2304	A Bundesbank Németország központi bankja. 1999 óta az Eurorendszer tagja az EKB-val és az euróövezet többi központi bankjával együtt.
+2305	Úgy hallom, van egy mintabankjegyed, rajta az arcoddal. Ha véget ér a kalandod, szívesen vennénk a gyűjteményünkbe.
+2306	Europa portréja, a görög mítosz hercegnőjéé, aki a nevét adta a kontinensnek.
+2307	Az arca egy több mint 2000 éves görög vázáról származik, amelyet a Louvre őriz. Tarts egy eurobankjegyet a fény felé: ott van a vízjelben.
+2308	A keret mögött egy kis billentyűzet világít. Négy számjegy.
+2309	Beütsz egy kódot?
+2310	A billentyűzet pirosan villog. A tőzsdeparkett egyik sarkában valaki felsóhajt.
+2311	Kattanás. A festmény kinyílik, mögötte keskeny, lefelé vezető lépcső…
+2312	Lemész a titkos műhelybe?
+2313	Festőállványokkal, metszőeszközökkel és egy nehéz présgéppel teli műhely. Az ajtón: „Bankjegytervezés – bizalmas”.
+2314	„Európai kultúra” téma: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) és Bertha von Suttner (200 €).
+2315	A hátoldalon: a kultúra megosztásának helyszínei. Utcai zenészek, dalfesztivál, iskola, könyvtár, utcai művészet, fákkal szegélyezett tér.
+2316	„Folyók és madarak” téma: a hegyi forrástól (5 €) a nyílt tengerig (200 €), hajnalmadárral, jégmadárral, gyurgyalagokkal, fehér gólyával, gulipánnal és északi szulával.
+2317	A hátoldalon: az EU intézményei, az Európai Parlamenttől az Európai Számvevőszékig.
+2318	A tíz döntős terv: EC145, EC564, EC617, EC799, EC915 és RB120, RB227, RB637, RB754, RB832.
+2319	A tervezők neve titok marad. Nyilvános felmérés után az EKB Kormányzótanácsa hozza meg a végső döntést.
+2320	Egy mélynyomó prés. Olyan erővel nyomja a festéket a papírba, hogy az domborodik: ez a valódi bankjegyen tapintható dombornyomás.
+2321	Előírások: a mai bankjegyekkel azonos méretek, címletenként egy meghatározó szín, és minden bankjegyen az európai zászló, Európa térképe és az EKB elnökének aláírása.
+2322	Zsűritag
+2323	2025-ben több mint 1200 tervező válaszolt az EKB felhívására. Harminckilenc javaslat jutott a zsűri elé; tíz van ezeken az állványokon.
+2324	A cél az, hogy a képzeletbeli hidakat és ablakokat valódi emberek, valódi madarak és valódi helyek váltsák fel.
+2326	Kaliméra! Eleni vagyok, mélynyomó metsző. A mesterséget a Görög Nemzeti Bank nyomdájában tanultam, Athénban.
+2327	Hivatalosan az EKB egyetlen bankjegyet sem nyomtat: megtervezi őket, a nyomdák pedig szerte Európában gyártják.
+2328	Épp a következő eurobankjegyeket készítjük elő. 2026-ban egy zsűri tíz tervet válogatott be két témában: az európai kultúra, valamint a folyók és madarak.
+2329	A végső döntés előtt ki kell próbálnom a metszetet egy valódi arcon. Az eurobankjegyeken még soha nem szerepelt élő személy… úgyhogy a tiéd mintapéldány marad.
+2330	De senki nem nyúlhat a lemezeimhez próba nélkül. Tapints, nézd, billentsd: mutasd meg, hogy meg tudod különböztetni a valódi bankjegyet a hamistól.
+2331	Készen állsz?
+2332	Bravó! Jegybankári szemed van. Most jöhet a portréd.
+2333	Új minta? A prés még meleg.
+2334	Íme, kimetszve! Látod a sorozatszámot? Az első betű, az Y, a Görög Nemzeti Bank kódja. Az én kis aláírásom.
+2335	Mutogasd mindenkinek. És mentsd el az állást a Jelentésben, hogy a bankjegyed veled maradjon.
+2336	Egy hamis átcsúszott. Tapints, nézd, billentsd: csak pár másodperc. Gyere vissza, ha készen állsz.
+2337	Ráérsz. Egy jó metszetet nem lehet kapkodni.
+2338	Almabor-kocsma – Sachsenhausen
+2339	EKB – Bankjegytervező műhely
+2340	Frankfurti tőzsde
+2341	A Bundesbank Pénzmúzeuma
+2342	Goethe-ház – Frankfurt
+2343	Paulskirche – Gyűlésterem
+2344	Mintabankjegy
+2345	A portrédat az EKB frankfurti műhelyében metszették ki. Nem fizetőeszköz.
+2346	Almabor-kocsma, Sachsenhausen
+2348	Tartsd a Bembel billentéséhez, engedd el a megállításhoz. Szolgálj fel a vonalnál.
+2349	Az őrségváltás
+2352	Lépés
+2353	Rúgás
+2354	Dobbant
+2355	Mozdulat: %d / 24 · hiba: %d
+2356	←: lépés · →: rúgás · A/↓: dobbantás
+2357	Tökéletes ütemben! Az evzónok óránként váltják az őrséget, éjjel-nappal, bármilyen időben.
+2358	Kiestél az ütemből… Az evzónok hónapokig gyakorolnak az első őrségük előtt.
+2359	Frappé
+2360	Víz
+2361	Újság
+2362	Koulouri
+2363	Komboloi
+2364	Mati
+2365	Buszjegy
+2366	Rágógumi
+2367	(Egy frappét kérek!)
+2368	(Egy vizet kérek!)
+2369	(Egy újságot kérek!)
+2370	(Egy koulourit kérek, a szezámos kenyérkarikát!)
+2371	(Komboloit kérek!)
+2372	(Egy kis szemmelverés elleni amulettet kérek!)
+2373	(Egy jegyet kérek!)
+2374	(Rágógumit kérek!)
+2375	A periptero
+2378	Tizenöt elégedett vásárló! Ευχαριστώ (efcharistó) azt jelenti: köszönöm.
+2379	A sor a következő utcáig ér… Σιγά σιγά (sigá sigá): lassan, lassan.
+2380	A pireuszi kikötő
+2383	H
+2384	Hajó %d/3 · konténer %d/%d
+2385	Idő: %d mp · hiba: %d/3
+2386	Dőlés
+2387	Három hajó megrakva, egyenesen! Pireusz a Földközi-tenger egyik legnagyobb konténerkikötője.
+2388	A kikötőmester leállítja a rakodást: a hajó nem biztonságos. Rakd át, és próbáld újra!
+2389	Az Ismeretlen Katona sírja (1932), a parlament alatt. Az elnöki gárda evzónjai őrzik éjjel-nappal.
+2390	A teret Szintagmának, „Alkotmánynak” hívják: 1843-ban az athéniak itt gyűltek össze, míg Ottó király alkotmányt nem adott.
+2391	Az evzón nem mozdul. Még egy szempilla sem.
+2392	A tsarouchia, a fekete bojtos piros facipő, darabonként nagyjából három kiló, talpában hatvan szeggel. A fehér szoknya, a fustanella, 400 redős: egy-egy az oszmán uralom minden évére, a hagyomány szerint.
+2393	Evzón őrmester
+2394	Óránként váltják az őrséget. Lassú léptek, magas rúgás, a facipők csattognak a márványon: két ember mozog egyként.
+2395	Ma hiányzik egy újonc. Velem tartasz az ütemben?
+2396	Még egy őrségváltás?
+2397	Egyetlen lépés sem csúszott. Μπράβο (brávo)! Vedd ezt az őrségtől.
+2398	Μπράβο (brávo)! Vasárnaponként tizenegykor az egész század díszegyenruhában vonul fel. Gyere el megnézni.
+2399	A facipőd és a dob nem értett szót. Hónapokig tart a gyakorlás. Holnap újra?
+2400	Újságos
+2401	Γεια σας (yia sas, szia)! A periptero mindent árul: újságot, vizet, buszjegyet, telefonkártyát, rágógumit, komboloit…
+2402	Az unokaöcsém nem jött be. Átveszed a pultot? A vásárlók görögül beszélnek, de én súgom a jelentését.
+2403	Megint csúcsforgalom! Besegítesz?
+2404	Ευχαριστώ (efcharistó, köszönöm)! Már beszéled a kioszk nyelvét. Tessék, a ház ajándéka.
+2405	Ευχαριστώ (efcharistó)! A sor rekordidő alatt elfogyott.
+2406	Σιγά σιγά (sigá sigá), lassan, lassan. Ez görög közmondás is.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): egy közepesen édes frappét kérek. Habosra vert jeges kávé.
+2408	Véletlenül találták fel 1957-ben a Thesszaloniki Nemzetközi Vásáron: egy eladónak nem volt forró vize, ezért hideg vízzel rázta fel az instant kávéját.
+2409	A Szintagma metróállomás. Amikor az 1990-es években kiásták a metrót, régészek több tízezer tárgyat találtak. Néhány magában az állomásban látható.
+2410	Október 28. az Óchi-nap (όχι, óchi, „nem”). 1940-ben Görögország nemet mondott Mussolini ultimátumára; minden évben iskolások vonulnak az utcákon.
+2411	Ne tévesszük össze a 2015-ös népszavazás OXI-jával. Két híres görög „nem”, hetvenöt év különbséggel.
+2412	A drachma: ókori görög pénzérme neve, amelyet 1832-ben hoztak vissza a fiatal görög államnak, és 2002-ben az euró váltotta fel.
+2413	A görög egyeurós érmén Athéné baglya látható, egy ókori athéni pénzről, a négydrachmásról másolva.
+2414	A Görög Nemzeti Banknak saját nyomdája van: ők is nyomtatnak eurobankjegyeket.
+2415	Az Europa-sorozat bankjegyein a sorozatszám első betűje mutatja, melyik jegybank rendelte meg őket. A miénk az Y.
+2416	Y a mintabankjegyeden? Akkor isten hozott itthon!
+2417	Anafiotika: a 19. században az Anafi-szigetről érkezett építőmunkások dolgoztak a királyi palotán, és egy kis ciklád falut építettek maguknak itt, az Akropolisz alatt.
+2418	Μιάου (miáou). Athénban több ezer utcai macska él; a szomszédok és önkéntesek etetik őket, még a romok között is.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Ettél? Lefogytál. Ülj le. Egyél.
+2421	Yiayia az egész csapatodat addig etette, hogy mozdulni se bírtak. Mindenki formában van.
+2422	Γιαγιά (yiayiá) nagymamát jelent. És egy yiayia sosem hiszi el, ha azt mondod, jóllaktál.
+2423	Szomszéd
+2424	Χρόνια πολλά (chrónia pollá)! Sok évet! Ma van a névnapom.
+2425	Görögországban sokszor inkább a névadó szent ünnepét ünnepeljük, mint a születésnapunkat. Fél utcát Giorgosnak hívnak: képzeld el a Szent György-napot.
+2426	A ναι (nai) igent jelent! A turistáknak úgy hangzik, mint a „no”. Az όχι (óchi) pedig nemet jelent.
+2427	Ha hátrabillentem a fejem és csettintek a nyelvemmel, az is nem. Egyszerű!
+2428	Piaci árus
+2429	Μάτι (máti), a szem! A kék üvegszem megvéd a szemmelveréstől, az irigységből fakadó balszerencsétől.
+2430	Ha valaki megdicséri az Euromonodat, mondd: „φτου φτου” (ftou ftou), mintha köpnél. Szerencsét hoz. De tényleg ne köpj.
+2431	Sajtárus
+2432	A feta 2002 óta oltalom alatt álló eredetmegjelölés: az igazi feta Görögországban készül juhtejből, néha egy kis kecsketejjel.
+2433	Németország és Dánia megtámadta az EU Bíróságán. 2005-ben a Bíróság kimondta: a feta görög.
+2434	Grillmester
+2435	Souvlaki! Athénban ez nyárson sült hús. Thesszalonikiben ugyanezt kalamakinak hívják, „kis pálcikának”.
+2436	Kérj „souvlakit” Thesszalonikiben, és pita gyrost kapsz. Családok szakadtak szét kisebb ügyön is.
+2437	Zenész
+2438	Mindenki azt hiszi, hogy a szirtaki régi népi tánc. A „Zorba, a görög” című filmhez találták ki 1964-ben, Mikisz Theodorakisz zenéjére.
+2439	Először lassan, aztán egyre gyorsabban… Opa!
+2440	Monasztiraki állomás. Az 1-es vonal az 1869-ben megnyílt Athén–Pireusz vasútvonalat követi: a hálózat legrégebbi vonala.
+2441	Vonatra szállsz a pireuszi kikötőbe?
+2442	Heródes Atticus Odeonja, i. sz. 161-ben épült. 1944-ben egy fiatal szoprán, aki az athéni konzervatóriumban tanult, itt énekelte Beethoven „Fidelio”-ját: Maria Callas.
+2443	Callas és Beethoven is szerepel a következő eurobankjegyek döntős terveinek kultúra-témájú 5 és 10 eurós bankjegyén.
+2444	Ezek a fehér lapok gipszmásolatok. Az eredetik 1816 óta a londoni British Museumban vannak.
+2445	Görögország 1983 óta hivatalosan kéri a visszaadásukat. A múzeum készen tartja a helyüket az eredeti darabok mellett.
+2446	A Parthenón-fríz egy eredeti tömbje: a panathénaiai körmenet lovasai, i. e. 440 körül faragva.
+2447	Az Akropolisz Múzeum 2009-ben nyílt meg. Ez a legfelső szint úgy van elforgatva, hogy egy vonalba esik a Parthenónnal, amelyet az üvegen át látsz.
+2448	A fríz végigfut körben, az eredeti sorrendben. Mézszínű márvány: itt. Fehér gipsz: Londonban.
+2449	A Zappeion. Itt írta alá Görögország 1979. május 28-án az Európai Közösségekhez való csatlakozási szerződését.
+2450	1981. január 1-jén lett a tizedik tag. Az euró 2001-ben követte, egy évvel az érmék és bankjegyek előtt.
+2451	Melina Mercouri (1920–1994), színésznő, majd kulturális miniszter. Ő javasolta Európa Kulturális Fővárosa címet: Athén volt az első, 1985-ben.
+2452	Ő indította el a Parthenón-szobrok visszaadásáért folytatott kampányt is.
+2453	A Panathénaiai Stadion, a világ egyetlen teljesen márványból épült nagy stadionja. Az első újkori olimpiai játékokat itt rendezték 1896-ban.
+2454	Kétévente itt adják át az olimpiai lángot a következő házigazda városnak.
+2455	A COSCO Shipping által üzemeltetett konténerterminál. A kínai csoport 2016-ban megvásárolta a Pireuszi Kikötői Hatóság 51%-át, majd 2021-ben 67%-át.
+2456	Kikötői őr
+2457	A konténerterminál látogatóknak zárva van. Az utasforgalmi kikötő a tiéd.
+2458	Erre nem, kérem: konténerterminál.
+2459	Pireusz állomás, az 1-es vonal végállomása. Az épület 1929-ből való.
+2460	Vonatra szállsz vissza Athénba?
+2461	Pireusz falainak kövei. Az i. e. 5. században Themisztoklész tette Pireuszt Athén kikötőjévé, és a Hosszú Falak kötötték össze a két várost.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), „Pireusz gyermekei”! Manosz Hadzidakisz írta a „Vasárnap soha” (1960) című filmhez, Melina Mercouri főszereplésével.
+2463	Elnyerte az Oscar-díjat a legjobb dalért. Franciaországban Dalida tette slágerré: „Les Enfants du Pirée”.
+2464	Halász
+2465	Amott van Mikrolimano, a kis kikötő: halászhajók és tavernák, ahol a hal még reggel úszkált.
+2466	Erre van a Karaiszkakisz Stadion, az Olympiakosz otthona. 2024-ben a klub megnyerte az UEFA Európa Konferencia Ligát: egy görög futballklub első európai trófeája.
+2467	Kompok a szigetekre: Égina, Hydra, a Ciklád-szigetek, Kréta… Pireusz Európa egyik legforgalmasabb utaskikötője.
+2468	A görög hajótulajdonosok a világ kereskedelmi flottájának nagyjából ötödét irányítják: többet, mint bármely más ország.
+2469	Dokkmester
+2470	Te ott, gyakornok! A hajó délben indul, a darukezelőm meg sztrájkol. Raktál már meg konténerhajót?
+2471	Nehéz konténerek alulra, hűtöttek az áramellátású sorokra, és tartsd egyenesen, különben megdől.
+2472	Még egy hajót megrakni?
+2473	Egyenes, mint a nyíl! Tessék a fizetésed. Ne költsd el az egészet souvlakira.
+2474	Megint időben kifutott egy hajó. A kapitány üdvözletét küldi.
+2475	Úgy dől, mint egy rossz kedv. Újrarakjuk. Még egyszer?
+2476	Görög Nemzeti Bank – Múzeum
+2477	Akropolisz Múzeum – Parthenón-terem
+2478	Pireuszi kikötő
+2479	Ház – Plaka
+2480	Zsűri-képeslapok: %d / 12.
+2481	Mind a tizenkét motívum megvan! Eleni, az EKB frankfurti műhelyében, látni akarja majd őket.
+2482	Mind a tizenkét képeslap! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… és a hat madár. Többet láttál Európából, mint a zsűri.
+2483	Mostantól a présem aranykiadásban nyomtatja a mintapéldányaidat. És vedd ezt a műhelytől.
+2484	Még valami: a zsűri képeslapokat küldött a tizenkét motívumról szerte Európába. Ha mind megvan, gyere vissza: kimetszem az aranykiadást.
+2485	A brüsszeli városháza, a 15. században épült. A 96 méteres torony tetején Szent Mihály legyőzi a sárkányt.
+2486	A körülötte lévő Grand-Place 1998 óta az UNESCO világörökségének része.
+2487	A céhházak: pékek, hajósok, sörfőzők… minden mesterségnek megvolt a maga háza, aranyozva, hogy mutassa gazdagságát.
+2488	Manneken-Pis: 55 centiméter bronz. Több mint ezer jelmeze van, saját ruhatár-múzeumban őrzik.
+2489	Hivatalos öltöztető
+2490	Ma úgy van felöltöztetve, mint… önmaga. Holnap tűzoltó. Jövő héten űrhajós. Főállás egy szobrot öltöztetni.
+2491	Sültkrumpli-árus
+2492	Az igazi belga sültkrumplit kétszer sütik: egyszer, hogy megpuhuljon, egyszer, hogy ropogós legyen.
+2493	Éhes vagy? Próbálj ki egy mitraillette-et: fél bagett, hús, szósz, és bele a sültkrumpli. Igen, bele.
+2494	Gofriárus
+2495	Brüsszeli gofri: könnyű, négyszögletes, porcukros. Liège-i gofri: tömörebb, belül karamellizált gyöngycukorral.
+2496	A kettő közti választás nemzedékek óta megosztja a családokat. Én mindkettőt árulom. Nagyon diplomatikus.
+2497	Brüsszel falait tucatnyi képregény-falfestmény borítja. A belgák ugyanolyan komolyan veszik a képregényt, mint a csokoládét.
+2498	Erre van a Galeries Royales Saint-Hubert (1847), Európa egyik legrégebbi fedett üzletárkádja.
+2499	1912-ben, ezekben az árkádokban találta fel Jean Neuhaus csokoládékészítő a töltött csokoládét: a pralinét.
+2500	Grand-Place / Grote Markt. Brüsszelben minden utcanevet franciául és hollandul írnak ki: a fővárosi régió hivatalosan kétnyelvű.
+2501	Belgiumnak három hivatalos nyelve van: a holland, a francia és a német.
+2502	Brüsszeli
+2503	Allez, une fois! Így képzelik, hogy beszélünk Brüsszelben. És hát… néha tényleg.
+2504	Kertész
+2505	Kétévente augusztusban begóniaszőnyeg borítja a Grand-Place-t. Az elsőt 1971-ben terítették le.
+2506	Több százezer virág, kézzel lerakva néhány óra alatt. Egy önkéntes hiányzik. Velem ültetsz?
+2507	Még egy szőnyeg? A begóniák várnak.
+2508	Csodálatos! Még a céhházak is irigykednek. Tessék, a várostól.
+2509	Újabb remekmű. Pár nap múlva a virágok eltűnnek, de a fotók megmaradnak.
+2510	A minta egy kicsit… absztrakt lett. Magritte-nak tetszett volna.
+2511	A Charlotte Nagyhercegnő híd, becenevén a Vörös híd, az óvárost köti össze a Kirchberg-fennsíkkal, magasan az Alzette völgye fölött.
+2512	A Nagyhercegi Palota, az óváros szívében. Luxemburg a világ egyetlen megmaradt nagyhercegsége.
+2513	Az őr nyolc lépést menetel, megfordul, nyolc lépést vissza. Nagyon nyugtató nézni.
+2514	Az Európai Számvevőszék: az EU pénzügyi őrkutyája. Euróról euróra ellenőrzi, hogyan költik az európai pénzt.
+2515	A következő bankjegyek egyik döntős tervén a 200 eurós bankjegy hátoldalán látható.
+2516	2020. február 29. óta Luxemburgban minden tömegközlekedés ingyenes: busz, villamos, vonat. A világon az első ország, ahol ez megvalósult.
+2517	A Gëlle Fra, az Emlékmű aranyozott hölgye a világháborúkban elesett luxemburgiak előtt tiszteleg.
+2518	A megszállók 1940-ben ledöntötték; teljesen felújítva 1985-ben került vissza az oszlopra.
+2519	A Schueberfouer! 1340 óta működő vidámpark, Vak János luxemburgi gróf alapította. Minden évben nyár végén.
+2520	Luxemburgi
+2521	Moien! Így köszönnek luxemburgiul. Nálunk három közigazgatási nyelv van: a luxemburgi, a francia és a német.
+2522	A legtöbben ugyanabban a mondatban váltogatjuk őket. Néha az angol is becsúszik.
+2523	Egy falon: „Mir wëlle bleiwe wat mir sinn” („Maradni akarunk, amik vagyunk”), a nemzeti jelmondat.
+2524	Üdvözlünk a Bock-kazamatákban: 17 kilométernyi sziklába vájt alagút, az UNESCO világörökség része.
+2525	A második világháborús bombázások idején akár 35 000 ember is menedéket talált itt.
+2526	Egy látogató eltévedt a sötét folyosókon az utolsó fáklyámmal. Megtalálod a kivezető utat, és visszahozod?
+2527	Még egy körút a folyosókon?
+2528	Mindketten épségben kijutottatok! Az erődöt „Észak Gibraltárjának” hívták. Vedd ezt a fáradságodért.
+2529	Jobban ismered a folyosókat, mint az 1700-as évek katonái.
+2530	Kialudt a fáklya… Ne aggódj, ismerem az utat. Próbáljuk újra.
+2531	Az Európa-híd átível a Rajnán. A túloldalon: Kehl, Németországban. 2017 óta villamos is átjár a határon.
+2532	Ingázó
+2533	Kehlben lakom és Strasbourgban dolgozom. Minden reggel négy perc alatt országot váltok. Senki nem nézi az útlevelemet.
+2534	Itt székel az 1949-ben alapított Európa Tanács: 46 tagállam és az Emberi Jogok Európai Bírósága. Nem tartozik az EU-hoz.
+2535	Ne keverd össze az Európai Tanáccsal (az EU állam- és kormányfői) vagy az Európai Unió Tanácsával (a miniszterek). Még az újságírók is összekeverik.
+2536	A tizenkét arany csillagos kék zászlót először az Európa Tanács fogadta el, 1955-ben. Az EU később vette át.
+2537	Bertha von Suttner (1843–1914) portréja, a „Le a fegyverekkel!” című regény szerzője, és az első nő, aki Nobel-békedíjat kapott, 1905-ben.
+2538	Ő a 200 eurós alak az EKB „Európai kultúra” döntős terveiben.
+2539	Európa himnusza az „Örömóda” előjátéka Beethoven 9. szimfóniájából. Az Európa Tanács 1972-ben, az EU 1985-ben fogadta el.
+2540	Nincs hivatalos szövege: Európában mindannyian ugyanazon a nyelven dúdoljuk.
+2541	A katedrális tornya 142 méter magas. 1647-től 1874-ig ez volt a világ legmagasabb épülete.
+2542	A csillagászati óra. Szerkezete 1842-ből való. Minden nap fél egykor a tizenkét apostol elvonul Krisztus előtt.
+2543	A katedrális vogézi rózsaszín homokkőből épült. Ezért pirul el naplementekor.
+2544	A Christkindelsmärik 1570 óta zajlik itt: Európa egyik legrégebbi karácsonyi vására.
+2545	Winstub-szakács
+2546	Flammekueche! Vékony tészta, tejföl, hagyma, szalonna, fatüzes kemencében sütve két perc alatt. Franciául tarte flambée.
+2547	A strasbourgi eskü, amelyet itt tett le 842-ben Nagy Károly két unokája, az ófrancia és az ófelnémet nyelv legrégebbi szövegei közé tartozik.
+2548	Mindkét király a másik nyelvén esküdött, hogy a másik serege megértse. A tolmácsolásnak hosszú múltja van itt.
+2549	Ornitológus
+2550	A fehér gólya Elzász jelképe. 1974-ben csak kilenc pár maradt a régióban.
+2551	Egy visszatelepítési programnak köszönhetően ma több száz pár van. És a fehér gólya rajta van az 50 eurós bankjegy egyik döntős tervén!
+2552	Az újonnan érkezők a fészküket keresik. Elvezeted őket, távol a villanyvezetékektől?
+2553	Újabb gólyák érkeznek. Megint irányítod őket?
+2554	Minden pár otthon van! Tessék, a gólyavédelmi alapnak… vagyis neked.
+2555	A Petite France tetői tele vannak csattogó csőrökkel. Ez itt a tavasz hangja.
+2556	Néhányan belegabalyodtak a vezetékek közelében… Jól vannak, csak kicsit bosszúsak. Újra?
+2557	18. terem: az athéni Parthenón szobrai, amelyeket Lord Elgin megbízottai szállítottak el 1801 és 1812 között, és a British Museum vásárolt meg 1816-ban.
+2558	Görögország 1983 óta kéri a visszaadásukat. Athénban az Akropolisz Múzeum készen tartja a helyüket.
+2559	Görög látogató
+2560	Egészen Athénból jöttem, hogy lássam a márványainkat. Aztán visszamegyek az Akropolisz Múzeumba, és megnézem ezek fehér másolatait.
+2561	Egy fríz, két város. Talán egyszer újra egy város.
+2562	Piros telefonfülke, az 1935-ben tervezett K6-os modell. Ma némelyikben defibrillátor van, másokban kis könyvtár.
+2563	A londoni metró 1863-ban nyílt meg: a világ első földalatti vasútja. „Mind the gap!”
+2564	A Brexit után az Egyesült Királyság kilépett az Erasmusból. 2025 decemberében megállapodott abban, hogy 2027-től újra csatlakozik. A kishúgom Bolognában tanulhat majd!
+2565	Holland vámtiszt
+2566	2021. január 1. óta az Egyesült Királyság az EU vám- és állat-egészségügyi szabályain kívül áll: az utazók már nem hozhatnak húst vagy tejterméket az EU-ba.
+2567	Abban a hónapban a Hoek van Hollandban dolgozó kollégáimnak sonkás szendvicseket kellett elkobozniuk. „Welcome to the Brexit, sir, I'm sorry.”
+2568	Felszállnak a reggeli kompra. Segítesz átnézni az uzsonnás dobozokat?
+2569	Még egy komp, még száz uzsonnás doboz. Megint segítesz?
+2570	Egyetlen sonkás szendvics sem jutott át. Tessék, egy sajtmentes, sonkamentes jutalom.
+2571	Hatékony és udvarias. Kiváló vámtiszt lenne belőled.
+2572	Egy szalámi átjutott a Csatornán… Az állatorvosi ellenőrök szót váltanának vele.
+2573	Kamionsofőr
+2574	A Brexit előtt megállás nélkül átkeltem a kamionommal. Most: vámáru-nyilatkozatok, egészségügyi bizonyítványok, ellenőrzések. Több űrlapot olvastam, mint regényt.
+2575	Egy kampánybusz. 2016-ban az oldalán heti 350 millió fontot ígértek a nemzeti egészségügyi szolgálatnak.
+2576	2017-ben az Egyesült Királyság Statisztikai Hatóságának vezetője ezt a számot „a hivatalos statisztikák egyértelmű félrevezető használatának” nevezte.
+2577	Madármegfigyelő
+2578	Az északi szulák csaknem 100 km/órás sebességgel csapnak le a tengerbe. A világ legnagyobb kolóniája a skóciai Bass Rock szigeten van.
+2579	Az EKB feltett egyet a 200 eurós bankjegy egyik döntős tervére: nyílt tenger, behajtott szárnyak, csobbanás.
+2580	Sakkozó
+2581	Széchenyi gyógyfürdő, 1913: Európa egyik legnagyobb gyógyfürdője. Itt sakkozunk, vállig forró vízben.
+2582	Magyarország adta a világnak Polgár Juditot, minden idők legerősebb női játékosát: tizenöt évesen nagymester, és 2002-ben megverte Kaszparovot.
+2583	Három állás, mindegyikben egylépéses matt. Megtalálod őket, mielőtt kihűl a víz?
+2584	Új állások az úszó táblán. Még egy kör?
+2585	Három matt! Úgy játszol, mint egy nagymester fürdőköpenyben. Vedd ezt.
+2586	Matt, matt, matt. A gőz gyorsabb gondolkodásra késztet.
+2587	Kihűlt a víz… Legközelebb azt a lépést keresd, amely után a királynak nincs hová mennie.
+2588	Romkocsmák: az egykori zsidónegyed régi udvarai, össze nem illő bútorokkal berendezett bárokká alakítva. Az első a 2000-es évek elején nyílt.
+2589	Csapos
+2590	Egészségedre! Magyarul ezt mondjuk koccintáskor. Próbáld kimondani a második pohár fröccs után: bor és szódavíz.
+2591	Lángosárus
+2592	Lángos: sült tészta, fokhagyma, tejföl és reszelt sajt. Nem diéta. Hagyomány.
+2593	A Rubik-kockát Budapesten találta fel 1974-ben Rubik Ernő, hogy a térlátást tanítsa a diákjainak. Én két perc alatt kirakom. Vagyis az egyik oldalát.
+2594	Cipők a Duna-parton (2005). Hatvan pár vascipő emlékezik a budapesti zsidókra, akiket a nyilasok 1944-ben és 1945-ben e parton lelőttek és a folyóba dobtak.
+2595	A Lánchíd, 1849-ben nyílt meg: az első állandó híd Buda és Pest között, az angol mérnök, William Tierney Clark tervei szerint.
+2596	Kőoroszlánjainak nincs nyelve… a legenda szerint. Nézd meg jól.
+2597	A Halászbástya a Várhegyen: hét torony, a Kárpát-medencében letelepedő hét magyar törzs emlékére.
+2598	Gyurgyalagok! Európa legszínesebb madarai. Fészküket homokos folyópartokba ássák, és repülés közben kapják el a méheket.
+2599	Magyarországon vannak a legnagyobb kolóniák. Az EKB döntős tervein egy kolónia díszíti a 20 eurós bankjegyet.
+2600	Nyelvész
+2601	A magyar nem rokon a szomszédos nyelvekkel: az uráli nyelvcsaládhoz tartozik, mint a finn és az észt.
+2602	És a családnév van elöl: Rubik Ernő, Polgár Judit. Könnyű megjegyezni, nehéz kiejteni.
+2603	A budapesti születésű Bíró László 1938-ban szabadalmaztatta a modern golyóstollat. Sok országban a tollat ma is „biro”-nak hívják.
+2604	A Salon de l'Horloge. 1950. május 9-én 18 órakor Robert Schuman francia külügyminiszter itt olvasta fel nyilatkozatát, amelyben a francia és a német szén- és acéltermelés összevonását javasolta.
+2605	Ez vezetett az 1951-es Európai Szén- és Acélközösséghez, a mai EU első lépéséhez. Minden május 9. az Európa Nap.
+2606	Az archívum összekeverte a nyilatkozat lapjait! Már érkeznek az újságírók. Vissza tudod rakni a mondatokat sorrendbe?
+2607	A lapok megint összekeveredtek. Segítesz?
+2608	Szóról szóra! Schuman úr kezet fogott volna veled. Vedd ezt a minisztériumtól.
+2609	Tökéletes sorrend. Európa nem egy csapásra jön létre, de te gyors vagy.
+2610	Nem egészen… Emlékezz: először a béke, aztán a konkrét eredmények, aztán a szén és az acél.
+2611	Marie Curie, született Maria Skłodowska Varsóban, 1906-ban az első női professzor lett a Sorbonne-on. Két Nobel-díjat nyert, fizikából és kémiából.
+2612	Ő a 20 eurós alak az EKB „Európai kultúra” döntős terveiben.
+2613	Pék
+2614	2022 óta a francia bagett készítésének mestersége az UNESCO szellemi kulturális örökségének listáján van. Liszt, víz, só, élesztő. És egy kis türelem.
+2615	Un café, s'il vous plaît! Párizsban a „café” eszpresszó. Ha nagy csészét akarsz, azt ki kell mondani. Hangosan.
+2616	Bouquiniste
+2617	A 16. század óta árulunk használt könyveket ezeken a rakpartokon. Több száz zöld doboz, a Szajna kilométereken át.
+2618	Notre-Dame de Paris. A 2019. április 15-i tűzvészben megsérült, öt év munka után 2024. december 7-én nyílt meg újra.
+2619	Látogató
+2621	Egyes teleken egy hajnalmadár ereszkedik le a hegyekből a Meuse-völgy sziklafalaihoz. Szürke madár karmazsinvörös szárnyakkal, mint egy pillangó.
+2622	Ő az 5 eurós bankjegy madara az EKB döntős terveiben: hegyi forrás és egy hajnalmadár.
+2623	Horgász
+2624	Látod azt a kék villanást a Moselle-en? Jégmadár. Egy ágról merül, és hallal a csőrében tér vissza.
+2625	Az EKB döntős terveiben ő a 10 eurós bankjegy madara, egy vízesés mellett.
+2626	Antwerpen Európa második legnagyobb kikötője. És a Schelde mentén, közvetlenül a darúk mellett, gulipánok fészkelnek a természetvédelmi területeken.
+2627	Fekete-fehér, felfelé hajló csőrrel: ő a 100 eurós bankjegy madara az EKB döntős terveiben, egy folyótorkolatnál.
+2628	Varsói lakos
+2629	Maria Skłodowska, Marie Curie, itt született Varsóban, 1867-ben. A polónium elemet az országáról nevezte el.
+2630	Óvárosunkat 1944-ben földdel tették egyenlővé, és kőről kőre újjáépítették: 1980 óta az UNESCO listáján szerepel.
+2631	Leonardo da Vinci 1513 és 1516 között Rómában élt, a Vatikánban, mielőtt Franciaországba távozott.
+2632	Ő a 100 eurós alak az EKB „Európai kultúra” döntős terveiben.
+2633	Professzor
+2634	Az itt 2007-ben aláírt Lisszaboni Szerződés létrehozta az 50. cikket: az EU-ból való kilépés eljárását. Az Egyesült Királyság volt az első, aki élt vele.
+2635	Szintén Lisszabonból: a pastéis de nata, a Jerónimos-kolostor szerzeteseinek receptje alapján. Sokkal népszerűbb, mint az 50. cikk.
+2636	Öreg tengerész
+2637	1571-ben a lepantói csatát a Pátrai-öbölben vívták, itt Görögországban. Egy fiatal spanyol katona elvesztette ott a bal keze használatát.
+2638	A neve Miguel de Cervantes volt. Később megírta a Don Quijotét. Ő az 50 eurós alak az EKB kultúra-terveiben!
+2639	Egy sarokban egy képeslap az EKB tervezőzsűrijének bélyegzőjével: a jövő bankjegyeinek tizenkét motívuma közül az egyik. Megtarthatod.
+2640	British Museum – 18. terem
+2641	Bock-kazamaták – Bejárat
+2642	Strasbourgi katedrális
+2643	Palais de l'Europe – Európa Tanács
+2644	Kompterminál – EU-vám
+2645	Romkocsma – Budapest
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Pékség – Párizs
+2648	Piros
+2649	Sárga
+2650	Fehér
+2651	Narancs
+2652	A virágszőnyeg
+2655	A terv
+2656	Három begóniaszőnyeg! Belgium termeszti a világ gumós begóniáinak nagy részét, Gent környékén.
+2657	Érkeznek a turisták, a szőnyeg pedig nincs kész… Legközelebb!
+2658	Elzász gólyái
+2661	Gólya otthon: %d / %d · elveszett: %d / 3
+2662	Tíz gólya a fészkében! Elzászban azt tartják, a háztetőn lévő gólya szerencsét hoz.
+2663	Túl sok gólya repült tovább a következő faluba… Jövő tavasszal visszatérnek.
+2664	Sonkás szendvics
+2665	Tej
+2666	Szalámi
+2667	Alma
+2668	Csokoládé
+2669	Chips
+2670	Keksz
+2671	EU-vám
+2674	Hús, tejtermék, a legtöbb gyümölcs: elkoboz.
+2675	Banán, cukorka, chips, víz: átenged.
+2676	Átenged
+2677	Elkoboz
+2678	Minden uzsonnás doboz átnézve! Az EU egységes piacán belül az étel szabadon mozog; a határokon ellenőrzik.
+2679	Egy szalámi átcsúszott… vagy egy banánt tévesen lefoglaltak. Előbb a szabályok, aztán a szendvics!
+2685	Sakk a fürdőben
+2688	Világos lép és egy lépésben matt
+2689	K király · Q vezér · R bástya · B futó · N huszár · P gyalog
+2691	A víz kihűlt a matt előtt… Azt a lépést keresd, amely után a királynak nem marad egyetlen mezője sem.
+2692	A világbékét nem lehet megóvni
+2694	Európa nem egyszerre és nem egységes szerkezetben fog létrejönni.
+2698	A Schuman-nyilatkozat
+2701	Kész a nyilatkozat! 1951-ben követte az Európai Szén- és Acélközösség. Minden május 9. az Európa Nap.
+2702	Az újságírók várnak, a lapok pedig még összevissza vannak… Előbb a béke, aztán a konkrét eredmények!
+2703	A Bock-kazamaták
+2706	A látogató követ: most a kijárat!
+2707	Valahol a sötétben valaki szólongat…
+2708	Kint a napfényen, a látogatóval együtt! A bombázások idején akár 35 000 ember is menedéket talált ezekben a folyosókban.
+2709	Kialudt a fáklya… A vezető követi a hangodat, és kivezet titeket.
+2710	a fenyegető veszélyekkel arányos alkotó erőfeszítések nélkül.
+2713	Konkrét eredmények révén épül fel, amelyek először tényleges szolidaritást teremtenek.
+2714	A francia–német szén- és acéltermelést közös Főhatóság alá helyezik…
+2715	…hogy a francia–német háború anyagilag lehetetlenné váljék.
+2716	Mielőtt hozzányúlnál a nyomólemezhez, bizonyítsd, hogy kiszúrod a hamisat! Az EKB módján vizsgáld meg a bankjegyeket: TAPINTSD a dombornyomást, NÉZD fény felé, BILLENTSD. Bírálj el 10 bankjegyet, egy hiba megengedett.
+2717	Egy sachsenhauseni kocsmában töltsd az almabort a Bembelből minden pohárba a vonalig! Tartsd lenyomva a tollat (vagy az A-t) a kancsó billentéséhez, engedd el a megállításhoz, aztán szolgáld fel a gombbal. 8 pohár, 2 kilöttyenés megengedett.
+2718	Nyolc tökéletes pohár! Frankfurtban az almabort „Ebbelwoi”-nak hívják.
+2719	Szintagma tér, az Ismeretlen Katona sírja. Mozogj az evzónokkal egy ütemben: LÉPÉS, RÚGÁS, DOBBANTÁS, amikor a jel eléri a vonalat. 24 mozdulat, lassan és ünnepélyesen. 4 hiba megengedett.
+2720	Csúcsforgalom a kioszkban! Minden vásárló görögül kér valamit: érintsd meg, amit kér. Az első vásárlóknál súgom a jelentését. 15 vásárló 60 másodperc alatt!
+2721	Rakj meg három hajót délig! Mozgasd a darut a tollal vagy ←/→, ejtsd le A-val vagy érintéssel. A nehéz (H) sosem kerülhet könnyebb fölé, a hűtött (fehér) csak a két áramellátású oszlopra (csatlakozók), és tartsd egyenesen a hajót!
+2722	Másold le a felső képernyőn látható begóniaszőnyeget: válassz színt, aztán érintsd meg vagy húzd végig a négyzeteken. Nyomd meg a Kész gombot, ha egyezik. Három szőnyeg 90 másodperc alatt!
+2723	A gólyák visszatértek Afrikából! Vezesd mindegyiket egy üres fészekhez: csúsztasd a tollat fel-le (vagy ↑/↓), és szállj alacsonyan egy szabad fészek fölött a leszálláshoz. Kerüld a villanyvezetékeket. 10 gólya, 3 veszteség megengedett.
+2724	Kikötött a komp! Nézd át az uzsonnás dobozokat: ELKOBOZD a húst, tejterméket és a legtöbb gyümölcsöt, ENGEDD ÁT a többit. Vigyázz: a banán megengedett, az alma nem. 20 doboz 50 másodperc alatt, 2 hiba megengedett.
+2725	Széchenyi fürdő: a játékosok a gőzben lebegő tábla fölé hajolnak. Világos lép: találd meg a lépést, amely azonnal mattot ad. Érintsd meg egy világos bábut, majd a mezőjét. Három állás 90 másodperc alatt!
+2726	1950. május 9., Salon de l'Horloge. Robert Schuman nyilatkozatának lapjai összekeveredtek! Érintsd meg a mondatokat a helyes sorrendben a sajtótájékoztató előtt. 60 másodperc.
+2727	A folyosók sötétek, a fáklya fogy. Keresd meg az elveszett látogatót, aztán a kijáratot! Mozogj a +vezérlőgombbal, vagy érints a figurád mellé. 75 másodperc.
+2728	Három matt! A fürdőben azt mondják, a vesztesnek kell elsőként kiszállnia a vízből.
+2729	Az új tölgyfa szerkezetet kézzel faragták, mint a középkorban. Egész Franciaországból dolgoztak rajta ácsok és kőfaragók.
+2730	Előlap
+2731	Hátoldal

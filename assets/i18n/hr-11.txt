@@ -1,0 +1,19 @@
+# Croatian — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Ovjeri 15 valjanih presuda žigom u 30 sekundi. Papire označene s „LAŽNA“ pusti da prođu: ako ovjeriš takav, gubiš rundu!
+2087	PRESUDA
+2088	PRESUDA: žigosaj. LAŽNA: propusti.
+2089	Petnaest valjanih presuda je ovjereno! Uprava je ponosna na tebe.
+2090	Ovjerio si loš dokument! Provjeri prije nego što odobriš…
+2091	Petnaest valjanih presuda nije spremno. Sudska pisarnica se zatvara. Pokušaj ponovno…
+2092	Evo današnje hrpe. Moramo ovjeriti petnaest valjanih presuda prije zatvaranja pisarnice. Pazi, među njih su se ušuljali loši dokumenti! Možeš li mi pomoći?
+2093	Pisarnica ne može odobriti ovu hrpu. Trebamo petnaest valjanih presuda i nijedan ovjeren loš dokument. Pokušaj ponovno kad god želiš.
+2094	Još petnaest presuda u redu! Za svoj drugi uspjeh dobivaš kvalificirani žig.
+2095	Besprijekorno! Ostao mi je još jedan kvalificirani žig za tebe. Luksemburg voli metodične ljude.
+2096	Besprijekorno! Ali ovaj put nemam žig za tebe. Navrati opet i pomozi mi!
+2097	Drugi igrač šalje %s!
+2098	Neispravna ekipa ili veza.
+2099	Predmeti nisu dopušteni u prijateljskoj debati.
+2100	Pobijedio si u ovoj prijateljskoj debati!
+2101	Drugi igrač je pobijedio u ovoj prijateljskoj debati!
+2102	Debata je završena ili je veza prekinuta.
+2105	Spremanje nije uspjelo. Pokušaj ponovno.

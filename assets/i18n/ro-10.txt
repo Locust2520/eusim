@@ -1,0 +1,523 @@
+# Romanian — city extensions (ids 2169+)
+2169	FALS
+2171	%d s · %d/%d
+2172	Linii în relief pe margini: se simt la atingere.
+2173	Hârtia e netedă peste tot…
+2174	Pipăie
+2175	Privește
+2176	Înclină
+2177	Verifică, apoi decide:
+2178	Autentică
+2179	Falsă
+2180	L/R: înclini · X: contra luminii · Y: pipăi
+2181	Pipăi, privești, înclini
+2184	Era %s: lipsea tipărirea în relief.
+2185	Era %s: niciun filigran contra luminii.
+2186	Era %s: numărul nu și-a schimbat culoarea.
+2187	o bancnotă falsă
+2188	Era o bancnotă autentică!
+2189	Niciun fals nu a trecut! În filigran ai văzut-o pe Europa, de pe o vază grecească veche de peste 2 000 de ani.
+2190	Un fals a scăpat… Pipăi, privești, înclini: cele trei verificări durează doar câteva secunde.
+2191	Bembel-ul
+2194	Servește
+2196	Prea multe pahare vărsate… Cârciumarul îți dă o cârpă.
+2197	Maria Callas
+2198	Ludwig van Beethoven
+2199	Marie Curie
+2200	Miguel de Cervantes
+2201	Leonardo da Vinci
+2202	Bertha von Suttner
+2203	artiști stradali
+2204	un festival de cântec
+2205	o școală
+2206	o bibliotecă
+2207	artă stradală
+2208	o piață cu arbori
+2209	o cățărătoare de stânci lângă un izvor de munte
+2210	un pescăraș albastru la o cascadă
+2211	prigori într-o vale de râu
+2212	o barză albă lângă un râu cu meandre
+2213	un ciocântors la o gură de râu
+2214	un blegvan nordic deasupra mării
+2215	Parlamentul European
+2216	Comisia Europeană
+2217	Banca Centrală Europeană
+2218	Curtea de Justiție a UE
+2219	Consiliul European și Consiliul UE
+2220	Curtea Europeană de Conturi
+2221	Față: portretul tău, în locul lui %s
+2222	Verso: %s
+2223	Față: %s
+2224	Bancnotă specimen – %d €
+2225	Nu e mijloc legal de plată: specimen de design.
+2227	L/R sau atinge: întoarce · B: închide
+2228	Deschis
+2229	Mediu
+2230	Închis
+2231	Radieră
+2234	Anulează
+2235	Șterge
+2236	Gata
+2237	Desenează-ți portretul
+2238	Studioul îl gravează ca pe un portret de bancnotă.
+2239	Bancnota ta specimen
+2240	Cultura europeană
+2241	Râuri și păsări
+2242	Întoarce
+2243	Portret nou
+2244	Tipărește specimenul
+2245	Se tipărește…
+2246	Portretul tău pentru specimen
+2247	Camera DSi, creionul tactil sau fotografia ta oficială.
+2248	Creionul tactil sau fotografia ta oficială.
+2249	Fă o poză
+2250	Desenez portretul
+2251	Foto oficială
+2252	Camera nu poate fi folosită aici. Îți poți desena portretul.
+2253	Bancnota ta specimen a intrat în colecția Muzeului Banilor din Frankfurt.
+2254	La Frankfurt, studioul BCE încă păstrează un specimen gol cu numele tău pe el.
+2255	Se pornește camera…
+2256	Încadrează-ți fața în oval
+2257	A sau atinge: fotografiază · L/R: altă cameră · B: înapoi
+2258	Test de gravură
+2259	Refă
+2260	Păstrează
+2261	Între noi: euro a devenit numerar, în buzunarele oamenilor, în 2002. Unele uși din acest turn încă își amintesc anul acela.
+2262	Simbolul euro al artistului Ottmar Hörl, dezvelit în 2001 în fața fostului turn al BCE.
+2263	Câteva săptămâni mai târziu, la 1 ianuarie 2002, bancnotele și monedele euro au ajuns în buzunarele oamenilor din douăsprezece țări.
+2264	Memorialul de la Grossmarkthalle.
+2265	Între 1941 și 1945, aproximativ 10 000 de bărbați, femei și copii evrei din Frankfurt și din regiune au fost deportați din pivnița acestei hale de piață către ghetouri și lagăre. Cei mai mulți au fost uciși.
+2266	Orașul Frankfurt, Comunitatea Evreiască și BCE, al cărei sediu include acum și hala, au creat împreună acest memorial.
+2267	Römer, primăria Frankfurtului din 1405. În Sala Imperială, împărații Sfântului Imperiu Roman proaspăt încoronați țineau banchetele de încoronare.
+2268	Case cu structură aparentă din lemn (Fachwerk) pe Römerberg. Bombardamentele au distrus orașul vechi în 1944; acest rând a fost reconstruit în anii 1980, grindă cu grindă.
+2269	Fântâna Justiției. Privește bine: această Justiție își ține balanța și sabia, dar nu are legătura la ochi.
+2270	Orașul e poreclit „Mainhattan”: zgârie-nori pe râul Main. Am numărat unsprezece macarale și patru bănci. Sau invers.
+2271	În 1848 și 1849, în această biserică s-a reunit primul parlament ales liber pentru întreaga Germanie.
+2272	A redactat o constituție cu drepturi fundamentale. Nu a intrat niciodată în vigoare, dar constituțiile germane de mai târziu s-au inspirat din ea.
+2273	Ghid
+2274	Sala își mai are zilele mari: în fiecare octombrie, aici se decernează Premiul Păcii al Comerțului German cu Cărți.
+2275	Taurul atacă cu coarnele în sus: o piață în creștere.
+2276	Ursul lovește cu laba în jos: o piață în scădere.
+2277	Panoul DAX. Cel mai cunoscut indice bursier al Germaniei a fost lansat aici în 1988.
+2278	Cumpără zvonul, vinde știrea. Și nu-ți vinde niciodată umbrela în aprilie.
+2279	Johann Wolfgang von Goethe s-a născut în această casă la 28 august 1749. A lucrat la Faust vreo șaizeci de ani.
+2280	Numele lui face acum înconjurul lumii: Goethe-Institut predă germana în aproape o sută de țări.
+2281	Messeturm domină incinta târgului. În fiecare octombrie găzduiește Târgul de Carte de la Frankfurt, cel mai mare târg de carte din lume.
+2282	Cititor
+2283	Am venit pentru Târgul de Carte și am rămas pentru sosul verde. Am citit trei cărți și am mâncat cinci sosuri.
+2284	Podul Pietonal de Fier peste Main, construit în 1869. Mii de lacăte atârnă de balustrade: promisiuni de îndrăgostiți.
+2285	Cuplu
+2286	Ne-am pus lacătul pe pod și am aruncat cheia în Main. Mai trebuie să stabilim a cui a fost ideea.
+2287	Frankfurtez
+2288	Pe celălalt mal e Sachsenhausen. Acolo bem Ebbelwoi, vin de mere. Dar nimeni nu-i spune cidru aici, să știi.
+2289	O coroană de pin atârnă deasupra ușii: semn că această cârciumă își presează și servește propriul vin de mere.
+2290	Cârciumăreasă
+2291	Guten Abend! Vinul de mere se toarnă din Bembel, ulciorul gri de gresie, într-un Gerippte, paharul cu model în romburi.
+2292	Diseară am sala plină și două mâini. Tu umpli paharele, eu le duc?
+2293	Încă o rundă în spatele tejghelei?
+2294	Nici o picătură pe mesele mele! Ia asta și revino când vrei.
+2295	Din nou perfect. Ți-ai putea deschide propria cârciumă. Doar atârnă o coroană de pin deasupra ușii.
+2296	Ach, mesele înoată! Nu-i nimic, ștergem noi.
+2297	Client fidel
+2298	Handkäs mit Musik: brânză din lapte acru marinată cu ceapă. Muzica vine mai târziu. Nu întreba.
+2299	Sosul verde cere exact șapte ierburi: limba-mielului, hașmațuchi, creson, pătrunjel, sorbestrea, măcriș și arpagic.
+2300	Din 2016, UE protejează „Frankfurter Grüne Soße” ca indicație geografică. Șapte ierburi, nici mai multe, nici mai puține.
+2301	Un lingou de aur adevărat, de 12,5 kilograme, pe care vizitatorii au voie să-l ridice. Cei mai mulți reușesc câțiva centimetri.
+2302	De la scoici la monede, de la monede la hârtie, de la hârtie la euro: trei mii de ani de bani pe câteva rafturi.
+2303	Custode
+2304	Bundesbank este banca centrală a Germaniei. Din 1999 face parte din Eurosistem, alături de BCE și de celelalte bănci centrale din zona euro.
+2305	Aud că ai o bancnotă specimen cu chipul tău. Când se termină aventura, ne-ar plăcea s-o avem în colecție.
+2306	Un portret al Europei, prințesa din mitul grecesc care a dat numele continentului.
+2307	Chipul ei vine de pe o vază grecească de peste 2 000 de ani, păstrată la Luvru. Ține o bancnotă euro la lumină: ea e în filigran.
+2308	În spatele ramei, luminează o mică tastatură numerică. Patru cifre.
+2309	Introduci un cod?
+2310	Tastatura clipește roșu. Undeva, pe parchetul bursei, cineva oftează.
+2311	Clic. Tabloul se deschide spre o scară îngustă care coboară…
+2312	Cobori în studioul secret?
+2313	Un atelier plin de șevalete, unelte de gravat și o presă grea. Pe ușă: „Design de bancnote – confidențial”.
+2314	Tema „Cultura europeană”: Maria Callas (5 €), Ludwig van Beethoven (10 €), Marie Curie (20 €), Miguel de Cervantes (50 €), Leonardo da Vinci (100 €) și Bertha von Suttner (200 €).
+2315	Pe verso: locuri unde cultura se împărtășește. Artiști stradali, un festival de cântec, o școală, o bibliotecă, artă stradală, o piață cu arbori.
+2316	Tema „Râuri și păsări”: de la un izvor de munte (5 €) până la marea deschisă (200 €), cu o cățărătoare de stânci, un pescăraș albastru, prigori, o barză albă, un ciocântors și un blegvan nordic.
+2317	Pe verso: instituțiile UE, de la Parlamentul European până la Curtea Europeană de Conturi.
+2318	Cele zece modele finaliste: EC145, EC564, EC617, EC799, EC915 și RB120, RB227, RB637, RB754, RB832.
+2319	Numele designerilor rămân secrete. După un sondaj public, Consiliul guvernatorilor al BCE face alegerea finală.
+2320	O presă de gravură în adâncime. Împinge cerneala în hârtie atât de tare încât rămâne în relief: e tipărirea în relief pe care o simți la o bancnotă adevărată.
+2321	Specificații: aceleași dimensiuni ca bancnotele de azi, o culoare dominantă pe valoare, iar pe fiecare bancnotă drapelul european, o hartă a Europei și semnătura președintelui BCE.
+2322	Membru al juriului
+2323	În 2025, peste 1 200 de designeri au răspuns apelului BCE. Treizeci și nouă de propuneri au ajuns la juriu; zece se află pe aceste șevalete.
+2324	Scopul este să înlocuiască podurile și ferestrele imaginare cu oameni, păsări și locuri reale.
+2325	Eleni
+2326	Kaliméra! Sunt Eleni, gravoriță în adâncime. Am învățat meseria la tipografia Băncii Greciei, la Atena.
+2327	Oficial, BCE nu tipărește nicio bancnotă: le proiectează, iar tipografii din toată Europa le produc.
+2328	Chiar acum pregătim următoarele bancnote euro. În 2026, un juriu a ales zece modele pe două teme: cultura europeană, respectiv râuri și păsări.
+2329	Înainte de alegerea finală, trebuie să testez gravura pe o față reală. Bancnotele euro nu au arătat niciodată o persoană în viață… așa că a ta va rămâne un specimen.
+2330	Dar nimeni nu se atinge de plăcile mele fără să treacă testul. Pipăi, privești, înclini: arată-mi că deosebești o bancnotă adevărată de una falsă.
+2331	Gata?
+2332	Bravo! Ai ochi de bancher central. Acum, portretul tău.
+2333	Un nou specimen? Presa e încă fierbinte.
+2334	Gata, gravat! Vezi numărul de serie? Prima literă, Y, e codul Băncii Greciei. Mica mea semnătură.
+2335	Arată-l prin jur. Și salvează jocul la Raport, ca bancnota ta să rămână cu tine.
+2336	Un fals a trecut. Pipăi, privești, înclini: durează doar câteva secunde. Revino când ești gata.
+2337	Fă-ți timp. O gravură bună nu se grăbește.
+2338	Taverna Ebbelwoi – Sachsenhausen
+2339	BCE – Studioul de bancnote
+2340	Bursa din Frankfurt
+2341	Muzeul Banilor Bundesbank
+2342	Casa Goethe – Frankfurt
+2343	Paulskirche – Sala Adunării
+2344	Bancnotă specimen
+2345	Portretul tău, gravat la studioul BCE din Frankfurt. Nu e mijloc legal de plată.
+2346	Taverna cu vin de mere, Sachsenhausen
+2348	Apasă ca să înclini Bembel-ul, lasă ca să te oprești. Servește când vinul atinge linia.
+2349	Schimbarea gărzii
+2352	Pas
+2353	Lovește
+2354	Tropăie
+2355	Mișcări: %d / 24 · greșeli: %d
+2356	←: pas · →: lovitură · A/↓: tropăit
+2357	Perfect în pas! Evzonii schimbă garda în fiecare oră, zi și noapte, pe orice vreme.
+2358	În afara ritmului… Evzonii se antrenează luni de zile înainte de prima gardă.
+2359	Frappé
+2360	Apă
+2361	Ziar
+2362	Koulouri
+2363	Komboloi
+2364	Mati
+2365	Bilet bus
+2366	Gumă
+2367	(Un frappé, vă rog!)
+2368	(O apă, vă rog!)
+2369	(Un ziar, vă rog!)
+2370	(Un koulouri, covrigul cu susan, vă rog!)
+2371	(Un komboloi, vă rog!)
+2372	(O mică amuletă contra deochiului, vă rog!)
+2373	(Un bilet, vă rog!)
+2374	(O gumă, vă rog!)
+2375	Periptero
+2378	Cincisprezece clienți mulțumiți! Ευχαριστώ (efcharistó) înseamnă mulțumesc.
+2379	Coada ajunge în strada următoare… Σιγά σιγά (sigá sigá): încet, încet.
+2380	Portul Pireu
+2383	G
+2384	Navă %d/3 · containere %d/%d
+2385	Timp: %d s · greșeli: %d/3
+2386	Înclinare
+2387	Trei nave încărcate și drepte! Pireu este unul dintre cele mai mari porturi de containere din Mediterana.
+2388	Căpitanul portului oprește încărcarea: nava nu e sigură. Reașază și încearcă din nou!
+2389	Mormântul Soldatului Necunoscut (1932), sub Parlament. Evzonii Gărzii Prezidențiale îl veghează zi și noapte.
+2390	Piața se numește Syntagma, „Constituția”: în 1843, atenienii s-au adunat aici până când regele Otto a acordat una.
+2391	Evzonul nu se mișcă. Nici măcar o geană.
+2392	Tsarouchia lui, saboții roșii cu ciucuri negri, cântăresc fiecare cam trei kilograme, cu șaizeci de cuie în tălpi. Fusta lui albă, fustanela, are 400 de pliuri: câte unul pentru fiecare an de stăpânire otomană, după tradiție.
+2393	Sergent evzon
+2394	În fiecare oră se schimbă garda. Pași lenți, o lovitură înaltă, saboții izbind marmura: doi oameni se mișcă într-unul singur.
+2395	Azi lipsește un recrut. Urmezi ritmul cu mine?
+2396	Încă o schimbare a gărzii?
+2397	Niciun pas în afara ritmului. Μπράβο (brávo)! Ia asta, din partea gărzii.
+2398	Μπράβο (brávo)! Duminica la unsprezece, toată compania defilează în ținută de ceremonie. Vino să vezi.
+2399	Saboții tăi și toba nu s-au înțeles. Sunt necesare luni de antrenament. Mâine din nou?
+2400	Chioșcar
+2401	Γεια σας (yia sas, bună ziua)! Un periptero vinde de toate: ziare, apă, bilete de autobuz, credit de telefon, gume de mestecat, komboloi…
+2402	Nepotul meu n-a venit. Ții tu tejgheaua? Clienții vorbesc grecește, dar îți șoptesc eu sensul.
+2403	Iar ora de vârf! Îmi dai o mână de ajutor?
+2404	Ευχαριστώ (efcharistó, mulțumesc)! Acum vorbești chioșcărește. Na, pe casa mea.
+2405	Ευχαριστώ (efcharistó)! Coada a dispărut în timp record.
+2406	Σιγά σιγά (sigá sigá), încet, încet. E și un proverb grecesc.
+2407	Ένα φραπέ μέτριο (éna frapé métrio): un frappé mediu dulce, vă rog. Cafea cu gheață bătută spumă.
+2408	A fost inventat din greșeală în 1957, la Târgul Internațional din Salonic: un vânzător nu avea apă fierbinte și și-a agitat cafeaua instant cu apă rece.
+2409	Stația de metrou Syntagma. Când s-a săpat metroul, în anii 1990, arheologii au găsit zeci de mii de obiecte. Unele sunt expuse chiar în stație.
+2410	28 octombrie este Ziua Ochi (όχι, óchi, „nu”). În 1940, Grecia a spus nu ultimatumului lui Mussolini; în fiecare an, școlarii defilează pe străzi.
+2411	A nu se confunda cu OXI din referendumul din 2015. Două „nu” grecești celebre, la șaptezeci și cinci de ani distanță.
+2412	Drahma: nume de monedă din Grecia antică, readusă în 1832 pentru tânărul stat grec și înlocuită de euro în 2002.
+2413	Moneda grecească de un euro are bufnița Atenei, copiată după o veche monedă ateniană, de patru drahme.
+2414	Banca Greciei are propria tipografie: tipărește și bancnote euro.
+2415	Pe bancnotele seriei Europa, prima literă a numărului de serie arată banca centrală care le-a comandat. A noastră este Y.
+2416	Un Y pe specimenul tău? Atunci bine ai venit acasă!
+2417	Anafiotika: în secolul al XIX-lea, constructori din insula Anafi au venit să lucreze la palatul regal și și-au construit aici un satuc ciclazic, sub Acropole.
+2418	Μιάου (miáou). Atena are mii de pisici de stradă; vecinii și voluntarii le hrănesc, chiar și printre ruine.
+2419	Yiayia
+2420	Έφαγες; (éfages?) Ai mâncat? Ai slăbit. Stai jos. Mănâncă.
+2421	Yiayia a hrănit toată echipa ta până nu s-a mai putut mișca nimeni. Toți sunt din nou în formă.
+2422	Γιαγιά (yiayiá) înseamnă bunică. Iar o yiayia nu te crede niciodată când spui că ești sătul.
+2423	Vecin
+2424	Χρόνια πολλά (chrónia pollá)! Ani mulți! Azi e ziua mea onomastică.
+2425	În Grecia sărbătorim adesea ziua sfântului al cărui nume îl purtăm mai mult decât ziua de naștere. Jumătate din stradă se cheamă Giorgos: imaginează-ți ziua Sfântului Gheorghe.
+2426	Ναι (nai) înseamnă da! Turiștilor le sună a „nu”. Iar όχι (óchi) înseamnă nu.
+2427	Dacă dau capul pe spate și pocnesc din limbă, înseamnă tot nu. Simplu!
+2428	Vânzător
+2429	Μάτι (máti), ochiul! Un ochi de sticlă albastră te apără de deochi, ghinionul care vine din invidie.
+2430	Dacă cineva îți laudă Euromonul, spune „φτου φτου” (ftou ftou), ca și cum ai scuipa. E pentru noroc. Nu scuipa de-adevăratelea.
+2431	Brânzar
+2432	Feta este denumire de origine protejată din 2002: adevărata feta se face în Grecia din lapte de oaie, uneori cu puțin lapte de capră.
+2433	Germania și Danemarca au contestat-o la Curtea de Justiție a UE. În 2005, Curtea a spus: feta e grecească.
+2434	Grătarist
+2435	Souvlaki! La Atena înseamnă carne pe frigăruie. La Salonic, același lucru se cheamă kalamaki, „bățișor”.
+2436	Cere un „souvlaki” la Salonic și ți se dă un pita gyros. Familii s-au despărțit pentru mai puțin.
+2437	Muzician
+2438	Toți cred că sirtaki e un dans popular străvechi. A fost inventat pentru filmul „Zorba Grecul” în 1964, pe muzica lui Mikis Theodorakis.
+2439	Încet la început, apoi tot mai repede… Opa!
+2440	Stația Monastiraki. Linia 1 urmează calea ferată Atena–Pireu, deschisă în 1869: cea mai veche linie a rețelei.
+2441	Iei trenul spre portul Pireu?
+2442	Odeonul lui Herodes Atticus, construit în anul 161. În 1944, o tânără soprană care studiase la Conservatorul din Atena a cântat aici „Fidelio” de Beethoven: Maria Callas.
+2443	Callas și Beethoven apar amândoi pe modelele finaliste ale viitoarelor bancnote euro, pe bancnotele de 5 și 10 euro din tema culturii.
+2444	Aceste plăci albe sunt mulaje din ghips. Originalele se află la British Museum din Londra din 1816.
+2445	Grecia le cere oficial înapoi din 1983. Muzeul le ține locurile pregătite, lângă piesele originale.
+2446	Un bloc original din friza Partenonului: călăreți din procesiunea Panatenaicelor, sculptați în jurul anului 440 î.Hr.
+2447	Muzeul Acropolei s-a deschis în 2009. Acest ultim etaj este rotit ca să se alinieze cu Partenonul, pe care îl vezi prin geam.
+2448	Friza face înconjurul întreg, în ordinea ei originală. Marmură de culoarea mierii: aici. Ghips alb: la Londra.
+2449	Zappeion. Aici, la 28 mai 1979, Grecia a semnat tratatul de aderare la Comunitățile Europene.
+2450	A devenit al zecelea membru la 1 ianuarie 1981. Euro a urmat în 2001, cu un an înaintea monedelor și bancnotelor.
+2451	Melina Mercouri (1920–1994), actriță, apoi ministru al Culturii. Ea a propus Capitala Europeană a Culturii: Atena a fost prima, în 1985.
+2452	Tot ea a lansat campania pentru returnarea marmurelor Partenonului.
+2453	Stadionul Panatenaic, singurul stadion mare din lume construit în întregime din marmură. Primele Jocuri Olimpice moderne s-au ținut aici în 1896.
+2454	La fiecare doi ani, flacăra olimpică este predată aici următorului oraș gazdă.
+2455	Terminal de containere operat de COSCO Shipping. Grupul chinez a cumpărat 51% din Autoritatea Portuară Pireu în 2016, apoi 67% în 2021.
+2456	Paznic de port
+2457	Terminalul de containere este închis vizitatorilor. Portul de pasageri e al tău.
+2458	Nu pe aici, vă rog: terminal de containere.
+2459	Gara Pireu, capăt de linie al Liniei 1. Clădirea datează din 1929.
+2460	Iei trenul înapoi spre Atena?
+2461	Pietre din zidurile Pireului. În secolul al V-lea î.Hr., Temistocle a făcut din Pireu portul Atenei, iar Zidurile Lungi legau cele două orașe.
+2462	Τα παιδιά του Πειραιά (ta paidiá tou Peiraiá), „Copiii din Pireu”! Manos Hadjidakis a scris-o pentru filmul „Niciodată duminica” (1960), cu Melina Mercouri.
+2463	A câștigat Oscarul pentru cel mai bun cântec. În Franța, Dalida a făcut din ea un hit: „Les Enfants du Pirée”.
+2464	Pescar
+2465	Acolo e Mikrolimano, micul port: bărci de pescari și taverne unde peștele înota azi-dimineață.
+2466	Pe aici la Stadionul Karaiskakis, casa lui Olympiacos. În 2024, clubul a câștigat UEFA Europa Conference League: primul trofeu european al unui club grecesc de fotbal.
+2467	Feriboturi spre insule: Egina, Hydra, Ciclade, Creta… Pireu este unul dintre cele mai aglomerate porturi de pasageri din Europa.
+2468	Armatorii greci controlează aproximativ o cincime din flota comercială mondială: mai mult decât orice altă țară.
+2469	Șef de doc
+2470	Hei, stagiarule! Nava pleacă la prânz și macaragiul meu e în grevă. Ai mai încărcat vreodată un cargou de containere?
+2471	Containerele grele jos, cele frigorifice pe rândurile cu priză, și ține-o dreaptă, altfel se înclină.
+2472	Încă o navă de încărcat?
+2473	Dreaptă ca lumânarea! Poftim plata. Nu o cheltui toată pe souvlaki.
+2474	Încă o navă plecată la timp. Căpitanul te salută.
+2475	Se înclină ca o stare proastă. Reașezăm. Din nou?
+2476	Banca Greciei – Muzeu
+2477	Muzeul Acropolei – Partenon
+2478	Portul Pireu
+2479	Casă – Plaka
+2480	Cărți poștale ale juriului: %d din 12.
+2481	Toate cele douăsprezece motive! Eleni, de la studioul BCE din Frankfurt, va vrea să le vadă.
+2482	Toate cele douăsprezece cărți poștale! Callas, Beethoven, Curie, Cervantes, Leonardo, von Suttner… și cele șase păsări. Ai văzut mai multă Europă decât juriul.
+2483	De acum, presa mea îți tipărește specimenele în ediția de aur. Și ia asta, din partea studioului.
+2484	Încă ceva: juriul a trimis cărți poștale cu cele douăsprezece motive în toată Europa. Dacă le găsești pe toate, revino: îți gravez o ediție de aur.
+2485	Primăria din Bruxelles, construită în secolul al XV-lea. Pe turnul ei de 96 de metri, Sfântul Mihail doboară dragonul.
+2486	Grand-Place din jurul ei este în patrimoniul mondial UNESCO din 1998.
+2487	Casele breslelor: brutari, barcagii, berari… fiecare meserie avea casa ei, aurită ca să-și arate bogăția.
+2488	Manneken-Pis: 55 de centimetri de bronz. Are peste o mie de costume, păstrate în propriul muzeu-garderobă.
+2489	Cameristul oficial
+2490	Azi e îmbrăcat în… el însuși. Mâine, pompier. Săptămâna viitoare, astronaut. E o muncă cu normă întreagă să îmbraci o statuie.
+2491	Patron de fritkot
+2492	Cartofii prăjiți belgieni adevărați se prăjesc de două ori: o dată ca să se gătească, o dată ca să fie crocanți.
+2493	Ți-e foame? Încearcă o mitraillette: jumătate de baghetă, carne, sos și cartofi prăjiți înăuntru. Da, înăuntru.
+2494	Vânzător de gofre
+2495	Gofra de Bruxelles: ușoară, dreptunghiulară, pudrată cu zahăr. Gofra de Liège: mai densă, cu zahăr perlat caramelizat înăuntru.
+2496	Alegerea dintre ele a dezbinat familii de generații. Le vând pe amândouă. Foarte diplomatic.
+2497	Zidurile Bruxelles-ului sunt acoperite cu zeci de picturi murale cu benzi desenate. Belgia își ia benzile desenate la fel de în serios ca ciocolata.
+2498	Pe aici la Galeries Royales Saint-Hubert (1847), una dintre cele mai vechi pasaje comerciale acoperite din Europa.
+2499	În 1912, în aceste pasaje, ciocolatierul Jean Neuhaus a inventat ciocolata umplută: praline.
+2500	Grand-Place / Grote Markt. La Bruxelles, fiecare nume de stradă e scris în franceză și neerlandeză: regiunea capitală este oficial bilingvă.
+2501	Belgia are trei limbi oficiale: neerlandeza, franceza și germana.
+2502	Bruxellez
+2503	Allez, une fois! Așa își închipuie că vorbim la Bruxelles. Și, ei bine… uneori chiar așa vorbim.
+2504	Grădinar
+2505	La fiecare doi ani, în august, un covor de begonii acoperă Grand-Place. Primul a fost așternut în 1971.
+2506	Sute de mii de flori, așezate de mână în câteva ore. Îmi lipsește un voluntar. Plantezi cu mine?
+2507	Încă un covor? Begoniile așteaptă.
+2508	Magnific! Până și casele breslelor par geloase. Poftim, din partea orașului.
+2509	Încă o capodoperă. În câteva zile florile vor dispărea, dar fotografiile vor rămâne.
+2510	Modelul a ieșit un pic… abstract. Lui Magritte i-ar fi plăcut.
+2511	Podul Marii Ducese Charlotte, poreclit Podul Roșu, leagă orașul vechi de platoul Kirchberg, sus deasupra văii Alzette.
+2512	Palatul Mare-Ducal, în inima orașului vechi. Luxemburg este singurul mare-ducat rămas în lume.
+2513	Garda merge opt pași, se întoarce, merge opt pași înapoi. E foarte liniștitor de privit.
+2514	Curtea Europeană de Conturi: câinele de pază financiar al UE. Verifică cum se cheltuiesc banii europeni, euro cu euro.
+2515	Pe unul dintre modelele finaliste ale viitoarelor bancnote, apare pe verso-ul bancnotei de 200 de euro.
+2516	Din 29 februarie 2020, toate transporturile publice din Luxemburg sunt gratuite: autobuze, tramvaie, trenuri. Prima țară din lume care a făcut-o.
+2517	Gëlle Fra, doamna de aur a Monumentului Amintirii, îi cinstește pe luxemburghezii căzuți în războaiele mondiale.
+2518	Forțele de ocupație au dărâmat-o în 1940; a fost restaurată complet și pusă la loc pe coloană în 1985.
+2519	Schueberfouer! Un bâlci din 1340, întemeiat de Ioan cel Orb, conte de Luxemburg. În fiecare an, la sfârșitul verii.
+2520	Luxemburghez
+2521	Moien! Asta înseamnă bună în luxemburgheză. Aici avem trei limbi administrative: luxemburgheza, franceza și germana.
+2522	Cei mai mulți trecem de la una la alta în aceeași frază. Uneori se strecoară și engleza.
+2523	Pe un zid: „Mir wëlle bleiwe wat mir sinn” („Vrem să rămânem ce suntem”), deviza națională.
+2524	Bun venit la casematele Bock: 17 kilometri de tuneluri săpate în stâncă, parte dintr-un sit din patrimoniul mondial UNESCO.
+2525	În timpul bombardamentelor din cel de-al Doilea Război Mondial, până la 35 000 de oameni s-au adăpostit aici.
+2526	Un vizitator s-a rătăcit prin galeriile întunecate cu ultima mea torță. Poți găsi ieșirea și să-l aduci înapoi?
+2527	Încă un tur al galeriilor?
+2528	Amândoi afară întregi! Fortăreața era numită „Gibraltarul Nordului”. Ia asta pentru osteneală.
+2529	Cunoști galeriile mai bine decât soldații din 1700.
+2530	Torța s-a stins… Nu-ți face griji, știu drumul. Să încercăm din nou.
+2531	Pont de l'Europe trece peste Rin. De partea cealaltă: Kehl, în Germania. Din 2017, un tramvai trece chiar și granița.
+2532	Navetist
+2533	Locuiesc la Kehl și lucrez la Strasbourg. În fiecare dimineață schimb țara în patru minute. Nimeni nu-mi verifică pașaportul.
+2534	Aici își are sediul Consiliul Europei, înființat în 1949: 46 de state membre, și Curtea Europeană a Drepturilor Omului. Nu face parte din UE.
+2535	Nu-l confunda cu Consiliul European (șefii de stat și de guvern ai UE) sau cu Consiliul UE (miniștrii). Nici jurnaliștii nu le deosebesc.
+2536	Drapelul albastru cu douăsprezece stele de aur a fost adoptat mai întâi de Consiliul Europei, în 1955. UE l-a preluat mai târziu.
+2537	Un portret al Berthei von Suttner (1843–1914), autoarea romanului „Jos armele!” și prima femeie care a primit Premiul Nobel pentru Pace, în 1905.
+2538	Ea este figura de pe bancnota de 200 de euro din modelele finaliste „Cultura europeană” ale BCE.
+2539	Imnul Europei este preludiul „Odei bucuriei” din Simfonia a IX-a a lui Beethoven. Consiliul Europei l-a adoptat în 1972, UE în 1985.
+2540	Nu are cuvinte oficiale: în Europa, îl fredonăm cu toții în aceeași limbă.
+2541	Turla catedralei se ridică la 142 de metri. Din 1647 până în 1874, a fost cea mai înaltă clădire din lume.
+2542	Ceasul astronomic. Mecanismul său datează din 1842. În fiecare zi la douăsprezece și jumătate, cei doisprezece apostoli defilează în fața lui Hristos.
+2543	Catedrala este construită din gresie roz din Vosgi. De aceea se înroșește la apus.
+2544	Christkindelsmärik se ține aici din 1570: unul dintre cele mai vechi târguri de Crăciun din Europa.
+2545	Bucătar de winstub
+2546	Flammekueche! Aluat subțire, smântână, ceapă, costiță, copt în cuptor cu lemne în două minute. În franceză se zice tarte flambée.
+2547	Jurămintele de la Strasbourg, depuse aici în 842 de doi nepoți ai lui Carol cel Mare, sunt printre cele mai vechi texte în franceza veche și în vechea germană superioară.
+2548	Fiecare rege a jurat în limba celuilalt, ca armata celuilalt să înțeleagă. Interpretariatul are aici o istorie lungă.
+2549	Ornitolog
+2550	Barza albă este emblema Alsaciei. În 1974 mai rămăseseră doar nouă perechi în regiune.
+2551	Datorită unui program de reintroducere, azi sunt câteva sute de perechi. Iar barza albă apare pe un model finalist al bancnotei de 50 de euro!
+2552	Nou-sosiții își caută cuiburile. Îi poți ghida, departe de liniile electrice?
+2553	Mai sosesc berze. Le ghidezi din nou?
+2554	Fiecare cuplu e acasă! Poftim, pentru fondul de protecție a berzelor… adică, pentru tine.
+2555	Acoperișurile din Petite France sunt pline de clămpănit de ciocuri. E sunetul primăverii aici.
+2556	Unele s-au încurcat lângă fire… Sunt bine, doar puțin supărate. Din nou?
+2557	Sala 18: sculpturi de la Partenonul din Atena, luate de agenții lordului Elgin între 1801 și 1812 și cumpărate de British Museum în 1816.
+2558	Grecia le cere înapoi din 1983. La Atena, Muzeul Acropolei le ține locurile pregătite.
+2559	Vizitator grec
+2560	Am venit tocmai de la Atena să ne văd marmurele. Apoi mă întorc la Muzeul Acropolei și mă uit la copiile albe ale acestora.
+2561	O friză, două orașe. Poate într-o zi, din nou un singur oraș.
+2562	O cabină telefonică roșie, modelul K6 proiectat în 1935. Azi unele găzduiesc defibrilatoare, altele mici biblioteci.
+2563	Metroul londonez s-a deschis în 1863: prima cale ferată subterană din lume. „Mind the gap!”
+2564	După Brexit, Regatul Unit a părăsit Erasmus. În decembrie 2025 a fost de acord să revină din 2027. Surioara mea va putea studia la Bologna!
+2565	Vameș olandez
+2566	Din 1 ianuarie 2021, Regatul Unit se află în afara normelor vamale și veterinare ale UE: călătorii nu mai au voie să aducă carne sau lactate în UE.
+2567	În luna aceea, colegii mei din Hook of Holland au trebuit să confiște sandvișuri cu șuncă. „Welcome to the Brexit, sir, I'm sorry.”
+2568	Feribotul de dimineață îmbarcă. Mă ajuți să verific pachetele de mâncare?
+2569	Încă un feribot, încă o sută de pachete de mâncare. Mă ajuți din nou?
+2570	Niciun sandviș cu șuncă n-a trecut. Poftim, o recompensă fără brânză, fără șuncă.
+2571	Eficient și politicos. Ai fi un vameș excelent.
+2572	Un salam a trecut Canalul Mânecii… Inspectorii veterinari vor să-ți vorbească.
+2573	Șofer de camion
+2574	Înainte de Brexit treceam cu camionul fără să mă opresc. Acum: declarații vamale, certificate sanitare, controale. Am citit mai multe formulare decât romane.
+2575	Un autobuz de campanie. În 2016, pe lateral promitea 350 de milioane de lire pe săptămână pentru Serviciul Național de Sănătate.
+2576	În 2017, șeful Autorității Statistice a Regatului Unit a numit cifra aceea „o utilizare abuzivă evidentă a statisticilor oficiale”.
+2577	Ornitolog amator
+2578	Blegvanii nordici se aruncă în mare cu aproape o sută de kilometri pe oră. Cea mai mare colonie din lume e pe Bass Rock, în Scoția.
+2579	BCE a pus unul pe un model finalist al bancnotei de 200 de euro: mare deschisă, aripi strânse, stropi.
+2580	Jucător de șah
+2581	Băile termale Széchenyi, 1913: una dintre cele mai mari băi medicinale din Europa. Jucăm șah aici, cu apa fierbinte până la umeri.
+2582	Ungaria a dat lumii pe Judit Polgár, cea mai puternică jucătoare din istorie: mare maestru la cincisprezece ani, iar în 2002 l-a învins pe Kasparov.
+2583	Trei poziții, șah-mat într-o mutare fiecare. Le găsești până se răcește apa?
+2584	Poziții noi pe tabla plutitoare. Încă o rundă?
+2585	Trei șah-mat! Joci ca un mare maestru în halat de baie. Ia asta.
+2586	Șah-mat, șah-mat, șah-mat. Aburul te face să gândești mai repede.
+2587	Apa s-a răcit… Data viitoare, caută mutarea care nu lasă regelui nicio cale.
+2588	Ruin bars: curți vechi din fostul cartier evreiesc, transformate în baruri cu mobilier desperecheat. Primele s-au deschis la începutul anilor 2000.
+2589	Barman
+2590	Egészségedre! Asta înseamnă noroc în maghiară. Încearcă s-o spui după al doilea pahar de fröccs: vin cu sifon.
+2591	Vânzător de lángos
+2592	Lángos: aluat prăjit, usturoi, smântână și brânză rasă. Nu e o dietă. E o tradiție.
+2593	Cubul Rubik a fost inventat la Budapesta în 1974 de Ernő Rubik, ca să-și învețe studenții geometria în spațiu. Eu l-am rezolvat în două minute. Sau o față a lui.
+2594	Pantofii de pe malul Dunării (2005). Șaizeci de perechi de pantofi de fier amintesc de evreii din Budapesta împușcați pe acest mal de militanții Crucilor cu Săgeți în 1944 și 1945 și aruncați în râu.
+2595	Podul cu Lanțuri, deschis în 1849: primul pod permanent între Buda și Pesta, proiectat de inginerul englez William Tierney Clark.
+2596	Leii săi de piatră n-au limbă… după cum spune legenda. Privește bine.
+2597	Bastionul Pescarilor, pe Dealul Castelului: șapte turnuri, pentru cele șapte triburi maghiare care s-au stabilit în Bazinul Carpatic.
+2598	Prigorii! Cele mai colorate păsări din Europa. Își sapă cuiburile în malurile nisipoase ale râurilor și prind albine din zbor.
+2599	Ungaria are unele dintre cele mai mari colonii. Pe modelele finaliste ale BCE, o colonie de prigori împodobește bancnota de 20 de euro.
+2600	Lingvist
+2601	Maghiara nu este înrudită cu limbile vecinilor: aparține familiei uralice, ca finlandeza și estona.
+2602	Iar numele de familie vine primul: Rubik Ernő, Polgár Judit. Ușor de ținut minte, greu de pronunțat.
+2603	László Bíró, născut la Budapesta, a brevetat pixul modern în 1938. În multe țări, pixul se mai numește și azi „biro”.
+2604	Salon de l'Horloge. La 9 mai 1950, la ora 18, Robert Schuman, ministrul francez de externe, a citit aici o declarație prin care propunea punerea în comun a cărbunelui și oțelului francez și german.
+2605	Ea a dus la Comunitatea Europeană a Cărbunelui și Oțelului în 1951, primul pas al UE de azi. Fiecare 9 mai este Ziua Europei.
+2606	Arhivele au amestecat paginile declarației! Sosesc jurnaliștii. Poți pune frazele în ordine?
+2607	Paginile sunt iar amestecate. Mă ajuți?
+2608	Cuvânt cu cuvânt! Domnul Schuman ți-ar fi strâns mâna. Ia asta, din partea ministerului.
+2609	Perfect ordonat. Europa nu se va face dintr-odată, dar tu ești rapid.
+2610	Nu chiar… Ține minte: întâi pacea, apoi înfăptuirile concrete, apoi cărbunele și oțelul.
+2611	Marie Curie, născută Maria Skłodowska la Varșovia, a devenit în 1906 prima femeie profesor la Sorbona. A câștigat două premii Nobel, la fizică și la chimie.
+2612	Ea este figura de pe bancnota de 20 de euro din modelele finaliste „Cultura europeană” ale BCE.
+2613	Brutar
+2614	Din 2022, meșteșugul baghetei franceze este pe lista UNESCO a patrimoniului cultural imaterial. Făină, apă, sare, drojdie. Și puțină răbdare.
+2615	Un café, s'il vous plaît! La Paris, un „café” este un espresso. Dacă vrei o ceașcă mare, trebuie s-o spui. Tare.
+2616	Bouquiniste
+2617	Vindem cărți second-hand pe aceste cheiuri încă din secolul al XVI-lea. Sute de lăzi verzi, de-a lungul a kilometri de maluri ale Senei.
+2618	Notre-Dame de Paris. Avariată de incendiul din 15 aprilie 2019, a fost redeschisă la 7 decembrie 2024, după cinci ani de lucrări.
+2619	Vizitator
+2621	În unele ierni, o cățărătoare de stânci coboară din munți pe stâncile văii Meusei. O pasăre cenușie cu aripi purpurii, ca un fluture.
+2622	E pasărea de pe bancnota de 5 euro din modelele finaliste ale BCE: un izvor de munte și o cățărătoare de stânci.
+2623	Pescar la undiță
+2624	Vezi sclipirea aceea albastră pe Mosela? Un pescăraș albastru. Se aruncă de pe o creangă și revine cu un pește.
+2625	Pe modelele finaliste ale BCE este pasărea bancnotei de 10 euro, lângă o cascadă.
+2626	Anvers este al doilea port ca mărime din Europa. Iar pe Scheldt, chiar lângă macarale, ciocântorșii cuibăresc în rezervațiile naturale.
+2627	Alb-negru, cu ciocul curbat în sus: pasărea bancnotei de 100 de euro din modelele finaliste ale BCE, la o gură de râu.
+2628	Varșovian
+2629	Maria Skłodowska, Marie Curie, s-a născut aici, la Varșovia, în 1867. A numit elementul poloniu după țara ei.
+2630	Orașul Vechi al nostru a fost ras de pe fața pământului în 1944 și reconstruit piatră cu piatră: este pe lista UNESCO din 1980.
+2631	Leonardo da Vinci a locuit la Roma între 1513 și 1516, la Vatican, înainte de a pleca în Franța.
+2632	El este figura de pe bancnota de 100 de euro din modelele finaliste „Cultura europeană” ale BCE.
+2633	Profesor
+2634	Tratatul de la Lisabona, semnat aici în 2007, a creat articolul 50: procedura de retragere din UE. Regatul Unit a fost primul care a folosit-o.
+2635	Tot de la Lisabona: pastéis de nata, după rețeta călugărilor de la Jerónimos. Mult mai populare decât articolul 50.
+2636	Bătrân marinar
+2637	În 1571, bătălia de la Lepanto s-a dus în Golful Patras, aici în Grecia. Un tânăr soldat spaniol și-a pierdut atunci folosirea mâinii stângi.
+2638	Îl chema Miguel de Cervantes. Avea să scrie Don Quijote. El este figura de pe bancnota de 50 de euro din modelele culturale ale BCE!
+2639	Într-un colț, o carte poștală ștampilată de juriul de design al BCE: unul dintre cele douăsprezece motive ale viitoarelor bancnote. O păstrezi.
+2640	British Museum – Sala 18
+2641	Casematele Bock – Intrare
+2642	Catedrala din Strasbourg
+2643	Palais de l'Europe – Consiliul Europei
+2644	Terminal feribot – Vama UE
+2645	Ruin Bar – Budapesta
+2646	Quai d'Orsay – Salon de l'Horloge
+2647	Boulangerie – Paris
+2648	Roșu
+2649	Galben
+2650	Alb
+2651	Portocaliu
+2652	Covorul de flori
+2655	Modelul
+2656	Trei covoare de begonii! Belgia cultivă cea mai mare parte din begoniile tuberoase ale lumii, în jurul orașului Gent.
+2657	Turiștii sosesc și covorul nu e terminat… Data viitoare!
+2658	Berzele din Alsacia
+2661	Berze acasă: %d / %d · pierdute: %d / 3
+2662	Zece berze în cuiburile lor! În Alsacia se spune că o barză pe acoperiș aduce noroc.
+2663	Prea multe berze au zburat mai departe, spre satul următor… Se vor întoarce la primăvară.
+2664	Sandviș cu șuncă
+2665	Lapte
+2666	Salam
+2667	Măr
+2668	Ciocolată
+2669	Chipsuri
+2670	Biscuiți
+2671	Vama UE
+2674	Carne, lactate, majoritatea fructelor: confiscă.
+2675	Banane, dulciuri, chipsuri, apă: lasă să treacă.
+2676	Lasă
+2677	Confiscă
+2678	Toate pachetele verificate! În piața unică a UE, alimentele circulă liber; la frontierele ei, sunt controlate.
+2679	Un salam a trecut… sau o banană a fost confiscată pe nedrept. Întâi regulile, sandvișul după!
+2685	Șah în băi
+2688	Albele mută și dau mat într-o mutare
+2689	K rege · Q damă · R turn · B nebun · N cal · P pion
+2691	Apa s-a răcit înainte de mat… Caută mutarea care nu lasă regelui niciun pătrat.
+2692	Pacea mondială nu poate fi salvgardată
+2694	Europa nu se va realiza dintr-odată, nici printr-o construcție de ansamblu.
+2698	Declarația Schuman
+2701	Declarația e gata! Comunitatea Europeană a Cărbunelui și Oțelului a urmat în 1951. Fiecare 9 mai este Ziua Europei.
+2702	Jurnaliștii așteaptă și paginile sunt tot în dezordine… Întâi pacea, apoi înfăptuirile concrete!
+2703	Casematele Bock
+2706	Vizitatorul te urmează: acum, ieșirea!
+2707	Undeva în întuneric, cineva strigă…
+2708	Afară la lumina zilei, cu vizitatorul! Până la 35 000 de oameni s-au adăpostit în aceste galerii în timpul bombardamentelor.
+2709	Torța s-a stins… Ghidul urmează vocea ta și vă scoate pe amândoi afară.
+2710	fără eforturi creatoare pe măsura pericolelor care o amenință.
+2713	Ea se va realiza prin înfăptuiri concrete, creând mai întâi o solidaritate de fapt.
+2714	Producția franco-germană de cărbune și oțel va fi pusă sub o Înaltă Autoritate comună…
+2715	…astfel încât orice război între Franța și Germania să devină material imposibil.
+2716	Înainte să atingi placa de tipar, dovedește că depistezi un fals! Verifică fiecare bancnotă ca la BCE: PIPĂIE tipăritura în relief, PRIVEȘTE-O contra luminii, ÎNCLINĂ-O. Evaluează 10 bancnote, o singură greșeală permisă.
+2717	Într-o cârciumă din Sachsenhausen, toarnă vin de mere din Bembel în fiecare pahar până la linie! Ține creionul (sau A) apăsat ca să înclini ulciorul, lasă-l ca să te oprești, apoi servește cu butonul. 8 pahare, 2 vărsări permise.
+2718	Opt pahare perfecte! Aici, la Frankfurt, vinul de mere se cheamă „Ebbelwoi”.
+2719	Piața Syntagma, Mormântul Soldatului Necunoscut. Mișcă-te în ritmul evzonilor: PAS, LOVEȘTE, TROPĂIE când fiecare semn atinge linia. 24 de mișcări, încet și solemn. 4 greșeli permise.
+2720	Ora de vârf la chioșc! Fiecare client cere în greacă: atinge ce vrea. Îți șoptesc sensul pentru primii. 15 clienți în 60 de secunde!
+2721	Încarcă trei nave până la prânz! Mută macaraua cu creionul sau cu ←/→, lasă jos cu A sau cu o atingere. Greul (G) niciodată peste ceva mai ușor, frigorificele (albe) doar pe cele două coloane cu curent (prize), și ține nava dreaptă!
+2722	Copiază covorul de begonii de pe ecranul de sus: alege o culoare, apoi atinge sau trage peste pătrate. Apasă Gata când se potrivește. Trei covoare în 90 de secunde!
+2723	Berzele s-au întors din Africa! Condu fiecare barză la un cuib liber: glisează creionul în sus și în jos (sau ↑/↓) și zboară jos peste un cuib liber ca să aterizezi. Evită liniile electrice. 10 berze, 3 pierderi permise.
+2724	Feribotul a acostat! Verifică fiecare pachet de mâncare: CONFISCĂ carnea, lactatele și majoritatea fructelor, LASĂ SĂ TREACĂ restul. Atenție: banana e permisă, mărul nu. 20 de pachete în 50 de secunde, 2 greșeli permise.
+2725	Băile Széchenyi: jucătorii se apleacă peste o tablă plutind în aburi. Albele mută: găsește mutarea care dă mat imediat. Atinge o piesă albă, apoi pătratul ei. Trei poziții în 90 de secunde!
+2726	9 mai 1950, Salon de l'Horloge. Paginile declarației lui Robert Schuman sunt amestecate! Atinge frazele în ordinea corectă înainte de conferința de presă. 60 de secunde.
+2727	Galeriile sunt întunecate și torța se stinge. Găsește vizitatorul pierdut, apoi ieșirea! Mișcă-te cu +Control Pad sau atinge lângă personaj. 75 de secunde.
+2728	Trei șah-mat! În băi se spune că cel care pierde trebuie să iasă primul din apă.
+2729	Noua șarpantă de stejar a fost cioplită de mână, ca în Evul Mediu. Dulgheri și zidari din toată Franța au lucrat la ea.
+2730	Față
+2731	Verso

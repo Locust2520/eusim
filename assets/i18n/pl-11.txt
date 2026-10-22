@@ -1,0 +1,19 @@
+# Polish — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Ostempluj 15 ważnych wyroków w 30 sekund. Przepuszczaj dokumenty oznaczone „FAŁSZ”: ostemplowanie takiego kosztuje cię rundę!
+2087	WYROK
+2088	WYROK: stempluj. FAŁSZ: przepuść.
+2089	Piętnaście ważnych wyroków ostemplowanych! Administracja jest z ciebie dumna.
+2090	Ostemplowałeś fałszywy dokument! Sprawdzaj, zanim zatwierdzisz…
+2091	Nie ma jeszcze piętnastu ważnych wyroków. Kancelaria się zamyka. Spróbuj jeszcze raz…
+2092	Oto dzisiejszy stos. Musimy ostemplować piętnaście ważnych wyroków, zanim kancelaria się zamknie. Uważaj, wśród nich są fałszywe dokumenty! Pomożesz mi?
+2093	Kancelaria nie może zatwierdzić tego stosu. Potrzeba piętnastu ważnych wyroków i ani jednego ostemplowanego fałszywego dokumentu. Spróbuj, kiedy chcesz.
+2094	Kolejne piętnaście wyroków w porządku! Za twój drugi sukces oto pieczątka kwalifikowana.
+2095	Bez zarzutu! Została mi jeszcze jedna pieczątka kwalifikowana dla ciebie. Luksemburg uwielbia metodycznych ludzi.
+2096	Bez zarzutu! Ale tym razem nie mam dla ciebie pieczątki. Wróć i pomóż mi jeszcze raz!
+2097	Drugi gracz wystawia: %s!
+2098	Nieprawidłowa drużyna lub połączenie.
+2099	Przedmioty są niedozwolone w przyjacielskiej debacie.
+2100	Wygrywasz tę przyjacielską debatę!
+2101	Drugi gracz wygrywa tę przyjacielską debatę!
+2102	Debata zakończona lub połączenie przerwane.
+2105	Zapis nie powiódł się. Spróbuj ponownie.

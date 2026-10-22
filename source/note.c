@@ -149,14 +149,14 @@ static void view_screens(const SaveExtra *n, bool back_on_top)
     canvas_clear(&g_bot, C_NAVY1);
     centred_note(&g_top, n, 22, back_on_top);
     centred_note(&g_bot, n, 22, !back_on_top);
-    char title[64], a[160], b[160];
+    char title[96], a[160], b[160];
     snprintf(title, sizeof title, T("Specimen note – €%d"), note_values[n->note_denom]);
     ui_text_in(&g_top, &font_main, 4, 2, 248, 20, title, C_GOLD, C_BLUE_D, 0);
     caption(&g_top, 152, "Not legal tender: this is a design specimen.");
     motif_lines(n, a, b, sizeof a);
     caption(&g_top, 166, a);
     caption(&g_top, 178, b);
-    caption(&g_bot, 4, back_on_top ? "Front" : "Back");
+    caption(&g_bot, 4, back_on_top ? "Front side" : "Back side");
     caption(&g_bot, 172, "L/R or tap: turn over · B: close");
 }
 
@@ -225,12 +225,19 @@ static void draw_preview(const u8 *cells)
 static void tool_buttons(int tone, int size)
 {
     static const char *const tones[4] = {"Light", "Medium", "Dark", "Eraser"};
-    static const char *const sizes[3] = {"S", "M", "L"};
     canvas_rect(&g_bot, 140, 0, 116, 192, C_NAVY1);
     for (int i = 0; i < 4; i++)
         ui_button(&g_bot, 144, 4 + i * 26, 108, 24, tones[i], i == tone ? BTN_SELECTED : BTN_NORMAL, &font_small);
-    for (int i = 0; i < 3; i++)
-        ui_button(&g_bot, 144 + i * 37, 110, 34, 24, sizes[i], i == size ? BTN_SELECTED : BTN_NORMAL, &font_small);
+    for (int i = 0; i < 3; i++) {   // brush sizes: a dot of the brush's size reads the same in every language
+        ui_button(&g_bot, 144 + i * 37, 110, 34, 24, "", i == size ? BTN_SELECTED : BTN_NORMAL, &font_small);
+        int r = 2 + i * 2, cx = 144 + i * 37 + 17, cy = 110 + 12;
+        for (int dy = -r; dy <= r; dy++) {
+            int half = 0;
+            while ((half + 1) * (half + 1) + dy * dy <= r * r)
+                half++;
+            canvas_hline(&g_bot, cx - half, cy + dy, half * 2 + 1, C_INK);
+        }
+    }
     ui_button(&g_bot, 144, 138, 52, 24, "Undo", BTN_NORMAL, &font_small);
     ui_button(&g_bot, 200, 138, 52, 24, "Clear", BTN_NORMAL, &font_small);
     ui_button(&g_bot, 144, 165, 108, 24, "Done", BTN_GREEN, &font_small);
@@ -354,7 +361,7 @@ static void design_screen(const SaveExtra *n, bool back)
     canvas_clear(&g_top, C_NAVY1);
     ui_text_in(&g_top, &font_main, 4, 2, 248, 20, "Your specimen note", C_GOLD, C_BLUE_D, 0);
     centred_note(&g_top, n, 26, back);
-    caption(&g_top, 160, back ? "Back" : "Front");
+    caption(&g_top, 160, back ? "Back side" : "Front side");
     canvas_clear(&g_bot, C_NAVY1);
     ui_button(&g_bot, 4, 4, 122, 26, "European culture", n->note_theme == NOTE_CULTURE ? BTN_SELECTED : BTN_NORMAL, &font_small);
     ui_button(&g_bot, 130, 4, 122, 26, "Rivers and birds", n->note_theme == NOTE_BIRDS ? BTN_SELECTED : BTN_NORMAL, &font_small);

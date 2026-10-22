@@ -1,87 +1,71 @@
 # Translator brief — EU Simulator (Nintendo DS parody RPG)
 
-You translate the game's text catalogue from French into ONE target language.
-Write only your own files `assets/i18n/<code>-1.txt` … `<code>-4.txt` (paths below are relative to
-`/opt/ordinatrice/eusim`). Do not touch any other file (other translators work in parallel).
+The game is written in **English** (the source language since October 2026). Every other language, French
+included, is a translation table. You translate into ONE target language and write only your own file.
+Paths are relative to the `rom/` folder of the project.
 
 ## Source
-`assets/i18n/catalog.txt` — one line per entry: `id<TAB>French text` (1752 entries, ids 0–1751).
-Read it in chunks (e.g. `awk -F'\t' '$1>=0 && $1<250' assets/i18n/catalog.txt`). Translate from the
-French. Finished reference translations to compare tone/terminology: `en-*.txt`, `de-*.txt`,
-`sv-*.txt`, `pl-*.txt`, `fi-*.txt` (same ids).
+- `assets/i18n/catalog.txt` — every string: `id<TAB>English text`.
+- `assets/i18n/new_2026-10.txt` — the strings added by the city extensions (ids 2169 and up), with a third
+  column telling where each one is used (source file and line, script name, map name…). Read the scripts in
+  `assets/scripts/zz_*.evs` when you need more context: speaker names, what comes before and after.
+- Your language's existing files `assets/i18n/<code>-*.txt` (same ids): reuse their terminology.
 
 ## Output format
-- Split: `<code>-1.txt` ids 0–499, `-2` 500–999, `-3` 1000–1499, `-4` 1500–1751.
-- First line a comment: `# <Language> — ids X-Y`. Then one line per entry: `id<space>translation`.
-- Keep `\f` (page break) and `\n` exactly as written (backslash sequences), same positions roughly.
-- Keep every printf conversion (`%s`, `%d`, `%lu`, `%02lu`, `%03d`…) and every `{P}` placeholder,
-  same count and SAME ORDER. A line that fails this check uses English instead; invalid or missing English fails the build.
-- If the target grammar needs case endings on a `%s` name, rephrase with a colon
-  (`%s: funds are frozen!`) instead of attaching suffixes to `%s`.
-- You may omit entries that are pure proper names that stay identical in English and your language
-  (people like `Angela Merkel`, NPC first names like `Léa`, `Hugo`, `{P}`, `Help.`, `Ehm.`, `fr` id 142):
-  missing, blank or invalid entries fall back to English automatically. Include an explicit
-  identity translation when your language should retain the French form instead of the English one. Exception: Greek and Bulgarian MUST transliterate all
-  person names (speaker-name ids and names inside sentences) into their alphabet; Latvian uses
-  Latvian name forms (see `lv-1.txt`: Angela Merkele, Emanuels Makrons…).
-- Translate city names (Bruxelles→Brussels in your language, etc.), place names, item/move/type names.
+- One file per batch: for the city extensions, **`assets/i18n/<code>-10.txt`**.
+- First line a comment: `# <Language> — city extensions (ids 2169+)`. Then one line per entry: `id<TAB>translation`.
+- Keep `\n` and `\f` exactly as written (backslash sequences).
+- Keep every printf conversion (`%s`, `%d`…) and every `{P}` placeholder: same count, SAME ORDER. A line that
+  breaks this is rejected and the English shows instead.
+- If the grammar needs a case ending on `%s`, rephrase (“Front: %s”) rather than gluing suffixes to `%s`.
+- An entry may be left out only if it is a proper name identical in your language; the English then shows.
+  Greek and Bulgarian transliterate person names (Μαρία Κάλλας / Мария Калас…); Latvian uses Latvian name forms.
+
+## What stays as it is
+- **Words in other languages are the point of many lines**: Greek in Athens (“Ένα φραπέ μέτριο (éna frapé
+  métrio)”), German in Frankfurt (Ebbelwoi, Bembel, Gerippte, Handkäs mit Musik, Grüne Soße, Guten Abend),
+  Luxembourgish (Moien, “Mir wëlle bleiwe wat mir sinn”), Hungarian (Egészségedre, fröccs, lángos), French in
+  Brussels and Paris (“Allez, une fois”, “Un café, s'il vous plaît”, tarte flambée), Dutch (Grote Markt).
+  Keep those words and their transliteration exactly; translate the explanation around them.
+  In your own language's case (e.g. the German words for the German translation), write naturally: no need
+  to explain to Germans that “Guten Abend” is German.
+- Song and film titles: “Les Enfants du Pirée” stays French; use the established title in your language for
+  the films (“Never on Sunday”, “Zorba the Greek”) and for Bertha von Suttner's novel (“Lay Down Your Arms!”).
+- Codes and initials: EC145… RB832, DAX, COSCO, ECB (use your language's acronym if it has one: EZB, BCE, ΕΚΤ…),
+  K6, Room 18.
+- Numbers, dates and facts: never change them. Every fact in these lines was checked.
+
+## Specific strings
+- The Schuman Declaration fragments (ids 2692, 2694, 2710, 2713–2715) are excerpts of the declaration of
+  9 May 1950 (abridged). Use the official text in your language where you know it, abridged the same way.
+  Each fragment must stay short (about 80 characters at most: it is shown on two lines).
+- “€%d” and “Specimen note – €%d”: you may write `%d €` if that is your language's convention.
+- Screen space is tiny (DS, 256 px wide). Keep these short:
+  - buttons ≤ 11 characters: Feel, Look, Tilt, Genuine, Counterfeit, Serve, Step, Kick, Stomp, Light, Medium,
+    Dark, Eraser, Undo, Clear, Done, Keep, Retake, Red, Yellow, White, Orange, Let through, Confiscate;
+    `H` is the letter painted on heavy containers: one letter, your language's initial for “heavy”, and the
+    same letter in the rules of the port mini-game (“Heavy (H) never on top…”);
+  - “Front side” / “Back side” name the sides of a banknote (not “go back”): use the same words as in
+    “Front: %s” / “Back: %s”;
+  - kiosk items (Frappé, Water, Newspaper, Koulouri, Worry beads, Mati, Bus ticket, Chewing gum) ≤ 11 characters;
+  - map names (“Port of Piraeus”, “Bank of Greece – Museum”…) ≤ 32 characters;
+  - mini-game titles ≤ 22 characters.
+- Speaker names (Guide, Curator, Landlady, Yiayia, Evzone sergeant…) are labels above the dialogue box: short.
+  Yiayia: keep the Greek word (transliterated in your alphabet if needed).
 
 ## Style
-- Humorous, light satire of EU institutions; keep jokes working in your language (adapt puns).
-- Oliver is a British intern: keep his English interjections in English ("Easy.", "What?!",
-  "That's just smart negotiation.", "See you, loser…", "Bloody hell", "Rejoin?").
-- Trump/Farage/etc. English catchphrases stay English (TREMENDOUS, Sad!, Get Brexit done!,
-  Whatever it takes, Wir schaffen das, OXI/NAI…).
-- Use the language's normal punctuation and quotes; no French spaces before ! ? : ;
-- Informal "you" (tu-form) for the player unless the French uses "vous" in a formal setting
-  (officials) — follow what's natural; be consistent.
-- Screen is tiny (DS, 256 px). Keep UI labels short:
-  - ids 0–4: 3-letter status abbreviations (lobby influence, scandal, frozen funds, asleep, blocked).
-  - id 5 / 213: level abbreviation (e.g. "Lv.%d") — ≤4 chars before %d.
-  - ids 6–9: battle menu buttons (DEBATE/BAG/RUN/TEAM), uppercase, ≤9 chars ideally.
-  - ids 26–32: stat names, ≤13 chars (Argumentation, Resilience, Expertise, Diplomacy, Reactivity,
-    Accuracy, Evasion). Reuse exactly these stat names inside move descriptions later.
-  - ids 1001–1016: type names, ≤10 chars (abbreviate if needed).
-  - id 211: HP label (keep "HP" unless your language has a standard short form). PP stays "PP".
-  - Menu labels (205–209, 215–224, 328–335 etc.) short.
-- Consistent glossary inside your language: Euromon(s), Eurodex, badge, stamp (the capture item),
-  debate (=battle), intern, Team Lobby, Team Europe (keep both in English).
+- Humorous, light satire; tu-form for the player (informal “you”) as in your existing files.
+- The memorials (Grossmarkthalle in Frankfurt, Shoes on the Danube Bank in Budapest) are sober: no jokes.
+- Use your language's typographic quotes and punctuation; no French spaces before ! ? : ; unless your language
+  uses them.
 
-## Validation (do this before finishing)
-1. `python3 tools/i18n_missing.py <code>` — lists untranslated ids; the only ones left should be
-   intentional proper names. Fix anything else.
-2. `python3 tools/mklang.py 2>&1 | grep -E "<code>[:-]"` — reports lines with mismatched
-   placeholders and the count `<code>:N/1752`; fix every reported line.
-3. Check each file has no duplicated ids and no line where you accidentally left French text.
-
-Report at the end: count translated, any doubts.
-
-## Completion pass (filling gaps)
-- Run `python3 tools/i18n_missing.py <code>` to list every untranslated id (French source in catalog.txt).
-- Translate every listed id except intentional proper names that stay identical in your language
-  (see "Skip" rule above; Greek/Bulgarian/Latvian adapt names). Ids ≥ 1752 are new (jukebox track titles,
-  Maastricht house): translate them all. Reference wording for the jukebox ids: `en-4.txt`, `de-4.txt`.
-- Read your existing `<code>-*.txt` files first and reuse their terminology (stat names, Euromon, badge…).
-- Write ONLY a new file `<code>-5.txt` (header comment `# <Language> — completion`), one `id text` per line.
-  Do not edit the other files. If an id already exists elsewhere, do not repeat it.
-- Validate with i18n_missing and mklang as above.
-
-## Euromon names pass (localized puns)
-The 100 Euromon names (catalogue ids 1819–1918, listed with types, category and Pokédex-style entry in
-`assets/i18n/euromon_names.txt`) are now translatable. Goal: **funny, adapted names in your language**, like
-Pokémon localizations do (Bulbizarre → Bulbasaur → Bisasam). Do NOT translate literally: build a pun from the
-concept (EU policy, the creature's category/dex joke) + a creature-like ending that sounds good in your language.
-Examples of the spirit (French): Glyphosaure = glyphosate + dinosaure; Vetoad = veto + toad; Erasmouse = Erasmus + mouse.
-Rules:
-- ≤ 11 characters (DS screen), one word preferably (CamelCase/accents allowed), pronounceable, unique in the list.
-- Keep EU/brand acronyms recognisable when they are the joke (MiCA, IAct, PACtor, CECAgon…): adapt only if it
-  makes a better pun in your language (e.g. PAC → CAP/GAP/WPR…).
-- Evolution families should stay visibly related (Amendon → Amendomax, Lobbyrax → Lobbyron → Lobbyzilla,
-  Inflaton → Hyperflaton, Vetoad → Vetoadmax, Roamy → Roamfree…).
-- Greek and Bulgarian: write the names in your alphabet. Hungarian/Latvian/etc.: native morphology welcome.
-- Some catalogue sentences mention a Euromon by name (listed under each name in euromon_names.txt as
-  "mentioned in"). Re-provide those sentences (full translation, your existing wording) using your new name,
-  so dialogue matches the Eurodex. Ignore false positives that refer to real things (Manneken-Pis, the MiCA
-  regulation).
-- Write ONLY `assets/i18n/<code>-9.txt` (header `# <Language> — Euromon names`). Validate with mklang.
-- In your final report, list each French name → your name, so the coordinator can review.
+## Validation (before finishing)
+- `python3 tools/i18n_check.py <code> assets/i18n/<code>-10.txt 2169` must report 0 errors and 0 missing
+  (proper names you deliberately leave out will show as missing: list them in your report).
+- `python3 tools/i18n_fit.py <code> assets/i18n/<code>-10.txt 2169` measures every string that sits in a
+  fixed-size box (buttons, titles, map names, captions) with the game's own fonts. It must report 0 `CUT`
+  (shorten those). `LINES` means a wrapped text takes more lines than the English: keep it close to the
+  English length. Add `-v` to also see the strings that only fit with the small font or condensed spacing.
+- Both checks only read files, so several translators can run them at the same time. Do NOT run build
+  tools (i18n_extract, mklang, build.sh).
+- Report: number of lines, any doubts, the strings you shortened.

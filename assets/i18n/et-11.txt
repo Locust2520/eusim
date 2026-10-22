@@ -1,0 +1,19 @@
+# Eesti — stamp mini-game, wireless debates, save error (ids 2086-2105)
+2086	Tembelda 15 kehtivat otsust 30 sekundiga. Lase läbi paberid, millel on „VÕLTS“: kui ühe tembeldad, kaotad vooru!
+2087	OTSUS
+2088	OTSUS: tembelda. VÕLTS: lase läbi.
+2089	Viisteist kehtivat otsust tembeldatud! Haldus on sinu üle uhke.
+2090	Tembeldasid kehtetu dokumendi! Kontrolli enne kinnitamist üle…
+2091	Viisteist kehtivat otsust pole valmis. Kantselei sulgub. Proovi uuesti…
+2092	Siin on tänane hunnik. Enne kantselei sulgumist tuleb tembeldada viisteist kehtivat otsust. Ettevaatust, hulka on lipsanud kehtetuid dokumente! Kas aitad mind?
+2093	Kantselei ei saa seda hunnikut kinnitada. Vaja on viisteist kehtivat otsust ja ühtegi tembeldatud kehtetut dokumenti. Proovi uuesti, kui tahad.
+2094	Jälle viisteist otsust korras! Teise õnnestumise eest saad kvalifitseeritud templi.
+2095	Veatu! Üks kvalifitseeritud tempel on sinu jaoks veel alles. Luksemburg armastab metoodilisi inimesi.
+2096	Veatu! Aga seekord pole mul sulle templit. Tule tagasi ja aita mind jälle!
+2097	Teine mängija saadab välja: %s!
+2098	Kehtetu meeskond või ühendus.
+2099	Sõbralikus väitluses pole esemed lubatud.
+2100	Sa võidad selle sõbraliku väitluse!
+2101	Teine mängija võidab selle sõbraliku väitluse!
+2102	Väitlus lõppes või ühendus katkes.
+2105	Salvestamine ebaõnnestus. Proovi uuesti.

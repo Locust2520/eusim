@@ -129,7 +129,8 @@ def charset():
     chars = set()
     for path in glob.glob(os.path.join(I18N, '*.txt')):
         chars |= set(open(path, encoding='utf-8').read())
-    for path in glob.glob(os.path.join(ROOT, 'assets', 'text', '*', '*.txt')):
+    for path in glob.glob(os.path.join(ROOT, 'assets', 'text', '*.txt')) + \
+            glob.glob(os.path.join(ROOT, 'assets', 'text', '*', '*.txt')):
         chars |= set(open(path, encoding='utf-8').read())
     return ''.join(sorted(c for c in chars if ord(c) >= 32 and c not in '\t'))
 
